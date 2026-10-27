@@ -8,7 +8,7 @@ A directory of research labs in the Boston and Cambridge area: who runs each lab
 |---|---|
 | `data/sources/<source-id>.json` | One file per department or institute: the listing pages read, the date, every lab found, and people who were checked but are not labs |
 | `data/labs.json`, `data/labs.csv` | All labs from every source, merged (generated, do not edit) |
-| `data/queue.csv` | Departments and institutes to cover, with status |
+| `data/targets.csv` | The scrape target list: 79 think tanks, policy centers, science institutes, AI groups, hospitals and departments, with start URL, priority and what to collect |
 | `scripts/build.py` | Rebuilds `labs.json` and `labs.csv` from the source files |
 | `CONVENTIONS.md` | Naming and data rules |
 
@@ -33,3 +33,16 @@ python3 scripts/build.py
 ```
 
 Sizes marked `unknown` are labs whose own websites could not be read in the first pass. They are the next thing to fill in.
+
+## Target list (`data/targets.csv`)
+
+| Column | Meaning |
+|---|---|
+| `category` | `science-institute`, `ai-research`, `university-department`, `hospital`, `university-policy-center`, `policy-think-tank`, `policy-adjacent` |
+| `start_url` | Where a scraper starts. `url_from` says where it came from: `snapshot-source` (cited in the Oct 2026 snapshot), `memory` (not yet checked, so the scraper should confirm it on the first fetch), `scraped`, or blank (to find) |
+| `priority` | 1 = many small PI-led labs or AI groups (the main target), 2 = policy centers with small teams, 3 = small standalone think tanks and advocacy groups |
+| `collect` | What to record: for labs, PI, email, admin, size and join page; for think tanks and centers, research staff, fellows, and RA/internship/careers pages |
+| `listed_in` | `snapshot` (from the attached research), `snapshot-dagger` (in the snapshot but marked not checked), `earlier-queue` |
+| `status` | `todo`, `partial`, `done` |
+
+Think tanks do not have labs, so for them the "lab" is the organization or one of its programs, and the contact is a research lead or careers page.
