@@ -8,7 +8,9 @@ A directory of research labs in the Boston and Cambridge area: who runs each lab
 |---|---|
 | `data/sources/<source-id>.json` | One file per department or institute: the listing pages read, the date, every lab found, and people who were checked but are not labs |
 | `data/labs.json`, `data/labs.csv` | All labs from every source, merged (generated, do not edit) |
-| `data/targets.csv` | The scrape target list: 236 think tanks, policy centers, science institutes, AI groups, hospitals and departments, with start URL, priority and what to collect |
+| `data/targets.csv` | The scrape target list: 638 think tanks, policy centers, science institutes, AI groups, hospitals and departments, with start URL, priority and what to collect |
+| `data/discovery/*.csv` | Raw unit lists found by crawling each institution's own index pages (Harvard, MIT, BU/Northeastern/Tufts, Brandeis/BC/UMass Boston/hospitals) |
+| `scripts/merge_discovery.py` | Folds the discovery lists into `targets.csv` |
 | `scripts/build.py` | Rebuilds `labs.json` and `labs.csv` from the source files |
 | `CONVENTIONS.md` | Naming and data rules |
 
@@ -36,7 +38,7 @@ Sizes marked `unknown` are labs whose own websites could not be read in the firs
 
 ## Target list (`data/targets.csv`)
 
-236 targets (2026-10-27): every Harvard school and its departments, research centers and labs (FAS, SEAS, HMS, Chan, HBS, HLS, HGSE, GSD, HDS, HSDM, Radcliffe, Kennedy School centers, university-wide institutes), plus Boston/Cambridge think tanks, MIT/BU/Northeastern/Tufts policy centers, Kendall Square and Longwood science institutes, AI groups and hospitals. The independent think tanks, policy centers and institutes come from the October 2026 snapshot `Think Tanks and Research Institutes in Boston & Cambridge`.
+638 targets (2026-10-27): Harvard (all schools), MIT (all schools, interdepartmental labs, every Media Lab group), Boston University, Northeastern, Tufts, Brandeis, Boston College, UMass Boston, Mass General Brigham, Boston Children's, BIDMC, Dana-Farber, Joslin, Hebrew SeniorLife, Forsyth, plus Boston/Cambridge think tanks, policy centers and Kendall Square / Longwood institutes. 401 are priority 1 (science and AI units with PI-led labs); 368 have a people/faculty directory URL. The independent think tanks and institutes come from the October 2026 snapshot `Think Tanks and Research Institutes in Boston & Cambridge`.
 
 | Column | Meaning |
 |---|---|
@@ -52,4 +54,4 @@ Sizes marked `unknown` are labs whose own websites could not be read in the firs
 
 Think tanks and policy centers do not have labs, so for them the unit is the organization or one of its programs, and the contact is a research lead or the careers page.
 
-Still to resolve: MIT, BU, Northeastern, Tufts, Brandeis, BC and UMass Boston departments, the hospitals' research institutes, and the 16 `unverified` URLs.
+Still to resolve: people pages for many centers (blank `people_url`), BU's full 132-entry centers directory (only page 1 read), Northeastern's institutes beyond the first 87, Fletcher and UMass Boston McCormack centers, and sites that loop between http and https (CSAIL, McGovern, MIT CIS, RLE).

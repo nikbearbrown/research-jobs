@@ -1,0 +1,162 @@
+id,name,school,category,start_url,people_url,careers_url,notes
+mit-school-of-science,School of Science,School of Science,school,https://science.mit.edu,,https://science.mit.edu/contact/employment-opportunities/,No faculty directory link on homepage
+mit-biology,Department of Biology,School of Science,university-department,https://biology.mit.edu/,https://biology.mit.edu/about/faculty-directory/,https://biology.mit.edu/about/employment-opportunities/,Staff: https://biology.mit.edu/about/staff/
+mit-bcs,Department of Brain and Cognitive Sciences,School of Science,university-department,https://bcs.mit.edu/,https://bcs.mit.edu/faculty,https://bcs.mit.edu/employment,Full directory: https://bcs.mit.edu/directory
+mit-chemistry,Department of Chemistry,School of Science,university-department,https://chemistry.mit.edu/,https://chemistry.mit.edu/faculty/,https://chemistry.mit.edu/about/careers/,Staff+faculty directory: https://chemistry.mit.edu/about/staff-faculty-directory/
+mit-eaps,"Department of Earth, Atmospheric and Planetary Sciences",School of Science,university-department,https://eaps.mit.edu/,https://eaps.mit.edu/people/faculty/,https://eaps.mit.edu/about/employment-opportunities/,Labs: https://eaps.mit.edu/research/affiliated-labs-centers/; full directory https://eaps.mit.edu/people/directory/
+mit-math,Department of Mathematics,School of Science,university-department,https://math.mit.edu/,https://math.mit.edu/directory/faculty,https://math.mit.edu/about/employment.html,All people: https://math.mit.edu/directory/index.html
+mit-physics,Department of Physics,School of Science,university-department,https://physics.mit.edu/,https://physics.mit.edu/faculty/,https://physics.mit.edu/about-physics/employment-opportunities/,Labs: https://physics.mit.edu/research/labs-centers/; directory https://physics.mit.edu/physics-directory/
+mit-school-of-engineering,School of Engineering,School of Engineering,school,https://engineering.mit.edu/,https://engineering.mit.edu/meet-our-faculty,https://engineering.mit.edu/faculty-openings,Centers/labs: https://engineering.mit.edu/centers-and-labs
+mit-aeroastro,Department of Aeronautics and Astronautics,School of Engineering,university-department,https://aeroastro.mit.edu/,https://aeroastro.mit.edu/faculty/,https://aeroastro.mit.edu/about-us/employment/,Homepage redirect loop; links from /research/ page; people: https://aeroastro.mit.edu/people/
+mit-be,Department of Biological Engineering,School of Engineering,university-department,https://be.mit.edu/,https://be.mit.edu/faculty/,https://be.mit.edu/about/open-staff-positions/,Research centers: https://be.mit.edu/research/research-centers/
+mit-cheme,Department of Chemical Engineering,School of Engineering,university-department,https://cheme.mit.edu/,https://cheme.mit.edu/people/faculty/,https://cheme.mit.edu/at-a-glance-2/open-positions/,
+mit-cee,Department of Civil and Environmental Engineering,School of Engineering,university-department,https://cee.mit.edu/,https://cee.mit.edu/faculty/,https://cee.mit.edu/careers/,Directory: https://cee.mit.edu/people/directory/; hubs: https://cee.mit.edu/hubs-centers/
+mit-eecs,Department of Electrical Engineering and Computer Science,School of Engineering / Schwarzman College of Computing,university-department,https://www.eecs.mit.edu/,https://www.eecs.mit.edu/people/,https://www.eecs.mit.edu/career-opportunities-at-eecs/,Staff: https://www.eecs.mit.edu/staff/
+mit-hst,Harvard-MIT Health Sciences and Technology,School of Engineering,university-department,https://hst.mit.edu,https://hst.mit.edu/faculty-research/faculty,,Finding a lab: https://hst.mit.edu/faculty-research/finding-lab
+mit-dmse,Department of Materials Science and Engineering,School of Engineering,university-department,https://dmse.mit.edu/,https://dmse.mit.edu/people/faculty/,https://dmse.mit.edu/about-us/job-opportunities/,Research staff: https://dmse.mit.edu/people/teaching-research-staff/
+mit-meche,Department of Mechanical Engineering,School of Engineering,university-department,https://meche.mit.edu/,https://meche.mit.edu/people,https://meche.mit.edu/careers,Homepage redirect loop; links from /research page; full directory https://meche.mit.edu/people/all
+mit-nse,Department of Nuclear Science and Engineering,School of Engineering,university-department,https://nse.mit.edu/,https://nse.mit.edu/people/?people_type=faculty,https://nse.mit.edu/job-postings/,All people: https://nse.mit.edu/people/
+mit-imes,Institute for Medical Engineering and Science (IMES),School of Engineering,research-center,https://imes.mit.edu/,https://imes.mit.edu/people/faculty,https://imes.mit.edu/about/career-opportunities,Homepage redirect loop; links from /research
+mit-schwarzman,MIT Schwarzman College of Computing,Schwarzman College of Computing,school,https://computing.mit.edu/,https://computing.mit.edu/faculty/,https://computing.mit.edu/faculty/faculty-openings/,Shared faculty: https://computing.mit.edu/faculty/shared-faculty/
+mit-idss,"Institute for Data, Systems, and Society (IDSS)",Schwarzman College of Computing,research-center,https://idss.mit.edu/,https://idss.mit.edu/people/faculty/,https://idss.mit.edu/about-us/opportunities/,Homepage redirect loop; directory https://idss.mit.edu/people/directory/
+mit-lids,Laboratory for Information and Decision Systems (LIDS),Schwarzman College of Computing,ai-research,http://lids.mit.edu/,https://lids.mit.edu/people,,Homepage redirect loop; people page fetched OK
+mit-csail,Computer Science and Artificial Intelligence Laboratory (CSAIL),Schwarzman College of Computing,ai-research,https://www.csail.mit.edu/,,,Fetched pages returned no nav links; /people fetch failed
+mit-shass,"School of Humanities, Arts, and Social Sciences",SHASS,school,https://shass.mit.edu/,https://shass.mit.edu/meet-our-community/faculty-academic-staff/,,Academic units: https://shass.mit.edu/about-the-school/academic-units/
+mit-anthropology,Anthropology,SHASS,university-department,https://anthropology.mit.edu/,https://anthropology.mit.edu/people/faculty,,
+mit-cmsw,Comparative Media Studies/Writing,SHASS,university-department,https://cmsw.mit.edu/,https://cmsw.mit.edu/people/,,Homepage returned no links; people page fetched OK
+mit-economics,Department of Economics,SHASS,university-department,https://economics.mit.edu/,https://economics.mit.edu/people/faculty,,Labs/centers: https://economics.mit.edu/labs-centers
+mit-global-languages,Global Languages,SHASS,university-department,https://languages.mit.edu/,https://languages.mit.edu/people/,https://languages.mit.edu/open-academic-positions/,
+mit-history,History,SHASS,university-department,https://history.mit.edu/,https://history.mit.edu/faculty/,,
+mit-linguistics,Linguistics,SHASS,university-department,https://linguistics.mit.edu/,https://linguistics.mit.edu/faculty/,,Labs: https://linguistics.mit.edu/groups-labs/
+mit-philosophy,Philosophy,SHASS,university-department,https://philosophy.mit.edu/,http://philosophy.mit.edu/faculty/,,People: http://philosophy.mit.edu/people/
+mit-literature,Literature,SHASS,university-department,https://lit.mit.edu/,https://lit.mit.edu/people/faculty/,,
+mit-mta,Music and Theater Arts,SHASS,university-department,https://mta.mit.edu/,,,No people link found on homepage
+mit-polisci,Department of Political Science,SHASS,university-department,https://polisci.mit.edu/,https://polisci.mit.edu/people/faculty,,
+mit-sts,"Science, Technology, and Society (STS)",SHASS,university-department,https://sts-program.mit.edu/,https://sts-program.mit.edu/people/sts-faculty/,,
+mit-cis,Center for International Studies (CIS),SHASS,research-center,https://cis.mit.edu/,https://cis.mit.edu/our-people,,Programs: https://cis.mit.edu/programs-projects
+mit-jpal,Abdul Latif Jameel Poverty Action Lab (J-PAL),SHASS,research-center,https://www.povertyactionlab.org/,https://www.povertyactionlab.org/affiliated-professors,https://www.povertyactionlab.org/careers,Staff: https://www.povertyactionlab.org/staff
+mit-blueprint-labs,Blueprint Labs,SHASS,research-center,https://blueprintlabs.mit.edu/,https://blueprintlabs.mit.edu/about/#team,https://blueprintlabs.mit.edu/careers,Economics dept lab
+mit-mithic,MIT Human Insight Collaborative (MITHIC),SHASS,research-center,https://mithic.mit.edu/,https://mithic.mit.edu/team/,,
+mit-sloan,MIT Sloan School of Management,Sloan,school,https://mitsloan.mit.edu/,https://mitsloan.mit.edu/faculty/faculty-directory,https://mitsloan.mit.edu/work-mit-sloan,Academic groups: https://mitsloan.mit.edu/faculty/academic-groups; centers: https://mitsloan.mit.edu/centers-initiatives
+mit-ide,MIT Initiative on the Digital Economy (IDE),Sloan,research-center,https://ide.mit.edu/,https://ide.mit.edu/directory/,,Research groups: https://ide.mit.edu/our-research/
+mit-futuretech,MIT FutureTech,Schwarzman College of Computing / CSAIL,ai-research,https://futuretech.mit.edu/,https://futuretech.mit.edu/team,https://futuretech.mit.edu/opportunities,School affiliation not confirmed from fetched page
+mit-cci,MIT Center for Collective Intelligence (CCI),Sloan,research-center,https://cci.mit.edu/,https://cci.mit.edu/people/,,
+mit-cisr,MIT Center for Information Systems Research (CISR),Sloan,research-center,https://cisr.mit.edu/,https://cisr.mit.edu/content/research,,Admin team: https://cisr.mit.edu/content/administration
+mit-ceepr,Center for Energy and Environmental Policy Research (CEEPR),Sloan,research-center,https://ceepr.mit.edu/,https://ceepr.mit.edu/peoples/mit-faculty-and-researchers/,,
+mit-iwer,Institute for Work and Employment Research (IWER),Sloan,research-center,https://mitsloan.mit.edu/institute-work-and-employment-research/about-iwer,https://mitsloan.mit.edu/faculty/faculty-directory,https://mitsloan.mit.edu/work-mit-sloan,
+mit-lfe,Laboratory for Financial Engineering (LFE),Sloan,research-center,https://lfe.mit.edu/,,,Homepage returned no links
+mit-orc,Operations Research Center (ORC),Sloan,research-center,https://orc.mit.edu/,https://orc.mit.edu/people/faculty/,,
+mit-cams,Cybersecurity at MIT Sloan (CAMS),Sloan,research-center,https://cams.mit.edu/,https://cams.mit.edu/people/,,
+mit-trust-center,Martin Trust Center for MIT Entrepreneurship,Sloan,research-center,https://entrepreneurship.mit.edu/,https://entrepreneurship.mit.edu/team/,,
+mit-ipc,MIT Industrial Performance Center,Sloan,research-center,https://ipc.mit.edu/,http://ipc.mit.edu/people,,
+mit-inm,MIT Initiative for New Manufacturing,Sloan,research-center,https://inm.mit.edu/,https://inm.mit.edu/team/,,
+mit-stone-center,Stone Center on Inequality and Shaping the Future of Work,Sloan / SHASS,research-center,https://shapingwork.mit.edu/,,https://shapingwork.mit.edu/careers/,
+mit-sloan-behavioral-lab,MIT Behavioral Research Lab,Sloan,research-center,https://mitsloan.mit.edu/centers-initiatives/behavioral-research-lab/about,,,
+mit-sloan-applied-cooperation,MIT Applied Cooperation Initiative,Sloan,research-center,https://mitsloan.mit.edu/centers-initiatives/mit-applied-cooperation-initiative/welcome,,,
+mit-sloan-climate-policy,MIT Climate Policy Center,Sloan,research-center,https://mitsloan.mit.edu/centers-initiatives/climate-policy-center/welcome,,,
+mit-sloan-cfi,Consumer Finance Initiative,Sloan,research-center,https://mitsloan.mit.edu/cfi/about-us-consumer-finance-initiative,,,
+mit-sloan-cryptoeconomics,Cryptoeconomics Lab,Sloan,research-center,https://mitsloan.mit.edu/centers-initiatives/cryptoeconomics-lab/welcome-mit-cryptoeconomics-lab,,,
+mit-sloan-fsas,Food Supply Chain Analytics and Sensing Initiative,Sloan,research-center,https://mitsloan.mit.edu/centers-initiatives/food-supply-chain-analytics-and-sensing-initiative/about,,,
+mit-sloan-gcfp,MIT Golub Center for Finance and Policy,Sloan,research-center,https://mitsloan.mit.edu/centers-initiatives/mit-gcfp/welcome,,,
+mit-sloan-health-systems,MIT Sloan Health Systems Initiative,Sloan,research-center,https://mitsloan.mit.edu/centers-initiatives/health-systems-initiative/health-systems-initiative-welcome,,,
+mit-sloan-leadership,MIT Leadership Center,Sloan,research-center,https://mitsloan.mit.edu/centers-initiatives/mit-leadership-center/welcome,,,
+mit-sloan-sustainability,MIT Sloan Sustainability Initiative,Sloan,research-center,https://mitsloan.mit.edu/sustainability-initiative/welcome,,,
+mit-kuo-sharper,MIT Kuo Sharper Center for Prosperity and Entrepreneurship,Sloan,research-center,https://mitsloan.mit.edu/ksc,,,
+mit-sap,School of Architecture and Planning,School of Architecture and Planning,school,https://sap.mit.edu/,https://sap.mit.edu/faculty,https://sap.mit.edu/careers,Labs/centers: https://sap.mit.edu/labs-centers
+mit-architecture,Department of Architecture,School of Architecture and Planning,university-department,https://architecture.mit.edu/,https://architecture.mit.edu/people,https://architecture.mit.edu/home/jobs,Research labs: https://architecture.mit.edu/research-labs
+mit-dusp,Department of Urban Studies and Planning (DUSP),School of Architecture and Planning,university-department,https://dusp.mit.edu/,https://dusp.mit.edu/people,https://dusp.mit.edu/open-positions,Labs: https://dusp.mit.edu/labs (paginated)
+mit-act,"Art, Culture, and Technology Program (ACT)",School of Architecture and Planning,university-department,https://act.mit.edu/,,,Homepage returned no link URLs
+mit-cre,MIT Center for Real Estate,School of Architecture and Planning,research-center,https://cre.mit.edu/,https://cre.mit.edu/people/,https://cre.mit.edu/about/open-positions/,PI groups/labs: https://cre.mit.edu/research/pi-groups-labs/
+mit-lcau,Norman B. Leventhal Center for Advanced Urbanism,School of Architecture and Planning,research-center,https://lcau.mit.edu/,https://lcau.mit.edu/people,https://lcau.mit.edu/positions,
+mit-mad,MIT Morningside Academy for Design,School of Architecture and Planning,research-center,https://design.mit.edu/,https://design.mit.edu/community/team,,
+mit-senseable-city,Senseable City Lab,School of Architecture and Planning,research-center,https://senseable.mit.edu/,,,Homepage returned no team link
+mit-cba,Center for Bits and Atoms (CBA),School of Architecture and Planning,research-center,http://cba.mit.edu,,,Fetch failed (https->http redirect loop)
+mit-dusp-city-form-lab,City Form Lab,School of Architecture and Planning,research-center,http://cityform.mit.edu/,,,DUSP lab
+mit-dusp-civic-data-design,Civic Data Design Lab,School of Architecture and Planning,research-center,https://civicdatadesignlab.mit.edu/,,,DUSP lab
+mit-dusp-colab,Community Innovators Lab (CoLab),School of Architecture and Planning,research-center,https://www.colab.mit.edu/,,,DUSP lab
+mit-dusp-data-feminism,Data + Feminism Lab,School of Architecture and Planning,research-center,https://dataplusfeminism.mit.edu/,,,DUSP lab
+mit-dusp-dran,Displacement Research & Action Network,School of Architecture and Planning,research-center,http://mitdisplacement.org/,,,DUSP lab
+mit-agelab,MIT AgeLab,School of Architecture and Planning,research-center,https://agelab.mit.edu/,https://agelab.mit.edu/about-us/people,https://careers.peopleclick.com/careerscp/client_mit/external/search/search.html,Listed as DUSP lab; careers is MIT-wide job search
+mit-dusp-mobility-futures,Mobility Futures Collaborative,School of Architecture and Planning,research-center,https://mfc.mit.edu/,,,DUSP lab
+mit-dusp-political-economy-lab,Political Economy Lab,School of Architecture and Planning,research-center,https://www.politicaleconomylab.mit.edu/,,,DUSP lab
+mit-dusp-rchi,Resilient Cities Housing Initiative,School of Architecture and Planning,research-center,https://rchi.mit.edu/,,,DUSP lab
+mit-dusp-resilient-communities,Resilient Communities Lab,School of Architecture and Planning,research-center,http://rcl.mit.edu/,,,DUSP lab
+mit-arch-self-assembly-lab,Self-Assembly Lab,School of Architecture and Planning,research-center,https://selfassemblylab.mit.edu/,,,Architecture lab
+mit-arch-design-intelligence,Design Intelligence Lab,School of Architecture and Planning,research-center,https://designintelligence.mit.edu/,,,Architecture lab
+mit-arch-digital-structures,Digital Structures,School of Architecture and Planning,research-center,http://digitalstructures.mit.edu/,,,Architecture lab
+mit-arch-era,MIT Environmental Research + Action (ERA),School of Architecture and Planning,research-center,https://eralabs.mit.edu,,,Architecture lab
+mit-arch-urban-risk-lab,Urban Risk Lab,School of Architecture and Planning,research-center,https://urbanrisklab.org/,,,Architecture lab
+mit-arch-sustainable-design-lab,Sustainable Design Lab,School of Architecture and Planning,research-center,http://web.mit.edu/sustainabledesignlab/,,,Architecture lab
+mit-arch-ddf,Digital Design and Fabrication,School of Architecture and Planning,research-center,http://ddf.mit.edu/,,,Architecture lab
+mit-media-lab,MIT Media Lab,School of Architecture and Planning,research-center,https://www.media.mit.edu/,https://www.media.mit.edu/people/,https://www.media.mit.edu/about/job-opportunities/,Groups: https://www.media.mit.edu/research/?filter=groups
+mit-media-lab-affective-computing,Media Lab: Affective Computing,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/affective-computing/overview/,,,
+mit-media-lab-biomechatronics,Media Lab: Biomechatronics,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/biomechatronics/overview/,,,
+mit-media-lab-camera-culture,Media Lab: Camera Culture,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/camera-culture/overview/,,,
+mit-media-lab-city-science,Media Lab: City Science,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/city-science/overview/,,,
+mit-media-lab-conformable-decoders,Media Lab: Conformable Decoders,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/conformable-decoders/overview/,,,
+mit-media-lab-critical-matter,Media Lab: Critical Matter,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/critical-matter/overview/,,,
+mit-media-lab-cyborg-psychology,Media Lab: Cyborg Psychology,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/cyborg-psychology/overview/,,,
+mit-media-lab-fluid-interfaces,Media Lab: Fluid Interfaces,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/fluid-interfaces/overview/,,,
+mit-media-lab-future-sketches,Media Lab: Future Sketches,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/future-sketches/overview/,,,
+mit-media-lab-human-dynamics,Media Lab: Human Dynamics,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/human-dynamics/overview/,,,
+mit-media-lab-lifelong-kindergarten,Media Lab: Lifelong Kindergarten,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/lifelong-kindergarten/overview/,,,
+mit-media-lab-constructive-communication,Media Lab: Center for Constructive Communication,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/center-for-constructive-communication/overview/,https://www.ccc.mit.edu/people/,,Own site: https://www.ccc.mit.edu/
+mit-media-lab-molecular-machines,Media Lab: Molecular Machines,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/molecular-machines/overview/,,,
+mit-media-lab-multisensory-intelligence,Media Lab: Multisensory Intelligence,School of Architecture and Planning,ai-research,https://www.media.mit.edu/groups/multisensory-intelligence/overview/,,,
+mit-media-lab-nano-cybernetic-biotrek,Media Lab: Nano-Cybernetic Biotrek,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/nano-cybernetic-biotrek/overview/,,,
+mit-media-lab-opera-of-the-future,Media Lab: Opera of the Future,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/opera-of-the-future/overview/,,,
+mit-media-lab-personal-robots,Media Lab: Personal Robots,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/personal-robots/overview/,,,
+mit-media-lab-responsive-environments,Media Lab: Responsive Environments,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/responsive-environments/overview/,,,
+mit-media-lab-sculpting-evolution,Media Lab: Sculpting Evolution,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/sculpting-evolution/overview/,,,
+mit-media-lab-signal-kinetics,Media Lab: Signal Kinetics,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/signal-kinetics/overview/,,,
+mit-media-lab-social-algorithms,Media Lab: Social Algorithms,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/social-algorithms/overview/,,,
+mit-media-lab-space-enabled,Media Lab: Space Enabled,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/space-enabled/overview/,,,
+mit-media-lab-tangible-media,Media Lab: Tangible Media,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/tangible-media/overview/,,,
+mit-media-lab-viral-communications,Media Lab: Viral Communications,School of Architecture and Planning,research-center,https://www.media.mit.edu/groups/viral-communications/overview/,,,
+mit-rle,Research Laboratory of Electronics (RLE),Interdepartmental,research-center,https://www.rle.mit.edu/,,,Homepage had no nav links; /people/ blocked by robots
+mit-psfc,Plasma Science and Fusion Center (PSFC),Interdepartmental,research-center,https://www.psfc.mit.edu/,https://www.psfc.mit.edu/about/people/,https://www.psfc.mit.edu/about/careers/,
+mit-lincoln-lab,MIT Lincoln Laboratory,Interdepartmental,research-center,https://www.ll.mit.edu/,https://www.ll.mit.edu/biographies,https://www.ll.mit.edu/careers,Homepage redirect loop; links from /careers; job search https://careers.ll.mit.edu/search
+mit-haystack,Haystack Observatory,Interdepartmental,research-center,https://www.haystack.mit.edu/,https://www.haystack.mit.edu/haystack-directory/,https://www.haystack.mit.edu/about/careers/,
+mit-kavli,MIT Kavli Institute for Astrophysics and Space Research,School of Science,research-center,https://space.mit.edu/,https://www.space.mit.edu/people/,https://www.space.mit.edu/join-mki/careers/,
+mit-lns,Laboratory for Nuclear Science (LNS),School of Science,research-center,https://web.mit.edu/lns/,https://web.mit.edu/lns/people/index.html,https://web.mit.edu/lns/jobs/index.html,Personnel directory says information coming soon
+mit-nano,MIT.nano,Interdepartmental,research-center,https://mitnano.mit.edu/,https://mitnano.mit.edu/people,https://mitnano.mit.edu/career-opportunities,
+mit-mtl,Microsystems Technology Laboratories (MTL),Interdepartmental,research-center,https://www.mtl.mit.edu/,https://www.mtl.mit.edu/people/core-faculty,,All people: https://www.mtl.mit.edu/people
+mit-mrl,Materials Research Laboratory (MRL),Interdepartmental,research-center,https://mrl.mit.edu/,https://mrl.mit.edu/all-faculty,,
+mit-isn,Institute for Soldier Nanotechnologies (ISN),Interdepartmental,research-center,https://isn.mit.edu/,https://isn.mit.edu/people,,
+mit-koch,Koch Institute for Integrative Cancer Research,Interdepartmental,research-center,https://ki.mit.edu/,https://ki.mit.edu/people/faculty,,
+mit-mcgovern,McGovern Institute for Brain Research,Interdepartmental,research-center,https://mcgovern.mit.edu/,https://mcgovern.mit.edu/researchers/,https://mcgovern.mit.edu/about/careers/,
+mit-picower,Picower Institute for Learning and Memory,Interdepartmental,research-center,https://picower.mit.edu/,https://picower.mit.edu/faculty,https://picower.mit.edu/about/careers,
+mit-scsb,Simons Center for the Social Brain,Interdepartmental,research-center,https://scsb.mit.edu/,https://scsb.mit.edu/people/investigators/,,
+mit-cbmm,"Center for Brains, Minds and Machines (CBMM)",Interdepartmental,ai-research,https://cbmm.mit.edu/,https://cbmm.mit.edu/research/principal-investigators,,People: https://cbmm.mit.edu/about/people
+mit-quest,MIT Siegel Family Quest for Intelligence,Interdepartmental,ai-research,https://sqi.mit.edu/,https://sqi.mit.edu/research/researchers,https://sqi.mit.edu/about/job-opportunities,quest.mit.edu redirects here
+mit-jclinic,Abdul Latif Jameel Clinic for Machine Learning in Health,Interdepartmental,ai-research,https://jclinic.mit.edu/,https://jclinic.mit.edu/about-mit-jameel-clinic/team/,https://jclinic.mit.edu/jobs/,
+mit-ibm-lab,MIT-IBM Computing Research Lab,Interdepartmental,ai-research,https://mitibm.mit.edu,https://mitibm.mit.edu/about/people/,,
+mit-genai-consortium,MIT Generative AI Impact Consortium,Interdepartmental,ai-research,https://genai.mit.edu/,,,No people link on homepage
+mit-raise,Responsible AI for Social Empowerment and Education (RAISE),Interdepartmental,ai-research,https://raise.mit.edu/,https://raise.mit.edu/people/,,
+mit-broad,Broad Institute of MIT and Harvard,Affiliated institute,research-center,https://www.broadinstitute.org/,https://www.broadinstitute.org/people,https://www.broadinstitute.org/careers,
+mit-whitehead,Whitehead Institute for Biomedical Research,Affiliated institute,research-center,https://wi.mit.edu/,https://wi.mit.edu/people,https://wi.mit.edu/careers,Directory: https://directory.wi.mit.edu
+mit-mitei,MIT Energy Initiative (MITEI),Interdepartmental,research-center,https://energy.mit.edu/,https://energy.mit.edu/people,https://energy.mit.edu/about/careers,Homepage redirect loop; people page fetched OK
+mit-cs3,Center for Sustainability Science and Strategy (CS3),Interdepartmental,research-center,https://cs3.mit.edu/,https://cs3.mit.edu/about-us/personnel,https://cs3.mit.edu/about-us/jobs,globalchange.mit.edu (Center for Global Change Science / Joint Program) redirects here
+mit-jwafs,Abdul Latif Jameel Water and Food Systems Lab (J-WAFS),Interdepartmental,research-center,https://jwafs.mit.edu/,https://jwafs.mit.edu/about/our-team,https://jwafs.mit.edu/about/open-positions,
+mit-jwel,Abdul Latif Jameel World Education Lab (J-WEL),Interdepartmental,research-center,https://jwel.mit.edu/,,,No team link on homepage
+mit-sea-grant,MIT Sea Grant,Interdepartmental,research-center,https://seagrant.mit.edu/,https://seagrant.mit.edu/people/,,
+mit-climate-project,Climate Project at MIT,Interdepartmental,research-center,https://climateproject.mit.edu/,https://climateproject.mit.edu/staff-directory,,
+mit-quantum,MIT Quantum Initiative,Interdepartmental,research-center,https://quantum.mit.edu/,https://quantum.mit.edu/qmit-leadership/,,Leadership page only
+mit-ccse,Center for Computational Science and Engineering (CCSE),Schwarzman College of Computing,research-center,https://cse.mit.edu/,https://cse.mit.edu/people/,,cce.mit.edu redirects here
+mit-ctl,Center for Transportation and Logistics (CTL),School of Engineering,research-center,https://ctl.mit.edu/,https://ctl.mit.edu/people,https://ctl.mit.edu/job-opportunities,Labs: https://ctl.mit.edu/research
+mit-ssrc,Sociotechnical Systems Research Center (SSRC),School of Engineering,research-center,https://ssrc.mit.edu/,https://ssrc.mit.edu/people/,,
+mit-lmp,Laboratory for Manufacturing and Productivity (LMP),School of Engineering,research-center,https://lmp.mit.edu/,,,No people directory; homepage links to MechE faculty profiles
+mit-nrl,Nuclear Reactor Laboratory (NRL),Interdepartmental,research-center,https://nrl.mit.edu/,https://nrl.mit.edu/people/,https://nrl.mit.edu/about/careers/,
+mit-d-lab,MIT D-Lab,School of Engineering,research-center,https://d-lab.mit.edu/,https://d-lab.mit.edu/about/people,https://d-lab.mit.edu/about/employment-opportunities,
+mit-deshpande,Deshpande Center for Technological Innovation,School of Engineering,research-center,https://deshpande.mit.edu/,https://deshpande.mit.edu/team/,,
+mit-edgerton,Edgerton Center,School of Engineering,research-center,https://edgerton.mit.edu/,https://edgerton.mit.edu/about/staff,,
+mit-cshub,Concrete Sustainability Hub,School of Engineering,research-center,http://cshub.mit.edu/,,,Fetch failed (https->http redirect loop)
+mit-cehs,Center for Environmental Health Sciences (CEHS),Interdepartmental,research-center,https://cehs.mit.edu/,https://cehs.mit.edu/members/,,
+mit-dcm,Division of Comparative Medicine (DCM),Interdepartmental,research-center,https://comp-med.mit.edu/,https://comp-med.mit.edu/about-dcm/personnel,,
+mit-cctr,Center for Clinical and Translational Research,Interdepartmental,research-center,https://cctr.mit.edu/,https://cctr.mit.edu/who-we-are/people,,
+mit-heals,Health and Life Sciences Collaborative (HEALS),Interdepartmental,research-center,https://heals.mit.edu/,,,No people link on homepage
+mit-ipri,Internet Policy Research Initiative (IPRI),Interdepartmental,research-center,https://internetpolicy.mit.edu/,https://internetpolicy.mit.edu/people-2/,,
+mit-mobility-initiative,MIT Mobility Initiative,Interdepartmental,research-center,https://www.mmi.mit.edu/,https://www.mmi.mit.edu/people,,
+mit-smart,Singapore-MIT Alliance for Research and Technology (SMART),Interdepartmental,research-center,http://smart.mit.edu/,,,Fetch failed (https->http redirect loop)
+mit-whoi-joint-program,MIT-WHOI Joint Program in Oceanography/Applied Ocean Science and Engineering,Interdepartmental,research-center,https://mit.whoi.edu/,,,Homepage returned no link URLs
+mit-cast,"MIT Center for Art, Science, and Technology (CAST)",Interdepartmental,research-center,http://arts.mit.edu/cast/,,,Not fetched

@@ -1,0 +1,172 @@
+id,name,school,category,start_url,people_url,url_from,notes
+harvard-fas,Faculty of Arts and Sciences,FAS,school,https://www.fas.harvard.edu/,,fetch,"Department index: https://www.fas.harvard.edu/explore-our-departments-programs-and-offices (paginated, ?page=0..10)"
+harvard-astronomy,Department of Astronomy,FAS,university-department,https://astronomy.fas.harvard.edu/,https://astronomy.fas.harvard.edu/people,fetch,
+harvard-chemistry,Department of Chemistry and Chemical Biology,FAS,university-department,https://www.chemistry.harvard.edu/,https://www.chemistry.harvard.edu/allpeople,fetch,Faculty-filtered view available via /people with facet filters
+harvard-eps,Department of Earth and Planetary Sciences,FAS,university-department,https://eps.harvard.edu/,https://eps.harvard.edu/people/,fetch,
+harvard-heb,Department of Human Evolutionary Biology,FAS,university-department,https://heb.fas.harvard.edu/,https://heb.fas.harvard.edu/people,fetch,FAS index lists it as Human Biology Behavior and Evolution
+harvard-mcb,Department of Molecular and Cellular Biology,FAS,university-department,https://www.mcb.harvard.edu/,https://www.mcb.harvard.edu/resources/directory/,fetch,Faculty profiles: https://www.mcb.harvard.edu/faculty/faculty-profiles/
+harvard-oeb,Department of Organismic and Evolutionary Biology,FAS,university-department,https://www.oeb.harvard.edu/,https://www.oeb.harvard.edu/people,fetch,Faculty filter: /people?f%5B0%5D=hwp_c_people12345678910111%3A48886
+harvard-physics,Department of Physics,FAS,university-department,https://www.physics.harvard.edu/,https://www.physics.harvard.edu/people/faculty,fetch,All people: https://www.physics.harvard.edu/people
+harvard-psychology,Department of Psychology,FAS,university-department,https://psychology.fas.harvard.edu/,https://psychology.fas.harvard.edu/people,fetch,
+harvard-scrb,Department of Stem Cell and Regenerative Biology,FAS/HMS,university-department,https://hscrb.harvard.edu/,https://hscrb.harvard.edu/faculty/,fetch,Joint FAS/HMS department; also https://hscrb.harvard.edu/people/
+harvard-statistics,Department of Statistics,FAS,university-department,https://statistics.fas.harvard.edu/,https://statistics.fas.harvard.edu/faculty,fetch,
+harvard-math,Department of Mathematics,FAS,university-department,https://www.math.harvard.edu/,https://www.math.harvard.edu/people/,fetch,
+harvard-economics,Department of Economics,FAS,university-department,https://www.economics.harvard.edu/,https://www.economics.harvard.edu/our-people,fetch,Footer also links https://www.economics.harvard.edu/people
+harvard-government,Department of Government,FAS,university-department,https://www.gov.harvard.edu/,https://www.gov.harvard.edu/people/,fetch,Faculty: https://www.gov.harvard.edu/faculty/
+harvard-sociology,Department of Sociology,FAS,university-department,https://sociology.fas.harvard.edu/,https://sociology.fas.harvard.edu/people/faculty,fetch,
+harvard-history-of-science,Department of the History of Science,FAS,university-department,https://histsci.fas.harvard.edu/,https://prod-hos.drupalsites.harvard.edu/faculty-0?f%5B0%5D=hwp_c_currentpeople%3A133321,fetch,Faculty link points to a drupalsites host; may redirect
+harvard-linguistics,Department of Linguistics,FAS,university-department,https://linguistics.fas.harvard.edu/,https://linguistics.fas.harvard.edu/people/faculty,fetch,
+harvard-anthropology,Department of Anthropology,FAS,university-department,https://anthropology.fas.harvard.edu/,https://anthropology.fas.harvard.edu/department-members,fetch,
+harvard-biophysics,Biophysics Program,FAS,university-department,https://biophysics.fas.harvard.edu/,https://biophysics.fas.harvard.edu/people,fetch,Graduate program
+harvard-philosophy,Department of Philosophy,FAS,university-department,http://philosophy.fas.harvard.edu/,,fetch,Homepage fetch blocked; people URL not confirmed
+harvard-aaas,Department of African and African American Studies,FAS,university-department,http://aaas.fas.harvard.edu/,,fetch,People URL not checked
+harvard-history,Department of History,FAS,university-department,http://history.fas.harvard.edu/,,fetch,People URL not checked
+harvard-cbs,Center for Brain Science,FAS,research-center,https://cbs.fas.harvard.edu/,https://cbs.fas.harvard.edu/people/,fetch,
+harvard-cns,Center for Nanoscale Systems,FAS,research-center,http://cns.fas.harvard.edu/,,fetch,SEAS lists it as https://cns1.rc.fas.harvard.edu/
+harvard-ciqm,Center for Integrated Quantum Materials,FAS,research-center,https://ciqm.harvard.edu/,,fetch,
+harvard-mrsec,Materials Research Science and Engineering Center,FAS/SEAS,research-center,https://www.mrsec.harvard.edu/,,fetch,
+harvard-hqi,Harvard Quantum Initiative,University,research-center,https://quantum.harvard.edu/,,fetch,No people link found on homepage
+harvard-cmsa,Center of Mathematical Sciences and Applications,FAS,research-center,https://cmsa.fas.harvard.edu/,https://cmsa.fas.harvard.edu/people/,fetch,
+harvard-msi,Microbial Sciences Initiative,FAS,research-center,https://msi.harvard.edu/,https://msi.harvard.edu/People_HarvardFaculty,fetch,
+harvard-origins,Origins of Life Initiative,FAS,research-center,https://origins.harvard.edu/,,fetch,
+harvard-iqss,Institute for Quantitative Social Science,FAS,research-center,https://www.iq.harvard.edu/,https://www.iq.harvard.edu/our-people,fetch,
+harvard-hsci,Harvard Stem Cell Institute,University,research-center,https://www.hsci.harvard.edu/,https://www.hsci.harvard.edu/faculty,fetch,
+harvard-kempner,Kempner Institute for the Study of Natural and Artificial Intelligence,University,research-center,https://kempnerinstitute.harvard.edu/,https://kempnerinstitute.harvard.edu/people/our-people/,fetch,
+wyss,Wyss Institute for Biologically Inspired Engineering,University,research-center,https://wyss.harvard.edu/,https://wyss.harvard.edu/team/,fetch,
+harvard-lppc,Laboratory for Particle Physics and Cosmology,FAS,research-center,http://lppc.physics.harvard.edu/,,fetch,
+harvard-smithsonian-cfa,Center for Astrophysics | Harvard & Smithsonian,FAS,research-center,https://www.cfa.harvard.edu/,,fetch,Includes Harvard College Observatory and ITC (https://itc.cfa.harvard.edu/)
+harvard-mcz,Museum of Comparative Zoology,FAS,research-center,http://www.mcz.harvard.edu/,,fetch,
+harvard-herbaria,Harvard University Herbaria,FAS,research-center,http://www.huh.harvard.edu/,,fetch,
+harvard-peabody,Peabody Museum of Archaeology and Ethnology,FAS,research-center,https://peabody.harvard.edu/,,fetch,
+harvard-opportunity-insights,Opportunity Insights,FAS,research-center,https://opportunityinsights.org/,,fetch,
+harvard-ethics,Edmond and Lily Safra Center for Ethics,University,research-center,https://ethics.harvard.edu/,,fetch,
+harvard-weatherhead,Weatherhead Center for International Affairs,FAS,research-center,http://www.wcfia.harvard.edu/,,fetch,
+harvard-seas,John A. Paulson School of Engineering and Applied Sciences,SEAS,school,https://seas.harvard.edu/,https://seas.harvard.edu/faculty,fetch,Centers list: https://seas.harvard.edu/faculty/centers-initiatives
+harvard-seas-applied-math,Applied Mathematics,SEAS,university-department,https://seas.harvard.edu/applied-mathematics,https://seas.harvard.edu/applied-mathematics/people,fetch,
+harvard-seas-applied-physics,Applied Physics,SEAS,university-department,https://seas.harvard.edu/applied-physics,https://seas.harvard.edu/applied-physics/people,fetch,
+harvard-seas-bioengineering,Bioengineering,SEAS,university-department,https://seas.harvard.edu/bioengineering,https://seas.harvard.edu/bioengineering/people,fetch,
+harvard-seas-cs,Computer Science,SEAS,university-department,https://seas.harvard.edu/computer-science,https://seas.harvard.edu/computer-science/people,fetch,
+harvard-seas-ece,Electrical and Computer Engineering,SEAS,university-department,https://seas.harvard.edu/electrical-computer-engineering,,fetch,The /people page fetch failed; other SEAS areas use /people
+harvard-seas-ese,Environmental Science and Engineering,SEAS,university-department,https://seas.harvard.edu/environmental-science-engineering,https://seas.harvard.edu/environmental-science-engineering/people,fetch,
+harvard-seas-msme,Materials Science and Mechanical Engineering,SEAS,university-department,https://seas.harvard.edu/materials-science-mechanical-engineering,https://seas.harvard.edu/materials-science-mechanical-engineering/people,fetch,
+harvard-hms,Harvard Medical School,HMS,school,https://hms.harvard.edu/,,fetch,Department index: https://hms.harvard.edu/departments (paginated)
+harvard-hms-bcmp,Biological Chemistry and Molecular Pharmacology,HMS,university-department,https://bcmp.hms.harvard.edu/,https://bcmp.hms.harvard.edu/people,fetch,
+harvard-hms-dbmi,Department of Biomedical Informatics,HMS,university-department,https://dbmi.hms.harvard.edu/,https://dbmi.hms.harvard.edu/people,fetch,Homepage redirects from https to http
+harvard-hms-cellbio,Department of Cell Biology,HMS,university-department,https://cellbio.hms.harvard.edu/,https://cellbio.hms.harvard.edu/people,fetch,
+harvard-hms-genetics,Department of Genetics,HMS,university-department,https://genetics.hms.harvard.edu/,https://genetics.hms.harvard.edu/people,fetch,
+harvard-hms-ghsm,Department of Global Health and Social Medicine,HMS,university-department,https://ghsm.hms.harvard.edu/,https://ghsm.hms.harvard.edu/people,fetch,
+harvard-hms-hcp,Department of Health Care Policy,HMS,university-department,https://hcp.hms.harvard.edu/,https://hcp.hms.harvard.edu/people,fetch,
+harvard-hms-immunology,Department of Immunology,HMS,university-department,https://immunology.hms.harvard.edu/,https://immunology.hms.harvard.edu/people/faculty,fetch,
+harvard-hms-microbiology,Department of Microbiology,HMS,university-department,https://micro.hms.harvard.edu/,https://micro.hms.harvard.edu/faculty,fetch,
+harvard-hms-neurobiology,Department of Neurobiology,HMS,university-department,https://neuro.hms.harvard.edu/,https://neuro.hms.harvard.edu/people,fetch,
+harvard-hms-sysbio,Department of Systems Biology,HMS,university-department,https://sysbio.med.harvard.edu/,https://sysbio.med.harvard.edu/facultyprofiles,fetch,
+harvard-hms-bioethics,Center for Bioethics,HMS,research-center,https://bioethics.hms.harvard.edu/,,fetch,
+harvard-hms-hmni,Harvard Mahoney Neuroscience Institute,HMS,research-center,https://neuro.hms.harvard.edu/centers-and-initiatives/about-hmni,,fetch,
+harvard-hms-therapeutics,Therapeutics Initiative,HMS,research-center,https://therapeutics.hms.harvard.edu/,,fetch,
+harvard-hms-hits,Harvard Program in Therapeutic Science (HiTS),HMS,research-center,http://hits.harvard.edu/,,fetch,
+harvard-hst,Harvard-MIT Health Sciences and Technology,HMS,university-department,http://hst.harvard.edu/,,fetch,
+harvard-hms-primarycare,Center for Primary Care,HMS,research-center,https://primarycare.hms.harvard.edu/,,fetch,
+harvard-hsph,Harvard T.H. Chan School of Public Health,HSPH,school,https://hsph.harvard.edu/,https://hsph.harvard.edu/profiles/,fetch,Department pages use hsph.harvard.edu/department/<slug>/
+harvard-hsph-biostatistics,Department of Biostatistics,HSPH,university-department,https://hsph.harvard.edu/department/biostatistics/,https://hsph.harvard.edu/profiles/?hsph_initiator=filterablePostListFE&hsph_department_taxonomy=209404,fetch,
+harvard-hsph-environmental-health,Department of Environmental Health,HSPH,university-department,https://hsph.harvard.edu/department/environmental-health/,https://hsph.harvard.edu/department/environmental-health/faculty-researchers/,fetch,
+harvard-hsph-epidemiology,Department of Epidemiology,HSPH,university-department,https://hsph.harvard.edu/department/epidemiology/,https://hsph.harvard.edu/department/epidemiology/faculty/,fetch,
+harvard-hsph-ghp,Department of Global Health and Population,HSPH,university-department,https://hsph.harvard.edu/department/global-health-population/,https://hsph.harvard.edu/profiles/?hsph_initiator=filterablePostListFE&hsph_department_taxonomy=209748,fetch,
+harvard-hsph-hpm,Department of Health Policy and Management,HSPH,university-department,https://hsph.harvard.edu/department/health-policy-management/,https://hsph.harvard.edu/profiles/?hsph_department_taxonomy=209756,fetch,
+harvard-hsph-iid,Department of Immunology and Infectious Diseases,HSPH,university-department,https://hsph.harvard.edu/department/immunology-infectious-diseases/,https://hsph.harvard.edu/profiles/?hsph_initiator=filterablePostListFE&hsph_department_taxonomy=209746,fetch,
+harvard-hsph-molecular-metabolism,Department of Molecular Metabolism,HSPH,university-department,https://hsph.harvard.edu/department/molecular-metabolism/,https://hsph.harvard.edu/department/molecular-metabolism/faculty/,fetch,Researchers: /researchers/
+harvard-hsph-nutrition,Department of Nutrition,HSPH,university-department,https://hsph.harvard.edu/department/nutrition/,https://hsph.harvard.edu/department/nutrition/faculty-and-researcher-profiles/,fetch,
+harvard-hsph-sbs,Department of Social and Behavioral Sciences,HSPH,university-department,https://hsph.harvard.edu/department/social-behavioral-sciences/,https://hsph.harvard.edu/profiles/?hsph_initiator=filterablePostListFE&hsph_department_taxonomy=209752,fetch,
+harvard-hbs,Harvard Business School,HBS,school,https://www.hbs.edu/,https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current,fetch,Initiatives list: https://www.hbs.edu/faculty/research/Pages/initiatives-projects.aspx
+harvard-hbs-am,Accounting and Management Unit,HBS,university-department,https://www.hbs.edu/faculty/units/am/Pages/default.aspx,,fetch,
+harvard-hbs-bgie,"Business, Government and the International Economy Unit",HBS,university-department,https://www.hbs.edu/faculty/units/bgie/Pages/default.aspx,,fetch,
+harvard-hbs-em,Entrepreneurial Management Unit,HBS,university-department,https://www.hbs.edu/faculty/units/em/Pages/default.aspx,,fetch,
+harvard-hbs-finance,Finance Unit,HBS,university-department,https://www.hbs.edu/faculty/units/finance/Pages/default.aspx,,fetch,
+harvard-hbs-gm,General Management Unit,HBS,university-department,https://www.hbs.edu/faculty/units/gm/Pages/default.aspx,,fetch,
+harvard-hbs-marketing,Marketing Unit,HBS,university-department,https://www.hbs.edu/faculty/units/marketing/Pages/default.aspx,,fetch,
+harvard-hbs-nom,"Negotiation, Organizations and Markets Unit",HBS,university-department,https://www.hbs.edu/faculty/units/nom/Pages/default.aspx,,fetch,
+harvard-hbs-ob,Organizational Behavior Unit,HBS,university-department,https://www.hbs.edu/faculty/units/ob/Pages/default.aspx,,fetch,
+harvard-hbs-strategy,Strategy Unit,HBS,university-department,https://www.hbs.edu/faculty/units/strategy/Pages/default.aspx,,fetch,
+harvard-hbs-tom,Technology and Operations Management Unit,HBS,university-department,https://www.hbs.edu/faculty/units/tom/Pages/default.aspx,,fetch,
+harvard-hbs-ai-institute,HBS AI Institute (formerly Digital Data Design Institute),HBS,research-center,https://aiinstitute.hbs.edu/,https://aiinstitute.hbs.edu/our-team/,fetch,Renamed in 2026; labs: https://aiinstitute.hbs.edu/labs/
+harvard-hbs-lish,Laboratory for Innovation Science at Harvard,HBS,research-center,https://aiinstitute.hbs.edu/lish/,,fetch,lish.harvard.edu redirects here
+harvard-hbs-bigs,Institute for Business in Global Society,HBS,research-center,https://www.hbs.edu/bigs,,fetch,
+harvard-hbs-future-of-work,Managing the Future of Work,HBS,research-center,https://www.hbs.edu/managing-the-future-of-work/Pages/default.aspx,,fetch,
+harvard-hbs-behavioral-finance,Behavioral Finance and Financial Stability,HBS,research-center,https://www.hbs.edu/behavioral-finance-and-financial-stability/Pages/default.aspx,,fetch,
+harvard-hls,Harvard Law School,HLS,school,https://hls.harvard.edu/,https://hls.harvard.edu/faculty/,fetch,Programs list: https://hls.harvard.edu/research-programs-centers/
+harvard-hls-a2j,Access to Justice Lab,HLS,research-center,https://a2jlab.org/,,fetch,
+harvard-berkman-klein,Berkman Klein Center for Internet and Society,HLS,research-center,https://cyber.harvard.edu/,,fetch,
+harvard-hls-animal-law,Animal Law and Policy Program,HLS,research-center,https://animal.law.harvard.edu/,,fetch,
+harvard-hls-clje,Center for Labor and a Just Economy,HLS,research-center,https://clje.law.harvard.edu/,,fetch,
+harvard-hls-clp,Center on the Legal Profession,HLS,research-center,https://clp.law.harvard.edu/,,fetch,
+harvard-hls-chhirj,Charles Hamilton Houston Institute for Race and Justice,HLS,research-center,https://charleshamiltonhouston.org/,,fetch,
+harvard-hls-eals,East Asian Legal Studies Program,HLS,research-center,https://eals.law.harvard.edu/,,fetch,
+harvard-hls-eelp,Environmental and Energy Law Program,HLS,research-center,https://eelp.law.harvard.edu/,,fetch,
+harvard-hls-hpod,Project on Disability,HLS,research-center,https://hpod.law.harvard.edu/,,fetch,
+harvard-hls-hnmcp,Negotiation and Mediation Clinical Program,HLS,research-center,https://hnmcp.law.harvard.edu/,,fetch,
+harvard-hls-hrp,Human Rights Program,HLS,research-center,https://hrp.law.harvard.edu/,,fetch,
+harvard-hls-iglp,Institute for Global Law and Policy,HLS,research-center,https://iglp.law.harvard.edu/,,fetch,
+harvard-hls-iemi,Institute to End Mass Incarceration,HLS,research-center,https://endmassincarceration.org/,,fetch,
+harvard-hls-olin,"John M. Olin Center for Law, Economics, and Business",HLS,research-center,https://laweconcenter.law.harvard.edu/,,fetch,
+harvard-hls-pjil,Julis-Rabinowitz Program on Jewish and Israeli Law,HLS,research-center,https://pjil.law.harvard.edu/,,fetch,
+harvard-hls-petrie-flom,"Petrie-Flom Center for Health Law Policy, Biotechnology, and Bioethics",HLS,research-center,https://petrieflom.law.harvard.edu/,,fetch,
+harvard-hls-pil,Program in Islamic Law,HLS,research-center,https://pil.law.harvard.edu/,,fetch,
+harvard-hls-pblcls,Program on Biblical Law and Christian Legal Studies,HLS,research-center,https://pblcls.law.harvard.edu/,,fetch,
+harvard-hls-behavioral-econ,Program on Behavioral Economics and Public Policy,HLS,research-center,https://hls.harvard.edu/program-on-behavioral-economics-and-public-policy/,,fetch,
+harvard-hls-pcg,Program on Corporate Governance,HLS,research-center,https://pcg.law.harvard.edu/,,fetch,
+harvard-hls-pii,Program on Institutional Investors,HLS,research-center,http://www.pii.law.harvard.edu/,,fetch,
+harvard-hls-pilac,Program on International Law and Armed Conflict,HLS,research-center,https://pilac.law.harvard.edu/,,fetch,
+harvard-hls-lpe,Program on Law and Political Economy,HLS,research-center,https://lpe.law.harvard.edu/,,fetch,
+harvard-hls-plsmw,Program on Law and Society in the Muslim World,HLS,research-center,https://plsmw.law.harvard.edu/,,fetch,
+harvard-hls-pon,Program on Negotiation,HLS,research-center,https://www.pon.harvard.edu/,,fetch,Includes the Harvard Negotiation Project
+harvard-hls-sjp,Systemic Justice Project,HLS,research-center,https://systemicjustice.org/,,fetch,
+harvard-hls-tax,Tax Law Program,HLS,research-center,https://tax.law.harvard.edu/,,fetch,
+harvard-hls-ylab,Youth Advocacy and Policy Lab,HLS,research-center,https://ylab.law.harvard.edu/,,fetch,
+harvard-gse,Harvard Graduate School of Education,HGSE,school,https://www.gse.harvard.edu/,https://www.gse.harvard.edu/directory/faculty,fetch,Centers and labs list: https://www.gse.harvard.edu/faculty/centers-projects-and-initiatives
+harvard-gse-cepr,Center for Education Policy Research,HGSE,research-center,https://cepr.harvard.edu/,,fetch,
+harvard-gse-developing-child,Center on the Developing Child,HGSE,research-center,https://developingchild.harvard.edu/,,fetch,
+harvard-gse-digital-thriving,Center for Digital Thriving,HGSE,research-center,https://digitalthriving.gse.harvard.edu/,,fetch,
+harvard-gse-project-zero,Project Zero,HGSE,research-center,https://pz.harvard.edu/,,fetch,
+harvard-gse-mcc,Making Caring Common,HGSE,research-center,https://mcc.gse.harvard.edu/,,fetch,
+harvard-gse-zaentz,Saul Zaentz Early Education Initiative,HGSE,research-center,https://zaentz.gse.harvard.edu/,,fetch,
+harvard-gse-reach-every-reader,Reach Every Reader,HGSE,research-center,https://reacheveryreader.gse.harvard.edu/,,fetch,
+harvard-gse-easel,EASEL Lab,HGSE,research-center,https://easel.gse.harvard.edu/,,fetch,
+harvard-gse-bridges,BRIDGES Lab,HGSE,research-center,http://bridgeslab.gse.harvard.edu/,,fetch,
+harvard-gse-cares,C.A.R.E.S. Lab,HGSE,research-center,https://cares.gse.harvard.edu/,,fetch,
+harvard-gse-ccdlab,Computational Cognitive Development Lab,HGSE,research-center,https://projects.iq.harvard.edu/ccdlab/home,,fetch,
+harvard-gse-creative-computing,Creative Computing Lab,HGSE,research-center,https://creativecomputing.gse.harvard.edu/,,fetch,
+harvard-gse-learn-labs,LEARN Labs,HGSE,research-center,https://projects.iq.harvard.edu/learnlab,,fetch,
+harvard-gse-seed,SEED Lab,HGSE,research-center,https://seed.gse.harvard.edu/,,fetch,
+harvard-gse-xmedia,XMedia Lab,HGSE,research-center,https://xmedia.gse.harvard.edu/,,fetch,
+harvard-gse-ella,Education Lab for Latin America,HGSE,research-center,https://ella.gse.harvard.edu/,,fetch,
+harvard-gse-coache,Collaborative on Academic Careers in Higher Education,HGSE,research-center,https://coache.gse.harvard.edu/,,fetch,
+harvard-gsd,Harvard Graduate School of Design,GSD,school,https://www.gsd.harvard.edu/,https://www.gsd.harvard.edu/people/faculty/,fetch,Labs: https://www.gsd.harvard.edu/research/groups-and-labs/
+harvard-gsd-cgbc,Harvard Center for Green Buildings and Cities,GSD,research-center,https://harvardcgbc.org/,,fetch,
+harvard-jchs,Joint Center for Housing Studies,GSD,research-center,https://www.jchs.harvard.edu/,,fetch,
+harvard-gsd-grg,Grinham Research Group,GSD,research-center,https://research.gsd.harvard.edu/grg/,,fetch,
+harvard-gsd-healthy-places,Healthy Places Lab,GSD,research-center,https://research.gsd.harvard.edu/healthy/,,fetch,
+harvard-gsd-just-city,Just City Lab,GSD,research-center,https://www.designforthejustcity.org/,,fetch,
+harvard-gsd-maps,Material Processes and Systems Group,GSD,research-center,https://research.gsd.harvard.edu/maps/,,fetch,
+harvard-gsd-real,Responsive Environments and Artifacts Lab,GSD,research-center,https://research.gsd.harvard.edu/real/,,fetch,
+harvard-gsd-vibe,Laboratory for Values in the Built Environment,GSD,research-center,https://research.gsd.harvard.edu/vibelab/,,fetch,
+harvard-gsd-ldt,Laboratory for Design Technologies,GSD,research-center,https://research.gsd.harvard.edu/ldt/,,fetch,
+harvard-gsd-urbanization,Office for Urbanization,GSD,research-center,http://officeforurbanization.org/,,fetch,
+harvard-hds,Harvard Divinity School,HDS,school,https://hds.harvard.edu/,https://www.hds.harvard.edu/faculty-research/faculty-of-divinity,fetch,Programs: https://www.hds.harvard.edu/faculty-research/programs-and-centers
+harvard-hds-cswr,Center for the Study of World Religions,HDS,research-center,https://cswr.hds.harvard.edu/,,fetch,
+harvard-hds-pluralism,Pluralism Project,HDS,research-center,https://pluralism.org/,,fetch,
+harvard-hds-pes,Program for the Evolution of Spirituality,HDS,research-center,https://pes.hds.harvard.edu/,,fetch,
+harvard-hds-shiism,Project on Shi'ism and Global Affairs,HDS,research-center,https://shiism.hds.harvard.edu/,,fetch,
+harvard-hds-rpl,Religion and Public Life,HDS,research-center,https://rpl.hds.harvard.edu/,,fetch,
+harvard-hds-wsrp,Women's Studies in Religion Program,HDS,research-center,https://wsrp.hds.harvard.edu/,,fetch,
+harvard-hsdm,Harvard School of Dental Medicine,HSDM,school,https://hsdm.harvard.edu/,https://www.hsdm.harvard.edu/hsdm-directory,fetch,Labs: https://www.hsdm.harvard.edu/laboratories
+harvard-hsdm-devbio,Department of Developmental Biology,HSDM,university-department,https://www.hsdm.harvard.edu/developmental-biology,,fetch,
+harvard-hsdm-omfs,Department of Oral and Maxillofacial Surgery,HSDM,university-department,https://www.hsdm.harvard.edu/oral-and-maxillofacial-surgery-program,,fetch,
+harvard-hsdm-ohpe,Department of Oral Health Policy and Epidemiology,HSDM,university-department,https://www.hsdm.harvard.edu/oral-health-policy-and-epidemiology,,fetch,
+harvard-hsdm-omii,"Department of Oral Medicine, Infection, and Immunity",HSDM,university-department,https://www.hsdm.harvard.edu/oral-medicine-infection-and-immunity,,fetch,
+harvard-hsdm-rdbs,Department of Restorative Dentistry and Biomaterials Sciences,HSDM,university-department,https://www.hsdm.harvard.edu/restorative-dentistry-and-biomaterials-sciences,,fetch,
+harvard-radcliffe,Harvard Radcliffe Institute,Radcliffe,school,https://www.radcliffe.harvard.edu/,https://www.radcliffe.harvard.edu/radcliffe-fellowship/fellows,fetch,Research: https://www.radcliffe.harvard.edu/research-at-radcliffe
+harvard-hdsi,Harvard Data Science Initiative,University,research-center,https://datascience.harvard.edu/,https://datascience.harvard.edu/people/,fetch,
+harvard-huce,Harvard University Center for the Environment,University,research-center,https://environment.harvard.edu/,,fetch,Now part of the Salata Institute
+harvard-salata,Salata Institute for Climate and Sustainability,University,research-center,https://salatainstitute.harvard.edu/,,fetch,
+harvard-rowland,Rowland Institute at Harvard,University,research-center,https://www.rowland.harvard.edu/,https://www.rowland.harvard.edu/full-directory,fetch,Current fellows (small independent labs): https://www.rowland.harvard.edu/current-fellows
+harvard-forest,Harvard Forest,FAS,research-center,https://harvardforest.fas.harvard.edu/,https://harvardforest.fas.harvard.edu/about/people/,fetch,
+harvard-arboretum,Arnold Arboretum,University,research-center,https://arboretum.harvard.edu/,,fetch,Profiles use /people/<name>/
