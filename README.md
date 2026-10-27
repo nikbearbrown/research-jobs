@@ -10,17 +10,23 @@ A directory of research labs in the Boston and Cambridge area: who runs each lab
 | `data/labs.json`, `data/labs.csv` | All labs from every source, merged (generated, do not edit) |
 | `data/targets.csv` | The scrape target list: 638 think tanks, policy centers, science institutes, AI groups, hospitals and departments, with start URL, priority and what to collect |
 | `data/discovery/*.csv` | Raw unit lists found by crawling each institution's own index pages (Harvard, MIT, BU/Northeastern/Tufts, Brandeis/BC/UMass Boston/hospitals) |
+| `data/raw/` | Raw scraper output, kept as read, before it is folded into `data/sources/` |
 | `scripts/merge_discovery.py` | Folds the discovery lists into `targets.csv` |
 | `scripts/build.py` | Rebuilds `labs.json` and `labs.csv` from the source files |
 | `CONVENTIONS.md` | Naming and data rules |
 
-## Coverage (2026-10-26)
+## Coverage (2026-10-27)
+
+87 labs so far, 51 with a PI email.
 
 | Source | Labs | Small (≤10) | Medium (11–20) | Large (>20) | Size unknown |
 |---|---|---|---|---|---|
 | Harvard Chemistry and Chemical Biology (faculty + lecturers) | 25 + 1 core facility | 5 | 2 | 5 | 13 |
+| Whitehead Institute (Members, Fellows, AI Fellow) | 25 | 0 | 0 | 0 | 25 |
+| Rowland Institute (Fellows) | 8 | 8 | 0 | 0 | 0 |
+| Ragon Institute | 28 | 9 | 7 | 4 | 8 |
 
-Small labs so far: Betley (10), Myers (9), Xu (8), Shair (7), Heller (6, unconfirmed). Shair and Zhuang publish how to apply; Cohen and Shakhnovich post openings on their homepages.
+Rowland Fellows run independent groups of one to three people; their counts come from the institute directory and may undercount. Most "unknown" sizes are labs whose own websites could not be read yet (see `notes` on each lab).
 
 ## How a lab is classified
 
