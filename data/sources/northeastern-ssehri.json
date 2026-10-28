@@ -1,0 +1,33 @@
+{
+  "id": "northeastern-ssehri",
+  "institution": "Northeastern University",
+  "unit": "Social Science Environmental Health Research Institute (SSEHRI)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://cssh.northeastern.edu/ssehri/members/"
+  ],
+  "labs": [
+    {"id": "northeastern-ssehri-phil-brown", "kind": "research-lab", "lab_name": "PFAS Project Lab", "pi_name": "Phil Brown", "pi_title": "University Distinguished Professor of Sociology and Health Sciences; Director, SSEHRI", "pi_email": null, "accepting_grad_students": null, "lab_website": "https://cssh.northeastern.edu/ssehri/pfas-lab/", "location": null, "phone": null, "admin_name": null, "admin_email": null, "research_summary": "Environmental health social science; PFAS contamination research.", "member_count": null, "member_breakdown": null, "members_page_url": "https://cssh.northeastern.edu/ssehri/members/", "join_page_url": null, "join_notes": null, "profile_url": null, "notes": "Core faculty, SSEHRI Director; the institute itself lists a 'PFAS Lab' site which this PI directs."},
+    {"id": "northeastern-ssehri-kaitlyn-alvarez-noli", "kind": "research-lab", "lab_name": null, "pi_name": "Kaitlyn Alvarez Noli", "pi_title": "Assistant Professor of Public Policy and Health Sciences", "pi_email": null, "accepting_grad_students": null, "lab_website": null, "location": null, "phone": null, "admin_name": null, "admin_email": null, "research_summary": null, "member_count": null, "member_breakdown": null, "members_page_url": null, "join_page_url": null, "join_notes": null, "profile_url": null, "notes": "Core faculty."},
+    {"id": "northeastern-ssehri-julia-varshavsky", "kind": "research-lab", "lab_name": "Epidemiology and Toxicology Lab (Varshavsky Lab)", "pi_name": "Julia Varshavsky", "pi_title": "Assistant Professor of Environmental Health, Dept. of Health Sciences and Civil and Environmental Engineering", "pi_email": null, "accepting_grad_students": null, "lab_website": "https://cssh.northeastern.edu/ssehri/varshavsky-lab/", "location": null, "phone": null, "admin_name": null, "admin_email": null, "research_summary": "Environmental health and PFAS exposure research.", "member_count": null, "member_breakdown": null, "members_page_url": null, "join_page_url": null, "join_notes": null, "profile_url": null, "notes": "Core faculty; named lab site linked from the institute's own nav."}
+  ],
+  "non_lab_people": [
+    {"name": "Alissa Cordner", "title": "Professor of Sociology (Whitman College)", "email": null, "why": "Affiliated faculty, primary appointment elsewhere."},
+    {"name": "Loretta A. Fernandez", "title": "Associate Professor, Civil and Environmental Engineering / Marine and Environmental Sciences", "email": null, "why": "Affiliated faculty."},
+    {"name": "Stephen E. Flynn", "title": "Professor of Political Science; Founding Director, Global Resilience Institute and Defense Industrial Base Institute", "email": null, "why": "Affiliated faculty; recorded, or to be recorded, under northeastern-gri."},
+    {"name": "Laura Kuhl", "title": "Associate Professor of Public Policy and Urban Affairs and International Affairs", "email": null, "why": "Affiliated faculty."},
+    {"name": "Susan Mello", "title": "Associate Professor of Communication Studies", "email": null, "why": "Affiliated faculty."},
+    {"name": "Sharmila L. Murthy", "title": "Professor of Law and Public Policy", "email": null, "why": "Affiliated faculty."},
+    {"name": "Dietmar Offenhuber", "title": "Professor of Design and Public Policy", "email": null, "why": "Affiliated faculty."},
+    {"name": "Aron Stubbins", "title": "Professor, Marine and Environmental Sciences", "email": null, "why": "Affiliated faculty; home department northeastern-mes."},
+    {"name": "Zhenyu Tian", "title": "Assistant Professor, Chemistry and Chemical Biology", "email": null, "why": "Affiliated faculty; home department northeastern-chemistry."},
+    {"name": "Emily Zimmerman", "title": "Professor, Communication Sciences & Disorders", "email": null, "why": "Affiliated faculty; also listed in northeastern-icbh."},
+    {"name": "Kimberly Garrett", "title": "Affiliate Faculty, Assistant Professor of Public Health, CUNY", "email": null, "why": "Affiliated researcher, primary appointment elsewhere."},
+    {"name": "Lauren Richter", "title": "Assistant Professor, University of Toronto Mississauga", "email": null, "why": "Affiliated researcher, primary appointment elsewhere."},
+    {"name": "Grace Poudrier", "title": "Adjunct Lecturer, Postdoctoral Research Associate", "email": null, "why": "Postdoctoral researcher, not an independent PI."},
+    {"name": "Michael Lengefeld", "title": "Postdoctoral Research Associate", "email": null, "why": "Postdoc."},
+    {"name": "Alina McIntyre", "title": "Postdoctoral Research Associate", "email": null, "why": "Postdoc."}
+  ],
+  "notes": "3 core faculty recorded as PI-led labs; a long list of affiliated faculty (whose primary appointment is elsewhere), affiliated researchers, postdocs, and ~10 graduate/undergraduate students were recorded only partially in non_lab_people (students not individually listed) since they are lab members, not independent PIs. Institute contact: Prof. Phil Brown (Director), email shown as an obfuscated '[email protected]' placeholder on the page (not a real address, left null)."
+}

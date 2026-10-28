@@ -1,0 +1,15 @@
+{
+  "id": "northeastern-robotics",
+  "institution": "Northeastern University",
+  "unit": "Institute for Experiential Robotics (IER)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://robotics.northeastern.edu/",
+    "https://robotics.northeastern.edu/core-faculty/",
+    "https://robotics.northeastern.edu/our-research/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Both the Core Faculty page and the Research Laboratories page are React/JS apps that render 'No results found' / 'No labs found' with zero-valued stat counters (0 Faculty PIs, 0 Github Repos) in the static/rendered HTML -- the data loads from a client-side API call our fetcher doesn't trigger. Playwright's networkidle wait also timed out on /core-faculty/ (30s). General contact: Northeastern University EXP, 815 Columbus Ave., Boston, MA 02120. Needs either a direct API endpoint or a longer/different wait strategy to read; not resolved this round."
+}

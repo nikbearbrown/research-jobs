@@ -1,0 +1,41 @@
+{
+  "id": "northeastern-cils",
+  "institution": "Northeastern University",
+  "unit": "Institute for Chemical Imaging of Living Systems (CILS)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://cils.northeastern.edu/",
+    "https://cils.northeastern.edu/team/"
+  ],
+  "labs": [
+    {
+      "id": "northeastern-cils-core-facility",
+      "kind": "core-facility",
+      "lab_name": "CILS Core Facilities (Microscopy, Flow Cytometry, Preclinical Imaging)",
+      "pi_name": "James Monaghan",
+      "pi_title": "Faculty Director, CILS; Professor and Chair of Biology",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Interdisciplinary Science and Engineering Complex, Room 080, 805 Columbus Ave, Boston, MA 02120",
+      "phone": null,
+      "admin_name": "Guoxin Rong (Core Facilities Director); Carol Livermore (Probe Delivery Lead); Mark Niedre (Imaging Lead)",
+      "admin_email": "cils-core@northeastern.edu",
+      "research_summary": "Shared imaging core facility (microscopy, flow cytometry, preclinical imaging) pioneering technologies to image chemical processes in the brain and body in real time.",
+      "member_count": 6,
+      "member_breakdown": "1 Faculty Director + 2 other leadership (Probe Delivery, Imaging leads) + Core Facilities Director + 2 research scientists/specialists; alumni staff excluded",
+      "members_page_url": "https://cils.northeastern.edu/team/",
+      "join_page_url": "https://cils.northeastern.edu/team/#hiring",
+      "join_notes": "Page states: 'CILS is not hiring at this time.'",
+      "profile_url": null,
+      "notes": "Shared core facility, not a PI-led research lab in the usual sense; James Monaghan also runs his own PI-led Monaghan Laboratory, recorded separately under northeastern-biology (via the COS faculty-labs-research listing). Carol Livermore (MIE) and Mark Niedre (Bioengineering) are faculty based in other departments."
+    }
+  ],
+  "non_lab_people": [
+    {"name": "Sage Kumar", "title": "Imaging Specialist", "email": null, "why": "Core facility staff, not a PI."},
+    {"name": "Kailyn Saxer-Taulbee", "title": "Web Designer", "email": null, "why": "Staff, not a PI."},
+    {"name": "Nicole Calder", "title": "Research Assistant", "email": null, "why": "Staff, not a PI."}
+  ],
+  "notes": "Closely tied to northeastern-barnett (Barnett Institute), which lists CILS as a collaboration."
+}

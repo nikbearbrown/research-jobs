@@ -1,0 +1,13 @@
+{
+  "id": "northeastern-math",
+  "institution": "Northeastern University",
+  "unit": "Department of Mathematics",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://cos.northeastern.edu/research/faculty-labs-research/ (pages 1-14)"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The department's `people_url` (cos.northeastern.edu/people/?role=faculty&department=mathematics) is a broken client-side JS search that never renders any names (confirmed via plain HTTP and Playwright). The alternative faculty-labs-research listing's 9 Mathematics-tagged entries are all thematic research-group pages (Algebra, Analysis and Geometry, Mathematical Physics, Combinatorics and Discrete Math, Algebraic Geometry, Differential and Symplectic Geometry, Probability and Statistics, Topology and Singularities, Applied Mathematics) naming NO individual faculty -- so no labs could be recorded this pass. A future pass needs a different source for Math faculty names (e.g. a department-hosted static faculty list, if one exists)."
+}

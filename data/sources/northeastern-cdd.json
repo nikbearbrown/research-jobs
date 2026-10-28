@@ -1,0 +1,44 @@
+{
+  "id": "northeastern-cdd",
+  "institution": "Northeastern University",
+  "unit": "Center for Drug Discovery (CDD)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://cdd.neu.edu/",
+    "https://cdd.neu.edu/our-team/",
+    "https://cdd.neu.edu/directory/"
+  ],
+  "labs": [
+    {
+      "id": "northeastern-cdd-alexandros-makriyannis",
+      "kind": "research-lab",
+      "lab_name": "Center for Drug Discovery",
+      "pi_name": "Alexandros Makriyannis",
+      "pi_title": "Director, Center for Drug Discovery; Professor",
+      "pi_email": "a.makriyannis@northeastern.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": "Raymond Booth (Associate Director); Spiro Pavlopoulos and Anna W. Sromek (Deputy Directors)",
+      "admin_email": null,
+      "research_summary": "Drug discovery center focused on cannabinoid and other small-molecule pharmacology.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://cdd.neu.edu/directory/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://bouve.northeastern.edu/bchs/directory/alexandros-makriyannis/",
+      "notes": "Our Team page gives 4 named leaders (Director, Associate Director, 2 Deputy Directors); recorded as one center-level entry rather than 4 separate PI labs since the other 3 are deputy/associate roles, not independent labs."
+    }
+  ],
+  "non_lab_people": [
+    {"name": "Raymond Booth", "title": "Associate Director; Professor", "email": "ra.booth@northeastern.edu", "why": "Associate Director, recorded under the center's admin contact rather than as a separate lab."},
+    {"name": "Diomedes Logothetis", "title": "Faculty", "email": null, "why": "Listed in the center's Directory under 'Faculty' with no further role detail confirmed on this pass."},
+    {"name": "Roman Manetch", "title": "Faculty", "email": null, "why": "Listed in the center's Directory under 'Faculty' with no further role detail confirmed on this pass."},
+    {"name": "Leigh Plant", "title": "Faculty", "email": null, "why": "Listed in the center's Directory under 'Faculty' with no further role detail confirmed on this pass."},
+    {"name": "Hideaki Yano", "title": "Faculty", "email": null, "why": "Listed in the center's Directory under 'Faculty' with no further role detail confirmed on this pass."}
+  ],
+  "notes": "The /directory/ page lists Faculty, Research Faculty, Adjunct Faculty, Research Scientists and Students under category headings, but the extracted text flattens all names into one list without a reliable per-category boundary -- only the 6 names appearing directly after the 'Faculty' heading were captured (5 beyond the Director, above); research scientists/students/adjunct names were not individually recorded since their category couldn't be confirmed. A future pass should render the page and inspect its HTML structure directly to get clean category boundaries."
+}

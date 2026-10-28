@@ -1,0 +1,15 @@
+{
+  "id": "northeastern-ece",
+  "institution": "Northeastern University",
+  "unit": "Department of Electrical and Computer Engineering",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://ece.northeastern.edu/",
+    "https://ece.northeastern.edu/faculty/faculty-directory/",
+    "https://coe.northeastern.edu/faculty-staff-directory/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Both the given shared people_url (coe.northeastern.edu/faculty-staff-directory/, which times out even with Playwright's networkidle wait after 30s) and this department's own faculty-directory page are the same broken client-side-JS search widget: the static/rendered HTML contains only the filter form (position type, location, research area, A-Z letter picker) with zero actual names in any case tried, including a pre-filled query string copied from an in-page link. No server-rendered fallback or sitemap shortcut was found. The department's 'Research Institutes and Labs' page links out to cross-cutting institutes (e.g. Institute for Mechanobiology, recorded at northeastern-ifm) which captured several of this department's faculty already via their own faculty pages -- see northeastern-ifm.json for cross-appointed PIs. A fix would need either visiting individual coe.northeastern.edu/people/<slug>/ profile pages (URLs not independently discoverable without the broken directory) or finding another listing page; not attempted further this round."
+}

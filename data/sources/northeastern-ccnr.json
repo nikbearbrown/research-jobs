@@ -1,0 +1,38 @@
+{
+  "id": "northeastern-ccnr",
+  "institution": "Northeastern University",
+  "unit": "Center for Complex Network Research (CCNR)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://barabasi.com/",
+    "https://barabasi.com/science",
+    "https://www.barabasilab.com/team"
+  ],
+  "labs": [
+    {
+      "id": "northeastern-ccnr-albert-laszlo-barabasi",
+      "kind": "research-lab",
+      "lab_name": "Barabási Lab / Center for Complex Network Research",
+      "pi_name": "Albert-László Barabási",
+      "pi_title": "Distinguished University Professor, Northeastern University; Robert Gray Dodge Professor of Network Science",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://barabasi.com/",
+      "location": null,
+      "phone": "+1 617 373 4071",
+      "admin_name": null,
+      "admin_email": "ccnrad@gmail.com",
+      "research_summary": "Network science: applies network theory and data science to physics, biology (network medicine), human dynamics, and the science of success; the lab is also known for network-themed data visualization art.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "targets.csv's given start_url (barabasi.com) is Barabási's personal publications/art portfolio site, not a lab team roster -- no team/people page was found there or at barabasilab.com (both redirect to the same site; /team returns 404). ccnrad@gmail.com is the site's general contact address, not confirmed as Barabási's own. No member list, join page, or lab admin found in this pass."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "CCNR's actual current team roster was not locatable via the targets.csv-given URL; a future pass should search for a dedicated Northeastern-hosted CCNR site (distinct from the barabasi.com portfolio) or check his Northeastern physics department profile for a lab page link."
+}

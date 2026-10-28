@@ -20,7 +20,7 @@ Agents: start with `CLAUDE.md`.
 
 ## Coverage (2026-10-28)
 
-`data/to-read.txt` is empty. `data/targets.csv` priority-1 work has covered all of Harvard, all of MIT, and all of Boston University (254 targets total): 3,951 labs so far, 1,069 with a PI email.
+`data/to-read.txt` is empty. `data/targets.csv` priority-1 work has covered all of Harvard, MIT, Boston University and Northeastern (291 targets total): 4,360 labs so far, 1,103 with a PI email.
 
 | Source | Labs | Small (≤10) | Medium (11–20) | Large (>20) | Size unknown |
 |---|---|---|---|---|---|
@@ -40,9 +40,9 @@ Remaining "unknown" sizes are each explained in that lab's `notes`. The big one 
 
 BU's department directories mostly don't show a PI email on the listing page itself (would need an individual profile-page visit, a later pass), which is why the BU row's `with_email` count is low — this isn't a site-blocking problem, just a template property. BU's own `scripts/parse_bu_people.py` and `scripts/build_bu_source.py` handle its shared "Name, degree → profile page" directory template (BU College of Engineering: BME/ECE/ME/MSE/SE each have genuinely department-filtered directories, re-verified after an initial pass wrongly assumed they were unfiltered and under-covered ME/MSE — see CLAUDE.md). A handful of BU targets (Cancer Center, CBR, CSN, Evans Center, Hariri Institute and its AIR initiative, Dept. of Medicine, Pathology) are `partial`: cross-cutting hubs recorded thin, umbrella departments whose real per-Section pages weren't found, or pages that rendered empty/navigation-only.
 
-`data/targets.csv` priority 1: 196 `done`, 63 `partial`, 133 `todo` (of 392). Next: Northeastern, Tufts, Brandeis, BC, UMass Boston, hospitals.
+Northeastern University (37 targets: College of Science, College of Engineering, Bouvé College of Health Sciences, University-wide institutes) is also now attempted. College of Science's own people-search tool is broken (a client-side JS search that never renders any names); instead its labs came from `cos.northeastern.edu/research/faculty-labs-research/`, a 14-page listing of every named PI-led lab with a research summary and a "Lab details" page giving the PI, an external lab website, and often a small member roster — none of them have a PI email (not shown on these pages), and `northeastern-math` ended up with 0 labs (its research-group pages name no individual faculty). College of Engineering's shared `coe.northeastern.edu/faculty-staff-directory/` times out even with Playwright — bioe/cee/che/ece/mie/seis are all `partial` for this reason (and `northeastern-robotics` has the same JS-app problem on its own pages); the rest of Engineering (IFM, INSI, NanoSI) and most of Bouvé and the university-wide institutes (Cyber, ICBH, NetSI, QMSI, SSEHRI, and Bouvé's Applied Psych/CDD/CSD/Nursing/Pharm Sci/PT/Public Health) came through cleanly via each one's own dedicated people page, several with a reusable parser (`scripts/parse_bouve_people.py` for Bouvé's shared directory template). `northeastern-gri` is unreachable from this network entirely; `northeastern-kostas`/`northeastern-roux` are contract-research/applied-education institutes with no public PI roster.
 
-`data/targets.csv` priority 1: 150 `done`, 55 `partial`, 187 `todo` (of 392). Broad/Wyss/Koch/McGovern/Picower are already covered (Wyss, Koch and McGovern were scraped as part of the Harvard/MIT institution passes above). Next: BU, Northeastern, Tufts, Brandeis, BC, UMass Boston, hospitals.
+`data/targets.csv` priority 1: 218 `done`, 78 `partial`, 96 `todo` (of 392). Broad/Wyss/Koch/McGovern/Picower are already covered (scraped as part of the Harvard/MIT institution passes above). Next: Tufts, Brandeis, BC, UMass Boston, hospitals.
 
 `data/targets.csv` priority 1: 47 `done`, 35 `partial`, 310 `todo` (of 392). Next: MIT, then Broad/Wyss/Koch/McGovern/Picower, BU, Northeastern, Tufts, Brandeis, BC, UMass Boston, hospitals.
 

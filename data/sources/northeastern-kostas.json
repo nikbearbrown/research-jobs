@@ -1,0 +1,18 @@
+{
+  "id": "northeastern-kostas",
+  "institution": "Northeastern University",
+  "unit": "Kostas Research Institute (KRI)",
+  "city": "Burlington, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://kostas.northeastern.edu/leadership-bios/"
+  ],
+  "labs": [],
+  "non_lab_people": [
+    {"name": "Jamie Jones Miller", "title": "Director, Kostas Research Institute and CEO, KRI LLC; Head of National Security Initiatives; CEO and Regional Dean, Northeastern University-Arlington", "email": null, "why": "Institute executive director/administrator, not a PI running an independent academic research lab."},
+    {"name": "Jennifer Hay", "title": "Director, Program Management Office", "email": null, "why": "Program management staff."},
+    {"name": "Jennifer Lesswing", "title": "Director of Finance", "email": null, "why": "Finance/administration staff."},
+    {"name": "Matthew Cawley", "title": "Facility Security Officer | Insider Threat Program Security Officer", "email": null, "why": "Security staff."}
+  ],
+  "notes": "KRI is an applied national-security-focused contract research institute (its own description: 'S&T research and development'), not a department of academic PI-led labs in the usual sense of this schema -- its public Leadership page lists executives/administrators, not individual research-group PIs. Join/careers page: https://kostas.northeastern.edu/join-the-team/. Contact: https://kostas.northeastern.edu/contact-us/."
+}

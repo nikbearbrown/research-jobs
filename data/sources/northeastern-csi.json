@@ -1,0 +1,37 @@
+{
+  "id": "northeastern-csi",
+  "institution": "Northeastern University",
+  "unit": "Coastal Sustainability Institute (CSI)",
+  "city": "Boston, MA / Nahant, MA (Marine Science Center)",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://csi.northeastern.edu/",
+    "https://csi.northeastern.edu/people/"
+  ],
+  "labs": [
+    {
+      "id": "northeastern-csi-geoff-trussell",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Geoff Trussell",
+      "pi_title": "Executive Director, Coastal Sustainability Institute",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Leads CSI's interdisciplinary research on sustainable solutions to challenges facing coastal ecosystems.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://csi.northeastern.edu/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://cos.northeastern.edu/people/geoffrey-trussell/",
+      "notes": "Executive Director entry only. CSI is a cross-cutting hub, not a department of its own labs (see top-level notes)."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Cross-cutting institute spanning Marine and Environmental Sciences, Civil and Environmental Engineering, Psychology, Sociology and the Ocean Genome Legacy (OGL) center -- its People page lists 81 total (Leadership/Faculty/Affiliated Faculty/OGL Staff/Research Staff/Graduate Students/CSI Staff). Not individually enumerated to avoid duplicating PIs already recorded (or to be recorded) under their home department's source file, e.g. northeastern-mes/northeastern-msc via the COS faculty-labs-research listing (candidates seen on CSI's page: Jennifer Bowen, Jim Chen, John Coley, James Dennedy-Frank, H. William Detrich (emeritus), Daniel Douglass, Stephanie Eby, Loretta Fernandez, Gabriela Garcia, Remy Gatins, and more) and northeastern-cee (R. Edward Beighley, Matthew Eckelman, Auroop Ganguly). Dan Distel directs the Ocean Genome Legacy (OGL) center within CSI."
+}

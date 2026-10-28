@@ -1,0 +1,19 @@
+{
+  "id": "northeastern-roux",
+  "institution": "Northeastern University",
+  "unit": "Roux Institute (Portland, Maine)",
+  "city": "Portland, ME",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://roux.northeastern.edu/our-people/"
+  ],
+  "labs": [],
+  "non_lab_people": [
+    {"name": "Michael Pollastri", "title": "Senior Vice Provost and Academic Lead", "email": null, "why": "Campus academic leadership, not an individual PI-led lab."},
+    {"name": "Usama Fayyad", "title": "Senior Vice Provost for AI and Data Strategy", "email": null, "why": "Leadership."},
+    {"name": "Samuel Scarpino", "title": "Executive Director, The Institute for Experiential AI; Professor", "email": null, "why": "Leadership of northeastern-eai, recorded there instead."},
+    {"name": "Predrag Radivojac", "title": "Professor, Associate Dean of Research, Director of the (Roux research program, name truncated on page)", "email": null, "why": "Leadership; research program director rather than a single named lab."},
+    {"name": "Aileen Huang-Saad", "title": "Director of Life Sciences, Health, & Engineering; Associate (title truncated)", "email": null, "why": "Program-area director, not an individual PI-led lab."}
+  ],
+  "notes": "The Roux Institute is Northeastern's applied-research/professional-education campus in Portland, ME. Its 'Our People' page lists well over 100 people, overwhelmingly part-time lecturers, teaching professors, research scientists/assistants, and program/career-services staff rather than independent PI-led research labs; research is organized by broad area (Human Data Interaction, Life Sciences & Health, Engineering, Artificial Intelligence, Environmental Health & Safety) rather than named labs with individual PIs. Did not individually enumerate the full roster given this structure -- recorded only top leadership. Several names here are faculty/researchers also appearing in other Northeastern source files (e.g. Samuel Scarpino/EAI, Matteo Chinazzi/NetSI); not deduplicated across files, per existing project convention."
+}

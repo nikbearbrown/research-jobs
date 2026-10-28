@@ -1,0 +1,13 @@
+{
+  "id": "northeastern-gri",
+  "institution": "Northeastern University",
+  "unit": "Global Resilience Institute",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://globalresilience.northeastern.edu/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Site unreachable from this network: both plain HTTP and headless-Chromium fetches to the homepage timed out (30s) without ever settling, with both http and https. Not a robots.txt block. Recommend retrying from a different egress network."
+}

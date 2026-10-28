@@ -1,0 +1,15 @@
+{
+  "id": "northeastern-seis",
+  "institution": "Northeastern University",
+  "unit": "Software Engineering and Information Systems",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://seis.northeastern.edu/",
+    "https://seis.northeastern.edu/faculty-seis/",
+    "https://seis.northeastern.edu/faculty-seis/seis-full-time-faculty/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Same broken client-side-JS faculty-directory widget as other College of Engineering departments this round (filter form renders, zero names in the HTML). SEIS is also described on its own page as teaching faculty for graduate engineering programs ('help teach the ... Graduate Engineering Programs'), not an independent-PI research department, so even a working directory here may not yield PI-led labs in the usual sense. CLAUDE.md's documented robots.txt block for seis.northeastern.edu was not reproduced this round (the homepage and this subpage both fetched with HTTP 200); the real obstacle is the broken JS widget, not robots.txt."
+}

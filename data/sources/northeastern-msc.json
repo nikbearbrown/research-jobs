@@ -1,0 +1,14 @@
+{
+  "id": "northeastern-msc",
+  "institution": "Northeastern University",
+  "unit": "Marine Science Center (MSC)",
+  "city": "Nahant, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://cos.northeastern.edu/marinescience/",
+    "https://cos.northeastern.edu/nucos-faculty-lab/marine-science-center/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The Marine Science Center is the Nahant campus housing the Marine and Environmental Sciences department's labs; its own faculty-labs-research entry names no individual PIs (just a facility description). All 'Marine and Environmental Sciences'-tagged labs from the COS faculty-labs-research listing were recorded under northeastern-mes.json instead, since the listing doesn't distinguish MES-department vs. MSC-specific affiliation -- see that file for the actual labs (many, e.g. Katie Lotterhos's lab, are explicitly described as being 'at the Marine Science Center'). Also closely tied to northeastern-csi (Coastal Sustainability Institute), which is headquartered at the MSC."
+}
