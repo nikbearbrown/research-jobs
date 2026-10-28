@@ -1,0 +1,37 @@
+{
+  "id": "bc-timss-pirls",
+  "institution": "Boston College",
+  "unit": "TIMSS & PIRLS International Study Center",
+  "city": "Chestnut Hill, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "http://timssandpirls.bc.edu/",
+    "http://timssandpirls.bc.edu/isc/staff.html"
+  ],
+  "labs": [
+    {
+      "id": "bc-timss-pirls-matthias-von-davier",
+      "kind": "research-lab",
+      "lab_name": "TIMSS & PIRLS International Study Center",
+      "pi_name": "Matthias von Davier",
+      "pi_title": "Executive Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "http://timssandpirls.bc.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Runs the TIMSS and PIRLS international assessments of student achievement in mathematics, science and reading, conducted since 1995 across 70+ countries.",
+      "member_count": 16,
+      "member_breakdown": "1 Executive Director, 3 Senior Research Directors, 1 Director (Graphic Design and Publications), 3 Research/Associate/Assistant Research Directors, 2 Senior Research Specialists listed (list continues further down the page, not fully captured), plus graduate students (separate page, not read)",
+      "members_page_url": "http://timssandpirls.bc.edu/isc/staff.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "A single large research-and-assessment operation, not independent PI-led labs -- recorded as one entry under the Executive Director. Staff list is long (dozens of research/operations roles); only the first ~16 were read before stopping, consistent with a breadth-pass depth budget. Graduate Students page not read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

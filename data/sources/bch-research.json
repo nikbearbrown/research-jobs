@@ -1,0 +1,14 @@
+{
+  "id": "bch-research",
+  "institution": "Boston Children's Hospital",
+  "unit": "Researchers directory",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://research.childrenshospital.org",
+    "https://research.childrenshospital.org/researchers"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The /researchers page is a clinical-provider-style search widget (filters for Gender, Languages, etc.) with no names rendered in the static HTML or after Playwright rendering -- confirmed broken, same pattern as several other JS search tools hit this session (Northeastern COS people search, MIT Kavli/Koch). No alternative static roster found on this page. See bch-research-units.json for the hospital's department/program/center structure instead."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "dana-farber-pediatric-oncology",
+  "institution": "Dana-Farber Cancer Institute",
+  "unit": "Department of Pediatric Oncology",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.dana-farber.org/research/departments-centers/pediatric-oncology",
+    "https://www.dana-farber.org/research/labs",
+    "https://www.dana-farber.org/research/our-researchers"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Same situation as dana-farber-medical-oncology: the department's own page is descriptive only, with no individual PI roster, and links to the same institute-wide 'Lab Websites' (~143 labs, no department tag) and 'Our Researchers' search tool rather than a department-specific list. Can't reliably separate this department's labs from the full institute list without visiting each PI's own profile -- out of scope here. See dana-farber-medical-oncology.json's notes and the still-`todo` `dana-farber-labs` target for the real breadth-pass source."
+}

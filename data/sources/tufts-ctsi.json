@@ -1,0 +1,37 @@
+{
+  "id": "tufts-ctsi",
+  "institution": "Tufts University",
+  "unit": "Tufts Clinical and Translational Science Institute (CTSI)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.tuftsctsi.org/staff-directory/",
+    "https://www.tuftsctsi.org/about-us/leadership/"
+  ],
+  "labs": [
+    {
+      "id": "tufts-ctsi-harry-p-selker",
+      "kind": "research-lab",
+      "lab_name": "Tufts CTSI",
+      "pi_name": "Harry P. Selker",
+      "pi_title": "Tufts CTSI Dean and Principal Investigator, MD, MSPH",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.tuftsctsi.org/",
+      "location": null,
+      "phone": null,
+      "admin_name": "Erin Gibson, MPH (Tufts CTSI Executive Director)",
+      "admin_email": null,
+      "research_summary": "NIH-funded clinical and translational science institute supporting research infrastructure, education, pilot funding and community engagement across Tufts and partner institutions.",
+      "member_count": null,
+      "member_breakdown": "A leadership team of ~8 named directors/co-directors (Research Operations, Associate Director, Implementation Science, Evaluation, KL2 Program, Graduate Program, Faculty Career Development) plus a separate large support-staff directory not individually enumerated.",
+      "members_page_url": "https://www.tuftsctsi.org/about-us/leadership/",
+      "join_page_url": "https://www.tuftsctsi.org/careers/",
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "A large research-infrastructure institute, not independent PI-led labs -- recorded as one entry under the Dean/PI. Other leadership names were shown only with titles (no name text captured cleanly on the rendered page) except Selker and Gibson; a future pass could revisit the HTML structure directly."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

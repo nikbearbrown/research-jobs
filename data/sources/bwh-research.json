@@ -1,0 +1,13 @@
+{
+  "id": "bwh-research",
+  "institution": "Brigham and Women's Hospital",
+  "unit": "Institutes, centers and labs (Mass General Brigham-wide search)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://research.massgeneralbrigham.org/en/institutes-centers/institutes-centers-search-results?q=all"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "This people_url is a single Mass General Brigham-wide search tool (not BWH-specific) covering the whole MGB system: 606 results total (17 Centers, 31 Departments, 3 Institutes, 555 Labs), paginated 10/page (~61 pages), rendered only via Playwright (static HTML returns an empty shell). No hospital/facility-level filter was found to scope results down to BWH specifically. Fully crawling and attributing all 555 labs to their correct home hospital is a substantial undertaking out of scope for this pass -- recommend a dedicated future pass (ideally shared with mgh-lab-search, which points at the identical tool) that crawls all ~61 pages once and buckets each lab by its home institution/department tag shown on the card."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "mgh-research-institute",
+  "institution": "Massachusetts General Hospital",
+  "unit": "MGH Research Institute",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://research.massgeneralbrigham.org/",
+    "https://researchers.mgh.harvard.edu"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "researchers.mgh.harvard.edu is a 'Find a Researcher' search portal with no browsable roster (query-only, no results without a search term). research.massgeneralbrigham.org routes to the same MGB-wide institutes/centers/labs search tool already documented in bwh-research.json and mgh-lab-search.json (606 results, 555 labs, ~61 pages, no hospital filter found). Not duplicating that crawl here. Recommend the same future dedicated pass, bucketing by home institution, serve all of bwh-research/mgh-lab-search/mgh-research-institute/meei-research at once."
+}

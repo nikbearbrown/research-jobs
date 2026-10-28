@@ -1,0 +1,38 @@
+{
+  "id": "tufts-epsilon",
+  "institution": "Tufts University",
+  "unit": "Tufts Epsilon Materials Institute (TEMI)",
+  "city": "Medford, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://epsilon.tufts.edu/people",
+    "https://epsilon.tufts.edu/people/leadership",
+    "https://epsilon.tufts.edu/people/affiliated-faculty"
+  ],
+  "labs": [
+    {
+      "id": "tufts-epsilon-laurent-pilon",
+      "kind": "research-lab",
+      "lab_name": "Tufts Epsilon Materials Institute",
+      "pi_name": "Laurent Pilon",
+      "pi_title": "Inaugural Director, Tufts Epsilon Materials Institute; Epsilon Energy Materials Innovation Professor, Dept. of Mechanical Engineering",
+      "pi_email": "temi@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://epsilon.tufts.edu/",
+      "location": "Joyce Cummings Center, Room 616, 177 College Avenue, Medford, MA 02155",
+      "phone": null,
+      "admin_name": "Meghan Rodriguez (Program Administrator, also supports the Tufts Institute for Artificial Intelligence)",
+      "admin_email": null,
+      "research_summary": "Interdisciplinary materials-science institute; Pilon's own research is on energy materials.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://epsilon.tufts.edu/people/leadership",
+      "join_page_url": "https://epsilon.tufts.edu/people/open-positions",
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Cross-cutting institute: its Affiliated Faculty (Timothy Atherton/Physics, Luisa Chiesa/MechE, Prashant Deshlahra/ChemBioEng, Nathaniel Eagan/ChemBioEng, Marc Hodes/MechE, Graham Leverick, and more) are PIs whose own labs are recorded under their home department's source file (tufts-physics, tufts-me, tufts-cbe) -- not duplicated here."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

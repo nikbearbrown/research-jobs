@@ -1,0 +1,67 @@
+{
+  "id": "bc-weston-observatory",
+  "institution": "Boston College",
+  "unit": "Weston Observatory (Dept. of Earth and Environmental Sciences)",
+  "city": "Weston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.bc.edu/content/bc-web/schools/mcas/sites/weston-observatory.html",
+    "https://www.bc.edu/content/bc-web/schools/morrissey/sites/weston-observatory/people.html"
+  ],
+  "labs": [
+    {
+      "id": "bc-weston-observatory-alan-l-kafka",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Alan L. Kafka",
+      "pi_title": "Associate Professor and Director of Weston Observatory",
+      "pi_email": "alan.kafka@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": "Marilyn Bibeau (Administrator of Weston Observatory)",
+      "admin_email": "marilyn.bibeau@bc.edu",
+      "research_summary": "Seismology, earthquake monitoring and hazard research at Weston Observatory.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/sites/weston-observatory/people.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Also a bc-eesc faculty member; Weston Observatory is housed in the Dept. of Earth and Environmental Sciences."
+    },
+    {
+      "id": "bc-weston-observatory-john-e-ebel",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "John E. Ebel",
+      "pi_title": "Professor and Senior Research Scientist",
+      "pi_email": "john.ebel@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Seismology research at Weston Observatory.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/sites/weston-observatory/people.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/mcas/departments/eesc/people/faculty-directory/john-ebel.html",
+      "notes": "Also a bc-eesc faculty member; recorded here too since Weston Observatory is his primary research site."
+    }
+  ],
+  "non_lab_people": [
+    {"name": "John Cipar", "title": "Visiting Scholar", "email": "cipar@bc.edu", "why": "Visiting scholar, not an independent PI here."},
+    {"name": "Nawa Dahal", "title": "Visiting Scholar", "email": "nawa.dahal@bc.edu", "why": "Visiting scholar."},
+    {"name": "James Skehan, S.J.", "title": "Director Emeritus", "email": "james.skehan@bc.edu", "why": "Emeritus, retired."},
+    {"name": "Jay Pulli", "title": "Visiting Scholar", "email": "jay.pulli@bc.edu", "why": "Visiting scholar."},
+    {"name": "Vincent Murphy", "title": "Visiting Scholar", "email": "geoexvjm@aol.com", "why": "Visiting scholar."},
+    {"name": "Michael Hagerty", "title": "Visiting Scholar", "email": "michael.hagerty@bc.edu", "why": "Visiting scholar."},
+    {"name": "Alfredo Urzua", "title": "Visiting Scholar (Geotechnical Engineering)", "email": "alfredo.urzua@bc.edu", "why": "Visiting scholar."}
+  ],
+  "notes": "Paul Strother (Palaeobotany) also listed on this page without a clear visiting/PI designation -- left out of both lists pending clarification; Tara Pisani-Gareau and remaining names below her were not read (page cut off during this pass)."
+}

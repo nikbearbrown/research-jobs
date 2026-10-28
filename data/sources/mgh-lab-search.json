@@ -1,0 +1,13 @@
+{
+  "id": "mgh-lab-search",
+  "institution": "Mass General Brigham",
+  "unit": "Institutes, centers and labs (Mass General Brigham-wide search)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://research.massgeneralbrigham.org/en/institutes-centers/institutes-centers-search-results?q=all"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Identical search tool and URL as bwh-research.json -- see that file's notes for the full finding (606 results across the whole MGB system: 555 labs, 31 departments, 17 centers, 3 institutes; ~61 pages; Playwright-only; no hospital-level filter found). Fetched once, not duplicated. Recommend a dedicated future pass to crawl all pages and bucket labs by their home institution, shared across bwh-research, mgh-lab-search, meei-research and mgh-research-institute (all of which route through this same MGB-wide system)."
+}

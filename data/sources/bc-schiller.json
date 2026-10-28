@@ -1,0 +1,36 @@
+{
+  "id": "bc-schiller",
+  "institution": "Boston College",
+  "unit": "Schiller Institute for Integrated Science and Society",
+  "city": "Chestnut Hill, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.bc.edu/content/bc-web/centers/schiller-institute/about/people.html"
+  ],
+  "labs": [
+    {
+      "id": "bc-schiller-dunwei-wang",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Dunwei Wang",
+      "pi_title": "Interim Seidner Family Executive Director, Schiller Institute; Margaret A. & Thomas A. Vanderslice '53 Chair and Professor of Chemistry, Boston College",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "140 Commonwealth Avenue, Chestnut Hill, MA 02467",
+      "phone": "617-552-3503",
+      "admin_name": null,
+      "admin_email": "schiller.institute@bc.edu",
+      "research_summary": "Artificial photosynthesis, energy and resource utilization chemistry, battery/electrode materials, plastic synthesis and recycling.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Also the PI of a BC Chemistry lab (see bc-chemistry.json) -- not duplicated with separate lab details here, this entry represents his Schiller Institute leadership role."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Cross-cutting interdisciplinary institute (climate, sustainability, integrated science), not a department of its own labs. Its External/Internal Advisory Board members are faculty from other BC departments and even other universities (Notre Dame, U. Chicago) with 'Faculty Bio' links to their home department/institution -- not duplicated here. General contact: schiller.institute@bc.edu."
+}

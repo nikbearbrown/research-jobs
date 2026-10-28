@@ -1,0 +1,14 @@
+{
+  "id": "broad",
+  "institution": "Broad Institute of MIT and Harvard",
+  "unit": "Broad Institute (top level)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.broadinstitute.org",
+    "https://www.broadinstitute.org/people"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "broadinstitute.org/people is a client-side JS member directory with no static roster -- confirmed empty via both plain HTTP and Playwright --render (only nav/category overview text, no names). The page does name several named centers (Carlos Slim Center, Gerstner Center for Cancer Diagnostics, Klarman Cell Observatory, Merkin Institute, Novo Nordisk Foundation Center, Eric and Wendy Schmidt Center, Stanley Center for Psychiatric Research) that could become their own future targets.csv rows if a working people-listing can be found for each. Many Broad core members are already recorded elsewhere in this directory (MIT and Harvard department source files, e.g. mit-biology, harvard-chemistry) since Broad faculty hold primary appointments there. Recommend status partial."
+}

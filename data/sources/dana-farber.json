@@ -1,0 +1,14 @@
+{
+  "id": "dana-farber",
+  "institution": "Dana-Farber Cancer Institute",
+  "unit": "Dana-Farber Cancer Institute (top level)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.dana-farber.org",
+    "https://www.dana-farber.org/research/our-researchers"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The institute-wide 'Our Researchers' page is a client-side JS search tool with no static roster (confirmed via plain HTTP fetch -- only nav and generic donation-appeal text, no names). The real per-PI data for this institute lives in two other source files instead: data/sources/dana-farber-labs.json (130 PI-led labs with external lab websites, from the curated 'Lab Websites' master list) and the per-department files (dana-farber-cancer-biology.json: 22, dana-farber-cancer-immunology-virology.json: 14, dana-farber-data-science.json: 28), each read from that department's own 'Faculty'/'Team' sub-page. Dana-Farber has dozens more departments/centers not yet in targets.csv (e.g. Medical Oncology, Pediatric Oncology -- both already separate targets.csv rows, still todo) -- this top-level entry is intentionally thin."
+}

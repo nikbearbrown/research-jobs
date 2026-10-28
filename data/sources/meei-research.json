@@ -1,0 +1,13 @@
+{
+  "id": "meei-research",
+  "institution": "Mass Eye and Ear",
+  "unit": "Research",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://research.massgeneralbrigham.org"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "research.massgeneralbrigham.org (no people_url given in targets.csv) routes to the same MGB-wide institutes/centers/labs search tool already documented in bwh-research.json and mgh-lab-search.json. Not duplicating that crawl here; see meei-schepens.json for Mass Eye and Ear's own Schepens Eye Research Institute, which has a more specific site."
+}

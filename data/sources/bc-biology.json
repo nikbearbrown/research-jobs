@@ -1,0 +1,1331 @@
+{
+  "id": "bc-biology",
+  "institution": "Boston College",
+  "unit": "Department of Biology",
+  "city": "Chestnut Hill, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people.html"
+  ],
+  "labs": [
+    {
+      "id": "bc-biology-anthony-t-annunziato",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Anthony T. Annunziato",
+      "pi_title": "Professor",
+      "pi_email": "anthony.annunziato@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 401A",
+      "phone": "617-552-3812",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/anthony-annunziato.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-david-burgess",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "David Burgess",
+      "pi_title": "Professor",
+      "pi_email": "david.burgess@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 528",
+      "phone": "617-552-1606",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/david-burgess.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-brendan-carson",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Brendan Carson",
+      "pi_title": "Assistant Professor of the Practice",
+      "pi_email": "brendan.carson@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "(617) 552-6000",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/carson--brendan.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-thomas-chiles",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Thomas Chiles",
+      "pi_title": "Professor and Deluca Chair of Biology",
+      "pi_email": "thomas.chiles@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 544B",
+      "phone": "617-552-0840",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/thomas-chiles.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-jeffrey-dacosta",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Jeffrey DaCosta",
+      "pi_title": "Associate Professor of the Practice",
+      "pi_email": "jeffrey.dacosta@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 568",
+      "phone": "617-552-8945",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/jeffrey-dacosta.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-maitreyi-das",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Maitreyi Das",
+      "pi_title": "Associate Professor & Graduate Program Director",
+      "pi_email": "maitreyi.das@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 501B",
+      "phone": "617-552-0121",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/maitrey-das.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-lynn-dibenedetto",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Lynn DiBenedetto",
+      "pi_title": "Associate Professor of the Practice",
+      "pi_email": "lynn.dibenedetto@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 425A",
+      "phone": "617-552-2717",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/dibenedetto-lynn.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-rebecca-dunn",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Rebecca Dunn",
+      "pi_title": "Associate Professor of the Practice",
+      "pi_email": "rebecca.dunn@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 412",
+      "phone": "617-552-3485",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/rebecca-dunn.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-ismael-ben-fofana",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Ismael Ben Fofana",
+      "pi_title": "Assistant Professor of the Practice",
+      "pi_email": "ismael.fofana@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 414",
+      "phone": "617-552-3556",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/ismael-ben-fofana.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-juan-manuel-gonzález-rosa",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Juan Manuel González-Rosa",
+      "pi_title": "Assistant Professor",
+      "pi_email": "juanmanuel.gonzalezrosa@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 345",
+      "phone": "(617)-552-0804",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/Juan-Manuel-Gonzalez-Rosa.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-marc-jan-gubbels",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Marc-Jan Gubbels",
+      "pi_title": "Professor",
+      "pi_email": "marcjan.gubbels@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 428",
+      "phone": "617-552-8722",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/marc-jan-gubbels.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-laura-e-hake",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Laura E. Hake",
+      "pi_title": "Associate Professor",
+      "pi_email": "laura.hake@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 444B",
+      "phone": "617-552-1935",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/laura-hake.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-zoë-hilbert",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Zoë Hilbert",
+      "pi_title": "Assistant Professor",
+      "pi_email": "zoe.hilbert@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 415",
+      "phone": "617-552-3103",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/ZoeHilbert.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-charles-hoffman",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Charles Hoffman",
+      "pi_title": "Professor & Department Chair",
+      "pi_email": "charles.hoffman@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 401B",
+      "phone": "617-552-2779",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/charles-hoffman.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-welkin-johnson",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Welkin Johnson",
+      "pi_title": "Professor",
+      "pi_email": "welkin.johnson@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 545B",
+      "phone": "617-552-4223",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/welkin-johnson.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-christopher-kenaley",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Christopher Kenaley",
+      "pi_title": "Associate Professor of the Practice",
+      "pi_email": "christopher.kenaley@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 415",
+      "phone": "617-552-3105",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/christopher-kenaley.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-philip-j-landrigan",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Philip J. Landrigan",
+      "pi_title": "Professor",
+      "pi_email": "phil.landrigan@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins, 648A",
+      "phone": "617-552-8209",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/Phil-Landrigan.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-vicki-losick",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Vicki Losick",
+      "pi_title": "Associate Professor",
+      "pi_email": "vicki.losick@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 501",
+      "phone": "617-552-6432",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/vicki-losick.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-sarah-mcmenamin",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Sarah McMenamin",
+      "pi_title": "Associate Professor",
+      "pi_email": "sarah.mcmenamin@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 361A",
+      "phone": "617-552-3989",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/sarah-mcmenamin.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-michelle-meyer",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Michelle Meyer",
+      "pi_title": "Professor, Associate Chair",
+      "pi_email": "m.meyer@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 477",
+      "phone": "617-552-0735",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/michelle-meyer.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-babak-momeni",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Babak Momeni",
+      "pi_title": "Associate Professor",
+      "pi_email": "babak.momeni@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 420A",
+      "phone": "617-552-3986",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/babak-momeni.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-heather-olins",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Heather Olins",
+      "pi_title": "Associate Professor of the Practice",
+      "pi_email": "heather.olins@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 444A",
+      "phone": "617-552-2890",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/heather-olins.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-antonio-serrato-capuchina",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Antonio Serrato-Capuchina",
+      "pi_title": "Assistant Professor of the Practice",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Messina College",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/SerratoCapuchinaAntonio.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-thomas-n-seyfried",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Thomas N. Seyfried",
+      "pi_title": "Professor",
+      "pi_email": "thomas.seyfried@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 514",
+      "phone": "617-552-3563",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/thomas-seyfried.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-danielle-taghian",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Danielle Taghian",
+      "pi_title": "Professor of the Practice",
+      "pi_email": "danielle.taghian@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 544A",
+      "phone": "617-552-6325",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/danielle-taghian.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-douglas-warner",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Douglas Warner",
+      "pi_title": "Director of Laboratories",
+      "pi_email": "douglas.warner@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 378",
+      "phone": "617-552-3552",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/douglas-warner.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-kenneth-c-williams",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Kenneth C. Williams",
+      "pi_title": "Professor",
+      "pi_email": "kenneth.williams.3@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 468",
+      "phone": "617-552-1186",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/kenneth-williams.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-katherine-zink",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Katherine Zink",
+      "pi_title": "Assistant Professor of the Practice",
+      "pi_email": "katherine.zink@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins Hall 411",
+      "phone": "617-552-3217",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/zink--katherine.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-kurt-straif",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Kurt Straif",
+      "pi_title": "Research Professor",
+      "pi_email": "straif@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 644B",
+      "phone": "617-552-2893",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/research-faculty/kurt-straif.html",
+      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-james-whitney",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "James Whitney",
+      "pi_title": "Research Professor",
+      "pi_email": "whitnejc@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "617-552-3540",
+      "phone": "617-792-3651",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/research-faculty/james-whitney.html",
+      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-kathy-dunn",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Kathy Dunn",
+      "pi_title": "Associate Professor",
+      "pi_email": "kathy.dunn@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Higgins 412",
+      "phone": "617-552-3217",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/emeritus-retired/kathy-dunn.html",
+      "notes": "Breadth pass from the department's own people page (Emeritus/Retired Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-biology-junona-moroianu",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Junona Moroianu",
+      "pi_title": "Associate Professor",
+      "pi_email": "junona.moroianu@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Clare M. O'Connor",
+      "phone": "617-552-2553",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/emeritus-retired/junona-moroianu.html",
+      "notes": "Breadth pass from the department's own people page (Emeritus/Retired Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    }
+  ],
+  "non_lab_people": [
+    {
+      "name": "Dina Goodfriend",
+      "title": null,
+      "email": null,
+      "why": "Staff & Administration — not an independent PI-led research track."
+    },
+    {
+      "name": "Síle Ni Scanlain",
+      "title": null,
+      "email": null,
+      "why": "Staff & Administration — not an independent PI-led research track."
+    },
+    {
+      "name": "Maeve Kelley-Portillo",
+      "title": null,
+      "email": null,
+      "why": "Staff & Administration — not an independent PI-led research track."
+    },
+    {
+      "name": "Daniel Beringer",
+      "title": null,
+      "email": null,
+      "why": "Staff & Administration — not an independent PI-led research track."
+    },
+    {
+      "name": "Diane Ottaviani",
+      "title": "Undergraduate",
+      "email": null,
+      "why": "Staff & Administration — not an independent PI-led research track."
+    },
+    {
+      "name": "Eric S. Folker",
+      "title": "Associate Professor & Director of Undergraduate Programs",
+      "email": "eric.folker@bc.edu",
+      "why": "Faculty — not an independent PI-led research track."
+    },
+    {
+      "name": "Klemens Engelberg",
+      "title": "Research Assistant Faculty",
+      "email": "klemens.engelberg@bc.edu",
+      "why": "Research Faculty — not an independent PI-led research track."
+    },
+    {
+      "name": "Bret Judson",
+      "title": "Imaging Facility Manager",
+      "email": "bret.judson@bc.edu",
+      "why": "Adjunct Faculty — not an independent PI-led research track."
+    },
+    {
+      "name": "Joshua Z. Rappoport",
+      "title": "Part Time Faculty",
+      "email": "rappopoj@bc.edu",
+      "why": "Adjunct Faculty — not an independent PI-led research track."
+    },
+    {
+      "name": "Indu Warrier",
+      "title": "Part-Time Faculty",
+      "email": "indu.warrier@bc.edu",
+      "why": "Adjunct Faculty — not an independent PI-led research track."
+    },
+    {
+      "name": "Gherman Wiederschain",
+      "title": "Seyfried Lab",
+      "email": "gherman.wiederschain@bc.edu",
+      "why": "Adjunct Faculty — not an independent PI-led research track."
+    },
+    {
+      "name": "Mike Kiebish",
+      "title": "Visiting Scholar",
+      "email": null,
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Derek C. Lee",
+      "title": "Visiting Scholar",
+      "email": "leebig@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Nachiket Shankar",
+      "title": "Visiting Scholar",
+      "email": "shankan@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Shalini Aggarwal",
+      "title": "Postdoctoral Fellow",
+      "email": "shalini.aggarwal@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Nicolas Cumplido Salas",
+      "title": "Postdoctoral Fellow",
+      "email": "cumplido@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Tomas Duraj",
+      "title": "Postdoctoral Fellow",
+      "email": "tomas.duraj@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Miriam Fernández-Lajarín",
+      "title": "Postdoctoral Fellow",
+      "email": "lajarin@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Ellie Gaylord",
+      "title": "Postdoctoral Fellow",
+      "email": "elizabeth.gaylord@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Akina Osaki",
+      "title": "Postdoctoral Fellow",
+      "email": "akina.osaki@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Toshiaki Uemoto",
+      "title": "Postdoctoral Fellow",
+      "email": "toshiaki.uemoto@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Zachary Williams",
+      "title": "Postdoctoral Fellow",
+      "email": "willibso@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Yihan Wu",
+      "title": "Postdoctoral Fellow",
+      "email": "wubdx@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Modinat Abayomi",
+      "title": "Ph.D. Candidate",
+      "email": "abayomim@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Maira Ahmed",
+      "title": "Ph.D. Candidate",
+      "email": "ahmedmg@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Javad Akbari",
+      "title": "Ph.D. Candidate",
+      "email": "akbarim@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Sarah Bibeau",
+      "title": "Ph.D. Candidate",
+      "email": "bibeaus@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Stefania Bonanni",
+      "title": "Ph.D. Candidate",
+      "email": "stefania.bonanni@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Thiago  Borges",
+      "title": "Ph.D. Candidate",
+      "email": "borgesth@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Laurie Brutus",
+      "title": "Ph.D. Candidate",
+      "email": "brutusl@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Leandra Bryant",
+      "title": "Ph.D. Candidate",
+      "email": "leandra.bryant@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Tabitha Cady",
+      "title": "Ph.D. Candidate",
+      "email": "tabitha.cady@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Madisen Caferro",
+      "title": "Ph.D. Candidate",
+      "email": "caferro@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Katelyn Campoverde",
+      "title": "Ph.D. Candidate",
+      "email": "campovek@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Alejandra Carreon Torres",
+      "title": "Ph.D. Candidate",
+      "email": "carreont@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Nicole Chen",
+      "title": "Ph.D. Candidate",
+      "email": "chenico@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Yusuf Dogru",
+      "title": "Ph.D Candidate",
+      "email": "dogru@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Fernando Dominguez",
+      "title": "Ph.D. Candidate",
+      "email": "fernando.dominguez@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Dule Dule",
+      "title": "Ph.D. Candidate",
+      "email": "dulef@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Olivia Fitzgerald",
+      "title": "Ph.D. Candidate",
+      "email": "fitzgeom@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "John Gabelmann",
+      "title": "Ph.D. Candidate",
+      "email": "gabelmaj@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Carli Genova",
+      "title": "Ph.D. Candidate",
+      "email": "genovaca@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Abby Grady",
+      "title": "Ph.D. Candidate",
+      "email": "abigail.grady@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Bey Guerster",
+      "title": "Ph.D. Candidate",
+      "email": "bela.guerster@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Hallie Hayne",
+      "title": "Ph.D. Candidate",
+      "email": "hallie.hayne@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Sara Hubbell",
+      "title": "Ph.D. Candidate",
+      "email": "hubbells@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Allison Jefferis",
+      "title": "Ph.D. Candidate",
+      "email": "allison.jefferis@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Kristina Kelley",
+      "title": "Ph.D. Candidate",
+      "email": "kelleyhq@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Victoria Kent",
+      "title": "Ph.D. Candidate",
+      "email": "victoria.kent@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Daniel Koskas",
+      "title": "Ph.D. Candidate",
+      "email": "koskas@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Emma Kramer",
+      "title": "Ph.D. Candidate",
+      "email": "emma.kramer@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Jake Leinas",
+      "title": "Ph.D. Candidate",
+      "email": "leinasj@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Justin McDuffie",
+      "title": "Ph.D. Candidate",
+      "email": "mcduffju@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Rae Mozal",
+      "title": "Ph.D. Candidate",
+      "email": "raegan.mozal@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Connor Murphy",
+      "title": "Ph.D. Candidate",
+      "email": "murpang@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Quynh  Nguyen",
+      "title": "Ph.D. Candidate",
+      "email": "nguytha@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Ethan Ni",
+      "title": "Ph.D. Candidate",
+      "email": "ethan.ni@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "David Ojo",
+      "title": "Ph.D. Candidate",
+      "email": "david.ojo@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Prince Oppong",
+      "title": "Ph.D. Candidate",
+      "email": "prince.oppong@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Jorel Padilla",
+      "title": "Ph.D. Candidate",
+      "email": "padilljg@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Owen Page",
+      "title": "Ph.D. Candidate",
+      "email": "pageow@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Daria Perminova",
+      "title": "Ph.D. Candidate",
+      "email": "perminov@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Audrey Randall",
+      "title": "Ph.D. Candidate",
+      "email": "randalau@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Carmen Rivera",
+      "title": "Ph.D. Candidate",
+      "email": "riverahh@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Marina Ruzic",
+      "title": "Ph.D. Candidate",
+      "email": "ruzic@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Ciara Schaepe",
+      "title": "Ph.D. Candidate",
+      "email": "schaepe@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Sumaiya Sharmin",
+      "title": "Ph.D. Candidate",
+      "email": "sharmisu@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Minqi Shen",
+      "title": "Ph.D. Candidate",
+      "email": "shenmk@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Crisvely Soto Martinez",
+      "title": "Ph.D. Candidate",
+      "email": "crisvely.sotomartinez@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Courtney  Stuart",
+      "title": "Ph.D. Candidate",
+      "email": "stuartcb@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Robert Szabad",
+      "title": "Ph.D. Candidate",
+      "email": "robert.szabad@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Lauren Tramonte",
+      "title": "Ph.D. Candidate",
+      "email": "tramontl@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Katherine Truelson",
+      "title": "Ph.D. Candidate",
+      "email": "truelson@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Sofia Uribe Calampa",
+      "title": "Ph.D. Candidate",
+      "email": "carmen.uribecalampa@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Mackenzie Vallely",
+      "title": "Ph.D. Candidate",
+      "email": "mackenzie.vallely@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Walker Vickers",
+      "title": "Ph.D. Candidate",
+      "email": "vickerab@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Tian Wang",
+      "title": "Ph.D. Candidate",
+      "email": "drwangt@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Vaishnavi Warrier",
+      "title": "Ph.D. Candidate",
+      "email": "warrierv@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Yuzi Zhang",
+      "title": "Ph.D. Candidate",
+      "email": "yuzi.zhang@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Jeremy Eberhard",
+      "title": "Senior Research Associate",
+      "email": "eberharj@bc.edu",
+      "why": "Research Scientists — not an independent PI-led research track."
+    },
+    {
+      "name": "Sean Keeley",
+      "title": "Research Associate",
+      "email": "keeleysb@bc.edu",
+      "why": "Research Scientists — not an independent PI-led research track."
+    },
+    {
+      "name": "So-Yon Lim",
+      "title": "Senior Research Associate",
+      "email": "limgn@bc.edu",
+      "why": "Research Scientists — not an independent PI-led research track."
+    },
+    {
+      "name": "Purna Mukherjee",
+      "title": "Senior Research Scientist",
+      "email": "purna.mukherjee@bc.edu",
+      "why": "Research Scientists — not an independent PI-led research track."
+    },
+    {
+      "name": "Linh Ta",
+      "title": "Research Associate",
+      "email": "linh.ta@bc.edu",
+      "why": "Research Scientists — not an independent PI-led research track."
+    },
+    {
+      "name": "Marco Zaccaria",
+      "title": "Senior Research Associate",
+      "email": "marco.zaccaria@bc.edu",
+      "why": "Research Scientists — not an independent PI-led research track."
+    },
+    {
+      "name": "Lydia Bischoff",
+      "title": "Research Technician",
+      "email": "bischofl@bc.edu",
+      "why": "Research Technicians — not an independent PI-led research track."
+    },
+    {
+      "name": "Sophie Bodrog",
+      "title": "Research Technician",
+      "email": "bodrog@bc.edu",
+      "why": "Research Technicians — not an independent PI-led research track."
+    },
+    {
+      "name": "Sean Coleman",
+      "title": "Aquatics Technician",
+      "email": "colemasg@bc.edu",
+      "why": "Research Technicians — not an independent PI-led research track."
+    },
+    {
+      "name": "Leah Farinella",
+      "title": "Research Technician",
+      "email": "farine@bc.edu",
+      "why": "Research Technicians — not an independent PI-led research track."
+    },
+    {
+      "name": "Eric Miller",
+      "title": "Research Technician",
+      "email": "millaju@bc.edu",
+      "why": "Research Technicians — not an independent PI-led research track."
+    },
+    {
+      "name": "Cheyenne Stringfellow",
+      "title": "Research Technician",
+      "email": "cheyenne.stringfellow@bc.edu",
+      "why": "Research Technicians — not an independent PI-led research track."
+    },
+    {
+      "name": "Lauren Tramonte",
+      "title": "Research Technician",
+      "email": "lauren.tramonte@bc.edu",
+      "why": "Research Technicians — not an independent PI-led research track."
+    },
+    {
+      "name": "Jack Weidenbach",
+      "title": "Research Technician",
+      "email": "weidenbj@bc.edu",
+      "why": "Research Technicians — not an independent PI-led research track."
+    },
+    {
+      "name": "Jillian Yates",
+      "title": "Research Technician",
+      "email": "jillian.yates@bc.edu",
+      "why": "Research Technicians — not an independent PI-led research track."
+    },
+    {
+      "name": "Peter Clote",
+      "title": "Professor Emeritus",
+      "email": "peter.clote@bc.edu",
+      "why": "Emeritus/Retired Faculty — not an independent PI-led research track."
+    },
+    {
+      "name": "Daniel A. Kirschner",
+      "title": "Professor Emeritus",
+      "email": "daniel.kirschner@bc.edu",
+      "why": "Emeritus/Retired Faculty — not an independent PI-led research track."
+    },
+    {
+      "name": "Daniel Beringer",
+      "title": "Assistant Director of Undergraduate Laboratories",
+      "email": "daniel.beringer@bc.edu",
+      "why": "Teaching Lab Administration & Office Staff — not an independent PI-led research track."
+    },
+    {
+      "name": "Dina Goodfriend",
+      "title": "Associate Director, Administrative and Graduate Services",
+      "email": "dina.goodfriend@bc.edu",
+      "why": "Teaching Lab Administration & Office Staff — not an independent PI-led research track."
+    },
+    {
+      "name": "Maeve Kelley-Portillo",
+      "title": "Administrative Assistant",
+      "email": "maeve.kelley-portillo@bc.edu",
+      "why": "Teaching Lab Administration & Office Staff — not an independent PI-led research track."
+    },
+    {
+      "name": "Síle Ni Scanlain",
+      "title": "Assistant Director of Undergraduate Programs",
+      "email": "sile.niscanlain@bc.edu",
+      "why": "Teaching Lab Administration & Office Staff — not an independent PI-led research track."
+    },
+    {
+      "name": "Diane Ottaviani",
+      "title": "Faculty Support Assistant",
+      "email": "diane.sito@bc.edu",
+      "why": "Teaching Lab Administration & Office Staff — not an independent PI-led research track."
+    },
+    {
+      "name": "Douglas Warner",
+      "title": "Director of Laboratories",
+      "email": "douglas.warner@bc.edu",
+      "why": "Teaching Lab Administration & Office Staff — not an independent PI-led research track."
+    }
+  ],
+  "notes": null
+}

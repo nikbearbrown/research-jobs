@@ -1,0 +1,40 @@
+{
+  "id": "umass-boston-ai-institute",
+  "institution": "UMass Boston",
+  "unit": "Paul English Applied Artificial Intelligence Institute (PEAAII)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["https://ai.umb.edu", "https://ai.umb.edu/people"],
+  "labs": [
+    {
+      "id": "umass-boston-ai-institute-wei-ding",
+      "kind": "research-lab",
+      "lab_name": "Paul English Applied AI Institute",
+      "pi_name": "Wei Ding",
+      "pi_title": "Executive Director, PEAAII; Distinguished Professor of Computer Science",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "AI, data mining, machine learning and computational semantics applied in healthcare, environmental, astronomical and geological sciences.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://ai.umb.edu/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Cross-disciplinary institute, not a PI-led lab in the usual sense; recorded as a single org-level entry under its Executive Director. Lead Planning Team and Curricular Working Group members hold their primary faculty appointments in other UMass Boston departments (English, Philosophy, Management Science, Computer Science) -- not duplicated as separate labs here."
+    }
+  ],
+  "non_lab_people": [
+    {"name": "Rajini Srikanth", "title": "Dean of Faculty; Professor of English (Lead Planning Team)", "email": null, "why": "Planning-team member, primary appointment elsewhere."},
+    {"name": "Leonard Von Morze", "title": "Dean of the Honors College; Associate Professor of English (Lead Planning Team)", "email": null, "why": "Planning-team member, primary appointment elsewhere."},
+    {"name": "Nir Eisikovits", "title": "Professor of Philosophy; Director, Applied Ethics Center (Lead Planning Team)", "email": null, "why": "Planning-team member, primary appointment elsewhere."},
+    {"name": "Wei Zhang", "title": "Professor of Management Science & Information Science (Curricular Working Group)", "email": null, "why": "Working-group member, primary appointment elsewhere."},
+    {"name": "Xiaohui Liang", "title": "Associate Professor of Computer Science (Curricular Working Group)", "email": null, "why": "Working-group member, primary appointment elsewhere."}
+  ],
+  "notes": null
+}

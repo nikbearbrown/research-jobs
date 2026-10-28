@@ -1,0 +1,15 @@
+{
+  "id": "dana-farber-medical-oncology",
+  "institution": "Dana-Farber Cancer Institute",
+  "unit": "Department of Medical Oncology",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.dana-farber.org/research/departments-centers/medical-oncology",
+    "https://www.dana-farber.org/research/labs",
+    "https://www.dana-farber.org/research/our-researchers"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The department's own page is descriptive only (mission, divisions, statistics -- '80+ highly collaborative research labs', '300+ HMS Faculty') with no individual PI roster, and links out to two institute-wide pages instead of a department-specific list: 'Lab Websites' (https://www.dana-farber.org/research/labs, ~143 named PI labs, flat alphabetical list with no department tag) and 'Our Researchers' (a 'Find a Researcher' search tool, not browsed here). Neither page tags labs by department, so this department's labs can't be reliably separated from dana-farber-labs' full list without visiting each PI's own profile -- out of scope for this pass. The real breadth-pass source for DFCI labs is the still-`todo` `dana-farber-labs` target (id in targets.csv); recommend scraping that one first, then back-filling department tags here from each lab's own page if it states one."
+}

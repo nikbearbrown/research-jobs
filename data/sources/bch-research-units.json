@@ -1,0 +1,13 @@
+{
+  "id": "bch-research-units",
+  "institution": "Boston Children's Hospital",
+  "unit": "Research Units (departments, programs, centers)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://research.childrenshospital.org/research-units"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "This is a navigational index, not a faculty roster: ~37 clinical Departments & Divisions (Adolescent and Young Adult Medicine, Cardiology Research, Hematology and Oncology, Immunology, Neurology, Psychiatry, etc.), 6 cross-cutting Programs & Initiatives (CHIP, CRDC, PVP, PCMM, Stem Cell and Regenerative Biology Program, Translational Research Program, Vascular Biology Program), and 5 named Centers (Fetal Neonatal Neuroimaging and Developmental Science Center, F.M. Kirby Neurobiology Center, Manton Center for Orphan Disease Research, Rosamund Stone Zander and Hansjoerg Wyss Translational Neuroscience Center, Tommy Fuss Center for Neuropsychiatric Disease Research) -- none individually fetched in this pass. No PI names appear on this index page itself. Recommend a future pass either add the 5 named Centers as their own targets.csv rows (similar to harvard-hms's sub-departments) or visit each department/program link directly for its own roster."
+}

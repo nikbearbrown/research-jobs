@@ -1,0 +1,11 @@
+{
+  "id": "umass-boston-data-quantum",
+  "institution": "UMass Boston",
+  "unit": "Data & Quantum Science Center (DataQS)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["https://www.umb.edu/data-quantum-science-center/"],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "New center (approved April 2026, operational since September 2024) with no dedicated people/faculty listing page found -- its homepage says it 'builds on the DS cluster hiring of five faculty since 2020 and three QISE faculty positions' but does not name them. Those faculty are likely already recorded under umass-boston-computer-science.json, umass-boston-physics.json or umass-boston-mathematics.json. General contact: DataQS@umb.edu. Recommend status partial."
+}

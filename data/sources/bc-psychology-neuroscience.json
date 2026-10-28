@@ -1,0 +1,957 @@
+{
+  "id": "bc-psychology-neuroscience",
+  "institution": "Boston College",
+  "unit": "Department of Psychology and Neuroscience",
+  "city": "Chestnut Hill, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people.html"
+  ],
+  "labs": [
+    {
+      "id": "bc-psychology-neuroscience-stefano-anzellotti",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Stefano Anzellotti",
+      "pi_title": "Associate Professor",
+      "pi_email": "stefano.anzellotti@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 334",
+      "phone": "617-552-0793",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/stefano-anzellotti.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-diane-jo-bart-plange",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Diane-Jo Bart-Plange",
+      "pi_title": "Assistant Professor",
+      "pi_email": "d.bartplange@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 523",
+      "phone": "617-552-4119",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/dianejo-bartplange.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-john-christianson",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "John Christianson",
+      "pi_title": "Professor",
+      "pi_email": "john.christianson.2@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 432",
+      "phone": "617-552-3970",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/john-christianson.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-sara-cordes",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Sara Cordes",
+      "pi_title": "Professor",
+      "pi_email": "sara.cordes@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 345",
+      "phone": "617-552-4112",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/sara-cordes.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-elizabeth-kensinger",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Elizabeth  Kensinger",
+      "pi_title": "Professor",
+      "pi_email": "elizabeth.kensinger@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 510",
+      "phone": "617-552-1350",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/elizabeth-kensinger.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-kengthsagn-louis",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Kengthsagn Louis",
+      "pi_title": "Assistant Professor",
+      "pi_email": "kengthsagn.louis@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 522",
+      "phone": "617-552-0463",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/kengthsagn-louis.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-brooke-magnus",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Brooke Magnus",
+      "pi_title": "Associate Professor",
+      "pi_email": "brooke.magnus@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 343",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/brooke-magnus.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-katherine-mcauliffe",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Katherine McAuliffe",
+      "pi_title": "Professor",
+      "pi_email": "katherine.mcauliffe.2@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 528",
+      "phone": "617-552-4319",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/katherine-mcauliffe.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-michael-mcdannald",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Michael McDannald",
+      "pi_title": "Professor",
+      "pi_email": "michael.mcdannald@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 430B",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/michael-mcdannald.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-gorica-petrovich",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Gorica Petrovich",
+      "pi_title": "Professor",
+      "pi_email": "gorica.petrovich@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 344",
+      "phone": "617-552-0416",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/gorica-petrovich.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-karen-rosen",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Karen  Rosen",
+      "pi_title": "Associate Professor",
+      "pi_email": "karen.rosen@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 436",
+      "phone": "617-552-4104",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/karen-rosen.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-ehri-ryu",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Ehri Ryu",
+      "pi_title": "Associate Professor",
+      "pi_email": "ehri.ryu@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 340",
+      "phone": "617-552-2498",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/ehri-ryu.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-stacee-santos",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Stacee Santos",
+      "pi_title": "Research Assistant Professor",
+      "pi_email": "stacee.santos@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Carney 268",
+      "phone": "617-552-8652",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/stacee-santos.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-scott-slotnick",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Scott Slotnick",
+      "pi_title": "Professor",
+      "pi_email": "sd.slotnick@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 330",
+      "phone": "617-552-4188",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/scott-slotnick.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-caroline-smith",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Caroline Smith",
+      "pi_title": "Straus Family Sesquicentennial Assistant Professor",
+      "pi_email": "caroline.smith.3@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 430C",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/smith-caroline.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-gregg-sparkman",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Gregg Sparkman",
+      "pi_title": "Assistant Professor",
+      "pi_email": "gregg.sparkman@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 514",
+      "phone": "617-552-2714",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/gregg-sparkman.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-momchil-tomov",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Momchil Tomov",
+      "pi_title": "Assistant Professor",
+      "pi_email": "momchil.tomov@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 525",
+      "phone": "617-552-4546",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/momchil-tomov.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-liane-young",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Liane  Young",
+      "pi_title": "Professor",
+      "pi_email": "liane.young@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 347",
+      "phone": "617-552-1541",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/liane-young.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-ali-banuazizi",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Ali Banuazizi",
+      "pi_title": "Professor",
+      "pi_email": "ali.banuazizi@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 513",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/affiliated-and-emeritus/ali-banuazizi.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-lisa-feldman-barrett",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Lisa Feldman Barrett",
+      "pi_title": "Research Professor",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/affiliated-and-emeritus/lisa-feldman-barrett.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-jessica-black",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Jessica Black",
+      "pi_title": "Associate Professor",
+      "pi_email": "j.black@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "McGuinn 209",
+      "phone": "617-552-1866",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/affiliated-and-emeritus/jessica-black.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-peter-gray",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Peter Gray",
+      "pi_title": "Research Professor",
+      "pi_email": "peter.gray@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/affiliated-and-emeritus/peter-gray.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-maya-tamir",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Maya Tamir",
+      "pi_title": "Research Assistant Professor",
+      "pi_email": "maya.tamir@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/affiliated-and-emeritus/maya-tamir.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-psychology-neuroscience-ellen-winner",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Ellen Winner",
+      "pi_title": "Professor Emerita",
+      "pi_email": "ellen.winner@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "View More",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/affiliated-and-emeritus/ellen-winner.html",
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass)."
+    }
+  ],
+  "non_lab_people": [
+    {
+      "name": "Regan Bernhard",
+      "title": "Lecturer",
+      "email": "regan.bernhard@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Sindy Cole",
+      "title": "Lecturer",
+      "email": "sindy.cole@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Kaitlyn Dorst",
+      "title": "Visiting Lecturer",
+      "email": "kaitlyn.dorst@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Jaclyn Ford",
+      "title": "Lecturer",
+      "email": "jaclyn.ford@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Jason Geller",
+      "title": "Director, Human Neuroscience Laboratory",
+      "email": "jason.geller@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Andrea  Heberlein",
+      "title": "Distinguished Senior Lecturer",
+      "email": "andrea.heberlein@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Gene  Heyman",
+      "title": "Senior Lecturer",
+      "email": "gene.heyman@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Angie Johnston",
+      "title": "Lecturer",
+      "email": "angie.johnston@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Kelly Kane",
+      "title": "Visiting Lecturer",
+      "email": "kelly.kane@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Sean MacEvoy",
+      "title": "Distinguished Senior Lecturer",
+      "email": "sean.macevoy@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Deeya Mitra",
+      "title": "Lecturer",
+      "email": "deeya.mitra@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Shveta Parekh",
+      "title": "Lecturer",
+      "email": "shveta.parekh@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Amy Tishelman",
+      "title": "Research Associate Professor",
+      "email": "amy.tishelman@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Mattitiyahu Zimbler",
+      "title": "Lecturer",
+      "email": "mattitiyahu.zimbler@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Khaled Elazab",
+      "title": "Adjunct Instructor",
+      "email": "khaled.elazab@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Vladimir Ivkovic",
+      "title": "Adjunct Professor",
+      "email": "vladimir.ivkovic@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Carolyn Knoepfler",
+      "title": "Adjunct Professor",
+      "email": "carolyn.knoepfler@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "M. Mookie C. Manalili",
+      "title": "Adjunct Professor",
+      "email": "michael.manalili@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Sarah McCormick",
+      "title": "Adjunct Professor",
+      "email": "sarah.mccormick@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Alexander Noyes",
+      "title": "Adjunct Professor",
+      "email": "alexander.noyes@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Anat Perry",
+      "title": "Adjunct Professor",
+      "email": null,
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "William Snider",
+      "title": "Adjunct Professor",
+      "email": "william.snider.2@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Lily Walsh",
+      "title": "Adjunct Professor",
+      "email": "lily.walsh.2@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Nadine Weidman",
+      "title": "Adjunct Professor",
+      "email": "nadine.weidman@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Hiram Brownell",
+      "title": "Professor Emeritus",
+      "email": "hiram.brownell@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Randolph Easton",
+      "title": "Professor Emeritus",
+      "email": "randolph.easton@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Ramsay Liem",
+      "title": "Professor Emeritus",
+      "email": "ramsay.liem@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Oluwatobi Abubakare",
+      "title": "Ph.D. Candidate",
+      "email": "oluwatobi.abubakare@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Christalie Anor",
+      "title": "Ph.D. Candidate",
+      "email": "christalie.anor@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Seoyeon Bae",
+      "title": "Ph.D. Candidate",
+      "email": "seoyeon.bae@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Jada Byars",
+      "title": "Ph.D. Candidate",
+      "email": "jada.byars@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Alanis Camacho-Narvaez",
+      "title": "Ph.D. Candidate",
+      "email": "alanis.camacho-narvaez@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Carolina Carneiro",
+      "title": "Ph.D. Candidate",
+      "email": "carolina.carneiro@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Liliuokalani Counsman",
+      "title": "Ph.D. Candidate",
+      "email": "liliuokalani.counsman@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Nina Curko",
+      "title": "Ph.D. Candidate",
+      "email": "nina.curko@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Marie Diagne",
+      "title": "Ph.D. Candidate",
+      "email": "marie.diagne@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Jacob Glassman",
+      "title": "Ph.D. Candidate",
+      "email": "jacob.glassman@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Nicholas Gordon",
+      "title": "Ph.D. Candidate",
+      "email": "nicholas.gordon.2@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Karen Jesch",
+      "title": "Ph.D. Candidate",
+      "email": "karen.jesch@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Yuejiao Jiang",
+      "title": "Ph.D. Candidate",
+      "email": "yuejiao.jiang@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Hamed Karimi Kerdabadi",
+      "title": "Ph.D. Candidate",
+      "email": "hamed.karimikerdabadi@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Anna Lally",
+      "title": "Ph.D. Candidate",
+      "email": "anna.lally.2@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Tianyi Li",
+      "title": "Ph.D. Candidate",
+      "email": "tianyi.li.3@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Trystan Loustau",
+      "title": "Ph.D. Candidate",
+      "email": "trystan.loustau@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Ariana Mondiri",
+      "title": "Ph.D. Candidate",
+      "email": "ariana.mondiri@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Sophie Riddick",
+      "title": "Ph.D. Candidate",
+      "email": "sophie.riddick@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Rocio Rivera Crespo",
+      "title": "Ph.D. Candidate",
+      "email": "rocio.riveracrespo@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Fazli Salim",
+      "title": "Ph.D. Candidate",
+      "email": "fazli.salim@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Brett Schmidt",
+      "title": "Ph.D. Candidate",
+      "email": "brett.schmidt@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Sophia Smyth",
+      "title": "Ph.D. Candidate",
+      "email": "sophia.smyth@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Julia St. George",
+      "title": "Ph.D. Candidate",
+      "email": "julia.stgeorge@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Ashley Steinkrauss",
+      "title": "Ph.D. Candidate",
+      "email": "ashley.steinkrauss@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Maura Stoehr",
+      "title": "Ph.D. Candidate",
+      "email": "maura.stoehr@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Taylor Stone",
+      "title": "Ph.D. Candidate",
+      "email": "taylor.stone@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Marcus Trenfield",
+      "title": "Ph.D. Candidate",
+      "email": "marcus.trenfield@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Yiyuan Zhang",
+      "title": "Ph.D. Candidate",
+      "email": "yiyuan.zhang@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Helen Zheng",
+      "title": "Ph.D. Candidate",
+      "email": "helen.zheng@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Isabelle Boni",
+      "title": "Postdoctoral Fellow",
+      "email": "isabelle.boni@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Eileen Chun",
+      "title": "Postdoctoral Fellow",
+      "email": "eileen.chun@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Leonard Faul",
+      "title": "Postdoctoral Fellow",
+      "email": "leonard.faul@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Yann Harel",
+      "title": "Postdoctoral Fellow",
+      "email": "yann.harel@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Rina Horii",
+      "title": "Postdoctoral Fellow",
+      "email": "rina.horii@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "William Meese",
+      "title": "Postdoctoral Fellow",
+      "email": "william.meese@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Mahsa  Moaddab",
+      "title": "Postdoctoral Fellow",
+      "email": "mahsa.moaddab@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Isabelle Moore",
+      "title": "Postdoctoral Fellow",
+      "email": "isabelle.moore@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Alexander Noyes",
+      "title": "Postdoctoral Fellow",
+      "email": "alexander.noyes@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Anandita Sabherwal",
+      "title": "Postdoctoral Fellow",
+      "email": "anandita.sabherwal@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "Shuai Shao",
+      "title": "Postdoctoral Fellow",
+      "email": "shuai.shao@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    },
+    {
+      "name": "William Taylor",
+      "title": "Postdoctoral Fellow",
+      "email": "william.taylor.2@bc.edu",
+      "why": "Postdoctoral Fellows — not an independent PI-led research track."
+    }
+  ],
+  "notes": null
+}
