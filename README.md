@@ -20,18 +20,18 @@ Agents: start with `CLAUDE.md`.
 
 ## Coverage (2026-10-27)
 
-165 labs so far, 87 with a PI email.
+164 labs so far, 89 with a PI email.
 
 | Source | Labs | Small (≤10) | Medium (11–20) | Large (>20) | Size unknown |
 |---|---|---|---|---|---|
 | Harvard Chemistry and Chemical Biology (faculty + lecturers) | 25 + 1 core facility | 5 | 2 | 5 | 13 |
 | Harvard Molecular and Cellular Biology | 36 | 18 | 10 | 6 | 2 |
 | MIT Chemistry (faculty list only; profiles not yet read) | 42 | 0 | 0 | 0 | 42 |
-| Whitehead Institute (Members, Fellows, AI Fellow) | 25 | 0 | 0 | 0 | 25 |
+| Whitehead Institute (Members, Fellows, AI Fellow) | 24 | 4 | 5 | 3 | 12 |
 | Rowland Institute (Fellows) | 8 | 8 | 0 | 0 | 0 |
 | Ragon Institute | 28 | 9 | 7 | 4 | 8 |
 
-Harvard MCB sizes come from the department directory filtered by lab (it includes shared lab administrators), not the labs' own sites.
+Harvard MCB sizes come from the department directory filtered by lab (it includes shared lab administrators), not the labs' own sites. Whitehead's Gerald Fink is now listed under `non_lab_people` (retired, no active group) rather than as a lab, which is why the Whitehead lab count dropped from 25 to 24; member counts for 13 of its labs (Bartel, Cheeseman, Corradin, Gehring, Jain, Lehmann, Li, Page, Raguram, Sullivan, Sun, Weissman, plus Lodish/Young left `unknown` on purpose -- see their `notes`) now come from each lab's own site rather than being unread.
 Rowland Fellows run independent groups of one to three people; their counts come from the institute directory and may undercount. Most "unknown" sizes are labs whose own websites could not be read yet (see `notes` on each lab).
 
 ## How a lab is classified

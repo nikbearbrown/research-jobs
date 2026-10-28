@@ -14,18 +14,19 @@
       "lab_name": "Bartel Lab",
       "pi_name": "David Bartel",
       "pi_title": "Member, Whitehead Institute; Professor of Biology, MIT; HHMI Investigator",
-      "pi_email": null,
+      "pi_email": "dbartel@wi.mit.edu",
       "lab_website": "http://bartellab.wi.mit.edu/",
-      "admin_name": null,
+      "admin_name": "Kristin Bahleda (Lab Manager); Laura Resteghini (Administrative Lab Manager)",
       "admin_email": "resteghini@wi.mit.edu",
       "research_summary": "Studies how cells regulate gene expression by altering mRNA stability and translation, including microRNA pathways.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 20,
+      "member_breakdown": "1 PI, 8 postdoctoral fellows, 8 graduate students, 1 MIT UROP undergraduate, 2 lab managers",
+      "members_page_url": "http://bartellab.wi.mit.edu/Lab_members.html",
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/bartel",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read. Only contact email shown (resteghini@) is unlabeled, likely an admin; stored as admin_email."
+      "notes": "Lab website read via scripted fetch (Lab_members.html). Counted current members on that page, excluding the separate Lab Alumni page.",
+      "location": "9 Cambridge Center, Cambridge, MA 02142"
     },
     {
       "id": "whitehead-iain-cheeseman",
@@ -38,13 +39,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Investigates the molecular machinery that drives chromosome segregation and cell division.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 2 postdocs, 2 staff scientists, 8 graduate students, 2 technicians, 1 undergraduate",
+      "members_page_url": "https://cheesemanlab.wi.mit.edu/team",
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/cheeseman",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read."
+      "notes": "Lab website's Team page read; roster has a playful 'cheese identity' bio format but clear titles. Excluded the separate chronological Alumni list."
     },
     {
       "id": "whitehead-olivia-corradin",
@@ -54,35 +55,16 @@
       "pi_title": "Member, Whitehead Institute; Assistant Professor of Biology, MIT",
       "pi_email": "corradin@wi.mit.edu",
       "lab_website": "http://www.Corradinlab.org",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Aline Niyonkuru (Administrative Assistant)",
+      "admin_email": "aniyonkuru@wi.mit.edu",
       "research_summary": "Examines how noncoding genetic variants alter gene regulation to drive diseases such as multiple sclerosis and substance use disorders.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": "https://wi.mit.edu/careers",
-      "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
+      "member_count": 9,
+      "member_breakdown": "1 PI, ~6 graduate/PhD students, 1 postdoc, 1 lab technician (individual role titles are not labeled on the People page; inferred from each person's bio)",
+      "members_page_url": "https://www.corradinlab.org/people",
+      "join_page_url": "https://www.corradinlab.org/contact",
+      "join_notes": "Lab's own 'Contact/Job Opportunities' page lists the PI and administrative assistant emails; no specific open positions listed beyond general contact.",
       "profile_url": "https://wi.mit.edu/people/member/corradin",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read."
-    },
-    {
-      "id": "whitehead-gerald-fink",
-      "kind": "research-lab",
-      "lab_name": "Fink Lab",
-      "pi_name": "Gerald Fink",
-      "pi_title": "Member (Emeritus) and Founding Member, Whitehead Institute; Professor of Genetics, MIT",
-      "pi_email": null,
-      "lab_website": null,
-      "admin_name": null,
-      "admin_email": "bmdobson@wi.mit.edu",
-      "research_summary": "Studies gene regulation and how fungal pathogens like Candida albicans switch to invasive forms.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": "https://wi.mit.edu/careers",
-      "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
-      "profile_url": "https://wi.mit.edu/people/member/fink-emeritus",
-      "notes": "No lab website listed on profile; no roster available. Emeritus; lab may not be recruiting. Only contact email (bmdobson@) appears to be an assistant; stored as admin_email."
+      "notes": "Lab website (Wix) read via Playwright; People and Contact pages both fetched. Role titles inferred from bios since the People page does not label them explicitly for most members."
     },
     {
       "id": "whitehead-mary-gehring",
@@ -92,16 +74,16 @@
       "pi_title": "Member, Whitehead Institute; Professor of Biology, MIT; HHMI Investigator; David Baltimore Chair",
       "pi_email": "mgehring@wi.mit.edu",
       "lab_website": "http://www.gehringplantlab.org/",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Lindsey Bechen (Lab Manager, lbechen@wi.mit.edu); Beverly Dobson (Administrative Lab Manager)",
+      "admin_email": "bmdobson@wi.mit.edu",
       "research_summary": "Studies plant epigenetic inheritance using Arabidopsis thaliana.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 19,
+      "member_breakdown": "1 PI, 2 lab/administrative managers, 9 postdoctoral associates, 6 graduate students, 1 undergraduate",
+      "members_page_url": "https://www.gehringplantlab.org/people",
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/gehring",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read."
+      "notes": "Lab website (Squarespace) read via Playwright, People page. Counted 'Current Lab Members' section only, excluding the extensive Lab Alumni lists (technicians, graduate students, undergraduates, postdocs going back to 2010)."
     },
     {
       "id": "whitehead-sinisa-hrvatin",
@@ -120,7 +102,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/hrvatin",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile."
     },
     {
       "id": "whitehead-rudolf-jaenisch",
@@ -139,7 +121,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/jaenisch",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read. Only contact email (burger@) is unlabeled, likely admin; stored as admin_email."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile."
     },
     {
       "id": "whitehead-ankur-jain",
@@ -149,16 +131,16 @@
       "pi_title": "Member, Whitehead Institute; Associate Professor of Biology, MIT",
       "pi_email": "ajain@wi.mit.edu",
       "lab_website": "https://www.ajainlab.org/",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Beverly Dobson (Administrative Lab Manager)",
+      "admin_email": "bmdobson@wi.mit.edu",
       "research_summary": "Studies how biomolecules self-organize into membraneless RNA granules and how this contributes to disease.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 6 postdoctoral fellows, 4 graduate students, 1 research technician, 1 administrative lab manager",
+      "members_page_url": "https://www.ajainlab.org/team",
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/jain",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read."
+      "notes": "Lab website (Squarespace) read via scripted fetch, Members page. Counted 'Current Members' section, excluding Lab Alumni table."
     },
     {
       "id": "whitehead-ruth-lehmann",
@@ -166,18 +148,18 @@
       "lab_name": "Lehmann Lab",
       "pi_name": "Ruth Lehmann",
       "pi_title": "Director and Member, Whitehead Institute; Professor of Biology, MIT",
-      "pi_email": null,
+      "pi_email": "lehmann@wi.mit.edu",
       "lab_website": "http://lehmannlab.com",
-      "admin_name": null,
-      "admin_email": "lehmann_admin@wi.mit.edu",
+      "admin_name": "Donna Hicks (Administrative Lab Manager); Lisa Bolduc (Executive Assistant); Badri Krishnan (Senior Lab Manager/Scientist)",
+      "admin_email": "donnah@wi.mit.edu",
       "research_summary": "Studies how germ cells form and transmit the capacity to build a new organism across generations.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 21,
+      "member_breakdown": "1 PI, 11 postdocs (one joint with the Lionnet Lab at NYU), 4 graduate students, 1 senior lab manager/scientist, 2 administrative/executive staff, 2 technical staff",
+      "members_page_url": "https://www.lehmannlab.com/lab-members",
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/lehmann-director",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read."
+      "notes": "Lab website (Squarespace) read via Playwright, Lab Members page. Excluded one entry, 'Jake' (role 'Administrative assistant', bio describes attending meetings and 'stealing a bite of your food and belly rubs') -- this reads as the lab's dog/mascot, not a person, so not counted. Replaced a previously unverified placeholder admin_email with Donna Hicks's address from the page."
     },
     {
       "id": "whitehead-pulin-li",
@@ -187,16 +169,16 @@
       "pi_title": "Member, Whitehead Institute; Associate Professor of Biology, MIT",
       "pi_email": "pli@wi.mit.edu",
       "lab_website": "https://lilab.wi.mit.edu/",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Laura Resteghini (Lab Administrator)",
+      "admin_email": "resteghini@wi.mit.edu",
       "research_summary": "Studies how gene circuits in single cells enable cell-cell communication and multicellular behavior.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 3 postdoctoral associates, 9 PhD students, 1 lab administrator",
+      "members_page_url": "https://lilab.wi.mit.edu/about.html",
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/li",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read."
+      "notes": "Lab website read via Playwright, About page ('Current' section). Excluded the Alumni and 'Not Pictured Members' (former technicians/visitors) sections."
     },
     {
       "id": "whitehead-harvey-lodish",
@@ -211,11 +193,11 @@
       "research_summary": "Studied red blood cell formation and adipocyte biology to connect cell and molecular biology to disease.",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "http://lodishlab.wi.mit.edu/members.html",
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/lodish",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read. Profile labels the lab 'The Lodish Lab (1968-2019)', so it is likely no longer active. Only contact email (donovan@) is unlabeled; stored as admin_email."
+      "notes": "Lab website's Members page lists a PI plus 13 names (2 administrative staff, 2 technical assistants, 7 postdoctoral associates/fellows, 1 graduate student), but the site footer says 'This website was last updated on 29th August 2015', consistent with the department profile's label 'The Lodish Lab (1968-2019)'. member_count left null because this roster is over a decade stale and the lab appears no longer active; not treated as a current count."
     },
     {
       "id": "whitehead-sebastian-lourido",
@@ -234,7 +216,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/lourido",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile."
     },
     {
       "id": "whitehead-david-page",
@@ -247,13 +229,13 @@
       "admin_name": null,
       "admin_email": "page_admin@wi.mit.edu",
       "research_summary": "Studies genetic differences between males and females and their consequences for biology and medicine.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 32,
+      "member_breakdown": "1 PI, 16 staff (HHMI/lab managers, research and bioinformatics scientists, technical associates/assistants, lab materials associates, executive assistant), 13 graduate students, 2 postdoctoral associates",
+      "members_page_url": "https://www.pagelab.wi.mit.edu/members",
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/page",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read."
+      "notes": "Lab website (Wix) read via Playwright, Members page ('Current' staff/grad/postdoc sections only; Alumni page not counted)."
     },
     {
       "id": "whitehead-peter-reddien",
@@ -272,7 +254,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/reddien",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile."
     },
     {
       "id": "whitehead-zuri-sullivan",
@@ -285,13 +267,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies how brain-immune interactions shape physiology and behavior during illness.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": "https://wi.mit.edu/careers",
-      "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdocs (one co-mentored with the Sun Lab), 1 MD/PhD student, 1 PhD student, 1 undergraduate, 1 administrative lab manager, 1 lab manager, 1 technical assistant, 1 technical associate",
+      "members_page_url": "https://sullivanlab.wi.mit.edu/team",
+      "join_page_url": "https://sullivanlab.wi.mit.edu/philosophy",
+      "join_notes": "Philosophy page, 'Join the Lab' section: prospective grad students apply through MIT graduate programs (Biology; Brain and Cognitive Sciences); prospective postdocs should contact Zuri directly; lab manager/technician candidates apply via Whitehead Institute HR.",
       "profile_url": "https://wi.mit.edu/people/member/sullivan",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read. New lab (joined January 2026), likely recruiting."
+      "notes": "New lab (joined January 2026). Lab website (Webflow) read via Playwright, Team page. Noted a second lab-contact address, zsulliv@wi.mit.edu, used as the mailto for the PI's own name on the Philosophy page, alongside the zsullivan@wi.mit.edu already on file as pi_email -- left pi_email unchanged since it's not clearly a correction."
     },
     {
       "id": "whitehead-ron-vale",
@@ -310,7 +292,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/vale",
-      "notes": "No lab website listed on profile; no roster available. New Whitehead lab (joined December 2025)."
+      "notes": "Department profile (wi.mit.edu) read via scripted fetch; no separate lab website found yet -- consistent with this being a very new Whitehead lab (Member since December 2025, moved from Janelia/HHMI). No member roster available anywhere yet."
     },
     {
       "id": "whitehead-robert-weinberg",
@@ -329,7 +311,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/weinberg",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile."
     },
     {
       "id": "whitehead-jonathan-weissman",
@@ -339,16 +321,16 @@
       "pi_title": "Member, Whitehead Institute; Landon T. Clay Professor of Biology, MIT; HHMI Investigator",
       "pi_email": null,
       "lab_website": "http://weissman.wi.mit.edu",
-      "admin_name": null,
+      "admin_name": "Sumita Sinha (Lab Manager); Irina Cashen (Administrative Assistant); Tessa Dinnie (Administrative Lab Manager)",
       "admin_email": "weissman_admin@wi.mit.edu",
       "research_summary": "Studies protein folding and misfolding in cells and builds functional genomics tools such as ribosome profiling and CRISPRi/a.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 41,
+      "member_breakdown": "1 PI, 4 administrative/lab staff, 4 visiting scientists, 17 postdoctoral fellows, 7 PhD students, 3 master's students, 2 research technicians, 3 undergraduates",
+      "members_page_url": "https://weissman.wi.mit.edu/people",
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/weissman",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read."
+      "notes": "Lab website's People page (jekyll/static site) read via Playwright; a large 'Current' roster followed by an even larger 'Alumni' list (only Current counted). No email addresses are shown on this page for any lab member, including the admin staff named above, so the existing admin_email (weissman_admin@wi.mit.edu) could not be verified or replaced this pass."
     },
     {
       "id": "whitehead-yukiko-yamashita",
@@ -367,7 +349,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/yamashita",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile."
     },
     {
       "id": "whitehead-richard-young",
@@ -386,7 +368,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/young",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read."
+      "notes": "Lab website read via scripted fetch. The page lists an 'Alumni' heading followed by subsections (Postdoctoral Associates and Fellows, Graduate Students, Technical Assistants, Visiting Scientists) and then four more names (Richard A. Young as PI, plus a Research Scientist, an Administrative Lab Assistant, and a Technical Associate) -- it is not clear from the page structure whether only those last four are current members or whether the 'Alumni' heading applies to a narrower set. Left member_count null rather than guess; a clearer current-roster page was not found."
     },
     {
       "id": "whitehead-lindsey-backman",
@@ -405,7 +387,8 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/fellow/backman",
-      "notes": "No lab website listed on profile; no roster available. Whitehead Fellow (small independent group)."
+      "notes": "Department/fellow profile (wi.mit.edu) read via scripted fetch; no separate lab website found. No member roster shown on the profile page itself.",
+      "location": "455 Main Street, Cambridge, MA 02142"
     },
     {
       "id": "whitehead-allison-hamilos",
@@ -424,7 +407,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/fellow/hamilos",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read. Email shown obfuscated as ahamilos[at]wi[dot]mit[dot]edu. Whitehead Fellow (small independent group)."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile."
     },
     {
       "id": "whitehead-tobiloba-oni",
@@ -443,7 +426,9 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/fellow/oni",
-      "notes": "No lab website listed on profile; no roster available. Whitehead Fellow (small independent group)."
+      "notes": "Fellow profile (wi.mit.edu) read via scripted fetch; no separate lab website found. No member roster shown on the profile page itself.",
+      "location": "455 Main Street, Cambridge, MA 02142",
+      "phone": "(617) 258-5125"
     },
     {
       "id": "whitehead-aditya-raguram",
@@ -453,16 +438,16 @@
       "pi_title": "Whitehead Fellow, Whitehead Institute",
       "pi_email": "araguram@wi.mit.edu",
       "lab_website": "http://www.raguramlab.org/",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Aline Niyonkuru (Administrative Lab Manager)",
+      "admin_email": "aniyonkuru@wi.mit.edu",
       "research_summary": "Develops ways to deliver therapeutic molecules into cells in the body.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": "https://wi.mit.edu/careers",
-      "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 postdoctoral associates, 2 research technicians, 1 administrative lab manager, 1 post-baccalaureate scholar",
+      "members_page_url": "https://www.raguramlab.org/people",
+      "join_page_url": "https://www.raguramlab.org/join-us",
+      "join_notes": "Join Us page: actively recruiting at undergraduate through postdoctoral levels; email Aditya directly with a CV, summary of past research, and a statement of interest. Prior training in biology/chemistry/engineering preferred but not required.",
       "profile_url": "https://wi.mit.edu/people/fellow/raguram",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read. Whitehead Fellow (small independent group)."
+      "notes": "Lab website (Wix) read via Playwright, People and Join Us pages. Excluded Former Lab Members table. Aline Niyonkuru is also Olivia Corradin's administrative assistant -- shared Whitehead admin staff across multiple small labs, not an error."
     },
     {
       "id": "whitehead-na-sun",
@@ -472,17 +457,24 @@
       "pi_title": "AI Fellow, Whitehead Institute",
       "pi_email": "nasun@wi.mit.edu",
       "lab_website": "http://sunlab.wi.mit.edu",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Sumiko Williams (Administrative Lab Manager)",
+      "admin_email": "swilliam@wi.mit.edu",
       "research_summary": "Builds machine learning models to study communication between cells.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": "https://wi.mit.edu/careers",
-      "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 administrative lab manager, 2 postdoctoral researchers (one co-mentored with the Sullivan Lab), 1 senior technician, 1 bioinformatics technician, 1 experimental technician, 1 graduate student, 1 master's student, 1 UROP undergraduate (joint with the Weissman Lab)",
+      "members_page_url": "https://sunlab.wi.mit.edu/team.html",
+      "join_page_url": "https://sunlab.wi.mit.edu/team.html",
+      "join_notes": "Team page: 'We are always looking for passionate and talented individuals to join our research group. If interested, please contact Dr. Na Sun with your CV and a brief statement of research interests.'",
       "profile_url": "https://wi.mit.edu/people/ai-fellow/sun",
-      "notes": "Lab website fetch blocked (permission request not answered); member roster not read. Inaugural Whitehead AI Fellow (listed separately from Whitehead Fellows; included as a small independent group)."
+      "notes": "Lab website (GitHub Pages) read via Playwright, Team page. Launched September 2024; this is one of the project's target small labs."
     }
   ],
-  "non_lab_people": []
+  "non_lab_people": [
+    {
+      "name": "Gerald R. Fink",
+      "title": "Founding Member, Whitehead Institute (Emeritus); American Cancer Society Professor of Genetics, MIT",
+      "email": "bmdobson@wi.mit.edu",
+      "why": "Emeritus; Whitehead Institute news (May 23, 2025) describes celebrating 'the legacy of Founding Member and Former Director Gerald Fink' on the occasion of his retirement. His profile shows no active lab roster, lab website, or current research group -- only achievements, bio, and an institute admin contact."
+    }
+  ]
 }
