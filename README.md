@@ -20,7 +20,7 @@ Agents: start with `CLAUDE.md`.
 
 ## Coverage (2026-10-28)
 
-`data/to-read.txt` is empty, and **every priority-1 `targets.csv` row has now been attempted** (284 `done`, 108 `partial`, 0 `todo`, of 392): 5,710 labs so far, 1,492 with a PI email. Priority 2 and 3 (policy centers, business/law/education/design, small think tanks) are still untouched — 246 rows.
+`data/to-read.txt` is empty, and **every priority-1 `targets.csv` row has now been attempted** (296 `done`, 96 `partial`, 0 `todo`, of 392): 5,843 labs so far, 1,625 with a PI email. Priority 2 and 3 (policy centers, business/law/education/design, small think tanks) are still untouched — 246 rows.
 
 | Source | Labs | Small (≤10) | Medium (11–20) | Large (>20) | Size unknown |
 |---|---|---|---|---|---|
@@ -36,7 +36,7 @@ Agents: start with `CLAUDE.md`.
 | 37 Northeastern `targets.csv` rows (College of Science, College of Engineering, Bouvé, university-wide institutes) | 409 | 133 | 0 | 0 | 275 (+1 non-research entry) |
 | 36 Tufts `targets.csv` rows (CAS, School of Engineering, School of Medicine, Friedman School, Cummings Vet School) | 494 | 2 | 1 | 0 | 491 |
 | 12 Boston College `targets.csv` rows (all CAS science departments, ISR, Schiller, Weston Observatory, TIMSS&PIRLS) | 206 | 0 | 1 | 0 | 205 |
-| 12 Brandeis `targets.csv` rows | 0 | 0 | 0 | 0 | 0 |
+| 12 Brandeis `targets.csv` rows | 133 | 0 | 0 | 0 | 133 |
 | 13 UMass Boston `targets.csv` rows | 191 | 1 | 0 | 0 | 190 |
 | 23 Broad/Forsyth/Dana-Farber/hospital `targets.csv` rows | 459 | 0 | 0 | 0 | 459 |
 
@@ -52,11 +52,11 @@ Tufts (36 targets, all that are priority 1) came through cleanly: department bre
 
 Boston College (12 targets) used a new shared-template parser, `scripts/parse_bc_people.py` + `scripts/build_bc_source.py` — BC's department pages are structurally inconsistent (some repeat a section header before every sub-list, others cluster headers once at the top), so classification is title-based (regex for "Professor" vs. emeritus/visiting/adjunct/postdoc/staff) rather than section-based. `bc-timss-pirls` (a large educational-assessment center) only got its Executive Director; the rest is `done`.
 
-**Brandeis is entirely blocked**: all 12 targets return a 403 Forbidden to this project's identifying User-Agent, confirmed UA-based (not an IP/network block — a standard browser UA gets 200 OK on the same pages). Nothing was bypassed; all 12 are `partial` pending a decision on whether to use a generic browser User-Agent for this one domain (a policy question, not just a technical one).
+**Brandeis** initially blocked this project's identifying User-Agent entirely (403 on every page, confirmed UA-based — a standard browser UA got 200 OK on the same pages). Raised with the project owner, who decided to use a generic browser User-Agent for `brandeis.edu` specifically (`scripts/fetch.py`'s `UA_OVERRIDE_HOSTS`, every other host keeps the honest project UA). All 12 targets then came through cleanly via a new shared-template parser, `scripts/parse_brandeis_people.py` (133 labs). Cross-cutting centers (MRSEC, Rosenstiel, Swartz, Volen) recorded thin since their PIs are already in the department files.
 
 UMass Boston (13 targets) and Broad/Forsyth/Dana-Farber/the remaining hospitals (23 targets) are also attempted. Dana-Farber's institute-wide "Our Researchers" page is a broken JS search, but its curated "Lab Websites" list (`dana-farber-labs`, 130 labs) and 3 of its department pages came through cleanly with external lab-site links. Four hospital targets (`bwh-research`, `mgh-lab-search`, `mgh-research-institute`, `meei-research`) all route to the *same* Mass General Brigham-wide institutes/centers search tool — confirmed it holds 555 labs across the whole MGB system (JS-only, Playwright-required, no hospital-level filter found) but wasn't crawled this round; that's a high-value target for a future pass. `bch-research`'s own researcher search and Broad Institute's `/people` page are both broken JS widgets with no server-rendered fallback found.
 
-`data/targets.csv`: **all 392 priority-1 rows have now been attempted** (284 `done`, 108 `partial`, 0 `todo`). Broad/Wyss/Koch/McGovern/Picower/Kempner are all covered. Remaining `partial` targets and their reasons are documented in each source file's `notes` and in CLAUDE.md's Known gotchas. Next: priority 2 (policy centers, business, law, education, design) and priority 3 (small think tanks, advocacy groups, humanities) — 246 rows, untouched.
+`data/targets.csv`: **all 392 priority-1 rows have now been attempted** (296 `done`, 96 `partial`, 0 `todo`). Broad/Wyss/Koch/McGovern/Picower/Kempner are all covered. Remaining `partial` targets and their reasons are documented in each source file's `notes` and in CLAUDE.md's Known gotchas. Next: priority 2 (policy centers, business, law, education, design) and priority 3 (small think tanks, advocacy groups, humanities) — 246 rows, untouched.
 
 `data/targets.csv` priority 1: 47 `done`, 35 `partial`, 310 `todo` (of 392). Next: MIT, then Broad/Wyss/Koch/McGovern/Picower, BU, Northeastern, Tufts, Brandeis, BC, UMass Boston, hospitals.
 

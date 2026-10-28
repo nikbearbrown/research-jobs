@@ -1,13 +1,14 @@
 {
   "id": "brandeis-swartz",
   "institution": "Brandeis University",
-  "unit": "Swartz Center for Theoretical Neuroscience",
+  "unit": "Swartz Center for Theoretical Neuroscience (part of Volen)",
   "city": "Waltham, MA",
   "checked_on": "2026-10-28",
   "listing_urls": [
-    "https://www.brandeis.edu/volen/swartz-center/index.html"
+    "https://www.brandeis.edu/volen/swartz-center/index.html",
+    "https://www.brandeis.edu/volen/swartz-center/faculty/index.html"
   ],
   "labs": [],
   "non_lab_people": [],
-  "notes": "The entire brandeis.edu domain returns a 403 Forbidden to this project's identifying User-Agent (research-jobs-bot/0.1, naming the project per CLAUDE.md rule 3), confirmed on the homepage, this department's start_url and people_url, both via plain HTTP and headless-Chromium (Playwright) -- and confirmed NOT to be a general network block, since the same URLs return 200 OK with a standard browser User-Agent. Per CLAUDE.md's existing policy for bot-protected sites (don't bypass, record the block and move on), this was not worked around. Needs either a different egress network or an explicit decision from the project owner about whether to use a browser-like User-Agent for this one domain."
+  "notes": "A training program within the Volen National Center for Complex Systems, not a department of its own independent labs -- its faculty are Brandeis PIs (neuroscience/biology/physics) already recorded under their home department's source file. John Lisman, a founding faculty member, is noted on the page as deceased ('In Memoriam'). Not duplicating faculty here."
 }
