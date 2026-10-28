@@ -1,0 +1,37 @@
+{
+  "id": "mit-sea-grant",
+  "institution": "MIT",
+  "unit": "MIT Sea Grant College Program",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://seagrant.mit.edu/",
+    "https://seagrant.mit.edu/people/"
+  ],
+  "labs": [
+    {
+      "id": "mit-sea-grant-michael-triantafyllou",
+      "kind": "research-lab",
+      "lab_name": "MIT Sea Grant",
+      "pi_name": "Michael Triantafyllou",
+      "pi_title": "Director, MIT Sea Grant; Henry L. and Grace Doherty Professor in Ocean Science and Engineering",
+      "pi_email": "mt@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://seagrant.mit.edu/",
+      "location": "12 Emily Street, NW98, Cambridge, MA 02139",
+      "phone": "617-253-9614",
+      "admin_name": "Coretta Granberry (Research Program Administrator); Caroline Johnston (Financial Administrator)",
+      "admin_email": "corettag@mit.edu",
+      "research_summary": "MIT's federally/state-funded ocean, coastal and Great Lakes research, education and outreach program; includes two named sub-groups, the AUV Lab and the Design Lab.",
+      "member_count": 25,
+      "member_breakdown": "1 Director, 1 Associate Director (Themis Sapsis), ~9 research/advisory/education staff, 3 AUV Lab staff, 4 Design Lab staff (incl. 1 emeritus director), 4 research affiliates, 3 program-support/financial staff",
+      "members_page_url": "https://seagrant.mit.edu/people/",
+      "join_page_url": "https://seagrant.mit.edu/student-opportunities/",
+      "join_notes": "Student opportunities page lists ways to get involved; no specific open staff positions seen on this pass.",
+      "profile_url": null,
+      "notes": "Breadth+partial-depth pass from the program's own People page. Themis Sapsis (Associate Director) is also independently a PI in MIT Mechanical/Ocean Engineering -- not separately recorded here to avoid duplication if/when that department is scraped. AUV Lab and Design Lab are named internal groups led by research engineers/scientists (DeFilippo, Sacarny, Randeni; Chalfant, Chryssostomidis, Karniada) rather than separate faculty PIs, so recorded as sub-groups in this one entry rather than as separate labs."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

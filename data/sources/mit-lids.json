@@ -1,0 +1,35 @@
+{
+  "id": "mit-lids",
+  "institution": "MIT",
+  "unit": "Laboratory for Information and Decision Systems (LIDS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://lids.mit.edu/people"
+  ],
+  "labs": [
+    {
+      "id": "mit-lids-priya-donti",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Priya Donti",
+      "pi_title": "Assistant Professor, EECS; LIDS Faculty/PI",
+      "pi_email": "donti@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "45-601F",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://lids.mit.edu/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "LIDS's people page is an infinite-scroll filtered directory (Students/Affiliates/Faculty and PIs/Research Staff/etc. tags on one page); this fetch only captured the first ~100 alphabetical-by-first-name entries before the scroll cut off, so most of LIDS's 'Faculty and PIs' (an interdepartmental lab whose PIs are primarily EECS/Math/Sloan/AeroAstro faculty) were not reached. Priya Donti is the one confirmed 'Faculty and PIs'-tagged entry in the captured range. Needs a proper scroll-loop re-fetch for a complete roster -- do not treat this as the full LIDS faculty list."
+    }
+  ],
+  "non_lab_people": []
+}

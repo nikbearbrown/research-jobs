@@ -1,0 +1,11 @@
+{
+  "id": "mit-senseable-city",
+  "institution": "MIT",
+  "unit": "Senseable City Lab",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["https://senseable.mit.edu/", "https://senseable.mit.edu/about"],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Both the homepage and /about rendered a mission statement and a list of past/current projects (2025-2026) and four 'Senseable Global Labs' (Amsterdam, Dubai, Rio de Janeiro, Seoul), but neither page names a director or any individual researcher in the extracted text -- no People/Team page link was found in the rendered content either. Not fixable without finding the actual people page URL (not discovered in this pass); left with no lab entry rather than guess a PI name from outside knowledge."
+}

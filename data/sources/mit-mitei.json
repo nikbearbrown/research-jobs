@@ -1,0 +1,13 @@
+{
+  "id": "mit-mitei",
+  "institution": "MIT",
+  "unit": "MIT Energy Initiative (MITEI)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://energy.mit.edu/people"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "energy.mit.edu/people did not return a people roster -- both a plain fetch and a Playwright-rendered fetch returned the site's generic homepage/mega-menu content (news items, program links) rather than a directory of researchers, consistent with CLAUDE.md's documented http<->https redirect-loop gotcha for this domain. MITEI's own researchers are mostly MIT faculty with primary appointments (and labs) in other departments; a 'Current members' heading was seen in the page's industry-membership section but with no names rendered. Not fixable from here without a different URL path or network; status left partial."
+}

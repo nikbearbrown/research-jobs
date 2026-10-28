@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-signal-kinetics",
+  "institution": "MIT",
+  "unit": "Media Lab — Signal Kinetics Group",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/signal-kinetics/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-signal-kinetics",
+      "kind": "research-lab",
+      "lab_name": "Signal Kinetics",
+      "pi_name": "Fadel Adib",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": true,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": "Aimee Schroeder",
+      "admin_email": "sk-admins@media.mit.edu",
+      "research_summary": "Inventing, building, and deploying wireless sensor technologies to address complex problems in society, industry, and ecology",
+      "member_count": 9,
+      "member_breakdown": "7 Graduate Student, 2 Research Affiliate",
+      "members_page_url": "https://www.media.mit.edu/groups/signal-kinetics/group-members/",
+      "join_page_url": "https://www.media.mit.edu/groups/signal-kinetics/applicant-information/",
+      "join_notes": "Signal Kinetics is currently accepting new students (per the group's own overview page). See the Applicant Information page for how to apply.",
+      "profile_url": null,
+      "notes": "Director identified by cross-referencing the Media Lab's top-level faculty/PI list (mit-media-lab.json) against this group's own People/Group Members roster. member_count counts everyone on that roster NOT marked 'Former'/'Past Member'. Roster page: https://www.media.mit.edu/groups/signal-kinetics/group-members/."
+    }
+  ],
+  "non_lab_people": []
+}

@@ -1,0 +1,33 @@
+{
+  "id": "mit-quest",
+  "institution": "MIT",
+  "unit": "MIT Quest for Intelligence (Siegel Family Quest for Intelligence, SQI)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["https://sqi.mit.edu/research/researchers"],
+  "labs": [
+    {
+      "id": "mit-quest-dicarlo",
+      "kind": "core-facility",
+      "lab_name": "MIT Quest for Intelligence",
+      "pi_name": "James DiCarlo",
+      "pi_title": "Director, MIT Siegel Family Quest for Intelligence; Peter de Florez Professor, Department of Brain and Cognitive Sciences; Investigator, McGovern Institute for Brain Research",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://sqi.mit.edu/",
+      "location": "Cambridge, MA",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "An Institute-wide initiative on human and machine intelligence; its 'Researchers' are MIT faculty from many departments (Jacob Andreas/EECS, DiCarlo/BCS+McGovern, etc.) working on Quest Missions, not a single PI's lab.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://sqi.mit.edu/research/researchers",
+      "join_page_url": "https://sqi.mit.edu/about/job-opportunities",
+      "join_notes": "Job Opportunities page linked from the About menu; not read in this pass.",
+      "profile_url": null,
+      "notes": "Cross-cutting hub, recorded thin per CLAUDE.md convention. The researchers page lists faculty alphabetically (seen: Jacob Andreas, EECS/CSAIL; James DiCarlo, BCS/McGovern) whose own labs belong in their home-department source files (e.g. mit-eecs, mit-mcgovern), not duplicated here. Also runs the Center for Brains, Minds, and Machines (CBMM), a separate existing target (mit-cbmm)."
+    }
+  ],
+  "non_lab_people": []
+}

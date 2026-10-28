@@ -1,0 +1,36 @@
+{
+  "id": "mit-sloan-health-systems",
+  "institution": "MIT",
+  "unit": "MIT Sloan Health Systems Initiative (HSI)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://mitsloan.mit.edu/centers-initiatives/health-systems-initiative/health-systems-initiative-welcome",
+    "https://mitsloan.mit.edu/centers-initiatives/health-systems-initiative/our-researchers"
+  ],
+  "labs": [
+    {
+      "id": "mit-sloan-health-systems-org",
+      "kind": "core-facility",
+      "lab_name": "Health Systems Initiative (HSI)",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mitsloan.mit.edu/centers-initiatives/health-systems-initiative/health-systems-initiative-welcome",
+      "location": "MIT Sloan School of Management, 100 Main Street, E62-471, Cambridge, MA 02142",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "healthsystems@mit.edu",
+      "research_summary": "A cross-cutting MIT Sloan research initiative (not a single PI's lab) funding and coordinating health-related projects across three areas: analytics, operations, and incentives.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://mitsloan.mit.edu/centers-initiatives/health-systems-initiative/our-researchers",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Recorded as a core-facility/cross-cutting hub, not a PI-led lab -- its 'Our Researchers' page names 40+ MIT Sloan faculty (page says '40+ researchers') grouped under Economics/Finance/Behavioral Science, Operations Research/Analytics/AI, and Work and Organization Studies, each with their own primary appointment and lab elsewhere at MIT Sloan. Not individually enumerated here to avoid guessing at labs that belong in a future MIT Sloan-wide faculty source file (no such target exists yet in targets.csv); a sample seen: Rahul Bhui, Mert Demirer, Joseph Doyle, Dean Eckles, Danielle Li, Tong Liu, Andrew W. Lo, Alexey Makarin, Robert C. Pozen, David G. Rand, Catherine Tucker, Ben Vatter, Michael Whinston, Erez Yoeli, Dimitris Bertsimas, Vivek Farias, Renee Richardson Gosline, Swati Gupta, Mohammad Jalali, Rahul Mazumder (list not read to completion)."
+    }
+  ],
+  "non_lab_people": []
+}

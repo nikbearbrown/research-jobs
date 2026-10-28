@@ -1,0 +1,21 @@
+{
+  "id": "mit-isn",
+  "institution": "MIT",
+  "unit": "Institute for Soldier Nanotechnologies (ISN)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://isn.mit.edu/people",
+    "https://isn.mit.edu/people?field_person_type_target_id=7"
+  ],
+  "labs": [],
+  "non_lab_people": [
+    {"name": "William A. Peters", "title": "Executive Director, MIT ISN; Principal Research Engineer, MIT ISN", "email": null, "why": "ISN administrative/executive leadership, not an independent PI."},
+    {"name": "Franklin E.W. Hadley", "title": "Director, Outreach and Communications, MIT ISN; Executive Director, MIT CHEFSI", "email": null, "why": "ISN administrative staff."},
+    {"name": "Josh Freedman", "title": "Director for Finance and Administration, MIT ISN", "email": null, "why": "ISN administrative staff."},
+    {"name": "Amy Tatem-Bannister", "title": "Laboratory and Facilities Manager, MIT ISN", "email": null, "why": "ISN facilities staff."},
+    {"name": "Chris Hogan", "title": "Instrumentation Specialist, MIT ISN", "email": null, "why": "ISN technical staff."},
+    {"name": "Donna M. Johnson", "title": "Research Support Associate, MIT ISN", "email": null, "why": "ISN support staff."}
+  ],
+  "notes": "ISN is a cross-departmental Army-funded research institute (UARC), not a lab of its own -- its ~20 'Current Core PIs' directing the 15 current core research projects are MIT faculty whose primary labs are recorded in their home departments: Mark Bathe (BE), Moungi Bawendi (Chemistry), Dirk Englund (EECS), Yoel Fink (DMSE), Peter Fisher (Physics), Liang Fu (Physics), Paula Hammond (Institute Professor), Steven G. Johnson (Math/Physics), Mathias Kolle (MechE), Jing Kong (EECS), Robert Macfarlane (DMSE), Bradley Olsen (ChemE), Carlos Portela (MechE), Raul Radovitzky (AeroAstro, also ISN Associate Director), Marin Soljacic (Physics), Michael Strano (ChemE), Tim Swager (Chemistry), Brian Wardle (AeroAstro/MechE), and Director Tomas Palacios (EECS). Not duplicated here per the project's cross-cutting-hub convention (same as MRSEC); only ISN's own administrative/research-engineering staff (who have no other home department) are recorded as non_lab_people. Two Principal Research Scientists based at ISN itself (Steve E. Kooi, Ivan Celanovic) and one Research Scientist (Giuseppe Romano) could arguably be recorded as their own small ISN-based labs in a future pass -- not done here given time."
+}

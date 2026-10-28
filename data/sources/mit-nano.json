@@ -1,0 +1,33 @@
+{
+  "id": "mit-nano",
+  "institution": "MIT",
+  "unit": "MIT.nano",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["https://mitnano.mit.edu/people"],
+  "labs": [
+    {
+      "id": "mit-nano-bulovic",
+      "kind": "core-facility",
+      "lab_name": "MIT.nano",
+      "pi_name": "Vladimir Bulović",
+      "pi_title": "Faculty Director, MIT.nano; Fariborz Maseeh (1990) Professor of Emerging Technology",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mitnano.mit.edu/",
+      "location": "Cambridge, MA",
+      "phone": null,
+      "admin_name": "Brian Anthony (Associate Director), Kathy Boisvert (Director, Administration and Finance), Nicholas Menounos (Associate Director, Infrastructure), Anna Osherov (Associate Director, Characterization.nano), Kristofor Payer (Assistant Director, Operations), Jorg Scholvin (Associate Director, Fab.nano)",
+      "admin_email": null,
+      "research_summary": "A shared nanofabrication and characterization facility (clean room, imaging/characterization tools) open to MIT and outside users, not a single PI's research group.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://mitnano.mit.edu/people",
+      "join_page_url": "https://mitnano.mit.edu/about/become-a-user",
+      "join_notes": "'Become a user' page linked from the About menu; not read in this pass.",
+      "profile_url": null,
+      "notes": "Core facility (nanofabrication/characterization center), not a PI-led research lab -- recorded as core-facility. Leadership team plus ~10+ named technical/operations staff (Research Specialists, Domain Experts, etc.) shown on the page; staff not individually enumerated here."
+    }
+  ],
+  "non_lab_people": []
+}

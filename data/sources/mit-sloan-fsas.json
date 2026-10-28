@@ -1,0 +1,36 @@
+{
+  "id": "mit-sloan-fsas",
+  "institution": "MIT",
+  "unit": "Food Supply Chain Analytics and Sensing (FSAS) Initiative (MIT Sloan)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://mitsloan.mit.edu/centers-initiatives/food-supply-chain-analytics-and-sensing-initiative/about",
+    "https://mitsloan.mit.edu/centers-initiatives/food-supply-chain-analytics-and-sensing-initiative/people"
+  ],
+  "labs": [
+    {
+      "id": "mit-sloan-fsas-levi-springs",
+      "kind": "research-lab",
+      "lab_name": "Food Supply Chain Analytics and Sensing (FSAS) Initiative",
+      "pi_name": "Retsef Levi and Stacy Springs",
+      "pi_title": "Levi: J. Spencer Standish (1945) Professor of Operations Management, MIT Sloan (Leadership); Springs: Executive Director, FSAS",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mitsloan.mit.edu/centers-initiatives/food-supply-chain-analytics-and-sensing-initiative/about",
+      "location": "MIT Sloan School of Management, 100 Main Street, Cambridge, MA 02142",
+      "phone": null,
+      "admin_name": "Flora J Keumurian (Program Manager), Kate Morse (Project Coordinator)",
+      "admin_email": "mit-fsas@mit.edu",
+      "research_summary": "Develops predictive analytics and sensing technologies to improve the design, safety and reliability of food supply chains.",
+      "member_count": 17,
+      "member_breakdown": "2 leadership, 5 faculty (Zheng, Aouad, Furst, Winter, Wang), 2 affiliated researchers, 6 students/postdocs, 2 staff",
+      "members_page_url": "https://mitsloan.mit.edu/centers-initiatives/food-supply-chain-analytics-and-sensing-initiative/people",
+      "join_page_url": null,
+      "join_notes": "General contact email mit-fsas@mit.edu shown on the 'about' page footer; no lab-specific openings listed.",
+      "profile_url": null,
+      "notes": "People page has no Alumni/Former heading -- all listed people counted as current. Some faculty (Furst, Winter, Wang) hold primary appointments in MechE/other departments and are affiliated with FSAS as a research initiative, not necessarily FSAS-only; general contact email mit-fsas@mit.edu appears on the 'about' page footer."
+    }
+  ],
+  "non_lab_people": []
+}

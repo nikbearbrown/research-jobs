@@ -1,0 +1,36 @@
+{
+  "id": "mit-dusp-colab",
+  "institution": "MIT",
+  "unit": "MIT CoLab / Community Innovators Lab (Department of Urban Studies and Planning)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.colab.mit.edu/",
+    "https://www.colab.mit.edu/people"
+  ],
+  "labs": [
+    {
+      "id": "mit-dusp-colab-holly-harriel",
+      "kind": "research-lab",
+      "lab_name": "MIT CoLab (Community Innovators Lab)",
+      "pi_name": "Holly Harriel",
+      "pi_title": "Executive Director, MIT CoLab",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.colab.mit.edu/",
+      "location": "MIT, Building 9-238, 77 Massachusetts Avenue, Cambridge, MA 02142",
+      "phone": "617-253-3216",
+      "admin_name": null,
+      "admin_email": "colab-info@mit.edu",
+      "research_summary": "A DUSP-based hub for collaborative action research and innovation with communities at the margins, working on democratizing economies and self-determination.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.colab.mit.edu/people",
+      "join_page_url": "https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=20864&localeCode=en-us",
+      "join_notes": "Page states no open staff roles at time of check; links to the MIT applicant site for postings and to DUSP's own student-opportunity board.",
+      "profile_url": "https://www.colab.mit.edu/people",
+      "notes": "CoLab is a DUSP center, not a single PI's research lab -- recorded Executive Director Holly Harriel as the operational lead. J. Phillip Thompson is Faculty Director and Dayna L. Cunningham is Founder. A 12-person 'Faculty Council' of DUSP professors (J. Phillip Thompson, Delia Wendel, Catherine D'Ignazio, Mariana Arcaya, Karilyn Crockett, Jason Jackson, Lawrence Vale, Lawrence Susskind, Anne Whiston Spirn, Karl Seidman, Ceasar McDowell, Gabriella Carolini) is listed but these are DUSP faculty whose primary labs/pages are recorded under their own department profiles elsewhere, not duplicated here; several run their own named initiatives within CoLab (e.g. Katrin Kaeufer directs 'Just Money'). Students, Strategic Partners, Community Advisory Board and Alumni lists are long, dated and not individually itemized -- no emails shown for any of them on this page."
+    }
+  ],
+  "non_lab_people": []
+}

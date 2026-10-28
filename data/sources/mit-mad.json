@@ -1,0 +1,21 @@
+{
+  "id": "mit-mad",
+  "institution": "MIT",
+  "unit": "Morningside Academy for Design (MAD)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://design.mit.edu/community/team"
+  ],
+  "labs": [],
+  "non_lab_people": [
+    {"name": "John Ochsendorf", "title": "Associate Dean for Research, School of Architecture and Planning; Founding Director, Morningside Academy for Design; Professor of Architecture and of Civil and Environmental Engineering", "email": null, "why": "MAD's founding director; an administrative/leadership role here, not an independent PI-led lab within MAD itself"},
+    {"name": "Marion Cunningham", "title": "Managing Director, MAD", "email": null, "why": "administrative staff"},
+    {"name": "Svafa Grönfeldt", "title": "Professor of Practice, MAD; Faculty Director, MITdesignX", "email": null, "why": "leads the MITdesignX program, a MAD initiative rather than a research lab"},
+    {"name": "Ana Pantelic", "title": "Executive Director, MIT D-Lab", "email": null, "why": "D-Lab is a separate, already-listed targets.csv target (mit-d-lab); not duplicated here"},
+    {"name": "Amy Smith", "title": "Founding Director, MIT D-Lab; Senior Lecturer, Mechanical Engineering", "email": null, "why": "D-Lab leadership, see mit-d-lab"},
+    {"name": "Skylar Tibbits", "title": "Associate Professor, Architecture; Director, Self-Assembly Lab at MIT; Assistant Director for Education, MAD", "email": null, "why": "his lab is already a separate targets.csv target (mit-arch-self-assembly-lab); not duplicated here"},
+    {"name": "J. Kim Vandiver", "title": "Director, Project Manus; Professor of Mechanical Engineering and Ocean Engineering; Faculty Director for Research, MIT D-Lab", "email": null, "why": "administrative/program leadership role listed on MAD's team page"}
+  ],
+  "notes": "MAD (Morningside Academy for Design) is an academic initiative/umbrella for design education and entrepreneurship within the School of Architecture and Planning, not a department of independent PI-led research labs -- its own 'Team' page (JS-rendered, needed --render) lists an Executive Team, program directors, lecturers and administrative staff, several of whom direct labs/initiatives that are already separate targets.csv rows (Self-Assembly Lab, MIT D-Lab) and are cross-referenced here rather than duplicated. No labs recorded for this target; see mit-arch-self-assembly-lab and mit-d-lab for the actual research groups under MAD's umbrella. MAD's 'Faculty Advisory Council' page was not read in this pass and may list additional affiliated PIs whose primary labs sit in other departments."
+}

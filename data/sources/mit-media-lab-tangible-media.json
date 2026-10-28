@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-tangible-media",
+  "institution": "MIT",
+  "unit": "Media Lab — Tangible Media Group",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/tangible-media/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-tangible-media",
+      "kind": "research-lab",
+      "lab_name": "Tangible Media",
+      "pi_name": "Hiroshi Ishii",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": true,
+      "lab_website": "https://tangible.media.mit.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": "Erin Sandy",
+      "admin_email": "tmgadmin@media.mit.edu",
+      "research_summary": "Invent new tangible and embodied interactions that inspire, engage, and connect people",
+      "member_count": 18,
+      "member_breakdown": "8 Research Affiliate, 6 Graduate Student, 2 Postdoctoral Fellow, 1 Jerome B. Wiesner Professor of Media Arts and Sciences; Associate Director, MIT Media Lab, 1 Multimedia Producer",
+      "members_page_url": "https://www.media.mit.edu/groups/tangible-media/people/",
+      "join_page_url": "https://www.media.mit.edu/groups/tangible-media/applicant-information/",
+      "join_notes": "Tangible Media is currently accepting new students (per the group's own overview page). See the Applicant Information page for how to apply.",
+      "profile_url": null,
+      "notes": "Director identified by cross-referencing the Media Lab's top-level faculty/PI list (mit-media-lab.json) against this group's own People/Group Members roster. member_count counts everyone on that roster NOT marked 'Former'/'Past Member'. Roster page: https://www.media.mit.edu/groups/tangible-media/people/."
+    }
+  ],
+  "non_lab_people": []
+}

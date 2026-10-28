@@ -1,0 +1,13 @@
+{
+  "id": "mit-lfe",
+  "institution": "MIT",
+  "unit": "Laboratory for Financial Engineering (LFE), MIT Sloan",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://lfe.mit.edu/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "lfe.mit.edu's robots.txt disallows automated fetching (scripts/fetch.py refused per the project's robots.txt policy). LFE is directed by Andrew Lo (Charles E. and Susan T. Harris Professor, MIT Sloan), per a passing mention on the MIT HEALS site, but no page was read to confirm current team/contact details. Needs a manual check or a different approach (e.g. a mirrored/cached version) to proceed; not bypassing the block."
+}

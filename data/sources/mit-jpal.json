@@ -1,0 +1,13 @@
+{
+  "id": "mit-jpal",
+  "institution": "MIT",
+  "unit": "Abdul Latif Jameel Poverty Action Lab (J-PAL)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.povertyactionlab.org/affiliated-professors"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "J-PAL is a global research network of several hundred affiliated professors at MIT and many other universities worldwide (not a single PI-led lab) -- the affiliated-professors page is a large filterable directory that did not render a static list of names in this fetch (JS-driven; content not captured even after the page loaded). MIT-based J-PAL affiliates (e.g. in Economics) have their primary labs/pages recorded under their home department's source file where that exists. Recorded empty this pass; a render-based re-fetch could recover the affiliate list if a future pass wants J-PAL's own roster specifically."
+}

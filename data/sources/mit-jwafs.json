@@ -1,0 +1,35 @@
+{
+  "id": "mit-jwafs",
+  "institution": "MIT",
+  "unit": "Abdul Latif Jameel Water and Food Systems Lab (J-WAFS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://jwafs.mit.edu/about/our-team"
+  ],
+  "labs": [
+    {
+      "id": "mit-jwafs-rohit-karnik",
+      "kind": "research-lab",
+      "lab_name": "J-WAFS",
+      "pi_name": "Rohit Karnik",
+      "pi_title": "Director, J-WAFS; Abdul Latif Jameel Professor of Water and Mechanical Engineering, MIT",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://jwafs.mit.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": "Daniela Giardina (Executive Director)",
+      "admin_email": null,
+      "research_summary": "An Institute-wide research center funding and coordinating MIT research on water, food and climate systems, rather than running its own research group.",
+      "member_count": null,
+      "member_breakdown": "Leadership team (Director, Executive Director, senior advisors/founding directors, program directors) plus a large roster of 'Funded Researchers' who are MIT faculty PIs funded by J-WAFS grants in their home departments -- not individually itemized here.",
+      "members_page_url": "https://jwafs.mit.edu/about/our-team",
+      "join_page_url": "https://jwafs.mit.edu/about-us/open-positions",
+      "join_notes": "J-WAFS lists open staff positions on its own site; MIT PI funding opportunities are separate research grants, not lab positions.",
+      "profile_url": "https://jwafs.mit.edu/about/our-team",
+      "notes": "J-WAFS is a funding lab/center, not a conventional PI research group -- its 'Funded Researchers' are MIT faculty whose own labs are recorded in their home departments. Recorded the Director as primary contact; member_count intentionally left null since the bulk of 'members' are externally-funded grantees, not lab staff."
+    }
+  ],
+  "non_lab_people": []
+}

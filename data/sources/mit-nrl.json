@@ -1,0 +1,33 @@
+{
+  "id": "mit-nrl",
+  "institution": "MIT",
+  "unit": "MIT Nuclear Reactor Laboratory (NRL)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["https://nrl.mit.edu/people/"],
+  "labs": [
+    {
+      "id": "mit-nrl-org",
+      "kind": "core-facility",
+      "lab_name": "Nuclear Reactor Laboratory",
+      "pi_name": "Jacopo Buongiorno",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://nrl.mit.edu/",
+      "location": "138 Albany Street, Cambridge, MA 02139",
+      "phone": "+1 617 253 4211",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Operates MIT's research reactor (MITR) as a shared facility for nuclear science, materials and medical research -- not a single PI's lab.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://nrl.mit.edu/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Core facility (research reactor operations), not a PI-led lab -- recorded as core-facility. The directory lists ~23 names (Michael Ames, Thomas Bork, Jacopo Buongiorno, David Carpenter, Nesrin Cetiner, Sacit Cetiner, Sean Fayfar, John Foster, Adam Grein, Justin Harpin, Sara Hauptman, Lin-wen Hu, Yina Huang, Boris Khaykovich, Gordon Kohse, Dane Kouttron, Edward S. Lau, William B. McCarthy, Yakov Ostrovsky, Kristen Shikes, Lance Snead, Taylor T. Tracy, Andrii Tuz, Frank Warmsley) without individual role labels on this listing page (roles are on each person's own sub-page, not fetched in this pass). Jacopo Buongiorno is the only one independently known (from MIT NSE's own page) to hold a PI-level faculty title (TEPCO Professor of Nuclear Science and Engineering) rather than a staff role, so he is named as a contact point; his title is left null here since this page itself doesn't state it, per project rule to only record what a page shows."
+    }
+  ],
+  "non_lab_people": []
+}

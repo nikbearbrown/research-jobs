@@ -1,0 +1,35 @@
+{
+  "id": "mit-ide",
+  "institution": "MIT",
+  "unit": "MIT Initiative on the Digital Economy (IDE)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://ide.mit.edu/directory/"
+  ],
+  "labs": [
+    {
+      "id": "mit-ide-sinan-aral",
+      "kind": "research-lab",
+      "lab_name": "MIT Initiative on the Digital Economy",
+      "pi_name": "Sinan Aral",
+      "pi_title": "Director, MIT IDE; Professor, MIT Sloan School of Management",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://ide.mit.edu/",
+      "location": "MIT Sloan School of Management, 1 Main Street, 9th Floor, Cambridge, MA 02142-1347",
+      "phone": "617-452-3216",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Studies the effects of digital technology, AI and social media on business and the economy, spanning research groups on applied AI, digital culture, data analytics, AI/labor economics, misinformation and digital markets.",
+      "member_count": null,
+      "member_breakdown": "Director (Aral), additional Research Group Leaders (e.g. Alessandro Acquisti), Research Scientists and Postdocs (e.g. Mohsen Bahrami), plus Digital Fellows/Research Affiliates (mostly external faculty at other universities), Staff and an Advisory Board -- directory is large and role-categorized but not fully enumerated this pass",
+      "members_page_url": "https://ide.mit.edu/directory/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://ide.mit.edu/directory/",
+      "notes": "IDE has multiple named Research Group Leaders (MIT Sloan faculty) who likely run their own groups within the initiative, and many 'Digital Fellows' who are external faculty at other institutions -- neither fully itemized this pass given the directory's size. Member count left null; see members_page_url for the full categorized roster."
+    }
+  ],
+  "non_lab_people": []
+}

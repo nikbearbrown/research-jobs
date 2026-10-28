@@ -1,0 +1,35 @@
+{
+  "id": "mit-futuretech",
+  "institution": "MIT",
+  "unit": "FutureTech (MIT Computer Science and Artificial Intelligence Laboratory)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://futuretech.mit.edu/team"
+  ],
+  "labs": [
+    {
+      "id": "mit-futuretech-neil-thompson",
+      "kind": "research-lab",
+      "lab_name": "FutureTech",
+      "pi_name": "Neil Thompson",
+      "pi_title": "Director, FutureTech, MIT CSAIL",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://futuretech.mit.edu/",
+      "location": "32 Vassar Street, Office 386, Cambridge, MA 02139",
+      "phone": "617-258-5030",
+      "admin_name": "Tess Fagan (Head of Operations)",
+      "admin_email": null,
+      "research_summary": "Studies the economics and future trajectory of computing and AI progress, including compute trends, AI's labor and productivity impacts, and AI policy and safety.",
+      "member_count": 89,
+      "member_breakdown": "1 Director, 1 additional named Professor (Charles Leiserson), ~70 research scientists/postdocs/affiliate professors/PhD students/technical associates/staff, 17 undergraduate student researchers -- alumni excluded",
+      "members_page_url": "https://futuretech.mit.edu/team",
+      "join_page_url": "https://futuretech.mit.edu/opportunities",
+      "join_notes": "Careers page listed in site navigation; content not separately read this pass.",
+      "profile_url": "https://futuretech.mit.edu/team/neil-thompson",
+      "notes": "Large, flat team listing (no individual role breakdown by seniority beyond the title shown per person); member_count follows the page's own 'Team' section through its last listed staff member, then separately adds the 'Undergraduate Student Researchers' section, excluding the trailing 'Alumni' list."
+    }
+  ],
+  "non_lab_people": []
+}

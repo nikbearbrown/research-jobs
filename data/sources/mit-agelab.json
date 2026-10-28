@@ -1,0 +1,35 @@
+{
+  "id": "mit-agelab",
+  "institution": "MIT",
+  "unit": "AgeLab",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://agelab.mit.edu/about-us/people"
+  ],
+  "labs": [
+    {
+      "id": "mit-agelab-joseph-coughlin",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Joseph F. Coughlin",
+      "pi_title": "Director, MIT AgeLab",
+      "pi_email": "agelabinfo@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://agelab.mit.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Multi-disciplinary research on aging, examining caregiving, home logistics, retirement/longevity planning and transportation for older adults.",
+      "member_count": 25,
+      "member_breakdown": "1 director + ~24 faculty/research staff under 'Faculty and Research Staff' (Research Affiliates and Research/Student Alumni excluded)",
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth+depth pass from the lab's own People page. Only a general lab email (agelabinfo@mit.edu) is shown, not Coughlin's personal one; location is 1 Amherst Street, 2nd Floor, Cambridge, MA 02142 (recorded in notes since the schema's location field wasn't filled programmatically here)."
+    }
+  ],
+  "non_lab_people": []
+}

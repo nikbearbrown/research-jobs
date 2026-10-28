@@ -1,0 +1,35 @@
+{
+  "id": "mit-edgerton",
+  "institution": "MIT",
+  "unit": "Edgerton Center",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://edgerton.mit.edu/about/staff"
+  ],
+  "labs": [
+    {
+      "id": "mit-edgerton-j-kim-vandiver",
+      "kind": "core-facility",
+      "lab_name": "MIT Edgerton Center",
+      "pi_name": "J. Kim Vandiver",
+      "pi_title": "Forbes Director of the MIT Edgerton Center; Director of Project Manus; Professor of Mechanical and Ocean Engineering",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://edgerton.mit.edu/",
+      "location": "77 Massachusetts Avenue, 4-408, Cambridge, MA 02139",
+      "phone": "617-253-4629",
+      "admin_name": "Sandra Lipnoski (Associate Director for Administration and Finance)",
+      "admin_email": null,
+      "research_summary": "A hands-on making, student-shop and K-12 STEM-outreach center (student project labs, Hobby Shop, high-speed imaging) rather than a single PI's research lab.",
+      "member_count": 15,
+      "member_breakdown": "1 Director, 1 Associate Director, 13 instructors/technical staff/administrators",
+      "members_page_url": "https://edgerton.mit.edu/about/staff",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://edgerton.mit.edu/about/staff/j-kim-vandiver",
+      "notes": "Recorded as kind=core-facility rather than research-lab since it is a shop/outreach center with instructional staff, not a PI-led research group. No join/apply page or staff emails shown on this page."
+    }
+  ],
+  "non_lab_people": []
+}

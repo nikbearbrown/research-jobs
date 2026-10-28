@@ -1,0 +1,11 @@
+{
+  "id": "mit-rle",
+  "institution": "MIT",
+  "unit": "Research Laboratory of Electronics (RLE)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["https://www.rle.mit.edu/"],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "rle.mit.edu/people (the Principal Investigators listing linked from the homepage nav) is blocked by robots.txt, per CLAUDE.md's documented gotcha -- scripts/fetch.py refuses it automatically and this was not bypassed. The homepage itself (read) describes RLE as a large interdepartmental lab (research themes: Quantum Coherent Electronics, Energy/Power/Electromagnetics, Micro/Nanofluidic Biomembranes, Durable Micro Robotics, radar/WWII history) hosting many MIT EECS/Physics PIs' research groups, several of which are already recorded elsewhere (e.g. physics.mit.edu-listed faculty who are also RLE PIs, per MIT Physics' own 'Labs & Centers' list). No individual PI names could be read without the blocked /people page."
+}

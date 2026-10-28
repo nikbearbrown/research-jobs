@@ -1,0 +1,13 @@
+{
+  "id": "mit-ctl",
+  "institution": "MIT",
+  "unit": "Center for Transportation and Logistics (CTL)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://ctl.mit.edu/people"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The /people page is a client-side filterable directory (Role filter) whose team member cards did not render as readable text in the fetched page; no names recovered this pass. CTL's director is publicly known to be Yossi Sheffi (who also appears as MIT CEE faculty in mit-cee.json), but that is NOT confirmed from this page's own content, so nothing is recorded here per the project's no-guessing rule."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mit-arch-digital-structures",
+  "institution": "MIT",
+  "unit": "Digital Structures Group (Department of Architecture)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "http://digitalstructures.mit.edu/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "digitalstructures.mit.edu timed out on every attempt (plain HTTP and Playwright, both exceeded 30s) -- the site appears to be down or very slow from this network. Not read this pass; its PI is Caitlin Mueller per public knowledge, but that is NOT confirmed from the site itself so nothing is recorded here per the project's no-guessing rule."
+}

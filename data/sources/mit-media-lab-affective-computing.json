@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-affective-computing",
+  "institution": "MIT",
+  "unit": "Media Lab — Affective Computing Group",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/affective-computing/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-affective-computing",
+      "kind": "research-lab",
+      "lab_name": "Affective Computing",
+      "pi_name": "Rosalind W. Picard",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": false,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "r-admin@media.mit.edu",
+      "research_summary": "Advancing human wellbeing by developing new ways to communicate, understand, and respond to emotion",
+      "member_count": 15,
+      "member_breakdown": "5 Graduate Student, 3 Research Affiliate, 1 Administrative Assistant, 1 Grover M. Hermann Professor in Health Sciences and Technology ; Professor of Media Arts and Sciences, 1 Visiting Professor, 1 Full Stack Developer, 1 Visiting Professor; Director's Circle Member, 1 Research Scientist, 1 Postdoctoral Associate",
+      "members_page_url": "https://www.media.mit.edu/groups/affective-computing/people/",
+      "join_page_url": "https://www.media.mit.edu/groups/affective-computing/applicant-information/",
+      "join_notes": "Affective Computing is not currently accepting new students (per the group's own overview page). See the Applicant Information page for how to apply.",
+      "profile_url": null,
+      "notes": "Director identified by cross-referencing the Media Lab's top-level faculty/PI list (mit-media-lab.json) against this group's own People/Group Members roster. member_count counts everyone on that roster NOT marked 'Former'/'Past Member'. Roster page: https://www.media.mit.edu/groups/affective-computing/people/."
+    }
+  ],
+  "non_lab_people": []
+}

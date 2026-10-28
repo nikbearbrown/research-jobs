@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-opera-of-the-future",
+  "institution": "MIT",
+  "unit": "Media Lab — Opera of the Future Group",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/opera-of-the-future/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-opera-of-the-future",
+      "kind": "research-lab",
+      "lab_name": "Opera of the Future",
+      "pi_name": "Tod Machover",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": true,
+      "lab_website": "https://opera-beta.media.mit.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "opera-admin@media.mit.edu",
+      "research_summary": "Exploring the future of music through AI, multisensory expression, creativity, and sonic healing.",
+      "member_count": 10,
+      "member_breakdown": "7 Graduate Student, 1 Muriel R. Cooper Professor of Music and Media; Faculty Director, MIT Media Lab, 1 Sr. Administrative Assistant, 1 Member",
+      "members_page_url": "https://www.media.mit.edu/groups/opera-of-the-future/people/",
+      "join_page_url": "https://www.media.mit.edu/groups/opera-of-the-future/applicant-information/",
+      "join_notes": "Opera of the Future is currently accepting new students (per the group's own overview page). See the Applicant Information page for how to apply.",
+      "profile_url": null,
+      "notes": "Director identified by cross-referencing the Media Lab's top-level faculty/PI list (mit-media-lab.json) against this group's own People/Group Members roster. member_count counts everyone on that roster NOT marked 'Former'/'Past Member'. Roster page: https://www.media.mit.edu/groups/opera-of-the-future/people/."
+    }
+  ],
+  "non_lab_people": []
+}

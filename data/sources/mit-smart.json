@@ -1,0 +1,11 @@
+{
+  "id": "mit-smart",
+  "institution": "MIT",
+  "unit": "Singapore-MIT Alliance for Research and Technology (SMART)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "smart.mit.edu is unreachable from this network -- both a plain HTTP request and a Playwright-rendered fetch to the bare http:// URL (per CLAUDE.md's documented http<->https redirect-loop gotcha) timed out after 30s with no content at all, worse than a redirect loop. Gene Fitzgerald (recorded as CEO and Director, SMART, in mit-mrl.json's breadth pass) is the only lead known from another page. Status left partial/blocked; needs a different network or a specific subpage URL to retry."
+}

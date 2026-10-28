@@ -1,0 +1,13 @@
+{
+  "id": "mit-heals",
+  "institution": "MIT",
+  "unit": "MIT HEALS (Health and Life Sciences Collaborative)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://heals.mit.edu/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "MIT HEALS is an Institute-wide funding and programs collaborative (seed grants, fellowships, cross-departmental initiatives like Hood Hub and the Fairbairn Menstruation Science Fund), not a PI-led lab itself -- it funds projects led by PIs in their home departments across MIT and Mass General Brigham. No PI, team or people directory page exists on the site; general contact is mit-heals@mit.edu. Recorded empty per the project's cross-cutting-hub convention (same as MGAIC, CMSA, HDSI)."
+}

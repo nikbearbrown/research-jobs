@@ -1,0 +1,36 @@
+{
+  "id": "mit-dusp-city-form-lab",
+  "institution": "MIT",
+  "unit": "City Form Lab (Department of Urban Studies and Planning)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "http://cityform.mit.edu/",
+    "http://cityform.mit.edu/people"
+  ],
+  "labs": [
+    {
+      "id": "mit-dusp-city-form-lab-andres-sevtsuk",
+      "kind": "research-lab",
+      "lab_name": "City Form Lab",
+      "pi_name": "Andres Sevtsuk",
+      "pi_title": "Head of the City Design and Development Group; Associate Professor (with tenure) of Urban Science and Planning, MIT DUSP",
+      "pi_email": "asevtsuk@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": "http://cityform.mit.edu/",
+      "location": "MIT, 77 Massachusetts Ave., Room 10-404, Cambridge, MA 02139",
+      "phone": "+1-617-253-7419",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Studies the influence of urban form on sustainable travel behavior and the public qualities of built environments -- urban ground floors, main streets and amenity location patterns -- using spatial analytics and the Urban Network Analysis framework the lab develops.",
+      "member_count": 15,
+      "member_breakdown": "1 PI, 4 researchers (PhD/Master's students: Liu Liu, Freya Tan, Keara Dennehy, Mohamed Elgohary), 10 collaborators (PhD students, postdocs and visiting researchers, several based at partner institutions: Aziz Alhassan, Justin Kollar, Helen Tera, Adrian Helmut Georges, Rounaq Basu, Maryam Hosseini, Nicola Colaninno, Dylan Halpern, Raul Kalvo, Chu Li)",
+      "members_page_url": "http://cityform.mit.edu/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "http://cityform.mit.edu/people",
+      "notes": "People page lists Researchers and Collaborators separately from a 'Past Researchers' section (alumni excluded from member_count). Two listed collaborators (Rounaq Basu, Maryam Hosseini) are noted on the page as having finished/about to finish their postdocs and move to faculty positions elsewhere but are still shown under the current (not past) section as of the page's content, so kept in the count -- the page's own listing was followed rather than second-guessed. No admin contact or join/apply page shown."
+    }
+  ],
+  "non_lab_people": []
+}

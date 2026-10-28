@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-lifelong-kindergarten",
+  "institution": "MIT",
+  "unit": "Media Lab — Lifelong Kindergarten Group",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/lifelong-kindergarten/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-lifelong-kindergarten",
+      "kind": "research-lab",
+      "lab_name": "Lifelong Kindergarten",
+      "pi_name": "Mitchel Resnick",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": false,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": "MacLean Bishop",
+      "admin_email": "llkadmin@media.mit.edu",
+      "research_summary": null,
+      "member_count": 18,
+      "member_breakdown": "4 Graduate Student, 3 Research Affiliate, 1 LEGO Papert Professor of Learning Research, 1 Administrative Assistant, 1 Research Scientist, 1 Engineering and Product Lead, 1 Visiting Scholar, 1 Sr. Manager Brazilian Creative Learning, 1 Creative Learning Coordinator, 1 Educational Research Manager, 1 Senior Engineer, 1 Postdoctoral Associate, 1 Multimedia Producer and Accessibility Specialist",
+      "members_page_url": "https://www.media.mit.edu/groups/lifelong-kindergarten/people/",
+      "join_page_url": "https://www.media.mit.edu/groups/lifelong-kindergarten/applicant-information/",
+      "join_notes": "Lifelong Kindergarten is not currently accepting new students (per the group's own overview page). See the Applicant Information page for how to apply.",
+      "profile_url": null,
+      "notes": "Director identified by cross-referencing the Media Lab's top-level faculty/PI list (mit-media-lab.json) against this group's own People/Group Members roster. member_count counts everyone on that roster NOT marked 'Former'/'Past Member'. Roster page: https://www.media.mit.edu/groups/lifelong-kindergarten/people/."
+    }
+  ],
+  "non_lab_people": []
+}

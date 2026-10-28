@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-human-dynamics",
+  "institution": "MIT",
+  "unit": "Media Lab — Human Dynamics Group",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/human-dynamics/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-human-dynamics",
+      "kind": "research-lab",
+      "lab_name": "Human Dynamics",
+      "pi_name": "Alex 'Sandy' Pentland",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": false,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": "Theresa Hagen",
+      "admin_email": "thagen@media.mit.edu",
+      "research_summary": "Exploring how social networks can influence our lives in business, health, governance, and technology adoption and diffusion",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.media.mit.edu/groups/human-dynamics/people/",
+      "join_page_url": "https://www.media.mit.edu/groups/human-dynamics/applicant-information/",
+      "join_notes": "Human Dynamics is not currently accepting new students (per the group's own overview page). See the Applicant Information page for how to apply.",
+      "profile_url": null,
+      "notes": "This group's People page marks even its own director (Alex 'Sandy' Pentland) as 'Past Member', which suggests the roster page is stale/not actively maintained rather than that the group is down to 2 people -- so member_count is left null rather than reporting a misleading number. The 2 people not marked 'Former'/'Past Member' (Mohsen Bahrami, Barak Berkowitz) are recorded with no title shown."
+    }
+  ],
+  "non_lab_people": []
+}

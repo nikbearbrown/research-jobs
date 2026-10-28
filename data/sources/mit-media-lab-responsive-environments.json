@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-responsive-environments",
+  "institution": "MIT",
+  "unit": "Media Lab — Responsive Environments Group",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/responsive-environments/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-responsive-environments",
+      "kind": "research-lab",
+      "lab_name": "Responsive Environments",
+      "pi_name": "Joseph A. Paradiso",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": true,
+      "lab_website": "http://resenv.media.mit.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": "Xan Foote",
+      "admin_email": "xan97@media.mit.edu",
+      "research_summary": "Augmenting and mediating human experience, interaction, and perception with sensor networks",
+      "member_count": 10,
+      "member_breakdown": "5 Graduate Student, 1 Alexander W DreyfoosProfessor; Academic Head, Program in Media Arts and Sciences, 1 Research Affiliate, 1 Visiting Scientist, 1 Lecturer, 1 Home",
+      "members_page_url": "https://www.media.mit.edu/groups/responsive-environments/people-custom/",
+      "join_page_url": "https://www.media.mit.edu/groups/responsive-environments/applicant-information/",
+      "join_notes": "Responsive Environments is currently accepting new students (per the group's own overview page). See the Applicant Information page for how to apply.",
+      "profile_url": null,
+      "notes": "Director identified by cross-referencing the Media Lab's top-level faculty/PI list (mit-media-lab.json) against this group's own People/Group Members roster. member_count counts everyone on that roster NOT marked 'Former'/'Past Member'. Roster page: https://www.media.mit.edu/groups/responsive-environments/people-custom/."
+    }
+  ],
+  "non_lab_people": []
+}

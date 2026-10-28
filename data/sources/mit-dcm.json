@@ -1,0 +1,13 @@
+{
+  "id": "mit-dcm",
+  "institution": "MIT",
+  "unit": "Division of Comparative Medicine (DCM)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://comp-med.mit.edu/about-dcm/personnel"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "DCM is MIT's institutional veterinary/animal-care service division, not a PI-led research lab -- its news items reference 'DCM's Director' and 'DCM's Associate Director' by role only, without a name appearing in the fetched text. No lab entries recorded; this target may not fit the project's lab schema well."
+}

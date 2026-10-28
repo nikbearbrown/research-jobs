@@ -1,0 +1,35 @@
+{
+  "id": "mit-ibm-lab",
+  "institution": "MIT",
+  "unit": "MIT-IBM Watson AI Lab (MIT-IBM Computing Research Lab)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://mitibm.mit.edu/about/people/"
+  ],
+  "labs": [
+    {
+      "id": "mit-ibm-lab-aude-oliva",
+      "kind": "research-lab",
+      "lab_name": "MIT-IBM Computing Research Lab",
+      "pi_name": "Aude Oliva",
+      "pi_title": "MIT Director, MIT-IBM Computing Research Lab; Senior Research Scientist, MIT CSAIL",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mitibm.mit.edu/",
+      "location": "314 Main St., Cambridge, MA 02141",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "A joint MIT-IBM research collaboration developing foundational AI, algorithms and quantum computing; co-directed with David Cox of IBM Research and co-chaired by MIT Provost Anantha Chandrakasan, IBM's Jay Gambetta and MIT Schwarzman College of Computing Dean Dan Huttenlocher.",
+      "member_count": null,
+      "member_breakdown": "Leadership: MIT co-chair Anantha Chandrakasan, IBM co-chair Jay Gambetta, MIT co-chair Dan Huttenlocher, MIT co-director Aude Oliva, IBM co-director David Cox, plus named AI/algorithms/quantum leads from both MIT and IBM. The lab's directory lists roughly 300 affiliated MIT faculty/researchers and IBM researchers alphabetically with no role breakdown, so an exact current-member count wasn't extracted this pass.",
+      "members_page_url": "https://mitibm.mit.edu/about/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://mitibm.mit.edu/about/people/",
+      "notes": "A joint MIT-IBM lab, not a single-PI group; recorded the MIT co-director as the primary contact. Most listed MIT-side researchers (e.g. Jacob Andreas, Dimitris Bertsimas, Isaac Chuang, Marzyeh Ghassemi) have their own primary labs recorded in their home departments (EECS, Sloan, Physics) -- not duplicated here. IBM-side researchers are not MIT-affiliated and aren't tracked elsewhere in this project. Member count intentionally left null given the directory's size and lack of role/affiliation breakdown in this pass."
+    }
+  ],
+  "non_lab_people": []
+}

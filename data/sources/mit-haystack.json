@@ -1,0 +1,892 @@
+{
+  "id": "mit-haystack",
+  "institution": "MIT",
+  "unit": "Haystack Observatory",
+  "city": "Westford, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.haystack.mit.edu/haystack-directory/"
+  ],
+  "labs": [
+    {
+      "id": "mit-haystack-kazunori-akiyama",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Kazunori Akiyama",
+      "pi_title": "Research Affiliate, MIT Haystack Observatory",
+      "pi_email": "kakiyama@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5400",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-rigel-cappallo",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Rigel Cappallo",
+      "pi_title": "Research Scientist, MIT Haystack Observatory",
+      "pi_email": "rigelc@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-9595",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-brian-corey",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Brian Corey",
+      "pi_title": "Research Scientist, MIT Haystack Observatory",
+      "pi_email": "bcorey@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5400",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-anthea-coster",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Anthea Coster",
+      "pi_title": "Principal Research Scientist, MIT Haystack Observatory",
+      "pi_email": "costera@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5753",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-geoffrey-crew",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Geoffrey Crew",
+      "pi_title": "Research Scientist, MIT Haystack Observatory",
+      "pi_email": "gbc@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5591",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-pedro-elosegui",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Pedro Elosegui",
+      "pi_title": "Research Scientist, MIT Haystack Observatory",
+      "pi_email": "elosegui@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5595",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-philip-erickson",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Philip Erickson",
+      "pi_title": "Director & Principal Research Scientist, MIT Haystack Observatory",
+      "pi_email": "pje@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5769",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-vincent-fish",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Vincent Fish",
+      "pi_title": "Research Scientist, MIT Haystack Observatory",
+      "pi_email": "vfish@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5400",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-larisa-goncharenko",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Larisa Goncharenko",
+      "pi_title": "Assistant Director & Research Scientist, MIT Haystack Observatory",
+      "pi_email": "lpg@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5622",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-jens-kauffmann",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Jens Kauffmann",
+      "pi_title": "Assistant Director & Research Scientist, MIT Haystack Observatory",
+      "pi_email": "jens.kauffmann@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5502",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-mary-knapp",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Mary Knapp",
+      "pi_title": "Research Scientist, MIT Haystack Observatory",
+      "pi_email": "mknapp@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5563",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-colin-lonsdale",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Colin Lonsdale",
+      "pi_title": "Principal Research Scientist, MIT Haystack Observatory",
+      "pi_email": "cjl@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5575",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-lynn-matthews",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Lynn Matthews",
+      "pi_title": "Assistant Director & Principal Research Scientist, MIT Haystack Observatory",
+      "pi_email": "lmatthew@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5594",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-dhiman-mondal",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Dhiman Mondal",
+      "pi_title": "Research Scientist - Geodesy, MIT Haystack Observatory",
+      "pi_email": "dmondal@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5588",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-arthur-niell",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Arthur Niell",
+      "pi_title": "Research Scientist, MIT Haystack Observatory",
+      "pi_email": "aniell@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5517",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-thushara-pillai",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Thushara Pillai",
+      "pi_title": "Research Scientist, MIT Haystack Observatory",
+      "pi_email": "thushara@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5625",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-alan-rogers",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Alan Rogers",
+      "pi_title": "Research Affiliate, MIT Haystack Observatory",
+      "pi_email": "arogers@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5533",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-enrique-rojas-villalba",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Enrique Rojas Villalba",
+      "pi_title": "Research Scientist, MIT Haystack Observatory",
+      "pi_email": "erojasv@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5400",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-chester-ruszczyk",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Chester Ruszczyk",
+      "pi_title": "Assistant Director & Research Scientist, MIT Haystack Observatory",
+      "pi_email": "chester@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5951",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-john-swoboda",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "John Swoboda",
+      "pi_title": "Geospace Research Scientist, MIT Haystack Observatory",
+      "pi_email": "swoboj@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-3489",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-michael-titus",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Michael Titus",
+      "pi_title": "Research Affiliate, MIT Haystack Observatory",
+      "pi_email": "matitus@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5400",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-ryan-volz",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Ryan Volz",
+      "pi_title": "Research Scientist, MIT Haystack Observatory",
+      "pi_email": "rvolz@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5628",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    },
+    {
+      "id": "mit-haystack-shun-rong-zhang",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Shun-Rong Zhang",
+      "pi_title": "Principal Research Scientist, MIT Haystack Observatory",
+      "pi_email": "shunrong@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-715-5725",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth pass from the Haystack Observatory staff directory table (name/title/phone/email, no bio or research-area shown)."
+    }
+  ],
+  "non_lab_people": [
+    {
+      "name": "Christine Alcalde",
+      "title": "Technical Associate",
+      "email": "alcaldec@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Jason Antifonario",
+      "title": "Handy Worker",
+      "email": "ja28796@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Mario Araujo",
+      "title": "Head Custodian",
+      "email": "mraraujo@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "John Barrett",
+      "title": "Radio Science Software Developer",
+      "email": "barrettj@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Alex Michael Burns",
+      "title": "Manager, Westford Antenna Site",
+      "email": "aburns6@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Jonathan Byford",
+      "title": "Project Technician Mechanical",
+      "email": "jbyford@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Richard Campbell",
+      "title": "Project Technician Electronic",
+      "email": "rcampbell@ll.mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Katherine Cariglia",
+      "title": "Scientific Software Developer",
+      "email": "cariglia@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Cody Carter",
+      "title": "Technician A Electronic",
+      "email": "codycart@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Danielle Colarusso",
+      "title": "Manager, Research Administration",
+      "email": "danibon@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Roxana Costanza",
+      "title": "Custodian",
+      "email": "idania68@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Drew Crowley",
+      "title": "IT System Support Engineer",
+      "email": "crowleya@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Heidi Demers",
+      "title": "Director, Administration and Finance",
+      "email": "hdemers@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Matthew Donaghey",
+      "title": "Handy Worker",
+      "email": "matty75@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Dineen Doucette",
+      "title": "Human Resources Administrator",
+      "email": "dineend@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Christopher Eckert",
+      "title": "Lead Mechanical Engineer",
+      "email": "ceckert@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Greta Fergus",
+      "title": "Mechanical Engineer",
+      "email": "greta_f@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Karen Fraser",
+      "title": "Administrative Assistant",
+      "email": "kfraser@ll.mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Robin Garner",
+      "title": "Network and Systems Engineer",
+      "email": "rgarner@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "John Glover",
+      "title": "Project Technician Electro - Mechanical",
+      "email": "jo13632@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Morgan Goodrich",
+      "title": "Project Technician Electro - Mechanical",
+      "email": "mogood@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "James Haskell Jr",
+      "title": "Handy Worker/Carpenter",
+      "email": "jahjr@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Dan Hoak",
+      "title": "Radio Science Software Developer",
+      "email": "dhoak@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Stephen Holmberg",
+      "title": "Project Technician Electro - Mechanical",
+      "email": "sph@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Heidi Johnson",
+      "title": "Human Resources Representative",
+      "email": "heidij@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Keven Johnson",
+      "title": "Custodian",
+      "email": "kevenj@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Gabriella Joyce",
+      "title": "Senior Manager, Research Administration",
+      "email": "gjoyce@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Nancy Wolfe Kotary",
+      "title": "Communications, Education, and Outreach Manager",
+      "email": "nwk@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Ryan Kurzanski",
+      "title": "HVAC & Refrigeration Mechanic",
+      "email": "ryankurz@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Kenneth Lee",
+      "title": "HVAC & Refrigeration Mechanic",
+      "email": "ke17961@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Jo-Ann Lenzi",
+      "title": "Administrative Assistant",
+      "email": "lenzi@ll.mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Elizabeth Letters",
+      "title": "Manager, Facilities",
+      "email": "eletters@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Frank David Lind",
+      "title": "Research Engineer",
+      "email": "flind@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Christopher Maney",
+      "title": "Electrician",
+      "email": "cmaney@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "James Marchese",
+      "title": "Research Engineer",
+      "email": "jmarches@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "David Masse",
+      "title": "Electrician",
+      "email": "dmasse@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Christopher McKenney",
+      "title": "Senior Technician Electro - Mechanical",
+      "email": "cmck@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Russ McWhirter",
+      "title": "Research Engineer",
+      "email": "russmc@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Abiel Mendez",
+      "title": "Technician B Electro - Mechanical",
+      "email": "amend03@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Steve Mendonca",
+      "title": "Senior Technician Electro - Mechanical",
+      "email": "smendonc@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Marie Mignanelli",
+      "title": "Sr. Administrative Assistant to the Director",
+      "email": "marie128@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Timothy Morin",
+      "title": "Sr. Network and Systems Engineer",
+      "email": "tmorin@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Jim Ordile",
+      "title": "Electrician",
+      "email": "jordile@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Kevin Podgorski",
+      "title": "Project Technician Electro - Mechanical",
+      "email": "podgorsk@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Aleksandar PopStefanija",
+      "title": "Radio Science Engineer",
+      "email": "alekspop@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Lee Pothier",
+      "title": "Electrician",
+      "email": "lpothier@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Danielle Raftery",
+      "title": "Manager, Research Administration",
+      "email": "draftery@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Ganesh Rajagopalan",
+      "title": "Lead RF Engineer",
+      "email": "ganesanr@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Bill Rideout",
+      "title": "Research Engineer",
+      "email": "brideout@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "William Rogers",
+      "title": "Engineering Coordinator",
+      "email": "wwrogers@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Joao Silva",
+      "title": "Custodian",
+      "email": "jo22271@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Adam Small",
+      "title": "Senior Technician Electronic",
+      "email": "adamks@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Brendon Smith",
+      "title": "HVAC & Refrigeration Mechanic",
+      "email": "bmsmith@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Jason SooHoo",
+      "title": "IT Manager",
+      "email": "jsoohoo@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Don Sousa",
+      "title": "Computer Operator",
+      "email": "dsousa@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Matthew Struthers",
+      "title": "CAD Drafter",
+      "email": "struther@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Samuel Thé",
+      "title": "Postdoctoral Associate",
+      "email": "samthe@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Nala Thoummavong",
+      "title": "Administrative Assistant",
+      "email": "nalat@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Jennifer Thurow",
+      "title": "Manager, Research Administration",
+      "email": "jthurow@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "John Tsai",
+      "title": "IT System Support Engineer",
+      "email": "johntsai@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Maria Vrakas",
+      "title": "Financial Assistant",
+      "email": "mariatsa@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    },
+    {
+      "name": "Allan Weatherwax",
+      "title": "Director of Strategic Initiatives",
+      "email": "wxwax@mit.edu",
+      "why": "Administrative, technical, engineering or facilities staff, not an independent researcher, per the Observatory's own directory."
+    }
+  ]
+}

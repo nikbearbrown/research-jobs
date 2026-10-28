@@ -1,0 +1,13 @@
+{
+  "id": "mit-nse",
+  "institution": "MIT",
+  "unit": "Department of Nuclear Science and Engineering (NSE)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://nse.mit.edu/people/?people_type=faculty"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The people page is a JS filter widget (tabs for Faculty / Research and Academic / Postdoc / Administrative Staff / Emeriti) that rendered 'No posts found' even after the thin-HTML auto-upgrade to Playwright -- the filter's results appear to load via a client-side call this fetch didn't trigger. General department contact nse-info@mit.edu was shown in the footer. No names could be read in this pass; needs a different query parameter or a direct API/sitemap route."
+}

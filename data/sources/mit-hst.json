@@ -1,0 +1,13 @@
+{
+  "id": "mit-hst",
+  "institution": "MIT",
+  "unit": "Harvard-MIT Health Sciences and Technology (HST)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://hst.mit.edu/faculty-research/faculty"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "HST is a joint Harvard-MIT graduate program, not itself a department with independent labs -- its 'Faculty List' is an alphabetical, keyword-searchable directory of several hundred affiliated faculty whose primary labs are based at MIT departments/institutes (CSAIL, IDSS, IMES, Koch, McGovern, RLE, Wyss) or Harvard-affiliated hospitals (MGH, BIDMC, Brigham and Women's, Boston Children's, Dana-Farber, Joslin, MEEI, Ragon, Whitehead, Broad). Recording all of them here would duplicate labs that belong in each home department/institute's own source file, so this file is deliberately empty per the project's cross-cutting-hub convention. No single HST-wide PI or contact to record."
+}

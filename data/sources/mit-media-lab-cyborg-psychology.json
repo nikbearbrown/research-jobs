@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-cyborg-psychology",
+  "institution": "MIT",
+  "unit": "Media Lab — Cyborg Psychology Group",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/cyborg-psychology/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-cyborg-psychology",
+      "kind": "research-lab",
+      "lab_name": "Cyborg Psychology",
+      "pi_name": "Pat Pataranutaporn",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": true,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": "Pat Pataranutaporn (also the PI)",
+      "admin_email": "patpat@media.mit.edu",
+      "research_summary": "Inventing, investigating, and inspiring human-AI systems for human flourishing",
+      "member_count": 14,
+      "member_breakdown": "9 Graduate Student, 2 Member, 1 Administrative Assistant, 1 Research Affiliate, 1 Assistant Professor of Media Arts and Sciences; Asahi Broadcasting Corporation CD Prof of Media Arts and Sciences",
+      "members_page_url": "https://www.media.mit.edu/groups/cyborg-psychology/people/",
+      "join_page_url": "https://www.media.mit.edu/groups/cyborg-psychology/applicant-information/",
+      "join_notes": "Cyborg Psychology is currently accepting new students (per the group's own overview page). See the Applicant Information page for how to apply.",
+      "profile_url": null,
+      "notes": "Director identified by cross-referencing the Media Lab's top-level faculty/PI list (mit-media-lab.json) against this group's own People/Group Members roster. member_count counts everyone on that roster NOT marked 'Former'/'Past Member'. Roster page: https://www.media.mit.edu/groups/cyborg-psychology/people/."
+    }
+  ],
+  "non_lab_people": []
+}

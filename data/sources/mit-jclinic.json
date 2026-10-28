@@ -1,0 +1,13 @@
+{
+  "id": "mit-jclinic",
+  "institution": "MIT",
+  "unit": "MIT Jameel Clinic (Abdul Latif Jameel Clinic for Machine Learning in Health)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://jclinic.mit.edu/about-mit-jameel-clinic/team/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Jameel Clinic is a cross-departmental AI-for-health initiative, not a PI-led lab itself. Its Leadership (Regina Barzilay, AI Faculty Lead, EECS; James J. Collins, Life Sciences Faculty Lead, Biological Engineering) and listed 'Principal Investigators' (e.g. Dimitris Bertsimas/Sloan, Fotini Christia/Political Science, Connor Coley/ChemE, Joey Davis/Biology, Randall Davis/EECS, Elazer Edelman/IMES) are MIT faculty whose primary labs are recorded in their home departments -- not duplicated here. Advisory Board is mostly external industry/academic leaders, not MIT researchers. Recorded empty per the project's cross-cutting-hub convention."
+}

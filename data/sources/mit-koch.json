@@ -1,0 +1,13 @@
+{
+  "id": "mit-koch",
+  "institution": "MIT",
+  "unit": "Koch Institute for Integrative Cancer Research",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://ki.mit.edu/people/faculty"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The Koch Institute's faculty page is a JS-filterable directory (Research Area / Area of Expertise facets) that did not render a static name list in this fetch -- only the filter UI and navigation were captured. The Koch Institute has roughly 30 member faculty, most jointly appointed with Biology, Biological Engineering or Chemical Engineering and likely already recorded in those departments' own source files once built. Recorded empty this pass; needs a render-based re-fetch to get the actual faculty roster and institute directorship."
+}

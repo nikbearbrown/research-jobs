@@ -1,0 +1,14 @@
+{
+  "id": "mit-scsb",
+  "institution": "MIT",
+  "unit": "Simons Center for the Social Brain",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://scsb.mit.edu/",
+    "https://scsb.mit.edu/people/investigators/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Cross-institutional funding/community hub, not a department of its own labs: its Investigators page lists 74 scientists and clinicians across MIT, Harvard, the Broad Institute and other Boston-area institutions who hold SCSB seed grants, targeted-project funding, or postdoctoral-mentor roles. These PIs' own labs are recorded (or will be recorded) under their home department's source file (e.g. Picower, BCS, Biology, MIT Media Lab, Broad Institute) -- not duplicated here to avoid double-counting. No SCSB-specific lab, admin contact beyond general center staff, or join page was captured in this pass."
+}

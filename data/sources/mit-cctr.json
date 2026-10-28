@@ -1,0 +1,35 @@
+{
+  "id": "mit-cctr",
+  "institution": "MIT",
+  "unit": "Center for Clinical and Translational Research (CCTR)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://cctr.mit.edu/who-we-are/people"
+  ],
+  "labs": [
+    {
+      "id": "mit-cctr-elazer-edelman",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Elazer Edelman",
+      "pi_title": "Director, Center for Clinical and Translational Research; Director, Institute for Medical Engineering and Science, MIT; Professor of Medicine, Harvard Medical School",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://cctr.mit.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Studies how tissue architecture and biomechanical/flow regulation maintain homeostasis, applied to cardiovascular devices.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": null
+    }
+  ],
+  "non_lab_people": []
+}

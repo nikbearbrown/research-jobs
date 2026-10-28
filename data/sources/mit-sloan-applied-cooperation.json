@@ -1,0 +1,36 @@
+{
+  "id": "mit-sloan-applied-cooperation",
+  "institution": "MIT",
+  "unit": "MIT Applied Cooperation Initiative (MIT Sloan)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://mitsloan.mit.edu/centers-initiatives/mit-applied-cooperation-initiative/welcome",
+    "https://mitsloan.mit.edu/centers-initiatives/mit-applied-cooperation-initiative/team-members"
+  ],
+  "labs": [
+    {
+      "id": "mit-sloan-applied-cooperation-rand-yoeli",
+      "kind": "research-lab",
+      "lab_name": "Applied Cooperation Initiative",
+      "pi_name": "David Rand and Erez Yoeli",
+      "pi_title": "Co-Directors; Rand: Erwin H. Schell Professor of Management Science and Brain and Cognitive Sciences, MIT; Yoeli: Research Scientist, MIT Sloan",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mitsloan.mit.edu/centers-initiatives/mit-applied-cooperation-initiative/welcome",
+      "location": "MIT Sloan School of Management, 100 Main Street, Cambridge, MA 02142",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Applies lessons from the social sciences to increase contributions to real-world public goods (charitable giving, volunteering, energy conservation, smoking-ban compliance, antibiotic adherence, misinformation).",
+      "member_count": 13,
+      "member_breakdown": "2 co-directors, 1 senior researcher (Bhanot) + 2 more senior researchers (Kraft-Todd, Constantino, Syropoulos), 2 research coordinator/assistant (Liang, Moreno Lopez), 5 affiliates (Dubey, Hoffman, Burum, Moore, Lin)",
+      "members_page_url": "https://mitsloan.mit.edu/centers-initiatives/mit-applied-cooperation-initiative/team-members",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth+depth pass from the Team Members page (no Alumni/Former heading seen on this page, so all listed people counted as current). No contact email shown on the pages read; 'Learn More' links go to each person's MIT Sloan faculty-directory profile, not captured individually here."
+    }
+  ],
+  "non_lab_people": []
+}

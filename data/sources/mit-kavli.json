@@ -1,0 +1,13 @@
+{
+  "id": "mit-kavli",
+  "institution": "MIT",
+  "unit": "MIT Kavli Institute for Astrophysics and Space Research (MKI)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.space.mit.edu/people/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "MKI's people page is a JS-filterable directory (categories: Administration, Affiliated Faculty, Emeriti Faculty, Engineering staff, Faculty, Graduate student, In Memoriam, Intern, Other research staff, Postdoctoral scholar, Research scientist, Visitor) that did not render a static name list in this fetch -- only the filter UI was captured. MKI faculty are largely joint-appointed with MIT Physics or EAPS (e.g. Kavli faculty overlap with the physics.mit.edu and eaps.mit.edu rosters already recorded). Recorded empty this pass; needs a render-based re-fetch with the 'Faculty' filter applied for a clean roster."
+}

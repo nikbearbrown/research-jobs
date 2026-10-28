@@ -1,0 +1,18 @@
+{
+  "id": "mit-inm",
+  "institution": "MIT",
+  "unit": "MIT Initiative for New Manufacturing (INM)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://inm.mit.edu/team/"
+  ],
+  "labs": [],
+  "non_lab_people": [
+    {"name": "John Hart", "title": "Faculty Co-Director, INM", "email": null, "why": "Cross-cutting initiative leadership; primary MIT appointment/lab is in a home department, not INM itself."},
+    {"name": "Chris Love", "title": "Faculty Co-Director, INM; Faculty, MIT Chemical Engineering", "email": null, "why": "Primary lab recorded under MIT Chemical Engineering, not INM."},
+    {"name": "Yanchong Karen Zheng", "title": "Faculty Co-Director, INM", "email": null, "why": "Cross-cutting initiative leadership; primary appointment is MIT Sloan."},
+    {"name": "Julie Diop", "title": "Executive Director, INM", "email": null, "why": "Administrative/executive director, not an independent PI."}
+  ],
+  "notes": "INM is a cross-departmental manufacturing initiative, not a PI-led lab -- its executive and steering committee, seed-grant awardees and Grow Manufacturing Project faculty are all MIT faculty whose primary labs are recorded in their home departments (MechE, ChemE, Sloan, AeroAstro, Architecture, DUSP, Political Science, NSE, EECS, Economics -- confirmed via each 'more' bio link pointing to the person's home department page). Recorded empty per the project's cross-cutting-hub convention; only the top executive leadership is noted for reference."
+}

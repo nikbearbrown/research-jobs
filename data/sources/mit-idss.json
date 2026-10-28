@@ -1,0 +1,13 @@
+{
+  "id": "mit-idss",
+  "institution": "MIT",
+  "unit": "Institute for Data, Systems, and Society (IDSS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://idss.mit.edu/people/faculty/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "IDSS's people page categorizes Core Faculty, Affiliate Faculty, Visiting Faculty, Senior Research Staff and Research Staff, but is built as a non-tabular WordPress/ACF block layout that did not yield a clean per-person list in this pass (unlike IMES/EAPS/EECS, which use a consistent repeating card template). IDSS core faculty are also predominantly joint-appointed with EECS, LIDS, Sloan or Civil & Environmental Engineering (e.g. Munther Dahleh, Devavrat Shah, Asu Ozdaglar) and would likely duplicate those departments' own source files. Recorded empty for now; worth a dedicated re-fetch/parse pass later given IDSS's priority-1 status."
+}

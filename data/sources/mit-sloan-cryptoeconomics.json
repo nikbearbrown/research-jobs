@@ -1,0 +1,36 @@
+{
+  "id": "mit-sloan-cryptoeconomics",
+  "institution": "MIT",
+  "unit": "MIT Cryptoeconomics Lab (MIT Sloan)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://mitsloan.mit.edu/centers-initiatives/cryptoeconomics-lab/welcome-mit-cryptoeconomics-lab",
+    "https://mitsloan.mit.edu/centers-initiatives/cryptoeconomics-lab/our-team-mit-cryptoeconomics-lab"
+  ],
+  "labs": [
+    {
+      "id": "mit-sloan-cryptoeconomics-tucker-catalini",
+      "kind": "research-lab",
+      "lab_name": "MIT Cryptoeconomics Lab",
+      "pi_name": "Catherine Tucker and Christian Catalini",
+      "pi_title": "Founding Team; Tucker: Sloan Distinguished Professor of Management, MIT Sloan; Catalini: Research Scientist, MIT Sloan (lab founder)",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mitsloan.mit.edu/centers-initiatives/cryptoeconomics-lab/welcome-mit-cryptoeconomics-lab",
+      "location": "MIT Sloan School of Management, 100 Main Street, Cambridge, MA 02142",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Studies cryptoeconomics -- combining economics, game theory and computer science to understand decentralized marketplaces built on cryptography and economic incentives.",
+      "member_count": 7,
+      "member_breakdown": "2 founding team, 5 lab collaborators (Barrera, Coolen, Gordon, Polishchuk, Zhou)",
+      "members_page_url": "https://mitsloan.mit.edu/centers-initiatives/cryptoeconomics-lab/our-team-mit-cryptoeconomics-lab",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Team page has a distinct 'Alumni' heading listing 6 former members (Boslego, K. Zhang, Raymond, Sastry, Li, Hui) -- excluded from member_count per project convention. No contact email shown."
+    }
+  ],
+  "non_lab_people": []
+}

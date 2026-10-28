@@ -1,0 +1,58 @@
+{
+  "id": "mit-cams",
+  "institution": "MIT",
+  "unit": "Cybersecurity at MIT Sloan (CAMS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://cams.mit.edu/people/"
+  ],
+  "labs": [
+    {
+      "id": "mit-cams-stuart-madnick",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Stuart Madnick",
+      "pi_title": "Founding Director; Professor of Information Technologies, MIT Sloan",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://cams.mit.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": null
+    },
+    {
+      "id": "mit-cams-michael-siegel",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Michael Siegel",
+      "pi_title": "Director; Co-Founder; Principal Research Scientist, MIT Sloan",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://cams.mit.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": null
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Other listed members (Ranjan Pal, Dr. Kenzo Fujisue, May Almousa, Michael Coden) are research scientists/associate directors, not independent PIs."
+}

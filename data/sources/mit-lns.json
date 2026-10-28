@@ -1,0 +1,13 @@
+{
+  "id": "mit-lns",
+  "institution": "MIT",
+  "unit": "Laboratory for Nuclear Science (LNS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://web.mit.edu/lns/people/index.html"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The LNS Personnel Directory page itself says 'Information coming soon' -- no roster is published there to read (confirmed via plain fetch; the page is static, not JS-hidden). LNS is a cross-cutting interdisciplinary lab (like Harvard's CMSA/MRSEC) spanning several named research centers/groups whose faculty are primarily MIT Physics PIs: Bates Research & Engineering Center, Center for Theoretical Physics, Electromagnetic Interactions Group (EMI), Hadronic Physics Group (HPG), High Energy Plasmas Physics Group, Institute for Artificial Intelligence and Fundamental Interactions (IAIFI), Lepton Quark Studies (LQS), LHCb Group, Neutrino and Dark Matter Group, Particle Physics Collaboration (PPC), Relativistic Heavy Ion Group (HIG). mit-physics.json does not exist yet in this repo (its own targets.csv row is still todo as of this check) -- once it is built, LNS's actual PI roster is likely already covered there and should be cross-referenced rather than duplicated, per the cross-cutting-hub convention. Contact: 617-253-2395 / lns-hq@mit.edu (LNS HQ, not a research contact)."
+}

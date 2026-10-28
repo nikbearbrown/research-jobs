@@ -1,0 +1,49 @@
+{
+  "id": "mit-sloan-behavioral-lab",
+  "institution": "MIT",
+  "unit": "MIT Behavioral Research Lab (BRL, MIT Sloan)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://mitsloan.mit.edu/centers-initiatives/behavioral-research-lab/about"
+  ],
+  "labs": [
+    {
+      "id": "mit-sloan-behavioral-lab-curhan",
+      "kind": "core-facility",
+      "lab_name": "Behavioral Research Lab (BRL)",
+      "pi_name": "Jared R. Curhan",
+      "pi_title": "Faculty Director; Gordon Kaufman Professor of Management, MIT Sloan",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mitsloan.mit.edu/centers-initiatives/behavioral-research-lab/about",
+      "location": "MIT Sloan School of Management, 100 Main Street, Cambridge, MA 02142",
+      "phone": null,
+      "admin_name": "Leyla Omeragic Buljina (Behavioral Research Lab Coordinator)",
+      "admin_email": null,
+      "research_summary": "An Institute-wide shared resource (lab facilities, participant recruitment, general support) for behavioral research at MIT, not a single PI's research group.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://mitsloan.mit.edu/centers-initiatives/behavioral-research-lab/researchers",
+      "join_notes": "'For Researchers' page linked from the About page gives instructions for MIT-affiliated researchers to use the lab; not read in this pass.",
+      "profile_url": null,
+      "notes": "This is a shared service facility (recruitment, lab space) for behavioral researchers across MIT, not a PI-led research group -- recorded as a core-facility. Leadership Team is Curhan (Faculty Director), Drazen Prelec (co-leader), and Buljina (Coordinator). An 11-person 'Advisory Board' of mostly MIT Sloan faculty is also listed on the page but is an oversight body, not operational lab members, so not counted in member_count; one advisory member (John S. Carroll) is explicitly 'Emeritus'."
+    }
+  ],
+  "non_lab_people": [
+    {"name": "Drazen Prelec", "title": "Leadership Team; Digital Equipment Corp. LGO Professor of Management, MIT Sloan", "email": null, "why": "co-leader of a shared core facility, not an independent PI-led lab within BRL"},
+    {"name": "Abdullah Almaatouq", "title": "Advisory Board; Associate Professor, MIT Sloan", "email": null, "why": "advisory board member, not a BRL lab member; his own lab is elsewhere"},
+    {"name": "Rahul Bhui", "title": "Advisory Board; Associate Professor, MIT Sloan", "email": null, "why": "advisory board member"},
+    {"name": "John S. Carroll", "title": "Advisory Board; Gordon Kaufman Professor of Management, Emeritus", "email": null, "why": "emeritus advisory board member"},
+    {"name": "Emilio J. Castilla", "title": "Advisory Board; NTU Professor of Management, MIT Sloan", "email": null, "why": "advisory board member"},
+    {"name": "Chelsea R. Lide", "title": "Advisory Board; Class of 1948 Career Development Assistant Professor, MIT Sloan", "email": null, "why": "advisory board member"},
+    {"name": "Jackson G. Lu", "title": "Advisory Board; General Motors Professor of Management, MIT Sloan", "email": null, "why": "advisory board member"},
+    {"name": "Thomas W. Malone", "title": "Advisory Board; Patrick J. McGovern (1959) Professor of Management, MIT Sloan", "email": null, "why": "advisory board member"},
+    {"name": "Jimin Nam", "title": "Advisory Board; Class of 1957 Career Development Assistant Professor, MIT Sloan", "email": null, "why": "advisory board member"},
+    {"name": "Hazhir Rahmandad", "title": "Advisory Board; Schussel Family Professor of Management Science, MIT Sloan", "email": null, "why": "advisory board member"},
+    {"name": "Basima Tewfik", "title": "Advisory Board; Assistant Professor, Work and Organization Studies, MIT Sloan", "email": null, "why": "advisory board member"},
+    {"name": "Austin van Loon", "title": "Advisory Board; Class of 1956 Career Development Assistant Professor, MIT Sloan", "email": null, "why": "advisory board member"},
+    {"name": "Y. Karen Zheng", "title": "Advisory Board; Epoch Foundation Professor of International Management, MIT Sloan", "email": null, "why": "advisory board member, also appears as faculty on mit-sloan-fsas"}
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mit-dusp-resilient-communities",
+  "institution": "MIT",
+  "unit": "Resilient Communities Lab (RCL), Department of Urban Studies and Planning",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "http://rcl.mit.edu/",
+    "http://rcl.mit.edu/Team"
+  ],
+  "labs": [
+    {
+      "id": "mit-dusp-resilient-communities-janelle-knox-hayes",
+      "kind": "research-lab",
+      "lab_name": "Resilient Communities Lab (RCL)",
+      "pi_name": "Janelle Knox-Hayes",
+      "pi_title": "Lab Director, Resilient Communities Lab, MIT DUSP",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "http://rcl.mit.edu/",
+      "location": "Cambridge, MA 02139",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "An interdisciplinary team developing resilience solutions and building a collaborative network across academic, government, non-profit, community and policy groups to support frontline communities facing climate and environmental challenges.",
+      "member_count": 21,
+      "member_breakdown": "1 Lab Director, 9 lab members (1 research associate, 2 PhD students, 6 master's students), 11 research affiliates (several externally based, e.g. Gabriella Carolini is MIT DUSP faculty)",
+      "members_page_url": "http://rcl.mit.edu/Team",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "http://rcl.mit.edu/Team",
+      "notes": "Team page lists Lab Team, Research Affiliates and Past Members as separate sections; only the first two counted (alphabetical by last name, not role-sorted, so role titles were matched to names individually). No PI/admin email or join page shown; general contact is a page-hosted email link with no address visible in the extracted text."
+    }
+  ],
+  "non_lab_people": []
+}

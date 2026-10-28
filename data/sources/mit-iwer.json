@@ -1,0 +1,13 @@
+{
+  "id": "mit-iwer",
+  "institution": "MIT",
+  "unit": "Institute for Work and Employment Research (IWER), MIT Sloan",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://mitsloan.mit.edu/institute-work-and-employment-research/about-iwer"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "IWER's own people_url in targets.csv points to the entire MIT Sloan faculty directory, not an IWER-specific roster -- too broad to read as this target's own list (it would just be all of Sloan). IWER's own about page was fetched but did not clearly list current IWER-affiliated faculty by name; its researchers (labor economists/management scholars) are MIT Sloan faculty whose primary labs/pages belong in a Sloan-wide source file, which does not yet exist in this project. Recorded empty; needs a correct IWER-specific people URL to do a real pass."
+}

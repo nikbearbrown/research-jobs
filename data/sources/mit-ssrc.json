@@ -1,0 +1,37 @@
+{
+  "id": "mit-ssrc",
+  "institution": "MIT",
+  "unit": "Sociotechnical Systems Research Center (SSRC)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://ssrc.mit.edu/",
+    "https://ssrc.mit.edu/people/"
+  ],
+  "labs": [
+    {
+      "id": "mit-ssrc-jessika-trancik",
+      "kind": "research-lab",
+      "lab_name": "SSRC Headquarters",
+      "pi_name": "Jessika Trancik",
+      "pi_title": "Director of SSRC; Professor at the Institute for Data, Systems, and Society",
+      "pi_email": "trancik@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": "Matthew Margetta (Director, Administration and Finance); Laura Dorson (Assistant to the Director); Peter Gibson (Administrative Assistant II); Chien Liou (Research Administration Coordinator); April London (Senior Manager, Research Administration)",
+      "admin_email": "margetta@mit.edu",
+      "research_summary": "Umbrella center coordinating several independent MIT research groups and programs on sociotechnical systems.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://ssrc.mit.edu/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "SSRC is a cross-cutting hub, not a department of its own labs. Its People page lists SSRC Headquarters staff (recorded here) plus several affiliated groups/centers whose PIs are faculty based in other departments: Camera Culture Group (Ramesh Raskar, Media Lab), Center for Biomedical Innovation (Richard Braatz, ChemE; Stacy Springs and others), Center for Complex Engineering Systems (Kamal Youcef-Toumi/MechE, Munther Dahleh/EECS, Anette Hosoi/MechE, Dina Katabi/CSAIL, Cynthia Breazeal/Media Lab, Sertac Karaman/AeroAstro+LIDS), Center for Constructive Communication (Deb Roy, Media Lab), Connection Science, Fotini Christia Group, Hosoi Research Group, Initiative on Combatting Systemic Racism, Jadbabaie Research Group, Local Innovation Group, Munther Dahleh Research Group, SEAri. Not duplicating those PIs here -- their labs are recorded (or will be recorded) under their home department's source file."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

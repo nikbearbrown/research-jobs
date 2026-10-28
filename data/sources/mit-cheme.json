@@ -1,0 +1,13 @@
+{
+  "id": "mit-cheme",
+  "institution": "MIT",
+  "unit": "Department of Chemical Engineering",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://cheme.mit.edu/people/faculty/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The /people/faculty/ page is a client-side filterable directory (rank/research-area facets) whose actual faculty list did not render in either a plain fetch or a Playwright render within the default wait -- likely loads via a separate API call triggered by interacting with the filter UI, not on page load. No names were readable; not attempted further this pass. Needs a different strategy (e.g. finding the underlying JSON endpoint, or a sitemap.xml entry) in a later pass."
+}

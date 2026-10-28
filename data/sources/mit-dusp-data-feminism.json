@@ -1,0 +1,35 @@
+{
+  "id": "mit-dusp-data-feminism",
+  "institution": "MIT",
+  "unit": "Data + Feminism Lab (Department of Urban Studies and Planning)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://dataplusfeminism.mit.edu/"
+  ],
+  "labs": [
+    {
+      "id": "mit-dusp-data-feminism-catherine-dignazio",
+      "kind": "research-lab",
+      "lab_name": "Data + Feminism Lab",
+      "pi_name": "Catherine D'Ignazio",
+      "pi_title": "Director; Associate Professor of Urban Science and Planning, MIT DUSP",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://dataplusfeminism.mit.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Uses data and computational methods to work towards gender and racial justice, particularly as they relate to space and place.",
+      "member_count": 18,
+      "member_breakdown": "1 PI, 2 research affiliates who are MIT-based staff (Eric Robsky Huntley, lead systems engineer; and others), several external research affiliates (Northeastern, Emory, Michigan, Warwick, Queen Mary, Washington, Harvard), and MIT research assistants (DUSP, HASTS, EECS) -- see members_page_url for the full named roster",
+      "members_page_url": "https://dataplusfeminism.mit.edu/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dataplusfeminism.mit.edu/",
+      "notes": "Single-page JS site (required --render; plain HTTP returned only the page title). Current Members list read in full, stopping at the page's own 'Alumni' heading. No PI or lab email, join/apply page, or admin contact shown on the page. Pet ('Aloo The Potato Dog', listed under MIT DUSP) excluded from member_count."
+    }
+  ],
+  "non_lab_people": []
+}

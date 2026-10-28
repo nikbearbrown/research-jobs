@@ -1,0 +1,33 @@
+{
+  "id": "mit-mithic",
+  "institution": "MIT",
+  "unit": "MIT Human Insight Collaborative (MITHIC)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["https://mithic.mit.edu/team/"],
+  "labs": [
+    {
+      "id": "mit-mithic-org",
+      "kind": "core-facility",
+      "lab_name": "MIT Human Insight Collaborative (MITHIC)",
+      "pi_name": "Anantha Chandrakasan and Agustín Rayo",
+      "pi_title": "Co-Chairs; Chandrakasan: Provost, Vannevar Bush Professor of EECS; Rayo: Kenan Sahin Dean, SHASS, Professor of Philosophy",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mithic.mit.edu/",
+      "location": "Cambridge, MA",
+      "phone": null,
+      "admin_name": "Jenn Alton (Senior Program Manager), Elena Nosiglia (Program Coordinator), Chanh Phan (Academic Programs Specialist)",
+      "admin_email": "jalton@mit.edu",
+      "research_summary": "A SHASS-led Institute-wide collaborative (formerly branded as the site name suggests, 'MITHIC') funding cross-disciplinary humanities/social-science research on the human element of technology, not a single PI's lab.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://mithic.mit.edu/team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Cross-cutting SHASS hub (formerly renamed on this page as 'MIT Human Insight Collaborative'), recorded thin per CLAUDE.md convention. Faculty Co-Leads: Seth Mnookin, Heather Paxson. A 'Steering Committee' lists faculty whose own labs are in their home departments (cross-reference, not duplicated): Iain Cheeseman (already recorded as a Whitehead Institute PI in whitehead.json), Fotini Christia (Director, IDSS), Caspar Hare, Tung-Hui Hu, Yael Kalai, Erin Kelly (also co-directs IWER), Kenda Mutongi, Elsa Olivetti (already in mit-mrl.json), Julie Shah (also Dept Head, AeroAstro)."
+    }
+  ],
+  "non_lab_people": []
+}

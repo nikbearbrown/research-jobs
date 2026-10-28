@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-critical-matter",
+  "institution": "MIT",
+  "unit": "Media Lab — Critical Matter Group",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/critical-matter/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-critical-matter",
+      "kind": "research-lab",
+      "lab_name": "Critical Matter",
+      "pi_name": "Behnaz Farahi",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": true,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "criticalmatter@media.mit.edu",
+      "research_summary": "Designing across the scale, imagining a transformative future",
+      "member_count": 7,
+      "member_breakdown": "3 Graduate Student, 2 Member, 1 Assistant Professor of Media Arts and Sciences; Morningside Academy for DesignProfessor, 1 Visiting Student",
+      "members_page_url": "https://www.media.mit.edu/groups/critical-matter/people/",
+      "join_page_url": "https://www.media.mit.edu/groups/critical-matter/applicant-information/",
+      "join_notes": "Critical Matter is currently accepting new students (per the group's own overview page). See the Applicant Information page for how to apply.",
+      "profile_url": null,
+      "notes": "Director identified by cross-referencing the Media Lab's top-level faculty/PI list (mit-media-lab.json) against this group's own People/Group Members roster. member_count counts everyone on that roster NOT marked 'Former'/'Past Member'. Roster page: https://www.media.mit.edu/groups/critical-matter/people/."
+    }
+  ],
+  "non_lab_people": []
+}

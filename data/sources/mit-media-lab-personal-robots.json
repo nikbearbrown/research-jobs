@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-personal-robots",
+  "institution": "MIT",
+  "unit": "Media Lab — Personal Robots Group",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/personal-robots/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-personal-robots",
+      "kind": "research-lab",
+      "lab_name": "Personal Robots",
+      "pi_name": "Cynthia Breazeal",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": true,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Building intelligent personified technologies that collaborate with people to help them learn, thrive, and flourish.",
+      "member_count": 28,
+      "member_breakdown": "7 Graduate Student, 2 Administrative Assistant, 1 Program Manager & STEAM Educator, 1 Sr. Learning Innovation Designer, pK-12 Initiative, 1 Software Developer & Education Support Associate, 1 Learning Programs Designer, 1 Head of MIT pK-12 Initiative, 1 Professor of Media Arts and Sciences; Benesse Professor of Research in Education, 1 Program & Partnerships Manager, 1 Program Manager, MIT RAISE Initiative, 1 Postdoctoral Associate, 1 Research Scientist, MIT RAISE Initiative, 1 Postdoctoral Fellow, 1 Software UX/AI Interface Developer, 1 Professor, 1 RAISE Global Alliances Lead, 1 AI Augmented Learning System Developer, 1 Research Scientist, 1 Program Lead, AI Literacy, 1 AI Curriculum Designer & Tools Software Developer, 1 Member",
+      "members_page_url": "https://www.media.mit.edu/groups/personal-robots/people/",
+      "join_page_url": "https://www.media.mit.edu/groups/personal-robots/applicant-information/",
+      "join_notes": "Personal Robots is currently accepting new students (per the group's own overview page). See the Applicant Information page for how to apply.",
+      "profile_url": null,
+      "notes": "Director identified by cross-referencing the Media Lab's top-level faculty/PI list (mit-media-lab.json) against this group's own People/Group Members roster. member_count counts everyone on that roster NOT marked 'Former'/'Past Member'. Roster page: https://www.media.mit.edu/groups/personal-robots/people/."
+    }
+  ],
+  "non_lab_people": []
+}

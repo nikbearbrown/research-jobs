@@ -1,0 +1,13 @@
+{
+  "id": "mit-cehs",
+  "institution": "MIT",
+  "unit": "Center for Environmental Health Sciences (CEHS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://cehs.mit.edu/members/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "CEHS is a cross-departmental center: 49 members (40 faculty, 3 emeritus, 6 research members) across 11 disciplines, each with a primary lab in their home department (Biological Engineering, Aeronautics and Astronautics, Civil and Environmental Engineering, etc. -- several, e.g. Eric Alm, Angela Belcher, Edward Boyden, Bryan Bryson, Otto Cordero, already appear in mit-be/mit-cee). Not individually recorded here per the project's cross-cutting-hub convention; see each member's home department source file."
+}

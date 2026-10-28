@@ -1,0 +1,13 @@
+{
+  "id": "mit-psfc",
+  "institution": "MIT",
+  "unit": "Plasma Science and Fusion Center (PSFC)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.psfc.mit.edu/about/people/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The page states it holds 'more than 250 people' (Leadership, Faculty & Senior Staff, Researchers, Staff, Students, Visiting Scientists) behind a filterable directory widget, but our fetch (plain HTTP; the thin-HTML auto-upgrade to Playwright did not trigger since the shell HTML is long enough) only rendered the first ~15 alphabetically-sorted entries before the list cut off mid-page -- the same kind of JS-driven incremental-load limitation seen on the Smithsonian CfA people page. The visible slice was dominated by students/research affiliates/visiting scientists rather than PIs, so no lab entries were recorded rather than present an unrepresentative partial roster. A full pass would need a scroll-loop or the 'Faculty & Senior Staff' filter's underlying API/URL, not found in this session."
+}

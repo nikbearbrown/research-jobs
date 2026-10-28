@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-conformable-decoders",
+  "institution": "MIT",
+  "unit": "Media Lab — Conformable Decoders Group",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/conformable-decoders/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-conformable-decoders",
+      "kind": "research-lab",
+      "lab_name": "Conformable Decoders",
+      "pi_name": "Canan Dagdeviren",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": true,
+      "lab_website": "http://conformabledecoders.media.mit.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": "Canan Dagdeviren (also the PI)",
+      "admin_email": "admissions-conformabledecoders@media.mit.edu",
+      "research_summary": "Converting the patterns of nature and the human body into beneficial signals and energy",
+      "member_count": 9,
+      "member_breakdown": "4 Graduate Student, 2 Postdoctoral Associate, 1 Associate Professor of Media Arts and Sciences, 1 Research Specialist, 1 Research Affiliate",
+      "members_page_url": "https://www.media.mit.edu/groups/conformable-decoders/group-members/",
+      "join_page_url": "https://www.media.mit.edu/groups/conformable-decoders/applicant-information/",
+      "join_notes": "Conformable Decoders is currently accepting new students (per the group's own overview page). See the Applicant Information page for how to apply.",
+      "profile_url": null,
+      "notes": "Director identified by cross-referencing the Media Lab's top-level faculty/PI list (mit-media-lab.json) against this group's own People/Group Members roster. member_count counts everyone on that roster NOT marked 'Former'/'Past Member'. Roster page: https://www.media.mit.edu/groups/conformable-decoders/group-members/."
+    }
+  ],
+  "non_lab_people": []
+}

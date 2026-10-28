@@ -1,0 +1,16 @@
+{
+  "id": "mit-lmp",
+  "institution": "MIT",
+  "unit": "Laboratory for Manufacturing and Productivity (LMP)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://lmp.mit.edu/"
+  ],
+  "labs": [],
+  "non_lab_people": [
+    {"name": "A. John Hart", "title": "Director, LMP and Advanced Production Technologies (APT); Professor, Mechanical Engineering", "email": "ajhart@mit.edu", "why": "LMP's director; his own lab (Mechanosynthesis Group) is already recorded under mit-meche.json as its own entry"},
+    {"name": "Justin Silva", "title": "Administrative contact for LMP", "email": "jsilva25@mit.edu", "why": "administrative staff, not a PI"}
+  ],
+  "notes": "LMP is a cross-cutting interdisciplinary center, not an independent department -- its site itself says it is 'an interdisciplinary organization of faculty and students' and lists 'affiliated faculty and research groups'. Every named faculty member (Anthony, Buonassisi, Chun, Culpepper, Graves, Gutowski, Hardt, Hart, Kim, J. Liu, Sachs, Sarma, Slocum, Suh (emeritus), Trumper, Varanasi, Youcef-Toumi) is a Mechanical Engineering PI already recorded under data/sources/mit-meche.json -- not duplicated here per the project's cross-cutting-hub convention (same treatment as Harvard's CMSA/HDSI/MRSEC). The LMP page does additionally name each PI's specific lab, which mit-meche.json's breadth pass did not capture -- worth folding in during a later per-PI depth pass: Anthony->Device Realization Laboratory, Buonassisi->Photovoltaics Research Laboratory, Gutowski->Environmentally Benign Manufacturing, Hart->Mechanosynthesis Group, Kim->Micro Nano Systems Laboratory, J. Liu->Learning Engineering and Practice Group, Slocum->Precision Engineering Research Group, Varanasi->Varanasi Research Group, Youcef-Toumi->Mechatronics Research Laboratory. Stephen Graves was named here but does not appear in mit-meche.json (he is MIT Sloan faculty, not MechE) -- worth checking Sloan's own source file once it exists."
+}

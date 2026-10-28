@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-social-algorithms",
+  "institution": "MIT",
+  "unit": "Media Lab — Social Algorithms Group",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/social-algorithms/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-social-algorithms",
+      "kind": "research-lab",
+      "lab_name": "Social Algorithms",
+      "pi_name": "Karrie Karahalios",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": true,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "social-admin@media.mit.edu",
+      "research_summary": null,
+      "member_count": 5,
+      "member_breakdown": "3 Graduate Student, 1 Professor of Media Arts and Sciences, 1 Administrative Assistant",
+      "members_page_url": "https://www.media.mit.edu/groups/social-algorithms/people/",
+      "join_page_url": "https://www.media.mit.edu/groups/social-algorithms/applicant-information/",
+      "join_notes": "Social Algorithms is currently accepting new students (per the group's own overview page). See the Applicant Information page for how to apply.",
+      "profile_url": null,
+      "notes": "Director identified by cross-referencing the Media Lab's top-level faculty/PI list (mit-media-lab.json) against this group's own People/Group Members roster. member_count counts everyone on that roster NOT marked 'Former'/'Past Member'. Roster page: https://www.media.mit.edu/groups/social-algorithms/people/."
+    }
+  ],
+  "non_lab_people": []
+}

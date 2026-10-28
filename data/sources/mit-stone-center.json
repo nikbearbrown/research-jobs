@@ -1,0 +1,33 @@
+{
+  "id": "mit-stone-center",
+  "institution": "MIT",
+  "unit": "James M. and Cathleen D. Stone Center on Inequality and Shaping the Future of Work",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["https://shapingwork.mit.edu/about-us"],
+  "labs": [
+    {
+      "id": "mit-stone-center-acemoglu",
+      "kind": "research-lab",
+      "lab_name": "Stone Center on Inequality and Shaping the Future of Work",
+      "pi_name": "Daron Acemoglu, Simon Johnson and David Autor",
+      "pi_title": "Faculty Director (Acemoglu); Faculty Co-Directors (Johnson, Autor)",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://shapingwork.mit.edu/",
+      "location": "Cambridge, MA",
+      "phone": null,
+      "admin_name": "Kathryn Moffat (Director, Workforce Initiatives); Shay O'Brien (Research Manager); Julia Regier (Policy and Research Manager)",
+      "admin_email": null,
+      "research_summary": "A non-partisan economics research center studying labor-market inequality and the future of work (technology's effects on jobs, wages and wealth distribution).",
+      "member_count": 11,
+      "member_breakdown": "3 faculty leadership, 8 staff (predoctoral researchers, research associates, postdoc) -- excludes 1 intern, 1 visiting scholar and a separate list of external Research Affiliates at other universities",
+      "members_page_url": "https://shapingwork.mit.edu/about-us",
+      "join_page_url": "https://shapingwork.mit.edu/careers",
+      "join_notes": "Careers page linked from main nav; not read in detail in this pass.",
+      "profile_url": null,
+      "notes": "Formerly the MIT Shaping the Future of Work Initiative. Builds on / stays engaged with several related MIT efforts also named on this page: the MIT Task Force on the Work of the Future, the MIT Industrial Performance Center's Work of the Future initiative (Julie Shah, Ben Armstrong), and MIT Sloan's Institute for Work and Employment Research (IWER, co-directed by Emilio Castilla and Erin Kelly -- IWER is a separate existing target, mit-iwer). Research Affiliates (Sydnee Caldwell, David Dorn, Arindrajit Dube, Brandon Enriquez, Alex He, Nathaniel Hendren, Simon Jager, and more) are primarily based at other universities and not counted as MIT lab members."
+    }
+  ],
+  "non_lab_people": []
+}

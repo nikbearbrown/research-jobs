@@ -1,0 +1,33 @@
+{
+  "id": "mit-quantum",
+  "institution": "MIT",
+  "unit": "MIT Quantum Initiative (QMIT)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["https://quantum.mit.edu/qmit-leadership/"],
+  "labs": [
+    {
+      "id": "mit-quantum-freedman",
+      "kind": "core-facility",
+      "lab_name": "MIT Quantum Initiative (QMIT)",
+      "pi_name": "Danna Freedman",
+      "pi_title": "QMIT Faculty Director; Frederick George Keyes Professor of Chemistry",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://quantum.mit.edu/qmit-leadership/",
+      "location": "Cambridge, MA",
+      "phone": null,
+      "admin_name": "Jacqueline Slavik (QMIT Managing Director)",
+      "admin_email": null,
+      "research_summary": "An Institute-wide initiative coordinating quantum science and technology research across MIT departments; not a single PI's lab.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://quantum.mit.edu/qmit-postdoctoral-fellowship-program/",
+      "join_notes": "A QMIT Postdoctoral Fellowship Program is advertised from the leadership page; not read in detail in this pass.",
+      "profile_url": null,
+      "notes": "Cross-cutting hub, recorded thin per CLAUDE.md convention. Initiative Head is Ian Waitz (VP for Research). Six 'Core Research Area Leads' are named, each already a PI in their home department (cross-reference, not duplicated): Paola Cappellaro (Quantum Sensing, also NSE/Physics), Dirk Englund (Quantum Networks, EECS), Aram Harrow (Quantum Algorithms, Physics -- already recorded in mit-physics.json), Pablo Jarillo-Herrero (Materials for Quantum, Physics -- already in mit-physics.json and mit-mrl.json), William Oliver (Quantum Computing, EECS), Vladan Vuletic (Quantum Simulation, Physics -- already in mit-physics.json). A separate 'Faculty Advisory Board' lists additional cross-department faculty (e.g. Moungi Bawendi/Chemistry, Vladimir Bulović/MIT.nano, Netta Engelhardt/Physics) not individually re-recorded here."
+    }
+  ],
+  "non_lab_people": []
+}

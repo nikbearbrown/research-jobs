@@ -1,0 +1,58 @@
+{
+  "id": "mit-ccse",
+  "institution": "MIT",
+  "unit": "Center for Computational Science and Engineering (CCSE)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://cse.mit.edu/people/"
+  ],
+  "labs": [
+    {
+      "id": "mit-ccse-laurent-demanet",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Laurent Demanet",
+      "pi_title": "Co-Director, CCSE; Professor of Applied Mathematics",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://cse.mit.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": null
+    },
+    {
+      "id": "mit-ccse-nicolas-hadjiconstantinou",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Nicolas G. Hadjiconstantinou",
+      "pi_title": "Co-Director, CCSE; Quentin Berg (1937) Professor of Mechanical Engineering",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://cse.mit.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": null
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "CCSE is a cross-departmental hub; its page lists many additional affiliated faculty by home department (Mathematics, Mechanical Engineering, Physics, etc.) not individually recorded here -- they likely already have primary lab entries in their home department's source file."
+}

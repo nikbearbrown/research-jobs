@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-viral-communications",
+  "institution": "MIT",
+  "unit": "Viral Communications group (MIT Media Lab)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/viral-communications/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-viral-communications-lippman",
+      "kind": "research-lab",
+      "lab_name": "Viral Communications",
+      "pi_name": "Andrew Lippman",
+      "pi_title": "Group Head, Viral Communications, MIT Media Lab",
+      "pi_email": null,
+      "accepting_grad_students": true,
+      "lab_website": "https://www.media.mit.edu/groups/viral-communications/overview/",
+      "location": "MIT Media Lab, Cambridge, MA",
+      "phone": "(617) 253-9805",
+      "admin_name": "Alessandra Davy-Falconi (Group Contact)",
+      "admin_email": "davyfalc@media.mit.edu",
+      "research_summary": "Builds AI-based interfaces and systems ('technologies of curiosity') that give people more control over how they interact with algorithms, platforms and their own data.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.media.mit.edu/groups/viral-communications/people/",
+      "join_page_url": "https://www.media.mit.edu/groups/viral-communications/overview/",
+      "join_notes": "Overview page states the group 'is currently accepting new students' with a 'Learn more about how to apply' link; application page itself not read in this pass.",
+      "profile_url": null,
+      "notes": "Overview page read; it lists project collaborators (e.g. Brooke Smilen, Tawab Safi, Yui Kondo, Kevin Dunnell) under individual projects but no dedicated People/roster page was fetched in this pass, so member_count is left null rather than guessed from project bylines."
+    }
+  ],
+  "non_lab_people": []
+}

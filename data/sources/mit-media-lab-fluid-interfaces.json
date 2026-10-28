@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-fluid-interfaces",
+  "institution": "MIT",
+  "unit": "Media Lab — Fluid Interfaces Group",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/fluid-interfaces/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-fluid-interfaces",
+      "kind": "research-lab",
+      "lab_name": "Fluid Interfaces",
+      "pi_name": "Pattie Maes",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": false,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": "Xan Foote",
+      "admin_email": "fluidadmin@media.mit.edu",
+      "research_summary": "Designing Systems for Cognitive Augmentation",
+      "member_count": 13,
+      "member_breakdown": "8 Graduate Student, 1 Professor of Media Technology; Germeshausen Professor, 1 Administrative Assistant, 1 Research Scientist, 1 Postdoctoral Associate, 1 Research Affiliate",
+      "members_page_url": "https://www.media.mit.edu/groups/fluid-interfaces/group-members/",
+      "join_page_url": "https://www.media.mit.edu/groups/fluid-interfaces/applicant-information/",
+      "join_notes": "Fluid Interfaces is not currently accepting new students (per the group's own overview page). See the Applicant Information page for how to apply.",
+      "profile_url": null,
+      "notes": "Director identified by cross-referencing the Media Lab's top-level faculty/PI list (mit-media-lab.json) against this group's own People/Group Members roster. member_count counts everyone on that roster NOT marked 'Former'/'Past Member'. Roster page: https://www.media.mit.edu/groups/fluid-interfaces/group-members/."
+    }
+  ],
+  "non_lab_people": []
+}

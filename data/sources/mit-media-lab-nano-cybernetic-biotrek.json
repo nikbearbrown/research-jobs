@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-nano-cybernetic-biotrek",
+  "institution": "MIT",
+  "unit": "Media Lab — Nano-Cybernetic Biotrek Group",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/nano-cybernetic-biotrek/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-nano-cybernetic-biotrek",
+      "kind": "research-lab",
+      "lab_name": "Nano-Cybernetic Biotrek",
+      "pi_name": "Deblina Sarkar",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": true,
+      "lab_website": "https://web.mit.edu/deblina-sarkar/",
+      "location": null,
+      "phone": null,
+      "admin_name": "Deblina Sarkar (also the PI)",
+      "admin_email": "deblina@mit.edu",
+      "research_summary": "Inventing disruptive technologies for nanoelectronic devices and creating new paradigms for life-machine symbiosis",
+      "member_count": 9,
+      "member_breakdown": "3 Member, 2 Postdoctoral Associate, 1 Associate Professor of Media Arts and Sciences; AT&T Career Development Professor, 1 Administrative Assistant, 1 Graduate Student, 1 Home",
+      "members_page_url": "https://www.media.mit.edu/groups/nano-cybernetic-biotrek/people-2/",
+      "join_page_url": "https://www.media.mit.edu/groups/nano-cybernetic-biotrek/applicant-information/",
+      "join_notes": "Nano-Cybernetic Biotrek is currently accepting new students (per the group's own overview page). See the Applicant Information page for how to apply.",
+      "profile_url": null,
+      "notes": "Director identified by cross-referencing the Media Lab's top-level faculty/PI list (mit-media-lab.json) against this group's own People/Group Members roster. member_count counts everyone on that roster NOT marked 'Former'/'Past Member'. Roster page: https://www.media.mit.edu/groups/nano-cybernetic-biotrek/people-2/."
+    }
+  ],
+  "non_lab_people": []
+}

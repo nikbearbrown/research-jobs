@@ -1,0 +1,13 @@
+{
+  "id": "mit-genai-consortium",
+  "institution": "MIT",
+  "unit": "MIT Generative AI Impact Consortium (MGAIC)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://genai.mit.edu/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "MGAIC is an industry-funded research consortium administered by the MIT Schwarzman College of Computing, not a PI-led lab itself -- it funds cross-departmental projects (seen on the homepage: Daron Acemoglu/Economics, Jacob Andreas/EECS and Asuman Ozdaglar/EECS on one project; Eric Klopfer/CMS-Writing and Cynthia Breazeal/Media Lab on another). Those PIs' primary labs belong in their home department's source file, not here, so this file is deliberately empty per the project's cross-cutting-hub convention. General contact: mitgenai@mit.edu. No member/people directory page exists on the site."
+}

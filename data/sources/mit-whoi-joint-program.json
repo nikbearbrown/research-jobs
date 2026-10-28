@@ -1,0 +1,14 @@
+{
+  "id": "mit-whoi-joint-program",
+  "institution": "MIT / Woods Hole Oceanographic Institution",
+  "unit": "MIT-WHOI Joint Program in Oceanography/Applied Ocean Science & Engineering",
+  "city": "Cambridge, MA / Woods Hole, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://mit.whoi.edu/",
+    "https://mit.whoi.edu/faculty/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "A joint graduate program, not a single department -- faculty are split across 5 discipline pages (Biological Oceanography, Chemical Oceanography, Marine Geology and Geophysics, Physical Oceanography, Climate Science), each with its own Faculty sub-list, none of which were read in this pass (the top-level /faculty/ page is pure navigation, no names). Faculty here are WHOI scientists and MIT faculty (many already counted in their home MIT department, e.g. EAPS, mechanical/ocean engineering) -- recommend a future pass that reads each discipline's faculty page and cross-checks against already-recorded MIT labs before adding anything, to avoid duplication. Recommend status partial."
+}

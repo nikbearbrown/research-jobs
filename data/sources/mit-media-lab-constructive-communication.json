@@ -1,0 +1,35 @@
+{
+  "id": "mit-media-lab-constructive-communication",
+  "institution": "MIT",
+  "unit": "Media Lab — MIT Center for Constructive Communication Group",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.media.mit.edu/groups/center-for-constructive-communication/overview/"
+  ],
+  "labs": [
+    {
+      "id": "mit-media-lab-constructive-communication",
+      "kind": "research-lab",
+      "lab_name": "MIT Center for Constructive Communication",
+      "pi_name": "Deb Roy",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": true,
+      "lab_website": "https://www.ccc.mit.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": "Heather Pierce",
+      "admin_email": null,
+      "research_summary": "through human-led, AI-assisted systems for collective listening, understanding, and action",
+      "member_count": 17,
+      "member_breakdown": "5 Graduate Student, 2 Research Affiliate, 1 Postdoctoral Fellow, 1 Instructional Designer and Program Manager, 1 Professor of Media Arts and Sciences; Toshiba Professor of Media Arts and Sciences, 1 Head of Strategic Planning & Development, 1 Program Strategist, 1 Administrative Assistant, 1 Prototype Manager, 1 Member, 1 Research Designer, 1 Visiting Scholar",
+      "members_page_url": "https://www.media.mit.edu/groups/center-for-constructive-communication/people/",
+      "join_page_url": "https://www.media.mit.edu/groups/center-for-constructive-communication/applicant-information/",
+      "join_notes": "MIT Center for Constructive Communication is currently accepting new students (per the group's own overview page). See the Applicant Information page for how to apply.",
+      "profile_url": null,
+      "notes": "Director identified by cross-referencing the Media Lab's top-level faculty/PI list (mit-media-lab.json) against this group's own People/Group Members roster. member_count counts everyone on that roster NOT marked 'Former'/'Past Member'. Roster page: https://www.media.mit.edu/groups/center-for-constructive-communication/people/."
+    }
+  ],
+  "non_lab_people": []
+}
