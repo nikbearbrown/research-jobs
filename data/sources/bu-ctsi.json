@@ -1,0 +1,13 @@
+{
+  "id": "bu-ctsi",
+  "institution": "Boston University",
+  "unit": "Clinical & Translational Science Institute (CTSI)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["https://www.bu.edu/ctsi/support-for-research/networking/bu-profiles/"],
+  "labs": [],
+  "non_lab_people": [
+    {"name": "BU CTSI (general contact)", "title": "Clinical & Translational Science Institute", "email": "ctsi@bu.edu", "why": "Research-support service/infrastructure organization, not a PI-led lab. Provides shared resources (biostatistics/BERD program, pilot grants, core lab support, regulatory support, research navigator team) across BU/BMC, and hosts 'BU Profiles', an open-source research-networking/expertise-search tool (a customized Harvard Catalyst Profiles instance) rather than its own roster of labs."}
+  ],
+  "notes": "The targets.csv people_url (the 'BU Profiles' page) is CTSI's description of its research-networking search tool, not a static faculty roster -- it links out to an open-ended search interface (profiles.bu.edu/search/) covering all of BU/BMC, not CTSI-specific researchers. No CTSI-specific PI-led labs found; recorded as a support organization only. Funded under NIH grant UM1TR005308."
+}

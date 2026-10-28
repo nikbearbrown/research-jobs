@@ -1,0 +1,34 @@
+{
+  "id": "bu-nano",
+  "institution": "Boston University",
+  "unit": "Nanotechnology Innovation Center (BUnano)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["http://www.bu.edu/nano-bu/", "https://www.bu.edu/nano-bu/people/"],
+  "labs": [
+    {
+      "id": "bu-nano-mark-grinstaff",
+      "kind": "research-lab",
+      "lab_name": "BUnano",
+      "pi_name": "Mark Grinstaff",
+      "pi_title": "Director, BUnano; Distinguished Professor of Translational Research; Professor of Biomedical Engineering, Chemistry, Materials Science and Engineering, and Medicine",
+      "pi_email": "mgrin@bu.edu",
+      "accepting_grad_students": null,
+      "lab_website": "http://www.grinstaff.org",
+      "location": null,
+      "phone": "617.358.3429",
+      "admin_name": "Victoria Herrera (Associate Director, Medicine); Xin Zhang (Associate Director, Technology); Mariam Pasoyan (Associate Director)",
+      "admin_email": null,
+      "research_summary": "Center-wide nanotechnology and translational biomaterials research; Grinstaff's own group works on biomedical and nanomedicine applications.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.bu.edu/nano-bu/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "BUnano is a cross-cutting center, not a department of its own labs. Director Mark Grinstaff has his own lab website and contact info, recorded here. Its 'Faculty' list is large (dozens of cross-appointed PIs from Mechanical Engineering, ECE, Physics, Chemistry, Biomedical Engineering, Materials Science & Engineering, Radiology, Biostatistics and others -- e.g. Sean Andersson, Rama Bansil, David Bishop, Christopher Chen, Claudio Chamon) whose own labs are recorded (or will be recorded) under their home department's source file -- not duplicated here."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

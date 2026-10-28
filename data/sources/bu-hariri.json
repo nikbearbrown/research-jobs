@@ -1,0 +1,34 @@
+{
+  "id": "bu-hariri",
+  "institution": "Boston University",
+  "unit": "Rafik B. Hariri Institute for Computing and Computational Science & Engineering",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["https://www.bu.edu/hic/", "https://www.bu.edu/hic/people-2/directory/"],
+  "labs": [
+    {
+      "id": "bu-hariri-ioannis-paschalidis",
+      "kind": "research-lab",
+      "lab_name": "Rafik B. Hariri Institute for Computing and Computational Science & Engineering",
+      "pi_name": "Ioannis (Yannis) Paschalidis",
+      "pi_title": "Director, Rafik B. Hariri Institute for Computing and Computational Science & Engineering; Distinguished Professor of Engineering (ECE, SE, BME)",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bu.edu/hic/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "University-wide computing institute organizing centers, initiatives and faculty-fellow programs across BU; core/faculty-affiliate PIs' own labs are recorded under their home departments.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.bu.edu/hic/people-2/directory/",
+      "join_page_url": "https://www.bu.edu/hic/programs/hariri-faculty-affiliate-program/",
+      "join_notes": "Faculty Affiliate Program, Focused Research Programs, Junior Faculty Fellows Program, Graduate Student Fellows Program, Data Science Mentoring Circles, and BU-AIRR are all open application-based ways to join/engage with the Institute.",
+      "profile_url": null,
+      "notes": "Cross-cutting university-wide hub, not a department of its own labs. Its directory returns 731 results spanning Core Faculty, Faculty Affiliates, Advisory/Steering committees, Fellows (multiple years), Leadership & Staff, and Postdocs/Visiting Scholars across every BU school -- far too large and multi-year to enumerate individually here. The Institute organizes several named centers/initiatives, each worth its own future targets.csv row: AI Research Initiative (see bu-hariri-air), AI and Education Initiative, Center for Computational Science, Center for Information & Systems Engineering (already recorded separately, bu-cise.json), Center for Reliable Information Systems and Cyber Security, Digital Health Initiative, Red Hat Collaboratory, Software & Application Innovation Lab (SAIL)."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

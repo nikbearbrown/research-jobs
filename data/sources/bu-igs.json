@@ -1,0 +1,11 @@
+{
+  "id": "bu-igs",
+  "institution": "Boston University",
+  "unit": "Institute for Global Sustainability (IGS)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["https://www.bu.edu/igs/", "https://www.bu.edu/igs/people/directory/"],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Cross-cutting sustainability institute, not a department of its own labs: its People Directory lists 161 people (Leadership & Staff, Advisory Board, Core Faculty, Affiliated Faculty, Visiting Researchers, Students) whose primary appointments and labs are in other BU departments/schools -- e.g. Jonathan Buonocore (Environmental Health, SPH), Ayse Coskun (Electrical & Computer Engineering), Jenny Bhatnagar (Biology), Elizabeth Barnes (Computing & Data Sciences / Earth & Environment), Michelle Amazeen (Mass Communication). Not recorded individually here to avoid duplication -- their labs are recorded (or will be recorded) under their home department's source file. No IGS-specific lab, standalone admin contact, or join page was captured in this pass beyond the general 'Join Our Team' link."
+}

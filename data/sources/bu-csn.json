@@ -1,0 +1,17 @@
+{
+  "id": "bu-csn",
+  "institution": "Boston University",
+  "unit": "Center for Systems Neuroscience (CSN)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["https://www.bu.edu/csn/people/faculty/"],
+  "labs": [],
+  "non_lab_people": [
+    {"name": "Jelle Atema", "title": "Professor Emeritus, Biology", "email": null, "why": "Example CSN-affiliated faculty; emeritus."},
+    {"name": "Rhoda Au", "title": "Professor of Anatomy & Neurobiology", "email": null, "why": "CSN-affiliated faculty; home department Anatomy & Neurobiology (MED), not individually recorded here."},
+    {"name": "David Boas", "title": "Professor, Biomedical Engineering", "email": null, "why": "CSN-affiliated faculty (also affiliated with CNC); home department Biomedical Engineering, not individually recorded here."},
+    {"name": "Helen Barbas", "title": "Professor, Health Sciences", "email": null, "why": "CSN-affiliated faculty; home department Health Sciences (SAR), not individually recorded here."},
+    {"name": "Thomas Bifano", "title": "Professor, Mechanical Engineering", "email": null, "why": "CSN-affiliated faculty; home department Mechanical Engineering, not individually recorded here."}
+  ],
+  "notes": "Cross-cutting hub, not a department of its own labs: 'comprised of over 90 faculty' (93 results found) spanning 14 BU departments/colleges (Anatomy & Neurobiology, Biochem & Cell Biology, Biology, BME, ECE, Health Sciences, Math/Stat, Mechanical Engineering, Neurology, Neuroscience, Occupational Therapy, Pathology, Pharmacology/Physiology/Biophysics, Physics, Psychological & Brain Sciences, Speech/Language/Hearing Sciences, Systems Engineering). The faculty directory paginates 11 pages (?num=2..11) -- not fully enumerated this pass given the scale and that each PI's real lab belongs to, and will be recorded under, their home department's own source file (e.g. several already appear in bu-cise.json and bu-cnc.json -- John Baillieul, David Boas). Facilities include CSN's own animal science center, proteomics/imaging core, and the Kilachand Center -- these are shared infrastructure, not PI labs. Recommend a future pass that reads all 11 pages and cross-checks each name against already-recorded department files before adding any as a new lab, to avoid duplication."
+}

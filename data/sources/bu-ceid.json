@@ -1,0 +1,276 @@
+{
+  "id": "bu-ceid",
+  "institution": "Boston University",
+  "unit": "Center on Emerging Infectious Diseases (CEID)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.bu.edu/ceid/",
+    "https://www.bu.edu/ceid/about-the-center/team/"
+  ],
+  "labs": [
+    {
+      "id": "bu-ceid-nahid-bhadelia",
+      "kind": "research-lab",
+      "lab_name": "Center on Emerging Infectious Diseases (CEID)",
+      "pi_name": "Nahid Bhadelia",
+      "pi_title": "Founding Director, CEID; Founding Director, BEACON; Associate Professor, Infectious Diseases, Boston University School of Medicine",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Studies emerging infectious disease threats, outbreak response and global health security.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Center Director. No direct email shown on the people page."
+    },
+    {
+      "id": "bu-ceid-david-hamer",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "David Hamer",
+      "pi_title": "Co-director, CEID EIDs/Climate Change/One Health research core; Professor, Global Health, Boston University School of Medicine",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Core Director, runs one of CEID's own research cores."
+    },
+    {
+      "id": "bu-ceid-traci-hong",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Traci Hong",
+      "pi_title": "Director, CEID Trust and Public Health Communication research core; Professor, Media Science, Boston University College of Communication",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Core Director, runs one of CEID's own research cores."
+    },
+    {
+      "id": "bu-ceid-britta-lassmann",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Britta Lassmann",
+      "pi_title": "Co-Director and Co-Founder, BEACON; Research Associate Professor, Boston University School of Medicine",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Core Director, runs one of CEID's own research cores."
+    },
+    {
+      "id": "bu-ceid-kayoko-shioda",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Kayoko Shioda",
+      "pi_title": "Co-director, CEID EIDs/Climate Change/One Health research core; Director, CEID Data Science & Surveillance research core; Assistant Professor, Boston University School of Public Health",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Core Director, runs one of CEID's own research cores."
+    }
+  ],
+  "non_lab_people": [
+    {
+      "name": "Luis Alvarez-Hernandez",
+      "title": "Assistant Professor, Boston University School of Social Work",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "John Connor",
+      "title": "Professor and Vice-Chair of Virology, Immunology and Microbiology, BU School of Medicine",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Robert Davey",
+      "title": "Director ad interim, NEIDL; Professor, Virology, Immunology & Microbiology, BU School of Medicine",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Michael Dietze",
+      "title": "Professor, Ecological Forecasting Lab at Boston University",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Kevin Gallagher",
+      "title": "Professor & Director, Global Development Policy Center",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Joseph Harris",
+      "title": "Associate Professor, College of Arts & Sciences, Dept. of Sociology",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Andrew Henderson",
+      "title": "Professor of Medicine and Microbiology, BU School of Medicine",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Patricia Hibberd",
+      "title": "Chair of Global Health & Professor of Global Health, BU School of Public Health",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Adam Hume",
+      "title": "Research Assistant Professor, NEIDL",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Juwon Hwang",
+      "title": "Assistant Professor, Media Science, BU College of Communication",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Robin Ingalls",
+      "title": "Professor of Medicine and Virology, Immunology & Microbiology, BU School of Medicine",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Anoop Jain",
+      "title": "Assistant Professor, Environmental Health, BU School of Public Health",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Jessica Leibler",
+      "title": "Associate Professor of Environmental Health, BU School of Public Health",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Maggie Lind",
+      "title": "Assistant Professor, Infectious Disease Epidemiology, BU School of Public Health",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Joseph Lykins",
+      "title": "Assistant Professor of Emergency Medicine, BU School of Medicine",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Jai Marathe",
+      "title": "Assistant Professor, Medicine, BU School of Medicine",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Nina Mazar",
+      "title": "Professor of Marketing, BU Questrom School of Business",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Brooke Nichols",
+      "title": "Associate Professor of Global Health, BU School of Public Health",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Yannis Paschalidis",
+      "title": "Director, Hariri Institute; Distinguished Professor, ECE/SE/BME",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Cassandra Pierre",
+      "title": "Assistant Professor of Medicine, BU School of Medicine",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Katherine Reifler",
+      "title": "Assistant Professor of Medicine, BU School of Medicine; Outbreak Analyst, BEACON",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Pranay Sinha",
+      "title": "Assistant Professor of Medicine, BU Chobanian & Avedisian School of Medicine",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Andrew Stokes",
+      "title": "Assistant Professor, Department of Global Health, BU School of Public Health",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Veronika Wirtz",
+      "title": "Professor of Global Health, BU School of Public Health",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    },
+    {
+      "name": "Muhammad Zaman",
+      "title": "Professor, Biomedical Engineering, BU College of Engineering",
+      "email": null,
+      "why": "CEID Core Faculty with primary appointment in another BU school; not CEID's own lab"
+    }
+  ],
+  "notes": "CEID has its own Director (Bhadelia) and 4 Core Directors running CEID's own named research cores (recorded as labs). Its broader 'Core Faculty' (24 people) hold primary appointments in other BU schools and are not duplicated here. Its 'Affiliate Faculty & Scholars' list (dozens of people) is mostly non-BU external experts (Harvard, UC Davis, WHO-adjacent orgs, etc.) and was not individually recorded."
+}

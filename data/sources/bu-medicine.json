@@ -1,0 +1,11 @@
+{
+  "id": "bu-medicine",
+  "institution": "Boston University",
+  "unit": "Department of Medicine (Chobanian & Avedisian School of Medicine)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["https://www.bumc.bu.edu/medicine/", "https://www.bumc.bu.edu/medicine/faculty/directory/"],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Umbrella department, not a single directory: the faculty/directory page itself has ~780 profile links spanning the whole Department of Medicine, which is organized into 14 clinical/research Sections (Biomedical Genetics, Cardiovascular Medicine, Computational Biomedicine, Endocrinology/Diabetes/Nutrition, Gastroenterology, General Internal Medicine, Geriatrics, Hematology and Medical Oncology, Infectious Diseases, Nephrology, Preventive Medicine, Pulmonary/Allergy/Sleep/Critical Care Medicine, Rheumatology). Too large to enumerate faculty-by-faculty in one pass without a section breakdown. Recommend adding each Section as its own future targets.csv row (see https://www.bumc.bu.edu/medicine/sections/) rather than scraping this combined directory at once -- similar to the harvard-hms umbrella case. Note: bu-evans-ibr's people_url also points at this same directory, filtered by center; that target has the same issue. Recommend status partial."
+}

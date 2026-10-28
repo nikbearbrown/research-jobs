@@ -1,0 +1,34 @@
+{
+  "id": "bu-evans-ibr",
+  "institution": "Boston University",
+  "unit": "Evans Center for Interdisciplinary Biomedical Research (ECIBR)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": ["http://www.bumc.bu.edu/evanscenteribr/"],
+  "labs": [
+    {
+      "id": "bu-evans-ibr-katya-ravid",
+      "kind": "research-lab",
+      "lab_name": "Evans Center for Interdisciplinary Biomedical Research",
+      "pi_name": "Katya Ravid",
+      "pi_title": "Director, Evans Center for Interdisciplinary Biomedical Research (per bu-crem.json's faculty list: Katya Ravid, DSc, Dept of Medicine, Hematology & Medical Oncology)",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": "Robin MacDonald (co-contact for ARC inquiries)",
+      "admin_email": null,
+      "research_summary": "Promotes interdisciplinary biomedical research via 'Affinity Research Collaboratives' (ARCs) -- multi-investigator teams on topics like musculoskeletal health, fibrosis/thrombosis, TB/respiratory pathogens, women's reproductive health, and biomarker data science.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": "Joining an ARC: contact Dr. Katya Ravid or Robin MacDonald per the 'Joining an ARC and Incentives' page.",
+      "profile_url": null,
+      "notes": "ECIBR is a cross-cutting program hub, not a department of independent PI-led labs: it organizes multi-PI 'ARC' teams drawing investigators from across BU Medical Campus, Boston Medical Center and the Charles River Campus. The people_url given (bumc.bu.edu/medicine/faculty/directory/) is the whole Dept of Medicine directory, not filterable to Evans-Center-affiliated people specifically -- not crawled here to avoid recording the entire Department of Medicine under this one target. Each ARC's own participating PIs would need their own department's source file."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

@@ -1,0 +1,13 @@
+{
+  "id": "bu-cancer-center",
+  "institution": "Boston University",
+  "unit": "BU-BMC Cancer Center",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "http://www.bumc.bu.edu/cancercenter/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Cross-cutting cancer research center spanning BME, Computational Biomedicine, Hematology & Medical Oncology, Pathology & Laboratory Medicine, Slone Epidemiology Center and Whitaker Cardiovascular Institute (all separately scraped targets in this project). Homepage read; a 'Cancer Center Leadership' subpage (https://www.bumc.bu.edu/cancercenter/cancer-center-leadership/) was not fetched this pass. Membership is open to any BU/BMC investigator whose work touches cancer -- not a fixed roster of PI-led labs of its own. Recommend partial; a future pass should read the Leadership page for named center leadership."
+}

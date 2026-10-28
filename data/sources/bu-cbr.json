@@ -1,0 +1,14 @@
+{
+  "id": "bu-cbr",
+  "institution": "Boston University",
+  "unit": "Center for Brain Recovery (CBR)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.bu.edu/cbr/",
+    "https://www.bu.edu/cbr/about/people/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Cross-cutting hub: Core Faculty are PIs based in other BU departments/schools (e.g. Mike Esterman and Archana Venkataraman, Associate Professor ECE -- also recorded under bu-bme.json; Elizabeth Hoover, Speech Language & Hearing Sciences; Stacy Andersen and Andreas Charidimou, Chobanian & Avedisian School of Medicine; Alice Cronin-Golomb, Psychological and Brain Sciences, Director of the BU Alzheimer's Disease Center's cognitive neuroscience lab). The People page's full Faculty/Leadership/Students lists are behind separate subpages (/cbr/people2/core-faculty/, /cbr/people2/leadership-staff/) not individually fetched this pass -- only faculty named in 'Faculty Feature' blog posts were captured. Not duplicating cross-listed PIs here. Contact: brainrec@bu.edu, 617-353-2706. Recommend partial -- the dedicated faculty-list subpage should be read in a future pass."
+}

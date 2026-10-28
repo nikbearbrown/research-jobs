@@ -1,0 +1,421 @@
+{
+  "id": "bu-whitaker",
+  "institution": "Boston University",
+  "unit": "Whitaker Cardiovascular Institute",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.bumc.bu.edu/busm-wci/faculty/"
+  ],
+  "labs": [
+    {
+      "id": "bu-whitaker-wilson-colucci",
+      "kind": "research-lab",
+      "lab_name": "Colucci Lab",
+      "pi_name": "Wilson Colucci",
+      "pi_title": "Whitaker Cardiovascular Institute faculty, MD",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bumc.bu.edu/busm-wci/labs/colucci-lab/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+    },
+    {
+      "id": "bu-whitaker-jessica-fetterman",
+      "kind": "research-lab",
+      "lab_name": "Fetterman Lab",
+      "pi_name": "Jessica Fetterman",
+      "pi_title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bumc.bu.edu/busm-wci/labs/fetterman-lab/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+    },
+    {
+      "id": "bu-whitaker-noyan-gokce",
+      "kind": "research-lab",
+      "lab_name": "Gokce Lab",
+      "pi_name": "Noyan Gokce",
+      "pi_title": "Whitaker Cardiovascular Institute faculty, MD",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bumc.bu.edu/busm-wci/labs/gokce-lab/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+    },
+    {
+      "id": "bu-whitaker-naomi-hamburg",
+      "kind": "research-lab",
+      "lab_name": "Hamburg Lab",
+      "pi_name": "Naomi Hamburg",
+      "pi_title": "Whitaker Cardiovascular Institute faculty, MD",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bumc.bu.edu/busm-wci/labs/hamburg-lab/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+    },
+    {
+      "id": "bu-whitaker-jingyan-han",
+      "kind": "research-lab",
+      "lab_name": "Han Lab",
+      "pi_name": "Jingyan Han",
+      "pi_title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bumc.bu.edu/busm-wci/labs/han-lab/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+    },
+    {
+      "id": "bu-whitaker-victoria-herrera-nelson-ruiz-opazo",
+      "kind": "research-lab",
+      "lab_name": "Herrera and Ruiz-Opazo Lab",
+      "pi_name": "Victoria Herrera & Nelson Ruiz-Opazo",
+      "pi_title": "Whitaker Cardiovascular Institute faculty, MD / PhD",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bumc.bu.edu/busm-wci/labs/dr-herrera-and-dr-ruiz-opazo-lab/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+    },
+    {
+      "id": "bu-whitaker-zhen-jiang",
+      "kind": "research-lab",
+      "lab_name": "Jiang Lab",
+      "pi_name": "Zhen Jiang",
+      "pi_title": "Whitaker Cardiovascular Institute faculty, MD, PhD",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bumc.bu.edu/busm-wci/labs/jiang-lab/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+    },
+    {
+      "id": "bu-whitaker-katya-ravid",
+      "kind": "research-lab",
+      "lab_name": "Ravid Lab",
+      "pi_name": "Katya Ravid",
+      "pi_title": "Whitaker Cardiovascular Institute faculty, DSc, PhD",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bumc.bu.edu/busm-wci/labs/ravid-lab/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+    },
+    {
+      "id": "bu-whitaker-serrano-lab",
+      "kind": "research-lab",
+      "lab_name": "Serrano Lab",
+      "pi_name": null,
+      "pi_title": "Whitaker Cardiovascular Institute faculty",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bumc.bu.edu/busm-wci/labs/2646-2/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread). PI name not confirmed -- not found on the A-Z faculty list; lab name taken directly from the Labs navigation."
+    },
+    {
+      "id": "bu-whitaker-francesca-seta",
+      "kind": "research-lab",
+      "lab_name": "Seta Lab",
+      "pi_name": "Francesca Seta",
+      "pi_title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bumc.bu.edu/busm-wci/labs/seta-lab/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+    }
+  ],
+  "non_lab_people": [
+    {
+      "name": "Christopher Akey",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "David Atkinson",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Markus Bachschmid",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Gary Balady",
+      "title": "Whitaker Cardiovascular Institute faculty, MD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Emelia Benjamin",
+      "title": "Whitaker Cardiovascular Institute faculty, MD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Victoria Bolotina",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Vipul Chitalia",
+      "title": "Whitaker Cardiovascular Institute faculty, MD, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Robert Eberhardt",
+      "title": "Whitaker Cardiovascular Institute faculty, MD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Melissa Farb",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Deepa Gopal",
+      "title": "Whitaker Cardiovascular Institute faculty, MD, MS",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "James Hamilton",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Alice Jacobs",
+      "title": "Whitaker Cardiovascular Institute faculty, MD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Shakun Karki",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Michael Kirber",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Vijaya Kolachalama",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Ivan Luptak",
+      "title": "Whitaker Cardiovascular Institute faculty, MD, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Reiko Matusui",
+      "title": "Whitaker Cardiovascular Institute faculty, MD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Shinobu Matsuura",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD, DVM",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Mark McComb",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Jeffrey Miller",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Kathleen Morgan",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Francisco Naya",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Marcello Panagia",
+      "title": "Whitaker Cardiovascular Institute faculty, MD, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "David Pimental",
+      "title": "Whitaker Cardiovascular Institute faculty, MD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Fuzhong Qin",
+      "title": "Whitaker Cardiovascular Institute faculty, MD, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Vasan Ramachandran",
+      "title": "Whitaker Cardiovascular Institute faculty, MD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Frederick Ruberg",
+      "title": "Whitaker Cardiovascular Institute faculty, MD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Flora Sam",
+      "title": "Whitaker Cardiovascular Institute faculty, MD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Deborah Siwik",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Richard Wainford",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    },
+    {
+      "name": "Joyce Wong",
+      "title": "Whitaker Cardiovascular Institute faculty, PhD",
+      "email": null,
+      "why": "Listed on the Institute's A-Z faculty directory without an individually named lab page found this pass."
+    }
+  ],
+  "notes": "The Institute's own navigation lists 10 named 'Faculty Labs'; recorded each as its own lab entry with its own page URL (not individually fetched for depth this pass). The broader A-Z faculty directory (~40 names) lists additional affiliated faculty without their own named lab page found on this pass -- recorded as non_lab_people rather than guessing they lack a lab."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "bu-cellmet",
+  "institution": "Boston University",
+  "unit": "NSF Engineering Research Center in Cellular Metamaterials (CELL-MET)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.bu.edu/cell-met/",
+    "https://www.bu.edu/cell-met/about-us/"
+  ],
+  "labs": [
+    {
+      "id": "bu-cellmet-david-bishop",
+      "kind": "research-lab",
+      "lab_name": "NSF Engineering Research Center in Cellular Metamaterials (CELL-MET)",
+      "pi_name": "David Bishop",
+      "pi_title": "Director, CELL-MET; Professor of Electrical and Computer Engineering; Professor of Physics; Head, ENG Division of Materials Science & Engineering",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Boston University Photonics Center, 8 St. Mary's Street, 9th Floor, Boston, MA 02215",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "NSF Engineering Research Center using multiscale 3D printing, nanotechnology and tissue engineering to fabricate personalized heart tissue for cardiovascular care.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bu.edu/eng/profile/david-bishop/",
+      "notes": "Center Director (also independently recorded in bu-bme.json for his BME/ECE faculty role). CELL-MET is a multi-institution NSF ERC (lead: BU; core partners: Florida International University, University of Michigan; ~10 additional affiliate institutions including Harvard Medical School and the Wyss Institute) comprising 100+ staff/researchers/trainees -- individual researchers not itemized on this page."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

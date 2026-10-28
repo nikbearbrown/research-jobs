@@ -1,0 +1,14 @@
+{
+  "id": "bu-pathology",
+  "institution": "Boston University",
+  "unit": "Department of Pathology & Laboratory Medicine",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.bumc.bu.edu/busm-pathology/",
+    "https://www.bumc.bu.edu/busm-pathology/home/people_main/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The given people_url renders only site navigation (no names), confirmed with both a plain fetch and a forced Playwright re-render -- the page appears to be effectively empty/broken rather than JS-hydrated. A 'Faculty, Student & Alumni Spotlights' page exists (https://www.bumc.bu.edu/busm-pathology/home/meet-our-faculty-students-alumni/) and was not yet tried as an alternate source. Note: some Pathology & Laboratory Medicine faculty are already captured cross-listed elsewhere, e.g. Nicholas Crossland and Markus Bosmann in bu-neidl.json. Recommend partial; retry via the spotlights page or BU's general faculty directory in a future pass."
+}

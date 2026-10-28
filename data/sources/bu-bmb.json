@@ -1,0 +1,14 @@
+{
+  "id": "bu-bmb",
+  "institution": "Boston University",
+  "unit": "Program in Biochemistry & Molecular Biology (BMB)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "http://www.bu.edu/bmb",
+    "https://www.bu.edu/bmb/faculty/faculty/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "BMB is a joint undergraduate program, not a department with its own PIs: every one of its ~33 listed faculty is a Biology or Chemistry professor already recorded (or to be recorded) in bu-biology.json / bu-chemistry.json. Not duplicating them here -- see those files instead. Program contacts only: no separate admin/join info found."
+}
