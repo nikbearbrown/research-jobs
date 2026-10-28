@@ -1,0 +1,14 @@
+{
+  "id": "harvard-hms-therapeutics",
+  "institution": "Harvard",
+  "unit": "HMS Therapeutics Initiative",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://therapeutics.hms.harvard.edu/",
+    "https://therapeutics.hms.harvard.edu/about-us/our-team"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The Therapeutics Initiative is a funding/incubator program (Blavatnik Harvard Life Lab Longwood, Therapeutics Challenge Awards, Q-FASTR) for translating HMS discoveries into medicines, not a department of its own PI-led labs. Its 'Our Team' page returned a 403 Access Denied (login required) even via Playwright, so leadership/staff weren't read. Recommend status 'partial' -- confirmed not a labs directory, but the team page itself is unreadable without login."
+}

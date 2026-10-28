@@ -1,0 +1,1106 @@
+{
+  "id": "harvard-hms-hcp",
+  "institution": "Harvard",
+  "unit": "Department of Health Care Policy",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://hcp.hms.harvard.edu/people",
+    "https://hcp.hms.harvard.edu/people?page=1"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hms-hcp-leila-agha",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Leila Agha",
+      "pi_title": "Associate Professor of Health Care Policy, Department of Health Care Policy, Harvard Medical School",
+      "pi_email": "agha@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/leila-agha",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-asaf-bitton",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Asaf Bitton",
+      "pi_title": "Associate Professor of Medicine, General Medicine, Brigham and Women's Hospital; Associate Professor of Health Care Policy, Department of Health Care Policy, Harvard Medical School",
+      "pi_email": "abitton@partners.org",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.ariadnelabs.org/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/asaf-bitton",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-alisa-busch",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Alisa B. Busch",
+      "pi_title": "Professor of Psychiatry at McLean Hospital and Associate Professor of Health Care Policy at the Department of Health Care Policy at Harvard Medical School",
+      "pi_email": "abusch@mclean.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/alisa-b-busch",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-michael-chernew",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Michael E. Chernew",
+      "pi_title": "Leonard D. Schaeffer Professor of Health Care Policy, Department of Health Care Policy, Harvard Medical School; Director, Healthcare Markets and Regulation Lab, Harvard Medical School",
+      "pi_email": "chernew@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/michael-e-chernew",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-arnold-epstein",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Arnold Epstein",
+      "pi_title": "John H. Foster Professor and Head, Department of Health Policy and Management, Harvard T.H. Chan School of Public Health; Professor of Medicine and Professor of Health Care Policy, Harvard Medical School",
+      "pi_email": "aepstein@hsph.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/arnold-epstein",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-richard-frank",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Richard G. Frank",
+      "pi_title": "Margaret T. Morris Professor of Health Economics, Department of Health Care Policy, Harvard Medical School",
+      "pi_email": "frank@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/richard-g-frank",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-alan-garber",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Alan M. Garber",
+      "pi_title": "President Harvard University; Mallinckrodt Professor of Health Care Policy; Professor of Economics, Harvard Faculty of Arts and Sciences; Professor of Public Policy, HKS; Professor in Department of Health Policy and Management",
+      "pi_email": "president@harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/alan-m-garber",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-david-grabowski",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "David C. Grabowski",
+      "pi_title": "Professor of Health Care Policy, Department of Health Care Policy, Harvard Medical School",
+      "pi_email": "grabowski@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-432-3369",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/david-c-grabowski",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-john-hsu",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "John Hsu",
+      "pi_title": "Director of the Program for Clinical Economics and Policy Analysis, Mongan Institute for Health Policy, MGH; Associate Professor of Medicine, Massachusetts General Hospital; Associate Professor of Health Care Policy, Department of Health Care Policy, Harv",
+      "pi_email": "john_hsu@mgh.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/john-hsu",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-haiden-huskamp",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Haiden A. Huskamp",
+      "pi_title": "Henry J. Kaiser Professor of Health Care Policy, Department of Health Care Policy, Harvard Medical School",
+      "pi_email": "huskamp@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/haiden-huskamp",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-anupam-jena",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Anupam B. Jena",
+      "pi_title": "Joseph P. Newhouse Professor of Health Care Policy, Department of Health Care Policy, Harvard Medical School; Professor of Medicine and Associate Physician in the Department of Medicine at Massachusetts General Hospital",
+      "pi_email": "jena@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/anupam-b-jena",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-nancy-keating",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Nancy L. Keating",
+      "pi_title": "Professor of Health Care Policy, Department of Health Care Policy, Harvard Medical School; Professor of Medicine and Practicing General Internist, Brigham and Women's Hospital",
+      "pi_email": "keating@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/nancy-l-keating",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-ronald-kessler",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Ronald C. Kessler",
+      "pi_title": "McNeil Family Professor of Health Care Policy, Department of Health Care Policy, Harvard Medical School",
+      "pi_email": "kessler@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-432-3587",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/ronald-c-kessler",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-bruce-landon",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Bruce E. Landon",
+      "pi_title": "Professor of Health Care Policy, Department of Health Care Policy, Harvard Medical School; Professor of Medicine and Practicing Internist, Beth Israel Deaconess Medical Center",
+      "pi_email": "landon@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/bruce-e-landon",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-mary-landrum",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Mary Beth Landrum",
+      "pi_title": "Professor of Health Care Policy, Department of Health Care Policy, Harvard Medical School",
+      "pi_email": "landrum@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/mary-beth-landrum",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-timothy-layton",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Timothy J. Layton",
+      "pi_title": "Visiting Associate Professor of Health Care Policy, Frank Batten School of Leadership and Public Policy, University of Virginia",
+      "pi_email": "timothyjlayton@virginia.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://batten.virginia.edu/people/tim-layton",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/timothy-j-layton",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-nicole-maestas",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Nicole Maestas",
+      "pi_title": "John D. MacArthur Professor of Economics and Health Care Policy",
+      "pi_email": "maestas@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/nicole-maestas",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-luca-maini",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Luca Maini",
+      "pi_title": "Assistant Professor of Health Care Policy, Department of Health Care Policy, Harvard Medical School",
+      "pi_email": "maini@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/luca-maini-phd",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-thomas-mcguire",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Thomas G. McGuire",
+      "pi_title": "Professor of Health Economics, Department of Health Care Policy, Harvard Medical School",
+      "pi_email": "mcguire@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/thomas-g-mcguire",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-barbara-mcneil",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Barbara J. McNeil",
+      "pi_title": "Ridley Watts Professor, Department of Health Care Policy; Professor of Radiology, Harvard Medical School; Practicing Radiologist, Brigham and Women’s Hospital",
+      "pi_email": "mcneil@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/barbara-j-mcneil",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-j-mcwilliams",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "J. Michael McWilliams",
+      "pi_title": "Warren Alpert Foundation Professor of Health Care Policy, Department of Health Care Policy, Harvard Medical School; Professor of Medicine and Practicing General Internist, Brigham and Women's Hospital",
+      "pi_email": "mcwilliams@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/j-michael-mcwilliams",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-elizabeth-mort",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Elizabeth Mort",
+      "pi_title": "Associate Professor of Medicine and Senior Vice President of Quality & Safety and Chief Quality Officer, Massachusetts General Hospital; Associate Professor of Health Care Policy, Department of Health Care Policy, Harvard Medical School",
+      "pi_email": "mort.elizabeth@mgh.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/elizabeth-mort",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-joseph-newhouse",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Joseph P. Newhouse",
+      "pi_title": "Research Professor",
+      "pi_email": "newhouse@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/joseph-p-newhouse",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-sharon-lise-normand",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Sharon-Lise Normand",
+      "pi_title": "S. James Adelstein Professor of Health Care Policy (Biostatistics), Department of Health Care Policy, Harvard Medical School; Professor of Biostatistics, Department of Biostatistics, Harvard School of Public Health",
+      "pi_email": "sharon@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/sharon-lise-normand",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-thomas-sequist",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Thomas Sequist",
+      "pi_title": "Chief Patient Experience and Equity Officer, Mass General Brigham; Professor of Medicine and Health Care Policy, Harvard Medical School, with joint appointments in the Division of General Medicine at Brigham & Women’s Hospital & Department of Health Care",
+      "pi_email": "tsequist@partners.org",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/thomas-sequist",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-zirui-song",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Zirui Song",
+      "pi_title": "Professor of Health Care Policy, Department of Health Care Policy, Harvard Medical School; Internal Medicine Physician, Department of Medicine, Massachusetts General Hospital",
+      "pi_email": "song@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/zirui-song",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-alan-zaslavsky",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Alan M. Zaslavsky",
+      "pi_title": "Daniel C. Tosteson Professor of Health Care Policy (Statistics) , Department of Health Care Policy, Harvard Medical School",
+      "pi_email": "zaslavsky@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/alan-m-zaslavsky",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-hcp-jos-zubizarreta",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "José R. Zubizarreta",
+      "pi_title": "Daniel C. Tosteson Professor, Department of Health Care Policy, Harvard Medical School; Professor, Department of Biostatistics, Harvard School of Public Health; Faculty Affiliate, Department of Statistics, Harvard University",
+      "pi_email": "zubizarreta@hcp.med.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://hcp.hms.harvard.edu/people/jose-r-zubizarreta",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    }
+  ],
+  "non_lab_people": [
+    {
+      "name": "Haley Abing",
+      "title": "Senior Program Manager",
+      "email": "abing@hcp.med.harvard.edu",
+      "why": "Directory title is 'Senior Program Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Silva Antreassian",
+      "title": "Facilities Manager",
+      "email": "antreass@hcp.med.harvard.edu",
+      "why": "Directory title is 'Facilities Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Hocine Azeni",
+      "title": "Senior Program Analyst",
+      "email": "azeni@hcp.med.harvard.edu",
+      "why": "Directory title is 'Senior Program Analyst', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Vanessa Azzone",
+      "title": "Project Manager/Biostatistician",
+      "email": "azzone@hcp.med.harvard.edu",
+      "why": "Directory title is 'Project Manager/Biostatistician', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Lydia Bailey",
+      "title": "Financial and Operations Coordinator",
+      "email": "lydia_bailey@hms.harvard.edu",
+      "why": "Directory title is 'Financial and Operations Coordinator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Nancy Beaulieu",
+      "title": "Research Associate",
+      "email": "beaulieu@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Associate', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Deepon Bhaumik",
+      "title": "Research Fellow in Health Care Policy",
+      "email": "bhaumik@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Health Care Policy', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jaden Blaser",
+      "title": "Research Assistant II",
+      "email": "blaser@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Assistant II', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Nicole Boquet",
+      "title": "Senior Research Portfolio Administrator",
+      "email": "boquet@hcp.med.harvard.edu",
+      "why": "Directory title is 'Senior Research Portfolio Administrator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Charles Bray",
+      "title": "Research Assistant II",
+      "email": "bray@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Assistant II', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Benjamin Buzzee",
+      "title": "Data Analyst",
+      "email": "buzzee@hcp.med.harvard.edu",
+      "why": "Directory title is 'Data Analyst', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Arnaub Chatterjee, MHA, MPA",
+      "title": "Teaching Associate in Health Care Policy",
+      "email": "chatterjee@hcp.med.harvard.edu",
+      "why": "Directory title is 'Teaching Associate in Health Care Policy', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Alyssa Chen",
+      "title": "Research Assistant II",
+      "email": "chen@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Assistant II', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Edward Chiu",
+      "title": "Biostatistician/Training Team Leader",
+      "email": "echiu@hcp.med.harvard.edu",
+      "why": "Directory title is 'Biostatistician/Training Team Leader', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Danika Cho",
+      "title": "Research Assistant II",
+      "email": "cho@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Assistant II', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Matthew Cioffi",
+      "title": "Director of Data Management, Health Care Policy",
+      "email": "cioffi@hcp.med.harvard.edu",
+      "why": "Directory title is 'Director of Data Management, Health Care Policy', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Laura Cowieson",
+      "title": "Senior Research Portfolio Administrator",
+      "email": "cowieson@hcp.med.harvard.edu",
+      "why": "Directory title is 'Senior Research Portfolio Administrator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Elad Daniels",
+      "title": "Postdoctoral Research Fellow",
+      "email": "elad_daniels@hms.harvard.edu",
+      "why": "Directory title is 'Postdoctoral Research Fellow', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Lin Ding",
+      "title": "Biostatistician",
+      "email": "ding@hcp.med.harvard.edu",
+      "why": "Directory title is 'Biostatistician', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Taylor Dragin",
+      "title": "Senior Program Manager",
+      "email": "dragin@hcp.med.harvard.edu",
+      "why": "Directory title is 'Senior Program Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Timothy Gregg Ferris",
+      "title": "Teaching Associate in Health Care Policy",
+      "email": "ferris@hcp.med.harvard.edu",
+      "why": "Directory title is 'Teaching Associate in Health Care Policy', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Mark Friedberg",
+      "title": "Lecturer on Health Care Policy",
+      "email": "mfriedberg1@partners.org",
+      "why": "Directory title is 'Lecturer on Health Care Policy', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Christina Fu",
+      "title": "Biostatistician",
+      "email": "fu@hcp.med.harvard.edu",
+      "why": "Directory title is 'Biostatistician', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jennifer Gallagher",
+      "title": "Senior Research Portfolio Administrator",
+      "email": "jennifer_gallagher@hms.harvard.edu",
+      "why": "Directory title is 'Senior Research Portfolio Administrator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jerry Garcia",
+      "title": "Program Manager",
+      "email": "garcia@hcp.med.harvard.edu",
+      "why": "Directory title is 'Program Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Katherine Garrett",
+      "title": "Research Assistant II",
+      "email": "garrett@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Assistant II', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ivanna George",
+      "title": "Assistant Director of Administration",
+      "email": "pena@hcp.med.harvard.edu",
+      "why": "Directory title is 'Assistant Director of Administration', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Kaileen Germain",
+      "title": "Research Assistant II",
+      "email": "germain@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Assistant II', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Sarah Gildea",
+      "title": "Project Manager",
+      "email": "gildea@hcp.med.harvard.edu",
+      "why": "Directory title is 'Project Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Mia Giuriato",
+      "title": "Assistant Director of Research Analysis",
+      "email": "giuriato@hcp.med.harvard.edu",
+      "why": "Directory title is 'Assistant Director of Research Analysis', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Evan Glover",
+      "title": "Director of Finance",
+      "email": "glover@hcp.med.harvard.edu",
+      "why": "Directory title is 'Director of Finance', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Yifan Gong",
+      "title": "Research Assistant III",
+      "email": "gong@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Assistant III', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Teresa Gorman",
+      "title": "Research Assistant III",
+      "email": "gorman@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Assistant III', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Edward Guadagnoli",
+      "title": "Professor of Health Care Policy, Emeritus, Department of Health Care Policy, Harvard Medical School",
+      "email": null,
+      "why": "Directory title is 'Professor of Health Care Policy, Emeritus, Department of Health Care Policy, Harvard Medical School', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Asa Hartman",
+      "title": "Research Assistant III",
+      "email": "hartman@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Assistant III', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Andrew Hicks",
+      "title": "Biostatistician/Program Team Lead",
+      "email": "hicks@hcp.med.harvard.edu",
+      "why": "Directory title is 'Biostatistician/Program Team Lead', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jacob Holdcraft",
+      "title": "Biostatistician",
+      "email": "holdcraft@hcp.med.harvard.edu",
+      "why": "Directory title is 'Biostatistician', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Mary Hurley",
+      "title": "Program Coordinator",
+      "email": "hurley@hcp.med.harvard.edu",
+      "why": "Directory title is 'Program Coordinator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Anne Hwang",
+      "title": "Teaching Associate in Health Care Policy",
+      "email": "hwang2@hcp.med.harvard.edu",
+      "why": "Directory title is 'Teaching Associate in Health Care Policy', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Irving Hwang",
+      "title": "Biostatistician",
+      "email": "hwang@hcp.med.harvard.edu",
+      "why": "Directory title is 'Biostatistician', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ying Jin",
+      "title": "Research Fellow in Health Care Policy",
+      "email": "yjin@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Health Care Policy', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jacob Jorem",
+      "title": "Post Doctoral Research Fellow",
+      "email": "jorem@hcp.med.harvard.edu",
+      "why": "Directory title is 'Post Doctoral Research Fellow', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Osama Joseph-Irabor",
+      "title": "Administrative Coordinator to the Chair",
+      "email": "joseph-irabor@hcp.med.harvard.edu",
+      "why": "Directory title is 'Administrative Coordinator to the Chair', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Audrey Kalmus",
+      "title": "Program Manager",
+      "email": "kalmus@hcp.med.harvard.edu",
+      "why": "Directory title is 'Program Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Sneha Kannan",
+      "title": "Post Doctoral Fellow",
+      "email": "Sneha.Kannan@MGH.HARVARD.EDU",
+      "why": "Directory title is 'Post Doctoral Fellow', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Andrew King",
+      "title": "Biostatistician",
+      "email": "king@hcp.med.harvard.edu",
+      "why": "Directory title is 'Biostatistician', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Erika Landon",
+      "title": "Research Project Coordinator",
+      "email": "erika_landon@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Project Coordinator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Karissa Lasoff",
+      "title": "Research Assistant III",
+      "email": "Lasoff@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Assistant III', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Kenny Lau",
+      "title": "Senior Systems Engineer",
+      "email": "lau@hcp.med.harvard.edu",
+      "why": "Directory title is 'Senior Systems Engineer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Yige Li",
+      "title": "Research Fellow in Health Care Policy",
+      "email": null,
+      "why": "Directory title is 'Research Fellow in Health Care Policy', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Marrena Lindberg",
+      "title": "Data Manager/ Programmer",
+      "email": "lindberg@hcp.med.harvard.edu",
+      "why": "Directory title is 'Data Manager/ Programmer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Howard Liu",
+      "title": "Research Fellow",
+      "email": "phliu@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Fellow', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Michael Liu",
+      "title": "Statistician Programmer/Analyst",
+      "email": "phliu@hcp.med.harvard.edu",
+      "why": "Directory title is 'Statistician Programmer/Analyst', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Alex Luedtke",
+      "title": "Faculty, Department of Health Care Policy, Harvard Medical School",
+      "email": "luedtke@hms.harvard.edu",
+      "why": "Directory title is 'Faculty, Department of Health Care Policy, Harvard Medical School', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Samantha Madison",
+      "title": "Coordinator",
+      "email": "madison@hcp.med.harvard.edu",
+      "why": "Directory title is 'Coordinator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Sophie Manoukian",
+      "title": "Biostatistician",
+      "email": "manoukian@hcp.med.harvard.edu",
+      "why": "Directory title is 'Biostatistician', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Olivia Moore",
+      "title": "Research Assistant III",
+      "email": "moore@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Assistant III', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Paula M. Murphy",
+      "title": "Executive Director",
+      "email": "murphy@hcp.med.harvard.edu",
+      "why": "Directory title is 'Executive Director', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "David Perkins",
+      "title": "Senior Research Portfolio Administrator",
+      "email": "perkins@hcp.med.harvard.edu",
+      "why": "Directory title is 'Senior Research Portfolio Administrator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Maria Petukhova",
+      "title": "Biostatistician/Technical Team Leader",
+      "email": "petukhov@hcp.med.harvard.edu",
+      "why": "Directory title is 'Biostatistician/Technical Team Leader', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Steve Rabideau",
+      "title": "Network Administrator",
+      "email": "rabideau@hcp.med.harvard.edu",
+      "why": "Directory title is 'Network Administrator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Lauren Riedel",
+      "title": "Program Manager",
+      "email": "riedel@hcp.med.harvard.edu",
+      "why": "Directory title is 'Program Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "de Oliveira Salgado Rodrigues",
+      "title": "Research Fellow in Health Care Policy",
+      "email": "deoliveirasalgadorodrigues@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Health Care Policy', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jennifer Cabrera Rodriguez",
+      "title": "Research Project Coordinator",
+      "email": "cabrerarodriguez@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Project Coordinator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Alexandra Rome",
+      "title": "Research Assistant",
+      "email": "rome@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Assistant', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Nancy Sampson",
+      "title": "Senior Research Manager",
+      "email": "sampson@hcp.med.harvard.edu",
+      "why": "Directory title is 'Senior Research Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Adam Schaffer",
+      "title": "Lecturer on Health Care Policy",
+      "email": "aschaffer@bwh.harvard.edu",
+      "why": "Directory title is 'Lecturer on Health Care Policy', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Elizabeth Shestakova",
+      "title": "Biostatistician",
+      "email": "Shestakova@hcp.med.harvard.edu",
+      "why": "Directory title is 'Biostatistician', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jeff Souza",
+      "title": "Biostatistician",
+      "email": "souza@hcp.med.harvard.edu",
+      "why": "Directory title is 'Biostatistician', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Young Sul",
+      "title": "Systems Operations Manager",
+      "email": "sul@hcp.med.harvard.edu",
+      "why": "Directory title is 'Systems Operations Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jerry Sun",
+      "title": "Research Assistant III",
+      "email": "sunz@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Assistant III', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jingwei Sun",
+      "title": "Research Associate",
+      "email": "sun@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Associate', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Kayo Walsh",
+      "title": "Senior Manager of Data Compliance and Security",
+      "email": "walsh@hcp.med.harvard.edu",
+      "why": "Directory title is 'Senior Manager of Data Compliance and Security', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Andrew Wilcock",
+      "title": "Teaching Assistant, University of Vermont Larner College of Medicine, Visiting Fellow, Former Seidman Fellow in the Department of Health Care Policy at Harvard Medical School",
+      "email": "wilcock@hcp.med.harvard.edu",
+      "why": "Directory title is 'Teaching Assistant, University of Vermont Larner College of Medicine, Visiting Fellow, Former Seidman Fellow in the Department of Health Care Policy at Harvard Medical School', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Gabrielle Willett",
+      "title": "Research Assistant II",
+      "email": "willett@hcp.med.harvard.edu",
+      "why": "Directory title is 'Research Assistant II', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Bob Wolf",
+      "title": "Biostatistician",
+      "email": "wolf@hcp.med.harvard.edu",
+      "why": "Directory title is 'Biostatistician', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Christopher Worsham",
+      "title": "Massachusetts General Hospital Pulmonary & Critical Care Unit",
+      "email": "christopher_worsham@hms.harvard.edu",
+      "why": "Directory title is 'Massachusetts General Hospital Pulmonary & Critical Care Unit', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Lawrence Zaborski",
+      "title": "Biostatistician",
+      "email": "zaborski@hcp.med.harvard.edu",
+      "why": "Directory title is 'Biostatistician', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Katya Zelevinsky",
+      "title": "Biostatistician",
+      "email": "zelevinsky@hcp.med.harvard.edu",
+      "why": "Directory title is 'Biostatistician', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    }
+  ],
+  "notes": "Full paginated directory read (107 people total, all types, across 2 pages). Professor-rank (non-emeritus) titles recorded as research-lab entries (28); everyone else (lecturers, instructors, emeritus, administrative/affiliate staff, research fellows) recorded in non_lab_people (79) with their title as the reason -- a title-based heuristic, not a guarantee some Instructors don't also run small independent groups. lab_website is only set where the directory card itself links to one; some of those links point to shared core facilities/centers rather than a personal lab (not distinguished in this pass)."
+}

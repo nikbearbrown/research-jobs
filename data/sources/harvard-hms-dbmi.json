@@ -1,0 +1,2271 @@
+{
+  "id": "harvard-hms-dbmi",
+  "institution": "Harvard",
+  "unit": "Department of Biomedical Informatics",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://dbmi.hms.harvard.edu/people",
+    "https://dbmi.hms.harvard.edu/people?page=1",
+    "https://dbmi.hms.harvard.edu/people?page=2",
+    "https://dbmi.hms.harvard.edu/people?page=3",
+    "https://dbmi.hms.harvard.edu/people?page=4"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hms-dbmi-paul-avillach",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Paul Avillach",
+      "pi_title": "Associate Professor of Biomedical Informatics, Harvard Medical School",
+      "pi_email": "paul_avillach@hms.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://avillach-lab.hms.harvard.edu",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/paul-avillach",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-michael-baym",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Michael Baym",
+      "pi_title": "Associate Professor of Biomedical Informatics",
+      "pi_email": "baym@hms.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://baymlab.hms.harvard.edu/?traffic_src=traffic_src_set%7B%22ga_gclid%22%3A%22%22%2C%22ga_source%22%3A%22(direct)%22%2C%22ga_medium%22%3A%22(none)%22%2C%22ga_campaign%22%3A%22%22%2C%22ga_content%22%3A%22%22%2C%22ga_keyword%22%3A%22%22%2C%22ga_landing_page%22%3A%22http%3A%2F%2Fmicro.hms.acsitefactory.com%2F%22%7D",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/michael-baym",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-gabriel-brat",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Gabriel Brat",
+      "pi_title": "Assistant Professor of Surgery, Beth Israel Deaconess Medical Center",
+      "pi_email": "gbrat@bidmc.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://research.bidmc.org/surgical-informatics",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/gabriel-brat",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-john-brownstein",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "John Brownstein",
+      "pi_title": "Professor of Pediatrics, Boston Children's Hospital",
+      "pi_email": "john.brownstein@childrens.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/john-brownstein",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-tianxi-cai",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Tianxi Cai",
+      "pi_title": "Professor of Biomedical Informatics, Harvard Medical School",
+      "pi_email": "tcai@hsph.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://celehs.hms.harvard.edu/",
+      "location": null,
+      "phone": "617-432-4923",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/tianxi-cai",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-maha-farhat",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Maha Farhat",
+      "pi_title": "Gilbert S. Omenn Associate Professor of Biomedical Informatics",
+      "pi_email": "Maha_Farhat@hms.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://scholar.harvard.edu/mahafarhat/home",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/maha-farhat",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-nils-gehlenborg",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Nils Gehlenborg",
+      "pi_title": "Associate Professor of Biomedical Informatics",
+      "pi_email": "nils@hms.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://hidivelab.org/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/nils-gehlenborg",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-doga-gulhan",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Doga Gulhan",
+      "pi_title": "Assistant Professor of Medicine, Massachusetts General Hospital",
+      "pi_email": "Doga_Gulhan@hms.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://gulhanlab.mgh.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/doga-gulhan",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-heng-li",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Heng Li",
+      "pi_title": "Associate Professor of Biomedical Informatics, Dana-Farber Cancer Institute and Harvard Medical School",
+      "pi_email": "hli@jimmy.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://hlilab.github.io/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/heng-li",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-katherine-liao",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Katherine Liao",
+      "pi_title": "Associate Professor of Medicine, Brigham and Women's Hospital",
+      "pi_email": "kliao@bwh.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/katherine-liao",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-arjun-manrai",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Arjun (Raj) Manrai",
+      "pi_title": "Associate Professor of Biomedical Informatics, Harvard Medical School",
+      "pi_email": "Arjun_Manrai@hms.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/arjun-raj-manrai",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-alexa-mccray",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Alexa McCray",
+      "pi_title": "Professor of Medicine, Beth Israel Deaconess Medical Center",
+      "pi_email": "amccray@bidmc.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/alexa-mccray",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-shawn-murphy",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Shawn Murphy",
+      "pi_title": "Professor of Neurology at MGH",
+      "pi_email": "murphy.shawn@mgh.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/shawn-murphy",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-luke-oconnor",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Luke O'Connor",
+      "pi_title": "Assistant Professor of Biomedical Informatics",
+      "pi_email": "loconnor@hms.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://oconnorlab.hms.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/luke-oconnor-0",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-peter-park",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Peter Park",
+      "pi_title": "Professor of Biomedical Informatics",
+      "pi_email": "peter_park@hms.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://compbio.hms.harvard.edu",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/peter-park",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-chirag-patel",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Chirag Patel",
+      "pi_title": "Associate Professor of Biomedical Informatics",
+      "pi_email": "Chirag_Patel@hms.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.chiragjpgroup.org/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/chirag-patel",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-pranav-rajpurkar",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Pranav Rajpurkar",
+      "pi_title": "Associate Professor of Biomedical Informatics",
+      "pi_email": "pranav_rajpurkar@hms.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://rajpurkarlab.hms.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/pranav-rajpurkar",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-soumya-raychaudhuri",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Soumya Raychaudhuri",
+      "pi_title": "Professor of Medicine, Brigham and Women's Hospital",
+      "pi_email": "soumya@broadinstitute.org",
+      "accepting_grad_students": null,
+      "lab_website": "https://immunogenomics.hms.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/soumya-raychaudhuri",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-ben-reis",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Ben Reis",
+      "pi_title": "Associate Professor of Pediatrics, Boston Children's Hospital",
+      "pi_email": "ben_reis@harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.predmed.org/ben-reis",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/ben-reis",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-hojjat-salmasian",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Hojjat Salmasian",
+      "pi_title": "Assistant Professor of Medicine, Brigham and Women's Hospital",
+      "pi_email": "hsalmasian@bwh.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": "617-732-8678",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/hojjat-salmasian",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-sebastian-schneeweiss",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Sebastian Schneeweiss",
+      "pi_title": "Professor of Medicine and Epidemiology at Harvard Medical School",
+      "pi_email": "https://www.drugepi.org/team-2/sebastian-schneeweiss#",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.drugepi.org/team-2/sebastian-schneeweiss",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/sebastian-schneeweiss",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-shamil-sunyaev",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Shamil Sunyaev",
+      "pi_title": "Professor of Biomedical Informatics, Harvard Medical School",
+      "pi_email": "ssunyaev@hms.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://sunyaevlab.hms.harvard.edu/wiki/!web/start",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/shamil-sunyaev",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-griffin-weber",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Griffin Weber",
+      "pi_title": "Associate Professor of Medicine, Beth Israel Deaconess Medical Center",
+      "pi_email": "weber@hms.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "http://weber.hms.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/griffin-weber",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-kun-hsing-yu",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Kun-Hsing Yu",
+      "pi_title": "Associate Professor of Biomedical Informatics, Harvard Medical School",
+      "pi_email": "Kun-Hsing_Yu@hms.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://khyulab.github.io/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/kun-hsing-yu",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-cz-zhang",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "CZ Zhang",
+      "pi_title": "Assistant Professor, Pathology, Harvard Medical School",
+      "pi_email": "cheng-zhong_zhang@dfci.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.dfhcc.harvard.edu/insider/member-detail?tx_hcc_persondetail%5Baction%5D=show&tx_hcc_persondetail%5Bcontroller%5D=Person&tx_hcc_persondetail%5Bperson%5D=1379&cHash=d5930ea4595664a758b987c9dc7863b4",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/cz-zhang",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    },
+    {
+      "id": "harvard-hms-dbmi-marinka-zitnik",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Marinka Zitnik",
+      "pi_title": "Associate Professor of Biomedical Informatics, Harvard Medical School",
+      "pi_email": "marinka@hms.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://zitniklab.hms.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://dbmi.hms.harvard.edu/people/marinka-zitnik",
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+    }
+  ],
+  "non_lab_people": [
+    {
+      "name": "Jane Adams",
+      "title": "Machine Learning Engineer",
+      "email": "jane_adams@hms.harvard.edu",
+      "why": "Directory title is 'Machine Learning Engineer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ivan Adzhubey",
+      "title": "Research Associate in Biomedical Informatics",
+      "email": "ivan_adzhubey@hms.harvard.edu",
+      "why": "Directory title is 'Research Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Nikolay Akhmetov",
+      "title": "Senior Software Developer",
+      "email": "nikolay_akhmetov@hms.harvard.edu",
+      "why": "Directory title is 'Senior Software Developer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Tanzila Alam",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ryan Amari",
+      "title": "Senior Full Stack Software Engineer Tech Lead",
+      "email": "ryan_amari@hms.harvard.edu",
+      "why": "Directory title is 'Senior Full Stack Software Engineer Tech Lead', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Michail Andreopoulos",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Rohit Arora",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Srinidhi Arumugam",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Alin Asim",
+      "title": "Associate in Biomedical Informatics",
+      "email": "alinasim@college.harvard.edu",
+      "why": "Directory title is 'Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ryan Attwood, MS, PharmD",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Basheer Bacerra",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jay Baik",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": "jbaik@g.harvard.edu",
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Federico Baldini",
+      "title": "Data Scientist",
+      "email": "federico_baldini@hms.harvard.edu",
+      "why": "Directory title is 'Data Scientist', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Daniel Balick",
+      "title": "Research Associate in Biomedical Informatics",
+      "email": "dbalick@hms.harvard.edu",
+      "why": "Directory title is 'Research Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "George Bandek",
+      "title": "Lab Coordinator",
+      "email": "george_bandek@hms.harvard.edu",
+      "why": "Directory title is 'Lab Coordinator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jessika Baral",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Leah Baras",
+      "title": "Part-Time Financial Associate",
+      "email": "mailto:leah_baras@hms.harvard.edu",
+      "why": "Directory title is 'Part-Time Financial Associate', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Daniel Ben-Isvy",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Alexandra Berg",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Gaurav Bhatt",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "gaurav_bhatt@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Kiran Biddinger",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Andrew Bigelow",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Logan Blaine",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Blox Bloxham",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "blox@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Christophe Boetto",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "christophe_boetto@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Carles Boix",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "Carles_Boix@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Davis Bone",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Kelly Briceno",
+      "title": "Cloud Security Technical Project Manager",
+      "email": "Kelly_BricenoMarin@hms.harvard.edu",
+      "why": "Directory title is 'Cloud Security Technical Project Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Nicholas Brown",
+      "title": "Senior Software Engineer",
+      "email": "Nicholas_Brown@hms.harvard.edu",
+      "why": "Directory title is 'Senior Software Engineer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Gregory Brunette",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Thomas Buckley",
+      "title": "PhD Student, Artificial Intelligence in Medicine (AIM) Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Artificial Intelligence in Medicine (AIM) Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Lawanna Bullock",
+      "title": "Associate Director of Research Administration and Finance",
+      "email": "lawanna_bullock@hms.harvard.edu",
+      "why": "Directory title is 'Associate Director of Research Administration and Finance', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Catherine Burroughs",
+      "title": "Senior Research Portfolio Administrator",
+      "email": "catherine_burroughs@hms.harvard.edu",
+      "why": "Directory title is 'Senior Research Portfolio Administrator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Brittany Bustos",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Enci Cai",
+      "title": "Associate in Biomedical Informatics",
+      "email": "encicai@hsph.harvard.edu",
+      "why": "Directory title is 'Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ann Caplin",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Megan Carlson",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Nuno Carvalho",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Thomas Charlon",
+      "title": "Research Associate in Biomedical Informatics",
+      "email": "thomas_charlon@hms.harvard.edu",
+      "why": "Directory title is 'Research Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Eric Che",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jingyue Chen",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Yilin (Elaine) Chen",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Philip Chikontwe",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "philip_chikontwe@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Byeongyeon (Terry) Cho",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Kiroong Choe",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "kiroong_choe@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Lisa Choy",
+      "title": "Principal Software Developer",
+      "email": "lisa_choy@hms.harvard.edu",
+      "why": "Directory title is 'Principal Software Developer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Claudia Chu",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Elizabeth Chun",
+      "title": "Research Associate in Biomedical Informatics",
+      "email": "elizabeth_chun@hms.harvard.edu",
+      "why": "Directory title is 'Research Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Susanne Churchill",
+      "title": "Executive Director, DBMI, Harvard Medical School",
+      "email": "susanne_churchill@hms.harvard.edu",
+      "why": "Directory title is 'Executive Director, DBMI, Harvard Medical School', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Megan Coden",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Seffi Cohen",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "seffi_cohen@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "George Colon",
+      "title": "Full Stack Software Engineer",
+      "email": "george_colon@hms.harvard.edu",
+      "why": "Directory title is 'Full Stack Software Engineer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Riccardo Conci",
+      "title": "PhD Student, Artificial Intelligence in Medicine (AIM) Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Artificial Intelligence in Medicine (AIM) Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Noah Connally",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "noahconnally@g.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Patrick Connor",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "John Conroy",
+      "title": "Senior Software Developer",
+      "email": "John_conroy@hms.harvard.edu",
+      "why": "Directory title is 'Senior Software Developer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Michael Corace",
+      "title": "Bioinformatics Data Scientist",
+      "email": "michael_corace@hms.harvard.edu",
+      "why": "Directory title is 'Bioinformatics Data Scientist', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Justin Delano",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Amanda Deng",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Thomas DeSain",
+      "title": "ETL Developer",
+      "email": "Thomas_DeSain@hms.harvard.edu",
+      "why": "Directory title is 'ETL Developer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Amy Dong",
+      "title": "PhD Student, Artificial Intelligence in Medicine (AIM) Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Artificial Intelligence in Medicine (AIM) Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ian Donlon",
+      "title": "Software Application Developer, Undiagnosed Diseases Network (UDN) Coordinating Center",
+      "email": "ian_donlon@hms.harvard.edu",
+      "why": "Directory title is 'Software Application Developer, Undiagnosed Diseases Network (UDN) Coordinating Center', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Andrea Dunn Beltrán",
+      "title": "PhD Student, Artificial Intelligence in Medicine (AIM) Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Artificial Intelligence in Medicine (AIM) Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Alec Eames",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Shannon Ehmsen",
+      "title": "Product Designer",
+      "email": "shannon_ehmsen@hms.harvard.edu",
+      "why": "Directory title is 'Product Designer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Mariam Elawady",
+      "title": "Associate in Biomedical Informatics",
+      "email": "mariam_elawady@hms.harvard.edu",
+      "why": "Directory title is 'Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jesse Ellis",
+      "title": "Education Program Coordinator",
+      "email": "jesse_ellis@hms.harvard.edu",
+      "why": "Directory title is 'Education Program Coordinator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Cecilia Esteves",
+      "title": "Associate Director, Genomics and Data Sharing, Undiagnosed Diseases Network Data Management Coordinating Center",
+      "email": "cecilia_esteves@hms.harvard.edu",
+      "why": "Directory title is 'Associate Director, Genomics and Data Sharing, Undiagnosed Diseases Network Data Management Coordinating Center', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Daniel Feng",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "William Feng",
+      "title": "Associate in Biomedical Informatics",
+      "email": "william_feng@hms.harvard.edu",
+      "why": "Directory title is 'Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Cesar Ferreyra-Mansilla",
+      "title": "Front End Engineer",
+      "email": "cesar_ferreyra-mansilla@hms.harvard.edu",
+      "why": "Directory title is 'Front End Engineer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Benet Fité Abril",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Rebecca Fitzhugh",
+      "title": "Senior Program Manager, Master's Program",
+      "email": "mbi@hms.harvard.edu",
+      "why": "Directory title is 'Senior Program Manager, Master's Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Kathe Fox",
+      "title": "Lecturer on Biomedical Informatics, Part-time, Harvard Medical School",
+      "email": "kathe_fox@hms.harvard.edu",
+      "why": "Directory title is 'Lecturer on Biomedical Informatics, Part-time, Harvard Medical School', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Daniel Fridman",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Liat Friedman",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "liat_friedman@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Boyang Fu",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "boyang_fu@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ruiwen (Doris) Fu",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Mary Futey",
+      "title": "Data Wrangler",
+      "email": "mary_futey@hms.harvard.edu",
+      "why": "Directory title is 'Data Wrangler', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Rodrigo Gameiro",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Benedikt Geiger",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ludwig Geistlinger",
+      "title": "Director of Computational Biology, Core for Computational Biomedicine",
+      "email": "Ludwig_Geistlinger@hms.harvard.edu",
+      "why": "Directory title is 'Director of Computational Biology, Core for Computational Biomedicine', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Andrew Ghazi",
+      "title": "Senior Computational Biologist, Core for Computational Biomedicine",
+      "email": "andrew_ghazi@hms.harvard.edu",
+      "why": "Directory title is 'Senior Computational Biologist, Core for Computational Biomedicine', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Emily Glanton, MS, CGC",
+      "title": "Associate Director, Undiagnosed Diseases Network Data Management Coordinating Center",
+      "email": "emily_glanton@hms.harvard.edu",
+      "why": "Directory title is 'Associate Director, Undiagnosed Diseases Network Data Management Coordinating Center', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Haifan Gong",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "haifan_gong@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Xuan Gong",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "xuan_gong@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Nicole Grinspan",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Yihong Gu",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "yihong_gu@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jamie Gunnerson",
+      "title": "Executive Coordinator",
+      "email": "Jamie_Gunnerson@hms.harvard.edu",
+      "why": "Directory title is 'Executive Coordinator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Yujie Guo",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Alba Gutierrez",
+      "title": "Research Associate in Biomedical Informatics",
+      "email": "Alba_Gutierrez@hms.harvard.edu",
+      "why": "Directory title is 'Research Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jill Hakim",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "jill_hakim@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Emily Hang",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Romain Hardy",
+      "title": "PhD Student, Artificial Intelligence in Medicine (AIM) Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Artificial Intelligence in Medicine (AIM) Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Lincoln Harris",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "lincoln_harris@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Cathy Haskell",
+      "title": "Program Manager, PhD in Biomedical Informatics",
+      "email": "Catherine_Haskell@hms.harvard.edu",
+      "why": "Directory title is 'Program Manager, PhD in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Peixin He",
+      "title": null,
+      "email": null,
+      "why": "No title shown on the directory card."
+    },
+    {
+      "name": "Jakob Heinz",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Christopher Hemauer",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ava Homiar",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Alessia Hughes",
+      "title": "Research Portfolio Administrator",
+      "email": "alessia_hughes@hms.harvard.edu",
+      "why": "Directory title is 'Research Portfolio Administrator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Emily Hughes",
+      "title": "Bioinformatics Systems Product Manager",
+      "email": "emily_hughes@hms.harvard.edu",
+      "why": "Directory title is 'Bioinformatics Systems Product Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Kimberly Huynh",
+      "title": "Project Manager",
+      "email": "kimberly_huynh@hms.harvard.edu",
+      "why": "Directory title is 'Project Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Hyeon-Tae (Jack) Hwang",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Elizabeth Imhoff",
+      "title": "Associate in Biomedical Informatics",
+      "email": "eimhoff@hsph.harvard.edu",
+      "why": "Directory title is 'Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ofer Isakov",
+      "title": "Berkowitz Family Living Laboratory Postdoctoral Research Fellow",
+      "email": "ofer_isakov@hms.harvard.edu",
+      "why": "Directory title is 'Berkowitz Family Living Laboratory Postdoctoral Research Fellow', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Kate Jackson",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Navami Jain",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Hu Jin",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "Hu_Jin@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Claire Johnson",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Julie Johnson",
+      "title": "Project Manager",
+      "email": "julie_johnson@hms.harvard.edu",
+      "why": "Directory title is 'Project Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ruth Johnson",
+      "title": "Berkowitz Family Living Laboratory Postdoctoral Research Fellow",
+      "email": "Ruth_Johnson@hms.harvard.edu",
+      "why": "Directory title is 'Berkowitz Family Living Laboratory Postdoctoral Research Fellow', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Tabbasum Kakar",
+      "title": "Software Developer",
+      "email": "Tabassum_Kakar@hms.harvard.edu",
+      "why": "Directory title is 'Software Developer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Sandeep Kambhampati",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Prathitha Kar",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "prathithakar@g.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Maisha Kasole",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Irith Katiyar",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Mark Keller",
+      "title": "Research Software Engineer",
+      "email": "mark_keller@hms.harvard.edu",
+      "why": "Directory title is 'Research Software Engineer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Roshan Kenia",
+      "title": "PhD Student, Artificial Intelligence in Medicine (AIM) Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Artificial Intelligence in Medicine (AIM) Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Azad Khan",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "azad_khan@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ellie Kim",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Sung Eun Kim",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "Sungeun_Kim2@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Shilpa Kobren",
+      "title": "Associate Director of Rare Disease Analysis",
+      "email": "Shilpa_Kobren@hms.harvard.edu",
+      "why": "Directory title is 'Associate Director of Rare Disease Analysis', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Isaac Kohane",
+      "title": "Chair of the Department of Biomedical Informatics, Harvard Medical School",
+      "email": "isaac_kohane@hms.harvard.edu",
+      "why": "Directory title is 'Chair of the Department of Biomedical Informatics, Harvard Medical School', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Amrita Kohli",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Grey Kuling",
+      "title": "Research/Curriculum Fellow in Biomedical Informatics",
+      "email": "grey_kuling@hms.harvard.edu",
+      "why": "Directory title is 'Research/Curriculum Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Sudipta Lahiri",
+      "title": "Senior Data Scientist/Computational Biologist",
+      "email": "sudipta_lahiri@hms.harvard.edu",
+      "why": "Directory title is 'Senior Data Scientist/Computational Biologist', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Arnav Lal",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ruirui (Bobby) Lan",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Guillaume Larghero",
+      "title": "PhD Student, Artificial Intelligence in Medicine (AIM) Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Artificial Intelligence in Medicine (AIM) Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Bryan Larson",
+      "title": "Associate Director, DBMI Technology Development Core",
+      "email": "Bryan_Larson@hms.harvard.edu",
+      "why": "Directory title is 'Associate Director, DBMI Technology Development Core', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Kimberly LeBlanc, MS, CGC",
+      "title": "Senior Director, Undiagnosed Diseases Network (UDN) Coordinating Center",
+      "email": "Kimberly_LeBlanc@hms.harvard.edu",
+      "why": "Directory title is 'Senior Director, Undiagnosed Diseases Network (UDN) Coordinating Center', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Eunice Lee",
+      "title": "Associate in Biomedical Informatics",
+      "email": "eunice_lee@hms.harvard.edu",
+      "why": "Directory title is 'Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Tsung Hua Lee, MS",
+      "title": "Associate in Biomedical Informatics",
+      "email": "tsunghua_lee@hms.harvard.edu",
+      "why": "Directory title is 'Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Samantha Lemos",
+      "title": "Executive Coordinator",
+      "email": "Samantha_Lemos@hms.harvard.edu",
+      "why": "Directory title is 'Executive Coordinator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Bao Li",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "Bao_Li@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Laurel Li",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Peiran (Cynthia) Li",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Taiqi Li",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Yunxi Li",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Yusheng (Tony) Li",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Emily Liau",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Tiffany Liaw",
+      "title": "Senior UI/UX Designer",
+      "email": "tiffany_liaw@hms.harvard.edu",
+      "why": "Directory title is 'Senior UI/UX Designer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Hao-Hsuan (Olivia) Lin, MS",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Shih-Yen Lin",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "shih-yen_lin@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jingpin (Daniel) Liu",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Yuhui Liu",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Harsh Lunia",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Tianhao Luo",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Joe Luquette",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "lovelace_luquette@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Allen Lynch",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jessica Lyons, MS",
+      "title": "Associate Director of Research and Development",
+      "email": "Jessica_Lyons@hms.harvard.edu",
+      "why": "Directory title is 'Associate Director of Research and Development', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Zhuoyang Lyu",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Mark Mangoba-Agustin",
+      "title": "Cloud Infrastructure Engineer",
+      "email": "mark_mangoba-agustin@hms.harvard.edu",
+      "why": "Directory title is 'Cloud Infrastructure Engineer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Sreekar Mantena",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Maximillian Marin",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "Maximillian_Marin@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Laine Marrah",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Paul Mazur",
+      "title": "Project Manager, Undiagnosed Diseases Network (UDN) Coordinating Center",
+      "email": "Paul_Mazur@hms.harvard.edu",
+      "why": "Directory title is 'Project Manager, Undiagnosed Diseases Network (UDN) Coordinating Center', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Faith McDonald",
+      "title": "Research and Administrative Coordinator",
+      "email": "faith_mcdonald@hms.harvard.edu",
+      "why": "Directory title is 'Research and Administrative Coordinator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ryan McGinty",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "Ryan_McGinty@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Brian Meade",
+      "title": "Administrative Coordinator",
+      "email": "brian_meade@hms.harvard.edu",
+      "why": "Directory title is 'Administrative Coordinator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Shvat Messica",
+      "title": "PhD Student, Artificial Intelligence in Medicine (AIM) Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Artificial Intelligence in Medicine (AIM) Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Erica Meyer",
+      "title": "Associate Director of Administration",
+      "email": "Erica_Meyer@hms.harvard.edu",
+      "why": "Directory title is 'Associate Director of Administration', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "William Meyerson",
+      "title": "Biomedical Informatics Training Fellowship, 2024-2026",
+      "email": null,
+      "why": "Directory title is 'Biomedical Informatics Training Fellowship, 2024-2026', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Matthew Might",
+      "title": "Senior Lecturer on Biomedical Informatics, Part-time",
+      "email": "matt@might.net",
+      "why": "Directory title is 'Senior Lecturer on Biomedical Informatics, Part-time', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Gwendolyn Miller",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Mikhail Moldovan",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "Mikhail_Moldovan@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Intae Moon",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "Intae_Moon@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Grace Moore",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Sara Morini Sweet, MA",
+      "title": "Research Associate in Biomedical Informatics",
+      "email": "sara_morini@hms.harvard.edu",
+      "why": "Directory title is 'Research Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Mohammed Moro",
+      "title": "Project Coordinator, Cai Lab",
+      "email": "mohammed_moro@hms.harvard.edu",
+      "why": "Directory title is 'Project Coordinator, Cai Lab', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Lucia Morris",
+      "title": "PhD Student, Artificial Intelligence in Medicine (AIM) Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Artificial Intelligence in Medicine (AIM) Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Rithwik Narendra",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Aparna Nathan",
+      "title": "Lecturer in Biomedical Informatics",
+      "email": "aparna_nathan@hms.harvard.edu",
+      "why": "Directory title is 'Lecturer in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Sumaiya Nazeen",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "sumaiya_nazeen@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Sharra Neely",
+      "title": "Senior Full Stack Software Engineer",
+      "email": "Sharra_Neely@hms.harvard.edu",
+      "why": "Directory title is 'Senior Full Stack Software Engineer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Laila Norford",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ankit Pal",
+      "title": "PhD Student, Artificial Intelligence in Medicine (AIM) Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Artificial Intelligence in Medicine (AIM) Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Nathan Palmer",
+      "title": "Director, Core for Computational Biomedicine",
+      "email": "Nathan_Palmer@hms.harvard.edu",
+      "why": "Directory title is 'Director, Core for Computational Biomedicine', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Nathan Park",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Soyon Park",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Nichole Parker",
+      "title": "Research and Administrative Coordinator",
+      "email": "nichole_parker@hms.harvard.edu",
+      "why": "Directory title is 'Research and Administrative Coordinator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Aidan Pavao",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "James Peck",
+      "title": "Full Stack Software Engineer",
+      "email": "james_peck@hms.harvard.edu",
+      "why": "Directory title is 'Full Stack Software Engineer', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Cassandra Perry, MS, CGC",
+      "title": "Associate Director of Research Compliance",
+      "email": "Cassandra_Perry@hms.harvard.edu",
+      "why": "Directory title is 'Associate Director of Research Compliance', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Cassidy Perry",
+      "title": "Research and Administrative Coordinator, Park Lab",
+      "email": "cassidy_perry@hms.harvard.edu",
+      "why": "Directory title is 'Research and Administrative Coordinator, Park Lab', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Alex Pickering",
+      "title": "Senior Developer, DBMI Technology Development Core",
+      "email": "Alex_Pickering@hms.harvard.edu",
+      "why": "Directory title is 'Senior Developer, DBMI Technology Development Core', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Danielle Pillion",
+      "title": "Software Engineering Manager",
+      "email": "danielle_pillion@hms.harvard.edu",
+      "why": "Directory title is 'Software Engineering Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Sidhant Puntambekar",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Claire Qu",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Flora Qu",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "Han_Qu@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Linhao Qu",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "linhao_qu@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Zhi (Monica) Qu",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ana Maria Ramirez Diaz",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Shriya Rangaswamy",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Arya Rao",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Suhas Rao",
+      "title": "Associate in Biomedical Informatics",
+      "email": "suhas_rao@hms.harvard.edu",
+      "why": "Directory title is 'Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Gregory Raskind",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ashakiran Rochette",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "William Ronchetti, MEng",
+      "title": "Senior Software Engineer in Biomedical Informatics",
+      "email": "William_Ronchetti@hms.harvard.edu",
+      "why": "Directory title is 'Senior Software Engineer in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Tanya Roysam",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Tatiana Ruiz-Bedoya",
+      "title": "Research Fellow in Biomedical Informatics, Harvard Medical School",
+      "email": "Tatiana_RuizBedoya@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics, Harvard Medical School', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Vedant Sandhu",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Andrew Schroeder",
+      "title": "Senior Data Curator, 4D Nucleome DCIC",
+      "email": "Andrew_Schroeder@hms.harvard.edu",
+      "why": "Directory title is 'Senior Data Curator, 4D Nucleome DCIC', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Frank Schuller, MBA",
+      "title": "Visiting Scientist in Biomedical Informatics",
+      "email": null,
+      "why": "Directory title is 'Visiting Scientist in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Dana Schwalbe",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Lia Serrano",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "lia_serrano@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Corinne Sexton",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "Corinne_Sexton@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Aashna Shah",
+      "title": "Berkowitz Family Living Laboratory Postdoctoral Research Fellow",
+      "email": "aashnashah@fas.harvard.edu",
+      "why": "Directory title is 'Berkowitz Family Living Laboratory Postdoctoral Research Fellow', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Reza Shamji",
+      "title": "Associate in Biomedical Informatics",
+      "email": "rezashamji@college.harvard.edu",
+      "why": "Directory title is 'Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Anya Sharma",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jim Shaw",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "Jim_Shaw@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "David Shaywitz",
+      "title": "Lecturer on Biomedical Informatics, Part-time",
+      "email": "David_Shaywitz@hms.harvard.edu",
+      "why": "Directory title is 'Lecturer on Biomedical Informatics, Part-time', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Amber Shen",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Eren Shin",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Christine Song",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Radhika Sonthalia",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Daniel Stein",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Harlan Stevens",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Xiaorui Su",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "Xiaorui_Su@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Yuchang Su",
+      "title": "PhD Student, Artificial Intelligence in Medicine (AIM) Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Artificial Intelligence in Medicine (AIM) Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Isabella Summe",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Huaming Sun",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "huaming_sun@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Yitao (Eric) Sun",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Zhaogu (Andy) Sun",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Sriya Surapaneni",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Laura Suttenfield",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "Laura_Suttenfield@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Yumeng Tan",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "David Tang",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Sivateja Tangirala, SM",
+      "title": "Associate in Biomedical Informatics",
+      "email": "Sivateja_Tangirala@hms.harvard.edu",
+      "why": "Directory title is 'Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Divyani Tangudu",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Leyang Tao",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Caiwei Tian",
+      "title": "PhD Student, Artificial Intelligence in Medicine (AIM) Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Artificial Intelligence in Medicine (AIM) Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Braden Tierney",
+      "title": "Director of Exposomics and Microbial Data Science",
+      "email": "braden_tierney@hms.harvard.edu",
+      "why": "Directory title is 'Director of Exposomics and Microbial Data Science', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Seth Tivakaran",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Ankita Tiwari",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Amira Toksanbay",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Vy Kha Tran",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Dan Traviglia, MS",
+      "title": "Director, DBMI Technology Development Core",
+      "email": "Daniel_Traviglia@hms.harvard.edu",
+      "why": "Directory title is 'Director, DBMI Technology Development Core', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Morgan Turner",
+      "title": "Research and Development Manager",
+      "email": "morgan_turner@hms.harvard.edu",
+      "why": "Directory title is 'Research and Development Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Nana Afia Twumasi-Ankrah",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Lilen Uchima",
+      "title": "Director of Educational Programs",
+      "email": "lilen_uchima@hms.harvard.edu",
+      "why": "Directory title is 'Director of Educational Programs', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Arthea Valderrama",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Andrew Van Camp",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "PJ Van Camp",
+      "title": "Lecturer in Biomedical Informatics",
+      "email": "pieter-jan_vancamp@hms.harvard.edu",
+      "why": "Directory title is 'Lecturer in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Astrid Van Den Brandt",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "astrid_vandenbrandt@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Shruti Vasagiri",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Alexander Veit",
+      "title": "Research Associate in Biomedical Informatics",
+      "email": "Alexander_Veit@hms.harvard.edu",
+      "why": "Directory title is 'Research Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Heather Viana",
+      "title": "Research and Administrative Coordinator",
+      "email": "heather_viana@hms.harvard.edu",
+      "why": "Directory title is 'Research and Administrative Coordinator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Vinay Viswanadham",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "vinayak_viswanadham@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Haolin Wan",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Junqing Wan",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jing (Alice) Wang",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Lily Wang",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Siu-Shan Wang",
+      "title": "Senior Research Portfolio Administrator",
+      "email": "Siu-Shan_Wang@hms.harvard.edu",
+      "why": "Directory title is 'Senior Research Portfolio Administrator', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Tongxin Wang",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Xucheng (David) Wang",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Yujie Wang",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Elizabeth Weiler",
+      "title": "Project Manager",
+      "email": "Elizabeth_Weiler@hms.harvard.edu",
+      "why": "Directory title is 'Project Manager', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Arshana Welivita",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Andreas Werdich",
+      "title": "Director of AI and Data Science, Core for Computational Biomedicine",
+      "email": "andreas_werdich@hms.harvard.edu",
+      "why": "Directory title is 'Director of AI and Data Science, Core for Computational Biomedicine', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Mane Williams",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Qiaohan Xu",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Wentao Xu",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jiale (Jocelyn) Yang",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Kristine Yang",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Zhizhou (Jason) Yang",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Haozhe (Eric) Yao",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Alex Yenkin",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jiayi (Tracy) Yuan",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Zoe Zabetian",
+      "title": "MMSc in Biomedical Informatics, Class of 2027",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2027', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Sihang Zeng",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "sihang_zeng@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Charlotte Zhang",
+      "title": "Associate in Biomedical Informatics",
+      "email": "charlotte_zhang@hms.harvard.edu",
+      "why": "Directory title is 'Associate in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Yiwen Zhang",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Yuwei Zhang",
+      "title": "Research Fellow in Biomedical Informatics",
+      "email": "yuwei_zhang@hms.harvard.edu",
+      "why": "Directory title is 'Research Fellow in Biomedical Informatics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Peter Zheng",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Andrew Zhou",
+      "title": "PhD Student, Artificial Intelligence in Medicine (AIM) Program",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Artificial Intelligence in Medicine (AIM) Program', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Chenzhang Zhou",
+      "title": "PhD Student, Bioinformatics and Integrative Genomics",
+      "email": null,
+      "why": "Directory title is 'PhD Student, Bioinformatics and Integrative Genomics', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Jieyu Zhu",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    },
+    {
+      "name": "Siqing (Angelica) Zuo",
+      "title": "MMSc in Biomedical Informatics, Class of 2028",
+      "email": null,
+      "why": "Directory title is 'MMSc in Biomedical Informatics, Class of 2028', not a non-emeritus Professor rank, so not recorded as an independent PI-led lab in this breadth pass."
+    }
+  ],
+  "notes": "Full paginated directory read (306 people total, all types, across 5 pages). Professor-rank (non-emeritus) titles recorded as research-lab entries (26); everyone else (lecturers, instructors, emeritus, administrative/affiliate staff, research fellows) recorded in non_lab_people (280) with their title as the reason -- a title-based heuristic, not a guarantee some Instructors don't also run small independent groups. lab_website is only set where the directory card itself links to one; some of those links point to shared core facilities/centers rather than a personal lab (not distinguished in this pass)."
+}

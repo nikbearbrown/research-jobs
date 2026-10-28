@@ -1,0 +1,14 @@
+{
+  "id": "harvard-hms-hits",
+  "institution": "Harvard",
+  "unit": "Harvard Program in Therapeutic Science (HiTS)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "http://hits.harvard.edu/",
+    "https://hits.harvard.edu/people/faculty/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "HiTS is a cross-institutional research network (Laboratory of Systems Pharmacology + Center for Regulatory Science), not a department with its own PI-led labs. Its ~40-person faculty list is almost entirely PIs whose primary lab and appointment is elsewhere -- MGH, BWH, Tufts, Columbia, Stanford, BIDMC, Boston Children's, and several HMS departments already covered in this project (e.g. Peter Sorger and Galit Lahav are HMS Systems Biology faculty, recorded in harvard-hms-sysbio.json; Michael Baym and Jeffrey Moffitt already recorded in harvard-hms-microbiology.json). Not duplicating that list here. Recommend status 'done' -- confirmed this is a hub, not itself a source of new small labs."
+}

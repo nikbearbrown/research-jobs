@@ -1,0 +1,1116 @@
+{
+  "id": "harvard-hms-bioethics",
+  "institution": "Harvard",
+  "unit": "Center for Bioethics",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://bioethics.hms.harvard.edu/people",
+    "https://bioethics.hms.harvard.edu/people?page=1",
+    "https://bioethics.hms.harvard.edu/people?page=2",
+    "https://bioethics.hms.harvard.edu/people?page=3",
+    "https://bioethics.hms.harvard.edu/people?page=4",
+    "https://bioethics.hms.harvard.edu/people?page=5",
+    "https://bioethics.hms.harvard.edu/people?page=6",
+    "https://bioethics.hms.harvard.edu/people?page=7",
+    "https://bioethics.hms.harvard.edu/people?page=8",
+    "https://bioethics.hms.harvard.edu/people?page=9",
+    "https://bioethics.hms.harvard.edu/people?page=10",
+    "https://bioethics.hms.harvard.edu/people?page=11",
+    "https://bioethics.hms.harvard.edu/people?page=12",
+    "https://bioethics.hms.harvard.edu/people?page=13",
+    "https://bioethics.hms.harvard.edu/people?page=14",
+    "https://bioethics.hms.harvard.edu/people?page=15",
+    "https://bioethics.hms.harvard.edu/people?page=16",
+    "https://bioethics.hms.harvard.edu/people?page=17"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hms-bioethics-rebecca-weintraub-brendel",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Rebecca Weintraub Brendel",
+      "pi_title": "Director, HMS Center for Bioethics",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": "Genevieve Saphier (Director of Administration)",
+      "admin_email": "genevieve_saphier@hms.harvard.edu",
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://bioethics.hms.harvard.edu/faculty-staff/rebecca-weintraub-brendel",
+      "notes": "The Center for Bioethics is not a PI-led wet/dry-lab department -- it's a scholarly center whose ~170 other listed 'faculty' are affiliates with primary appointments at other HMS departments or entirely different institutions (Tufts, BU, Northeastern Law, University of Hong Kong, Hasselt University, Seton Hall Law, Saint Louis University, etc.), not Center-run labs. Recorded only the Center's own Director as its single contact/lead entry, per CLAUDE.md's policy-center convention (the unit is the organization, the contact is a research lead)."
+    }
+  ],
+  "non_lab_people": [
+    {
+      "name": "Brendan Abel, JD",
+      "title": "Healthcare Policy and Advocacy Director (MA/RI), Johnson & Johnson",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Gregory Abel, MD, MPH",
+      "title": "Professor of Medicine",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Melissa Abraham, PhD",
+      "title": "Assistant Professor of Psychology in the Department of Psychiatry, Part-time, Massachusetts General Hospital",
+      "email": "mabraham2@partners.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Joshua Lawrence Abrams, JD",
+      "title": "Adjunct Professor, Northeastern University School of Law",
+      "email": "jabrams@mgb.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Kyle Amato",
+      "title": "Financial Coordinator, HMS Center for Bioethics",
+      "email": "kyle_amato@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Akwi W. Asombang, MD, MPH, MSc",
+      "title": "Associate Professor of Medicine, Harvard Medical School",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Lisa Bastille, MSc",
+      "title": "Associate Director of Finance and Operations, HMS Center for Bioethics",
+      "email": "lisa_bastille@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Scot Bateman, MD",
+      "title": "Professor of Pediatrics, University of Massachusetts Medical School",
+      "email": "scot.bateman@umassmemorial.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Jori Berger-Greenstein, PhD",
+      "title": "Clinical Associate Professor, Boston University Chobanian & Avedisian School of Medicine",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Kelsey N. Berry, PhD",
+      "title": "Faculty Director of the Graduate Ethics Fellowship and Research Partner in Health System Ethics, Edmond & Lily Safra Center for Ethics, Harvard University",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Joni R. Beshansky, MPH, LP.D.",
+      "title": "Director, Responsible Conduct of Research Program, Harvard Medical School",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Barbara Bierer, MD",
+      "title": "Professor of Medicine (Pediatrics), Harvard Medical School",
+      "email": "bbierer@bwh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Eric Blackstone, PhD",
+      "title": "Instructor in Medicine, Harvard Medical School",
+      "email": "eric_blackstone@dfci.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Miranda Blodgett, MA Bioethics, BPhil, BAPS, HEC-C",
+      "title": "Clinical Ethicist and Human Rights Officer, Beth Israel Deaconess Medical Center",
+      "email": "Mblodge4@bidmc.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Marietjie Botes, PhD",
+      "title": "Postdoctoral Researcher in Data Governance, Bio- and Neurotechnology Law and Ethics, BRIDGE Brain Data Governance Project, University of Texas at Austin",
+      "email": "marietjiebotes1@gmail.com",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "J. Wesley Boyd, MD, PhD",
+      "title": "Senior Lecturer, Department of Global Health and Social Medicine, HMS",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Lynne Brady Wagner, MA, CCC-SLP",
+      "title": "Speech-Language Pathologist, Ethicist, Healthcare Administrative Leader",
+      "email": "lynne_bradywagner@dfci.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Allan Morris Brandt, PhD",
+      "title": "Amalie Moses Kass Professor of the History of Medicine in the Department of Social Medicine (In the Faculty of Medicine)",
+      "email": "allan_brandt@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Anthony Charles Breu, MD",
+      "title": "Assistant Professor of Medicine, Harvard Medical School",
+      "email": "anthony.breu@va.gov",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Stephen D. Brown, MD, FACR, HEC-C",
+      "title": "Associate Professor of Radiology, Part-time, HMS",
+      "email": "stephen.brown@childrens.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Virginia A. Brown, MA, PhD",
+      "title": "Research Scholar, The Hastings Center for Bioethics",
+      "email": "brownv@thehastingscenter.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Maggi (Margaret) Budd, PhD, MPH, HEC-C",
+      "title": "Assistant Professor of Psychiatry, HMS",
+      "email": "margaret.budd@va.gov",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Lynn Wein Bush, PhD, MSBioethics, MA",
+      "title": "Instructor in Pediatrics, Harvard Medical School",
+      "email": "lynn.bush@childrens.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Alexandra Charrow, MD, MBE",
+      "title": "Assistant Professor of Dermatology, HMS",
+      "email": "acharrow@bwh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Frank Chessa, MA, PhD",
+      "title": "Assistant Professor of Medicine, Tufts University",
+      "email": "frank.chessa@mainehealth.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Sarah P. Chu, PhD",
+      "title": "Director of Policy and Reform, Perlmutter Center for Legal Justice at Cardozo Law",
+      "email": "sarah.chu@yu.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Roger Yat-Nork Chung, MHS, MBE, PhD",
+      "title": "Associate Professor, JC School of Public Health and Primary Care, Chinese University of Hong Kong",
+      "email": "rchung@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Alexandra F. M. Cist, MD, MATS",
+      "title": "Instructor in Medicine, Harvard Medical School",
+      "email": "acist@mgh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Thos Cochrane, MD, MBA",
+      "title": "Lecturer on Neurology, Part-time, HMS",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "I. Glenn Cohen, JD",
+      "title": "James A. Atwood and Leslie Williams Professor of Law",
+      "email": "igcohen@law.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Rachel Conrad, MD",
+      "title": "Child and Adolescent Psychiatrist",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Ian Marcus Corbin, PhD",
+      "title": "Instructor in Neurology at Brigham and Women's Hospital and Harvard Medical School",
+      "email": "ian.m.corbin@gmail.com",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Frédérique Couture-Carrier, JD, MBE",
+      "title": "Associate Director of the Master of Science in Bioethics, HMS Center for Bioethics",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Nicholas Covaleski, MTS, MBE",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Brian M. Cummings, MD",
+      "title": "Associate Professor in Pediatrics, Harvard Medical School",
+      "email": "bmcummings@mgh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Christy L. Cummings, MD, HEC-C",
+      "title": "Associate Professor of Pediatrics, Harvard Medical School",
+      "email": "christy.cummings@childrens.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Hannah Daughtrey, MD",
+      "title": "Attending Hospitalist Physician, Department of Cardiology, Boston Children's Hospital",
+      "email": "hannah.daughtrey@childrens.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Tamfiri Dennis-Masi, DBA",
+      "title": "Faculty Assistant, HMS Center for Bioethics",
+      "email": "tamfiri_dennismasi@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Werner-Edouard de Saeger van Nattenhaesdonck, PhD, LLM, MTS",
+      "title": "Professor, Hasselt University",
+      "email": "wed449@mail.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Vrushali Dhongade, MBBS, MS, MBE",
+      "title": "Clinical Research Project Manager, Dhand Lab, Brigham and Women's Hospital",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Kira (Apse) Dies, ScM, CGC",
+      "title": "Clinical Instructor, Boston University School of Medicine Genetic Counseling Graduate Program",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Sam Doernberg, MD",
+      "title": "Internal Medicine Resident, Brigham & Women's Hospital",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Doron Dorfman, BA, LL.B, LL.M, JSM, JSD",
+      "title": "Professor of Law, Seton Hall Law School",
+      "email": "doron.dorfman@shu.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Jade Ealy, MBE",
+      "title": "Prevention Program Manager, Boston Public Health Commission",
+      "email": "jade_ealy@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Jason T. Eberl, PhD",
+      "title": "Hubert Mäder Chair in Bioethics and Professor of Philosophy, Saint Louis University",
+      "email": "jason.eberl@slu.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Jeffrey L. Ecker, MD",
+      "title": "Joe Vincent Meigs Professor of Obstetrics, Gynecology and Reproductive Biology",
+      "email": "jecker@mgb.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Judith G. Edersheim, JD, MD",
+      "title": "Assistant Professor of Psychiatry, MGH",
+      "email": "jedersheim@mgh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Daniel Eisenkraft Klein, PhD, MSc",
+      "title": "Postdoctoral Fellow, PORTAL at HMS and BWH",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Rami Elzayat, MD, SM, FRCPC",
+      "title": "Attending Critical Care Physician, University of Manitoba, Canada",
+      "email": "elzayatr@myumanitoba.ca",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Rémy Enoch, MS, MBE",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": "remy_enoch@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Marta Fadda, PhD, MBE",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": "marta.fadda@usi.ch",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Colleen Farrell, MD, HEC-C",
+      "title": "Instructor in Medicine, Harvard Medical School",
+      "email": "colfarrell@challiance.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Tonya Ferraro, MEd",
+      "title": "Accreditation Policy Analyst, Association for the Accreditation of Human Research Protection Programs, Inc.",
+      "email": "tferraro@aahrpp.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Janice Firn, PhD, LMSW, HEC-C",
+      "title": "Clinical Associate Professor of Learning Health Sciences, University of Michigan Medical School",
+      "email": "jfirn@med.umich.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Carolyn M. Friedhoff, MBE",
+      "title": "Clinical Research Coordinator, University of Massachusetts Chan Medical School",
+      "email": "carolyn.friedhoff@umassmed.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Charlene Galarneau, PhD, MAR",
+      "title": "Associate Professor Emerita, Wellesley College",
+      "email": "cgalarne@wellesley.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Bizu Gelaye, PhD, MPH",
+      "title": "Associate Professor of Psychiatry, MGH",
+      "email": "bgelaye@hsph.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Joseph T. Giacino, PhD",
+      "title": "Professor of Physical Medicine and Rehabilitation, Harvard Medical School",
+      "email": "jgiacino@mgh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "John D. Golenski, EdD",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": "jgolenski@kairoihealth.com",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Byron Good, PhD, BD",
+      "title": "Professor of Medical Anthropology in the Department of Social Medicine, Harvard Medical School",
+      "email": "byron_good@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Michele Bratcher Goodwin, JD, LLM, SJD",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": "michele.goodwin@georgetown.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Lisa Gruenberg, MD, MFA",
+      "title": "Assistant Professor of Medicine, Part-time, Brigham and Women's Hospital",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Elizabeth Hansen, PT, DPT, HEC-C",
+      "title": "Therapy Manager, Brain Injury Program at Spaulding Rehabilitation Hospital",
+      "email": "eahansen@mgb.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Andrew Hantel, MD, MPH",
+      "title": "Assistant Professor of Medicine, Harvard Medical School",
+      "email": "Andrew_Hantel@dfci.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Douglas W. Hanto, MD, PhD, MBE",
+      "title": "Lewis Thomas Professor of Surgery Emeritus, Harvard Medical School",
+      "email": "douglas_hanto@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Melissa Heidelberg, BS, MSBE",
+      "title": "Director of Bioethics, Takeda Pharmaceuticals",
+      "email": "mjheidelberg7@gmail.com",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Marta Herschkopf, MD, MSt",
+      "title": "Instructor in Psychiatry, Part-time, Harvard Medical School",
+      "email": "mherschk@bidmc.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Sabine Hildebrandt, MD",
+      "title": "Associate Professor of Pediatrics",
+      "email": "sabine.hildebrandt@childrens.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Ingrid A. Holm, MD, MPH",
+      "title": "Professor of Pediatrics, Harvard Medical School",
+      "email": "ingrid.holm@childrens.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Leanne Homan, RN, BSN, MBE, HEC-C",
+      "title": "Clinical Nurse Ethicist, Beth Israel Deaconess Medical Center",
+      "email": "leanne_homan@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Edward M. Hundert, MD",
+      "title": "Associate Director, Harvard Medical School Center for Bioethics",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Josh Hyatt, DHS, MBE, MHL",
+      "title": "Adjunct Professor, Massachusetts College of Pharmacy and Health Sciences",
+      "email": "josh.hyatt@alumni.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Insoo Hyun, PhD",
+      "title": "Fellow, Hastings Center for Bioethics",
+      "email": "mailto:hyuni@thehastingscenter.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Michael Ieong, MD",
+      "title": "Course Instructor and Seminar Leader, HMS Center for Bioethics",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Adithi Iyer, JD",
+      "title": "Law Clerk, Latham & Watkins LLP",
+      "email": "adithi@alumni.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Kate Jackson-Meyer, PhD",
+      "title": "Research Associate, Human Flourishing Program, Harvard University",
+      "email": "Kjacksonmeyer@fas.Harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Tim Janchar, MD, MBE",
+      "title": "Assistant Professor of Emergency Medicine, School of Medicine, OHSU",
+      "email": "timjanchar@mac.com",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "David S. Jones, MD, PhD",
+      "title": "A. Bernard Ackerman Professor of the Culture of Medicine",
+      "email": "dsjones@harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Robin Jones, MD, MBE",
+      "title": "Assistant Professor of Neurology, Massachusetts General Hospital",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Ramya Chinmayi Joshi, MBE",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": "ramyajoshi@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Abigail M. Judge, PhD",
+      "title": "Instructor in Psychology in the Department of Psychiatry, Part-time, Harvard Medical School",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Lila Kagedan, MTS, MEd",
+      "title": "Dean of Ethics and Professionalism, New York Medical College School of Medicine",
+      "email": "lila_kagedan@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Kerri Kennedy, DBE, RN, HEC-C",
+      "title": "Director, Office of Ethics, Boston Children's Hospital",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Aaron Seth Kesselheim, MD, JD, MPH",
+      "title": "Professor of Medicine, Harvard Medical School",
+      "email": "akesselheim@bwh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Jennifer Kesselheim, MD",
+      "title": "Assistant Professor of Pediatrics",
+      "email": "jennifer.kesselheim@childrens.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Erwin Jiayuan Khoo, MBBS, FRCPCH",
+      "title": "Associate Professor, International Medical University (IMU), Malaysia",
+      "email": "jiayuan_khoo@imu.edu.my",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Louise Perkins King, MD, JD",
+      "title": "Assistant Professor of Obstetrics, Gynecology and Reproductive Biology",
+      "email": "lperkinsking@bwh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Maggie Kirber, MSW, LICSW, MBE, HEC-C",
+      "title": "Clinical Ethicist/Social Worker, Boston Children's Hospital",
+      "email": "maggie.kirber@childrens.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Douglas Knittel, MD",
+      "title": "Assistant Clinical Professor (Retired), Eastern Virginia Medical School",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Piroska K. Kopar, MD, MBA, FACS",
+      "title": "Associate Professor of Surgery, Washington University",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Eric Lewis Krakauer, MD, PhD",
+      "title": "Associate Professor of Medicine and Global Health & Social Medicine",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Daniel B. Kramer, MD, MPH",
+      "title": "Associate Professor of Medicine",
+      "email": "dkramer@bidmc.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Jeanne Krick, MD, MA",
+      "title": "Associate Professor of Pediatrics, Uniformed Services University of the Health Sciences",
+      "email": "jeanne.krick@usuhs.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Kaarkuzhali Babu Krishnamurthy, MD, MBE, HEC-C",
+      "title": "Assistant Professor of Neurology, Harvard Medical School",
+      "email": "kaarkuzhali_krishnamurthy@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Kristina Baldwin Larson, JD, MBE",
+      "title": "Lecturer, Part-time, Department of Global Health and Social Medicine",
+      "email": "klarson@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Gabriel Lázaro-Muñoz, PhD, JD",
+      "title": "Associate Professor, Massachusetts General Hospital",
+      "email": "glazaromunoz@mgh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Hajung Lee, JD, PhD, MBE",
+      "title": "Associate Professor of Religion, Spirituality & Society, and Bioethics, University of Puget Sound",
+      "email": "hjlee@pugetsound.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Isabel Legarda, MD",
+      "title": "Medical Ethics & Professionalism faculty Harvard Medical School",
+      "email": "ilegarda@partners.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Lisa Soleymani Lehmann, MD, PhD, MSc",
+      "title": "Associate Professor of Medicine (part-time), Harvard Medical School",
+      "email": "lzslehmann@gmail.com",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Maria Leister, JD MBE",
+      "title": "Director, Harvard Program in Refugee Trauma",
+      "email": "mleister@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Willy Lensch, PhD",
+      "title": "Lecturer on Global Health and Social Medicine, Part-time, HMS",
+      "email": "willy_lensch@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Anna C. F. Lewis, DPhil",
+      "title": "Instructor in Medicine, Harvard Medical School",
+      "email": "aclewis@bwh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Rebecca H. Li, PhD",
+      "title": "Lecturer on Global Health and Social Medicine, Part-time",
+      "email": "rli@vivli.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Evie Marcolini, MD, MBE",
+      "title": "Associate Professor of Emergency Medicine and Neurology, Geisel School of Medicine at Dartmouth",
+      "email": "emarcolini@gmail.com",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Jonathan Marron, MD, MPH, HEC-C",
+      "title": "Assistant Professor of Pediatrics, Harvard Medical School",
+      "email": "jonathan_marron@dfci.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Gloria Mason Ross, MBE",
+      "title": "Bioethicist",
+      "email": "gigimason961@gmail.com",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "John Edmund Mayer Jr., MD",
+      "title": "Senior Associate in Cardiac Surgery, Boston Children's Hospital",
+      "email": "john.mayer@cardio.chboston.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Mary McDonough, JD, PhD",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Kathleen McFadden, MD",
+      "title": "Instructor in Medicine, Harvard Medical School",
+      "email": "kmcfadden1@mgb.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Amy McGuire, JD, PhD",
+      "title": "Leon Jaworski Professor of Biomedical Ethics, Baylor College of Medicine",
+      "email": "amcguire@bcm.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Jennifer McGuirl, DO",
+      "title": "Neonatologist/Pediatrician",
+      "email": "Jennifer.mcguirl@childrens.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Martin F. McKneally, PhD, MD",
+      "title": "Founding Chair and Member of the Surgical Ethics Group, Senior Associate, Harvard Medical School Center for Bioethics",
+      "email": "martin.mckneally@utoronto.ca",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Lukas J. Meier, PhD",
+      "title": "Associate, Edmond & Lily Safra Center for Ethics, Harvard University",
+      "email": "lukasmeier@fas.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Mark R. Mercurio, MD, MA",
+      "title": "Executive Director, Center for Pediatric Bioethics, Boston Children's Hospital",
+      "email": "mark.mercurio@childrens.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Elaine C. Meyer, PhD, RN, MBE",
+      "title": "Associate Professor of Psychology in the Department of Psychiatry, Boston Children's Hospital",
+      "email": "elaine_meyer@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Aimee Milliken, PhD, RN, HEC-C",
+      "title": "Associate Professor of the Practice, Boston College",
+      "email": "aimee.milliken@bc.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Christine Mitchell, RN, MS, MTS, HEC-C",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": "christine_mitchell@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Martha Montello, PhD",
+      "title": "Lecturer of Global Health and Social Medicine, Part-time, Harvard Medical School",
+      "email": "martha_montello@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Lisa Moses, VMD",
+      "title": "Co-Director, Capstone Program, Master of Science in Bioethics Program, Harvard Medical School",
+      "email": "lisa_moses@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Lida Nabati, MD",
+      "title": "Instructor in Medicine, Harvard Medical School",
+      "email": "lida_nabati@dfci.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Melissa Nosal",
+      "title": "Design and Communications Administrator, HMS Center for Bioethics",
+      "email": "melissa_nosal@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Stephen F. O'Neill, LICSW, BCD, JD",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": "soneill2@bidmc.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Unini Odama, MD, MPH, MBE, FASN",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": "unini_odama@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Aasim I. Padela, MD, MSc, FACEP, FISSR",
+      "title": "Professor of Emergency Medicine, Bioethics and the Medical Humanities, Medical College of Wisconsin",
+      "email": "apadela@mcw.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Ned Palmer, MD, MPH",
+      "title": "Instructor in Pediatrics, Part-time, Boston Children's Hospital",
+      "email": "edwin.palmer@childrens.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Katherine R. Peeler, MD, MA",
+      "title": "Assistant Professor of Pediatrics, Harvard Medical School",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Jehanna Peerzada, MD, MPH",
+      "title": "Lecturer, Harvard Medical School",
+      "email": "Jehanna.Peerzada@childrens.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Jeffrey Peppercorn, MD, MPH",
+      "title": "Associate Professor of Medicine",
+      "email": "jpeppercorn@mgh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "John Peteet, MD",
+      "title": "Associate Professor of Psychiatry, HMS",
+      "email": "jpeteet@partners.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Samantha Pitkin, MEd",
+      "title": "Education Program Administrator, HMS Center for Bioethics",
+      "email": "samantha_pitkin@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Deirdre Puccetti, MD",
+      "title": "Clinical Fellow in Anaesthesia (EXT), Boston Children's Hospital",
+      "email": "deirdre.puccetti@childrens.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Leah Rand, DPhil",
+      "title": "Lecturer on Medicine, Brigham and Women's Hospital",
+      "email": "lzrand@bwh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Dilmi Ranpatabendi, MBE, MS",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": "dilmi_ranpatabendi@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Abbas Rattani, MD, MBE",
+      "title": "Instructor, Harvard Medical School Medical",
+      "email": "Arattan2@bidmc.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Vardit Ravitsky, PhD",
+      "title": "Senior Lecturer on Global Health and Social Medicine, Part-time, Harvard Medical School",
+      "email": "RavitskyV@thehastingscenter.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "John Y. Rhee, MD, MPH",
+      "title": "Instructor of Neurology, Harvard Medical School",
+      "email": "John_Rhee@DFCI.HARVARD.EDU",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Carolyn Baker Ringel, JD, MBE",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": "cringel@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Casey Rojas, JD, MBE",
+      "title": "Federal Relations & Health Equity Director, Massachusetts Medical Society",
+      "email": "casey_rojas@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Paul L. Romain, MD, SM",
+      "title": "Corresponding Member of the Faculty of Medicine, HMS",
+      "email": "promain@bidmc.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Jonah Rubin, MD",
+      "title": "Assistant Professor of Medicine, HMS",
+      "email": "jrubin@mgh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Kirstie Russell, JD, BCL, MPH, MSc",
+      "title": "Ethicist and Lawyer (Non-practicing)",
+      "email": "kirstie.russell@vch.ca",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "James Evan Sabin, MD",
+      "title": "Professor of Population Medicine, Part-time",
+      "email": "jimsabin@gmail.com",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Nada Salem, MSc",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": "nada_salem@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Hemal N. Sampat, MD, FAAP, FACP, SFHM, HEC-C",
+      "title": "Instructor of Medicine, Harvard Medical School",
+      "email": "hsampat@mgh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Genevieve Saphier, RN, MSN",
+      "title": "Director of Administration, HMS Center for Bioethics",
+      "email": "genevieve_saphier@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Ameet Sarpatwari, PhD, JD",
+      "title": "Associate Professor of Population Medicine, Harvard Medical School",
+      "email": "asarpatwari@hsph.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Lindsay Semler, DNP, RN, CCRN, HEC-C",
+      "title": "Executive Director of Clinical Ethics, Brigham and Women's Hospital",
+      "email": "lsemler@bwh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Kimberley Serpico, EdD, CIP",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": "kserpico@broadinstitute.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Francis Shen, JD, PhD",
+      "title": "Lecturer on Psychology in the Department of Psychiatry, Part-time, HMS",
+      "email": "Francis_Shen@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Mary Shin, MBE, MPhil",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": "mary_shin@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Christine Shrock, MD",
+      "title": "Instructor in Neurology, Harvard Medical School",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Shahla Siddiqui, MBBS, MSc",
+      "title": "Associate Professor of Anesthesia, Harvard Medical School",
+      "email": "ssiddiq4@bidmc.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Benjamin C. Silverman, MD",
+      "title": "Assistant Professor of Psychiatry, Harvard Medical School",
+      "email": "bcsilverman@mgb.org",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Roberto Sirvent, JD, PhD",
+      "title": "Lecturer, Department of Global Health and Social Medicine",
+      "email": "Roberto_Sirvent@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Elizabeth Sivertsen, MBE, CCRN, HEC-C",
+      "title": "System Ethicist, Grady Memorial Hospital",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Hadley Stevens Smith, PhD, MPSA",
+      "title": "Assistant Professor of Population Medicine, HMS and Harvard Pilgrim Health Care Institute",
+      "email": "hadley.smith@hphci.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Barry Solaiman, PhD in Law (Cantab), LL.M.",
+      "title": "Adjunct Assistant Professor of Medical Ethics in Clinical Medicine, Weill Cornell Medicine – Qatar",
+      "email": "bsolaiman@hbku.edu.qa",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Mildred Z. Solomon, EdD",
+      "title": "Director of the Fellowship in Bioethics and Co-Director of the Online Fellowship Certificate in Bioethics, HMS Center for Bioethics",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "David N. Sontag, JD, MBE, HEC-C",
+      "title": "Lecturer on Medicine, Part-time, HMS",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Michael Ashley Stein, JD, PhD",
+      "title": "Visiting Professor, Harvard Law School",
+      "email": "mastein@law.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Ian Stevens, MA, MSc",
+      "title": "Project Manager and Research Assistant, The Hastings Center",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Caitlyn Ann Tabor, JD, MBE",
+      "title": "Senior Fellow in Law and Applied Neuroscience, The Petrie-Flom Center, Harvard Law School",
+      "email": "ctabor@law.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Mariah Tanious, MD, MPH, FAAP",
+      "title": "Associate Professor, Division of Pediatric Anesthesia, Department of Anesthesiology, Medical University of South Carolina",
+      "email": "taniousm@musc.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Lauren A. Taylor, PhD, MDiv",
+      "title": "Assistant Professor, Department of Population Health, NYU Grossman School of Medicine",
+      "email": null,
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Lisa S. Taylor, JD, MS, HEC-C",
+      "title": "Senior Clinical Ethicist, Boston Children's Hospital",
+      "email": "lisa.taylor@childrens.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Bruce Randolph Tizes, MD, JD, MPH",
+      "title": "Affiliate, HMS Center for Bioethics",
+      "email": "btizes@gmail.com",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Robert D. Truog, MD, MA",
+      "title": "Director Emeritus, HMS Center for Bioethics",
+      "email": "robert_truog@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "David Kimball Urion, MD, FAAN",
+      "title": "Associate Professor of Neurology, Harvard Medical School",
+      "email": "david.urion@childrens.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Melissa K. Uveges, PhD, MAR, RN",
+      "title": "Assistant Professor, Boston College Connell School of Nursing",
+      "email": "uveges@bc.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Anita Katharina Wagner, PharmD, MPH, DrPH",
+      "title": "Associate Professor of Population Medicine, Harvard Medical School",
+      "email": "anita_wagner@hms.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Lauren Walsh, MA, JD",
+      "title": "Attorney, Mass General Brigham",
+      "email": "Lauren.Walsh@post.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Anthony Peter Weiss, MD, MBA, MSc",
+      "title": "Associate Professor of Psychiatry, Harvard Medical School",
+      "email": "aweiss3@bidmc.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Richard I. Whyte, MD, MBA",
+      "title": "Professor of Surgery, Harvard Medical School",
+      "email": "rwhyte@bidmc.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Daniel I. Wikler, Ph.D.",
+      "title": "Mary B. Saltonstall Professor of Population Ethics and Professor of Ethics and Population Health",
+      "email": "wikler@hsph.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Theresa Williamson, MD",
+      "title": "Chair, Surgical Ethics Working Group, HMS Center for Bioethics",
+      "email": "TWILLIAMSON1@mgh.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Alicia Ely Yamin, JD, MPH, PhD",
+      "title": "Adjunct Senior Lecturer on Health Policy and Management, Harvard TH Chan School of Public Health",
+      "email": "ayamin@law.harvard.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    },
+    {
+      "name": "Peter Zuk, PhD",
+      "title": "Assistant Professor, University of Texas at Arlington",
+      "email": "peter.zuk@uta.edu",
+      "why": "Center for Bioethics affiliate/fellow/staff -- not a Center-run PI-led lab; most have their primary appointment, and any lab, elsewhere (see top-level notes)."
+    }
+  ],
+  "notes": "people_url wasn't given in targets.csv; found via an outlink on the homepage. Full paginated directory read (178 people, 18 pages), but this Center is a bioethics scholarship/policy hub, not a department of independent PI-led labs -- see the one lab entry's notes for why only the Director is recorded as a lead, with everyone else in non_lab_people."
+}

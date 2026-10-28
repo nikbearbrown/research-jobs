@@ -1,0 +1,15 @@
+{
+  "id": "harvard-hst",
+  "institution": "Harvard",
+  "unit": "Harvard-MIT Program in Health Sciences and Technology (HST)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "http://hst.harvard.edu/",
+    "https://hst.harvard.edu/faculty-research/faculty",
+    "https://hst.harvard.edu/faculty-research/faculty (rendered)"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "HST is a joint Harvard-MIT graduate program, not itself a department with independent labs -- its 'Faculty & Research > Faculty' link (https://hst.harvard.edu/faculty-research/faculty) resolves to the homepage's content with no faculty roster, both via plain fetch and Playwright render (possibly a broken/renamed route). HST-affiliated faculty are typically MIT or HMS PIs already counted in their home department's own source file. Recommend status 'partial' -- the real faculty-listing URL needs to be found (e.g. via hst.mit.edu, the MIT-side mirror, in a later pass)."
+}

@@ -1,0 +1,22 @@
+{
+  "id": "harvard-mrsec",
+  "institution": "Harvard",
+  "unit": "Materials Research Science and Engineering Center (Harvard FAS/SEAS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.mrsec.harvard.edu/",
+    "https://www.mrsec.harvard.edu/research/research.php",
+    "https://www.mrsec.harvard.edu/pages/faculty.php"
+  ],
+  "labs": [],
+  "non_lab_people": [
+    {
+      "name": "Kathryn A. Hollar",
+      "title": "MRSEC Education Director",
+      "email": null,
+      "why": "Center education staff, not a PI-led lab."
+    }
+  ],
+  "notes": "Cross-cutting NSF-funded center, not a department of its own labs. 13 unique 'Faculty Primary Participants' across its two Interdisciplinary Research Groups (IRG I: Boris Kozinsky (lead), Jarad Mason (co-lead), Michael P. Brenner, Richard Y. Liu, Vinothan Manoharan, Frans Spaepen, Joost J. Vlassak, David A. Weitz; IRG II: David J. Mooney (lead), David A. Weitz (co-lead), Joanna Aizenberg, Katia Bertoldi, Michael P. Brenner, Jennifer A. Lewis, David R. Nelson, Kevin 'Kit' Parker, Zhigang Suo; Jennifer Lewis is overall Center Director) are all already recorded as PI-led labs in data/sources/harvard-seas.json or data/sources/harvard-chemistry.json (cross-checked by name) -- not duplicating them here. No MRSEC-specific lab, admin contact, or join page beyond the Faculty/Postdoc/Grad/Undergrad people lists was found on the site."
+}

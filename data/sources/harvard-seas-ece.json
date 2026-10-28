@@ -1,0 +1,14 @@
+{
+  "id": "harvard-seas-ece",
+  "institution": "Harvard",
+  "unit": "Electrical and Computer Engineering (Harvard SEAS)",
+  "city": "Allston/Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://seas.harvard.edu/electrical-computer-engineering",
+    "https://seas.harvard.edu/electrical-computer-engineering/people (404, no dedicated people page)"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Electrical and Computer Engineering has no dedicated /people subpage (confirmed 404) unlike the other SEAS sub-areas -- its faculty (e.g. Donhee Ham, Robert Wood) appear in the other sub-areas' cross-listings and in the main school-wide directory already recorded in data/sources/harvard-seas.json. No separate breadth pass possible for this sub-area; not duplicating harvard-seas.json."
+}

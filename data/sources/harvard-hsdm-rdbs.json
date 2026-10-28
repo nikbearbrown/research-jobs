@@ -1,0 +1,13 @@
+{
+  "id": "harvard-hsdm-rdbs",
+  "institution": "Harvard",
+  "unit": "Department of Restorative Dentistry and Biomaterials Sciences",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.hsdm.harvard.edu/restorative-dentistry-and-biomaterials-sciences"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Entire www.hsdm.harvard.edu site returns an Akamai 'Access Denied' from this network (confirmed via plain HTTP and headless Chromium), same pattern documented in CLAUDE.md's Known gotchas for many other harvard.edu subdomains. Not fixable from here; needs a different egress network to retry."
+}

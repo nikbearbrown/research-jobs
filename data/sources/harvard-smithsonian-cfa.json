@@ -1,0 +1,21 @@
+{
+  "id": "harvard-smithsonian-cfa",
+  "institution": "Harvard University / Smithsonian",
+  "unit": "Center for Astrophysics | Harvard & Smithsonian",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.cfa.harvard.edu/",
+    "https://www.cfa.harvard.edu/people"
+  ],
+  "labs": [],
+  "non_lab_people": [
+    {
+      "name": "Lisa Kewley",
+      "title": "Director, Center for Astrophysics",
+      "email": null,
+      "why": "Center-wide leadership, not itself a PI-led research group entry."
+    }
+  ],
+  "notes": "CfA's /people page is a JS 'Load More' infinite-scroll search with no static roster and no sitemap.xml shortcut found; Playwright timed out waiting for it to settle (networkidle never reached, likely due to continuous background requests from the search widget). Could not enumerate individual scientists/PIs in this pass. Recorded CfA's organizational structure from the people page instead, for a future deeper pass: Science is organized into six divisions (Atomic and Molecular Physics; Radio and Geoastronomy; High Energy Astrophysics; Optical and Infrared Astronomy; Solar, Stellar, and Planetary Sciences; Theoretical Astrophysics), plus the Science Education Department and the Harvard University Department of Astronomy (= targets.csv's separate harvard-astronomy row, itself Akamai-blocked this round), plus three named centers: Chandra X-Ray Center (CXC), Institute for Theoretical Atomic, Molecular and Optical Physics (ITAMP), and Institute for Theory and Computation (ITC, https://itc.cfa.harvard.edu/ per the targets.csv note). A future pass should try each division's or center's own page directly (e.g. an ITC-specific people page) rather than the site-wide /people search."
+}

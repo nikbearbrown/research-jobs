@@ -1,0 +1,13 @@
+{
+  "id": "harvard-hms-primarycare",
+  "institution": "Harvard",
+  "unit": "Primary Care (HMS)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://primarycare.hms.harvard.edu/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The given start_url (https://primarycare.hms.harvard.edu/) resolves to a generic HMS admissions/education page (MD Program, MD Admissions, Student Life, etc.), not a primary-care research center or faculty directory. No PI-led labs or faculty roster found at this URL. This target's start_url likely needs to be corrected -- possibly meant to point to the HMS Center for Primary Care (populationmedicine.hms.harvard.edu or similar) rather than this education-focused page. Recommend status 'partial' pending a corrected URL."
+}

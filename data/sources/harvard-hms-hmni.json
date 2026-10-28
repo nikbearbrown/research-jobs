@@ -1,0 +1,13 @@
+{
+  "id": "harvard-hms-hmni",
+  "institution": "Harvard",
+  "unit": "Harvard Mahoney Neuroscience Institute (HMNI)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://neuro.hms.harvard.edu/centers-and-initiatives/about-hmni"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "HMNI is a public lecture series / fellowship program (\"On The Brain\" lecture series, David Mahoney Prize) run within the Department of Neurobiology, not a distinct set of PI-led labs -- its own page has no faculty roster of its own. Neurobiology's actual faculty are already recorded in harvard-hms-neurobiology.json. Recommend status 'done'."
+}

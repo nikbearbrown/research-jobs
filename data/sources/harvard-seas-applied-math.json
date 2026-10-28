@@ -1,0 +1,13 @@
+{
+  "id": "harvard-seas-applied-math",
+  "institution": "Harvard",
+  "unit": "Applied Mathematics (Harvard SEAS)",
+  "city": "Allston/Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://seas.harvard.edu/applied-mathematics/people"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "This sub-area's people page lists the same SEAS-wide faculty pool already recorded in data/sources/harvard-seas.json (built from the paginated seas.harvard.edu/faculty?page=N directory). Cross-checked a sample of faculty names/emails from this sub-area page against harvard-seas.json's pi_name/pi_email fields -- all matched (e.g. for applied-math/applied-physics: Brenner, Chung, Ho, Kaxiras, Koumoutsakos, Mahadevan, Manoharan, Capasso, Hau, Hekstra, Hoffman, Kim, Mazur, Mundy, Murray, Narayanamurti, Needleman, Nelson, Pehlevan, Trefethen, Tziperman, Weber were all already present). The handful of names/emails on this page not already in harvard-seas.json were all non-PI roles correctly excluded there too (visiting lecturers, associates, fellows, staff co-directors, resident deans, undergrad-program administrators) -- no new PI-led labs found. Recording no labs here to avoid duplicating harvard-seas.json."
+}
