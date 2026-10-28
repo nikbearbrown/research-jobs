@@ -90,18 +90,18 @@
       "lab_name": "Dang Lab",
       "pi_name": "Eric Dang",
       "pi_title": "Core Member, Ragon Institute",
-      "pi_email": null,
+      "pi_email": "evdang@mgh.harvard.edu",
       "lab_website": "https://dang-lab.mgh.harvard.edu/",
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies fungal-host interactions at barrier tissues.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 4 postdoctoral fellows, 2 graduate students, 1 research technician",
+      "members_page_url": "https://dang-lab.mgh.harvard.edu/people/",
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/eric-dang/",
-      "notes": "Lab page shows no member roster; member_count null. Page invites inquiries about opportunities by emailing Dr. Dang (address obfuscated)."
+      "notes": "People page read (2026-10-27), excludes the separate Lab Alumni page. Small lab; moved to Ragon from NIAID/HMS in 2025."
     },
     {
       "id": "ragon-brandon-dekosky",
@@ -114,13 +114,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Develops high-throughput methods to study B and T cell immune memory in infection, autoimmunity and cancer.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": "https://ragoninstitute.org/careers/",
-      "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
+      "member_count": 19,
+      "member_breakdown": "1 PI, 18 current team members (postdocs, PhD students/candidates, undergraduate and technician researchers) listed under the site's 'Core Team' tab",
+      "members_page_url": "https://www.dekoskylab.org/team",
+      "join_page_url": "https://www.dekoskylab.org/team",
+      "join_notes": "Site says the lab is seeking new members at the undergraduate, graduate and postdoctoral levels; email a CV to Dr. DeKosky (dekosky [at] mit [dot] edu).",
       "profile_url": "https://ragoninstitute.org/lab/dekosky/",
-      "notes": "Lab page shows no member roster; member_count null."
+      "notes": "Team page read (2026-10-27) but all tabs (Core Team / Alumni / Collaborations) render into one page of text with no clear separators, so the Core Team vs. Alumni boundary was inferred from writing style (first-person bios = current; terse name/degree/institution-only entries, mostly University of Kansas-affiliated, = likely an older Alumni roster from DeKosky's pre-MIT lab) -- treat member_count as a medium-confidence estimate, not a precise reading. A large separate 'Collaborations' list of external PIs (Bruce Walker, Alex Shalek, NIAID/Vaccine Research Center staff, etc.) was excluded entirely as those are not lab members. PI's own email not found on this pass (only the generic 'dekosky [at] mit [dot] edu' join-inquiry address); left pi_email null rather than reuse the join address."
     },
     {
       "id": "ragon-charles-evavold",
@@ -128,8 +128,8 @@
       "lab_name": "Evavold Lab",
       "pi_name": "Charles Evavold",
       "pi_title": "Core Member and Early Independence Fellow, Ragon Institute; Instructor, Harvard University",
-      "pi_email": null,
-      "lab_website": null,
+      "pi_email": "cevavold@mgh.harvard.edu",
+      "lab_website": "https://ragoninstitute.org/lab/evavold/",
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Uses cell death programs to study how microbes and metabolism shape host cell fate decisions.",
@@ -139,7 +139,8 @@
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/evavold/",
-      "notes": "Lab page shows no member roster; member_count null. Early Independence Fellow, likely a very small group."
+      "notes": "Institute lab page read (2026-10-27): PI bio only, no member roster and no separate lab website found. Likely still a very small/new group (Early Independence Fellow).",
+      "location": "400 TS 758"
     },
     {
       "id": "ragon-gaurav-gaiha",
@@ -196,7 +197,7 @@
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/ghebremichael/",
-      "notes": "Lab page shows no member roster; member_count null. PI/lab collaboration email is Cloudflare-obfuscated on the page; the fetch model reported it decodes to musie_ghebremichael@dfci.harvard.edu. Not independently verified, so pi_email is left null and the value is kept in pi_email_unverified.; Unverified email (decoded from a protected page): musie_ghebremichael@dfci.harvard.edu"
+      "notes": "Institute lab page read (2026-10-27) via Playwright: a short description of statistical-consulting services; does not name Musie Ghebremichael or any member, and has no mailto link, so pi_email stays null (the previously noted decoded/unverified address is unchanged and still unverified). No roster to count."
     },
     {
       "id": "ragon-azza-idris",
@@ -310,7 +311,7 @@
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/liu/",
-      "notes": "Lab page shows no member roster; member_count null. Early Independence Fellow, likely a new small group."
+      "notes": "Lab website (liulab.bio) read via Playwright on 2026-10-27: a short research-description page with a single shared contact address (immunoliugy@gmail.com) and the Ragon street address, but no PI name or member roster shown on the page itself -- left pi_email null since the address is a shared lab inbox, not confirmed as Sophia Liu's own. No roster to count."
     },
     {
       "id": "ragon-hernandez-moura-silva",
@@ -356,7 +357,7 @@
       "lab_name": "Ndung'u Lab",
       "pi_name": "Thumbi Ndung'u",
       "pi_title": "PhD (no academic rank on page)",
-      "pi_email": null,
+      "pi_email": "thumbi.ndungu@ahri.org",
       "lab_website": null,
       "admin_name": null,
       "admin_email": null,
@@ -367,7 +368,7 @@
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/ndungu/",
-      "notes": "Lab page shows no member roster; member_count null. Collaboration phone is South African (+27); lab is likely based in Durban."
+      "notes": "Institute lab page read (2026-10-27): PI bio only, no member roster. Confirms PI is based at the Africa Health Research Institute (ahri.org) in South Africa; Ragon-side team size unknown."
     },
     {
       "id": "ragon-shiv-pillai",
@@ -394,18 +395,18 @@
       "lab_name": "Ringel Lab",
       "pi_name": "Alison Ringel",
       "pi_title": "Assistant Professor of Biology, MIT; Core Member, Ragon Institute",
-      "pi_email": null,
+      "pi_email": "aringel@mit.edu",
       "lab_website": "https://www.ringel-lab.org/",
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies the metabolic adaptations of immune cells under stresses such as obesity and aging.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 7 graduate students, 1 undergraduate",
+      "members_page_url": "https://www.ringel-lab.org/members",
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/ringel/",
-      "notes": "Lab page shows no member roster; member_count null."
+      "notes": "Members page read (2026-10-27); emails on the page are hand-obfuscated as 'name at domain dot edu' and were de-obfuscated directly (not guessed). Excludes the separate 'Former Lab Members' section and the lab's pets. Site has a 'Join Us' nav item but its URL wasn't confirmed this pass; left join_page_url null."
     },
     {
       "id": "ragon-aaron-schmidt",
@@ -508,18 +509,18 @@
       "lab_name": "Wong Lab",
       "pi_name": "Harikesh Wong",
       "pi_title": "Assistant Professor of Biology, MIT; Core Member, Ragon Institute",
-      "pi_email": null,
+      "pi_email": "wonghs@mit.edu",
       "lab_website": "https://hswonglab-ri.mit.edu/",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Parveen Parasar (Research Scientist & Lab Manager); Rachel Maus (Program Manager)",
+      "admin_email": "pparasar@mgh.harvard.edu",
       "research_summary": "Studies how groups of immune cells in tissues coordinate to tune responses from pathogen clearance to autoimmunity.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 6 graduate/MD-PhD students, 1 program manager, 1 research scientist & lab manager",
+      "members_page_url": "https://hswonglab-ri.mit.edu/team",
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/wong/",
-      "notes": "Lab page shows no member roster; member_count null. PI/lab collaboration email is Cloudflare-obfuscated on the page; the fetch model reported it decodes to wonghs@mit.edu. Not independently verified, so pi_email is left null and the value is kept in pi_email_unverified.; Unverified email (decoded from a protected page): wonghs@mit.edu"
+      "notes": "Team page read (2026-10-27), excludes the separate Alumni section."
     },
     {
       "id": "ragon-xu-yu",
