@@ -51,6 +51,21 @@ USER_AGENT = "research-jobs-bot/0.1 (+https://github.com/nikbearbrown/research-j
 MIN_INTERVAL = 1.0  # seconds between requests to the same host
 MIN_HTML_LEN_FOR_STATIC = 1500  # below this, suspect JS rendering is needed
 
+# brandeis.edu returns 403 to our identifying UA on every page (confirmed via
+# both plain HTTP and Playwright) but 200s for a standard browser UA. Decided
+# with the project owner 2026-10-28: use a generic browser UA for this one
+# domain only: still rate-limited and robots.txt-respecting, just not
+# self-identifying as a bot. Every other host keeps the honest project UA.
+UA_OVERRIDE_HOSTS = {
+    "www.brandeis.edu": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+    "brandeis.edu": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36",
+}
+
+
+def _user_agent_for(url):
+    host = urllib.parse.urlsplit(url).netloc.lower()
+    return UA_OVERRIDE_HOSTS.get(host, USER_AGENT)
+
 _last_request_at = {}
 _robots_cache = {}
 
@@ -86,12 +101,13 @@ def _respect_rate_limit(host):
 def _robots_allowed(url):
     parsed = urllib.parse.urlsplit(url)
     base = f"{parsed.scheme}://{parsed.netloc}"
+    ua = _user_agent_for(url)
     rp = _robots_cache.get(base)
     if rp is None:
         rp = urllib.robotparser.RobotFileParser()
         rp.set_url(base + "/robots.txt")
         try:
-            req = urllib.request.Request(base + "/robots.txt", headers={"User-Agent": USER_AGENT})
+            req = urllib.request.Request(base + "/robots.txt", headers={"User-Agent": ua})
             with urllib.request.urlopen(req, timeout=10) as resp:
                 rp.parse(resp.read().decode("utf-8", "replace").splitlines())
         except Exception:
@@ -99,11 +115,11 @@ def _robots_allowed(url):
         _robots_cache[base] = rp
     if rp is None:
         return True
-    return rp.can_fetch(USER_AGENT, url)
+    return rp.can_fetch(ua, url)
 
 
 def _fetch_http(url):
-    req = urllib.request.Request(url, headers={"User-Agent": USER_AGENT, "Accept-Language": "en-US,en;q=0.9"})
+    req = urllib.request.Request(url, headers={"User-Agent": _user_agent_for(url), "Accept-Language": "en-US,en;q=0.9"})
     with urllib.request.urlopen(req, timeout=20) as resp:
         charset = resp.headers.get_content_charset() or "utf-8"
         return resp.status, resp.read().decode(charset, "replace")
@@ -114,7 +130,7 @@ def _fetch_playwright(url):
 
     with sync_playwright() as p:
         browser = p.chromium.launch()
-        page = browser.new_page(user_agent=USER_AGENT)
+        page = browser.new_page(user_agent=_user_agent_for(url))
         page.goto(url, wait_until="networkidle", timeout=30000)
         html = page.content()
         browser.close()
