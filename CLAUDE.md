@@ -50,8 +50,10 @@ Existing files to match: `data/sources/harvard-chemistry.json`, `harvard-mcb.jso
 3. **Be polite:** one request per second per host, a real User-Agent naming the project, honour robots.txt. If robots.txt blocks a site, record that in `notes` and move on.
 4. **Cache raw HTML** under `cache/` (gitignored) so reruns don't refetch.
 5. **Update a target's `status`** in `targets.csv`: `todo` → `partial` → `done`.
-6. **After each target (or batch of small ones):** `python3 scripts/build.py`, update the Coverage table in README.md, commit, `git push`. Commit messages say what was added and the new totals.
-7. Do not delete or rewrite earlier source files except to fill nulls with better data.
+6. **Push early and often.** After every target (or every batch of small ones, and at least every 30 minutes of work): `python3 scripts/build.py`, update the Coverage table in README.md, then `git add -A && git commit && git push`. The owner watches progress on GitHub, so unpushed work is invisible work. Commit messages say what was added and the new totals (labs, emails, small labs).
+7. **Code is part of the repo.** All scraper code lives in `scripts/` and is committed and pushed with the data it produced, including parsers, helpers and any one-off scripts used to make a source file. Nothing that produced data should live only in `/tmp`, a scratch folder or a subagent's workspace. `cache/` stays gitignored.
+8. **Only the main session runs git.** Subagents or forks write files and report back; they never run `git add/commit/push` or `scripts/build.py`. The main session reviews, builds, commits and pushes.
+9. Do not delete or rewrite earlier source files except to fill nulls with better data.
 
 ## Order of work
 
@@ -76,9 +78,9 @@ Write the scraper as reusable pieces in `scripts/` (e.g. a fetcher with cache + 
 - **SPA fallback (always 200):** `chemistry-buchwald.mit.edu` returns identical 200-OK content for every guessed path (`/people`, `/team`, `/group`, ...), so you can't find its real roster route by probing status codes; needs a real browser click-through or a sitemap.
 - **Co-advised students:** at MIT Chemistry, several students/postdocs are co-advised across labs (e.g. Roman/Surendranath/Shao-Horn/Radosevich/Kulik) — each lab's own roster page counts them, so overlap in `member_count` across those labs is expected, not a double-counting bug.
 
-## Status when handed over (2026-10-27, after the to-read.txt pass)
+## Status
 
-`data/to-read.txt` is now empty — all 121 known lab sites have been read. 164 labs in `data/labs.json`, 136 with a PI email: Harvard Chemistry (25 + 1 core facility, all with email), Harvard MCB (36, all with email), MIT Chemistry (42, all with email, lab websites and most member counts now filled), Whitehead (24, 19 with email; Gerald Fink moved to `non_lab_people`), Rowland (8), Ragon (28, 5 with email — Ragon PI emails are mostly Cloudflare-obfuscated, see "Obfuscated emails" above). Remaining `unknown` sizes are documented per-lab in `notes` (Akamai-blocked sites, robot-challenge-blocked `wi.mit.edu` sites, dead/placeholder pages, JS carousels with unmapped roles). Next: `targets.csv` priority 1, institution by institution per the Order of work above — nothing in it has been scraped yet.
+Keep this section current when you push. 2026-10-28: the 121 `to-read.txt` sites are read; 164 labs, 136 with an email. Scraper in `scripts/` (`fetch.py`: cache, robots.txt, rate limit, Playwright fallback, `--batch`; `count_members.py`). Next: `targets.csv` priority 1.
 
 ## Done means
 
