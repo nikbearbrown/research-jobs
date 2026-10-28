@@ -20,19 +20,20 @@ Agents: start with `CLAUDE.md`.
 
 ## Coverage (2026-10-27)
 
-164 labs so far, 89 with a PI email.
+`data/to-read.txt` is now empty — the 121 known lab sites queued there have all been read. 164 labs so far, 136 with a PI email.
 
 | Source | Labs | Small (≤10) | Medium (11–20) | Large (>20) | Size unknown |
 |---|---|---|---|---|---|
-| Harvard Chemistry and Chemical Biology (faculty + lecturers) | 25 + 1 core facility | 5 | 2 | 5 | 13 |
-| Harvard Molecular and Cellular Biology | 36 | 18 | 10 | 6 | 2 |
-| MIT Chemistry (faculty list only; profiles not yet read) | 42 | 0 | 0 | 0 | 42 |
+| Harvard Chemistry and Chemical Biology (faculty + lecturers) | 25 + 1 core facility | 5 | 6 | 11 | 3 |
+| Harvard Molecular and Cellular Biology | 36 | 18 | 10 | 7 | 1 |
+| MIT Chemistry | 42 | 11 | 17 | 9 | 5 |
 | Whitehead Institute (Members, Fellows, AI Fellow) | 24 | 4 | 5 | 3 | 12 |
 | Rowland Institute (Fellows) | 8 | 8 | 0 | 0 | 0 |
-| Ragon Institute | 28 | 9 | 7 | 4 | 8 |
+| Ragon Institute | 28 | 10 | 10 | 4 | 4 |
 
-Harvard MCB sizes come from the department directory filtered by lab (it includes shared lab administrators), not the labs' own sites. Whitehead's Gerald Fink is now listed under `non_lab_people` (retired, no active group) rather than as a lab, which is why the Whitehead lab count dropped from 25 to 24; member counts for 13 of its labs (Bartel, Cheeseman, Corradin, Gehring, Jain, Lehmann, Li, Page, Raguram, Sullivan, Sun, Weissman, plus Lodish/Young left `unknown` on purpose -- see their `notes`) now come from each lab's own site rather than being unread.
-Rowland Fellows run independent groups of one to three people; their counts come from the institute directory and may undercount. Most "unknown" sizes are labs whose own websites could not be read yet (see `notes` on each lab).
+Harvard Chemistry, Harvard MCB and MIT Chemistry now have a PI email for every lab (from each department's own directory/profile pages); Ragon's are mostly Cloudflare-obfuscated on the institute's lab pages, so only 5 of 28 are confirmed (see `notes` for unverified decoded guesses). Whitehead's Gerald Fink is listed under `non_lab_people` (retired, no active group) rather than as a lab. Remaining "unknown" sizes are each explained in that lab's `notes`: a broader-than-expected Akamai block on personal `*.fas.harvard.edu`/`*.oeb.harvard.edu`/`projects.iq.harvard.edu` sites, a handful of `wi.mit.edu`-hosted Whitehead lab sites that return a robot-challenge screen, dead/placeholder pages, and a couple of JS roster carousels whose roles couldn't be mapped to names. Rowland Fellows run independent groups of one to three people; their counts come from the institute directory and may undercount.
+
+Everything in `data/targets.csv` (638 rows, priority 1 onward) is still `todo` — that's the next phase of work.
 
 ## How a lab is classified
 

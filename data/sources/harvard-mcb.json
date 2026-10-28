@@ -23,21 +23,21 @@
       "admin_name": "Diana Redlund",
       "admin_email": "diana_redlund@fas.harvard.edu",
       "research_summary": "Studies how animals adapt to ecological niches through specialized sensory systems, focusing on signal transduction, ion channel biophysics and evolution.",
-      "member_count": 24,
+      "member_count": 22,
       "member_breakdown": {
         "pi": 1,
-        "postdocs": 10,
+        "postdocs": 11,
         "grad_students": 0,
-        "undergrads": 9,
+        "undergrads": 8,
         "research_staff": 1,
         "admin": 1,
-        "other": 2
+        "other": 0
       },
-      "members_page_url": "https://www.mcb.harvard.edu/resources/directory/?lab=48",
+      "members_page_url": "https://www.bellonolab.com/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/nicholas-bellono/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Office location not on profile. Undergrad count includes Northeastern co-op interns and visiting undergrad fellows; other = Fellow and Society of Fellows Junior Fellow. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Office location not on profile. Undergrad count includes Northeastern co-op interns and visiting undergrad fellows; other = Fellow and Society of Fellows Junior Fellow. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Member count and breakdown updated from the lab's own people page (https://www.bellonolab.com/people), current members only (a clearly separate 'Lab Alumni' section, including two Undergraduates sub-lists, was excluded): PI, 11 postdoctoral fellows, 1 lab administrator (Diana Redlund), 1 aquatics facility manager, 2 visiting undergrad fellows, 2 Harvard undergrads, 4 Northeastern co-op undergrads. Differs slightly from the MCB directory count (24); own lab site taken as more current. No join/positions page found."
     },
     {
       "id": "harvard-mcb-jeeyun-chung",
@@ -64,10 +64,10 @@
         "other": 0
       },
       "members_page_url": "https://www.mcb.harvard.edu/resources/directory/?lab=31",
-      "join_page_url": null,
-      "join_notes": null,
+      "join_page_url": "https://www.jeeyunchunglab.org/",
+      "join_notes": "Lab homepage: grad students must first be admitted to a Harvard PhD program, then email the PI about a rotation; postdocs email a cover letter, CV and three references; undergrads email a CV and short research-interest statement. No lab-specific online application form.",
       "profile_url": "https://www.mcb.harvard.edu/directory/jeeyun-chung/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Admin is shared with Hunter, Nett and Needleman labs. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Admin is shared with Hunter, Nett and Needleman labs. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own /team page returns 404 (no roster found there); homepage gave the join instructions above. PI email and address on the homepage match the MCB directory record."
     },
     {
       "id": "harvard-mcb-philippe-cluzel",
@@ -97,7 +97,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/philippe-cluzel/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Admin (shared) taken from MCB lab directory. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Admin (shared) taken from MCB lab directory. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own website returns HTTP 403 'Access Denied' (Akamai) from this scraping environment, confirmed via both a plain HTTP request and headless Chromium (independent of User-Agent) -- could not be read this pass. Same pattern as the documented arp.harvard.edu issue; likely an IP/network-level block on several individual-PI *.fas.harvard.edu / *.oeb.harvard.edu / *.med.harvard.edu / projects.iq.harvard.edu sites, not something fixable from this tool."
     },
     {
       "id": "harvard-mcb-victoria-dsouza",
@@ -127,7 +127,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/victoria-dsouza/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Other = 3 Associates and 1 Fellow. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Other = 3 Associates and 1 Fellow. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own /members page returns 404. Homepage has an unlinked 'Interested in joining the D'Souza Lab?' heading with no further instructions visible; PI email and office match the MCB directory record."
     },
     {
       "id": "harvard-mcb-vlad-denic",
@@ -157,7 +157,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/vladimir-denic/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Research assistant and admin shared with other labs. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Research assistant and admin shared with other labs. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own site (deniclab.com) renders only the title 'DENIC LAB' with no further content, even after full-page JS rendering; likely a single-page app that needs additional interaction/subpages not found this pass."
     },
     {
       "id": "harvard-mcb-catherine-dulac",
@@ -187,7 +187,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/catherine-dulac/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Other = 9 Associates, 2 Fellows, 1 visiting intern, 1 Junior Fellow. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Other = 9 Associates, 2 Fellows, 1 visiting intern, 1 Junior Fellow. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own /people page returns 404 (Wix site). Homepage lists a phone number, 617-495-2986, different from the PI office number on file -- likely the lab's general line rather than the PI's office extension; left pi/admin fields as recorded. No roster or join info found on the lab site."
     },
     {
       "id": "harvard-mcb-sean-eddy",
@@ -214,10 +214,10 @@
         "other": 1
       },
       "members_page_url": "https://www.mcb.harvard.edu/resources/directory/?lab=10",
-      "join_page_url": null,
-      "join_notes": null,
+      "join_page_url": "http://eddylab.org/",
+      "join_notes": "Lab homepage: grad students join via rotation through the Harvard SSQBio, MCO or Biophysics PhD programs. Postdocs should contact the PI with an independent funding proposal; as of this page's current wording, the lab has no funding for new postdocs because of a federal funding freeze to Harvard.",
       "profile_url": "https://www.mcb.harvard.edu/directory/sean-eddy/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own /people page returns 403 Forbidden directly from the lab's Apache server (not the Akamai block seen elsewhere) -- no roster found. Homepage also lists sean@eddylab.org as a contact address alongside the PI's seaneddy@fas.harvard.edu on file."
     },
     {
       "id": "harvard-mcb-carolyn-elya",
@@ -247,7 +247,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/carolyn-elya/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Other = OEB Teaching Fellow. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Other = OEB Teaching Fellow. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab homepage (WordPress) mentions an open Northeastern co-op position (#163354) and 'Come work with us!' but gives no further application details or a people/roster page reachable from the homepage this pass."
     },
     {
       "id": "harvard-mcb-florian-engert",
@@ -277,7 +277,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/florian-engert/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Admin contact is the Research Laboratory Manager. Research staff includes 4 research associates; other = 5 Fellows, 2 Associates. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Admin contact is the Research Laboratory Manager. Research staff includes 4 research associates; other = 5 Fellows, 2 Associates. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. The recorded lab_website (http://labs.mcb.harvard.edu/Engert/) now returns 404 'Not Found' -- appears to be a dead/moved link; MCB directory data used instead. Needs a working lab-site URL to re-check member count and join info."
     },
     {
       "id": "harvard-mcb-cassandra-extavour",
@@ -307,7 +307,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/cassandra-extavour/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Admin count includes 2 lab managers. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Admin count includes 2 lab managers. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own 'Current Lab Members' subpage could not be found at the guessed URL (/people/current-lab-members/ -> 404); homepage nav has separate 'Current Lab Members' and 'Join Us' items whose real slugs weren't resolved this pass. Homepage phone numbers (e.g. lab line 617-496-0983) are in addition to, not a replacement for, the PI's on-file office number."
     },
     {
       "id": "harvard-mcb-ethan-garner",
@@ -337,7 +337,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/ethan-garner/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab website (garnerlab.fas.harvard.edu) timed out on every attempt (plain HTTP and Playwright, both http:// and https://) from this network -- appears to be down, not just slow. MCB directory data is the only count available."
     },
     {
       "id": "harvard-mcb-rachelle-gaudet",
@@ -367,7 +367,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/rachelle-gaudet/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Other = 3 Associates, 1 Junior Fellow. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Other = 3 Associates, 1 Junior Fellow. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own website returns HTTP 403 'Access Denied' (Akamai) from this scraping environment, confirmed via both a plain HTTP request and headless Chromium (independent of User-Agent) -- could not be read this pass. Same pattern as the documented arp.harvard.edu issue; likely an IP/network-level block on several individual-PI *.fas.harvard.edu / *.oeb.harvard.edu / *.med.harvard.edu / projects.iq.harvard.edu sites, not something fixable from this tool."
     },
     {
       "id": "harvard-mcb-marissa-gredler",
@@ -397,7 +397,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/marissa-gredler/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Office and phone not on profile. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Office and phone not on profile. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab homepage is a minimal one-pager (name, one-line research tagline, address); no roster or join info on it, and the 'People' subpage wasn't checked this pass."
     },
     {
       "id": "harvard-mcb-doeke-hekstra",
@@ -427,7 +427,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/doeke-hekstra/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Other = post-bacc student, 2 Fellows, 2 Associates. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Other = post-bacc student, 2 Fellows, 2 Associates. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own website returns HTTP 403 'Access Denied' (Akamai) from this scraping environment, confirmed via both a plain HTTP request and headless Chromium (independent of User-Agent) -- could not be read this pass. Same pattern as the documented arp.harvard.edu issue; likely an IP/network-level block on several individual-PI *.fas.harvard.edu / *.oeb.harvard.edu / *.med.harvard.edu / projects.iq.harvard.edu sites, not something fixable from this tool."
     },
     {
       "id": "harvard-mcb-takao-hensch",
@@ -457,7 +457,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/takao-hensch/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Additional lab members may be at Boston Children's Hospital / IRCN and not in MCB directory. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Additional lab members may be at Boston Children's Hospital / IRCN and not in MCB directory. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own homepage is news/publications only; the 'Lab Members' nav item wasn't followed this pass, so the directory-sourced count stands."
     },
     {
       "id": "harvard-mcb-hopi-hoekstra",
@@ -487,7 +487,7 @@
       "join_page_url": null,
       "join_notes": "Profile states the lab is currently not accepting students.",
       "profile_url": "https://www.mcb.harvard.edu/directory/hopi-hoekstra/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own website returns HTTP 403 'Access Denied' (Akamai) from this scraping environment, confirmed via both a plain HTTP request and headless Chromium (independent of User-Agent) -- could not be read this pass. Same pattern as the documented arp.harvard.edu issue; likely an IP/network-level block on several individual-PI *.fas.harvard.edu / *.oeb.harvard.edu / *.med.harvard.edu / projects.iq.harvard.edu sites, not something fixable from this tool."
     },
     {
       "id": "harvard-mcb-craig-hunter",
@@ -517,7 +517,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/craig-hunter/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. 4 'Associate' entries with unspecified roles. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. 4 'Associate' entries with unspecified roles. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own site (Google Sites) homepage shows only the PI's name/title and research description, no roster; the 'People' nav item wasn't followed this pass."
     },
     {
       "id": "harvard-mcb-daniel-kahne",
@@ -547,7 +547,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/daniel-kahne/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Second lab administrator: Melissa LeGrand (mlegrand@gmwgroup.harvard.edu). Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Second lab administrator: Melissa LeGrand (mlegrand@gmwgroup.harvard.edu). Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Cross-checked against the lab's own people page (https://www.kahnelabharvard.com/people): same roster (PI, lab admin Mike Quinn, faculty assistant Melissa LeGrand, 6 postdocs, 3 grad students, 2 undergrads) plus one list entry with no visible name/role, consistent with member_count=15. No join/positions page found on the lab site."
     },
     {
       "id": "harvard-mcb-ahmad-khalil",
@@ -563,13 +563,21 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Builds synthetic biological systems, including eukaryotic gene-regulation tools and directed-evolution technologies, to understand natural ones.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": "https://www.mcb.harvard.edu/resources/directory/?lab=54",
+      "member_count": 22,
+      "member_breakdown": {
+        "pi": 1,
+        "postdocs": 3,
+        "grad_students": 10,
+        "undergrads": 0,
+        "research_staff": 5,
+        "admin": 0,
+        "other": 3
+      },
+      "members_page_url": "https://khalillab.github.io/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/ahmad-mo-khalil/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. MCB lab directory lists only the PI (lab is likely housed in SEAS/Wyss), so member_count set to null; office and phone not on profile."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. MCB lab directory lists only the PI (lab is likely housed in SEAS/Wyss), so member_count set to null; office and phone not on profile. Member count and breakdown now from the lab's own people page (https://khalillab.github.io/people): PI, 4 research scientists, 1 lab manager, 3 postdocs, 10 PhD students, 3 visiting fellows (current only; separate Former Postdocs/Graduate Students/Undergrads sections excluded). No join/positions info found."
     },
     {
       "id": "harvard-mcb-nancy-kleckner",
@@ -599,7 +607,7 @@
       "join_page_url": null,
       "join_notes": "Profile says the lab welcomes new members who want to apply quantitative physics/engineering methods to chromosome biology; contact the PI.",
       "profile_url": "https://www.mcb.harvard.edu/directory/nancy-kleckner/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own website returns HTTP 403 'Access Denied' (Akamai) from this scraping environment, confirmed via both a plain HTTP request and headless Chromium (independent of User-Agent) -- could not be read this pass. Same pattern as the documented arp.harvard.edu issue; likely an IP/network-level block on several individual-PI *.fas.harvard.edu / *.oeb.harvard.edu / *.med.harvard.edu / projects.iq.harvard.edu sites, not something fixable from this tool."
     },
     {
       "id": "harvard-mcb-sam-kunes",
@@ -629,7 +637,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/samuel-kunes/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. MCB lab directory lists only PI and shared admin; lab may have members not listed there. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. MCB lab directory lists only PI and shared admin; lab may have members not listed there. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own website returns HTTP 403 'Access Denied' (Akamai) from this scraping environment, confirmed via both a plain HTTP request and headless Chromium (independent of User-Agent) -- could not be read this pass. Same pattern as the documented arp.harvard.edu issue; likely an IP/network-level block on several individual-PI *.fas.harvard.edu / *.oeb.harvard.edu / *.med.harvard.edu / projects.iq.harvard.edu sites, not something fixable from this tool."
     },
     {
       "id": "harvard-mcb-jeff-lichtman",
@@ -659,7 +667,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/jeff-lichtman/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Second admin: Holly Fulginiti (hfulginiti@fas.harvard.edu). Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Second admin: Holly Fulginiti (hfulginiti@fas.harvard.edu). Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own website returns HTTP 403 'Access Denied' (Akamai) from this scraping environment, confirmed via both a plain HTTP request and headless Chromium (independent of User-Agent) -- could not be read this pass. Same pattern as the documented arp.harvard.edu issue; likely an IP/network-level block on several individual-PI *.fas.harvard.edu / *.oeb.harvard.edu / *.med.harvard.edu / projects.iq.harvard.edu sites, not something fixable from this tool."
     },
     {
       "id": "harvard-mcb-andrew-murray",
@@ -689,7 +697,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/andrew-murray/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Profile lists Linda Kefalas (Program Administrator); MCB lab directory lists Jolene Seme (Faculty Assistant, jolene_seme@fas.harvard.edu). Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Profile lists Linda Kefalas (Program Administrator); MCB lab directory lists Jolene Seme (Faculty Assistant, jolene_seme@fas.harvard.edu). Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own website returns HTTP 403 'Access Denied' (Akamai) from this scraping environment, confirmed via both a plain HTTP request and headless Chromium (independent of User-Agent) -- could not be read this pass. Same pattern as the documented arp.harvard.edu issue; likely an IP/network-level block on several individual-PI *.fas.harvard.edu / *.oeb.harvard.edu / *.med.harvard.edu / projects.iq.harvard.edu sites, not something fixable from this tool."
     },
     {
       "id": "harvard-mcb-venkatesh-murthy",
@@ -719,7 +727,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/venkatesh-murthy/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own homepage (vnmurthylab.org) lists several recent new members by name in its news feed (e.g. Autumn Xu, Caio Martins, Nathan Wu) but has no single current-roster page reachable from the homepage this pass, so it doesn't support a cleaner count than the MCB directory's."
     },
     {
       "id": "harvard-mcb-kazuki-nagashima",
@@ -749,7 +757,7 @@
       "join_page_url": null,
       "join_notes": "Profile: 'We are recruiting at all levels'; directs applicants to the lab website.",
       "profile_url": "https://www.mcb.harvard.edu/directory/kazuki-nagashima/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own /members page returns 404; homepage is a near-empty placeholder beyond nav links. Directory-sourced count and join note stand."
     },
     {
       "id": "harvard-mcb-daniel-needleman",
@@ -779,7 +787,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/daniel-needleman/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab homepage nav has separate 'People' and 'Join us' items that weren't followed this pass (time-boxed); directory-sourced count stands."
     },
     {
       "id": "harvard-mcb-david-nelson",
@@ -839,7 +847,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/ryan-nett/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Office not on profile. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Office not on profile. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own /lab-members page returns 404 (guessed slug); the nav label is 'Lab members' but the real URL wasn't resolved this pass. Directory-sourced count stands."
     },
     {
       "id": "harvard-mcb-maxim-prigozhin",
@@ -869,7 +877,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/maxim-prigozhin/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Office not on profile. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Office not on profile. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own website returns HTTP 403 'Access Denied' (Akamai) from this scraping environment, confirmed via both a plain HTTP request and headless Chromium (independent of User-Agent) -- could not be read this pass. Same pattern as the documented arp.harvard.edu issue; likely an IP/network-level block on several individual-PI *.fas.harvard.edu / *.oeb.harvard.edu / *.med.harvard.edu / projects.iq.harvard.edu sites, not something fixable from this tool."
     },
     {
       "id": "harvard-mcb-sharad-ramanathan",
@@ -896,10 +904,10 @@
         "other": 2
       },
       "members_page_url": "https://www.mcb.harvard.edu/resources/directory/?lab=40",
-      "join_page_url": null,
-      "join_notes": null,
+      "join_page_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/",
+      "join_notes": "Lab page: postdoctoral applicants should email the PI with (i) a CV, (ii) a 1-2 page research statement describing new directions beyond general interest, and (iii) 2-3 references (letters requested later) -- only inquiries including the research statement get a response given application volume. Graduate students should contact the PI and lab members directly about rotation projects.",
       "profile_url": "https://www.mcb.harvard.edu/directory/sharad-ramanathan/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own page (hscrb.harvard.edu/labs/ramanathan-lab) confirms the PI email (sharad@cgr.harvard.edu) and faculty assistant Christopher Doty on file, and separately lists the lab's room as 'Northwest Building, Lab 402' alongside the office location already on record (NW 415.20) -- likely office vs. bench space, not a conflict."
     },
     {
       "id": "harvard-mcb-elena-rivas",
@@ -929,7 +937,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/elena-rivas/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Included despite lecturer title because she runs an independent research group listed on the faculty page. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Included despite lecturer title because she runs an independent research group listed on the faculty page. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab homepage describes the research program and software (R-scape, TORNADO) but the 'people' nav item wasn't followed this pass; directory-sourced count stands."
     },
     {
       "id": "harvard-mcb-naoshige-uchida",
@@ -959,7 +967,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/naoshige-uchida/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Lab's own website returns HTTP 403 'Access Denied' (Akamai) from this scraping environment, confirmed via both a plain HTTP request and headless Chromium (independent of User-Agent) -- could not be read this pass. Same pattern as the documented arp.harvard.edu issue; likely an IP/network-level block on several individual-PI *.fas.harvard.edu / *.oeb.harvard.edu / *.med.harvard.edu / projects.iq.harvard.edu sites, not something fixable from this tool."
     },
     {
       "id": "harvard-mcb-amanda-whipple",
@@ -975,21 +983,21 @@
       "admin_name": "Holly Fulginiti",
       "admin_email": "hfulginiti@fas.harvard.edu",
       "research_summary": "Studies how imprinted non-coding RNAs regulate gene expression in the brain.",
-      "member_count": 7,
+      "member_count": 10,
       "member_breakdown": {
         "pi": 1,
-        "postdocs": 3,
-        "grad_students": 1,
+        "postdocs": 4,
+        "grad_students": 2,
         "undergrads": 0,
         "research_staff": 1,
         "admin": 1,
-        "other": 0
+        "other": 1
       },
-      "members_page_url": "https://www.mcb.harvard.edu/resources/directory/?lab=49",
-      "join_page_url": null,
-      "join_notes": null,
+      "members_page_url": "https://www.whipplelab.com/team",
+      "join_page_url": "https://us.smrtr.io/4KVbp",
+      "join_notes": "As of May 2026 the lab was hiring a Research Assistant I (apply at https://us.smrtr.io/4KVbp) and recruiting postdoctoral fellows in RNA biology (contact the PI); graduate students join via MCB/MCO/PiN rotation, contact Amanda Whipple directly.",
       "profile_url": "https://www.mcb.harvard.edu/directory/amanda-whipple/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Profile lists Holly Fulginiti as admin; MCB lab directory lists Sean Kagugube (seankagugube@fas.harvard.edu). Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Profile lists Holly Fulginiti as admin; MCB lab directory lists Sean Kagugube (seankagugube@fas.harvard.edu). Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Member count and breakdown updated from the lab's own /team page: PI, 1 administrative lab coordinator (Sean Kagugube), 4 postdoctoral fellows, 1 visiting masters student, 2 graduate students (MCO/PiN), 1 research assistant (current only -- a separate 'Former Lab Members' list was excluded). Differs from the MCB directory count (7); own lab site taken as more current."
     },
     {
       "id": "harvard-mcb-haim-sompolinsky",
@@ -1019,7 +1027,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/haim-sompolinsky/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Lab website link is a CBS directory profile. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Lab website link is a CBS directory profile. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. The recorded lab_website is a Center for Brain Science directory bio page, not an independent lab site -- confirms the PI email on file but has no roster or join info beyond what the MCB directory already provided."
     },
     {
       "id": "harvard-mcb-matthew-meselson",
@@ -1071,7 +1079,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/norbert-perrimon/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Affiliate member; lab is at Harvard Medical School. No MCB lab-directory page; member count unavailable."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Affiliate member; lab is at Harvard Medical School. No MCB lab-directory page; member count unavailable. Lab's own website returns HTTP 403 'Access Denied' (Akamai) from this scraping environment, confirmed via both a plain HTTP request and headless Chromium (independent of User-Agent) -- could not be read this pass. Same pattern as the documented arp.harvard.edu issue; likely an IP/network-level block on several individual-PI *.fas.harvard.edu / *.oeb.harvard.edu / *.med.harvard.edu / projects.iq.harvard.edu sites, not something fixable from this tool."
     }
   ],
   "non_lab_people": [
