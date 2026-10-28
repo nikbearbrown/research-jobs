@@ -4,6 +4,8 @@ A directory of research labs in the Boston and Cambridge area: who runs each lab
 
 ## What is here
 
+Agents: start with `CLAUDE.md`.
+
 | Path | What |
 |---|---|
 | `data/sources/<source-id>.json` | One file per department or institute: the listing pages read, the date, every lab found, and people who were checked but are not labs |
