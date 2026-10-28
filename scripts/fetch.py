@@ -14,6 +14,14 @@ Usage:
              path. This is the default when run from the command line.
   --html     Print the path to the cached raw HTML file instead of text.
 
+    python3 scripts/fetch.py --batch urls.txt [--render]
+
+  Batch mode: fetch every URL in urls.txt (one per line) in one process, so
+  the per-host rate limit and robots.txt cache are honoured across all of
+  them. For each URL this also writes the extracted text to
+  cache/_text/<host>/<slug>.txt (easy to Read afterwards) and prints a
+  manifest line "<status>\t<method>\t<text-path-or-> \t<url>".
+
 Cache layout: cache/<host>/<slug-of-path-and-query>.html
 A sibling .meta.json records the url, fetch method and timestamp.
 
@@ -171,14 +179,42 @@ def fetch(url, render=False, force=False):
             "status": status, "method": method, "cached": False, "url": url}
 
 
+def _batch(urls_file, render, force):
+    text_root = CACHE_DIR / "_text"
+    for line in Path(urls_file).read_text().splitlines():
+        url = line.strip()
+        if not url or url.startswith("#"):
+            continue
+        result = fetch(url, render=render, force=force)
+        if result["status"] == "blocked-by-robots":
+            print(f"blocked-by-robots\t-\t-\t{url}")
+            continue
+        if result["text"] is None:
+            print(f"{result['status']}\t{result['method']}\t-\t{url}")
+            continue
+        host = urllib.parse.urlsplit(url).netloc.lower()
+        host_dir = text_root / host
+        host_dir.mkdir(parents=True, exist_ok=True)
+        text_path = host_dir / f"{_slug_for(url)}.txt"
+        text_path.write_text(result["text"], encoding="utf-8")
+        cached_flag = " (cached)" if result["cached"] else ""
+        print(f"{result['status']}{cached_flag}\t{result['method']}\t{text_path}\t{url}")
+
+
 def main():
     args = sys.argv[1:]
     if not args:
         print(__doc__)
         sys.exit(1)
-    url = args[0]
     render = "--render" in args
     force = "--force" in args
+
+    if args[0] == "--batch":
+        urls_file = args[1]
+        _batch(urls_file, render=render, force=force)
+        return
+
+    url = args[0]
     want_html_path = "--html" in args
 
     result = fetch(url, render=render, force=force)
