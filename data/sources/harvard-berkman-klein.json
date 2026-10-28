@@ -1,0 +1,145 @@
+{
+  "id": "harvard-berkman-klein",
+  "institution": "Harvard",
+  "unit": "Berkman Klein Center for Internet & Society",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://cyber.harvard.edu/people"
+  ],
+  "labs": [
+    {
+      "id": "harvard-berkman-klein-sandra-cortesi",
+      "kind": "research-lab",
+      "lab_name": "Youth and Media Lab",
+      "pi_name": "Sandra Cortesi",
+      "pi_title": "Director, Youth and Media Lab; Faculty Associate, Berkman Klein Center",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Directs the Youth and Media Lab, researching young people's engagement with digital technology.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://cyber.harvard.edu/getinvolved",
+      "join_notes": "No lab-specific opening listed; BKC's general Get Involved page covers fellowships/openings across the center.",
+      "profile_url": null,
+      "notes": "One of the few named, BKC-internal labs/programs on the People page."
+    },
+    {
+      "id": "harvard-berkman-klein-jeffrey-schnapp",
+      "kind": "research-lab",
+      "lab_name": "metaLAB (at) Harvard",
+      "pi_name": "Jeffrey Schnapp",
+      "pi_title": "Founder/Faculty Director, metaLAB (at) Harvard; Faculty Co-Director, Berkman Klein Center",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Founded and directs metaLAB (at) Harvard, a research and design lab working at the intersection of humanities and technology.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://cyber.harvard.edu/getinvolved",
+      "join_notes": "No lab-specific opening listed; BKC's general Get Involved page covers fellowships/openings across the center.",
+      "profile_url": null,
+      "notes": "Named BKC-affiliated lab."
+    },
+    {
+      "id": "harvard-berkman-klein-martin-wattenberg",
+      "kind": "research-lab",
+      "lab_name": "Insight + Interaction Lab",
+      "pi_name": "Martin Wattenberg",
+      "pi_title": "Professor, Harvard (co-lead, Insight + Interaction Lab)",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Co-leads the Insight + Interaction Lab with Fernanda Viégas, researching data visualization and human-AI interaction.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://cyber.harvard.edu/getinvolved",
+      "join_notes": "No lab-specific opening listed; BKC's general Get Involved page covers fellowships/openings across the center.",
+      "profile_url": null,
+      "notes": "Co-led with Fernanda Viégas (also listed on the BKC People page); named BKC-affiliated lab."
+    },
+    {
+      "id": "harvard-berkman-klein-lauren-bridges",
+      "kind": "research-lab",
+      "lab_name": "Digital Technology and Democracy Lab",
+      "pi_name": "Lauren Bridges",
+      "pi_title": "Assistant Professor; Faculty Co-Lead, Digital Technology and Democracy Lab",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Co-leads the Digital Technology and Democracy Lab.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://cyber.harvard.edu/getinvolved",
+      "join_notes": "No lab-specific opening listed; BKC's general Get Involved page covers fellowships/openings across the center.",
+      "profile_url": null,
+      "notes": "Named BKC-affiliated lab; home department not stated on this page."
+    }
+  ],
+  "non_lab_people": [
+    {
+      "name": "Jonathan Zittrain",
+      "title": "Faculty Director, Berkman Klein Center; George Bemis Professor of International Law",
+      "email": null,
+      "why": "Center leadership/general faculty director, not a single named lab on this page."
+    },
+    {
+      "name": "William Fisher",
+      "title": "Faculty Co-Director, Berkman Klein Center; WilmerHale Professor of IP Law, HLS",
+      "email": null,
+      "why": "Center leadership, not a single named lab on this page."
+    },
+    {
+      "name": "Yochai Benkler",
+      "title": "Faculty Co-Director, Berkman Klein Center; Professor, Harvard Law",
+      "email": null,
+      "why": "Center leadership, not a single named lab on this page."
+    },
+    {
+      "name": "Alex Pascal",
+      "title": "Executive Director, Berkman Klein Center",
+      "email": null,
+      "why": "Administrative/operations leadership, not a research PI."
+    },
+    {
+      "name": "Katy Doyle",
+      "title": "Managing Director, Berkman Klein Center",
+      "email": null,
+      "why": "Administrative/operations role."
+    },
+    {
+      "name": "Jon Murley",
+      "title": "Administrative Director, Berkman Klein Center",
+      "email": null,
+      "why": "Administrative role."
+    },
+    {
+      "name": "Greg Leppert",
+      "title": "Chief Technologist, Berkman Klein Center",
+      "email": null,
+      "why": "Technology/operations role."
+    }
+  ],
+  "notes": "The People page lists roughly 440 Faculty Associates, Affiliates and Fellows, the large majority with their primary appointment at other universities (not Harvard) and no email shown (bios only; the page's only contact emails are the general press@cyber.harvard.edu / hello@cyber.harvard.edu). Per CLAUDE.md's rule for policy centers ('the unit is the organization or one of its programs'), this file records BKC's own named internal labs/programs with a clear lead (Youth and Media Lab, metaLAB, Insight + Interaction Lab, Digital Technology and Democracy Lab) plus center leadership, rather than all ~440 external affiliates -- cataloguing every affiliate individually would mostly restate other institutions' own faculty pages with no BKC-specific contact info. Other named programs noticed but not given their own entry here for lack of a page-stated lead role: Applied Social Media Lab, Institute for Rebooting Social Media, Program on Behavioral Economics and Public Policy (Cass Sunstein), Social Economics Lab (Stefanie Stantcheva) -- these may deserve their own lab entries on a closer re-read. General contact: hello@cyber.harvard.edu, (617) 495-7547. Get involved / fellowships page: https://cyber.harvard.edu/getinvolved (also current hiring posting at https://cyber.harvard.edu/getinvolved/hiring-bkcs-director-research). Status: partial -- breadth pass done, but the ~440-person page was not exhaustively catalogued."
+}

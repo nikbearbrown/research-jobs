@@ -1,0 +1,13 @@
+{
+  "id": "harvard-hsph",
+  "institution": "Harvard",
+  "unit": "Harvard T.H. Chan School of Public Health",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://hsph.harvard.edu/profiles/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The 'Faculty and Researcher Profiles' page fetched fine (HTTP 200, no Akamai block) but is a JS-driven search/filter app wired to an internal API — the rendered page (both plain HTTP and Playwright) only shows navigation chrome and a search box, no actual profile listing, even after Playwright waited for networkidle. HSPH has many departments (Epidemiology, Biostatistics, Genetics and Complex Diseases, Environmental Health, Immunology and Infectious Diseases, Nutrition, Social and Behavioral Sciences, etc.) each likely needing its own department-specific URL or the underlying search API rather than this generic /profiles/ page. Not attempted further in this pass; needs someone to find the actual per-department listing URLs (e.g. from hsph.harvard.edu's 'Academic Departments' nav) or the search API's query format before this can be read."
+}

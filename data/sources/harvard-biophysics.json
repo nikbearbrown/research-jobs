@@ -1,0 +1,14 @@
+{
+  "id": "harvard-biophysics",
+  "institution": "Harvard",
+  "unit": "Biophysics Program",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://biophysics.fas.harvard.edu/",
+    "https://biophysics.fas.harvard.edu/people"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Both https://biophysics.fas.harvard.edu/ and https://biophysics.fas.harvard.edu/people return an Akamai 'Access Denied' (not robots.txt, not UA-based) from this network, consistent with the broader *.fas.harvard.edu block documented in CLAUDE.md. Could not read faculty/people list; needs a different egress network."
+}

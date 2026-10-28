@@ -1,0 +1,62 @@
+{
+  "id": "harvard-ciqm",
+  "institution": "Harvard",
+  "unit": "Center for Integrated Quantum Materials",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://ciqm.harvard.edu/",
+    "https://ciqm.harvard.edu/faculty-and-research-scientists.html"
+  ],
+  "labs": [
+    {
+      "id": "harvard-ciqm-robert-westervelt",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Robert Westervelt",
+      "pi_title": "Director, CIQM",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Directs the NSF Center for Integrated Quantum Materials, studying extraordinary quantum materials for sensing, communication and computation.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "CIQM homepage names Westervelt as PI/Director; the 'Faculty and Research Scientists' roster page did not render any participant list in either plain-HTTP or Playwright fetch (old Weebly site, content likely behind JS/iframe not captured). Also directs harvard-cns (same Director)."
+    }
+  ],
+  "non_lab_people": [
+    {
+      "name": "Tina Brower-Thomas",
+      "title": "Co-PI, CIQM",
+      "email": null,
+      "why": "Named as Co-PI on the homepage but no further profile/lab info found on this page."
+    },
+    {
+      "name": "Kim Jones",
+      "title": "Co-PI, CIQM",
+      "email": null,
+      "why": "Named as Co-PI on the homepage but no further profile/lab info found on this page."
+    },
+    {
+      "name": "Raymond Ashoori",
+      "title": "Co-PI, CIQM",
+      "email": null,
+      "why": "Named as Co-PI on the homepage (MIT physics); his own lab belongs under an MIT target, not Harvard."
+    },
+    {
+      "name": "David Sittenfeld",
+      "title": "Co-PI, CIQM",
+      "email": null,
+      "why": "Named as Co-PI on the homepage (Museum of Science, Boston, education lead), not a research PI."
+    }
+  ],
+  "notes": "CIQM's faculty/research-scientist roster page (a Weebly-era subsite) did not extract any participant names via scripts/fetch.py, plain or rendered -- only the homepage's PI/Co-PI list was readable. Status: partial."
+}

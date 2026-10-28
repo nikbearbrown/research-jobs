@@ -1,0 +1,14 @@
+{
+  "id": "harvard-astronomy",
+  "institution": "Harvard",
+  "unit": "Department of Astronomy",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://astronomy.fas.harvard.edu/",
+    "https://astronomy.fas.harvard.edu/people"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Both https://astronomy.fas.harvard.edu/ and https://astronomy.fas.harvard.edu/people return an Akamai 'Access Denied' (not robots.txt, not UA-based) from this network, consistent with the broader *.fas.harvard.edu block documented in CLAUDE.md. Could not read faculty/people list; needs a different egress network."
+}

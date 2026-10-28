@@ -1,0 +1,80 @@
+{
+  "id": "harvard-hdsi",
+  "institution": "Harvard University",
+  "unit": "Harvard Data Science Initiative",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://datascience.harvard.edu/people/"
+  ],
+  "labs": [],
+  "non_lab_people": [
+    {
+      "name": "Francesca Dominici",
+      "title": "Faculty Director, Harvard Data Science Initiative",
+      "email": null,
+      "why": "HDSI leadership/staff, not a PI-led lab of HDSI's own (she has her own biostatistics research group at HSPH, covered separately if/when that target is scraped)."
+    },
+    {
+      "name": "Stratos Idreos",
+      "title": "Faculty Co-Director, HDSI; Gordon McKay Professor of Computer Science",
+      "email": null,
+      "why": "HDSI leadership/staff; his own CS lab is at SEAS, not HDSI."
+    },
+    {
+      "name": "Xiao-Li Meng",
+      "title": "Editor-in-Chief, Harvard Data Science Review",
+      "email": null,
+      "why": "HDSI/HDSR editorial leadership, not a PI-led lab of HDSI's own."
+    },
+    {
+      "name": "Catherine Adcock",
+      "title": "Program Coordinator, HDSI",
+      "email": null,
+      "why": "Program staff."
+    },
+    {
+      "name": "Michelle Audirac",
+      "title": "Senior Data Scientist, HDSI",
+      "email": null,
+      "why": "Program staff."
+    },
+    {
+      "name": "Jennifer Chow",
+      "title": "Director of External Engagement, HDSI",
+      "email": null,
+      "why": "Program staff."
+    },
+    {
+      "name": "Amara Deis",
+      "title": "Administrative and Editorial Coordinator, Harvard Data Science Review",
+      "email": null,
+      "why": "Program staff."
+    },
+    {
+      "name": "Kevin Doyle",
+      "title": "Assistant Director of Programs and Operations, HDSI",
+      "email": null,
+      "why": "Program staff."
+    },
+    {
+      "name": "Erin Kiesewetter",
+      "title": "Program Coordinator, HDSI",
+      "email": null,
+      "why": "Program staff."
+    },
+    {
+      "name": "Elizabeth Langdon-Gray",
+      "title": "Executive Director, HDSI",
+      "email": null,
+      "why": "Program staff."
+    },
+    {
+      "name": "Rebecca McLeod",
+      "title": "Managing Director, Harvard Data Science Review",
+      "email": null,
+      "why": "Program staff."
+    }
+  ],
+  "notes": "HDSI is a cross-school hub, not a department with its own PI-led labs: its 'Faculty Affiliates' list is 177 names long, but each is an independent PI whose own lab is based in (and should be recorded under) their home department/school (e.g. Adam Cohen and Joanna Aizenberg -> Harvard Chemistry, already in data/sources/harvard-chemistry.json; Sean Eddy -> Harvard MCB, already in data/sources/harvard-mcb.json). Recording them again here would duplicate those entries under the wrong institution. Only HDSI's own core staff/leadership are recorded, as non_lab_people. Postdoctoral and visiting fellows (not independent PIs) are also not individually recorded."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "harvard-hqi",
+  "institution": "Harvard University",
+  "unit": "Harvard Quantum Initiative",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://quantum.harvard.edu/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "quantum.harvard.edu returns an Akamai 'Access Denied' from this network (same pattern as other blocked harvard.edu sites). Could not read any page -- unread, status should stay partial/todo for a retry from a different network."
+}

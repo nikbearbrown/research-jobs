@@ -1,0 +1,13 @@
+{
+  "id": "harvard-herbaria",
+  "institution": "Harvard University",
+  "unit": "Harvard University Herbaria",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "http://www.huh.harvard.edu/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "www.huh.harvard.edu returns an Akamai 'Access Denied' from this network (same pattern as other blocked harvard.edu sites). Could not read any page. Note: its director, Jeannine Cavender-Bares, is already recorded in data/sources/harvard-forest.json (harvard-forest-jeannine-cavender-bares) -- unread, status should stay partial/todo for a retry from a different network."
+}

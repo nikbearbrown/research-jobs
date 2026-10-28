@@ -1,0 +1,13 @@
+{
+  "id": "harvard-cbs",
+  "institution": "Harvard",
+  "unit": "Center for Brain Science",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://cbs.fas.harvard.edu/people/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "CBS's Faculty list (92 names) is almost entirely PIs who are primary faculty in other Harvard departments (MCB, Physics, SEAS, Psychology, OEB, etc.) with CBS as a secondary/shared-facility affiliation; several (Chung, Dulac, Eddy, Elya, Engert, Gaudet, Hensch, Hoekstra, Kunes, Lichtman, Murthy, Park, Ramanathan, Sompolinsky, Uchida, Whipple) already have their own entries in data/sources/harvard-mcb.json or ragon.json. Rather than duplicate 92 PIs here with no new CBS-specific information (the page gives no per-PI email/lab link, just names), this target is left with an empty labs list; CBS's own non-faculty neuroimaging/neuroengineering staff (Daniel Asay, Mark Eldaief, Yuwei Li, Dotty Lukas, Ross Mair, Timothy O'Keefe, Jenn Segawa, Edward Soucy, Caroline West, Larry White) and leadership (Venkatesh Murthy, Director; Kenneth Blum, Executive Director) are facility staff, not separate PI-led labs. General contact: cbs@fas.harvard.edu, 617-495-9765. Recommend leaving this target 'partial' and cross-referencing CBS-affiliated PIs from their home-department source files rather than re-scraping here."
+}

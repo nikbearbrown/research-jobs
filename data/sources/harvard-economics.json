@@ -1,0 +1,13 @@
+{
+  "id": "harvard-economics",
+  "institution": "Harvard",
+  "unit": "Department of Economics",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.economics.harvard.edu/our-people"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "https://www.economics.harvard.edu/our-people returns an Akamai 'Access Denied' from this network, same pattern as astronomy/biophysics above. Could not read faculty list."
+}

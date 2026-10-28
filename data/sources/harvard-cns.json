@@ -1,0 +1,49 @@
+{
+  "id": "harvard-cns",
+  "institution": "Harvard",
+  "unit": "Center for Nanoscale Systems",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "http://cns.fas.harvard.edu/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-cns-robert-westervelt",
+      "kind": "core-facility",
+      "lab_name": null,
+      "pi_name": "Robert Westervelt",
+      "pi_title": "Director, CNS",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Directs the Center for Nanoscale Systems, a shared-use core facility for nanofabrication, imaging and analysis of nanoscale structures.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "CNS is a shared-use core facility (cleanroom/imaging), not a PI-led research lab; listed here as the facility's core-facility entry per schema. Same Director as harvard-ciqm."
+    }
+  ],
+  "non_lab_people": [
+    {
+      "name": "William Wilson",
+      "title": "Executive Director, CNS",
+      "email": "wwilson@cns.fas.Harvard.edu",
+      "why": "wwilson@cns.fas.Harvard.edu"
+    },
+    {
+      "name": "Ling Xie",
+      "title": "CNS staff (nanofabrication)",
+      "email": "lxie@cns.fas.Harvard.edu",
+      "why": "Facility staff contact, not a PI."
+    }
+  ],
+  "notes": "CNS homepage read; it's a shared instrument/service center with no PI-led labs of its own (users are PIs from other departments). Status: done."
+}

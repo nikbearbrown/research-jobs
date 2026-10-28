@@ -1,0 +1,13 @@
+{
+  "id": "harvard-huce",
+  "institution": "Harvard",
+  "unit": "Harvard University Center for the Environment",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://environment.harvard.edu/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Fetched both via plain HTTP and headless Chromium; got an Akamai 'Access Denied' page both ways (not a robots.txt block, not UA-specific) — same pattern already documented in CLAUDE.md for arp.harvard.edu and several *.fas.harvard.edu personal sites, but seen here on environment.harvard.edu during this session, which is new. This looks like it may currently be a broader, possibly network/egress-wide Akamai block across many harvard.edu subdomains rather than a small fixed list of sites: the same session also got Access Denied on environment.harvard.edu, www.iq.harvard.edu, lppc.physics.harvard.edu, www.mcz.harvard.edu, msi.harvard.edu and www.oeb.harvard.edu, while math.harvard.edu and kempnerinstitute.harvard.edu worked fine in the same run. Recommend retrying from a different egress network before concluding these specific sites are permanently blocked."
+}

@@ -18,9 +18,9 @@ Agents: start with `CLAUDE.md`.
 | `scripts/build.py` | Rebuilds `labs.json` and `labs.csv` from the source files |
 | `CONVENTIONS.md` | Naming and data rules |
 
-## Coverage (2026-10-27)
+## Coverage (2026-10-28)
 
-`data/to-read.txt` is now empty — the 121 known lab sites queued there have all been read. 164 labs so far, 136 with a PI email.
+`data/to-read.txt` is empty. `data/targets.csv` priority-1 work has started with all of Harvard University + Harvard FAS (37 targets): 508 labs so far, 288 with a PI email.
 
 | Source | Labs | Small (≤10) | Medium (11–20) | Large (>20) | Size unknown |
 |---|---|---|---|---|---|
@@ -30,10 +30,13 @@ Agents: start with `CLAUDE.md`.
 | Whitehead Institute (Members, Fellows, AI Fellow) | 24 | 4 | 5 | 3 | 12 |
 | Rowland Institute (Fellows) | 8 | 8 | 0 | 0 | 0 |
 | Ragon Institute | 28 | 10 | 10 | 4 | 4 |
+| Harvard University + Harvard FAS, 16 targets done this round (SEAS, HSCRB, Wyss, Kempner, Government, Math, EPS, Arboretum, Forest, Berkman Klein, CNS, CIQM, CMSA, HDSI, Opportunity Insights, Salata) | 344 | 0 | 0 | 1 | 343 |
 
-Harvard Chemistry, Harvard MCB and MIT Chemistry now have a PI email for every lab (from each department's own directory/profile pages); Ragon's are mostly Cloudflare-obfuscated on the institute's lab pages, so only 5 of 28 are confirmed (see `notes` for unverified decoded guesses). Whitehead's Gerald Fink is listed under `non_lab_people` (retired, no active group) rather than as a lab. Remaining "unknown" sizes are each explained in that lab's `notes`: a broader-than-expected Akamai block on personal `*.fas.harvard.edu`/`*.oeb.harvard.edu`/`projects.iq.harvard.edu` sites, a handful of `wi.mit.edu`-hosted Whitehead lab sites that return a robot-challenge screen, dead/placeholder pages, and a couple of JS roster carousels whose roles couldn't be mapped to names. Rowland Fellows run independent groups of one to three people; their counts come from the institute directory and may undercount.
+Harvard Chemistry, Harvard MCB and MIT Chemistry now have a PI email for every lab (from each department's own directory/profile pages); Ragon's are mostly Cloudflare-obfuscated on the institute's lab pages, so only 5 of 28 are confirmed (see `notes` for unverified decoded guesses). Whitehead's Gerald Fink is listed under `non_lab_people` (retired, no active group) rather than as a lab. The 16 newest sources are breadth passes from each site's own directory — names, titles and (for SEAS/Kempner) some emails are in, but lab websites, member counts and join info are still a later per-PI pass. Several (CMSA, HDSI, Salata, parts of CBS) are cross-cutting hubs whose "faculty" are PIs based in other departments, so those were deliberately left thin rather than duplicated — see each file's `notes`.
 
-Everything in `data/targets.csv` (638 rows, priority 1 onward) is still `todo` — that's the next phase of work.
+Remaining "unknown" sizes are each explained in that lab's `notes`. The big one this round: the Akamai "Access Denied" block first seen on `arp.harvard.edu` turned out to hit a much wider, and apparently shifting, set of `harvard.edu` subdomains from this network — whole departments (`physics`, `psychology.fas`, `sociology.fas`, `statistics.fas`, `astronomy.fas`, `biophysics.fas`, `economics`, `heb.fas`, `huh` (Herbaria), `quantum` (HQI), `hsci`, `environment` (HUCE), `iq` (IQSS), `lppc.physics`, `mcz`, `msi`, `oeb`, `origins`) returned it this session even though sibling sites (`math.harvard.edu`, `kempnerinstitute.harvard.edu`) worked fine in the same run — see CLAUDE.md's Known gotchas. 19 of this round's 37 Harvard targets are `partial` for exactly this reason and need a retry from a different egress network, not more scraping effort from here. `wi.mit.edu`-hosted Whitehead lab sites that return a robot-challenge screen, dead/placeholder pages, and a couple of JS roster carousels whose roles couldn't be mapped to names account for the rest. Rowland Fellows run independent groups of one to three people; their counts come from the institute directory and may undercount.
+
+`data/targets.csv`: 37 of 392 priority-1 rows attempted so far (16 `done`, 21 `partial` — mostly the Akamai issue above). The rest of Harvard HMS/HSPH/HSDM/SEAS-adjacent, then MIT, Broad/Whitehead/Ragon/Wyss/Koch/McGovern/Picower/Kempner, BU, Northeastern, Tufts, Brandeis, BC, UMass Boston and hospitals are still `todo`.
 
 ## How a lab is classified
 

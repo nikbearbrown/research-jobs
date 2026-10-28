@@ -1,0 +1,285 @@
+{
+  "id": "harvard-arboretum",
+  "institution": "Harvard",
+  "unit": "Arnold Arboretum",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://arboretum.harvard.edu/",
+    "https://arboretum.harvard.edu/research/",
+    "https://arboretum.harvard.edu/research/our-scientists/?view=arboretum-scientists"
+  ],
+  "labs": [
+    {
+      "id": "harvard-arboretum-benton-taylor",
+      "kind": "research-lab",
+      "lab_name": "Taylor Lab",
+      "pi_name": "Benton Taylor",
+      "pi_title": "John L. Loeb Associate Professor of the Natural Sciences; Faculty Fellow of the Arnold Arboretum",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Studies how plants respond to and influence their environment, particularly global change, from the individual to ecosystem scale.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Arnold Arboretum 'Our Scientists' page read; primary appointment/lab likely in Harvard OEB (separate target harvard-oeb, not yet scraped)."
+    },
+    {
+      "id": "harvard-arboretum-elena-kramer",
+      "kind": "research-lab",
+      "lab_name": "Kramer Lab",
+      "pi_name": "Elena Kramer",
+      "pi_title": "Dean of Science Education; Bussey Professor of Organismic and Evolutionary Biology; Faculty Fellow of the Arnold Arboretum",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Studies the evolution of plant developmental genetics, with a particular focus on floral evolution.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Arnold Arboretum 'Our Scientists' page read; primary appointment/lab likely in Harvard OEB (separate target harvard-oeb, not yet scraped)."
+    },
+    {
+      "id": "harvard-arboretum-gary-hilderbrand",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Gary Hilderbrand",
+      "pi_title": "Chair, Department of Landscape Architecture; Peter Louis Hornbeck Professor in Practice of Landscape Architecture; Faculty Fellow of the Arnold Arboretum",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Landscape architect focused on the urban forest canopy; founding principal of Reed Hilderbrand, a landscape architecture practice.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "A design practice, not a science lab with a member roster; included as a Faculty Fellow per the page. Primary appointment at Harvard GSD."
+    },
+    {
+      "id": "harvard-arboretum-jeannine-cavender-bares",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Jeannine Cavender-Bares",
+      "pi_title": "Climate Action Acceleration Professor of Organismic and Evolutionary Biology; Director, Harvard University Herbaria; Faculty Fellow of the Arnold Arboretum",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Plant physiological ecologist studying how evolutionary history of plant function shapes ecosystem processes, using spectral biology approaches.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Also directs Harvard University Herbaria (separate target harvard-herbaria, not yet scraped) and chairs the Harvard Forest Leadership Committee."
+    },
+    {
+      "id": "harvard-arboretum-michele-holbrook",
+      "kind": "research-lab",
+      "lab_name": "Holbrook Lab",
+      "pi_name": "N. Michele Holbrook",
+      "pi_title": "Professor of Organismic and Evolutionary Biology; Charles Bullard Professor of Forestry; Faculty Fellow of the Arnold Arboretum",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "The Holbrook lab studies how transport of water and solutes through the plant vascular system influences ecological, evolutionary and physiological processes.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Primary appointment/lab likely in Harvard OEB (separate target, not yet scraped)."
+    },
+    {
+      "id": "harvard-arboretum-robin-hopkins",
+      "kind": "research-lab",
+      "lab_name": "Hopkins Lab",
+      "pi_name": "Robin Hopkins",
+      "pi_title": "Professor of Organismic and Evolutionary Biology; Faculty Fellow of the Arnold Arboretum",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "The Hopkins lab studies natural selection and speciation using color variation in Phlox, focusing on reproductive incompatibility between emerging species.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Primary appointment/lab likely in Harvard OEB (separate target, not yet scraped)."
+    },
+    {
+      "id": "harvard-arboretum-ned-friedman",
+      "kind": "research-lab",
+      "lab_name": "Friedman Lab",
+      "pi_name": "William (Ned) Friedman",
+      "pi_title": "Arnold Professor of Organismic and Evolutionary Biology; Director of the Arnold Arboretum; Faculty Fellow of the Arnold Arboretum",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "The Friedman lab studies organismic interfaces between developmental, phylogenetic and evolutionary biology, and how development shapes plant morphology and reproduction.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Director of the Arnold Arboretum overall; primary appointment/lab likely in Harvard OEB (separate target, not yet scraped)."
+    }
+  ],
+  "non_lab_people": [
+    {
+      "name": "Faye Rosin",
+      "title": "Director of Research Facilitation, Arnold Arboretum",
+      "email": null,
+      "why": "Institute research-support staff role, not an independent PI."
+    },
+    {
+      "name": "Peter Del Tredici",
+      "title": "Senior Research Scientist Emeritus, Arnold Arboretum",
+      "email": null,
+      "why": "Emeritus; no active lab/group shown on the page."
+    },
+    {
+      "name": "Michael Dosmann",
+      "title": "Keeper of Living Collections, Arnold Arboretum",
+      "email": null,
+      "why": "Collections-management staff role, not an independent PI."
+    },
+    {
+      "name": "Alaina Bisson",
+      "title": "Graduate Student, OEB, Taylor Lab",
+      "email": null,
+      "why": "Student, not a PI."
+    },
+    {
+      "name": "Calvin Heslop",
+      "title": "Graduate Student, OEB, Taylor Lab",
+      "email": null,
+      "why": "Student, not a PI."
+    },
+    {
+      "name": "Carina Berlingeri",
+      "title": "Graduate Student, OEB, Taylor Lab",
+      "email": null,
+      "why": "Student, not a PI."
+    },
+    {
+      "name": "Christina Steinecke",
+      "title": "Graduate Student, OEB, Hopkins Lab",
+      "email": null,
+      "why": "Student, not a PI."
+    },
+    {
+      "name": "Daniel Faccini",
+      "title": "Graduate Student, OEB, Friedman Lab",
+      "email": null,
+      "why": "Student, not a PI."
+    },
+    {
+      "name": "Eve Farrell",
+      "title": "Graduate Student, OEB, Taylor Lab",
+      "email": null,
+      "why": "Student, not a PI."
+    },
+    {
+      "name": "Gabe Effiong",
+      "title": "Graduate Student, OEB, Hopkins Lab",
+      "email": null,
+      "why": "Student, not a PI."
+    },
+    {
+      "name": "Lauren Jaeger",
+      "title": "Research Assistant, OEB, Taylor Lab",
+      "email": null,
+      "why": "Staff/RA role, not a PI."
+    },
+    {
+      "name": "Lindsey Adams",
+      "title": "Research Assistant, Friedman Lab and Weld Hill Labs",
+      "email": null,
+      "why": "Staff/RA role, not a PI."
+    },
+    {
+      "name": "Mansa Srivastav",
+      "title": "2025 Global Change Fellow",
+      "email": null,
+      "why": "Fellow, not an independent PI."
+    },
+    {
+      "name": "Michael LaScaleia",
+      "title": "2024 Putnam Fellow",
+      "email": null,
+      "why": "Fellow, not an independent PI."
+    },
+    {
+      "name": "My Trinh",
+      "title": "Graduate Student, OEB, Friedman Lab",
+      "email": null,
+      "why": "Student, not a PI."
+    },
+    {
+      "name": "Nikhil Chari",
+      "title": "Graduate Student, OEB, Taylor Lab",
+      "email": null,
+      "why": "Student, not a PI."
+    },
+    {
+      "name": "Patrick McKenzie",
+      "title": "Postdoctoral Fellow, OEB, Hopkins Lab",
+      "email": null,
+      "why": "Postdoc, not a PI."
+    },
+    {
+      "name": "Rosemary Glos",
+      "title": "2026 Putnam Fellow",
+      "email": null,
+      "why": "Fellow, not an independent PI."
+    },
+    {
+      "name": "Valeria Schmidt",
+      "title": "Graduate Student, OEB, Hopkins Lab (via Extavour Lab)",
+      "email": null,
+      "why": "Student, not a PI."
+    }
+  ],
+  "notes": "Homepage has no people page; found the roster via Research > Our Scientists. Several Faculty Fellows' primary labs sit in Harvard OEB/GSD, not yet scraped as their own targets."
+}

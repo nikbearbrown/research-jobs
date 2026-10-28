@@ -1,0 +1,13 @@
+{
+  "id": "harvard-heb",
+  "institution": "Harvard University",
+  "unit": "Department of Human Evolutionary Biology",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://heb.fas.harvard.edu/people"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "heb.fas.harvard.edu/people returns an Akamai 'Access Denied' from this network (confirmed on two attempts, with and without --render) -- same pattern as the other *.fas.harvard.edu blocks already documented in CLAUDE.md. Could not read the faculty list; unread, status should stay partial/todo for a retry from a different network."
+}

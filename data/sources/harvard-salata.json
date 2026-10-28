@@ -1,0 +1,15 @@
+{
+  "id": "harvard-salata",
+  "institution": "Harvard",
+  "unit": "Salata Institute for Climate and Sustainability",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://salatainstitute.harvard.edu/",
+    "https://salatainstitute.harvard.edu/faculty/",
+    "https://salatainstitute.harvard.edu/about/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Not a department of independent PI-led labs: the Salata Institute is a cross-school initiative whose 'Faculty Associates' are climate-relevant faculty from many Harvard departments, each with their own primary lab recorded (or to be recorded) in that department's own source file -- listing them again here would just duplicate those entries without a Salata-specific lab website/contact. The Faculty Associates directory (/faculty/) is a pure JS/AJAX filter with no names in the static or Playwright-rendered HTML (just the filter categories and an empty 'Search results for' placeholder). The institute's own staff ('Our Team', linked as /about/#staff) was not found in the /about/ page's rendered text either -- may be a JS-loaded section lower on the page; not confirmed. No independent lab entries recorded this pass."
+}

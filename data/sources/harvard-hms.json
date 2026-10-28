@@ -1,0 +1,13 @@
+{
+  "id": "harvard-hms",
+  "institution": "Harvard University",
+  "unit": "Harvard Medical School basic science departments",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://hms.harvard.edu/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "hms.harvard.edu itself is a general HMS site, not a single faculty directory -- its nav mentions 'Research Departments, Centers, Initiatives and more' and a 'Blavatnik Institute' as the umbrella for the basic science departments (Biological Chemistry & Molecular Pharmacology, Cell Biology, Genetics, Microbiology, Neurobiology, Systems Biology, Immunology, etc. by general knowledge of HMS's structure -- NOT verified by a page fetch, so none of these are recorded as labs or given URLs here). Attempts to find the actual department-list page failed: hms.harvard.edu/sitemap.xml returns an Incapsula bot-challenge page, and hms.harvard.edu/departments, /departments-centers-offices, /research and /research/departments all hung on Playwright's networkidle wait (likely chat-widget/analytics scripts that never go idle) and timed out. Recommend: (1) splitting this umbrella target into one targets.csv row per actual HMS basic-science department once their real URLs are confirmed (e.g. by searching for 'Blavatnik Institute' department list from a browser), and (2) trying a fetch strategy that doesn't wait for networkidle on hms.harvard.edu pages. status should be 'partial', not 'done'."
+}

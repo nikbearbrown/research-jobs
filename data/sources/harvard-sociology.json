@@ -1,0 +1,13 @@
+{
+  "id": "harvard-sociology",
+  "institution": "Harvard",
+  "unit": "Department of Sociology",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://sociology.fas.harvard.edu/people/faculty"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Entire site returns an Akamai 'Access Denied' from this network (confirmed on both the homepage and https://sociology.fas.harvard.edu/people/faculty, via plain HTTP and headless Chromium) -- same pattern as the other Harvard FAS sites already documented in CLAUDE.md's Known gotchas. Not fixable from here; needs a different egress network to read. No data recorded."
+}

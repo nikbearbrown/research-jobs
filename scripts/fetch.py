@@ -22,6 +22,11 @@ Usage:
   cache/_text/<host>/<slug>.txt (easy to Read afterwards) and prints a
   manifest line "<status>\t<method>\t<text-path-or-> \t<url>".
 
+Extracted text also appends two reference sections after the page's visible
+text: mailto: links (address + nearby link text) and other outbound links
+(link text -> absolute URL) -- useful for spotting a PI's personal/lab site
+or a join/careers page linked from a directory listing.
+
 Cache layout: cache/<host>/<slug-of-path-and-query>.html
 A sibling .meta.json records the url, fetch method and timestamp.
 
@@ -116,18 +121,28 @@ def _fetch_playwright(url):
         return 200, html
 
 
-def html_to_text(html):
+def html_to_text(html, base_url=None):
     from bs4 import BeautifulSoup
 
     soup = BeautifulSoup(html, "lxml")
     mailtos = []
+    outlinks = []
     for a in soup.find_all("a", href=True):
-        href = a["href"]
+        href = a["href"].strip()
+        if not href or href.startswith("#"):
+            continue
         if href.lower().startswith("mailto:"):
             addr = href[7:].split("?")[0].strip()
             label = a.get_text(" ", strip=True)
             if addr:
                 mailtos.append(f"{addr}  (link text: {label!r})" if label else addr)
+            continue
+        if href.lower().startswith(("javascript:", "tel:")):
+            continue
+        label = a.get_text(" ", strip=True)
+        if base_url:
+            href = urllib.parse.urljoin(base_url, href)
+        outlinks.append((label, href))
     for tag in soup(["script", "style", "noscript"]):
         tag.decompose()
     text = soup.get_text("\n")
@@ -141,6 +156,16 @@ def html_to_text(html):
             if m not in seen:
                 seen.add(m)
                 lines.append(m)
+    if outlinks:
+        lines.append("")
+        lines.append("--- other links found on this page, label -> url (match to the nearest name above; personal/lab sites often show up here) ---")
+        seen = set()
+        for label, href in outlinks:
+            key = (label, href)
+            if key in seen:
+                continue
+            seen.add(key)
+            lines.append(f"{label!r} -> {href}" if label else href)
     return "\n".join(lines)
 
 
@@ -151,7 +176,7 @@ def fetch(url, render=False, force=False):
     if not force and html_path.exists() and meta_path.exists():
         html = html_path.read_text(encoding="utf-8", errors="replace")
         meta = json.loads(meta_path.read_text())
-        return {"html": html, "text": html_to_text(html), "cache_path": str(html_path),
+        return {"html": html, "text": html_to_text(html, base_url=url), "cache_path": str(html_path),
                 "status": meta.get("status"), "method": meta.get("method"), "cached": True, "url": url}
 
     if not _robots_allowed(url):
@@ -190,7 +215,7 @@ def fetch(url, render=False, force=False):
     meta = {"url": url, "status": status, "method": method, "fetched_at": time.time()}
     meta_path.write_text(json.dumps(meta, indent=2))
 
-    text = html_to_text(html) if html else None
+    text = html_to_text(html, base_url=url) if html else None
     return {"html": html, "text": text, "cache_path": str(html_path) if html else None,
             "status": status, "method": method, "cached": False, "url": url}
 

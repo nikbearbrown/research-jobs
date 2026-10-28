@@ -1,0 +1,32 @@
+{
+  "id": "harvard-cmsa",
+  "institution": "Harvard",
+  "unit": "Center of Mathematical Sciences and Applications",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://cmsa.fas.harvard.edu/people/"
+  ],
+  "labs": [],
+  "non_lab_people": [
+    {
+      "name": "Dan Freed",
+      "title": "Director, CMSA",
+      "email": "dafr@math.harvard.edu",
+      "why": "dafr@math.harvard.edu"
+    },
+    {
+      "name": "Irene Minder",
+      "title": "Executive Director, CMSA",
+      "email": "irene@math.harvard.edu",
+      "why": "irene@math.harvard.edu"
+    },
+    {
+      "name": "Michael R. Douglas",
+      "title": "Harvard CMSA (research scientist)",
+      "email": "mdouglas@cmsa.fas.harvard.edu",
+      "why": "CMSA is a mathematical-sciences center organized around individual researchers and cross-department affiliates, not PI-led labs with member rosters; no lab site or roster shown."
+    }
+  ],
+  "notes": "CMSA's People page lists ~60 names, the large majority of whom are Faculty Associates whose primary appointment (and, where relevant, their own PI-led lab) is in another Harvard department -- Math, Physics, SEAS, Statistics, Economics, OEB, MCB -- already covered or to be covered by those departments' own targets (e.g. Jeffrey Lichtman -> harvard-mcb, already scraped). CMSA itself does not organize into PI-led labs with members/rosters; its own dedicated researchers (postdocs/research associates such as Douglas, Doran, Dogra, Esfahani, Landesman, Landsittel, Liu, Mori, Nevo, Pesce, Ritzwoller, Verstyuk) are individual mathematicians/physicists without a lab structure. Recording all ~60 names here would duplicate home-department entries with no new information (the page gives name + email + home affiliation only, no research blurb). Left mostly unpopulated; see this note rather than non_lab_people for the full roster. Status: done (page fully read; schema doesn't fit this center)."
+}
