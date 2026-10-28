@@ -1,0 +1,64 @@
+{
+  "id": "tufts-cgph",
+  "institution": "Tufts University",
+  "unit": "Tufts Center for Global Public Health (CGPH)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://sites.tufts.edu/tuftscgph/",
+    "https://sites.tufts.edu/tuftscgph/aboutus/"
+  ],
+  "labs": [
+    {
+      "id": "tufts-cgph-alice-tang",
+      "kind": "research-lab",
+      "lab_name": "Tufts Center for Global Public Health",
+      "pi_name": "Alice Tang",
+      "pi_title": "Director, CGPH; Professor, Department of Public Health and Community Medicine",
+      "pi_email": "alice.tang@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": "Maggie Town (CGPH Administrator)",
+      "admin_email": null,
+      "research_summary": "Studies causes and consequences of nutrition and metabolic abnormalities in people living with HIV, with international research programs and a current focus on health disparities in Asian immigrant populations in the US.",
+      "member_count": 6,
+      "member_breakdown": "1 Director, 1 Associate Director, 3 CGPH Fellows (MD candidates), 1 Administrator; excludes 'Former Team Members' and 'In Memoriam'",
+      "members_page_url": "https://sites.tufts.edu/tuftscgph/aboutus/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth+depth pass from CGPH's own Team page."
+    },
+    {
+      "id": "tufts-cgph-ramnath-subbaraman",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Ramnath Subbaraman",
+      "pi_title": "Associate Director, CGPH; Assistant Professor, Department of Public Health and Community Medicine; Attending Physician, Tufts Medical Center",
+      "pi_email": "ramnath.subbaraman@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Research on improving tuberculosis care delivery in India, digital adherence technologies, and social/environmental determinants of health in urban slums.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://sites.tufts.edu/tuftscgph/aboutus/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Breadth+depth pass from CGPH's own Team page; likely also recorded under tufts-phcm.json (Department of Public Health and Community Medicine)."
+    }
+  ],
+  "non_lab_people": [
+    {"name": "Owen Selden", "title": "CGPH Fellow (MD Candidate)", "email": "Owen.Selden@tufts.edu", "why": "Student fellow, not an independent PI."},
+    {"name": "Pooja Shah", "title": "CGPH Fellow (MD Candidate)", "email": "Pooja_T.Shah@tufts.edu", "why": "Student fellow, not an independent PI."},
+    {"name": "Christine Wanke", "title": "Former Director, CGPH; Professor, Department of Public Health and Community Medicine", "email": null, "why": "Former director, not current leadership."},
+    {"name": "Mkaya Mwamburi", "title": "Founding Director of CGPH (In Memoriam)", "email": null, "why": "Deceased founding director."}
+  ],
+  "notes": "Faculty Associates (cross-appointed from other Tufts departments) were not individually enumerated (see https://sites.tufts.edu/tuftscgph/faculty-associates/) -- their primary labs belong in their home department's source file."
+}

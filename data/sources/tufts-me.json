@@ -1,0 +1,545 @@
+{
+  "id": "tufts-me",
+  "institution": "Tufts University",
+  "unit": "Department of Mechanical Engineering",
+  "city": "Medford, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://engineering.tufts.edu/people/faculty?title=&field_department_tid=37&field_research_interests= (pages 0-7; shared, unfiltered directory across all Tufts School of Engineering departments)"
+  ],
+  "labs": [
+    {
+      "id": "tufts-me-tong-gao",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Tong Gao",
+      "pi_title": "Associate Professor",
+      "pi_email": "tong.gao@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Tong (Tony) Gao conducts research across fluid mechanics, soft matter, and materials using mathematical modeling and simulation. His work explores fluid-structure interactions to reveal fundamental mechanisms in complex fluid-solid systems and drive innovations in energy conversion, robotics, and biomedical applications. He specializes in developing and integrating high-performance computational tools for large-scale simulations, enabling multiscale modeling and analysis.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://engineering.tufts.edu/me/people/faculty/tong-gao",
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+    },
+    {
+      "id": "tufts-me-jeffrey-guasto",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Jeffrey Guasto",
+      "pi_title": "Professor",
+      "pi_email": "jeffrey.guasto@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "biophysics and soft matter, microscale fluid mechanics and transport phenomena, microfluidic devices",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://engineering.tufts.edu/me/people/faculty/jeffrey-guasto",
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+    },
+    {
+      "id": "tufts-me-trevion-henderson",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Trevion Henderson",
+      "pi_title": "Assistant Professor",
+      "pi_email": "trevion.henderson@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Engineering education; Diversity, equity, and inclusion; team-based engineering pedagogies; engineering design thinking",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://engineering.tufts.edu/me/people/faculty/trevion-henderson",
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+    },
+    {
+      "id": "tufts-me-marc-hodes",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Marc Hodes",
+      "pi_title": "Professor",
+      "pi_email": "marc.hodes@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Transport Phenomena in the context of superhydrophobic surfaces, nano-material manufacture, thermal management of electronics, energy harvesting, mass transfer in supercritical fluids and thermoelectricity.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://engineering.tufts.edu/me/people/faculty/marc-hodes",
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+    },
+    {
+      "id": "tufts-me-mark-kachanov",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Mark Kachanov",
+      "pi_title": "Professor",
+      "pi_email": "mark.kachanov@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Mechanics of materials; effective properties of heterogeneous materials; microstructure-property relationships; applications to material science",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://engineering.tufts.edu/me/people/faculty/mark-kachanov",
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+    },
+    {
+      "id": "tufts-me-hungtang-ko",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Hungtang Ko",
+      "pi_title": "Assistant Professor",
+      "pi_email": "hungtang.ko@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Hungtang Ko's research focuses on the collective organization of biological collectives and robot swarms in fluid environments. He conducts animal experiments, simulates agent-based models, and designs biomimetic robots to investigate the physical interaction among insect swarms and fish schools. Beyond his core research, his diverse research interests extend to traffic flow, animal biomechanics, and the physics of wok tossing.\n\n**Recruiting new PhD students for admission in Fall 2026**",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://engineering.tufts.edu/me/people/faculty/hungtang-ko",
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+    },
+    {
+      "id": "tufts-me-jason-rife",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Jason Rife",
+      "pi_title": "Professor",
+      "pi_email": "jason.rife@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "navigation, safety-critical transportation systems, state estimation, human-robot interaction",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://engineering.tufts.edu/me/people/faculty/jason-rife",
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+    },
+    {
+      "id": "tufts-me-anil-saigal",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Anil Saigal",
+      "pi_title": "Professor",
+      "pi_email": "anil.saigal@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "materials engineering, materials science, manufacturing processes, quality control",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://engineering.tufts.edu/me/people/faculty/anil-saigal",
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+    },
+    {
+      "id": "tufts-me-igor-sokolov",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Igor Sokolov",
+      "pi_title": "Professor",
+      "pi_email": "igor.sokolov@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Present: Engineering for Health -> Physics of cancer and aging -> Mechanics of biomaterials at the nanoscale, Synthesis and study of functional nanomaterials for biomedical imaging and drug delivery, Advanced imaging for medical diagnostics, Novel processes and materials for dentistry: nano-polishing and self-healing materials. \nFavorite experimental techniques:  atomic force microscopy/scanning probe microscopy, confocal microscopy and spectroscopy,  nanoindenters.\nFavorite theoretical methods: contact models,  machine learning methods. \n\nPast: quantum field theory, theory of gravity, cosmology,  Casimir effect.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://engineering.tufts.edu/me/people/faculty/igor-sokolov",
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+    },
+    {
+      "id": "tufts-me-kristen-wendell",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Kristen Wendell",
+      "pi_title": "Professor",
+      "pi_email": "kristen.wendell@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "learning sciences, engineering education, design practices, classroom discourse, engineering knowledge construction",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://engineering.tufts.edu/me/people/faculty/kristen-wendell",
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+    },
+    {
+      "id": "tufts-me-robert-white",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Robert White",
+      "pi_title": "Professor",
+      "pi_email": "r.white@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Microelectromechanical Systems (MEMS) fabrication, modeling, and testing. Particularly acoustic MEMS (microphones, ultrasound), and aerodynamic measurement technologies (skin friction sensors, aeroacoustic sensors). High altitude atmospheric sensing and acoustics for planetary science. Acoustics, vibrations, dynamics and controls. Electromechanical systems including robotics. Finite element methods and system modeling. Electronics for measurement. Mechanical measurements.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://engineering.tufts.edu/me/people/faculty/robert-white",
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+    }
+  ],
+  "non_lab_people": [
+    {
+      "name": "Behrouz Abedian",
+      "title": "Associate Professor Emeritus",
+      "email": "behrouz.abedian@tufts.edu",
+      "why": "Title 'Associate Professor Emeritus' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Dennis Anderson",
+      "title": "Part-time Lecturer",
+      "email": "dennis.anderson@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Nadine Aubry",
+      "title": "Professor and Senior Advisor to the Dean of Engineering",
+      "email": "nadine.aubry@tufts.edu",
+      "why": "Title 'Professor and Senior Advisor to the Dean of Engineering' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "David Aurelio",
+      "title": "Part-time Lecturer",
+      "email": "david.aurelio@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Khosrow Bakhtari",
+      "title": "Part-time Lecturer",
+      "email": "khosrow.bakhtari@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Maxwell Bischoff",
+      "title": "Part-time Lecturer",
+      "email": "maxwell.bischoff@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Linda Borghesani",
+      "title": "Part-time Lecturer",
+      "email": "linda.borghesani@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Briana Bouchard",
+      "title": "Assistant Teaching Professor",
+      "email": "briana.bouchard@tufts.edu",
+      "why": "Title 'Assistant Teaching Professor' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Gian Calise",
+      "title": "Part-time Lecturer",
+      "email": "gian.calise@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Divya Chandra",
+      "title": "Part-time Lecturer",
+      "email": "d.chandra@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Luisa Chiesa",
+      "title": "Professor and Chair of Mechanical Engineering",
+      "email": "luisa.chiesa@tufts.edu",
+      "why": "Title 'Professor and Chair of Mechanical Engineering' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Ryan Cosner",
+      "title": "Glen R. Stevens Assistant Professor",
+      "email": "ryan.cosner@tufts.edu",
+      "why": "Title 'Glen R. Stevens Assistant Professor' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Jordan Cox",
+      "title": "Part-time Lecturer",
+      "email": "jordan.cox@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "William Crochetiere",
+      "title": "Professor Emeritus",
+      "email": "william.crochetiere@tufts.edu",
+      "why": "Title 'Professor Emeritus' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Bradley Duncan",
+      "title": "Part-time Lecturer",
+      "email": "bradley.duncan@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Sami Durrani",
+      "title": "Part-time Lecturer",
+      "email": "sami.durrani@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Daniel Fox",
+      "title": "Part-time Lecturer",
+      "email": "daniel.fox@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Robert Greif",
+      "title": "Professor Emeritus",
+      "email": "robert.greif@tufts.edu",
+      "why": "Title 'Professor Emeritus' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Daniel Hannon",
+      "title": "Professor of the Practice",
+      "email": "dan.hannon@tufts.edu",
+      "why": "Title 'Professor of the Practice' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Joel Huegel",
+      "title": "Visiting Professor",
+      "email": "joel.huegel@tufts.edu",
+      "why": "Title 'Visiting Professor' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "James Intriligator",
+      "title": "Professor of the Practice",
+      "email": "james.intriligator@tufts.edu",
+      "why": "Title 'Professor of the Practice' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Nicholas Katis",
+      "title": "Part-time Lecturer",
+      "email": "nick.katis@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Erica Kemmerling",
+      "title": "Associate Teaching Professor",
+      "email": "erica.kemmerling@tufts.edu",
+      "why": "Title 'Associate Teaching Professor' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Golriz Kermani",
+      "title": "Assistant Teaching Professor",
+      "email": "golriz.kermani@tufts.edu",
+      "why": "Title 'Assistant Teaching Professor' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Hoda Koushyar",
+      "title": "Associate Teaching Professor",
+      "email": "hoda.koushyar@tufts.edu",
+      "why": "Title 'Associate Teaching Professor' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "John Kreifeldt",
+      "title": "Professor Emeritus",
+      "email": "john.kreifeldt@tufts.edu",
+      "why": "Title 'Professor Emeritus' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Steven Langel",
+      "title": "Part-time Lecturer",
+      "email": "steven.langel@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Chaiwoo Lee",
+      "title": "Part-time Lecturer",
+      "email": "chaiwoo.lee@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Gary Leisk",
+      "title": "Teaching Professor",
+      "email": "gary.leisk@tufts.edu",
+      "why": "Title 'Teaching Professor' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Andrew Liu",
+      "title": "Part-time Lecturer",
+      "email": "andrew.liu687234@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Douglas Matson",
+      "title": "Research Professor and Professor, Emeritus",
+      "email": "douglas.matson@tufts.edu",
+      "why": "Title 'Research Professor and Professor, Emeritus' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Daniel Mcginn",
+      "title": "Part-time Lecturer",
+      "email": "daniel.mcginn@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Dave Miller",
+      "title": "Assistant Teaching Professor",
+      "email": "dave.miller@tufts.edu",
+      "why": "Title 'Assistant Teaching Professor' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Pratap Misra",
+      "title": "Affiliate",
+      "email": "pratap.misra@tufts.edu",
+      "why": "Title 'Affiliate' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Markus Nemitz",
+      "title": "Associate Professor and Jon Levy Faculty Fellow",
+      "email": "markus.nemitz@tufts.edu",
+      "why": "Title 'Associate Professor and Jon Levy Faculty Fellow' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Benjamin Perlman",
+      "title": "Professor Emeritus",
+      "email": "benjamin.perlman@tufts.edu",
+      "why": "Title 'Professor Emeritus' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Laurent Pilon",
+      "title": "Epsilon Energy Materials Innovation Professor",
+      "email": "laurent.pilon@tufts.edu",
+      "why": "Title 'Epsilon Energy Materials Innovation Professor' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Jianmin Qu",
+      "title": "Adjunct Professor",
+      "email": "jianmin.qu@tufts.edu",
+      "why": "Title 'Adjunct Professor' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Chris Rogers",
+      "title": "John R. Beaver Professor of Mechanical Engineering",
+      "email": "chris.rogers@tufts.edu",
+      "why": "Title 'John R. Beaver Professor of Mechanical Engineering' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Kelsey Rogers",
+      "title": "Part-time Lecturer",
+      "email": "kelsey.rogers@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Jason Ryan",
+      "title": "Part-time Lecturer",
+      "email": "jason.ryan@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Brandon Stafford",
+      "title": "Manager, Nolop FAST Facility",
+      "email": "brandon.stafford@tufts.edu",
+      "why": "Title 'Manager, Nolop FAST Facility' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Zosia Stafford",
+      "title": "Part-time Lecturer",
+      "email": "zosia.stafford@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Ken Tango",
+      "title": "Part-time Lecturer",
+      "email": "ken.tango@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Haroula Tzamaras",
+      "title": "Part-time Lecturer",
+      "email": "haroula.tzamaras@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Ryan Wexler",
+      "title": "Part-time Lecturer",
+      "email": "ryan.wexler@tufts.edu",
+      "why": "Title 'Part-time Lecturer' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Michael Wiklund",
+      "title": "Professor of the Practice",
+      "email": "michael.wiklund@tufts.edu",
+      "why": "Title 'Professor of the Practice' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    },
+    {
+      "name": "Michael Zimmerman",
+      "title": "Professor of the Practice",
+      "email": "michael.zimmerman@tufts.edu",
+      "why": "Title 'Professor of the Practice' -- teaching/adjunct/affiliate/emeritus, not an independent PI-led research appointment."
+    }
+  ],
+  "notes": "IMPORTANT: targets.csv gives each engineering department a different field_department_tid query param, but it does NOT filter -- confirmed by comparing two tid values byte-for-byte identical. The directory covers all engineering departments plus secondary appointments, part-time lecturers and affiliates from several other Tufts schools. This file's labs were bucketed from ONE full crawl (8 pages, 374 people) by each person's own 'department-title' tag shown on their card. Titles of Professor/Associate/Assistant Professor and Research [Assistant/Associate] Professor were treated as PI-led labs; Part-time/Teaching/Adjunct/Affiliate/Visiting/Emeritus titles went to non_lab_people."
+}

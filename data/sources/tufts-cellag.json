@@ -1,0 +1,36 @@
+{
+  "id": "tufts-cellag",
+  "institution": "Tufts University",
+  "unit": "Center for Cellular Agriculture",
+  "city": "Medford, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://cellularagriculture.tufts.edu/people/faculty-and-staff"
+  ],
+  "labs": [
+    {
+      "id": "tufts-cellag-david-kaplan",
+      "kind": "research-lab",
+      "lab_name": "Center for Cellular Agriculture",
+      "pi_name": "David Kaplan",
+      "pi_title": "Director, Tufts University Center for Cellular Agriculture; Stern Family Endowed Professor of Engineering; Distinguished University Professor; Professor of Biomedical Engineering",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": "Matt McNulty (Associate Director); Meera Zassenhaus (Head of Communications); Scott Frost (Program Manager, USDA National Institute for Cellular Agriculture)",
+      "admin_email": null,
+      "research_summary": "Biopolymer engineering, tissue engineering, regenerative medicine and cellular agriculture.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://cellularagriculture.tufts.edu/people/faculty-and-staff",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "David Kaplan is also Director of INSciDE (tufts-insciDE.json) and Executive Director of the Allen Discovery Center via colleague roles -- the Center for Cellular Agriculture is a distinct, separately funded center with its own staff."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Cross-cutting, cross-school center (School of Engineering, School of Arts and Sciences, Cummings School of Veterinary Medicine). Beyond Director Kaplan, its Faculty and Staff page lists ~10 more cross-appointed faculty whose primary labs are in other departments -- Kyongbum Lee (Dean of Engineering; ChemE), Merredith Portsmore (CEEO), Nik Nair, Ayse Asatekin (both Chemical and Biological Engineering -- see tufts-cbe.json), Qiaobing Xu (Biomedical Engineering -- see tufts-bme.json), Barry Trimmer, Ben Wolfe (Biology -- see tufts-biology.json and tufts-icdo.json for Trimmer), Scott Frost, Charles Mace (Chemistry -- see tufts-chemistry.json), Eugene White and David Matsas (Cummings School of Veterinary Medicine, not yet a scraped target) -- not duplicated here as full lab entries."
+}

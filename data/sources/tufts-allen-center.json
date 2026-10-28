@@ -1,0 +1,36 @@
+{
+  "id": "tufts-allen-center",
+  "institution": "Tufts University",
+  "unit": "Allen Discovery Center at Tufts University",
+  "city": "Medford, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://allencenter.tufts.edu/our-team/"
+  ],
+  "labs": [
+    {
+      "id": "tufts-allen-center-michael-levin",
+      "kind": "research-lab",
+      "lab_name": "Allen Discovery Center at Tufts University",
+      "pi_name": "Michael Levin",
+      "pi_title": "Principal Investigator",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "200 Boston Avenue, Medford, MA 02155",
+      "phone": "617-627-6721",
+      "admin_name": "Emma Taddeo (Center Project Administrative Director)",
+      "admin_email": "emma.taddeo@tufts.edu",
+      "research_summary": "Studies bioelectric signaling and collective intelligence in biological systems, including morphogenesis, regeneration and basal cognition, funded by the Paul G. Allen Frontiers Group.",
+      "member_count": 19,
+      "member_breakdown": "1 PI, 1 Center Deputy Director (Robert M. Brucker), ~17 staff/affiliate/research scientists. Excludes 11 'Founding Members' who are external collaborating PIs at other institutions (e.g. Harvard, Princeton), not Tufts-based center staff.",
+      "members_page_url": "https://allencenter.tufts.edu/our-team/",
+      "join_page_url": "https://allencenter.tufts.edu/opportunities/careers",
+      "join_notes": null,
+      "profile_url": "https://allencenter.tufts.edu/our-team/michael-levin/",
+      "notes": "Michael Levin's primary departmental appointment is Biology (see tufts-biology.json) and he is also an Investigator in tufts-insciDE.json -- this entry is specifically the Allen Discovery Center, a distinct funded center with its own large staff roster, not a duplicate."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

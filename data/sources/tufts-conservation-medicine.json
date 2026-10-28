@@ -1,0 +1,13 @@
+{
+  "id": "tufts-conservation-medicine",
+  "institution": "Tufts University",
+  "unit": "Center for Conservation Medicine (CCM), Cummings School of Veterinary Medicine",
+  "city": "North Grafton, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://vet.tufts.edu/center-conservation-medicine"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Cross-cutting interdisciplinary center (not a department of its own labs): its page names no individual PI-led labs, only educational/clinical programs (M.S. in Conservation Medicine, Wildlife Conservation Medicine, International Veterinary Medicine) and the Tufts Wildlife Clinic. Center faculty are drawn from Comparative Pathobiology (tufts-vet-cp.json) and Infectious Disease & Global Health (tufts-vet-idgh.json), already recorded there -- not duplicated here. General contact: mcm@tufts.edu, 508-887-4812, 200 Westboro Road, North Grafton, MA 01536. Tufts CCM is a founding member of the Consortium for Conservation Medicine with EcoHealth Alliance, the National Wildlife Health Center, and Johns Hopkins Bloomberg School of Public Health."
+}

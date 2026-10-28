@@ -1,0 +1,24 @@
+{
+  "id": "tufts-csdd",
+  "institution": "Tufts University",
+  "unit": "Tufts Center for the Study of Drug Development (CSDD)",
+  "city": "Boston, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "http://csdd.tufts.edu/",
+    "http://csdd.tufts.edu/about-us/meet-our-team"
+  ],
+  "labs": [
+    {"id": "tufts-csdd-kenneth-getz", "kind": "research-lab", "lab_name": "Tufts CSDD", "pi_name": "Kenneth Getz", "pi_title": "Executive Director, Tufts CSDD; Research Professor, Tufts University School of Medicine", "pi_email": null, "accepting_grad_students": null, "lab_website": null, "location": null, "phone": null, "admin_name": null, "admin_email": null, "research_summary": "Pharmaceutical R&D management, protocol design, site management, eClinical technology, and patient engagement research.", "member_count": 9, "member_breakdown": "1 Executive Director, 4 other Core Faculty, 3 Research Team members (Senior Consultant, Senior Data Scientist, plus Zak Smith counted in core faculty), 1 Assistant Director", "members_page_url": "http://csdd.tufts.edu/about-us/meet-our-team", "join_page_url": null, "join_notes": null, "profile_url": null, "notes": "Policy/economics research center on drug development, not a wet-lab in the traditional sense. Core Faculty + Research Team breadth pass from the center's own Team page."},
+    {"id": "tufts-csdd-joseph-dimasi", "kind": "research-lab", "lab_name": null, "pi_name": "Joseph DiMasi", "pi_title": "Senior Fellow and Advisor, Tufts CSDD", "pi_email": null, "accepting_grad_students": null, "lab_website": null, "location": null, "phone": null, "admin_name": null, "admin_email": null, "research_summary": "Economics of the pharmaceutical industry.", "member_count": null, "member_breakdown": null, "members_page_url": null, "join_page_url": null, "join_notes": null, "profile_url": null, "notes": "Breadth pass from the center's own Team page."},
+    {"id": "tufts-csdd-mary-jo-lamberti", "kind": "research-lab", "lab_name": null, "pi_name": "Mary Jo Lamberti", "pi_title": "Director of Sponsored Research, Tufts CSDD; Research Associate Professor, Tufts University School of Medicine", "pi_email": null, "accepting_grad_students": null, "lab_website": null, "location": null, "phone": null, "admin_name": null, "admin_email": null, "research_summary": "Benchmarking drug development operating practices, outsourcing/partnerships, clinical supplies, site management, patient recruitment and retention.", "member_count": null, "member_breakdown": null, "members_page_url": null, "join_page_url": null, "join_notes": null, "profile_url": null, "notes": "Breadth pass from the center's own Team page."},
+    {"id": "tufts-csdd-jennifer-kim", "kind": "research-lab", "lab_name": null, "pi_name": "Jennifer Kim", "pi_title": "Research Associate Professor, Tufts CSDD", "pi_email": null, "accepting_grad_students": null, "lab_website": null, "location": null, "phone": null, "admin_name": null, "admin_email": null, "research_summary": "Behavioral science research on work and health disparities in STEM.", "member_count": null, "member_breakdown": null, "members_page_url": null, "join_page_url": null, "join_notes": null, "profile_url": null, "notes": "Breadth pass from the center's own Team page."},
+    {"id": "tufts-csdd-kenneth-kaitin", "kind": "research-lab", "lab_name": null, "pi_name": "Kenneth Kaitin", "pi_title": "Professor of Medicine, Tufts University School of Medicine; Senior Fellow, Tufts CSDD (former Director, 23 years)", "pi_email": null, "accepting_grad_students": null, "lab_website": null, "location": null, "phone": null, "admin_name": null, "admin_email": null, "research_summary": "Drug development policy and science, global pharmaceutical development trends.", "member_count": null, "member_breakdown": null, "members_page_url": null, "join_page_url": null, "join_notes": null, "profile_url": null, "notes": "Breadth pass from the center's own Team page."}
+  ],
+  "non_lab_people": [
+    {"name": "Zachary (Zak) Smith", "title": "Assistant Director, Data Sciences & Analytics", "email": null, "why": "Analytics/data staff, not an independent PI."},
+    {"name": "Maria Flórez", "title": "Senior Consultant", "email": null, "why": "Research team staff, not an independent PI."},
+    {"name": "Abigail Dirks", "title": "Senior Data Scientist", "email": null, "why": "Research team staff, not an independent PI."}
+  ],
+  "notes": "Fetched via the bare http:// URL per CLAUDE.md's documented http<->https redirect-loop gotcha for csdd.tufts.edu."
+}

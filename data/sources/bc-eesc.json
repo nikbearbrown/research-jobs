@@ -1,0 +1,539 @@
+{
+  "id": "bc-eesc",
+  "institution": "Boston College",
+  "unit": "Department of Earth and Environmental Sciences",
+  "city": "Chestnut Hill, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people.html"
+  ],
+  "labs": [
+    {
+      "id": "bc-eesc-cannon-kasey",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Cannon, Kasey",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people/alumni/kasey-cannon.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-eesc-seal-dylan",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Seal, Dylan",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people/alumni/dylan-seal.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-eesc-yoder-margaret",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Yoder, Margaret",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people/alumni/margaret-yoder.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-eesc-donnelly-heather",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Donnelly, Heather",
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people/alumni/heather-donnelly.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    },
+    {
+      "id": "bc-eesc-ashlin-niemic",
+      "kind": "research-lab",
+      "lab_name": null,
+      "pi_name": "Ashlin-Niemic",
+      "pi_title": "Undergraduate",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "Undergraduate",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people/alumni/ashlin-niemic.html",
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+    }
+  ],
+  "non_lab_people": [
+    {
+      "name": "Alumni",
+      "title": "Full-Time Faculty",
+      "email": null,
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Ethan Baxter",
+      "title": "Professor",
+      "email": "ethan.baxter@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Mark D. Behn",
+      "title": "Professor",
+      "email": "mark.behn@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Tara Pisani  Gareau",
+      "title": "Professor of the Practice; Director, Environmental Studies Program",
+      "email": "tara.pisanigareau@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Seth C. Kruckenberg",
+      "title": "Associate Professor",
+      "email": "seth.kruckenberg@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Yi Ming",
+      "title": "Professor",
+      "email": "yi.ming@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Hilary Palevsky",
+      "title": "Assistant Professor",
+      "email": "palevsky@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Juliet Ryan-Davis",
+      "title": "Assistant Professor",
+      "email": "juliet.ryan-davis@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Jeremy Shakun",
+      "title": "Associate Professor",
+      "email": "jeremy.shakun@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Noah P. Snyder",
+      "title": "Professor",
+      "email": "noah.snyder@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Laura J. Steinberg",
+      "title": "Professor",
+      "email": "laura.steinberg@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Hanqin Tian",
+      "title": "Professor",
+      "email": "hanqin.tian@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Xingchen (Tony) Wang",
+      "title": "Assistant Professor",
+      "email": "xingchen.wang@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Kat Wilson",
+      "title": "Assistant Professor",
+      "email": "kathleen.wilson@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Thomas Kuchar",
+      "title": "Research Astronomer, Institute for Scientific Research",
+      "email": "thomas.kuchar@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Anne Lamontagne",
+      "title": "Visiting Assistant Professor",
+      "email": "anne.lamontagne@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Susan (Shufen) Pan",
+      "title": "Associate Professor",
+      "email": "shufen.pan@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Paul Strother",
+      "title": "Research Professor",
+      "email": "paul.strother@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "John E. Ebel",
+      "title": "Professor Emeritus",
+      "email": "john.ebel.1@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "J. Christopher \"Chris\" Hepburn",
+      "title": "Professor Emeritus",
+      "email": "hepburn@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Alan L. Kafka",
+      "title": "Professor Emeritus",
+      "email": "alan.kafka@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Gail C. Kineke",
+      "title": "Professor Emerita",
+      "email": "gail.kineke.1@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Diksha Bista",
+      "title": "Director, Center for Isotope Geochemistry",
+      "email": null,
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Jess  Lueders-Dumont",
+      "title": "Research Associate",
+      "email": "jessica.lueders-dumont@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Kristen Fogaren",
+      "title": "Senior Research Associate",
+      "email": "kristen.fogaren@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Catherine Gagnon",
+      "title": "Assistant Director",
+      "email": null,
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Pu Lin",
+      "title": "Senior Research Associate",
+      "email": "pu.lin@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Katrina Rogoff",
+      "title": "Assistant Director, Administrative & Student Services",
+      "email": "katrina.oblenes@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Kate Willis",
+      "title": "Assistant Director, Data Visualization Lab",
+      "email": "katherine.willis@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "John Mark Brigham",
+      "title": "Postdoctoral Researcher",
+      "email": "john.brigham@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Luca Cortese",
+      "title": "Postdoctoral Researcher",
+      "email": "luca.cortese@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Shreya Kanakiya",
+      "title": "Postdoctoral Researcher",
+      "email": "shreya.kanakiya@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Seoyeon Kim",
+      "title": "Postdoctoral Researcher",
+      "email": "seoyeon.kim.3@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Naiqing  Pan",
+      "title": "Postdoctoral Researcher",
+      "email": "naiqing.pan@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Chanil  Park",
+      "title": "Postdoctoral Researcher",
+      "email": "chanil.park@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Robert (Willie) Nicklas",
+      "title": "Visiting Scholar",
+      "email": "robert.nicklas@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Alumni",
+      "title": null,
+      "email": null,
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Kasey Cannon",
+      "title": "Ph.D. student",
+      "email": "kasey.cannon@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Heather Donnelly",
+      "title": "Ph.D. student",
+      "email": "heather.donnelly@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Dylan Seal",
+      "title": "Ph.D. student",
+      "email": "dylan.seal@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Margaret Yoder",
+      "title": "Ph.D. student",
+      "email": "margaret.yoder@bc.edu",
+      "why": "Visiting Scholars — not an independent PI-led research track."
+    },
+    {
+      "name": "Kasey Cannon",
+      "title": "Ph.D. student",
+      "email": "kasey.cannon@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Kyra Croft",
+      "title": "Ph.D. student",
+      "email": "kyra.croft@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Heather Donnelly",
+      "title": "Ph.D. student",
+      "email": "heather.donnelly@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Evan Eastin",
+      "title": "Ph.D. Student - EESC",
+      "email": "evan.eastin@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Tony Edgington",
+      "title": "Ph.D. student",
+      "email": "anthony.edgington@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Nicole Francis",
+      "title": "M.S. student",
+      "email": "nicole.francis@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Berenize Garcia Nueva",
+      "title": "Ph.D. student",
+      "email": "berenize.garcianueva@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Wensu Hao",
+      "title": "Ph.D. student",
+      "email": "wensu.hao@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Parker  Hunt",
+      "title": "Ph.D. Student - Department of Physics",
+      "email": "parker.hunt@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Ilana Jacobs",
+      "title": "Ph.D. student",
+      "email": "ilana.jacobs@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Kameko Landry",
+      "title": "Ph.D. student",
+      "email": "kameko.landry@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Alexya  Lee",
+      "title": "Ph.D. student",
+      "email": "alexya.lee@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Bastian  Muench",
+      "title": "Ph.D. student",
+      "email": "bastian.muench@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Celia Murphy-Braunstein",
+      "title": "Ph.D. student",
+      "email": "celia.murphy-braunstein@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Manica Nawaz",
+      "title": "Ph.D. student",
+      "email": "manica.nawaz@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Ashlin Niemic",
+      "title": "M.S. student",
+      "email": "ashlin.niemic@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Victor Olawoyin",
+      "title": "Ph.D. student",
+      "email": "victor.olawoyin@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Atsushi Osawa",
+      "title": "Ph.D. student",
+      "email": "atsushi.osawa@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Victoria  Richardson",
+      "title": "Ph.D. student",
+      "email": "victoria.richardson@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Calen Rubin",
+      "title": "Ph.D. student",
+      "email": "calen.rubin@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Evan  Saltman",
+      "title": "Ph.D. student",
+      "email": "evan.saltman@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Dylan Seal",
+      "title": "Ph.D. student",
+      "email": "dylan.seal@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "John (Jake) Supino",
+      "title": "Ph.D. student",
+      "email": "john.supino@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Ilan Valencius",
+      "title": "Ph.D. student",
+      "email": "ilan.valencius@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Xinyi Yang",
+      "title": "Ph.D. student",
+      "email": "xinyi.yang.2@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Margaret Yoder",
+      "title": "Ph.D. student",
+      "email": "margaret.yoder@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Yuchun Zhang",
+      "title": "Ph.D. student",
+      "email": "yuchun.zhang@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    },
+    {
+      "name": "Ruixiang  Zhai",
+      "title": "Ph.D. student",
+      "email": "ruixiang.zhai@bc.edu",
+      "why": "Graduate Students — not an independent PI-led research track."
+    }
+  ],
+  "notes": null
+}

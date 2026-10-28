@@ -1,0 +1,13 @@
+{
+  "id": "tufts-terc",
+  "institution": "Tufts University",
+  "unit": "Tissue Engineering Resource Center (TERC)",
+  "city": "Medford, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://engineering.tufts.edu/bme/terc/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The given URL (engineering.tufts.edu/bme/terc/) returns a 404 Page Not Found, and no mention of TERC/Tissue Engineering Resource Center appears anywhere in the current BME department site navigation (About/People/Research/Centers and Laboratories). The center may have been renamed, folded into another BME center, or discontinued; its people/PI were not locatable in this pass. Recommend a future pass search for its current name or confirm it is defunct."
+}

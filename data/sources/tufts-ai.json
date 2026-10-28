@@ -1,0 +1,14 @@
+{
+  "id": "tufts-ai",
+  "institution": "Tufts University",
+  "unit": "Tufts Institute for Artificial Intelligence (TIAI)",
+  "city": "Medford, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://ai.tufts.edu/about/affiliated-faculty",
+    "https://ai.tufts.edu/about/steering-committee"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Cross-cutting university-wide institute, not a department of its own labs. The targets.csv-given 'Affiliated Faculty' page is literally 'Under construction' (no content). Its Steering Committee page instead shows cross-appointed leadership whose primary labs/appointments are elsewhere: Kyongbum Lee (Dean, School of Engineering; Chemical and Biological Engineering), William Harvey (Deputy CIO/CMIO; School of Medicine), Abani Patra (Director, Center for Data Foundations in AI; Computer Science and Mathematics), Aruna Ramesh (Associate Dean, School of Dental Medicine) and likely others not fully read this pass. Not recorded as separate labs here since their primary research homes are (or will be) in their own department's source file. Location: Joyce Cummings Center, 177 College Avenue, Medford, MA 02155."
+}

@@ -1,0 +1,14 @@
+{
+  "id": "tufts-icdo",
+  "institution": "Tufts University / University of Vermont",
+  "unit": "Institute for Computationally Designed Organisms (ICDO)",
+  "city": "Medford, MA",
+  "checked_on": "2026-10-28",
+  "listing_urls": [
+    "https://icdorgs.org",
+    "https://icdorgs.org/people"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "ICDO is a two-site joint institute, not a Tufts department of its own labs: it spans the Allen Discovery Center at Tufts University (led by Michael Levin -- already recorded in tufts-allen-center.json and tufts-biology.json) and the Morphology, Evolution & Cognition Laboratory at the University of Vermont (led by Josh Bongard, outside the scope of this Boston/Cambridge-area directory). Not duplicating Levin's lab details here."
+}
