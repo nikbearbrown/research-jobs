@@ -120,11 +120,27 @@ def html_to_text(html):
     from bs4 import BeautifulSoup
 
     soup = BeautifulSoup(html, "lxml")
+    mailtos = []
+    for a in soup.find_all("a", href=True):
+        href = a["href"]
+        if href.lower().startswith("mailto:"):
+            addr = href[7:].split("?")[0].strip()
+            label = a.get_text(" ", strip=True)
+            if addr:
+                mailtos.append(f"{addr}  (link text: {label!r})" if label else addr)
     for tag in soup(["script", "style", "noscript"]):
         tag.decompose()
     text = soup.get_text("\n")
     lines = [ln.strip() for ln in text.splitlines()]
     lines = [ln for ln in lines if ln]
+    if mailtos:
+        lines.append("")
+        lines.append("--- mailto: links found on this page (match to the nearest name above) ---")
+        seen = set()
+        for m in mailtos:
+            if m not in seen:
+                seen.add(m)
+                lines.append(m)
     return "\n".join(lines)
 
 
