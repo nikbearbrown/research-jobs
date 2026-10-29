@@ -23,13 +23,13 @@
       "admin_name": "Sarah Oppenheimer (Executive Director); Co-Directors John Friedman (Professor of Economics, Brown University) and Nathaniel Hendren (Professor of Economics, MIT)",
       "admin_email": null,
       "research_summary": "A non-partisan research and policy institute using large administrative datasets to study economic opportunity and mobility in America, and to translate findings into policy.",
-      "member_count": 49,
-      "member_breakdown": "4 leadership (Director, 2 Co-Directors, Executive Director), 12 research principals/scientists, 11 operations/administrative staff, 11 predoctoral fellows/research team, 11 graduate student affiliates; plus a long list of external faculty 'Research Collaborators' (not counted) and an 'Alumni' list (excluded)",
+      "member_count": 51,
+      "member_breakdown": "4 leadership (incl. PI Raj Chetty), 14 research principals/scientists/postdocs, 11 staff, 11 predoctoral fellows/research team, 11 graduate student affiliates (external 'Research Collaborators' at other universities not counted)",
       "members_page_url": "https://opportunityinsights.org/team/",
       "join_page_url": "https://opportunityinsights.org/joinourteam/",
       "join_notes": "Dedicated 'Join Our Team' / Open Opportunities page listed in the main nav.",
       "profile_url": "https://opportunityinsights.org/team/",
-      "notes": "Not a PI-led-lab department; treated per CLAUDE.md's think-tank/policy-center convention as a single organization entry. The page's two contact addresses (for data/technical questions and press) rendered as the literal placeholder text '[email protected]' in both plain HTTP and Playwright-rendered text, suggesting a client-side email-obfuscation script that this fetcher doesn't execute correctly; left pi_email/admin_email null rather than record a guess. Member count excludes the extensive 'Research Collaborators' (external faculty elsewhere) and 'Alumni' sections on the team page."
+      "notes": "Not a PI-led-lab department; treated per CLAUDE.md's think-tank/policy-center convention as a single organization entry. The page's two contact addresses (for data/technical questions and press) rendered as the literal placeholder text '[email protected]' in both plain HTTP and Playwright-rendered text, suggesting a client-side email-obfuscation script that this fetcher doesn't execute correctly; left pi_email/admin_email null rather than record a guess. Member count excludes the extensive 'Research Collaborators' (external faculty elsewhere) and 'Alumni' sections on the team page. Depth pass: Team page (required --render; client-side rendered roster) gives a large, multi-section team -- counted Leadership/Research Principals & Scientists/Staff/Research Team/Graduate Student Affiliates as the core OI team; excluded the external 'Research Collaborators' section (professors at other universities, clearly not OI staff)."
     }
   ],
   "non_lab_people": [],

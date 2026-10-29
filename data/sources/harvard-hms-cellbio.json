@@ -24,9 +24,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 2 graduate students, 3 research assistants",
+      "members_page_url": "https://allardlab.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/corey-allard",
@@ -46,9 +46,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 9 postdoctoral fellows, 1 research assistant, 3 bioinformaticists, 1 senior administrative assistant (1 further bioinformaticist title truncated)",
+      "members_page_url": "https://brugge.med.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/joan-brugge",
@@ -74,7 +74,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/lewis-cantley",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. People page (checked both plain HTTP and Playwright render) shows only lab description text, no individual roster."
     },
     {
       "id": "harvard-hms-cellbio-edward-chouchani",
@@ -96,7 +96,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/edward-chouchani",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Page is a chronological news feed mentioning people joining/leaving over time, not a clean current-members list -- not counted."
     },
     {
       "id": "harvard-hms-cellbio-nika-danial",
@@ -112,11 +112,11 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 5 postdoctoral fellows, 1 lab technician, 1 undergraduate student, 1 graduate student",
+      "members_page_url": "https://www.daniallab-dana-farber.org/meet-the-team",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Recruiting postdocs and students interested in molecular metabolism; contact Nika Danial directly.",
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/nika-danial",
       "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
     },
@@ -134,9 +134,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 4 postdoctoral researchers, 5 PhD candidates, 2 undergraduate/fellowship students, 1 research associate, 1 rotation student, 1 graduate student, 1 additional graduate student",
+      "members_page_url": "https://www.farnunglab.com/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/lucas-farnung",
@@ -156,9 +156,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 4 postdoctoral fellows, 2 graduate students",
+      "members_page_url": "https://finley.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/daniel-finley-phd",
@@ -184,7 +184,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/john-flanagan-phd",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Homepage has no roster section and no separate /people page found via outlinks."
     },
     {
       "id": "harvard-hms-cellbio-xin-gu",
@@ -206,7 +206,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/xin-gu",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Team page lists only recruitment/how-to-apply information, no named current members."
     },
     {
       "id": "harvard-hms-cellbio-steven-gygi",
@@ -222,9 +222,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 22,
+      "member_breakdown": "1 PI, 2 instructors, 3 facility directors/assistant directors, 11 postdoctoral fellows, 2 PhD students, 1 research fellow, 1 research associate, 1 software engineer",
+      "members_page_url": "https://gygi.hms.harvard.edu/team.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/steven-gygi",
@@ -250,7 +250,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/marcia-haigis-phd",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Large lab; people page lists PI + lab administrator + mass-spec director/lab manager + at least 8 postdoctoral fellows visible in this pass, with the list continuing beyond this pass's read window -- full count not confidently determined, left null rather than under-counting."
     },
     {
       "id": "harvard-hms-cellbio-wade-harper",
@@ -272,7 +272,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/wade-harper",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. People page lists PI + at least 10 postdoctoral fellows/graduate students/staff visible in this pass, with the list continuing beyond this pass's read window -- full count not confidently determined, left null rather than under-counting."
     },
     {
       "id": "harvard-hms-cellbio-randall-king",
@@ -288,9 +288,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 master's student, 2 postdoctoral fellows, 1 undergraduate exchange student",
+      "members_page_url": "https://king.med.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/randall-king-md-phd",
@@ -302,7 +302,7 @@
       "lab_name": null,
       "pi_name": "Amy Lee",
       "pi_title": "Assistant Professor Cancer Immunology and Virology (Dana-Farber Cancer Institute)",
-      "pi_email": "amysylee@hms.harvard.edu",
+      "pi_email": "amysy_lee@dfci.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "http://leelab.hms.harvard.edu",
       "location": null,
@@ -310,9 +310,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 2 instructors, 3 postdocs, 2 PhD students, 2 research technicians, 1 master's student, 2 undergraduate researchers, 1 PEAK fellow, 1 co-op student",
+      "members_page_url": "http://leelab.hms.harvard.edu/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/amy-lee",
@@ -332,9 +332,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 24,
+      "member_breakdown": "1 PI, 9 postdoctoral research fellows, 7 graduate students, 2 research assistants, and several additional staff",
+      "members_page_url": "https://liberles.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/stephen-liberles",
@@ -360,7 +360,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/brendan-manning-phd",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Manning Lab people page (live-harvard-chan-website.pantheonsite.io) is blocked by robots.txt -- not bypassed."
     },
     {
       "id": "harvard-hms-cellbio-danesh-moazed",
@@ -376,9 +376,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 20,
+      "member_breakdown": "1 PI, 1 laboratory manager, 8 graduate students, 3 undergraduate student researchers, 1 research specialist, 3 postdoctoral fellows, 1 laboratory aid, 1 research fellow",
+      "members_page_url": "https://moazed.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/danesh-moazed",
@@ -404,7 +404,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/david-pellman-md",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. People page shows only lab news/description, no individual roster."
     },
     {
       "id": "harvard-hms-cellbio-pere-puigserver",
@@ -420,9 +420,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 1 administrative assistant, 7 postdoctoral fellows, 2 PhD candidates, 1 lab technician/manager, 2 undergraduate/visiting students",
+      "members_page_url": "https://labs.dana-farber.org/puigserverlab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/pere-puigserver-phd",
@@ -448,7 +448,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/tom-rapoport-phd",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. People page lists at least 13 names (PI + visiting professor + admin coordinator + several postdocs/students/technicians) with the list continuing beyond this pass's read window -- full count not confidently determined, left null rather than under-counting."
     },
     {
       "id": "harvard-hms-cellbio-adrian-salic",
@@ -464,9 +464,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 postdoctoral fellows, 1 PhD student",
+      "members_page_url": "https://salic.med.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/adrian-salic-phd",
@@ -492,7 +492,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/sichen-susan-shao-phd",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Large lab; people page lists PI + research specialist + at least 11 postdoctoral fellows/graduate students visible in this pass, with the list continuing beyond this pass's read window -- full count not confidently determined, left null rather than under-counting."
     },
     {
       "id": "harvard-hms-cellbio-bruce-spiegelman",
@@ -514,7 +514,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/bruce-spiegelman",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. People page (checked plain HTTP) shows only lab description, no individual roster; may need --render."
     },
     {
       "id": "harvard-hms-cellbio-radhika-subramanian",
@@ -530,9 +530,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 administrative/grant coordinator, 4 research fellows, 1 graduate student, 3 Northeastern co-op students",
+      "members_page_url": "https://cellularlego.com/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/radhika-subramanian-phd",
@@ -558,7 +558,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/david-van-vactor-phd",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. vanvactor.med.harvard.edu failed DNS resolution."
     },
     {
       "id": "harvard-hms-cellbio-malcolm-whitman",
@@ -574,9 +574,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 instructor, 2 postdoctoral fellows",
+      "members_page_url": "https://whitman.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/malcolm-whitman-phd",
@@ -596,9 +596,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 3 graduate students, 2 research assistants, 1 rotation student, 1 Northeastern co-op student",
+      "members_page_url": "https://wolfsonlab.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cellbio.hms.harvard.edu/faculty-staff/rachel-wolfson",

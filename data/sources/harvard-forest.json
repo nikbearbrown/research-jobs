@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "The People page names and links to this lab, but the text-only fetch used for this pass doesn't capture non-mailto link targets, so the URL wasn't recorded here (tool limitation, not a guess) -- needs a follow-up visit to read the href directly and then the lab's own site for member count/contact. Lab website found via an outbound link on the Harvard Forest people page (not yet itself read for member count/join info)."
+      "notes": "The People page names and links to this lab, but the text-only fetch used for this pass doesn't capture non-mailto link targets, so the URL wasn't recorded here (tool limitation, not a guess) -- needs a follow-up visit to read the href directly and then the lab's own site for member count/contact. Lab website found via an outbound link on the Harvard Forest people page (not yet itself read for member count/join info). Depth pass 2026-10-29: lab_website is on an oeb.harvard.edu subdomain, which returns Akamai 'Access Denied' from this network (documented gotcha); no member data could be read."
     },
     {
       "id": "harvard-forest-jonathan-thompson",
@@ -37,20 +37,20 @@
       "pi_name": "Jonathan Thompson",
       "pi_title": "Director, Harvard Forest",
       "pi_email": null,
-      "accepting_grad_students": null,
+      "accepting_grad_students": false,
       "lab_website": "https://harvardforest.fas.harvard.edu/thompson-lab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Danelle Laflower (Research Assistant & Lab Manager)",
       "admin_email": null,
       "research_summary": "Landscape and forest ecology, including long-term land-use and disturbance dynamics in New England forests.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoc, 3 research assistants (one also lab manager), 5 research associates/researchers",
+      "members_page_url": "https://harvardforest.fas.harvard.edu/about/people/thompson-lab/jt-people/",
+      "join_page_url": "https://harvardforest.fas.harvard.edu/about/people/thompson-lab/opportunities/",
+      "join_notes": "No open research opportunities listed as of this check; Thompson does not advise PhD students at Harvard.",
       "profile_url": null,
-      "notes": "The People page names and links to this lab, but the text-only fetch used for this pass doesn't capture non-mailto link targets, so the URL wasn't recorded here (tool limitation, not a guess) -- needs a follow-up visit to read the href directly and then the lab's own site for member count/contact. Lab website found via an outbound link on the Harvard Forest people page (not yet itself read for member count/join info)."
+      "notes": "The People page names and links to this lab, but the text-only fetch used for this pass doesn't capture non-mailto link targets, so the URL wasn't recorded here (tool limitation, not a guess) -- needs a follow-up visit to read the href directly and then the lab's own site for member count/contact. Lab website found via an outbound link on the Harvard Forest people page (not yet itself read for member count/join info). Depth pass 2026-10-29: read the lab's own People and Opportunities pages."
     },
     {
       "id": "harvard-forest-jeannine-cavender-bares",
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "The People page names and links to this lab, but the text-only fetch used for this pass doesn't capture non-mailto link targets, so the URL wasn't recorded here (tool limitation, not a guess) -- needs a follow-up visit to read the href directly and then the lab's own site for member count/contact. Also relevant to harvard-herbaria, which she directs. Lab website found via an outbound link on the Harvard Forest people page (not yet itself read for member count/join info)."
+      "notes": "The People page names and links to this lab, but the text-only fetch used for this pass doesn't capture non-mailto link targets, so the URL wasn't recorded here (tool limitation, not a guess) -- needs a follow-up visit to read the href directly and then the lab's own site for member count/contact. Also relevant to harvard-herbaria, which she directs. Lab website found via an outbound link on the Harvard Forest people page (not yet itself read for member count/join info). Depth pass 2026-10-29: lab_website is on an oeb.harvard.edu subdomain, which returns Akamai 'Access Denied' from this network (documented gotcha); no member data could be read."
     },
     {
       "id": "harvard-forest-benton-taylor",
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "The People page names and links to this lab, but the text-only fetch used for this pass doesn't capture non-mailto link targets, so the URL wasn't recorded here (tool limitation, not a guess) -- needs a follow-up visit to read the href directly and then the lab's own site for member count/contact. Lab website found via an outbound link on the Harvard Forest people page (not yet itself read for member count/join info)."
+      "notes": "The People page names and links to this lab, but the text-only fetch used for this pass doesn't capture non-mailto link targets, so the URL wasn't recorded here (tool limitation, not a guess) -- needs a follow-up visit to read the href directly and then the lab's own site for member count/contact. Lab website found via an outbound link on the Harvard Forest people page (not yet itself read for member count/join info). Depth pass 2026-10-29: lab_website is on an oeb.harvard.edu subdomain, which returns Akamai 'Access Denied' from this network (documented gotcha); no member data could be read."
     }
   ],
   "non_lab_people": [],

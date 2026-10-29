@@ -51,7 +51,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hcp.hms.harvard.edu/people/asaf-bitton",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Ariadne Labs page lists Platform Teams, Advisory Board and Associate Faculty but no single roster for Bitton's own team specifically; member_count left null rather than guessed."
     },
     {
       "id": "harvard-hms-hcp-alisa-busch",
@@ -341,7 +341,7 @@
     },
     {
       "id": "harvard-hms-hcp-timothy-layton",
-      "kind": "research-lab",
+      "kind": "faculty-no-lab",
       "lab_name": null,
       "pi_name": "Timothy J. Layton",
       "pi_title": "Visiting Associate Professor of Health Care Policy, Frank Batten School of Leadership and Public Policy, University of Virginia",
@@ -359,7 +359,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hcp.hms.harvard.edu/people/timothy-j-layton",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Reclassified: the recorded lab_website (batten.virginia.edu) is actually a University of Virginia Batten School faculty directory page, not a lab site -- Layton is a Visiting Associate Professor there with no independent research group found. Title also confirms visiting/secondary appointment."
     },
     {
       "id": "harvard-hms-hcp-nicole-maestas",

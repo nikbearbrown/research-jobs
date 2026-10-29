@@ -33,7 +33,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/frederick-alt",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. childrenshospital.org bot-protection block (documented gotcha); could not read."
     },
     {
       "id": "harvard-hms-genetics-constance-cepko",
@@ -49,9 +49,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 administrative assistant, 1 lab manager, 1 scientific researcher, 6 postdoctoral fellows, 3 graduate students",
+      "members_page_url": "https://cepko.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/constance-cepko",
@@ -71,9 +71,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 4 postdoctoral fellows, 2 visiting scientists/BCH residents, 2 lab technicians, 2 Northeastern co-op students",
+      "members_page_url": "http://www.chaolab.org/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/luke-h-chao",
@@ -93,11 +93,11 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 computational biologist, 1 lab manager/technician, 3 postdoctoral fellows, 4 graduate students, 1 master's student (plus 2 collaborating postdocs whose home lab is elsewhere, not counted)",
+      "members_page_url": "http://churchman.med.harvard.edu/team",
+      "join_page_url": "http://churchman.med.harvard.edu/join",
+      "join_notes": "Recruiting postdoctoral fellows and taking rotation students; see Join Us page.",
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/stirling-churchman",
       "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
     },
@@ -115,9 +115,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 research associate, 2 postdoctoral fellows",
+      "members_page_url": "http://genepath.med.harvard.edu/colaiacovo/lab-members.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/monica-p-colaiacovo",
@@ -137,9 +137,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 postdoctoral fellow, 2 graduate students, 2 undergraduate interns, 2 high-school student interns",
+      "members_page_url": "https://www.miao-cui.com/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/miao-cui",
@@ -159,9 +159,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 research scientist, 1 research associate/lab manager, 2 postdoctoral fellows, 4 graduate students, 1 visiting research assistant",
+      "members_page_url": "https://dymeckilab.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/susan-m-dymecki",
@@ -181,9 +181,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 29,
+      "member_breakdown": "1 PI, 1 lab staff, 13 postdoctoral fellows, 7 graduate students, 1 visiting researcher, 1 data analyst, 1 research specialist, 2 research technicians, 1 research assistant, 1 lab manager",
+      "members_page_url": "https://elledge.hms.harvard.edu/?page_id=253",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/stephen-j-elledge",
@@ -209,7 +209,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/brielle-ferguson",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. dms.hms.harvard.edu failed DNS resolution."
     },
     {
       "id": "harvard-hms-genetics-jonathan-green",
@@ -231,7 +231,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/jonathan-green",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Team page (greenlab.mgh.harvard.edu/team) returns 403 Forbidden; homepage has no roster."
     },
     {
       "id": "harvard-hms-genetics-james-gusella",
@@ -253,7 +253,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/james-francis-gusella",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. hsci.harvard.edu/people/* is Akamai-blocked from this network (documented gotcha)."
     },
     {
       "id": "harvard-hms-genetics-matthew-harris",
@@ -269,9 +269,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 7 postdoctoral fellows, 1 PhD candidate, 1 undergraduate researcher, 1 research technician, 1 research assistant",
+      "members_page_url": "http://fishbonelab.org/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/matthew-harris",
@@ -297,7 +297,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/maxwell-heiman",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. heimanlab.com returns 403 Forbidden."
     },
     {
       "id": "harvard-hms-genetics-konrad-hochedlinger",
@@ -319,7 +319,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/konrad-hochedlinger",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. hsci.harvard.edu/people/* is Akamai-blocked from this network (documented gotcha)."
     },
     {
       "id": "harvard-hms-genetics-maximilian-horlbeck",
@@ -335,9 +335,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 research assistant, 1 staff scientist, 1 graduate student",
+      "members_page_url": "https://horlbecklab.org/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/maximilian-horlbeck",
@@ -363,7 +363,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/deborah-tan-hung",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Page (ccib.mgh.harvard.edu) is a shared multi-PI CCIB center directory; a 'Hung Lab Team' section exists but the page structure makes isolating a confident full roster boundary unreliable -- not counted."
     },
     {
       "id": "harvard-hms-genetics-scott-kennedy",
@@ -371,7 +371,7 @@
       "lab_name": null,
       "pi_name": "Scott G. Kennedy",
       "pi_title": "Philip and Aya Leder Professor of Genetics, Harvard Medical School",
-      "pi_email": "Scott_Kennedy@hms.harvard.edu",
+      "pi_email": "kennedy@genetics.med.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://kennedy.hms.harvard.edu/",
       "location": null,
@@ -379,9 +379,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 undergraduate student, 3 graduate students, 2 postdoctoral fellows",
+      "members_page_url": "https://kennedy.hms.harvard.edu/member.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/scott-g-kennedy",
@@ -407,7 +407,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/robert-edward-kingston",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. People link (molbio.mgh.harvard.edu/people) is the whole Department of Molecular Biology's shared directory across many PIs, not Kingston-lab-specific -- not counted."
     },
     {
       "id": "harvard-hms-genetics-raju-kucherlapati",
@@ -429,7 +429,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/raju-kucherlapati",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. brighamandwomens.org lab-overview page shows generic hospital content, no roster."
     },
     {
       "id": "harvard-hms-genetics-louis-kunkel",
@@ -451,7 +451,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/louis-martens-kunkel",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. childrenshospital.org bot-protection block (documented gotcha); could not read."
     },
     {
       "id": "harvard-hms-genetics-mitzi-kuroda",
@@ -473,7 +473,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/mitzi-i-kuroda",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. brighamandwomens.org lab-overview page shows generic hospital content, no roster."
     },
     {
       "id": "harvard-hms-genetics-julia-li",
@@ -481,7 +481,7 @@
       "lab_name": null,
       "pi_name": "Julia Li",
       "pi_title": "Assistant Professor of Genetics, Harvard Medical School",
-      "pi_email": "Julia.Li@childrens.harvard.edu",
+      "pi_email": "julia.li@childrens.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.thejulialilab.com/",
       "location": null,
@@ -489,11 +489,11 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 2 graduate students, 1 research assistant (2 further people listed as 'Past Members', excluded)",
+      "members_page_url": "https://www.thejulialilab.com/team",
+      "join_page_url": "https://www.thejulialilab.com/team",
+      "join_notes": "Email julia.li@childrens.harvard.edu to inquire about joining.",
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/julia-li",
       "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
     },
@@ -517,7 +517,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/steven-mccarroll",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. People page lists a large staff roster (15+ names seen, likely a large lab >20) but the full list extends beyond what this pass captured -- left null rather than under-counting."
     },
     {
       "id": "harvard-hms-genetics-kamila-naxerova",
@@ -533,10 +533,10 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 5 postdoctoral fellows, 5 graduate students, 1 research technician, 1 research scientist",
+      "members_page_url": "https://www.naxerova.hms.harvard.edu/team",
+      "join_page_url": "https://www.naxerova.hms.harvard.edu/contact",
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/kamila-naxerova",
       "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
@@ -561,7 +561,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/marjorie-ann-oettinger",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. People link (molbio.massgeneral.org/people) is the whole Department of Molecular Biology's shared directory across many PIs, not Oettinger-lab-specific -- not counted."
     },
     {
       "id": "harvard-hms-genetics-lauren-orefice",
@@ -569,7 +569,7 @@
       "lab_name": null,
       "pi_name": "Lauren L Orefice",
       "pi_title": "Assistant Professor of Genetics, Harvard Medical School",
-      "pi_email": "Lauren_Orefice@hms.harvard.edu",
+      "pi_email": "orefice@molbio.mgh.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.oreficelab.org/",
       "location": null,
@@ -577,9 +577,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 20,
+      "member_breakdown": "1 PI, 7 postdoctoral fellows, 5 graduate students, 1 research assistant, 1 administrative assistant, 5 undergraduate students",
+      "members_page_url": "https://www.oreficelab.org/about",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/lauren-l-orefice",
@@ -605,7 +605,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/norbert-perrimon",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. perrimon.med.harvard.edu is Akamai-blocked from this network (documented gotcha)."
     },
     {
       "id": "harvard-hms-genetics-olivier-pourquie",
@@ -627,7 +627,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/olivier-pourquie",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. projects.iq.harvard.edu/pourquielab is Akamai-blocked from this network (documented gotcha pattern)."
     },
     {
       "id": "harvard-hms-genetics-david-reich",
@@ -643,9 +643,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 36,
+      "member_breakdown": "1 PI, 10 lab leadership/staff scientists, 10 postdoctoral fellows, 4 ancient-DNA technicians, 4 PhD students, 7 associates (also faculty/group leaders elsewhere)",
+      "members_page_url": "https://reich.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/david-emil-reich",
@@ -665,10 +665,10 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 2 senior research associates, 3 research fellows, 1 PhD-level researcher, 1 lab administrator (shared with Tabin/Cepko labs)",
+      "members_page_url": "https://www.ruvkun.hms.harvard.edu/our-team",
+      "join_page_url": "https://www.ruvkun.hms.harvard.edu/joining-the-ruvkun-lab",
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/gary-b-ruvkun",
       "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
@@ -693,7 +693,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/brian-seed",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Team section (ccib.mgh.harvard.edu/seed) shows alumni with their current (external) positions, not a current roster -- not counted."
     },
     {
       "id": "harvard-hms-genetics-jonathan-seidman",
@@ -709,9 +709,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 21,
+      "member_breakdown": "1 PI, 1 administrative manager, 1 clinical coordinator, 1 lab manager, 1 computational biologist, 1 instructor in genetics, 1 genetic researcher, 1 research fellow in genetics, 2 assistant professors, 1 research assistant, 2 instructors in medicine, 1 research assistant III, 1 research fellow (BWH), 1 instructor in medicine, 2 research fellows in genetics, 1 undergraduate student, 1 postdoctoral fellow, 1 pediatric cardiology fellow",
+      "members_page_url": "https://seidman.hms.harvard.edu/?page_id=904",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/jonathan-g-seidman",
@@ -737,7 +737,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/jen-sheen",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Site (molbio.mgh.harvard.edu/sheenweb) is essentially a blank stub page with only a welcome message; no roster found."
     },
     {
       "id": "harvard-hms-genetics-peter-sicinski",
@@ -759,7 +759,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/peter-sicinski",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. People page is an image-gallery template with no names in the static text; names not recoverable without individual image inspection."
     },
     {
       "id": "harvard-hms-genetics-david-sinclair",
@@ -775,9 +775,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 24,
+      "member_breakdown": "1 PI, 2 research associates, 2 project managers, 5 laboratory technicians, 4 research assistants, 6 graduate students (Ph.D.), 4 postdoctoral fellows",
+      "members_page_url": "https://sinclair.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/david-andrew-sinclair",
@@ -797,9 +797,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 3 graduate students, 1 administrative assistant",
+      "members_page_url": "https://www.thestreckerlab.org/members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/jonathan-strecker",
@@ -819,9 +819,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 administrative/grant coordinator, 4 research fellows, 1 graduate student, 3 Northeastern co-op students",
+      "members_page_url": "https://cellularlego.com/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/radhika-subramanian",
@@ -833,7 +833,7 @@
       "lab_name": null,
       "pi_name": "Clifford J. Tabin",
       "pi_title": "George Jacob and Jacqueline Hazel Leder Professor of Genetics",
-      "pi_email": null,
+      "pi_email": "tabin@genetics.med.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://tabin.hms.harvard.edu/",
       "location": null,
@@ -841,9 +841,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 1 administrative assistant (shared with Cepko lab), 7 postdoctoral fellows, 4 graduate students",
+      "members_page_url": "https://tabin.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/clifford-j-tabin",
@@ -869,7 +869,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/marc-vidal",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. dfhcc.harvard.edu page is a cancer-center membership directory entry, not a lab roster."
     },
     {
       "id": "harvard-hms-genetics-matthew-warman",
@@ -891,7 +891,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/matthew-l-warman",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. childrenshospital.org bot-protection block (documented gotcha); could not read."
     },
     {
       "id": "harvard-hms-genetics-fred-winston",
@@ -907,9 +907,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 graduate students",
+      "members_page_url": "https://winstonlab.hms.harvard.edu/lab-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/fred-marshall-winston",
@@ -935,7 +935,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/chao-ting-wu",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Members page (transvection.org/members) 404s; this Google Sites lab page may need direct in-browser navigation."
     },
     {
       "id": "harvard-hms-genetics-bruce-yankner",
@@ -943,7 +943,7 @@
       "lab_name": null,
       "pi_name": "Bruce A. Yankner",
       "pi_title": "Professor of Genetics",
-      "pi_email": null,
+      "pi_email": "Bruce_Yankner@hms.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://yankner.hms.harvard.edu/",
       "location": null,
@@ -951,9 +951,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 23,
+      "member_breakdown": "1 PI, 1 senior research associate, 10 postdoctoral fellows, 2 research assistants, 6 students, 1 lab manager, 1 additional postdoctoral fellow",
+      "members_page_url": "https://yankner.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/bruce-yankner",
@@ -979,7 +979,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://genetics.hms.harvard.edu/faculty-staff/yi-zhang",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. hsci.harvard.edu/people/* is Akamai-blocked from this network (documented gotcha)."
     }
   ],
   "non_lab_people": [

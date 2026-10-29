@@ -15,21 +15,21 @@
       "lab_name": null,
       "pi_name": "Jonathan Abraham",
       "pi_title": "Professor, Department of Microbiology, Harvard Medical School",
-      "pi_email": null,
+      "pi_email": "jonathan_abraham@hms.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://abrahamlab.med.harvard.edu/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "James Spencer (Lab Manager)",
+      "admin_email": "james_spencer@hms.harvard.edu",
       "research_summary": "Molecular biology, immunology, and structural biology",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 18,
+      "member_breakdown": "1 PI, 8 postdocs, 1 instructor, 7 grad students, 1 lab manager",
+      "members_page_url": "https://abrahamlab.med.harvard.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: counted current members on the lab's own people page (excludes Alumni section)."
     },
     {
       "id": "harvard-hms-microbiology-thomas-bernhardt",
@@ -42,16 +42,16 @@
       "lab_website": "http://www.bernhardtlab.com",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "James Spencer (Laboratory Manager)",
       "admin_email": null,
       "research_summary": "Bacterial genetics; mechanism of cell division and regulation",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 20,
+      "member_breakdown": "1 PI, 1 lab manager, 10 postdoctoral fellows, 7 graduate students, 1 undergraduate researcher",
+      "members_page_url": "http://www.bernhardtlab.com/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: team page states 'Showing 20 current lab members' explicitly."
     },
     {
       "id": "harvard-hms-microbiology-sophie-helaine",
@@ -67,13 +67,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Salmonella persisters during infection and bacterial growth control",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 5 postdoctoral fellows, 6 PhD students",
+      "members_page_url": "https://www.helainelab.com/helaine-lab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: 'Current' section on the people page (excludes 'Past')."
     },
     {
       "id": "harvard-hms-microbiology-darren-higgins",
@@ -89,13 +89,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Host-pathogen interactions: intracellular bacterial pathogens",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 2 PhD students",
+      "members_page_url": "http://higginslab.med.harvard.edu/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: full roster on the People page, no alumni section present."
     },
     {
       "id": "harvard-hms-microbiology-ann-hochschild",
@@ -111,13 +111,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Bacterial genetics; mechanisms of transcription and bacterial prions",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 1 research associate, 1 student, 1 affiliated associate professor (Emmanuel College), 1 unlabeled",
+      "members_page_url": "https://hochschildlab.med.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: 'Current Members' section (excludes 'Recent Members')."
     },
     {
       "id": "harvard-hms-microbiology-marco-jost",
@@ -133,13 +133,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Molecular mechanisms of host-microbiome interactions",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 2 postdoctoral scholars, 6 graduate students, 1 undergraduate, 1 research assistant",
+      "members_page_url": "https://www.jostlab.org/lab-members",
+      "join_page_url": "https://www.jostlab.org/join-us",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: 'Current Lab Members' page."
     },
     {
       "id": "harvard-hms-microbiology-david-knipe",
@@ -155,13 +155,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Molecular biology of herpes simplex virus; viral vaccines",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 6 postdoctoral fellows, 3 graduate students, 1 technician, 1 staff assistant",
+      "members_page_url": "http://knipelab.med.harvard.edu/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: People page table (excludes separate Alumni page)."
     },
     {
       "id": "harvard-hms-microbiology-aleksandar-kostic",
@@ -177,13 +177,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Microbiome-immune system interactions",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 postdoctoral fellows, 3 PhD students",
+      "members_page_url": "https://www.kosticlab.org/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: Team Members section (excludes 'Kostic Lab Alumni')."
     },
     {
       "id": "harvard-hms-microbiology-philip-kranzusch",
@@ -191,7 +191,7 @@
       "lab_name": null,
       "pi_name": "Philip Kranzusch",
       "pi_title": "Professor, Department of Microbiology, Harvard Medical School",
-      "pi_email": null,
+      "pi_email": "philip_kranzusch@dfci.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "http://kranzuschlab.med.harvard.edu/",
       "location": null,
@@ -199,13 +199,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Enzyme biochemistry and innate immune signaling",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 5 postdoctoral fellows, 4 graduate students, 2 research technicians",
+      "members_page_url": "http://kranzuschlab.med.harvard.edu/people.html",
+      "join_page_url": "http://kranzuschlab.med.harvard.edu/people.html",
+      "join_notes": "Page says the lab is actively seeking postdocs/grad students; prospective postdocs should email a CV, cover letter and references (address on the page).",
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: People page (excludes 'Kranzusch Lab Alumni')."
     },
     {
       "id": "harvard-hms-microbiology-m-lissa-l-ger-abraham",
@@ -221,13 +221,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Parasitic protein synthesis; structural and molecular biology",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 2 undergraduate students",
+      "members_page_url": "https://leger-abraham-laboratory.com/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: Team page (excludes Alumni)."
     },
     {
       "id": "harvard-hms-microbiology-john-mekalanos",
@@ -235,7 +235,7 @@
       "lab_name": null,
       "pi_name": "John Mekalanos",
       "pi_title": "Professor, Department of Microbiology, Harvard Medical School",
-      "pi_email": null,
+      "pi_email": "john_mekalanos@hms.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "http://mekalanoslab.med.harvard.edu",
       "location": null,
@@ -243,13 +243,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Protein chemistry and bacterial genetics",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 4 postdoctoral fellows, 1 graduate student, 2 research assistants",
+      "members_page_url": "http://mekalanoslab.med.harvard.edu/members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: Members page (excludes Alumni)."
     },
     {
       "id": "harvard-hms-microbiology-jeffrey-moffitt",
@@ -257,7 +257,7 @@
       "lab_name": null,
       "pi_name": "Jeffrey Moffitt",
       "pi_title": "Associate Professor, Department of Microbiology, Harvard Medical School",
-      "pi_email": null,
+      "pi_email": "jeffrey.moffitt@childrens.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://moffittlab.github.io/index.html",
       "location": null,
@@ -265,13 +265,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "In situ single-cell omics in the microbiome-gut-brain axis",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 6 postdoctoral fellows/visiting scholars, 7 graduate students/visiting scholars",
+      "members_page_url": "https://moffittlab.github.io/people.html",
+      "join_page_url": "https://moffittlab.github.io/joinus.html",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: People page (excludes Alumni)."
     },
     {
       "id": "harvard-hms-microbiology-silvi-rouskin",
@@ -287,13 +287,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "RNA viruses and RNA-structure based gene regulation in disease",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 4 graduate students, 1 master's student, 3 undergraduates, 1 research associate",
+      "members_page_url": "http://www.rouskinlab.com/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former)."
     },
     {
       "id": "harvard-hms-microbiology-david-rudner",
@@ -309,13 +309,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Cell envelope biogenesis in gram-positive bacteria; entrance/exit from dormancy",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 9 postdoctoral fellows, 4 graduate students, 1 undergraduate, 1 core facility manager",
+      "members_page_url": "http://rudnerlab.med.harvard.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former)."
     },
     {
       "id": "harvard-hms-microbiology-aaron-schmidt",
@@ -323,7 +323,7 @@
       "lab_name": null,
       "pi_name": "Aaron Schmidt",
       "pi_title": "Associate Professor, Department of Microbiology, Harvard Medical School",
-      "pi_email": null,
+      "pi_email": "aaron_schmidt@hms.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://schmidtlab.med.harvard.edu/",
       "location": null,
@@ -331,13 +331,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Protein engineering, antibody evolution and small-molecule discovery",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 1 staff scientist, 3 postdoctoral fellows, 6 graduate students, 1 visiting graduate student, 2 research assistants, 2 undergraduates",
+      "members_page_url": "https://schmidtlab.med.harvard.edu/people",
+      "join_page_url": "https://schmidtlab.med.harvard.edu/people",
+      "join_notes": "Postdocs: send 3 letters of recommendation, CV and cover letter. Grad students at Harvard/MIT: email Aaron about rotations. Undergrads: email about semester/summer options.",
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former)."
     },
     {
       "id": "harvard-hms-microbiology-joseph-sodroski",
@@ -359,7 +359,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: lab_website (dms.hms.harvard.edu) fails to resolve (DNS error, net::ERR_NAME_NOT_RESOLVED) -- appears to be a dead/retired domain. Member_count left null."
     },
     {
       "id": "harvard-hms-microbiology-michael-starnbach",
@@ -381,7 +381,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: lab_website (starnbachlab.med.harvard.edu) fails to resolve (DNS error, net::ERR_NAME_NOT_RESOLVED) -- appears to be a dead/retired domain. Member_count left null."
     },
     {
       "id": "harvard-hms-microbiology-suzanne-walker",
@@ -389,21 +389,21 @@
       "lab_name": null,
       "pi_name": "Suzanne Walker",
       "pi_title": "Professor, Department of Microbiology, Harvard Medical School",
-      "pi_email": null,
+      "pi_email": "Suzanne_Walker@hms.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://walkerlab.hms.harvard.edu",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Melissa LeGrand (Faculty Assistant); Mike Quinn (Lab Administrator)",
+      "admin_email": "mlegrand@fas.harvard.edu",
       "research_summary": "Chemical biology applied to microbial systems",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 2 administrative/lab staff, 4 postdoctoral fellows, 1 PhD student, 1 undergraduate",
+      "members_page_url": "https://walkerlab.hms.harvard.edu/new-page",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former)."
     },
     {
       "id": "harvard-hms-microbiology-shira-weingarten-gabbay",
@@ -411,21 +411,21 @@
       "lab_name": null,
       "pi_name": "Shira Weingarten-Gabbay",
       "pi_title": "Assistant Professor, Department of Microbiology, Harvard Medical School",
-      "pi_email": null,
+      "pi_email": "shira_weingarten@hms.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.shiraweingartengabbay.com/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Jessie Kaplan-Bie (Lab Manager and Research Associate)",
+      "admin_email": "jessie_kaplan-bie@hms.harvard.edu",
       "research_summary": "Decoding viral genomes; translational control and viral immunology",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 lab manager, 3 postdoctoral fellows, 1 graduate student, 1 research associate",
+      "members_page_url": "https://www.shiraweingartengabbay.com/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page."
+      "notes": "Breadth pass from the department's own core-faculty page; lab_website is an outbound link found on that page. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former)."
     },
     {
       "id": "harvard-hms-microbiology-dan-barouch",
@@ -447,7 +447,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Beth Israel Deaconess Medical Center, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Beth Israel Deaconess Medical Center, not HMS itself. Breadth pass only. Depth pass: the CVVR institute page for Barouch Laboratory gives only a research description and a 'Website' link; no roster/member list found there or on CVVR's general People/Investigators pages specific to his group -- member_count left null."
     },
     {
       "id": "harvard-hms-microbiology-michael-baym",
@@ -469,7 +469,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is HMS Department of Biomedical Informatics, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is HMS Department of Biomedical Informatics, not HMS itself. Breadth pass only. Depth pass: lab's own site is a single-page news feed (joining/leaving announcements over many years) with no current roster list or 'Lab Members' page found -- member_count left null; a rough reading of recent news suggests several current PhD students/postdocs but not an exact or reliable count."
     },
     {
       "id": "harvard-hms-microbiology-james-cunningham",
@@ -491,7 +491,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Brigham and Women's Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Brigham and Women's Hospital, not HMS itself. Breadth pass only. Depth pass: the only lab_website given (a Harvard Catalyst Profiles page) renders empty even after Playwright -- no roster found, member_count left null."
     },
     {
       "id": "harvard-hms-microbiology-min-dong",
@@ -507,13 +507,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Bacterial toxins, protein therapeutics, and host-pathogen interactions",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 senior scientist, 7 postdoctoral fellows, 1 research assistant",
+      "members_page_url": "http://donglab.hms.harvard.edu/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Boston Children's Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Boston Children's Hospital, not HMS itself. Breadth pass only. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former)."
     },
     {
       "id": "harvard-hms-microbiology-stephanie-dougan",
@@ -535,7 +535,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Dana-Farber Cancer Institute, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Dana-Farber Cancer Institute, not HMS itself. Breadth pass only. Depth pass: lab's Dana-Farber-hosted site (labs.dana-farber.org template) has an essentially empty Lab Members page (just nav, no names) even after Playwright rendering -- member_count left null."
     },
     {
       "id": "harvard-hms-microbiology-simon-dove",
@@ -543,7 +543,7 @@
       "lab_name": null,
       "pi_name": "Simon Dove",
       "pi_title": "Associate Professor, Affiliate Faculty, Department of Microbiology, Harvard Medical School; primary appointment at Boston Children's Hospital",
-      "pi_email": null,
+      "pi_email": "simon.dove@childrens.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://dovelab.org/",
       "location": null,
@@ -551,13 +551,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Virulence gene expression in pathogenic bacteria",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 3 postdoctoral fellows, 3 graduate students, 1 research assistant",
+      "members_page_url": "https://dovelab.org/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Boston Children's Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Boston Children's Hospital, not HMS itself. Breadth pass only. Depth pass: Our Team page, no alumni section present."
     },
     {
       "id": "harvard-hms-microbiology-jeffrey-dvorin",
@@ -573,13 +573,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Molecular pathogenesis of human malaria infection",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 3 postdoctoral fellows, 3 graduate students, 1 research assistant, 1 unlabeled member",
+      "members_page_url": "https://www.dvorinlab.org/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Boston Children's Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Boston Children's Hospital, not HMS itself. Breadth pass only. Depth pass: People page (excludes 'Members who have egressed from the lab')."
     },
     {
       "id": "harvard-hms-microbiology-alan-engelman",
@@ -601,7 +601,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Dana-Farber Cancer Institute, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Dana-Farber Cancer Institute, not HMS itself. Breadth pass only. Depth pass: lab's Dana-Farber-hosted site (labs.dana-farber.org template) has an essentially empty Lab Members page (just nav, no names) even after Playwright rendering -- member_count left null."
     },
     {
       "id": "harvard-hms-microbiology-sarah-fortune",
@@ -609,21 +609,21 @@
       "lab_name": null,
       "pi_name": "Sarah Fortune",
       "pi_title": "Professor, Affiliate Faculty, Department of Microbiology, Harvard Medical School; primary appointment at Harvard Chan School",
-      "pi_email": null,
+      "pi_email": "sfortune@hsph.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.hsph.harvard.edu/fortune-lab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Lili Welch (lab coordinator)",
+      "admin_email": "lwelch@hsph.harvard.edu",
       "research_summary": "Mycobacterium tuberculosis pathogenesis",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 22,
+      "member_breakdown": "1 PI, 13 research scientists/associates/assistants, 6 postdoctoral fellows, 2 graduate students",
+      "members_page_url": "https://hsph.harvard.edu/research/fortune-lab/the-team/",
+      "join_page_url": "https://hsph.harvard.edu/research/fortune-lab/the-team/",
+      "join_notes": "Students/postdocs interested in the lab: email Sarah Fortune (sfortune@hsph.harvard.edu) and cc Lili Welch (lwelch@hsph.harvard.edu) with a CV and statement of interest.",
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Harvard Chan School, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Harvard Chan School, not HMS itself. Breadth pass only. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former)."
     },
     {
       "id": "harvard-hms-microbiology-ruth-franklin",
@@ -631,21 +631,21 @@
       "lab_name": null,
       "pi_name": "Ruth Franklin",
       "pi_title": "Assistant Professor, Affiliate Faculty, Department of Microbiology, Harvard Medical School; primary appointment at Harvard Department of Stem Cell and Regenerative Biology",
-      "pi_email": null,
+      "pi_email": "ruthfranklin@fas.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.ruthfranklinlab.com/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Shahinoor Begum (Lab Manager)",
       "admin_email": null,
       "research_summary": "The immune system beyond host defense",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 lab manager, 4 postdoctoral fellows, 4 graduate students",
+      "members_page_url": "https://www.ruthfranklinlab.com/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Harvard Department of Stem Cell and Regenerative Biology, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Harvard Department of Stem Cell and Regenerative Biology, not HMS itself. Breadth pass only. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former)."
     },
     {
       "id": "harvard-hms-microbiology-dana-gabuzda",
@@ -658,16 +658,16 @@
       "lab_website": "https://gabuzdalab.dana-farber.org",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Vikas Misra (Lab Manager)",
       "admin_email": null,
       "research_summary": "HIV molecular biology and pathogenesis",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 4 postdoctoral fellows, 2 research scientists, 1 lab manager, 1 visiting scholar, 2 affiliated clinicians (neurologist, pathologist)",
+      "members_page_url": "https://gabuzdalab.dana-farber.org/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Dana-Farber Cancer Institute, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Dana-Farber Cancer Institute, not HMS itself. Breadth pass only. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former)."
     },
     {
       "id": "harvard-hms-microbiology-benjamin-gewurz",
@@ -683,13 +683,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Epstein-Barr virus replication, pathogenesis and cancer biology",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 8 postdoctoral fellows",
+      "members_page_url": "https://gewurzlab.bwh.harvard.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Brigham and Women's Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Brigham and Women's Hospital, not HMS itself. Breadth pass only. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former)."
     },
     {
       "id": "harvard-hms-microbiology-michael-s-gilmore",
@@ -711,7 +711,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Mass Eye and Ear Infirmary, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Mass Eye and Ear Infirmary, not HMS itself. Breadth pass only. Depth pass: the only lab_website given (a Harvard Catalyst Profiles page) renders empty even after Playwright -- no roster found, member_count left null."
     },
     {
       "id": "harvard-hms-microbiology-marcia-goldberg",
@@ -724,16 +724,16 @@
       "lab_website": "http://goldberglab.med.harvard.edu",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Alice Pham (Technician & Lab Manager)",
       "admin_email": null,
       "research_summary": "Molecular mechanisms of intracellular bacterial infection and innate immune responses",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 3 postdoctoral fellows/clinical fellows, 2 instructors, 1 research scientist, 1 graduate student, 1 technician/lab manager",
+      "members_page_url": "http://goldberglab.med.harvard.edu/the-lab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Mass General Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Mass General Hospital, not HMS itself. Breadth pass only. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former/Recent Past)."
     },
     {
       "id": "harvard-hms-microbiology-smita-gopinath",
@@ -741,7 +741,7 @@
       "lab_name": null,
       "pi_name": "Smita Gopinath",
       "pi_title": "Assistant Professor, Affiliate Faculty, Department of Microbiology, Harvard Medical School; primary appointment at Harvard Chan School",
-      "pi_email": null,
+      "pi_email": "sgopinath@hsph.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.gopinathlab.org/",
       "location": null,
@@ -749,13 +749,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Host-pathogen interaction modulated by the microbiota",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 graduate student",
+      "members_page_url": "https://www.gopinathlab.org/home/members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Harvard Chan School, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Harvard Chan School, not HMS itself. Breadth pass only. Very small lab; several names appear under 'Lab Alumni' despite titles suggesting they were recent. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former/Recent Past)."
     },
     {
       "id": "harvard-hms-microbiology-sizun-jiang",
@@ -771,13 +771,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Systems biology, tissue mechanisms of microbe-host interactions, spatial-omics",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 1 lab manager, 1 staff scientist, 7 postdoctoral fellows, 1 graduate student, 1 visiting graduate student, 1 visiting medical student, 1 research assistant",
+      "members_page_url": "https://sizunjianglab.com/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Beth Israel Deaconess Medical Center, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Beth Israel Deaconess Medical Center, not HMS itself. Breadth pass only. Depth pass: core team only, excluding 'FRIENDS OF THE LAB' (postdocs based in other PIs' labs) and 'ALUMNI'. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former/Recent Past)."
     },
     {
       "id": "harvard-hms-microbiology-jonathan-kagan",
@@ -785,21 +785,21 @@
       "lab_name": null,
       "pi_name": "Jonathan Kagan",
       "pi_title": "Professor, Affiliate Faculty, Department of Microbiology, Harvard Medical School; primary appointment at Boston Children's Hospital",
-      "pi_email": null,
+      "pi_email": "jonathan.kagan@childrens.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "http://kaganlab.com/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Katie Hosman (Lab Manager/Research Assistant)",
+      "admin_email": "katie.hosman@childrens.harvard.edu",
       "research_summary": "Regulation of Toll-like receptor signaling",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 5 postdoctoral fellows, 5 graduate students, 1 lab manager",
+      "members_page_url": "https://kaganlab.wordpress.com/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Boston Children's Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Boston Children's Hospital, not HMS itself. Breadth pass only. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former/Recent Past)."
     },
     {
       "id": "harvard-hms-microbiology-j-r-mie-le-pen",
@@ -843,7 +843,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Mass General Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Mass General Hospital, not HMS itself. Breadth pass only. Depth pass: lab_website is Lemieux's own profile page within the Sabeti Lab site (he was a postdoc there; his own bio quotes 'The Lemieux lab integrates computational and experimental studies...'), but there is no separate roster/people page for a distinct Lemieux group -- it's embedded in Sabeti Lab's team page with no sub-group breakdown. member_count left null rather than misattributing Sabeti Lab's own headcount."
     },
     {
       "id": "harvard-hms-microbiology-mahmoud-nasr",
@@ -865,7 +865,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Brigham and Women's Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Brigham and Women's Hospital, not HMS itself. Breadth pass only. Depth pass: the only lab_website given (a Harvard Catalyst Profiles page) renders empty even after Playwright -- no roster found, member_count left null."
     },
     {
       "id": "harvard-hms-microbiology-roni-nowarski",
@@ -881,13 +881,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Tissue regulation of immunity and inflammation",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 2 graduate students",
+      "members_page_url": "https://www.nowarskilab.com/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Brigham and Women's Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Brigham and Women's Hospital, not HMS itself. Breadth pass only. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former)."
     },
     {
       "id": "harvard-hms-microbiology-gerald-pier",
@@ -909,7 +909,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Brigham and Women's Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Brigham and Women's Hospital, not HMS itself. Breadth pass only. Depth pass: lab_website (ogephd.hms.harvard.edu) returns an Akamai 'Access Denied' from this network -- same pattern as other blocked harvard.edu subdomains documented in CLAUDE.md. Member_count left null."
     },
     {
       "id": "harvard-hms-microbiology-samuel-rabkin",
@@ -931,7 +931,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Mass General Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Mass General Hospital, not HMS itself. Breadth pass only. Depth pass: the only lab_website given (a Harvard Catalyst Profiles page) renders empty even after Playwright -- no roster found, member_count left null."
     },
     {
       "id": "harvard-hms-microbiology-laurence-rahme",
@@ -939,21 +939,21 @@
       "lab_name": null,
       "pi_name": "Laurence Rahme",
       "pi_title": "Professor, Affiliate Faculty, Department of Microbiology, Harvard Medical School; primary appointment at Mass General Hospital",
-      "pi_email": null,
+      "pi_email": "lgrahme@partners.org",
       "accepting_grad_students": null,
       "lab_website": "https://www.rahmelaboratory.org/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Kristin Robinson (Senior Administrative Manager for Research)",
       "admin_email": null,
       "research_summary": "Multi-host bacterial pathogenesis",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 4 postdoctoral research fellows, 1 graduate student, 1 administrative manager",
+      "members_page_url": "https://www.rahmelaboratory.org/our-team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Mass General Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Mass General Hospital, not HMS itself. Breadth pass only. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former)."
     },
     {
       "id": "harvard-hms-microbiology-seth-rakoff-nahoum",
@@ -969,13 +969,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Understanding host-associated microbial communities",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 20,
+      "member_breakdown": "1 PI, 2 affiliated attending physicians, 1 senior scientist, 1 fellow, 1 research fellow, 5 postdoctoral fellows, 3 PhD candidates, 2 research assistants, 1 undergraduate, 3 clinical research fellows",
+      "members_page_url": "http://www.srnlab.com/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Boston Children's Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Boston Children's Hospital, not HMS itself. Breadth pass only. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former)."
     },
     {
       "id": "harvard-hms-microbiology-eric-rubin",
@@ -983,21 +983,21 @@
       "lab_name": null,
       "pi_name": "Eric Rubin",
       "pi_title": "Professor, Affiliate Faculty, Department of Microbiology, Harvard Medical School; primary appointment at Harvard Chan School",
-      "pi_email": null,
+      "pi_email": "erubin@hsph.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://hsph.harvard.edu/research/rubin-lab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Emmy Dove (Research Assistant/Lab Manager); Kristi Guinn (Project Manager)",
+      "admin_email": "kguinn@hsph.harvard.edu",
       "research_summary": "The molecular pathogenesis of Mycobacterium tuberculosis",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 1 graduate student, 2 research scientists/associates, 1 senior research assistant, 2 admin/management staff",
+      "members_page_url": "https://hsph.harvard.edu/research/rubin-lab/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Harvard Chan School, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Harvard Chan School, not HMS itself. Breadth pass only. Depth pass: counted current members on the lab's own people page (excludes Former Members)."
     },
     {
       "id": "harvard-hms-microbiology-matthew-waldor",
@@ -1005,21 +1005,21 @@
       "lab_name": null,
       "pi_name": "Matthew Waldor",
       "pi_title": "Professor, Affiliate Faculty, Department of Microbiology, Harvard Medical School; primary appointment at Brigham and Women's Hospital",
-      "pi_email": null,
+      "pi_email": "mwaldor@research.bwh.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.waldorlab.com/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Loc Duyen Pham (Lab Manager)",
+      "admin_email": "lpham1@mgh.harvard.edu",
       "research_summary": "Evolution, cell biology, and pathogenicity of Vibrio cholerae",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 9 postdoctoral fellows, 2 technical research assistants, 1 lab manager",
+      "members_page_url": "https://www.waldorlab.com/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Brigham and Women's Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Brigham and Women's Hospital, not HMS itself. Breadth pass only. Depth pass: counted current members on the lab's own people page (excludes Former Members)."
     },
     {
       "id": "harvard-hms-microbiology-paula-watnick",
@@ -1035,13 +1035,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Host-pathogen/commensal metabolic interactions",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 4 postdoctoral fellows, 1 research assistant, 1 graduate student",
+      "members_page_url": "https://paulawatnicklab.com/laboratory-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Boston Children's Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Boston Children's Hospital, not HMS itself. Breadth pass only. Depth pass: Laboratory Members page (excludes Previous Lab Members); no PI email shown."
     },
     {
       "id": "harvard-hms-microbiology-michael-wessels",
@@ -1063,7 +1063,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Boston Children's Hospital, not HMS itself. Breadth pass only."
+      "notes": "Affiliate faculty listed on the Microbiology department's own page; home institution is Boston Children's Hospital, not HMS itself. Breadth pass only. Depth pass: the only lab_website given (a Harvard Catalyst Profiles page) renders empty even after Playwright -- no roster found, member_count left null."
     }
   ],
   "non_lab_people": [

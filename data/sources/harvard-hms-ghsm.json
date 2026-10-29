@@ -30,7 +30,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://ghsm.hms.harvard.edu/faculty-staff/satchit-balsari-md-mph",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: Balsari Lab site (balsarilab.com) read; no People/Team roster page found (site organized by project, not by member) and no email shown on either site. Left member_count and pi_email null."
     },
     {
       "id": "harvard-hms-ghsm-matthew-basilico",
@@ -118,7 +118,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://ghsm.hms.harvard.edu/faculty-staff/anne-edith-becker",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth/email pass 2026-10-29: email found via mailto on HMS profile page. lab_website given was an MGH physician-directory bio page, not a research-group site; no team roster found."
     },
     {
       "id": "harvard-hms-ghsm-asaf-bitton",
@@ -206,7 +206,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://ghsm.hms.harvard.edu/faculty-staff/gene-bukhman",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth/email pass 2026-10-29: email found via mailto on HMS profile page. lab_website subpage (centerforintegrationscience.org/projects/overview/) 404s; center homepage not explored further."
     },
     {
       "id": "harvard-hms-ghsm-grace-chan",
@@ -250,7 +250,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://ghsm.hms.harvard.edu/faculty-staff/bethany-rose-daubman-md",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Email pass 2026-10-29: no email shown on her HMS profile page."
     },
     {
       "id": "harvard-hms-ghsm-ganmaa-davaasambuu",
@@ -316,7 +316,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://ghsm.hms.harvard.edu/faculty-staff/alexandra-golby-md",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: lab_website given is an NCBI publications bibliography page, not a lab site; no roster or email found there or on her HMS profile."
     },
     {
       "id": "harvard-hms-ghsm-joseph-gone",
@@ -338,7 +338,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://ghsm.hms.harvard.edu/faculty-staff/joseph-gone",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth/email pass 2026-10-29: email found via mailto on HMS profile page. gonetowar.com is his personal academic site describing an active individual research program (Indigenous community mental health); no formal lab roster/team page, so member_count left null."
     },
     {
       "id": "harvard-hms-ghsm-byron-good",
@@ -404,7 +404,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://ghsm.hms.harvard.edu/faculty-staff/md-aminul-islam-dvm-phd",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Email pass 2026-10-29: no email shown on his HMS profile page."
     },
     {
       "id": "harvard-hms-ghsm-louise-ivers",
@@ -778,7 +778,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://ghsm.hms.harvard.edu/faculty-staff/katherine-ratzan-peeler-md",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Email pass 2026-10-29: no email shown on her HMS profile page."
     },
     {
       "id": "harvard-hms-ghsm-scott-podolsky",

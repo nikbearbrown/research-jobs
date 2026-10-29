@@ -27,16 +27,16 @@
       "lab_website": "https://adelman.hms.harvard.edu/",
       "location": null,
       "phone": "617-432-5272",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Emily Egan (Lab Manager)",
+      "admin_email": "Emily_Egan@hms.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 6 postdoctoral fellows, 4 graduate students, 1 lab manager, 1 research assistant",
+      "members_page_url": "https://adelman.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/karen-adelman",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own People page."
     },
     {
       "id": "harvard-hms-bcmp-haribabu-arthanari",
@@ -58,7 +58,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/haribabu-arthanari",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: this lab's site is hosted on Dana-Farber's secondary-website CMS (labs.dana-farber.org), which serves the homepage template for every sub-path tried (People/Lab Members/Members), confirmed via both plain HTTP and Playwright render -- a platform-wide routing issue affecting all DFCI-hosted lab sites checked this round, not specific to this lab. No roster could be read."
     },
     {
       "id": "harvard-hms-bcmp-welcome-bender",
@@ -74,13 +74,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 research assistant",
+      "members_page_url": "https://bender.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/welcome-w-bender",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: small lab, read the lab's own People page. PI email already on file."
     },
     {
       "id": "harvard-hms-bcmp-stephen-blacklow",
@@ -93,16 +93,16 @@
       "lab_website": "https://blacklow.hms.harvard.edu/",
       "location": null,
       "phone": "617-432-5176",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Shawnie Wilde (Executive Assistant)",
+      "admin_email": "hunter_wilde@hms.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 5 postdoctoral fellows, 2 research associates, 3 graduate students, 1 executive assistant",
+      "members_page_url": "https://blacklow.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/stephen-charles-blacklow",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own People page, excluded the long Alumni list."
     },
     {
       "id": "harvard-hms-bcmp-alan-brown",
@@ -124,7 +124,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/alan-brown",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: lab_website (brown.hms.harvard.edu) now returns a 404 (confirmed via plain fetch and Playwright); likely a dead/decommissioned site. No member data could be read."
     },
     {
       "id": "harvard-hms-bcmp-sara-buhrlage",
@@ -146,7 +146,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/sara-buhrlage",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: this lab's site is hosted on Dana-Farber's secondary-website CMS (labs.dana-farber.org), which serves the homepage template for every sub-path tried (People/Lab Members/Members), confirmed via both plain HTTP and Playwright render -- a platform-wide routing issue affecting all DFCI-hosted lab sites checked this round, not specific to this lab. No roster could be read."
     },
     {
       "id": "harvard-hms-bcmp-stephen-buratowski",
@@ -159,16 +159,16 @@
       "lab_website": "https://buratowski.hms.harvard.edu/",
       "location": null,
       "phone": "617-432-0696",
-      "admin_name": null,
+      "admin_name": "Robin Buratowski (Lab Manager)",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 lab manager, 5 postdoctoral fellows",
+      "members_page_url": "https://buratowski.hms.harvard.edu/lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/stephen-buratowski",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own Current Lab Members page."
     },
     {
       "id": "harvard-hms-bcmp-alan-cantor",
@@ -228,13 +228,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 postdoctoral fellows",
+      "members_page_url": "https://clardy.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/jon-clardy",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own People page; huge historical Alumni list excluded."
     },
     {
       "id": "harvard-hms-bcmp-donald-coen",
@@ -250,13 +250,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 1,
+      "member_breakdown": "1 PI; no other current lab members listed (only a short Alumni list)",
+      "members_page_url": "https://coen.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/donald-mark-coen",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own People page. PI email already on file, reconfirmed via mailto."
     },
     {
       "id": "harvard-hms-bcmp-philip-cole",
@@ -272,13 +272,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 8 graduate students, 4 undergraduate students",
+      "members_page_url": "https://philcolelab.org/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/philip-cole",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own People page."
     },
     {
       "id": "harvard-hms-bcmp-alan-dandrea",
@@ -338,13 +338,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 5 postdoctoral fellows, 5 graduate students, 1 undergraduate student, 1 senior technician",
+      "members_page_url": "https://delmarmol.hms.harvard.edu/people",
+      "join_page_url": "https://delmarmol.hms.harvard.edu/interested-joining-our-team",
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/josefina-del-marmol",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own People page."
     },
     {
       "id": "harvard-hms-bcmp-sloan-devlin",
@@ -360,13 +360,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 4 postdoctoral fellows, 6 graduate/MD-PhD students",
+      "members_page_url": "https://devlin.hms.harvard.edu/people/",
+      "join_page_url": "https://devlin.hms.harvard.edu/contact/",
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/sloan-devlin",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own Group Members page."
     },
     {
       "id": "harvard-hms-bcmp-michael-eck",
@@ -388,7 +388,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/michael-joseph-eck",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: this lab's site is hosted on Dana-Farber's secondary-website CMS (labs.dana-farber.org), which serves the homepage template for every sub-path tried (People/Lab Members/Members), confirmed via both plain HTTP and Playwright render -- a platform-wide routing issue affecting all DFCI-hosted lab sites checked this round, not specific to this lab. No roster could be read."
     },
     {
       "id": "harvard-hms-bcmp-elaine-elion",
@@ -432,7 +432,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/eric-sebastian-fischer",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: this lab's site is hosted on Dana-Farber's secondary-website CMS (labs.dana-farber.org), which serves the homepage template for every sub-path tried (People/Lab Members/Members), confirmed via both plain HTTP and Playwright render -- a platform-wide routing issue affecting all DFCI-hosted lab sites checked this round, not specific to this lab. No roster could be read."
     },
     {
       "id": "harvard-hms-bcmp-david-fisher",
@@ -555,16 +555,16 @@
       "lab_website": "http://crystal.harvard.edu/",
       "location": null,
       "phone": "617-432-5609",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Karen E. Lee (Laboratory Manager II)",
+      "admin_email": "lee@crystal.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 21,
+      "member_breakdown": "1 PI, 1 lab manager, 1 research scientist, 1 EM manager, 1 instructor, 1 senior research administrator, 1 computer analyst, 2 lab aides, 4 research assistants/technicians, 4 postdoctoral fellows, 3 graduate students",
+      "members_page_url": "https://crystal.harvard.edu/our-laboratory/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/stephen-coplan-harrison",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own 'Our Laboratory' staff directory page."
     },
     {
       "id": "harvard-hms-bcmp-hanno-hock",
@@ -599,16 +599,16 @@
       "lab_website": "http://www.hurlab.org",
       "location": null,
       "phone": "617-713-8250",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Celia Torres (Lab Manager)",
+      "admin_email": "celia.torres@childrens.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 10 postdoctoral fellows, 2 research specialists, 3 graduate students, 1 lab manager",
+      "members_page_url": "https://www.hurlab.org/members",
+      "join_page_url": "https://www.hurlab.org/contact-5",
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/sun-hur",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own Members page (Wix site)."
     },
     {
       "id": "harvard-hms-bcmp-cigall-kadoch",
@@ -652,7 +652,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/daniel-kahne",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: lab_website (chem.harvard.edu/groups/kahne) times out (30s, Playwright) on repeated attempts; note this is a different, older Kahne-affiliated site than kahnelabharvard.com already recorded for him under harvard-chemistry.json. No member data could be read from this URL."
     },
     {
       "id": "harvard-hms-bcmp-maria-kontaridis",
@@ -687,16 +687,16 @@
       "lab_website": "https://kruse.hms.harvard.edu/",
       "location": null,
       "phone": "617-432-3252",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Anthony Banks (Research Assistant III / Lab Manager)",
+      "admin_email": "Anthony_Banks@hms.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 5 postdoctoral fellows, 5 graduate students, 2 research assistants (one also lab manager), 1 assistant professor, 1 undergraduate student",
+      "members_page_url": "https://kruse.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/andrew-kruse",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own People page."
     },
     {
       "id": "harvard-hms-bcmp-andrew-lassar",
@@ -756,13 +756,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 7 postdoctoral fellows, 4 graduate students, 1 undergraduate student (1 affiliated associate professor not counted)",
+      "members_page_url": "https://loparo.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/joseph-john-loparo",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own People page."
     },
     {
       "id": "harvard-hms-bcmp-thomas-michel",
@@ -819,16 +819,16 @@
       "lab_website": "http://polizzilab.org",
       "location": null,
       "phone": "716-803-3704",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Amanda Judge (Executive Support Specialist)",
+      "admin_email": "Amanda_Judge@DFCI.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 6 graduate students, 3 postdoctoral fellows, 1 associate computational biologist, 1 research technician, 1 executive support specialist",
+      "members_page_url": "http://polizzilab.org/#team-section",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/nicholas-polizzi",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own Team section, excluded Lab Alumni and Rotation students."
     },
     {
       "id": "harvard-hms-bcmp-thomas-roberts",
@@ -850,7 +850,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/thomas-mccoy-roberts",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: the given dfhcc.harvard.edu member-detail URL now redirects to the generic Harvard Cancer Consortium homepage with no mention of Roberts -- a dead/moved link. No current lab_website or roster found in this pass."
     },
     {
       "id": "harvard-hms-bcmp-rosalind-segal",
@@ -907,16 +907,16 @@
       "lab_website": "https://shih.hms.harvard.edu/",
       "location": null,
       "phone": "617-632-5143",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Jessica Rodriguez (Executive Assistant)",
+      "admin_email": "jessica_rodriguez@dfci.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 senior scientist, 1 staff scientist, 9 research fellows, 1 researcher",
+      "members_page_url": "https://www.shih.hms.harvard.edu/current-team",
+      "join_page_url": "https://www.shih.hms.harvard.edu/opportunities",
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/william-shih",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own Current Team page."
     },
     {
       "id": "harvard-hms-bcmp-steven-shoelson",
@@ -960,7 +960,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/piotr-sliz",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: lab site has no People/Team page, organized only by research topic (microRNA Biogenesis, Structural Bioinformatics); no roster or email found."
     },
     {
       "id": "harvard-hms-bcmp-timothy-springer",
@@ -982,7 +982,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/timothy-alan-springer",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: lab_website (timothyspringer.org) returns Akamai 'Access Denied' from this network, same pattern as other blocked personal Harvard-affiliated sites; no member data could be read."
     },
     {
       "id": "harvard-hms-bcmp-kevin-struhl",
@@ -998,13 +998,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 1 instructor, 1 technician (explicitly stated on the page; individual names on a sub-page not fetched)",
+      "members_page_url": "https://struhl.hms.harvard.edu/index.php/people/current-lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/kevin-struhl",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: People page states the current headcount directly."
     },
     {
       "id": "harvard-hms-bcmp-shamil-sunyaev",
@@ -1061,16 +1061,16 @@
       "lab_website": "https://gwagner.hms.harvard.edu/",
       "location": null,
       "phone": "617-432-3213",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Maura Kilcommons (Faculty Assistant)",
+      "admin_email": "maura_kilcommons@hms.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 2 research associates, 1 NMR core facility director, 1 faculty assistant",
+      "members_page_url": "https://gwagner.hms.harvard.edu/people/current",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/gerhard-wagner",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own Current Members page."
     },
     {
       "id": "harvard-hms-bcmp-loren-walensky",
@@ -1105,16 +1105,16 @@
       "lab_website": "https://walter.hms.harvard.edu/",
       "location": null,
       "phone": "617-432-4799",
-      "admin_name": null,
+      "admin_name": "Robert Nykodym (Lab Manager)",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 7 postdoctoral fellows, 3 PhD/MD-PhD students, 2 undergraduates, 1 lab manager",
+      "members_page_url": "https://walter.hms.harvard.edu/people/",
+      "join_page_url": "https://walter.hms.harvard.edu/join/",
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/johannes-walter",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own People page, excluded the Alumni table."
     },
     {
       "id": "harvard-hms-bcmp-morris-jr",
@@ -1149,16 +1149,16 @@
       "lab_website": "http://wonglab.tch.harvard.edu/Site/Home.html",
       "location": null,
       "phone": "617-713-8383",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Lyndsay Popps (Administrative Assistant)",
+      "admin_email": "Lyndsay.Popps@childrens.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 5 postdoctoral fellows, 2 instructors, 2 staff scientists, 2 graduate students, 1 administrative assistant",
+      "members_page_url": "https://www.wonglab.tch.harvard.edu/members",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Homepage/Members page says the lab is always looking for postdoctoral and graduate student candidates; contact via the site's 'Get in touch' form.",
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/wesley-philip-wong",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own Members page."
     },
     {
       "id": "harvard-hms-bcmp-hao-wu",
@@ -1180,7 +1180,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/hao-wu",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: the lab's Members page (wulab.tch.harvard.edu/members) timed out under Playwright (30s, networkidle never reached) on repeated attempts; homepage itself has no roster, only news. No member data could be read."
     },
     {
       "id": "harvard-hms-bcmp-paul-yu",
@@ -1224,7 +1224,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/jean-j-zhao",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: this lab's site is hosted on Dana-Farber's secondary-website CMS (labs.dana-farber.org), which serves the homepage template for every sub-path tried (People/Lab Members/Members), confirmed via both plain HTTP and Playwright render -- a platform-wide routing issue affecting all DFCI-hosted lab sites checked this round, not specific to this lab. No roster could be read."
     },
     {
       "id": "harvard-hms-bcmp-qinheng-zheng",
@@ -1240,13 +1240,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 5 postdoctoral fellows, 1 graduate student",
+      "members_page_url": "https://sites.harvard.edu/zheng/team/",
+      "join_page_url": "https://sites.harvard.edu/zheng/join/",
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/qinheng-zheng",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own Team page, which states an explicit current-member count."
     },
     {
       "id": "harvard-hms-bcmp-xin-zhou",
@@ -1259,16 +1259,16 @@
       "lab_website": "https://zhou-lab.org/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Yanqiu Shen (Research Technician/Lab Manager); Donnette Madrey (Executive Support)",
+      "admin_email": "yanqiu_shen@dfci.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 5 postdoctoral fellows, 6 graduate students, 1 undergraduate student, 1 research technician/lab manager, 1 executive support staff",
+      "members_page_url": "https://zhou-lab.org/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcmp.hms.harvard.edu/faculty-staff/xin-zhou",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-10-29: read the lab's own Team page; excluded a joke 'Young Lab Members' section listing members' children."
     }
   ],
   "non_lab_people": [

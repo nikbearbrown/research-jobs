@@ -32,7 +32,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/paul-avillach",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: lab_website returns an Akamai 'Access Denied' from this network -- same pattern documented elsewhere in CLAUDE.md. Member_count left null."
     },
     {
       "id": "harvard-hms-dbmi-michael-baym",
@@ -54,7 +54,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/michael-baym",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: same lab site already checked for his harvard-hms-microbiology entry -- a single-page news feed with no current roster list found. Member_count left null (see that entry for detail)."
     },
     {
       "id": "harvard-hms-dbmi-gabriel-brat",
@@ -70,13 +70,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 postdoctoral fellows",
+      "members_page_url": "https://research.bidmc.org/surgical-informatics/staff",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/gabriel-brat",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former/Past Members). Depth pass: "
     },
     {
       "id": "harvard-hms-dbmi-john-brownstein",
@@ -120,7 +120,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/tianxi-cai",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: CELEHS (her co-directed center) homepage lists a 'People' nav item but the page is a client-rendered app with no anchor links captured even after --render; no roster found. Member_count left null."
     },
     {
       "id": "harvard-hms-dbmi-maha-farhat",
@@ -142,7 +142,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/maha-farhat",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: lab_website (scholar.harvard.edu) returns an Akamai 'Access Denied' from this network. Member_count left null."
     },
     {
       "id": "harvard-hms-dbmi-nils-gehlenborg",
@@ -158,13 +158,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 1 lab coordinator, 3 postdoctoral research fellows, 2 students, 10 software/data staff",
+      "members_page_url": "https://hidivelab.org/team/members",
+      "join_page_url": "https://hidivelab.org/",
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/nils-gehlenborg",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former/Past Members)."
     },
     {
       "id": "harvard-hms-dbmi-doga-gulhan",
@@ -186,7 +186,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/doga-gulhan",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: lab_website is blocked by robots.txt -- honored, not bypassed. Member_count left null (he is also recorded with more context, incl. a cross-reference to the Park Lab where he trained, in harvard-hms-dbmi's sibling notes)."
     },
     {
       "id": "harvard-hms-dbmi-heng-li",
@@ -202,13 +202,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 2 staff scientists, 3 postdoctoral fellows, 3 PhD students, 1 research assistant, 3 master's students",
+      "members_page_url": "https://hlilab.github.io/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/heng-li",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former/Past Members)."
     },
     {
       "id": "harvard-hms-dbmi-katherine-liao",
@@ -312,13 +312,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 3 postdoctoral researchers, 4 PhD/MD-PhD students, 1 master's student",
+      "members_page_url": "https://oconnorlab.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/luke-oconnor-0",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former/Past Members)."
     },
     {
       "id": "harvard-hms-dbmi-peter-park",
@@ -334,13 +334,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 27,
+      "member_breakdown": "1 PI, 1 research scientist, 2 staff (project coordinator, product designer), 10 postdoctoral fellows, 5 students, 8 staff scientists/software engineers",
+      "members_page_url": "https://compbio.hms.harvard.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/peter-park",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Very large lab with an extensive alumni history (100+ former members since 2003) -- excluded all 'Alumni:' sections. Depth pass: counted current members on the lab's own people page (excludes Alumni/Former/Past Members)."
     },
     {
       "id": "harvard-hms-dbmi-chirag-patel",
@@ -356,13 +356,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 7 PhD students/postdoctoral associates/research staff, 3 current undergraduates (2 more have end dates suggesting they've left but weren't moved to Alumni)",
+      "members_page_url": "https://www.chiragjpgroup.org/members.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/chirag-patel",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: Group Members page; Master's Students section exists but wasn't fully read due to length."
     },
     {
       "id": "harvard-hms-dbmi-pranav-rajpurkar",
@@ -378,9 +378,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 6 PhD students, 2 master's students, 5 visiting students",
+      "members_page_url": "https://rajpurkarlab.hms.harvard.edu/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/pranav-rajpurkar",
@@ -406,7 +406,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/soumya-raychaudhuri",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: lab_website returns an Akamai 'Access Denied' from this network. Member_count left null."
     },
     {
       "id": "harvard-hms-dbmi-ben-reis",
@@ -428,7 +428,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/ben-reis",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: his 'Predictive Medicine Group' site has no Team/People page in its nav (About/Research/Publications/News only) -- only his own bio is shown. Member_count left null."
     },
     {
       "id": "harvard-hms-dbmi-hojjat-salmasian",
@@ -458,7 +458,7 @@
       "lab_name": null,
       "pi_name": "Sebastian Schneeweiss",
       "pi_title": "Professor of Medicine and Epidemiology at Harvard Medical School",
-      "pi_email": "https://www.drugepi.org/team-2/sebastian-schneeweiss#",
+      "pi_email": "sschneeweiss@bwh.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.drugepi.org/team-2/sebastian-schneeweiss",
       "location": null,
@@ -472,7 +472,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/sebastian-schneeweiss",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: page is his personal bio within a larger BWH Division of Pharmacoepidemiology website (he is Division Chief) -- no lab-specific roster found distinct from the whole division's staff. Member_count left null."
     },
     {
       "id": "harvard-hms-dbmi-shamil-sunyaev",
@@ -490,11 +490,11 @@
       "research_summary": null,
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://sunyaevlab.hms.harvard.edu/wiki/!web/members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/shamil-sunyaev",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: Members page lists several lab members (e.g. Ivan Adzhubey, Daniel Balick, and more) but doesn't clearly separate current from alumni in a single visible section -- left member_count null rather than risk an inaccurate count; see members_page_url for manual follow-up."
     },
     {
       "id": "harvard-hms-dbmi-griffin-weber",
@@ -505,18 +505,18 @@
       "pi_email": "weber@hms.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "http://weber.hms.harvard.edu/",
-      "location": null,
-      "phone": null,
+      "location": "10 Shattuck St, Room 306, Boston, MA 02115",
+      "phone": "617-432-6134",
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
+      "member_count": 1,
+      "member_breakdown": "1 PI; no other lab members listed on the site (appears to be a single-investigator research page)",
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/griffin-weber",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: site is essentially Dr. Weber's own research/publications page with no separate team roster."
     },
     {
       "id": "harvard-hms-dbmi-kun-hsing-yu",
@@ -532,9 +532,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 7 postdoctoral fellows, 7 graduate students",
+      "members_page_url": "https://khyulab.github.io/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/kun-hsing-yu",
@@ -560,7 +560,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/cz-zhang",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass: the given lab_website is a Dana-Farber/Harvard Cancer Consortium (DFHCC) member-directory query URL that renders the consortium's general homepage, not his specific profile -- no lab-specific roster found. Member_count left null."
     },
     {
       "id": "harvard-hms-dbmi-marinka-zitnik",
@@ -576,9 +576,9 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 31,
+      "member_breakdown": "1 PI, 11 postdoctoral fellows, 11 PhD students, 1 research associate, 7 research assistants (Fall 2026)",
+      "members_page_url": "https://zitniklab.hms.harvard.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/marinka-zitnik",

@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/irini-albanti/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-emma-louise-emmilie-aveling",
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/emma-louise-emmilie-aveling/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-sara-naomi-bleich",
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/sara-naomi-bleich/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-david-blumenthal",
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/david-blumenthal/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-delia-wolf-christiani",
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/delia-wolf-christiani/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-linda-a-cyr",
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/linda-a-cyr/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-arnold-m-epstein",
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/arnold-m-epstein/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-stephanie-ferguson",
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/stephanie-ferguson/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-jose-francisco-figueroa",
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/jose-francisco-figueroa/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-sue-goldie",
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/sue-goldie/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-michaela-june-kerrissey",
@@ -248,7 +248,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/michaela-june-kerrissey/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-jane-j-kim",
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/jane-j-kim/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-howard-koh",
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/howard-koh/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-leonard-j-marcus",
@@ -314,7 +314,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/leonard-j-marcus/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-john-e-mcdonough",
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/john-e-mcdonough/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-adrianna-mcintyre",
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/adrianna-mcintyre/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-ellen-meara",
@@ -380,7 +380,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/ellen-meara/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-ari-ne-eman",
@@ -402,7 +402,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/ari-neeman/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-joseph-p-newhouse",
@@ -424,7 +424,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/joseph-p-newhouse/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-ankur-pandya",
@@ -446,7 +446,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/ankur-pandya/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-laurie-s-pascal",
@@ -468,7 +468,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/laurie-s-pascal/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-meredith-rosenthal",
@@ -490,7 +490,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/meredith-rosenthal/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-richard-bolton-siegrist",
@@ -512,7 +512,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/richard-bolton-siegrist/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-anna-doar-sinaiko",
@@ -534,7 +534,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/anna-doar-sinaiko/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-benjamin-sommers",
@@ -556,7 +556,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/ben-sommers/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-nancy-turnbull",
@@ -578,7 +578,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/nancy-turnbull/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-zachary-jonathan-ward",
@@ -600,7 +600,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/zachary-jonathan-ward/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     },
     {
       "id": "harvard-hsph-hpm-ted-witherell",
@@ -622,7 +622,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/ted-witherell/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Email pass 2026-10-29: checked the HSPH profile page (and, where linked, the Harvard Catalyst profile) -- HSPH profile pages do not expose faculty email addresses publicly, and Catalyst profiles require institutional login to view email. Confirmed as a systematic pattern across multiple HSPH departments (sbs, hpm, environmental-health), not an isolated gap. pi_email left null."
     }
   ],
   "non_lab_people": [

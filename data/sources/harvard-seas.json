@@ -402,8 +402,8 @@
       "lab_website": null,
       "location": "Pierce 205A",
       "phone": "(617) 384-7611",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Anna Frej (Staff Contact)",
+      "admin_email": "afrej@seas.harvard.edu",
       "research_summary": null,
       "member_count": null,
       "member_breakdown": null,
@@ -411,7 +411,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/federico-capasso",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Email pass: profile page shows only an admin 'Staff Contact', no personal PI email; also found a lab website link on the same page."
     },
     {
       "id": "harvard-seas-stephen-casper",
@@ -1587,11 +1587,11 @@
       "pi_title": "Lola England de Valpine Professor of Science and Professor of Organismic and Evolutionary Biology and of Physics",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://softmath.seas.harvard.edu",
       "location": "SEC 4.207",
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Melissa Majkut (Staff Contact)",
+      "admin_email": "mmajkut@seas.harvard.edu",
       "research_summary": null,
       "member_count": null,
       "member_breakdown": null,
@@ -1599,7 +1599,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/l-mahadevan",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Email pass: profile page shows only an admin 'Staff Contact', no personal PI email; also found a lab website link on the same page."
     },
     {
       "id": "harvard-seas-david-malan",
@@ -1973,7 +1973,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/david-nelson",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Email pass: no email or staff contact shown on the profile page."
     },
     {
       "id": "harvard-seas-kit-parker",
@@ -2589,7 +2589,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/eli-tziperman",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Email pass: no email or staff contact shown on the profile page."
     },
     {
       "id": "harvard-seas-salil-vadhan",
@@ -2665,11 +2665,11 @@
       "pi_title": "Abbott and James Lawrence Professor of Materials Engineering",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://vlassakgroup.seas.harvard.edu",
       "location": "Pierce                    308",
       "phone": "(617) 496-0424",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Melissa Majkut (Staff Contact)",
+      "admin_email": "mmajkut@seas.harvard.edu",
       "research_summary": null,
       "member_count": null,
       "member_breakdown": null,
@@ -2677,7 +2677,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/joost-vlassak",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Email pass: profile page shows only an admin 'Staff Contact', no personal PI email; also found a lab website link on the same page."
     },
     {
       "id": "harvard-seas-jim-waldo",
@@ -2709,11 +2709,11 @@
       "pi_title": "Paul A. Maeder Professor of Engineering and Applied Sciences",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.movelab.seas.harvard.edu",
       "location": "150 Western Ave, Sci&Eng 4.215",
       "phone": "(617) 496-4269",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Mark T. Peterson (Staff Contact)",
+      "admin_email": "mpeterson@seas.harvard.edu",
       "research_summary": null,
       "member_count": null,
       "member_breakdown": null,
@@ -2721,7 +2721,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/conor-walsh",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Email pass: profile page shows only an admin 'Staff Contact', no personal PI email; also found a lab website link on the same page."
     },
     {
       "id": "harvard-seas-qianqian-wang",
@@ -2841,11 +2841,11 @@
       "pi_title": "Abbott Lawrence Rotch Professor of Atmospheric and Environmental Science",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://atmos.seas.harvard.edu",
       "location": "Geological Museum 453",
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Brenda L. Mathieu (Staff Contact)",
+      "admin_email": "bmathieu@seas.harvard.edu",
       "research_summary": null,
       "member_count": null,
       "member_breakdown": null,
@@ -2853,7 +2853,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/steven-wofsy",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Email pass: profile page shows only an admin 'Staff Contact', no personal PI email; also found a lab website link on the same page."
     },
     {
       "id": "harvard-seas-robert-wood",

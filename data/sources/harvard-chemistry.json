@@ -73,7 +73,7 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "notes": "arp.harvard.edu returns an Akamai 'Access Denied' for both http and https, with or without JS rendering (tried scripts/fetch.py plain HTTP and Playwright on 2026-10-27) -- not just the known http/https redirect loop, the server actively blocks automated fetches. Could not read a people page; member fields remain null.",
+      "notes": "arp.harvard.edu returns an Akamai 'Access Denied' for both http and https, with or without JS rendering (tried scripts/fetch.py plain HTTP and Playwright on 2026-10-27) -- not just the known http/https redirect loop, the server actively blocks automated fetches. Could not read a people page; member fields remain null. Re-confirmed 2026-10-29: lab website still unreachable (Akamai Access Denied / connection error), same as previously documented -- no new member/join data available.",
       "profile_url": "https://www.chemistry.harvard.edu/people/james-anderson",
       "kind": "research-lab",
       "id": "harvard-chemistry-james-anderson"
@@ -337,7 +337,7 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "notes": "alchemy.cchem.berkeley.edu times out on every fetch attempt (plain HTTP and Playwright, 30-60s, 2026-10-27) -- appears to be down, consistent with this being his old Berkeley group site per CLAUDE.md. No current Harvard lab website found; department profile data only.",
+      "notes": "alchemy.cchem.berkeley.edu times out on every fetch attempt (plain HTTP and Playwright, 30-60s, 2026-10-27) -- appears to be down, consistent with this being his old Berkeley group site per CLAUDE.md. No current Harvard lab website found; department profile data only. Re-confirmed 2026-10-29: lab website still unreachable (Akamai Access Denied / connection error), same as previously documented -- no new member/join data available.",
       "profile_url": "https://www.chemistry.harvard.edu/people/jeffrey-long",
       "kind": "research-lab",
       "id": "harvard-chemistry-jeffrey-long"
@@ -403,7 +403,7 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "notes": "faculty.chemistry.harvard.edu/kni returns an Akamai 'Access Denied' (same pattern as arp.harvard.edu), tried plain HTTP and Playwright on 2026-10-27. Could not read a people page; member fields remain null.",
+      "notes": "faculty.chemistry.harvard.edu/kni returns an Akamai 'Access Denied' (same pattern as arp.harvard.edu), tried plain HTTP and Playwright on 2026-10-27. Could not read a people page; member fields remain null. Re-confirmed 2026-10-29: lab website still unreachable (Akamai Access Denied / connection error), same as previously documented -- no new member/join data available.",
       "profile_url": "https://www.chemistry.harvard.edu/people/kang-kuen-ni",
       "kind": "research-lab",
       "id": "harvard-chemistry-kang-kuen-ni"

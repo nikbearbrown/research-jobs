@@ -18,9 +18,11 @@ Agents: start with `CLAUDE.md`.
 | `scripts/build.py` | Rebuilds `labs.json` and `labs.csv` from the source files |
 | `CONVENTIONS.md` | Naming and data rules |
 
-## Coverage (2026-10-28)
+## Coverage (2026-10-29)
 
-`data/to-read.txt` is empty, and **every priority-1 `targets.csv` row has now been attempted** (296 `done`, 96 `partial`, 0 `todo`, of 392): 5,843 labs so far, 1,625 with a PI email. Priority 2 and 3 (policy centers, business/law/education/design, small think tanks) are still untouched — 246 rows.
+`data/to-read.txt` is empty, and every priority-1 `targets.csv` row has been attempted (296 `done`, 96 `partial`, 0 `todo`, of 392): 5,843 labs so far, 1,685 with a PI email, 439 with a known size. Priority 2 and 3 (policy centers, business/law/education/design, small think tanks) are still untouched — 246 rows.
+
+**Depth pass in progress** (per the project owner, started 2026-10-29, institution by institution): for every lab with a known website but no member count, visit its people page and fill in size and join info; for every lab with no email but a department profile page, check that page for one; reclassify anything that's clearly not an independent research group as `kind: "faculty-no-lab"` (recorded in `labs.json` for completeness, left out of `labs.csv` so it stays a list of real labs); capture the ~555-lab Mass General Brigham institutes/centers search still outstanding from the first pass. **Harvard is done**: 934 labs, 529 with an email (up from ~470), 182 with a known size (up from near-zero), 4 reclassified. New gotchas found: `labs.dana-farber.org`-hosted lab sites are SPA-routed and broken for direct fetches on every sub-path (9+ labs affected, platform-wide); `hsph.harvard.edu/profile/*` pages never show an email (confirmed on 160+ profiles, a genuine absence); some sites (Wyss) only reveal email when rendered with Playwright. See CLAUDE.md's Known gotchas for details.
 
 | Source | Labs | Small (≤10) | Medium (11–20) | Large (>20) | Size unknown |
 |---|---|---|---|---|---|

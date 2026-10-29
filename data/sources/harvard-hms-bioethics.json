@@ -27,7 +27,7 @@
   "labs": [
     {
       "id": "harvard-hms-bioethics-rebecca-weintraub-brendel",
-      "kind": "research-lab",
+      "kind": "faculty-no-lab",
       "lab_name": null,
       "pi_name": "Rebecca Weintraub Brendel",
       "pi_title": "Director, HMS Center for Bioethics",
@@ -45,7 +45,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bioethics.hms.harvard.edu/faculty-staff/rebecca-weintraub-brendel",
-      "notes": "The Center for Bioethics is not a PI-led wet/dry-lab department -- it's a scholarly center whose ~170 other listed 'faculty' are affiliates with primary appointments at other HMS departments or entirely different institutions (Tufts, BU, Northeastern Law, University of Hong Kong, Hasselt University, Seton Hall Law, Saint Louis University, etc.), not Center-run labs. Recorded only the Center's own Director as its single contact/lead entry, per CLAUDE.md's policy-center convention (the unit is the organization, the contact is a research lead)."
+      "notes": "The Center for Bioethics is not a PI-led wet/dry-lab department -- it's a scholarly center whose ~170 other listed 'faculty' are affiliates with primary appointments at other HMS departments or entirely different institutions (Tufts, BU, Northeastern Law, University of Hong Kong, Hasselt University, Seton Hall Law, Saint Louis University, etc.), not Center-run labs. Recorded only the Center's own Director as its single contact/lead entry, per CLAUDE.md's policy-center convention (the unit is the organization, the contact is a research lead). Reclassified 2026-10-29: her HMS bio page describes center-director and clinical/administrative psychiatry roles at MGH, not an independent research lab; no email shown on the page."
     }
   ],
   "non_lab_people": [

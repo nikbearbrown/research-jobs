@@ -1079,7 +1079,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/norbert-perrimon/?referral=faculty",
-      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Affiliate member; lab is at Harvard Medical School. No MCB lab-directory page; member count unavailable. Lab's own website returns HTTP 403 'Access Denied' (Akamai) from this scraping environment, confirmed via both a plain HTTP request and headless Chromium (independent of User-Agent) -- could not be read this pass. Same pattern as the documented arp.harvard.edu issue; likely an IP/network-level block on several individual-PI *.fas.harvard.edu / *.oeb.harvard.edu / *.med.harvard.edu / projects.iq.harvard.edu sites, not something fixable from this tool."
+      "notes": "Lab website not fetched (external-domain permission request timed out); join/people info from lab site unavailable. Affiliate member; lab is at Harvard Medical School. No MCB lab-directory page; member count unavailable. Lab's own website returns HTTP 403 'Access Denied' (Akamai) from this scraping environment, confirmed via both a plain HTTP request and headless Chromium (independent of User-Agent) -- could not be read this pass. Same pattern as the documented arp.harvard.edu issue; likely an IP/network-level block on several individual-PI *.fas.harvard.edu / *.oeb.harvard.edu / *.med.harvard.edu / projects.iq.harvard.edu sites, not something fixable from this tool. Re-confirmed 2026-10-29: lab website still unreachable (Akamai Access Denied / connection error), same as previously documented -- no new member/join data available."
     }
   ],
   "non_lab_people": [
