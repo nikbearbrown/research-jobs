@@ -14,6 +14,9 @@ FIELDS = ["id", "kind", "size", "institution", "unit", "city", "lab_name", "pi_n
           "profile_url", "notes", "checked_on"]
 
 
+VALID_KINDS = {"research-lab", "core-facility", "faculty-no-lab"}
+
+
 def size_of(lab):
     if lab.get("kind") != "research-lab":
         return "n/a"
@@ -30,6 +33,8 @@ def main():
         for lab in src["labs"]:
             row = {k: src.get(k) for k in ("institution", "unit", "city", "checked_on")}
             row.update(lab)
+            if row.get("kind") not in VALID_KINDS:
+                raise SystemExit(f"{row['id']}: invalid kind {row.get('kind')!r} (expected one of {sorted(VALID_KINDS)})")
             row["size"] = size_of(row)
             labs.append(row)
     ids = [l["id"] for l in labs]
@@ -37,14 +42,21 @@ def main():
     if dupes:
         raise SystemExit(f"duplicate ids: {sorted(dupes)}")
     (ROOT / "data" / "labs.json").write_text(json.dumps(labs, indent=2, ensure_ascii=False) + "\n")
+    # labs.csv is a list of real labs: faculty-no-lab entries (clinical-only
+    # faculty, lecturers, anyone with no lab of their own) are recorded in
+    # labs.json for completeness but left out of the CSV.
+    csv_labs = [l for l in labs if l.get("kind") != "faculty-no-lab"]
     with open(ROOT / "data" / "labs.csv", "w", newline="") as fh:
         w = csv.DictWriter(fh, fieldnames=FIELDS, extrasaction="ignore")
         w.writeheader()
-        w.writerows(labs)
+        w.writerows(csv_labs)
     counts = {}
     for l in labs:
         counts[l["size"]] = counts.get(l["size"], 0) + 1
-    print(f"{len(labs)} entries; by size: {counts}")
+    kind_counts = {}
+    for l in labs:
+        kind_counts[l.get("kind")] = kind_counts.get(l.get("kind"), 0) + 1
+    print(f"{len(labs)} entries ({len(csv_labs)} in labs.csv); by size: {counts}; by kind: {kind_counts}")
 
 
 if __name__ == "__main__":
