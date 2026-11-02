@@ -25,11 +25,11 @@
       "research_summary": "Designs materials and environments that build and transform themselves (self-assembly, programmable materials).",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://selfassemblylab.mit.edu/about",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://selfassemblylab.mit.edu/skylar-tibbits",
-      "notes": "The About page lists a long 'Current Research Team' roster (30+ names) without a text-extractable boundary separating current members from alumni (two tab-like headings 'Alumni' and 'Current Research Team' both appear before the list in the scraped text) -- member_count left null rather than guess which names are current."
+      "notes": "The About page lists a long 'Current Research Team' roster (30+ names) without a text-extractable boundary separating current members from alumni (two tab-like headings 'Alumni' and 'Current Research Team' both appear before the list in the scraped text) -- member_count left null rather than guess which names are current. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-02: Lab & Team page has 'Current Research Team' and 'Alumni' tabs, but the text runs both together (~170 names, duplicates, Tibbits listed near the end), so current members can't be separated."
     }
   ],
   "non_lab_people": []

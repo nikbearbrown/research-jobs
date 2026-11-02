@@ -29,7 +29,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://rchi.mit.edu/team",
-      "notes": "No PI email, admin contact or join page shown. 'Past Collaborators' (not counted) includes several now-faculty alumni and current DUSP master's/PhD students credited for the site's design, who may be informally active -- the page itself labels the whole section 'Past Collaborators' so it was excluded per the project's alumni-exclusion convention."
+      "notes": "No PI email, admin contact or join page shown. 'Past Collaborators' (not counted) includes several now-faculty alumni and current DUSP master's/PhD students credited for the site's design, who may be informally active -- the page itself labels the whole section 'Past Collaborators' so it was excluded per the project's alumni-exclusion convention. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     }
   ],
   "non_lab_people": []

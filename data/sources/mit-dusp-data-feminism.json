@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dataplusfeminism.mit.edu/",
-      "notes": "Single-page JS site (required --render; plain HTTP returned only the page title). Current Members list read in full, stopping at the page's own 'Alumni' heading. No PI or lab email, join/apply page, or admin contact shown on the page. Pet ('Aloo The Potato Dog', listed under MIT DUSP) excluded from member_count."
+      "notes": "Single-page JS site (required --render; plain HTTP returned only the page title). Current Members list read in full, stopping at the page's own 'Alumni' heading. No PI or lab email, join/apply page, or admin contact shown on the page. Pet ('Aloo The Potato Dog', listed under MIT DUSP) excluded from member_count. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     }
   ],
   "non_lab_people": []

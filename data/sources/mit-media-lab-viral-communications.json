@@ -22,13 +22,13 @@
       "admin_name": "Alessandra Davy-Falconi (Group Contact)",
       "admin_email": "davyfalc@media.mit.edu",
       "research_summary": "Builds AI-based interfaces and systems ('technologies of curiosity') that give people more control over how they interact with algorithms, platforms and their own data.",
-      "member_count": null,
-      "member_breakdown": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI (senior research scientist), 5 grad students, 1 sr. administrative assistant",
       "members_page_url": "https://www.media.mit.edu/groups/viral-communications/people/",
       "join_page_url": "https://www.media.mit.edu/groups/viral-communications/overview/",
       "join_notes": "Overview page states the group 'is currently accepting new students' with a 'Learn more about how to apply' link; application page itself not read in this pass.",
       "profile_url": null,
-      "notes": "Overview page read; it lists project collaborators (e.g. Brooke Smilen, Tawab Safi, Yui Kondo, Kevin Dunnell) under individual projects but no dedicated People/roster page was fetched in this pass, so member_count is left null rather than guessed from project bylines."
+      "notes": "Overview page read; it lists project collaborators (e.g. Brooke Smilen, Tawab Safi, Yui Kondo, Kevin Dunnell) under individual projects but no dedicated People/roster page was fetched in this pass, so member_count is left null rather than guessed from project bylines. Depth pass 2026-11-02: Counted cards without the 'Past Member' tag on the group People page (one extra fetch). The other 36 cards are marked past."
     }
   ],
   "non_lab_people": []

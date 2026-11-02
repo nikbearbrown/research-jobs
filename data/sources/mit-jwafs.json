@@ -28,7 +28,7 @@
       "join_page_url": "https://jwafs.mit.edu/about-us/open-positions",
       "join_notes": "J-WAFS lists open staff positions on its own site; MIT PI funding opportunities are separate research grants, not lab positions.",
       "profile_url": "https://jwafs.mit.edu/about/our-team",
-      "notes": "J-WAFS is a funding lab/center, not a conventional PI research group -- its 'Funded Researchers' are MIT faculty whose own labs are recorded in their home departments. Recorded the Director as primary contact; member_count intentionally left null since the bulk of 'members' are externally-funded grantees, not lab staff."
+      "notes": "J-WAFS is a funding lab/center, not a conventional PI research group -- its 'Funded Researchers' are MIT faculty whose own labs are recorded in their home departments. Recorded the Director as primary contact; member_count intentionally left null since the bulk of 'members' are externally-funded grantees, not lab staff. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-02: lab_website is a center/initiative/facility site this PI directs or belongs to, not their own group; size not read here (hub entry, recorded thin by convention)."
     }
   ],
   "non_lab_people": []

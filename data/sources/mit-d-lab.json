@@ -19,16 +19,16 @@
       "lab_website": "https://d-lab.mit.edu/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Noelle Lee",
       "admin_email": null,
       "research_summary": "Founded D-Lab, which develops and disseminates appropriate, affordable technologies for low-income communities worldwide.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "12 staff incl. Smith (Founding Director), exec director, associate directors, lecturers, research scientist, workshop manager, admin/finance staff",
+      "members_page_url": "https://d-lab.mit.edu/about/people",
+      "join_page_url": "https://d-lab.mit.edu/about/employment-opportunities",
       "join_notes": null,
       "profile_url": null,
-      "notes": null
+      "notes": "Depth pass 2026-11-02: Counted the Staff tab of D-Lab People. D-Lab is an MIT program Smith founded, not a conventional lab. The side list of about 75 names mixes in affiliates and lecturers and was not counted."
     }
   ],
   "non_lab_people": [],

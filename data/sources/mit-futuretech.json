@@ -14,7 +14,7 @@
       "lab_name": "FutureTech",
       "pi_name": "Neil Thompson",
       "pi_title": "Director, FutureTech, MIT CSAIL",
-      "pi_email": null,
+      "pi_email": "neil_t@mit.edu",
       "accepting_grad_students": null,
       "lab_website": "https://futuretech.mit.edu/",
       "location": "32 Vassar Street, Office 386, Cambridge, MA 02139",
@@ -28,7 +28,7 @@
       "join_page_url": "https://futuretech.mit.edu/opportunities",
       "join_notes": "Careers page listed in site navigation; content not separately read this pass.",
       "profile_url": "https://futuretech.mit.edu/team/neil-thompson",
-      "notes": "Large, flat team listing (no individual role breakdown by seniority beyond the title shown per person); member_count follows the page's own 'Team' section through its last listed staff member, then separately adds the 'Undergraduate Student Researchers' section, excluding the trailing 'Alumni' list."
+      "notes": "Large, flat team listing (no individual role breakdown by seniority beyond the title shown per person); member_count follows the page's own 'Team' section through its last listed staff member, then separately adds the 'Undergraduate Student Researchers' section, excluding the trailing 'Alumni' list. Depth pass 2026-11-02: pi_email read from the profile page."
     }
   ],
   "non_lab_people": []

@@ -1,0 +1,605 @@
+[
+ {
+  "source": "data/sources/mit-arch-era.json",
+  "lab_id": "mit-arch-era-john-fernandez",
+  "fields": {
+   "member_count": null,
+   "members_page_url": "https://eralabs.mit.edu/about",
+   "join_page_url": null
+  },
+  "note": "ERA's only roster (eralabs.mit.edu/about) is shared across its three labs: 3 co-founder lab directors + 3 ERA team (plus 3 affiliates); the per-lab pages (/labs/umera, /labs/nacera, /labs/siera) list no members, so no per-lab count."
+ },
+ {
+  "source": "data/sources/mit-arch-era.json",
+  "lab_id": "mit-arch-era-marcela-angel",
+  "fields": {
+   "member_count": null,
+   "members_page_url": "https://eralabs.mit.edu/about",
+   "join_page_url": null
+  },
+  "note": "ERA's only roster (eralabs.mit.edu/about) is shared across its three labs: 3 co-founder lab directors + 3 ERA team (plus 3 affiliates); the per-lab pages (/labs/umera, /labs/nacera, /labs/siera) list no members, so no per-lab count."
+ },
+ {
+  "source": "data/sources/mit-arch-era.json",
+  "lab_id": "mit-arch-era-norhan-bayomi",
+  "fields": {
+   "member_count": null,
+   "members_page_url": "https://eralabs.mit.edu/about",
+   "join_page_url": null
+  },
+  "note": "ERA's only roster (eralabs.mit.edu/about) is shared across its three labs: 3 co-founder lab directors + 3 ERA team (plus 3 affiliates); the per-lab pages (/labs/umera, /labs/nacera, /labs/siera) list no members, so no per-lab count."
+ },
+ {
+  "source": "data/sources/mit-arch-self-assembly-lab.json",
+  "lab_id": "mit-arch-self-assembly-lab-skylar-tibbits",
+  "fields": {
+   "member_count": null,
+   "members_page_url": "https://selfassemblylab.mit.edu/about",
+   "join_page_url": null
+  },
+  "note": "Lab & Team page has 'Current Research Team' and 'Alumni' tabs, but the text runs both together (~170 names, duplicates, Tibbits listed near the end), so current members can't be separated."
+ },
+ {
+  "source": "data/sources/mit-arch-sustainable-design-lab.json",
+  "lab_id": "mit-arch-sustainable-design-lab-christoph-reinhart",
+  "fields": {
+   "member_count": 9,
+   "member_breakdown": "1 PI (group head), 2 PhD students, 5 master's students (1 MArch, 2 SMArchS, 2 SMBT), 1 research collaborator",
+   "members_page_url": "http://web.mit.edu/sustainabledesignlab/people.html",
+   "join_page_url": null,
+   "join_notes": "People page says prospective students (SMBT, SMArchS, PhD in Building Technology, or MCP) should contact Christoph Reinhart to discuss which program fits.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the 'Current Members' list on the people page, stopping at the Alumni section."
+ },
+ {
+  "source": "data/sources/mit-blueprint-labs.json",
+  "lab_id": "mit-blueprint-labs-joshua-angrist",
+  "fields": {
+   "member_count": 47,
+   "member_breakdown": "4 faculty directors/co-directors (Angrist, Pathak, Agarwal, Autor), 1 executive director, 2 postdocs, 17 predoctoral researchers, 16 research associates, 7 policy/communications/operations staff",
+   "members_page_url": "https://blueprintlabs.mit.edu/about/",
+   "join_page_url": "https://blueprintlabs.mit.edu/careers/",
+   "join_notes": "All openings are posted on the careers page (currently a policy & research manager, two postdocs, and predoctoral researchers who work with one or more of the four directors); multi-step application with interviews and a timed task; MIT can't sponsor work visas for staff roles; no informational interviews.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Whole-lab count from the About page team list (Leadership + Policy and Research Staff), excluding research affiliates and alumni; the lab is co-run by four faculty, so this is shared, not per-PI."
+ },
+ {
+  "source": "data/sources/mit-blueprint-labs.json",
+  "lab_id": "mit-blueprint-labs-parag-pathak",
+  "fields": {
+   "member_count": 47,
+   "member_breakdown": "4 faculty directors/co-directors (Angrist, Pathak, Agarwal, Autor), 1 executive director, 2 postdocs, 17 predoctoral researchers, 16 research associates, 7 policy/communications/operations staff",
+   "members_page_url": "https://blueprintlabs.mit.edu/about/",
+   "join_page_url": "https://blueprintlabs.mit.edu/careers/",
+   "join_notes": "All openings are posted on the careers page (currently a policy & research manager, two postdocs, and predoctoral researchers who work with one or more of the four directors); multi-step application with interviews and a timed task; MIT can't sponsor work visas for staff roles; no informational interviews.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Whole-lab count from the About page team list (Leadership + Policy and Research Staff), excluding research affiliates and alumni; the lab is co-run by four faculty, so this is shared, not per-PI."
+ },
+ {
+  "source": "data/sources/mit-blueprint-labs.json",
+  "lab_id": "mit-blueprint-labs-nikhil-agarwal",
+  "fields": {
+   "member_count": 47,
+   "member_breakdown": "4 faculty directors/co-directors (Angrist, Pathak, Agarwal, Autor), 1 executive director, 2 postdocs, 17 predoctoral researchers, 16 research associates, 7 policy/communications/operations staff",
+   "members_page_url": "https://blueprintlabs.mit.edu/about/",
+   "join_page_url": "https://blueprintlabs.mit.edu/careers/",
+   "join_notes": "All openings are posted on the careers page (currently a policy & research manager, two postdocs, and predoctoral researchers who work with one or more of the four directors); multi-step application with interviews and a timed task; MIT can't sponsor work visas for staff roles; no informational interviews.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Whole-lab count from the About page team list (Leadership + Policy and Research Staff), excluding research affiliates and alumni; the lab is co-run by four faculty, so this is shared, not per-PI."
+ },
+ {
+  "source": "data/sources/mit-blueprint-labs.json",
+  "lab_id": "mit-blueprint-labs-david-autor",
+  "fields": {
+   "member_count": 47,
+   "member_breakdown": "4 faculty directors/co-directors (Angrist, Pathak, Agarwal, Autor), 1 executive director, 2 postdocs, 17 predoctoral researchers, 16 research associates, 7 policy/communications/operations staff",
+   "members_page_url": "https://blueprintlabs.mit.edu/about/",
+   "join_page_url": "https://blueprintlabs.mit.edu/careers/",
+   "join_notes": "All openings are posted on the careers page (currently a policy & research manager, two postdocs, and predoctoral researchers who work with one or more of the four directors); multi-step application with interviews and a timed task; MIT can't sponsor work visas for staff roles; no informational interviews.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Whole-lab count from the About page team list (Leadership + Policy and Research Staff), excluding research affiliates and alumni; the lab is co-run by four faculty, so this is shared, not per-PI."
+ },
+ {
+  "source": "data/sources/mit-cams.json",
+  "lab_id": "mit-cams-stuart-madnick",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": "https://cams.mit.edu/people/",
+   "join_page_url": null,
+   "join_notes": "The site's 'Join Us' page is about corporate consortium membership, not research positions.",
+   "admin_name": "Dagmar Trantinova",
+   "admin_email": "dagmar@mit.edu",
+   "pi_email": "smadnick@mit.edu",
+   "accepting_grad_students": null
+  },
+  "note": "CAMS People page lists the whole consortium incl. affiliates and other MIT faculty, so it is not a group size; emails/admin read from the site."
+ },
+ {
+  "source": "data/sources/mit-cams.json",
+  "lab_id": "mit-cams-michael-siegel",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": "https://cams.mit.edu/people/",
+   "join_page_url": null,
+   "join_notes": "The site's 'Join Us' page is about corporate consortium membership, not research positions.",
+   "admin_name": "Dagmar Trantinova",
+   "admin_email": "dagmar@mit.edu",
+   "pi_email": "msiegel@mit.edu",
+   "accepting_grad_students": null
+  },
+  "note": "CAMS People page lists the whole consortium incl. affiliates and other MIT faculty, so it is not a group size; emails/admin read from the site."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-robert-desimone",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-james-dicarlo",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-michale-fee",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-ila-fiete",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-winrich-freiwald",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-samuel-gershman",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-leslie-p-kaelbling",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-nancy-kanwisher",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-boris-katz",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-gabriel-kreiman",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-josh-mcdermott",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-aude-oliva",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-tomaso-poggio",
+  "fields": {
+   "member_count": null,
+   "members_page_url": "https://cbmm.mit.edu/about/people",
+   "join_page_url": null
+  },
+  "note": "cbmm.mit.edu is the multi-institution NSF center Poggio directs, not his own research group; its People page lists center-wide staff, so no per-lab count (his own lab roster would be on a separate site)."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-lorenzo-rosasco",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-nicholas-roy",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-rebecca-saxe",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-laura-schulz",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-elizabeth-spelke",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the CBMM center site (a multi-institution hub), not this PI's own group; size not read here. The PI's own lab is recorded under their home department."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-max-tegmark",
+  "fields": {
+   "member_count": null
+  },
+  "note": "lab_website is a center/initiative/facility site this PI directs or belongs to, not their own group; size not read here (hub entry, recorded thin by convention)."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-joshua-tenenbaum",
+  "fields": {
+   "member_count": null
+  },
+  "note": "lab_website is a center/initiative/facility site this PI directs or belongs to, not their own group; size not read here (hub entry, recorded thin by convention)."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-antonio-torralba",
+  "fields": {
+   "member_count": null
+  },
+  "note": "lab_website is a center/initiative/facility site this PI directs or belongs to, not their own group; size not read here (hub entry, recorded thin by convention)."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-shimon-ullman",
+  "fields": {
+   "member_count": null
+  },
+  "note": "lab_website is a center/initiative/facility site this PI directs or belongs to, not their own group; size not read here (hub entry, recorded thin by convention)."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-matt-wilson",
+  "fields": {
+   "member_count": null
+  },
+  "note": "lab_website is a center/initiative/facility site this PI directs or belongs to, not their own group; size not read here (hub entry, recorded thin by convention)."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-patrick-winston",
+  "fields": {
+   "member_count": null
+  },
+  "note": "lab_website is a center/initiative/facility site this PI directs or belongs to, not their own group; size not read here (hub entry, recorded thin by convention)."
+ },
+ {
+  "source": "data/sources/mit-cbmm.json",
+  "lab_id": "mit-cbmm-guangyu-robert-yang",
+  "fields": {
+   "member_count": null
+  },
+  "note": "lab_website is a center/initiative/facility site this PI directs or belongs to, not their own group; size not read here (hub entry, recorded thin by convention)."
+ },
+ {
+  "source": "data/sources/mit-cci.json",
+  "lab_id": "mit-cci-thomas-malone",
+  "fields": {
+   "member_count": 22,
+   "member_breakdown": "1 director (Malone), 8 CCI team staff (incl. exec director, research scientists, engineers, 1 senior admin assistant), 4 postdocs, 9 students",
+   "members_page_url": "https://cci.mit.edu/people/",
+   "admin_name": "Esmerina Thanasi"
+  },
+  "note": "Counted Malone plus the CCI Team, Postdoctoral Associates and Students sections; excluded 15 other center faculty, research affiliates and affiliated faculty. This is a center Malone directs, not a single-PI lab."
+ },
+ {
+  "source": "data/sources/mit-ccse.json",
+  "lab_id": "mit-ccse-laurent-demanet",
+  "fields": {
+   "member_count": null
+  },
+  "note": "lab_website is a center/initiative/facility site this PI directs or belongs to, not their own group; size not read here (hub entry, recorded thin by convention)."
+ },
+ {
+  "source": "data/sources/mit-ccse.json",
+  "lab_id": "mit-ccse-nicolas-hadjiconstantinou",
+  "fields": {
+   "member_count": null
+  },
+  "note": "lab_website is a center/initiative/facility site this PI directs or belongs to, not their own group; size not read here (hub entry, recorded thin by convention)."
+ },
+ {
+  "source": "data/sources/mit-cctr.json",
+  "lab_id": "mit-cctr-elazer-edelman",
+  "fields": {
+   "member_count": null
+  },
+  "note": "lab_website is a center/initiative/facility site this PI directs or belongs to, not their own group; size not read here (hub entry, recorded thin by convention)."
+ },
+ {
+  "source": "data/sources/mit-chemistry.json",
+  "lab_id": "mit-chemistry-stephen-buchwald",
+  "fields": {
+   "member_count": 18,
+   "member_breakdown": "1 PI, 11 postdocs, 1 grad student, 4 undergrads, 1 lab operations manager",
+   "members_page_url": "https://chemistry-buchwald.mit.edu/?page_id=178",
+   "admin_name": "Christine Nguyen (Krueger)"
+  },
+  "note": "Counted the 17 people on the Group Members page plus the PI. The PI has his own page and is not on that list."
+ },
+ {
+  "source": "data/sources/mit-chemistry.json",
+  "lab_id": "mit-chemistry-christopher-cummins",
+  "fields": {
+   "member_count": 11,
+   "member_breakdown": "1 PI, 3 postdocs, 4 PhD students, 2 undergrads, 1 admin assistant",
+   "members_page_url": "https://ccclab.mit.edu/about/",
+   "admin_name": "Lexy Wyne"
+  },
+  "note": "Counted the Members page up to the 'Former PhD Students' heading."
+ },
+ {
+  "source": "data/sources/mit-chemistry.json",
+  "lab_id": "mit-chemistry-rick-danheiser",
+  "fields": {
+   "member_count": null,
+   "members_page_url": "https://danheiserlab.mit.edu/current-group-members/",
+   "admin_name": "Michael Harrison",
+   "admin_email": "mharriso@mit.edu",
+   "pi_email": "danheisr@mit.edu"
+  },
+  "note": "The Current Group Members page is 'UNDER CONSTRUCTION' and only shows the placeholders 'Group Member 1-3' plus the PI and admin, so the count is null."
+ },
+ {
+  "source": "data/sources/mit-chemistry.json",
+  "lab_id": "mit-chemistry-jeremiah-johnson",
+  "fields": {
+   "member_count": 26,
+   "member_breakdown": "1 PI, 8 postdocs, 16 grad students, 1 UROP",
+   "members_page_url": "http://web.mit.edu/johnsongroup/"
+  },
+  "note": "Counted the 'Current Members' section of the single-page site (Group tab, rendered in the same HTML) up to 'Former Members:', plus the PI."
+ },
+ {
+  "source": "data/sources/mit-chemistry.json",
+  "lab_id": "mit-chemistry-alex-shalek",
+  "fields": {
+   "member_count": 35,
+   "member_breakdown": "35 first names on the Core tab (incl. PI Alex); roles not attributed to names in text",
+   "members_page_url": "https://shaleklab.com/team/",
+   "join_page_url": "https://shaleklab.com/team/?tab=join"
+  },
+  "note": "Counted the 35 unique first names in the Core team carousel (the list appears twice; Alumni is a separate tab). The JS page has pagination ('1 2'), so the count may be low."
+ },
+ {
+  "source": "data/sources/mit-cisr.json",
+  "lab_id": "mit-cisr-stephanie-woerner",
+  "fields": {
+   "member_count": null
+  },
+  "note": "The cached text is the CISR homepage, which has no roster. It says 'MIT CISR will cease operations on October 31, 2026', so the center has closed."
+ },
+ {
+  "source": "data/sources/mit-cisr.json",
+  "lab_id": "mit-cisr-peter-weill",
+  "fields": {
+   "member_count": null
+  },
+  "note": "The cached text is the CISR homepage, which has no roster. It says 'MIT CISR will cease operations on October 31, 2026', so the center has closed."
+ },
+ {
+  "source": "data/sources/mit-climate-project.json",
+  "lab_id": "mit-climate-project-evelyn-wang",
+  "fields": {
+   "member_count": null
+  },
+  "note": "lab_website is a center/initiative/facility site this PI directs or belongs to, not their own group; size not read here (hub entry, recorded thin by convention)."
+ },
+ {
+  "source": "data/sources/mit-cshub.json",
+  "lab_id": "mit-cshub-randolph-kirchain",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": "https://cshub.mit.edu/about-us/",
+   "join_page_url": "https://cshub.mit.edu/join-us/",
+   "admin_name": "Elise Chambers (Program Manager)",
+   "admin_email": "elisetch@mit.edu",
+   "pi_email": "kirchain@mit.edu"
+  },
+  "note": "CSHub team page lists the whole hub incl. affiliated PIs, so it is not a single group's size."
+ },
+ {
+  "source": "data/sources/mit-d-lab.json",
+  "lab_id": "mit-d-lab-amy-smith",
+  "fields": {
+   "member_count": 12,
+   "member_breakdown": "12 staff incl. Smith (Founding Director), exec director, associate directors, lecturers, research scientist, workshop manager, admin/finance staff",
+   "members_page_url": "https://d-lab.mit.edu/about/people",
+   "join_page_url": "https://d-lab.mit.edu/about/employment-opportunities",
+   "admin_name": "Noelle Lee"
+  },
+  "note": "Counted the Staff tab of D-Lab People. D-Lab is an MIT program Smith founded, not a conventional lab. The side list of about 75 names mixes in affiliates and lecturers and was not counted."
+ },
+ {
+  "source": "data/sources/mit-deshpande.json",
+  "lab_id": "mit-deshpande-kripa-varanasi",
+  "fields": {
+   "member_count": null
+  },
+  "note": "lab_website is a center/initiative/facility site this PI directs or belongs to, not their own group; size not read here (hub entry, recorded thin by convention)."
+ },
+ {
+  "source": "data/sources/mit-dusp-colab.json",
+  "lab_id": "mit-dusp-colab-holly-harriel",
+  "fields": {
+   "member_count": 3,
+   "member_breakdown": "3 core team (faculty director J. Phillip Thompson, executive director Holly Harriel, director Katrin Kaeufer)",
+   "members_page_url": "https://www.colab.mit.edu/people",
+   "join_notes": "Page says there are no open staff roles at this time. MIT/DUSP students should check the DUSP Airtable board for postings."
+  },
+  "note": "Counted the 'Our Team' section only, excluding the faculty council, advisory board, strategic partners and alumni. Harriel is the executive director of this DUSP center, not faculty."
+ },
+ {
+  "source": "data/sources/mit-dusp-mobility-futures.json",
+  "lab_id": "mit-dusp-mobility-futures-chris-zegras",
+  "fields": {
+   "member_count": null,
+   "pi_email": "czegras@mit.edu"
+  },
+  "note": "The Mobility Futures Collaborative homepage says 'Site Still Under Construction' and has no roster (latest news is from 2019)."
+ },
+ {
+  "source": "data/sources/mit-ibm-lab.json",
+  "lab_id": "mit-ibm-lab-aude-oliva",
+  "fields": {
+   "member_count": null
+  },
+  "note": "lab_website is a center/initiative/facility site this PI directs or belongs to, not their own group; size not read here (hub entry, recorded thin by convention)."
+ },
+ {
+  "source": "data/sources/mit-ide.json",
+  "lab_id": "mit-ide-sinan-aral",
+  "fields": {
+   "member_count": null
+  },
+  "note": "The cached page is Aral's profile on the MIT Initiative on the Digital Economy, which he directs. It is a multi-faculty initiative and the page has no roster to count."
+ },
+ {
+  "source": "data/sources/mit-jwafs.json",
+  "lab_id": "mit-jwafs-rohit-karnik",
+  "fields": {
+   "member_count": null
+  },
+  "note": "lab_website is a center/initiative/facility site this PI directs or belongs to, not their own group; size not read here (hub entry, recorded thin by convention)."
+ },
+ {
+  "source": "data/sources/mit-media-lab-viral-communications.json",
+  "lab_id": "mit-media-lab-viral-communications-lippman",
+  "fields": {
+   "member_count": 7,
+   "member_breakdown": "1 PI (senior research scientist), 5 grad students, 1 sr. administrative assistant",
+   "members_page_url": "https://www.media.mit.edu/groups/viral-communications/people/",
+   "join_page_url": "https://www.media.mit.edu/groups/viral-communications/applicant-information/",
+   "admin_name": "Alessandra Davy-Falconi",
+   "admin_email": "davyfalc@media.mit.edu"
+  },
+  "note": "Counted cards without the 'Past Member' tag on the group People page (one extra fetch). The other 36 cards are marked past."
+ },
+ {
+  "source": "data/sources/mit-sts.json",
+  "lab_id": "mit-sts-david-kaiser",
+  "fields": {
+   "member_count": null,
+   "pi_email": "dikaiser@mit.edu",
+   "kind": "faculty-no-lab"
+  },
+  "note": "lab_website is Kaiser's personal faculty homepage (history of science and physics) with no research group or roster. It shows pi email dikaiser@mit.edu."
+ }
+]

@@ -3218,7 +3218,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/alex-rives/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "mit-eecs-ronald-rivest",

@@ -23,13 +23,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Inter-disciplinary research group developing design workflows, planning tools and metrics to evaluate the environmental performance of buildings and neighborhoods.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI (group head), 2 PhD students, 5 master's students (1 MArch, 2 SMArchS, 2 SMBT), 1 research collaborator",
+      "members_page_url": "http://web.mit.edu/sustainabledesignlab/people.html",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "People page says prospective students (SMBT, SMArchS, PhD in Building Technology, or MCP) should contact Christoph Reinhart to discuss which program fits.",
       "profile_url": "https://architecture.mit.edu/user/70",
-      "notes": "People page is mostly a photo gallery (lab hikes/parties) with first names only; no extractable current-member roster or email found this pass."
+      "notes": "People page is mostly a photo gallery (lab hikes/parties) with first names only; no extractable current-member roster or email found this pass. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-02: Counted the 'Current Members' list on the people page, stopping at the Alumni section."
     }
   ],
   "non_lab_people": []

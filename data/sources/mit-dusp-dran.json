@@ -29,7 +29,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mitdisplacement.org/dran-team",
-      "notes": "Team page separates 'Active collaborators' from a long 'Past collaborators' list (PhD alumni, past fellows, external collaborators) -- only the active ones counted. No PI email or join/apply page shown; general contact is the displacement@mit.edu mailbox."
+      "notes": "Team page separates 'Active collaborators' from a long 'Past collaborators' list (PhD alumni, past fellows, external collaborators) -- only the active ones counted. No PI email or join/apply page shown; general contact is the displacement@mit.edu mailbox. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     }
   ],
   "non_lab_people": []

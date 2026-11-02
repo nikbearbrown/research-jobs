@@ -1,0 +1,386 @@
+#!/usr/bin/env python3
+"""Depth pass over existing source files: fill pi_email from profile pages,
+and gather lab people pages so member counts can be read.
+
+Run with the project venv (Playwright lives there):
+
+    .venv/bin/python scripts/depth_pass.py emails data/sources/mit-*.json [--render-fallback]
+
+        For every research-lab with no pi_email but a profile_url: fetch the
+        profile page and look for an address (mailto: link or plain text) whose
+        local part matches the PI's name. Exactly one distinct match is written
+        to pi_email; zero or several leave it null with a note. With
+        --render-fallback, a page that shows no address at all is retried once
+        with Playwright (some sites only reveal email after JS runs).
+
+    .venv/bin/python scripts/depth_pass.py prep-sizes data/sources/mit-*.json --out data/raw/depth/mit-size-pages.json
+
+        For every research-lab with a lab_website but no member_count: fetch
+        the site, follow its people/team/members link if it has one, cache the
+        text under cache/_text/ and write a worklist (lab id, people page url,
+        text path) for reading. Counting is done by reading each page, not by
+        this script.
+
+    .venv/bin/python scripts/depth_pass.py apply data/raw/depth/mit-sizes.json
+
+        Merge read results ({source, lab_id, fields: {...}, note}) into source
+        files. Only fills fields that are currently null, except `kind`, which
+        may be set to "faculty-no-lab". The note is appended to `notes`.
+
+Every change appends a short "Depth pass <date>: ..." sentence to the lab's
+notes so the source of each value stays traceable.
+"""
+import argparse
+import datetime
+import json
+import re
+import sys
+import unicodedata
+import urllib.parse
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from fetch import CACHE_DIR, _slug_for, fetch  # noqa: E402
+
+ROOT = Path(__file__).resolve().parent.parent
+TODAY = datetime.date.today().isoformat()
+
+EMAIL_RE = re.compile(r"[A-Za-z0-9._%+'-]+@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}")
+GENERIC_LOCAL = re.compile(
+    r"^(info|admin|contact|webmaster|web|office|help|support|media|news|press|events?|"
+    r"dept|department|chair|grad|graduate|undergrad|admissions|hr|jobs|careers|lab|labs|"
+    r"communications|comms|noreply|no-reply|donotreply|privacy|accessibility|feedback)\b",
+    re.I,
+)
+PEOPLE_LINK_RE = re.compile(
+    r"^\s*(people|our people|team|our team|the team|members|lab members|group members|"
+    r"current members|the lab|the group|group|lab|personnel|who we are|meet the (lab|team|group))\s*$",
+    re.I,
+)
+PEOPLE_HREF_RE = re.compile(r"/(people|team|members|group-members|lab-members|personnel|our-team|the-team|lab|group)(/|$|\.html?)", re.I)
+JOIN_LINK_RE = re.compile(r"\b(join|joining|openings|positions|opportunities|prospective|apply|recruit)", re.I)
+
+
+def fold(s):
+    s = unicodedata.normalize("NFKD", s or "")
+    return "".join(c for c in s if not unicodedata.combining(c)).lower()
+
+
+def name_parts(pi_name):
+    name = re.sub(r"\([^)]*\)", " ", pi_name or "")
+    name = re.sub(r",.*$", "", name)  # drop ", PhD" etc.
+    toks = [t for t in re.split(r"[\s.]+", fold(name)) if t]
+    toks = [re.sub(r"[^a-z-]", "", t) for t in toks]
+    toks = [t for t in toks if t and t not in {"dr", "prof", "jr", "sr", "ii", "iii", "phd", "md"}]
+    if not toks:
+        return None, None, []
+    first, last = toks[0], toks[-1]
+    # hyphenated / compound last names: accept any piece of 4+ letters
+    lasts = {last} | {p for p in last.split("-") if len(p) >= 4}
+    if len(toks) >= 3 and len(toks[-2]) >= 3:
+        lasts.add(toks[-2] + toks[-1])
+        lasts.add(toks[-2])
+    return first, last, sorted(lasts)
+
+
+def _prefix_split(local, a, b, min_a):
+    """True if local == (prefix of a, len >= min_a or all of a) + (prefix of b, possibly empty)."""
+    for i in range(1, len(local) + 1):
+        head, tail = local[:i], local[i:]
+        if not a.startswith(head) or (len(head) < min_a and head != a):
+            continue
+        if tail == "" and head == a:
+            return True
+        if tail and b.startswith(tail):
+            return True
+    return False
+
+
+def email_matches_pi(addr, pi_name):
+    first, last, lasts = name_parts(pi_name)
+    if not first:
+        return False
+    local = fold(addr.split("@")[0])
+    local_letters = re.sub(r"[^a-z]", "", local)
+    if GENERIC_LOCAL.match(local) or not local_letters:
+        return False
+    f, l = first.replace("-", ""), last.replace("-", "")
+    for ln in lasts:
+        ln_l = ln.replace("-", "")
+        if len(ln_l) >= 3 and ln_l in local_letters:
+            return True
+        if len(ln_l) >= 5 and ln_l[:4] in local_letters:  # kenstow@ for Kenstowicz, ymarz@ for Marzouk
+            return True
+    if len(f) >= 4 and local_letters.startswith(f) and len(local_letters) <= len(f) + 2:
+        return True
+    # first-name prefix + last-name prefix (russt, benh, talco, stephd) or the reverse (liju)
+    if _prefix_split(local_letters, f, l, 3) or _prefix_split(local_letters, l, f, 2):
+        return True
+    # initials, with an optional middle initial: jbt@, ddv@, ngk@
+    if re.fullmatch(f"{f[0]}[a-z]?{l[0]}", local_letters):
+        return True
+    return False
+
+
+ASSISTANT_LOCAL = re.compile(r"(admin|asst|assist|office|hours|lab|group)|aa$", re.I)
+
+
+def addresses_on_page(result):
+    found = []
+    html = result.get("html") or ""
+    for m in re.finditer(r'href=["\']mailto:([^"\'?]+)', html, re.I):
+        found.append(urllib.parse.unquote(m.group(1)).strip())
+    text = result.get("text") or ""
+    body = text.split("\n--- other links found")[0]
+    found += EMAIL_RE.findall(body)
+    out = []
+    for a in found:
+        a = a.strip().strip(".'\"").lower() if a else a
+        if a and EMAIL_RE.fullmatch(a) and a not in out:
+            out.append(a)
+    return out
+
+
+def append_note(lab, sentence):
+    prev = (lab.get("notes") or "").rstrip()
+    lab["notes"] = (prev + " " if prev else "") + f"Depth pass {TODAY}: {sentence}"
+
+
+def source_paths(args):
+    """Explicit files, or every source file whose `institution` is one of --institution."""
+    if args.sources:
+        return [Path(p) for p in args.sources]
+    wanted = set(args.institution or [])
+    out = []
+    for p in sorted((ROOT / "data" / "sources").glob("*.json")):
+        if json.loads(p.read_text()).get("institution") in wanted:
+            out.append(p)
+    return out
+
+
+def research_labs(paths):
+    for path in paths:
+        path = Path(path).resolve()
+        data = json.loads(path.read_text())
+        yield path, data
+
+
+def save(path, data):
+    """Write changed lab objects back in place, keeping each object's existing
+    formatting (one-line or indented) so diffs show only real changes. Source
+    files mix styles, so the file is never re-serialized as a whole."""
+    text = path.read_text()
+    old_labs = {l["id"]: l for l in json.loads(text)["labs"]}
+    dec = json.JSONDecoder()
+    for lab in data["labs"]:
+        if old_labs.get(lab["id"]) == lab:
+            continue
+        # search after "labs": a single-lab target's lab id can equal the file's own id
+        labs_at = text.find('"labs"')
+        key = '"id": ' + json.dumps(lab["id"], ensure_ascii=False)
+        pos = text.find(key, labs_at)
+        if pos < 0:
+            key = '"id":' + json.dumps(lab["id"], ensure_ascii=False)
+            pos = text.find(key, labs_at)
+        start = text.rfind("{", 0, pos)
+        _, end = dec.raw_decode(text, start)
+        span = text[start:end]
+        if "\n" in span:
+            line_start = text.rfind("\n", 0, start) + 1
+            pad = text[line_start:start]
+            inner = re.search(r"\n( +)\"", span)
+            step = len(inner.group(1)) - len(pad) if inner else 2
+            rendered = json.dumps(lab, indent=step, ensure_ascii=False).replace("\n", "\n" + pad)
+        else:
+            rendered = json.dumps(lab, ensure_ascii=False)
+        text = text[:start] + rendered + text[end:]
+    path.write_text(text)
+
+
+def cmd_emails(args):
+    filled = tried = blocked = 0
+    for path, data in research_labs(source_paths(args)):
+        changed = False
+        for lab in data["labs"]:
+            if lab.get("kind") != "research-lab" or lab.get("pi_email") or not lab.get("profile_url"):
+                continue
+            prior = re.search(r" ?Depth pass [0-9-]+: profile page shows (no address matching|several addresses)[^;]*?(; left null rather than guess|; pi_email left null)\.", lab.get("notes") or "")
+            if args.recheck and prior:
+                lab["notes"] = lab["notes"].replace(prior.group(0), "")
+            elif re.search(r"Depth pass [0-9-]+: (profile page|pi_email)", lab.get("notes") or ""):
+                continue  # already checked in an earlier run
+            tried += 1
+            url = lab["profile_url"]
+            res = fetch(url)
+            if res["status"] == "blocked-by-robots":
+                blocked += 1
+                append_note(lab, "profile page is blocked by robots.txt; pi_email not checked.")
+                changed = True
+                continue
+            addrs = addresses_on_page(res) if res["html"] else []
+            rendered = False
+            if args.render_fallback and res["html"] is not None and not addrs and res.get("method") != "playwright":
+                res = fetch(url, render=True, force=True)
+                addrs = addresses_on_page(res) if res["html"] else []
+                rendered = True
+            if res["html"] is None:
+                append_note(lab, f"profile page failed to load ({str(res['status'])[:80]}); pi_email not checked.")
+                changed = True
+                continue
+            matches = [a for a in addrs if email_matches_pi(a, lab.get("pi_name"))]
+            if len(matches) > 1:
+                # prefer an address on the institution's own domain when there is one
+                host = urllib.parse.urlsplit(url).netloc.lower().split(":")[0]
+                base = ".".join(host.split(".")[-2:])
+                same = [a for a in matches if a.endswith(base)]
+                if len(same) == 1:
+                    matches = same
+            if len(matches) > 1:
+                # drop assistant/office look-alikes (desimoneadmin@, langeraa@, wood_officehours@)
+                personal = [m for m in matches if not ASSISTANT_LOCAL.search(m.split("@")[0])]
+                if len(personal) == 1:
+                    matches = personal
+            how = " (only after rendering with Playwright)" if rendered else ""
+            if len(matches) == 1:
+                lab["pi_email"] = matches[0]
+                append_note(lab, f"pi_email read from the profile page{how}.")
+                filled += 1
+            elif len(matches) > 1:
+                append_note(lab, f"profile page shows several addresses that could be the PI's ({', '.join(matches[:3])}); left null rather than guess.")
+            elif addrs:
+                append_note(lab, "profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.")
+            else:
+                append_note(lab, "profile page shows no email address" + (" (plain and rendered)." if rendered else "."))
+            changed = True
+            print(f"{'OK ' if len(matches) == 1 else '-- '}{lab['id']}\t{lab.get('pi_email') or ''}", flush=True)
+        if changed:
+            save(path, data)
+    print(f"emails: tried {tried}, filled {filled}, robots-blocked {blocked}", file=sys.stderr)
+
+
+def find_link(res, label_re, href_re=None):
+    from bs4 import BeautifulSoup
+
+    if not res.get("html"):
+        return None
+    soup = BeautifulSoup(res["html"], "lxml")
+    base_host = urllib.parse.urlsplit(res["url"]).netloc.lower()
+    best = None
+    for a in soup.find_all("a", href=True):
+        href = a["href"].strip()
+        if href.startswith(("mailto:", "tel:", "javascript:")) or href == "#":
+            continue
+        absu = urllib.parse.urljoin(res["url"], href).split("#")[0]
+        if urllib.parse.urlsplit(absu).netloc.lower() != base_host:
+            continue
+        if absu.rstrip("/") == res["url"].rstrip("/"):
+            continue
+        label = a.get_text(" ", strip=True)
+        if label and label_re.search(label):
+            return absu
+        if best is None and href_re is not None and href_re.search(urllib.parse.urlsplit(absu).path):
+            best = absu
+    return best
+
+
+def text_path_for(url):
+    host = urllib.parse.urlsplit(url).netloc.lower()
+    d = CACHE_DIR / "_text" / host
+    d.mkdir(parents=True, exist_ok=True)
+    return d / f"{_slug_for(url)}.txt"
+
+
+def cmd_prep_sizes(args):
+    work = []
+    for path, data in research_labs(source_paths(args)):
+        for lab in data["labs"]:
+            if lab.get("kind") != "research-lab" or lab.get("member_count") is not None or not lab.get("lab_website"):
+                continue
+            site = lab["lab_website"]
+            item = {"source": str(path.relative_to(ROOT)), "lab_id": lab["id"], "pi_name": lab.get("pi_name"),
+                    "lab_website": site, "home_status": None, "people_url": None, "join_url": None,
+                    "home_text": None, "people_text": None}
+            home = fetch(site)
+            if home["html"] is not None and len(home["text"] or "") < 400 and home.get("method") != "playwright":
+                home = fetch(site, render=True, force=True)
+            item["home_status"] = str(home["status"])
+            if home["text"]:
+                tp = text_path_for(site)
+                tp.write_text(home["text"], encoding="utf-8")
+                item["home_text"] = str(tp.relative_to(ROOT))
+                people = find_link(home, PEOPLE_LINK_RE, PEOPLE_HREF_RE)
+                item["join_url"] = find_link(home, JOIN_LINK_RE)
+                if people:
+                    pres = fetch(people)
+                    if pres["html"] is not None and len(pres["text"] or "") < 400 and pres.get("method") != "playwright":
+                        pres = fetch(people, render=True, force=True)
+                    item["people_url"] = people
+                    if pres["text"]:
+                        tp = text_path_for(people)
+                        tp.write_text(pres["text"], encoding="utf-8")
+                        item["people_text"] = str(tp.relative_to(ROOT))
+                    else:
+                        item["people_status"] = str(pres["status"])
+            work.append(item)
+            print(f"{item['lab_id']}\thome={item['home_status'][:30]}\tpeople={item['people_url']}", flush=True)
+    out = Path(args.out)
+    out.parent.mkdir(parents=True, exist_ok=True)
+    out.write_text(json.dumps(work, indent=2, ensure_ascii=False) + "\n")
+    print(f"prep-sizes: {len(work)} labs -> {out}", file=sys.stderr)
+
+
+APPLY_FIELDS = {"member_count", "member_breakdown", "members_page_url", "join_page_url", "join_notes",
+                "admin_name", "admin_email", "pi_email", "accepting_grad_students", "lab_name", "research_summary"}
+
+
+def cmd_apply(args):
+    results = json.loads(Path(args.results).read_text())
+    by_source = {}
+    for r in results:
+        by_source.setdefault(r["source"], []).append(r)
+    applied = 0
+    for src, rs in by_source.items():
+        path = ROOT / src
+        data = json.loads(path.read_text())
+        labs = {l["id"]: l for l in data["labs"]}
+        for r in rs:
+            lab = labs.get(r["lab_id"])
+            if lab is None:
+                print(f"missing lab {r['lab_id']} in {src}", file=sys.stderr)
+                continue
+            for k, v in (r.get("fields") or {}).items():
+                if k == "kind":
+                    if v == "faculty-no-lab" and lab.get("kind") == "research-lab":
+                        lab["kind"] = v
+                    continue
+                if k not in APPLY_FIELDS or v is None:
+                    continue
+                if lab.get(k) is None:
+                    lab[k] = v
+            if r.get("note"):
+                append_note(lab, r["note"])
+            applied += 1
+        save(path, data)
+    print(f"apply: {applied} results across {len(by_source)} files", file=sys.stderr)
+
+
+def main():
+    ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    sub = ap.add_subparsers(dest="cmd", required=True)
+    e = sub.add_parser("emails")
+    e.add_argument("sources", nargs="*")
+    e.add_argument("--institution", action="append")
+    e.add_argument("--render-fallback", action="store_true")
+    e.add_argument("--recheck", action="store_true", help="retry labs an earlier run found no/several name matches for")
+    s = sub.add_parser("prep-sizes")
+    s.add_argument("sources", nargs="*")
+    s.add_argument("--institution", action="append")
+    s.add_argument("--out", required=True)
+    a = sub.add_parser("apply")
+    a.add_argument("results")
+    args = ap.parse_args()
+    {"emails": cmd_emails, "prep-sizes": cmd_prep_sizes, "apply": cmd_apply}[args.cmd](args)
+
+
+if __name__ == "__main__":
+    main()

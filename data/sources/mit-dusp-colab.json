@@ -23,13 +23,13 @@
       "admin_name": null,
       "admin_email": "colab-info@mit.edu",
       "research_summary": "A DUSP-based hub for collaborative action research and innovation with communities at the margins, working on democratizing economies and self-determination.",
-      "member_count": null,
-      "member_breakdown": null,
+      "member_count": 3,
+      "member_breakdown": "3 core team (faculty director J. Phillip Thompson, executive director Holly Harriel, director Katrin Kaeufer)",
       "members_page_url": "https://www.colab.mit.edu/people",
       "join_page_url": "https://careers.peopleclick.com/careerscp/client_mit/external/jobDetails/jobDetail.html?jobPostId=20864&localeCode=en-us",
       "join_notes": "Page states no open staff roles at time of check; links to the MIT applicant site for postings and to DUSP's own student-opportunity board.",
       "profile_url": "https://www.colab.mit.edu/people",
-      "notes": "CoLab is a DUSP center, not a single PI's research lab -- recorded Executive Director Holly Harriel as the operational lead. J. Phillip Thompson is Faculty Director and Dayna L. Cunningham is Founder. A 12-person 'Faculty Council' of DUSP professors (J. Phillip Thompson, Delia Wendel, Catherine D'Ignazio, Mariana Arcaya, Karilyn Crockett, Jason Jackson, Lawrence Vale, Lawrence Susskind, Anne Whiston Spirn, Karl Seidman, Ceasar McDowell, Gabriella Carolini) is listed but these are DUSP faculty whose primary labs/pages are recorded under their own department profiles elsewhere, not duplicated here; several run their own named initiatives within CoLab (e.g. Katrin Kaeufer directs 'Just Money'). Students, Strategic Partners, Community Advisory Board and Alumni lists are long, dated and not individually itemized -- no emails shown for any of them on this page."
+      "notes": "CoLab is a DUSP center, not a single PI's research lab -- recorded Executive Director Holly Harriel as the operational lead. J. Phillip Thompson is Faculty Director and Dayna L. Cunningham is Founder. A 12-person 'Faculty Council' of DUSP professors (J. Phillip Thompson, Delia Wendel, Catherine D'Ignazio, Mariana Arcaya, Karilyn Crockett, Jason Jackson, Lawrence Vale, Lawrence Susskind, Anne Whiston Spirn, Karl Seidman, Ceasar McDowell, Gabriella Carolini) is listed but these are DUSP faculty whose primary labs/pages are recorded under their own department profiles elsewhere, not duplicated here; several run their own named initiatives within CoLab (e.g. Katrin Kaeufer directs 'Just Money'). Students, Strategic Partners, Community Advisory Board and Alumni lists are long, dated and not individually itemized -- no emails shown for any of them on this page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-02: Counted the 'Our Team' section only, excluding the faculty council, advisory board, strategic partners and alumni. Harriel is the executive director of this DUSP center, not faculty."
     }
   ],
   "non_lab_people": []

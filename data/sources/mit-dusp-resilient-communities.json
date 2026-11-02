@@ -29,7 +29,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://rcl.mit.edu/Team",
-      "notes": "Team page lists Lab Team, Research Affiliates and Past Members as separate sections; only the first two counted (alphabetical by last name, not role-sorted, so role titles were matched to names individually). No PI/admin email or join page shown; general contact is a page-hosted email link with no address visible in the extracted text."
+      "notes": "Team page lists Lab Team, Research Affiliates and Past Members as separate sections; only the first two counted (alphabetical by last name, not role-sorted, so role titles were matched to names individually). No PI/admin email or join page shown; general contact is a page-hosted email link with no address visible in the extracted text. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     }
   ],
   "non_lab_people": []
