@@ -213,7 +213,7 @@
       "lab_name": "Tearney Lab",
       "pi_name": "Guillermo Tearney, MD, PhD",
       "pi_title": "Professor",
-      "pi_email": null,
+      "pi_email": "gtearney@mgb.org",
       "accepting_grad_students": null,
       "lab_website": "https://wellman.massgeneral.org/guillermo_tearney",
       "location": null,
@@ -227,7 +227,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://wellman.massgeneral.org/guillermo_tearney",
-      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty."
+      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "mgh-wellman-hensin-tsao",

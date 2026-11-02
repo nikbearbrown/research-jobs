@@ -333,7 +333,8 @@ def cmd_prep_sizes(args):
 
 
 APPLY_FIELDS = {"member_count", "member_breakdown", "members_page_url", "join_page_url", "join_notes",
-                "admin_name", "admin_email", "pi_email", "accepting_grad_students", "lab_name", "research_summary"}
+                "admin_name", "admin_email", "pi_email", "accepting_grad_students", "lab_name", "research_summary",
+                "pi_name", "pi_title"}
 
 
 def cmd_apply(args):

@@ -35,7 +35,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/iannis-adamopoulos",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Rheumatology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Rheumatology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-alkalay",
@@ -43,7 +43,7 @@
       "lab_name": "Alkalay Lab",
       "pi_name": "Alkalay",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "rn_alkalay@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -57,7 +57,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/ron-alkalay",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-anderson",
@@ -79,7 +79,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/dennis-anderson",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-asnani",
@@ -101,7 +101,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/aarti-asnani",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address."
     },
     {
       "id": "bidmc-research-balk",
@@ -123,7 +123,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/steven-balk",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: HemOnc), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: HemOnc), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows several addresses that could be the PI's (sbalk@bidmc.harvard.edu, %20sbalk@bidmc.harvard.edu); left null rather than guess."
     },
     {
       "id": "bidmc-research-banks",
@@ -145,7 +145,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/alexander-banks",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Endocrinology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Endocrinology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-battelli",
@@ -153,7 +153,7 @@
       "lab_name": "Battelli Lab",
       "pi_name": "Battelli",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "lbattell@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -167,7 +167,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/lorella-battelli",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-benitez",
@@ -175,7 +175,7 @@
       "lab_name": "Benitez Lab",
       "pi_name": "Benitez",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "bbenitez@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -189,7 +189,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/bruno-benitez",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-benson",
@@ -197,7 +197,7 @@
       "lab_name": "Benson Lab",
       "pi_name": "Benson",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "mbenson@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -211,7 +211,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/mark-benson",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-bernard-lee",
@@ -233,7 +233,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/bernard-lee",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Plastic Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Plastic Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-bouxsein-johannesfottir",
@@ -255,7 +255,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/mary-bouxsein",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-brady",
@@ -277,7 +277,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/roscoe-brady",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Psychiatry), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Psychiatry), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-brodsky",
@@ -299,7 +299,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/dara-brodsky",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neonatology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neonatology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-collier",
@@ -321,7 +321,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/ai-ris-collier",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Obstetrics & Gynecology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Obstetrics & Gynecology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-donnino",
@@ -343,7 +343,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/chronic-migraine-study",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Emergency Medicine), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Emergency Medicine), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-dresser",
@@ -351,7 +351,7 @@
       "lab_name": "Dresser Lab",
       "pi_name": "Dresser",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "cdresser@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -365,7 +365,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/caleb-dresser",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Emergency Medicine), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Emergency Medicine), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-fehnel",
@@ -387,7 +387,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/corey-fehnel",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-frank",
@@ -409,7 +409,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/cortex",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-freedman",
@@ -417,7 +417,7 @@
       "lab_name": "Freedman Lab",
       "pi_name": "Freedman",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "freedm2@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -431,7 +431,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/benjamin-freedman",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-gangadharan",
@@ -453,7 +453,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/sidharta-gangadharan",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiothoracic Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiothoracic Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-gerszten",
@@ -475,7 +475,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/robert-gerszten",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-gut-brain",
@@ -497,7 +497,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/gut-brain",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Gastrointestinal), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Gastrointestinal), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-haimovich",
@@ -505,7 +505,7 @@
       "lab_name": "Haimovich Lab",
       "pi_name": "Haimovich",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "ahaimovi@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -519,7 +519,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/adrian-haimovich",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Emergency Medicine), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Emergency Medicine), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-heng",
@@ -541,7 +541,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/janheng",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pathology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pathology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows several addresses that could be the PI's (yheng@bidmc.harvard.edu, %20yheng@bidmc.harvard.edu); left null rather than guess."
     },
     {
       "id": "bidmc-research-hide",
@@ -563,7 +563,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/winston-hide",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pathology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pathology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-ho",
@@ -585,7 +585,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/jennifer-ho",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-jiang",
@@ -607,7 +607,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/zhenghui-jiang",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Gastrointestinal), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Gastrointestinal), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-kahn",
@@ -629,7 +629,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/barbara-kahn",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Endocrinology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Endocrinology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-kaur",
@@ -651,7 +651,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/satvinder-kaur",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-keshavan",
@@ -659,7 +659,7 @@
       "lab_name": "Keshavan Lab",
       "pi_name": "Keshavan",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "mkeshava@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -673,7 +673,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/matcheri-keshavan",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Psychiatry), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Psychiatry), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-kim",
@@ -695,7 +695,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/young-bum-kim",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Endocrinology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Endocrinology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-kimball",
@@ -717,7 +717,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/alexa-kimball",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Dermatology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Dermatology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-kirby",
@@ -725,7 +725,7 @@
       "lab_name": "Kirby Lab",
       "pi_name": "Kirby",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "jekirby@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -739,7 +739,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/james-kirby",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pathology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pathology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-lee",
@@ -761,7 +761,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/albert-lee",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-liang",
@@ -769,7 +769,7 @@
       "lab_name": "Liang Lab",
       "pi_name": "Liang",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "pliang1@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -783,7 +783,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/patric-liang",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Vascular Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Vascular Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-lin",
@@ -805,7 +805,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/samuel-lin",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Plastic Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Plastic Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-mantzoros",
@@ -827,7 +827,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/christos-mantzoros",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Endocrinology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Endocrinology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-marcantonio",
@@ -849,7 +849,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/edward-marcantonio",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: General Medicine), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: General Medicine), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-mavrikaki",
@@ -857,7 +857,7 @@
       "lab_name": "Mavrikaki Lab",
       "pi_name": "Mavrikaki",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "mmavrika@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -871,7 +871,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/maria-mavrikaki",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pathology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pathology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-meissner",
@@ -879,7 +879,7 @@
       "lab_name": "Meissner Lab",
       "pi_name": "Meissner",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "tmeissne@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -893,7 +893,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/torsten-meissner",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Vascular Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Vascular Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-mullington",
@@ -901,7 +901,7 @@
       "lab_name": "Mullington Lab",
       "pi_name": "Mullington",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "jmulling@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -915,7 +915,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/janet-mullington",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-nazarian",
@@ -937,7 +937,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/ara-nazarian",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-olumi",
@@ -945,7 +945,7 @@
       "lab_name": "Olumi Lab",
       "pi_name": "Olumi",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "aolumi@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -959,7 +959,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/aria-olumi",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Urologic Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Urologic Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-parsons",
@@ -981,7 +981,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/charles-parsons",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Acute Care Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Acute Care Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-rice",
@@ -1003,7 +1003,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/institute-for-lung-health",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pulmonary), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pulmonary), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-rosen",
@@ -1025,7 +1025,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/evan-rosen",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Endocrinology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Endocrinology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-rutkove",
@@ -1047,7 +1047,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/seward-rutkove",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-saper",
@@ -1055,7 +1055,7 @@
       "lab_name": "Saper Lab",
       "pi_name": "Saper",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "csaper@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -1069,7 +1069,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/clifford-saper",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-sarwar",
@@ -1091,7 +1091,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/ammar-sarwar",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Radiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Radiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-scammell",
@@ -1099,7 +1099,7 @@
       "lab_name": "Scammell Lab",
       "pi_name": "Scammell",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "tscammel@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -1113,7 +1113,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/thomas-scammell",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-schermerhorn",
@@ -1121,7 +1121,7 @@
       "lab_name": "Schermerhorn Lab",
       "pi_name": "Schermerhorn",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "theschermlab@gmail.com",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -1135,7 +1135,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/marc-schermerhorn",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Vascular & Endovascular Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Vascular & Endovascular Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-secemsky",
@@ -1157,7 +1157,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/eric-secemsky",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-shahawy",
@@ -1179,7 +1179,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/sarrah-shahawy",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Obstetrics and Gynocology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Obstetrics and Gynocology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-sheen",
@@ -1201,7 +1201,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/volney-sheen",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-shih",
@@ -1209,7 +1209,7 @@
       "lab_name": "Shih Lab",
       "pi_name": "Shih",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "lshih@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -1223,7 +1223,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/ludy-shih",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-simon",
@@ -1231,7 +1231,7 @@
       "lab_name": "Simon Lab",
       "pi_name": "Simon",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "dsimon1@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -1245,7 +1245,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/david-simon",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-slack",
@@ -1267,7 +1267,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/frank-slack",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Genetics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Genetics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-smith-center-for-outcomes-research",
@@ -1311,7 +1311,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/brian-snyder",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-sofer",
@@ -1319,7 +1319,7 @@
       "lab_name": "Sofer Lab",
       "pi_name": "Sofer",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "sofer@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -1333,7 +1333,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/tamar-sofer",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-stephenson",
@@ -1355,7 +1355,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/kathryn-stephenson",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Vaccine Research), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Vaccine Research), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-strom",
@@ -1377,7 +1377,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/jordan-strom",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-subramaniam",
@@ -1399,7 +1399,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/bala-subramaniam",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Anesthesia), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Anesthesia), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-sun",
@@ -1421,7 +1421,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/lijun-sun",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-szabo",
@@ -1429,7 +1429,7 @@
       "lab_name": "Szabo Lab",
       "pi_name": "Szabo",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "gszabo1@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -1443,7 +1443,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/gyongyi-szabo",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Gastrointerology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Gastrointerology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-tenen",
@@ -1465,7 +1465,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/daniel-tenen",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Hematology & Oncology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Hematology & Oncology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-tian",
@@ -1487,7 +1487,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/feng-tian",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-tsokos",
@@ -1509,7 +1509,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/george-tsokos",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pathology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pathology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-upshaw",
@@ -1531,7 +1531,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/jenica-upshaw",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardio-Oncology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardio-Oncology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-vanderhorst",
@@ -1539,7 +1539,7 @@
       "lab_name": "Vanderhorst Lab",
       "pi_name": "Vanderhorst",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "vanderhorstlab@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -1553,7 +1553,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/veronica-vanderhorst",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-vega",
@@ -1561,7 +1561,7 @@
       "lab_name": "Vega Lab",
       "pi_name": "Vega",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "rvega@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -1575,7 +1575,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/rafael-vega",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neuro-Oncology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neuro-Oncology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-wadhera",
@@ -1597,7 +1597,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/rishi-wadhera",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
     },
     {
       "id": "bidmc-research-yeh-mind-body",
@@ -1619,7 +1619,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/gloria-yeh",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: General Medicine), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: General Medicine), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "bidmc-research-zeidel",
@@ -1627,7 +1627,7 @@
       "lab_name": "Zeidel Lab",
       "pi_name": "Zeidel",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "mzeidel@bidmc.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -1641,7 +1641,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/mark-zeidel",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Nephrology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Nephrology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bidmc-research-zsengeller",
@@ -1663,7 +1663,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/zsuzsanna-zsengeller",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Nephrology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Nephrology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     }
   ],
   "non_lab_people": [],

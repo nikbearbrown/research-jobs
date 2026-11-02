@@ -121,7 +121,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/jaenisch",
-      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "whitehead-ankur-jain",
@@ -197,7 +197,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/lodish",
-      "notes": "Lab website's Members page lists a PI plus 13 names (2 administrative staff, 2 technical assistants, 7 postdoctoral associates/fellows, 1 graduate student), but the site footer says 'This website was last updated on 29th August 2015', consistent with the department profile's label 'The Lodish Lab (1968-2019)'. member_count left null because this roster is over a decade stale and the lab appears no longer active; not treated as a current count."
+      "notes": "Lab website's Members page lists a PI plus 13 names (2 administrative staff, 2 technical assistants, 7 postdoctoral associates/fellows, 1 graduate student), but the site footer says 'This website was last updated on 29th August 2015', consistent with the department profile's label 'The Lodish Lab (1968-2019)'. member_count left null because this roster is over a decade stale and the lab appears no longer active; not treated as a current count. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     },
     {
       "id": "whitehead-sebastian-lourido",
@@ -224,7 +224,7 @@
       "lab_name": "Page Lab",
       "pi_name": "David Page",
       "pi_title": "Member, Whitehead Institute; Professor of Biology, MIT; HHMI Investigator",
-      "pi_email": null,
+      "pi_email": "page_admin@wi.mit.edu",
       "lab_website": "https://www.pagelab.wi.mit.edu/",
       "admin_name": null,
       "admin_email": "page_admin@wi.mit.edu",
@@ -235,7 +235,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/page",
-      "notes": "Lab website (Wix) read via Playwright, Members page ('Current' staff/grad/postdoc sections only; Alumni page not counted)."
+      "notes": "Lab website (Wix) read via Playwright, Members page ('Current' staff/grad/postdoc sections only; Alumni page not counted). Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "whitehead-peter-reddien",
@@ -243,7 +243,7 @@
       "lab_name": "Reddien Lab",
       "pi_name": "Peter Reddien",
       "pi_title": "Member, Whitehead Institute; Professor of Biology, MIT; HHMI Investigator",
-      "pi_email": null,
+      "pi_email": "reddien_admin@wi.mit.edu",
       "lab_website": "http://reddienlab.wi.mit.edu/",
       "admin_name": null,
       "admin_email": "reddien_admin@wi.mit.edu",
@@ -254,7 +254,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/reddien",
-      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "whitehead-zuri-sullivan",
@@ -319,7 +319,7 @@
       "lab_name": "Weissman Lab",
       "pi_name": "Jonathan Weissman",
       "pi_title": "Member, Whitehead Institute; Landon T. Clay Professor of Biology, MIT; HHMI Investigator",
-      "pi_email": null,
+      "pi_email": "weissman_admin@wi.mit.edu",
       "lab_website": "http://weissman.wi.mit.edu",
       "admin_name": "Sumita Sinha (Lab Manager); Irina Cashen (Administrative Assistant); Tessa Dinnie (Administrative Lab Manager)",
       "admin_email": "weissman_admin@wi.mit.edu",
@@ -330,7 +330,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/weissman",
-      "notes": "Lab website's People page (jekyll/static site) read via Playwright; a large 'Current' roster followed by an even larger 'Alumni' list (only Current counted). No email addresses are shown on this page for any lab member, including the admin staff named above, so the existing admin_email (weissman_admin@wi.mit.edu) could not be verified or replaced this pass."
+      "notes": "Lab website's People page (jekyll/static site) read via Playwright; a large 'Current' roster followed by an even larger 'Alumni' list (only Current counted). No email addresses are shown on this page for any lab member, including the admin staff named above, so the existing admin_email (weissman_admin@wi.mit.edu) could not be verified or replaced this pass. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "whitehead-yukiko-yamashita",

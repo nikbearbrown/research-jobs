@@ -9,5 +9,5 @@
   ],
   "labs": [],
   "non_lab_people": [],
-  "notes": "research.massgeneralbrigham.org (no people_url given in targets.csv) routes to the same MGB-wide institutes/centers/labs search tool already documented in bwh-research.json and mgh-lab-search.json. Not duplicating that crawl here; see meei-schepens.json for Mass Eye and Ear's own Schepens Eye Research Institute, which has a more specific site."
+  "notes": "research.massgeneralbrigham.org (no people_url given in targets.csv) routes to the same MGB-wide institutes/centers/labs search tool already documented in bwh-research.json and mgh-lab-search.json. Not duplicating that crawl here; see meei-schepens.json for Mass Eye and Ear's own Schepens Eye Research Institute, which has a more specific site. Update 2026-11-02: the MGB-wide search has now been crawled in full into mgh-lab-search.json (547 labs across MGH, BWH, McLean, Mass Eye and Ear and Spaulding; each lab's hospital, where its page names one, is in that lab's notes), so this target is covered there rather than duplicated here."
 }

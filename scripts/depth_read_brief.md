@@ -39,4 +39,8 @@ Output: a JSON list, one object per item, written to the path you're given:
                 "accepting_grad_students": null},
      "note": "one short sentence: where the count came from, or why it's null"}
 
+If the item's `pi_name` is null (labs found through a search tile that
+linked straight to the lab's site), also record `pi_name` and `pi_title`
+when the site clearly names who runs the lab, plus `pi_email` if shown.
+
 Leave a field out or null when not shown. `note` is always present.
