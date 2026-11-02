@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from QMSI's Faculty page."
+      "notes": "Breadth pass from QMSI's Faculty page. Depth pass 2026-11-02: lab_website is the PI's College of Science profile (lists EQUAL under Labs & Groups) with no group roster; people_url is the college About page; count left null."
     },
     {
       "id": "northeastern-qmsi-swastik-kar",
@@ -36,7 +36,7 @@
       "lab_name": null,
       "pi_name": "Swastik Kar",
       "pi_title": "Deputy Director, QMSI; Professor of Physics",
-      "pi_email": null,
+      "pi_email": "s.kar@northeastern.edu",
       "accepting_grad_students": null,
       "lab_website": "https://swastik.sites.northeastern.edu/",
       "location": null,
@@ -44,13 +44,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Experimental condensed matter physics; 2D quantum materials; Director of EQUAL.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 PhD students, 2 staff scientists (QMSI/EQUAL), 2 postdocs (EQUAL)",
+      "members_page_url": "https://swastik.sites.northeastern.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from QMSI's Faculty page."
+      "notes": "Breadth pass from QMSI's Faculty page. Depth pass 2026-11-02: Counted PI, grad students marked 'current', and the listed Scientific and Operational Staff; excluded graduated students, past staff, and undergrads listed only with past years."
     },
     {
       "id": "northeastern-qmsi-ning-bao",

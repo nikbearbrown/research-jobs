@@ -205,6 +205,9 @@ def cmd_emails(args):
             if lab.get("kind") != "research-lab" or lab.get("pi_email") or not lab.get("profile_url"):
                 continue
             prior = re.search(r" ?Depth pass [0-9-]+: profile page shows (no address matching|several addresses)[^;]*?(; left null rather than guess|; pi_email left null)\.", lab.get("notes") or "")
+            if args.recheck and args.render_fallback and not prior:
+                # a plain-only "no email" result is worth one rendered retry
+                prior = re.search(r" ?Depth pass [0-9-]+: profile page shows no email address\.", lab.get("notes") or "")
             if args.recheck and prior:
                 lab["notes"] = lab["notes"].replace(prior.group(0), "")
             elif re.search(r"Depth pass [0-9-]+: (profile page|pi_email)", lab.get("notes") or ""):

@@ -1,0 +1,131 @@
+[
+ {
+  "source": "data/sources/northeastern-ccnr.json",
+  "lab_id": "northeastern-ccnr-albert-laszlo-barabasi",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "barabasi.com home is a science/art showcase with no people page in its links; count left null."
+ },
+ {
+  "source": "data/sources/northeastern-chemistry.json",
+  "lab_id": "northeastern-chemistry-laboratory-for-neuromodulation-and-neuromuscular-repair",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "Lab URL now resolves to the generic Northeastern homepage; no lab content or roster, count left null."
+ },
+ {
+  "source": "data/sources/northeastern-chemistry.json",
+  "lab_id": "northeastern-chemistry-thakur",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is a CoffeeCup web-preview placeholder with no cached text; no roster available, count left null."
+ },
+ {
+  "source": "data/sources/northeastern-icbh.json",
+  "lab_id": "northeastern-icbh-brie-reid",
+  "fields": {
+   "member_count": 13,
+   "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 1 lab manager, 8 undergraduate RAs",
+   "members_page_url": "http://www.reid-lab.com/people",
+   "join_page_url": "http://www.reid-lab.com/join",
+   "join_notes": "Join page says Dr. Reid is not recruiting PhD students at this time and does not hold pre-application meetings; trains students via Psychology and Health Sciences PhD programs.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": false
+  },
+  "note": "Counted PI, staff/grad/postdoc and undergraduate RA sections on the people page; excluded the external 'Mentee Network' and 'Lab Alumni' sections."
+ },
+ {
+  "source": "data/sources/northeastern-icbh.json",
+  "lab_id": "northeastern-icbh-joshua-curtiss",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": "https://joshua-curtiss.github.io/research_staff.html",
+   "join_notes": "As of 2025 not accepting new lab managers or postdocs; may accept a graduate student for 2026-2027. Email the PI to discuss opportunities.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "j.curtiss@northeastern.edu",
+   "accepting_grad_students": null
+  },
+  "note": "PI's personal site (Computational Clinical Psychology Lab) has no member roster on home or Join Us page; count left null."
+ },
+ {
+  "source": "data/sources/northeastern-mes.json",
+  "lab_id": "northeastern-mes-coastal-sustainability-institute-at-the-marine-science-center",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "Coastal Sustainability Institute is a multi-faculty institute (hub), not a single lab; its institute-wide roster was not used as a group size."
+ },
+ {
+  "source": "data/sources/northeastern-qmsi.json",
+  "lab_id": "northeastern-qmsi-arun-bansil",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the PI's College of Science profile (lists EQUAL under Labs & Groups) with no group roster; people_url is the college About page; count left null."
+ },
+ {
+  "source": "data/sources/northeastern-qmsi.json",
+  "lab_id": "northeastern-qmsi-swastik-kar",
+  "fields": {
+   "member_count": 7,
+   "member_breakdown": "1 PI, 2 PhD students, 2 staff scientists (QMSI/EQUAL), 2 postdocs (EQUAL)",
+   "members_page_url": "https://swastik.sites.northeastern.edu/people/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "s.kar@northeastern.edu",
+   "accepting_grad_students": null
+  },
+  "note": "Counted PI, grad students marked 'current', and the listed Scientific and Operational Staff; excluded graduated students, past staff, and undergrads listed only with past years."
+ },
+ {
+  "source": "data/sources/northeastern-ssehri.json",
+  "lab_id": "northeastern-ssehri-phil-brown",
+  "fields": {
+   "member_count": 14,
+   "member_breakdown": "1 PI, 1 postdoc, 3 PhD students, 1 research assistant, 1 MPH student, 3 undergrads, 4 faculty/scientist collaborators at other institutions",
+   "members_page_url": "https://cssh.northeastern.edu/ssehri/pfas-lab/",
+   "join_page_url": "https://cssh.northeastern.edu/ssehri/prospective-students/",
+   "join_notes": "SSEHRI prospective-students page describes the NIEHS training program (Sociology PhD admission first; postdocs apply to core faculty/mentors); contact the director, Prof. Phil Brown.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Count is the PFAS Lab 'Team' list (9 Northeastern, 5 at other institutions incl. 1 undergrad); page text looks dated (mentions a 2021 conference being planned), so currency is uncertain."
+ },
+ {
+  "source": "data/sources/northeastern-ssehri.json",
+  "lab_id": "northeastern-ssehri-julia-varshavsky",
+  "fields": {
+   "member_count": 11,
+   "member_breakdown": "1 PI, 6 PhD students, 4 undergrads",
+   "members_page_url": "https://cssh.northeastern.edu/ssehri/varshavsky-lab/",
+   "join_page_url": "https://cssh.northeastern.edu/ssehri/prospective-students/",
+   "join_notes": "SSEHRI prospective-students page covers the institute's NIEHS training program and links graduate programs; no lab-specific instructions.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the Epidemiology and Toxicology Lab 'Team' list on the SSEHRI lab page, stopping at 'Past Members'."
+ }
+]

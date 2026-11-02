@@ -18,9 +18,13 @@ For each item:
    headings. Count people, not headings. If the page lists names with no
    roles, count names. If you can't tell who is current, leave it null.
 3. Record only what the page shows. Never guess an email, a count or a URL.
-4. If the site clearly isn't an independent research group run by this PI
-   (it's someone else's lab, a department/center page, a clinical practice),
-   set `"kind": "faculty-no-lab"` only when that is unambiguous, and say why.
+4. If `lab_website` is a center, institute, initiative or department site
+   (a hub the PI directs or belongs to), do NOT reclassify: leave the count
+   null and say so in `note`. Don't use a whole center's roster as one PI's
+   group size. Set `"kind": "faculty-no-lab"` (inside `fields`) only when the
+   person clearly runs no research group at all, e.g. a teaching-only or
+   clinical-only faculty member whose own page mentions no lab, and say why.
+   Use only what the pages show, not outside knowledge.
 
 Output: a JSON list, one object per item, written to the path you're given:
 

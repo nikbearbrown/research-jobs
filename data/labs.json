@@ -126204,7 +126204,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/josephine-au/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -126217,7 +126217,7 @@
     "lab_name": null,
     "pi_name": "Amy Briesch",
     "pi_title": "PhD Professor; Director, MS/CAGS in School Psychology Program",
-    "pi_email": null,
+    "pi_email": "a.briesch@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -126231,7 +126231,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/amy-briesch/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -126244,7 +126244,7 @@
     "lab_name": null,
     "pi_name": "Jane Carlson",
     "pi_title": "PhD, BCBA-D Associate Clinical Professor; Director of Applied Behavior Analysis program, Charlotte",
-    "pi_email": null,
+    "pi_email": "ja.carlson@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -126258,7 +126258,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/jane-carlson/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -126271,7 +126271,7 @@
     "lab_name": null,
     "pi_name": "Robin Codding",
     "pi_title": "PhD Professor, School Psychology",
-    "pi_email": null,
+    "pi_email": "r.codding@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -126285,7 +126285,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/robin-codding/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -126298,7 +126298,7 @@
     "lab_name": null,
     "pi_name": "Adrianna Crossing",
     "pi_title": "PhD Assistant Professor, School Psychology Program",
-    "pi_email": null,
+    "pi_email": "a.crossing@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -126312,7 +126312,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/adrianna-crossing/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -126325,7 +126325,7 @@
     "lab_name": null,
     "pi_name": "Joshua Curtiss",
     "pi_title": "PhD Assistant Professor, Counseling Psychology",
-    "pi_email": null,
+    "pi_email": "j.curtiss@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -126339,7 +126339,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/joshua-curtiss/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -126352,7 +126352,7 @@
     "lab_name": null,
     "pi_name": "Nicole Davis",
     "pi_title": "PhD, BCBA, LABA Associate Clinical Professor",
-    "pi_email": null,
+    "pi_email": "n.davis@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -126366,7 +126366,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/nicole-davis/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -126379,7 +126379,7 @@
     "lab_name": null,
     "pi_name": "Maeve Donnelly",
     "pi_title": "PhD, BCBA-D, LABA Associate Clinical Professor; Director of Supervision for Applied Behavior Analysis Programs",
-    "pi_email": null,
+    "pi_email": "ma.donnelly@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -126393,7 +126393,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/maeve-donnelly/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -126406,7 +126406,7 @@
     "lab_name": null,
     "pi_name": "Laura Dudley",
     "pi_title": "PhD, BCBA-D Clinical Professor, Applied Behavior Analysis",
-    "pi_email": null,
+    "pi_email": "l.dudley@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -126420,7 +126420,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/laura-dudley/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -126433,7 +126433,7 @@
     "lab_name": null,
     "pi_name": "Jessica Edwards George",
     "pi_title": "PhD Clinical Professor, Counseling Psychology; Director of Clinical Training, Counseling and School Psychology Programs",
-    "pi_email": null,
+    "pi_email": "j.george@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -126447,7 +126447,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/jessica-edwards-george/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -126460,7 +126460,7 @@
     "lab_name": null,
     "pi_name": "Krystal Hinerman",
     "pi_title": "PhD Associate Teaching Professor",
-    "pi_email": null,
+    "pi_email": "k.hinerman@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -126474,7 +126474,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/krystal-hinerman/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -126487,7 +126487,7 @@
     "lab_name": null,
     "pi_name": "Jessica Hoffman",
     "pi_title": "PhD, MEd Professor",
-    "pi_email": null,
+    "pi_email": "j.hoffman@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -126501,7 +126501,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/jessica-hoffman/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -126514,7 +126514,7 @@
     "lab_name": null,
     "pi_name": "Vanessa Johnson",
     "pi_title": "Associate Professor",
-    "pi_email": null,
+    "pi_email": "v.johnson@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -126528,7 +126528,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/vanessa-johnson/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -126541,7 +126541,7 @@
     "lab_name": null,
     "pi_name": "Laurie Kramer",
     "pi_title": "PhD Professor; Director, Counseling Psychology PhD Program",
-    "pi_email": null,
+    "pi_email": "l.kramer@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -126555,7 +126555,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/laurie-kramer/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -126582,7 +126582,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/chieh-li/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -127014,7 +127014,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/james-monaghan/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127041,7 +127041,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/donald-omalley/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127068,7 +127068,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/dagmar-sternad/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127095,7 +127095,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/erin-cram/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127122,7 +127122,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/veronica-godoy-carter/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127149,7 +127149,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/nikolai-slavov/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127176,7 +127176,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/slava-epstein-2/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127203,7 +127203,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/kim-lewis/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127230,7 +127230,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/penny-beuning/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127257,7 +127257,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/javier-apfeld/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127284,7 +127284,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/dori-woods/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127311,7 +127311,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/gunther-zupanc/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127338,7 +127338,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/alain-karma/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review)",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127365,7 +127365,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/yunrong-chai/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127392,7 +127392,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/edward-geisinger/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127419,7 +127419,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/tovah-day/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127446,7 +127446,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/konstantin-khrapko/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127473,7 +127473,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/jonathan-tilly/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127500,7 +127500,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/alexander-ivanov/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127527,7 +127527,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/craig-ferris/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127554,7 +127554,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/michail-sitkovsky-2/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127581,7 +127581,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/herbie-levine/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review)",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127608,7 +127608,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/andreia-ionescu/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127635,7 +127635,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/lisa-barrett/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127662,7 +127662,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/pedro-saavedra-2-2/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127689,7 +127689,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/calina-copos/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127716,7 +127716,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/gokce-a-yavuzarslan/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review)",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127743,7 +127743,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/emeka-okeke/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127770,7 +127770,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/lianyong-wang/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127797,7 +127797,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/thiago-monteiro-araujo-dos-santos/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127824,7 +127824,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/jonathan-kahn/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127851,7 +127851,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/lital-davidi/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127878,7 +127878,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/lei-wang/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127905,7 +127905,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/emily-r-moore/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -127932,7 +127932,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": null,
-    "notes": "targets.csv's given start_url (barabasi.com) is Barabási's personal publications/art portfolio site, not a lab team roster -- no team/people page was found there or at barabasilab.com (both redirect to the same site; /team returns 404). ccnrad@gmail.com is the site's general contact address, not confirmed as Barabási's own. No member list, join page, or lab admin found in this pass.",
+    "notes": "targets.csv's given start_url (barabasi.com) is Barabási's personal publications/art portfolio site, not a lab team roster -- no team/people page was found there or at barabasilab.com (both redirect to the same site; /team returns 404). ccnrad@gmail.com is the site's general contact address, not confirmed as Barabási's own. No member list, join page, or lab admin found in this pass. Depth pass 2026-11-02: barabasi.com home is a science/art showcase with no people page in its links; count left null.",
     "size": "unknown"
   },
   {
@@ -127986,7 +127986,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/eno-ebong/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128013,7 +128013,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/max-bi/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128040,7 +128040,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/mary-jo-ondrechen/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128067,7 +128067,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/j-timothy-sage/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128094,7 +128094,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/bryan-spring/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128121,7 +128121,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/vivek-venkatachalam/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128148,7 +128148,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/paul-whitford/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128175,7 +128175,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/rebecca-carrier/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128202,7 +128202,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": null,
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: Lab URL now resolves to the generic Northeastern homepage; no lab content or roster, count left null.",
     "size": "unknown"
   },
   {
@@ -128229,7 +128229,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/carolyn-lee-parsons/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128256,7 +128256,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/katie-lotterhos/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128283,7 +128283,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/george-odoherty/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128310,7 +128310,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/michael-pollastri-3/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128337,7 +128337,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/leila-deravi/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128364,7 +128364,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": null,
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. PI name inferred only from the lab's own name (e.g. 'Eckelman Lab' -> 'Eckelman'); first name/initials not confirmed on this page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. PI name inferred only from the lab's own name (e.g. 'Eckelman Lab' -> 'Eckelman'); first name/initials not confirmed on this page. Depth pass 2026-11-02: lab_website is a CoffeeCup web-preview placeholder with no cached text; no roster available, count left null.",
     "size": "unknown"
   },
   {
@@ -128391,7 +128391,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/meni-wanunu/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128418,7 +128418,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/ke-zhang/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128445,7 +128445,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/sunny-zhou/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128472,7 +128472,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/roman-manetsch/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128499,7 +128499,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/steven-lopez/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128526,7 +128526,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/paul-champion/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128553,7 +128553,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/vaso-lykourinou/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128580,7 +128580,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/david-budil/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128607,7 +128607,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/lee-makowski-2/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128634,7 +128634,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/aron-stubbins/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128661,7 +128661,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/oyinda-oyelaran/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128688,7 +128688,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/carla-mattos/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128715,7 +128715,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/rein-kirss/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128742,7 +128742,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/raymond-booth/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128769,7 +128769,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/eugene-smotkin/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128796,7 +128796,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/alexandros-makriyannis/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128823,7 +128823,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/sanjeev-mukerjee/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128850,7 +128850,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/paul-stevenson/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review)",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128877,7 +128877,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/sijia-dong/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128904,7 +128904,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/hannah-sayre/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128931,7 +128931,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/mark-williams/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review)",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128958,7 +128958,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/diego-alzate-sanchez/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -128985,7 +128985,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/rebecca-sherbo/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -129012,7 +129012,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/jing-ke-weng/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -129039,7 +129039,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/katia-zolotovsky/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -129066,7 +129066,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/alexander-ivanov/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -129093,7 +129093,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/damilola-daramola/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -129120,7 +129120,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/srirupa-chakraborty/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -129147,7 +129147,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/magda-barecka/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -129174,7 +129174,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/jeffrey-agar/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -129201,7 +129201,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/zhenyu-tian/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -129228,7 +129228,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/jesse-peltier/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -129268,7 +129268,7 @@
     "lab_name": null,
     "pi_name": "Kristen Allison",
     "pi_title": "PhD, CCC-SLP Associate Professor",
-    "pi_email": null,
+    "pi_email": "k.allison@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -129282,7 +129282,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/kristen-allison/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -129309,7 +129309,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/toya-foggie/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -129336,7 +129336,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/kimberly-ho/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -129363,7 +129363,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/brandy-jernigan/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -129376,7 +129376,7 @@
     "lab_name": null,
     "pi_name": "Nia Johnson",
     "pi_title": "EdD, CCC-SLP Assistant Program Director; Assistant Clinical Professor",
-    "pi_email": null,
+    "pi_email": "kri.johnson@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -129390,7 +129390,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/kristina-johnson/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -129417,7 +129417,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/nia-johnson/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -129444,7 +129444,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/geoffrey-trussell/",
-    "notes": "Executive Director entry only. CSI is a cross-cutting hub, not a department of its own labs (see top-level notes).",
+    "notes": "Executive Director entry only. CSI is a cross-cutting hub, not a department of its own labs (see top-level notes). Depth pass 2026-11-02: profile page shows no email address.",
     "size": "unknown"
   },
   {
@@ -130173,7 +130173,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/charles-hillman/",
-    "notes": "Breadth pass from CBH's own Team page.",
+    "notes": "Breadth pass from CBH's own Team page. Depth pass 2026-11-02: profile page failed to load (playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating ); pi_email not checked.",
     "size": "unknown"
   },
   {
@@ -130200,7 +130200,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/laurel-gabard-durnam/",
-    "notes": "Breadth pass from CBH's own Team page.",
+    "notes": "Breadth pass from CBH's own Team page. Depth pass 2026-11-02: profile page failed to load (playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating ); pi_email not checked.",
     "size": "unknown"
   },
   {
@@ -130227,7 +130227,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://camd.northeastern.edu/faculty/psyche-loui/",
-    "notes": "Breadth pass from CBH's own Team page.",
+    "notes": "Breadth pass from CBH's own Team page. Depth pass 2026-11-02: profile page failed to load (playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating ); pi_email not checked.",
     "size": "unknown"
   },
   {
@@ -130240,7 +130240,7 @@
     "lab_name": null,
     "pi_name": "Jonathan Peelle",
     "pi_title": "Associate Director of Research; Professor, Communication Sciences and Disorders (Bouve) and Psychology (COS)",
-    "pi_email": null,
+    "pi_email": "j.peelle@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -130254,7 +130254,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/bchs/directory/jonathan-peelle/",
-    "notes": "Breadth pass from CBH's own Team page.",
+    "notes": "Breadth pass from CBH's own Team page. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -130281,7 +130281,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/alexandra-rodman/",
-    "notes": "Breadth pass from CBH's own Team page.",
+    "notes": "Breadth pass from CBH's own Team page. Depth pass 2026-11-02: profile page failed to load (playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating ); pi_email not checked.",
     "size": "unknown"
   },
   {
@@ -130322,21 +130322,21 @@
     "pi_name": "Brie M. Reid",
     "pi_title": "Assistant Professor, Psychology (COS) and Public Health and Health Sciences (Bouve)",
     "pi_email": null,
-    "accepting_grad_students": null,
+    "accepting_grad_students": false,
     "lab_website": "http://www.reid-lab.com",
     "location": null,
     "phone": null,
     "admin_name": null,
     "admin_email": null,
     "research_summary": "How early-life social and nutritional environments shape health and development; stress physiology and immune function.",
-    "member_count": null,
-    "member_breakdown": null,
-    "members_page_url": null,
-    "join_page_url": null,
-    "join_notes": null,
+    "member_count": 13,
+    "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 1 lab manager, 8 undergraduate RAs",
+    "members_page_url": "http://www.reid-lab.com/people",
+    "join_page_url": "http://www.reid-lab.com/join",
+    "join_notes": "Join page says Dr. Reid is not recruiting PhD students at this time and does not hold pre-application meetings; trains students via Psychology and Health Sciences PhD programs.",
     "profile_url": null,
-    "notes": "Breadth pass from CBH's own Team page.",
-    "size": "unknown"
+    "notes": "Breadth pass from CBH's own Team page. Depth pass 2026-11-02: Counted PI, staff/grad/postdoc and undergraduate RA sections on the people page; excluded the external 'Mentee Network' and 'Lab Alumni' sections.",
+    "size": "medium"
   },
   {
     "institution": "Northeastern University",
@@ -130375,7 +130375,7 @@
     "lab_name": "Laboratory for Movement Neuroscience",
     "pi_name": "Gene Tunik",
     "pi_title": "Associate Dean of Research and Innovation & Professor, Physical Therapy Movement & Rehab Sciences (Bouve)",
-    "pi_email": null,
+    "pi_email": "e.tunik@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -130389,7 +130389,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/bchs/directory/eugene-tunik/",
-    "notes": "Breadth pass from CBH's own Team page.",
+    "notes": "Breadth pass from CBH's own Team page. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -130402,7 +130402,7 @@
     "lab_name": null,
     "pi_name": "Joshua Curtiss",
     "pi_title": "Assistant Professor, Applied Psychology (Bouve)",
-    "pi_email": null,
+    "pi_email": "j.curtiss@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": "https://joshua-curtiss.github.io/",
     "location": null,
@@ -130413,10 +130413,10 @@
     "member_count": null,
     "member_breakdown": null,
     "members_page_url": null,
-    "join_page_url": null,
-    "join_notes": null,
+    "join_page_url": "https://joshua-curtiss.github.io/research_staff.html",
+    "join_notes": "As of 2025 not accepting new lab managers or postdocs; may accept a graduate student for 2026-2027. Email the PI to discuss opportunities.",
     "profile_url": null,
-    "notes": "Breadth pass from CBH's own Team page.",
+    "notes": "Breadth pass from CBH's own Team page. Depth pass 2026-11-02: PI's personal site (Computational Clinical Psychology Lab) has no member roster on home or Join Us page; count left null.",
     "size": "unknown"
   },
   {
@@ -130429,7 +130429,7 @@
     "lab_name": null,
     "pi_name": "Lauren Raine",
     "pi_title": "Assistant Professor, Physical Therapy Movement & Rehab Sciences / Medical Sciences (Bouve)",
-    "pi_email": null,
+    "pi_email": "l.raine@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -130443,7 +130443,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/bchs/directory/lauren-raine/",
-    "notes": "Breadth pass from CBH's own Team page.",
+    "notes": "Breadth pass from CBH's own Team page. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -130456,7 +130456,7 @@
     "lab_name": null,
     "pi_name": "Matthew Yarossi",
     "pi_title": "Assistant Professor, Physical Therapy Movement & Rehab Sciences (Bouve) and Electrical & Computer Engineering (COE)",
-    "pi_email": null,
+    "pi_email": "m.yarossi@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -130470,7 +130470,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/yarossi-mathew/",
-    "notes": "Breadth pass from CBH's own Team page.",
+    "notes": "Breadth pass from CBH's own Team page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -130551,7 +130551,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/stephanie-noble/",
-    "notes": "Breadth pass from CBH's own Team page.",
+    "notes": "Breadth pass from CBH's own Team page. Depth pass 2026-11-02: profile page failed to load (playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating ); pi_email not checked.",
     "size": "unknown"
   },
   {
@@ -130578,7 +130578,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/susan-whitfield-gabrieli/",
-    "notes": "Breadth pass from CBH's own Team page.",
+    "notes": "Breadth pass from CBH's own Team page. Depth pass 2026-11-02: profile page failed to load (playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating ); pi_email not checked.",
     "size": "unknown"
   },
   {
@@ -130591,7 +130591,7 @@
     "lab_name": null,
     "pi_name": "Tim Morris",
     "pi_title": "Assistant Professor, Physical Therapy Movement & Rehab Sciences and Applied Psychology (Bouve)",
-    "pi_email": null,
+    "pi_email": "t.morris@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -130605,7 +130605,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/directory/timothy-p-morris/",
-    "notes": "Breadth pass from CBH's own Team page.",
+    "notes": "Breadth pass from CBH's own Team page. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -130645,7 +130645,7 @@
     "lab_name": "Wang Lab",
     "pi_name": "Ning Wang",
     "pi_title": "Director, Institute for Mechanobiology; Professor, Bioengineering",
-    "pi_email": null,
+    "pi_email": "ni.wang@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -130659,7 +130659,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/wang-ning/",
-    "notes": "Breadth pass from the Institute for Mechanobiology's Core Faculty page; home-department faculty directories (bioe, che, mie, cos) are themselves broken JS widgets this round, so this cross-cutting page is the primary source.",
+    "notes": "Breadth pass from the Institute for Mechanobiology's Core Faculty page; home-department faculty directories (bioe, che, mie, cos) are themselves broken JS widgets this round, so this cross-cutting page is the primary source. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -130672,7 +130672,7 @@
     "lab_name": "Laboratory for Soft Tissue Biomechanics",
     "pi_name": "Rouzbeh Amini",
     "pi_title": "Associate Professor, Mechanical and Industrial Engineering; Associate Professor, Bioengineering",
-    "pi_email": null,
+    "pi_email": "r.amini@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -130686,7 +130686,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/amini-rouzbeh/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -130699,7 +130699,7 @@
     "lab_name": null,
     "pi_name": "Ambika Bajpayee",
     "pi_title": "Associate Professor, Bioengineering",
-    "pi_email": null,
+    "pi_email": "a.bajpayee@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -130713,7 +130713,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/bajpayee-ambika/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -130726,7 +130726,7 @@
     "lab_name": "Bellini Lab",
     "pi_name": "Chiara Bellini",
     "pi_title": "Associate Professor, Bioengineering; Associate Chair for Graduate Studies, Bioengineering",
-    "pi_email": null,
+    "pi_email": "c.bellini@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -130740,7 +130740,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/bellini-chiara/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -130767,7 +130767,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/max-bi/",
-    "notes": "Breadth pass from IFM Core Faculty page. Also appears in College of Science's faculty-labs-research listing; not duplicated there in this pass.",
+    "notes": "Breadth pass from IFM Core Faculty page. Also appears in College of Science's faculty-labs-research listing; not duplicated there in this pass. Depth pass 2026-11-02: profile page failed to load (playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating ); pi_email not checked.",
     "size": "unknown"
   },
   {
@@ -130834,7 +130834,7 @@
     "lab_name": "Dai Lab",
     "pi_name": "Guohao Dai",
     "pi_title": "Professor, Bioengineering",
-    "pi_email": null,
+    "pi_email": "g.dai@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -130848,7 +130848,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/dai-guohao/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -130861,7 +130861,7 @@
     "lab_name": "Ebong Laboratory",
     "pi_name": "Eno Ebong",
     "pi_title": "Associate Professor, Chemical Engineering; Associate Professor, Bioengineering; Affiliated Faculty, Biology",
-    "pi_email": null,
+    "pi_email": "e.ebong@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -130875,7 +130875,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/ebong-eno/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -130902,7 +130902,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/hajal-cynthia/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: profile page failed to load (playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating ); pi_email not checked.",
     "size": "unknown"
   },
   {
@@ -130942,7 +130942,7 @@
     "lab_name": "Human Organ Engineering Lab",
     "pi_name": "Hyeonyu Kim",
     "pi_title": "Assistant Professor, Mechanical and Industrial Engineering; Affiliated Faculty, Bioengineering",
-    "pi_email": null,
+    "pi_email": "hy.kim@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -130956,7 +130956,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/kim-hyeon-yu/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -130969,7 +130969,7 @@
     "lab_name": "Levine Lab",
     "pi_name": "Herbert Levine",
     "pi_title": "University Distinguished Professor, Physics; University Distinguished Professor, Bioengineering",
-    "pi_email": null,
+    "pi_email": "h.levine@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -130983,7 +130983,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/levine-herbert/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -130996,7 +130996,7 @@
     "lab_name": null,
     "pi_name": "Maijia Liao",
     "pi_title": "Affiliated Faculty, Bioengineering; Assistant Professor, Physics",
-    "pi_email": null,
+    "pi_email": "m.liao@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -131010,7 +131010,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/liao-maijia/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -131023,7 +131023,7 @@
     "lab_name": "Loth Lab",
     "pi_name": "Frank Loth",
     "pi_title": "Professor, Mechanical and Industrial Engineering; Professor, Bioengineering",
-    "pi_email": null,
+    "pi_email": "f.loth@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -131037,7 +131037,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/loth-francis/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -131050,7 +131050,7 @@
     "lab_name": null,
     "pi_name": "Steve Lustig",
     "pi_title": "Associate Professor, Chemical Engineering",
-    "pi_email": null,
+    "pi_email": "s.lustig@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -131064,7 +131064,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/lustig-steve/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -131077,7 +131077,7 @@
     "lab_name": "RESIST (Respiratory Innovation and Simulation Team)",
     "pi_name": "Jessica Oakes",
     "pi_title": "Associate Professor, Bioengineering",
-    "pi_email": null,
+    "pi_email": "j.oakes@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -131091,7 +131091,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/oakes-jessica/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -131104,7 +131104,7 @@
     "lab_name": "Breathe Lab",
     "pi_name": "Hari Parameswaran",
     "pi_title": "Associate Professor, Bioengineering",
-    "pi_email": null,
+    "pi_email": "h.parameswaran@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -131118,7 +131118,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/parameswaran-hari/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -131131,7 +131131,7 @@
     "lab_name": "Extracellular Matrix Research Lab",
     "pi_name": "Jeff Ruberti",
     "pi_title": "COE Distinguished Professor, Bioengineering; Affiliated Faculty, Mechanical and Industrial Engineering",
-    "pi_email": null,
+    "pi_email": "j.ruberti@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -131145,7 +131145,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/ruberti-jeffrey/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -131158,7 +131158,7 @@
     "lab_name": "Musculoskeletal Epidemiology and Biomechanics Lab",
     "pi_name": "Josh Stefanik",
     "pi_title": "Associate Professor, Physical Therapy, Human Movement, and Rehabilitation Sciences",
-    "pi_email": null,
+    "pi_email": "j.stefanik@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -131172,7 +131172,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/joshua-stefanik/",
-    "notes": "Breadth pass from IFM Core Faculty page. Home department is Bouve's Physical Therapy program (northeastern-pt target).",
+    "notes": "Breadth pass from IFM Core Faculty page. Home department is Bouve's Physical Therapy program (northeastern-pt target). Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -131185,7 +131185,7 @@
     "lab_name": "Multiscale Mechanics and Musculoskeletal Mechanobiology Lab",
     "pi_name": "Sandra Shefelbine",
     "pi_title": "Associate Dean of Space and Special Initiatives, Office of the Dean; Professor, Mechanical and Industrial Engineering; Professor, Bioengineering",
-    "pi_email": null,
+    "pi_email": "s.shefelbine@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -131199,7 +131199,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/shefelbine-sandra/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -131212,7 +131212,7 @@
     "lab_name": "Vahabikashi Lab",
     "pi_name": "Amir Vahabikashi",
     "pi_title": "Assistant Professor, Bioengineering",
-    "pi_email": null,
+    "pi_email": "a.vahabikashi@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -131226,7 +131226,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/vahabikashi-amir/",
-    "notes": "Breadth pass from IFM Core Faculty page.",
+    "notes": "Breadth pass from IFM Core Faculty page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -131239,7 +131239,7 @@
     "lab_name": "Wang Lab (Lei Wang)",
     "pi_name": "Lei Wang",
     "pi_title": "Assistant Professor, Bioengineering; Assistant Professor, Biology",
-    "pi_email": null,
+    "pi_email": "lei1.wang@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -131253,7 +131253,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://coe.northeastern.edu/people/wang-lei/",
-    "notes": "Breadth pass from IFM Core Faculty page. Distinct from Ning Wang (Director).",
+    "notes": "Breadth pass from IFM Core Faculty page. Distinct from Ning Wang (Director). Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -132036,7 +132036,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/jennifer-bowen-2/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132063,7 +132063,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/jonathan-grabowski/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132090,7 +132090,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/brian-helmuth/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132117,7 +132117,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/randall-hughes/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132144,7 +132144,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/david-kimbro-2/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132171,7 +132171,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/samuel-munoz/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132198,7 +132198,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/justin-ries-3/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132225,7 +132225,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/geoffrey-trussell/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132252,7 +132252,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/amy-mueller/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132279,7 +132279,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/mark-patterson/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132306,7 +132306,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": null,
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: Coastal Sustainability Institute is a multi-faculty institute (hub), not a single lab; its institute-wide roster was not used as a group size.",
     "size": "unknown"
   },
   {
@@ -132333,7 +132333,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/dan-distel-2/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132360,7 +132360,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/gabriela-garcia/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132387,7 +132387,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/alison-glassie/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132414,7 +132414,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/damon-hall/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132441,7 +132441,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/remy-gatins/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132468,7 +132468,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/peter-james-dennedy-frank/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -132495,7 +132495,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/chengfei-he/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -133723,7 +133723,7 @@
     "lab_name": "BRAN Lab",
     "pi_name": "Andreia Sofia Teixeira",
     "pi_title": "Associate Professor",
-    "pi_email": null,
+    "pi_email": "sofia.teixeira@nulondon.ac.uk",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": "London, UK (NetSI London)",
@@ -133737,7 +133737,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.networkscienceinstitute.org/people/andreia-sofia-teixeira",
-    "notes": "Breadth pass. Also cross-listed as affiliate faculty in northeastern-icbh.",
+    "notes": "Breadth pass. Also cross-listed as affiliate faculty in northeastern-icbh. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -133885,7 +133885,7 @@
     "lab_name": null,
     "pi_name": "Jane G. Adams",
     "pi_title": "DNP, APRN, FNP-BC Director, Family Nurse Practitioner Program; Assistant Clinical Professor",
-    "pi_email": null,
+    "pi_email": "jan.adams@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -133899,7 +133899,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/jane-g-adams/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -133912,7 +133912,7 @@
     "lab_name": null,
     "pi_name": "Kayla Alvares",
     "pi_title": "She/Her PhD, RNC-NIC Assistant Clinical Professor School of Nursing",
-    "pi_email": null,
+    "pi_email": "k.alvares@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -133926,7 +133926,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/kayla-alvares/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -133939,7 +133939,7 @@
     "lab_name": null,
     "pi_name": "Caitlin Bradley",
     "pi_title": "She/Her PhD, RN, NNP-BC Neonatal Nurse Practitioner, Assistant Clinical Professor, Director of the Neonatal Nurse Practitioner Program",
-    "pi_email": null,
+    "pi_email": "ca.bradley@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -133953,7 +133953,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/caitlin-bradley/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -133966,7 +133966,7 @@
     "lab_name": null,
     "pi_name": "Mary Bronski",
     "pi_title": "DNP, MS, RN Assistant Clinical Professor",
-    "pi_email": null,
+    "pi_email": "m.bronski@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -133980,7 +133980,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/mary-bronski/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -133993,7 +133993,7 @@
     "lab_name": null,
     "pi_name": "Amanda Choflet",
     "pi_title": "DNP, RN, NEA-BC Dean, School of Nursing; Clinical Professor",
-    "pi_email": null,
+    "pi_email": "a.choflet@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -134007,7 +134007,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/amanda-choflet/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -134020,7 +134020,7 @@
     "lab_name": null,
     "pi_name": "Jennifer Cocio-Thompson",
     "pi_title": "D MSc, MSN, MA, RN, CPNP Program Director, ABSN, Fall River Campus; Assistant Clinical Professor",
-    "pi_email": null,
+    "pi_email": "j.cocio-thompson@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -134034,7 +134034,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/jennifer-cocio-thompson/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -134047,7 +134047,7 @@
     "lab_name": null,
     "pi_name": "Jillian Costa",
     "pi_title": "DNP, cPNP, MSN Assitant Dean for Clinical Affairs & Assistant Clinical Professor",
-    "pi_email": null,
+    "pi_email": "ji.costa@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -134061,7 +134061,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/jillian-costa/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -134088,7 +134088,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/jennifer-deese/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -134101,7 +134101,7 @@
     "lab_name": null,
     "pi_name": "Janet A. Dewan",
     "pi_title": "PhD, MS, CRNA Assistant Clinical Professor; Associate Program Administrator, DNP Nurse Anesthesia Program",
-    "pi_email": null,
+    "pi_email": "j.dewan@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -134115,7 +134115,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/janet-dewan/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -134128,7 +134128,7 @@
     "lab_name": null,
     "pi_name": "Jeffrey Agar",
     "pi_title": "PhD Associate Professor",
-    "pi_email": null,
+    "pi_email": "j.agar@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -134142,7 +134142,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/jeffrey-agar/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -134155,7 +134155,7 @@
     "lab_name": null,
     "pi_name": "Mansoor Amiji",
     "pi_title": "PhD, RPh University Distinguished Professor",
-    "pi_email": null,
+    "pi_email": "m.amiji@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -134169,7 +134169,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/mansoor-amiji/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -134182,7 +134182,7 @@
     "lab_name": null,
     "pi_name": "Eugene Bernstein",
     "pi_title": "PhD Teaching Professor",
-    "pi_email": null,
+    "pi_email": "e.bernstein@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -134196,7 +134196,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/eugene-bernstein/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -134209,7 +134209,7 @@
     "lab_name": null,
     "pi_name": "Raymond Booth",
     "pi_title": "PhD Associate Director for the Center for Drug Discovery, Professor",
-    "pi_email": null,
+    "pi_email": "ra.booth@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -134223,7 +134223,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/raymond-booth/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -134236,7 +134236,7 @@
     "lab_name": null,
     "pi_name": "Tatiana Bronich",
     "pi_title": "PhD Professor, Department of Pharmaceutical Science",
-    "pi_email": null,
+    "pi_email": "t.bronich@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -134250,7 +134250,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/tatiana-bronich/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -134263,7 +134263,7 @@
     "lab_name": null,
     "pi_name": "Camron D. Bryant",
     "pi_title": "PhD Professor",
-    "pi_email": null,
+    "pi_email": "c.bryant@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -134277,7 +134277,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/camron-bryant/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -134304,7 +134304,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/john-choi/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -134331,7 +134331,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/nishil-desai/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -134344,7 +134344,7 @@
     "lab_name": null,
     "pi_name": "Craig Ferris",
     "pi_title": "PhD Professor",
-    "pi_email": null,
+    "pi_email": "l.ferrins@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -134358,7 +134358,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/lori-ferrins/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -134385,7 +134385,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/craig-ferris/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -134412,7 +134412,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/stephen-hatfield/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -134439,7 +134439,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/david-r-janero/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -134466,7 +134466,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/konstantin-khrapko/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -134493,7 +134493,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/tali-konry/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -134520,7 +134520,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/alessandro-vespignani/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134547,7 +134547,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/swastik-kar/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134574,7 +134574,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/dima-krioukov/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134601,7 +134601,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/latika-menon/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134628,7 +134628,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/don-heiman/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134682,7 +134682,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/oleg-batishchev/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review)",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134709,7 +134709,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/sergey-kravchenko/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134736,7 +134736,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/srinivas-sridhar/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review)",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134763,7 +134763,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/adrian-feiguin/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review)",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134790,7 +134790,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/gregory-fiete/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review)",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134817,7 +134817,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/emanuela-barberis/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review)",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134844,7 +134844,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/michele-di-pierro/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review)",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134871,7 +134871,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/tsuguo-aramaki/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review)",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134898,7 +134898,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/mingzhong-wu/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134925,7 +134925,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/brennan-klein/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134952,7 +134952,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/mauricio-santillana/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -134979,7 +134979,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/esteban-moro-egido/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135006,7 +135006,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/heather-brenhouse/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135033,7 +135033,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/rebecca-shansky/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135060,7 +135060,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/armen-stepanyants/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135087,7 +135087,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/iris-berent/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135114,7 +135114,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/john-coley/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135141,7 +135141,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/stacy-marsella/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135168,7 +135168,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/peter-bex/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135195,7 +135195,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/david-desteno/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135222,7 +135222,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/rhea-eskew/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135249,7 +135249,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/art-kramer/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135276,7 +135276,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/juliet-davidow/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135303,7 +135303,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/laurel-gabard-durnam/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135330,7 +135330,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/miyoung-kwon/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135357,7 +135357,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/zhenghan-qi/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135384,7 +135384,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/alexandra-rodman/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review)",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135411,7 +135411,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/aaron-seitz/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135438,7 +135438,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/analia-albuja/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135465,7 +135465,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/brie-reid/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135492,7 +135492,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/briony-swire-thompson/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135519,7 +135519,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://cos.northeastern.edu/people/psyche-loui/",
-    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page.",
+    "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address.",
     "size": "small"
   },
   {
@@ -135532,7 +135532,7 @@
     "lab_name": null,
     "pi_name": "Luke Brisbin",
     "pi_title": "PT, DPT , OCS Assistant Clinical Professor",
-    "pi_email": null,
+    "pi_email": "l.brisbin@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -135546,7 +135546,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/luke-brisbin/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -135559,7 +135559,7 @@
     "lab_name": null,
     "pi_name": "Christopher Cesario",
     "pi_title": "PT, DPT, MBA Clinical Professor; Associate Program Director",
-    "pi_email": null,
+    "pi_email": "c.cesario@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -135573,7 +135573,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/christopher-cesario/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -135586,7 +135586,7 @@
     "lab_name": null,
     "pi_name": "Heidi Cheerman",
     "pi_title": "PT, DPT, EdD, NCS, FNAP Assistant Clinical Professor; Assistant Dean for Interprofessional Education",
-    "pi_email": null,
+    "pi_email": "h.cheerman@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -135600,7 +135600,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/heidi-cheerman/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -135613,7 +135613,7 @@
     "lab_name": null,
     "pi_name": "Leanne Chukoskie",
     "pi_title": "PhD Associate Professor",
-    "pi_email": null,
+    "pi_email": "l.chukoskie@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -135627,7 +135627,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/leanne-chukoskie/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -135640,7 +135640,7 @@
     "lab_name": null,
     "pi_name": "Stephen B. Clark",
     "pi_title": "PT, DPT, SCS, ATC, MS, CSCS Assistant Clinical Professor",
-    "pi_email": null,
+    "pi_email": "s.clark@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -135654,7 +135654,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/stephen-b-clark/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -135667,7 +135667,7 @@
     "lab_name": null,
     "pi_name": "Marie B. Corkery",
     "pi_title": "PT, DPT, MHS Clinical Professor",
-    "pi_email": null,
+    "pi_email": "m.corkery@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -135681,7 +135681,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/marie-b-corkery/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -135694,7 +135694,7 @@
     "lab_name": null,
     "pi_name": "Pamela Donlan",
     "pi_title": "PT, DPT, EdD, CLT-LANA Associate Clinical Professor",
-    "pi_email": null,
+    "pi_email": "p.donlan@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -135708,7 +135708,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/pamela-donlan/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -135721,7 +135721,7 @@
     "lab_name": null,
     "pi_name": "Kris Dorsey",
     "pi_title": "PhD Associate Professor",
-    "pi_email": null,
+    "pi_email": "k.dorsey@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -135735,7 +135735,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/kris-dorsey/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -135748,7 +135748,7 @@
     "lab_name": null,
     "pi_name": "Eric Folmar",
     "pi_title": "PT, DPT, OCS Associate Chair, Department of Physical Therapy, Movement, and Rehabilitative Sciences; Associate Clinical Professor",
-    "pi_email": null,
+    "pi_email": "e.folmar@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -135762,7 +135762,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/eric-folmar/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -135775,7 +135775,7 @@
     "lab_name": null,
     "pi_name": "Neha Gothe",
     "pi_title": "PhD Associate Professor; Program Director, PhD in Interdisciplinary Clinical and Rehabilitation Sciences; Assistant Dean for PhD Education in Bouvé College of Health Sciences",
-    "pi_email": null,
+    "pi_email": "n.gothe@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -135789,7 +135789,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/neha-gothe/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -135802,7 +135802,7 @@
     "lab_name": null,
     "pi_name": "Christopher J. Hasson",
     "pi_title": "PhD Associate Professor",
-    "pi_email": null,
+    "pi_email": "c.hasson@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -135816,7 +135816,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/christopher-j-hasson/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -135829,7 +135829,7 @@
     "lab_name": null,
     "pi_name": "Charles Hillman",
     "pi_title": "PhD Director, Institute for Cognitive and Brain Health; Professor",
-    "pi_email": null,
+    "pi_email": "c.hillman@northeastern.ed",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -135843,7 +135843,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/charles-hillman/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -135856,7 +135856,7 @@
     "lab_name": null,
     "pi_name": "Sheri R. Kiami",
     "pi_title": "DPT Associate Director of Graduate Affairs; Clinical Professor",
-    "pi_email": null,
+    "pi_email": "s.kiami@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -135870,7 +135870,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/sheri-r-kiami/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -135883,7 +135883,7 @@
     "lab_name": null,
     "pi_name": "John Auerbach",
     "pi_title": "MBA Affiliate Professor of the Practice",
-    "pi_email": null,
+    "pi_email": "j.auerbach@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -135897,7 +135897,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/john-auerbach/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -135910,7 +135910,7 @@
     "lab_name": null,
     "pi_name": "Phil Brown",
     "pi_title": "PhD Director of the Social Science Environmental Health Research Institute, University Distinguished Professor",
-    "pi_email": null,
+    "pi_email": "p.brown@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -135924,7 +135924,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/phil-brown/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright).",
     "size": "unknown"
   },
   {
@@ -135951,7 +135951,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/domenic-corey/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -135978,7 +135978,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/danielle-crookes/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -136005,7 +136005,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/adrianna-crossing/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -136032,7 +136032,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/jennifer-evans/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -136059,7 +136059,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/samantha-garbers/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -136086,7 +136086,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/elizabeth-glowacki/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -136113,7 +136113,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/matthew-goodwin/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -136140,7 +136140,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://bouve.northeastern.edu/directory/sharon-l-harlan/",
-    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info.",
+    "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null.",
     "size": "unknown"
   },
   {
@@ -136167,7 +136167,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": null,
-    "notes": "Breadth pass from QMSI's Faculty page.",
+    "notes": "Breadth pass from QMSI's Faculty page. Depth pass 2026-11-02: lab_website is the PI's College of Science profile (lists EQUAL under Labs & Groups) with no group roster; people_url is the college About page; count left null.",
     "size": "unknown"
   },
   {
@@ -136180,7 +136180,7 @@
     "lab_name": null,
     "pi_name": "Swastik Kar",
     "pi_title": "Deputy Director, QMSI; Professor of Physics",
-    "pi_email": null,
+    "pi_email": "s.kar@northeastern.edu",
     "accepting_grad_students": null,
     "lab_website": "https://swastik.sites.northeastern.edu/",
     "location": null,
@@ -136188,14 +136188,14 @@
     "admin_name": null,
     "admin_email": null,
     "research_summary": "Experimental condensed matter physics; 2D quantum materials; Director of EQUAL.",
-    "member_count": null,
-    "member_breakdown": null,
-    "members_page_url": null,
+    "member_count": 7,
+    "member_breakdown": "1 PI, 2 PhD students, 2 staff scientists (QMSI/EQUAL), 2 postdocs (EQUAL)",
+    "members_page_url": "https://swastik.sites.northeastern.edu/people/",
     "join_page_url": null,
     "join_notes": null,
     "profile_url": null,
-    "notes": "Breadth pass from QMSI's Faculty page.",
-    "size": "unknown"
+    "notes": "Breadth pass from QMSI's Faculty page. Depth pass 2026-11-02: Counted PI, grad students marked 'current', and the listed Scientific and Operational Staff; excluded graduated students, past staff, and undergrads listed only with past years.",
+    "size": "small"
   },
   {
     "institution": "Northeastern University",
@@ -137160,14 +137160,14 @@
     "admin_name": null,
     "admin_email": null,
     "research_summary": "Environmental health social science; PFAS contamination research.",
-    "member_count": null,
-    "member_breakdown": null,
+    "member_count": 14,
+    "member_breakdown": "1 PI, 1 postdoc, 3 PhD students, 1 research assistant, 1 MPH student, 3 undergrads, 4 faculty/scientist collaborators at other institutions",
     "members_page_url": "https://cssh.northeastern.edu/ssehri/members/",
-    "join_page_url": null,
-    "join_notes": null,
+    "join_page_url": "https://cssh.northeastern.edu/ssehri/prospective-students/",
+    "join_notes": "SSEHRI prospective-students page describes the NIEHS training program (Sociology PhD admission first; postdocs apply to core faculty/mentors); contact the director, Prof. Phil Brown.",
     "profile_url": null,
-    "notes": "Core faculty, SSEHRI Director; the institute itself lists a 'PFAS Lab' site which this PI directs.",
-    "size": "unknown"
+    "notes": "Core faculty, SSEHRI Director; the institute itself lists a 'PFAS Lab' site which this PI directs. Depth pass 2026-11-02: Count is the PFAS Lab 'Team' list (9 Northeastern, 5 at other institutions incl. 1 undergrad); page text looks dated (mentions a 2021 conference being planned), so currency is uncertain.",
+    "size": "medium"
   },
   {
     "institution": "Northeastern University",
@@ -137214,14 +137214,14 @@
     "admin_name": null,
     "admin_email": null,
     "research_summary": "Environmental health and PFAS exposure research.",
-    "member_count": null,
-    "member_breakdown": null,
-    "members_page_url": null,
-    "join_page_url": null,
-    "join_notes": null,
+    "member_count": 11,
+    "member_breakdown": "1 PI, 6 PhD students, 4 undergrads",
+    "members_page_url": "https://cssh.northeastern.edu/ssehri/varshavsky-lab/",
+    "join_page_url": "https://cssh.northeastern.edu/ssehri/prospective-students/",
+    "join_notes": "SSEHRI prospective-students page covers the institute's NIEHS training program and links graduate programs; no lab-specific instructions.",
     "profile_url": null,
-    "notes": "Core faculty; named lab site linked from the institute's own nav.",
-    "size": "unknown"
+    "notes": "Core faculty; named lab site linked from the institute's own nav. Depth pass 2026-11-02: Counted the Epidemiology and Toxicology Lab 'Team' list on the SSEHRI lab page, stopping at 'Past Members'.",
+    "size": "medium"
   },
   {
     "institution": "Ragon Institute of Mass General Brigham, MIT and Harvard",
