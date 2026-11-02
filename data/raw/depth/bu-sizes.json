@@ -1,0 +1,1369 @@
+[
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-gary-benson",
+  "fields": {},
+  "note": "Lab site tandem.bu.edu/benson.html returned empty text on both cached and rendered fetch; no roster visible."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-jennifer-bhatnagar",
+  "fields": {
+   "member_count": 11,
+   "member_breakdown": "1 PI, 1 postdoc, 3 PhD students, 1 master's student, 5 undergraduates",
+   "members_page_url": "https://microbesatbu.wordpress.com/lab-members/lab-personnel/",
+   "join_page_url": "https://microbesatbu.wordpress.com/prospective-students/",
+   "join_notes": "Aug 2026 post: recruiting PhD students (with the Templer lab) for Sept 2027 entry on an NSF Hubbard Brook project; see the Join the Lab page and submit materials before the December deadline.",
+   "pi_email": "jmbhat@bu.edu",
+   "accepting_grad_students": true
+  },
+  "note": "Counted current members on the Lab personnel page, stopping at 'Former lab members'."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-josh-campbell",
+  "fields": {
+   "pi_email": "camp@bu.edu"
+  },
+  "note": "Lab website is a Computational Biomedicine dept profile; it links the dept Campbell Lab page, which points to camplab.net, whose Current Members page (https://www.camplab.net/current-members/) was not fetched (2-fetch limit)."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-luis-carvalho",
+  "fields": {
+   "member_count": 2,
+   "member_breakdown": "1 PI, 1 PhD student",
+   "members_page_url": "http://math.bu.edu/people/lecarval/",
+   "pi_email": "lecarval@math.bu.edu"
+  },
+  "note": "Counted the 'Students > Current' list on the PI's personal page plus the PI."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-john-connor",
+  "fields": {},
+  "note": "connorlab.com returns a WordPress 'critical error' page; no roster or links visible."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-sarah-davies",
+  "fields": {
+   "member_count": 21,
+   "member_breakdown": "1 PI, 3 postdocs, 6 PhD students, 1 aquarium technician, 10 undergraduates",
+   "members_page_url": "https://sites.bu.edu/davieslab/members/",
+   "join_page_url": "https://sites.bu.edu/davieslab/join-the-lab/",
+   "pi_email": "daviessw@bu.edu"
+  },
+  "note": "Counted the Members page (excluding the honorary member and the collaborators list); alumni are on a separate page."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-ruben-dries",
+  "fields": {
+   "member_count": 10,
+   "member_breakdown": "1 PI, 2 postdocs, 3 graduate students, 1 data scientist, 1 bioinformatician, 2 undergraduates",
+   "members_page_url": "https://www.drieslab.com/team/",
+   "join_page_url": "https://www.drieslab.com/Join%20Us/",
+   "pi_email": "rdries@bu.edu"
+  },
+  "note": "Counted the Team page, stopping at Collaborators/Lab Alumni."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-sean-elliott",
+  "fields": {
+   "member_count": 9,
+   "member_breakdown": "1 PI, 1 postdoc, 7 graduate students",
+   "members_page_url": "https://sites.bu.edu/sje-lab/members/"
+  },
+  "note": "Counted the 8 people on the Current Lab Members page plus the PI (PI not listed there)."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-lindsay-farrer",
+  "fields": {
+   "join_page_url": "https://www.bumc.bu.edu/genetics/opportunities/postdoctoral-positions-in-genetic-epidemiology/",
+   "pi_email": "farrer@bu.edu"
+  },
+  "note": "Lab website is a Biomedical Genetics department faculty profile; it mentions his group but shows no lab roster."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-john-finnerty",
+  "fields": {},
+  "note": "people.bu.edu page is only a link to nematostella.bu.edu/~FinnLab/FinnertyLab/, which timed out on fetch; no roster seen."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-lei-hou",
+  "fields": {
+   "member_count": 4,
+   "member_breakdown": "1 PI, 1 postdoc, 2 visiting undergraduate/student mentees (Zhejiang U / Edinburgh)",
+   "members_page_url": "https://hougroup.xyz/index.php/people/",
+   "join_page_url": "https://hougroup.xyz/index.php/people/",
+   "join_notes": "Hiring bioinformatics interns and data analysts: email CV to leihou@bu.edu titled '[BU data analyst application]'. Postdoc: no opening now; CV + research statement titled '[BU postdoc application]'.",
+   "pi_email": "leihou@bu.edu"
+  },
+  "note": "Counted 'Current Mentees' on the People page plus the PI, stopping at 'Previous Mentees'."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-jonathan-huggins",
+  "fields": {
+   "join_page_url": "http://jhhuggins.org/",
+   "join_notes": "BU students enrolled in or accepted to a BU grad program may email about research; advises PhD students in Statistics and Computing & Data Sciences; may not reply to applicants from elsewhere."
+  },
+  "note": "Personal homepage describes 'my group' but lists no members; no people page linked."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-samuel-isaacson",
+  "fields": {},
+  "note": "Personal page lists no group members; its 'Join Us' link resolves to math.bu.edu/join/ and the guessed /people/isaacson/join/ returned 404."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-gyungah-jun",
+  "fields": {
+   "member_count": 9,
+   "member_breakdown": "1 PI, 1 postdoc, 3 PhD candidates, 4 data analysts",
+   "members_page_url": "https://sites.bu.edu/junlab/lab-members/"
+  },
+  "note": "Counted PI plus 'Team Members' on the Lab Members page, stopping at Lab Alumni."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-simon-kasif",
+  "fields": {},
+  "note": "People page lists 'past and present' students and fellows together; current members can't be told apart."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-vijaya-kolachalama",
+  "fields": {
+   "join_notes": "Homepage: PhD, MD and MD-PhD trainees and postdocs are welcome (see 'How to join' on the lab site)."
+  },
+  "note": "Team link on the lab site resolves to a 404 (sites.bu.edu/team/) and /vkola/team/ just returns the homepage (likely JS-routed); no roster seen."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-mark-kon",
+  "fields": {},
+  "note": "math.bu.edu/people/mkon is an empty Word-HTML shell, even when rendered; nothing to count."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-darrell-kotton",
+  "fields": {},
+  "note": "Faculty profile URL is a 404 and the people URL is the Pulmonary department roster, not his group; left null."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-adam-labadorf",
+  "fields": {
+   "pi_email": "labadorf@bu.edu"
+  },
+  "note": "Lab website is a school faculty profile (mentions his independent research) with no group roster."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-ignaty-leshchiner",
+  "fields": {
+   "member_count": 4,
+   "member_breakdown": "1 PI, 1 postdoc, 2 PhD students",
+   "members_page_url": "https://leshlab.org/people",
+   "join_page_url": "https://leshlab.org/positions",
+   "join_notes": "Positions page lists no specific openings; says to reach out to the PI directly."
+  },
+  "note": "Counted 'Our Folk' on the People page, stopping at Lab Alumni."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-marc-lenburg",
+  "fields": {
+   "pi_email": "mlenburg@bu.edu"
+  },
+  "note": "Dept profile and the dept Spira-Lenburg Lab page describe the lab but list no members; the people URL is the whole Computational Biomedicine section."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-pinghua-liu",
+  "fields": {
+   "member_count": 14,
+   "member_breakdown": "1 PI, 1 visiting scholar, 4 graduate students, 8 undergraduates",
+   "members_page_url": "https://sites.bu.edu/liugroup/the-group/",
+   "join_page_url": "https://sites.bu.edu/liugroup/positions-available/"
+  },
+  "note": "Counted the non-alumni sections of 'The Group' page; page looks stale (undergrads described as joining 2017-2018), so the count may be out of date."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-kimberly-mccall",
+  "fields": {},
+  "note": "Lab Members page (sites.bu.edu/mccall-lab/lab-members/) has no member content in plain or rendered fetch."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-stefano-monti",
+  "fields": {
+   "member_count": 11,
+   "member_breakdown": "1 PI, 7 graduate trainees, 3 bioinformaticians",
+   "members_page_url": "http://www.bumc.bu.edu/compbiomed/labs/monti/"
+  },
+  "note": "Counted PI, Graduate Trainees and Bioinformaticians on the dept-hosted Monti lab page, stopping at Past Trainees."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-pawel-przytycki",
+  "fields": {
+   "member_count": 8,
+   "member_breakdown": "1 PI, 6 PhD students, 1 undergraduate",
+   "members_page_url": "https://www.bu.edu/przytyckilab/team.html",
+   "pi_email": "pawel@bu.edu"
+  },
+  "note": "Counted the Team page, stopping at Lab Alumni."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-avrum-spira",
+  "fields": {},
+  "note": "pulmonomics.org no longer resolves (DNS failure); no page to read."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-katrina-steiling",
+  "fields": {},
+  "note": "Faculty profile URL is a 404 and the people URL is the Pulmonary department roster, not her group; left null."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-julia-tcw",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Cached lab site (sites.bu.edu/tcwlab/) is a 'Page not found' 404 with no roster links; count left null."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-dean-tolan",
+  "fields": {
+   "member_count": 12,
+   "member_breakdown": "1 PI, 6 graduate students, 5 undergraduate students",
+   "members_page_url": "http://www.bu.edu/aldolase/lab/people.html",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the 'Current Members of the Tolan Lab' list on the lab People page plus the PI; page appears old (past-member tables run to 2016)."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-adriana-tomic",
+  "fields": {
+   "member_count": 12,
+   "member_breakdown": "1 PI, 1 head of data science, 5 PhD students, 1 visiting PhD student, 2 master's students, 2 BS students",
+   "members_page_url": "https://atomic-lab.org/team/",
+   "join_page_url": "https://atomic-lab.org/contact/",
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the 'Meet our team' list on the lab team page, excluding entries marked alumni."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-thomas-tullius",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "tullius@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "lab_website is a 2009 department news article and the linked faculty profile returns 'not found'; no roster, count null."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-david-waxman",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": "http://www.bu.edu/biology/files/2023/12/Postdoctoral-Opening_Waxman-Lab_Boston-Univ_1.pdf",
+   "join_notes": "Biology profile links a postdoctoral research opening PDF for the Waxman Lab.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "lab_website is the department faculty profile; it lists no lab members and links no lab roster, so count is null."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-chao-zhang",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": "Site lists an open Postdoctoral Associate in Bioinformatics position; apply with CV and research statement via the linked form.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Personal lab site lists research and an open postdoc position but no member roster; count null."
+ },
+ {
+  "source": "data/sources/bu-bioinformatics.json",
+  "lab_id": "bu-bioinformatics-xiaoling-zhang",
+  "fields": {
+   "member_count": 19,
+   "member_breakdown": "1 PI, 3 postdoctoral fellows, 7 PhD students, 3 MS students, 4 data analysts/staff, 1 visiting scholar",
+   "members_page_url": "https://sites.bu.edu/zhanglab/members/",
+   "join_page_url": "https://sites.bu.edu/zhanglab/join-us/",
+   "join_notes": "Looking for graduate students and postdocs; email CV/resume and a short research-interest statement to Dr. Xiaoling Zhang.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "zhangxl@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "Counted current entries on the lab Members page above the Alumni heading, including the PI."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-sean-b-andersson",
+  "fields": {
+   "member_count": 11,
+   "member_breakdown": "1 PI, 1 postdoc, 6 graduate students (5 PhD, 1 MS), 3 undergraduates",
+   "members_page_url": "https://www.bu.edu/anderssonlab/people/",
+   "join_page_url": "https://www.bu.edu/anderssonlab/contact-us/information-for-prospective-students/",
+   "join_notes": "Grad applicants apply to the department and name him; students usually take courses/mini-projects before joining. Undergrad positions posted on BU UROP; no postdoc openings at the moment.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "sanderss@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "Counted PI plus 'Current Members' on the lab People page, stopping at Alumni."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-john-baillieul",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Personal page has no roster; the linked Intelligent Mechatronics Lab page is only an 'ENTER' link to iml.bu.edu, which timed out, so count null."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-calin-belta",
+  "fields": {
+   "member_count": 12,
+   "member_breakdown": "1 PI, 3 postdocs, 8 PhD students (mix of BU and UMD)",
+   "members_page_url": "https://calinbelta.com/people/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted PI plus 'Current Members' on the group People page (updated 2025-09); group is largely UMD-based, and home-page news says two listed students (Ahmad, Crowley) have since defended."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-azer-bestavros",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Personal site's Students page lists only graduated PhD advisees; no current members shown, count null."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-michael-c-caramanis",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "mcaraman@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "Personal page is a list of downloads with no group roster; count null."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-luis-carvalho",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "lecarval@math.bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "Faculty page (re-fetched after earlier cert error) shows research and publications but no group or student list; count null."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-christos-g-cassandras",
+  "fields": {
+   "member_count": 3,
+   "member_breakdown": "1 PI, 2 PhD students",
+   "members_page_url": "https://christosgcassandras.org/research-group-members/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted PI plus 'Current CODES Lab Members' on the Research Group Members page, stopping at past members."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-david-casta-n",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Personal home page lists no group members; he is only 'affiliated' with the multi-PI MDSP lab, so count null."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-ay-e-kivilcim-co-kun",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Home page points to PeacLab; its People page only links sub-pages (grad students, postdocs, undergrads) not fetched within the 2-fetch limit, so count null. She also directs CISE (a center), not counted."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-mark-crovella",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": "Home page says he does not plan to admit new students for Fall 2027.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "crovella@bu.edu",
+   "accepting_grad_students": false
+  },
+  "note": "Home page has no current-member list (only a graduated doctoral students page); count null."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-ashok-cutkosky",
+  "fields": {
+   "member_count": 12,
+   "member_breakdown": "1 PI, 5 PhD students, 6 undergraduate students",
+   "members_page_url": "https://ashok.cutkosky.com/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the PhD and undergraduate student lists on his home page plus the PI; page says he is on leave at Meta until 2027-28."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-emiliano-dall-anese",
+  "fields": {
+   "member_count": 9,
+   "member_breakdown": "1 PI, 5 PhD students, 1 postdoc, 2 master's students",
+   "members_page_url": "https://emilianoda.github.io/group.html",
+   "join_page_url": "https://emilianoda.github.io/openings.html",
+   "join_notes": "Looking for PhD students and postdocs in online optimization/control and power systems (page last edited June 2024).",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted PI plus current PhD, postdoc and master's lists on the Research Group page, stopping at Former sections."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-vassilis-digalakis-jr",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": "https://vvdigalakis.github.io/",
+   "join_notes": "Prospective PhDs apply to the Questrom PhD program (OTM track) naming him; RA applicants email with subject 'RA Application - [Name]' plus CV and fill out a Google form.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Personal site describes how to join but lists no current students or group members; count null."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-manuel-egele",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Personal site says he co-leads BU's Secure Systems Lab but shows no member roster; count null."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-michael-gevelber",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": "https://www.bu.edu/pcl/research-opportunities/",
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Lab People page only shows 'Summer 2014' and 'Summer 2012' group photos/projects, so current membership can't be told; count null."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-vivek-k-goyal",
+  "fields": {
+   "member_count": 8,
+   "member_breakdown": "1 PI, 1 postdoc, 6 graduate students",
+   "members_page_url": "http://vivekgoyal.org/people.htm",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "v.goyal@ieee.org",
+   "accepting_grad_students": null
+  },
+  "note": "Counted 'Current Group Members' on the STIR people page (including the PI), stopping at Past Group Members."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-lucy-hutyra",
+  "fields": {
+   "member_count": 6,
+   "member_breakdown": "1 PI, 4 PhD students, 1 master's student",
+   "members_page_url": "https://sites.bu.edu/hutyra/lab-members-alumni/",
+   "join_page_url": "http://sites.bu.edu/hutyra/files/2025/08/Urban_Climate_post_doc_Hutyra.pdf",
+   "join_notes": "Home page links an urban climate postdoc posting (PDF).",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted PI plus 'Current Lab Members' on the Lab Members & Alumni page, stopping at Alumni."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-prakash-ishwar",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": "Seeks students for theoretical research on mathematical foundations of AI; send inquiries with CV attached, though he says he usually can't reply.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Research-Group page lists only graduated PhD/MS students and past postdocs; no current members shown, count null."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-ajay-joshi",
+  "fields": {
+   "member_count": 9,
+   "member_breakdown": "1 PI, 6 PhD students, 2 BS students",
+   "members_page_url": "https://www.bu.edu/icas/people/",
+   "join_page_url": "http://www.bu.edu/icas/",
+   "join_notes": "Students interested in joining ICAS should email Prof. Joshi with CV and a short research-interest description; admissions questions go to the Admissions Office.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "joshi@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "lab_website is his ENG profile; counted the linked ICAS Group People page (PI, PhD and BS students), stopping at Alumni."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-w-clement-karl",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "wckarl@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "lab_website is a BU PR experts profile with no lab link or roster; count null."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-mark-kon",
+  "fields": {},
+  "note": "Cached and rendered home page is an empty Word-HTML shell; no roster shown."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-janusz-konrad",
+  "fields": {
+   "member_count": 3,
+   "member_breakdown": "1 PI, 2 master's students",
+   "members_page_url": "https://sites.bu.edu/jkonrad/students/",
+   "join_page_url": "https://sites.bu.edu/jkonrad/prospective-students/"
+  },
+  "note": "Count from the VIP students page (only master's students listed; alumni linked separately)."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-nalin-kulatilaka",
+  "fields": {
+   "join_page_url": null
+  },
+  "note": "lab_website/people_url point to the Institute for Global Sustainability (a center hub), not a PI group; count left null."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-brian-kulis",
+  "fields": {
+   "member_count": 6,
+   "member_breakdown": "1 PI, 4 PhD students, 1 undergraduate",
+   "members_page_url": "http://people.bu.edu/bkulis/",
+   "pi_email": "bkulis@bu.edu"
+  },
+  "note": "Count from 'Current Students' on the home page; stopped at 'Former Group Members'."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-lev-b-levitin",
+  "fields": {
+   "members_page_url": "https://www.bu.edu/reliable/people/"
+  },
+  "note": "Reliable Computing Lab page lists Levitin as associated faculty and mixes current and graduated students under 'Current and Recent Students'; cannot tell who is current."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-wenchao-li",
+  "fields": {
+   "member_count": 5,
+   "member_breakdown": "1 PI, 4 PhD students",
+   "members_page_url": "https://sites.bu.edu/depend/people/"
+  },
+  "note": "Count from PI + 'Current PhD Students'; master's/undergrad/high-school lists appear after the Alumni heading and were not counted."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-thomas-little",
+  "fields": {
+   "members_page_url": "https://sites.bu.edu/mcl/about-us/people/",
+   "join_page_url": "https://sites.bu.edu/mcl/about-us/interested-in-joining-the-lab/",
+   "pi_email": "tdcl@bu.edu"
+  },
+  "note": "Profile links Multimedia Communications Lab; its People page shows no roster in text (students subpage not fetched, fetch limit reached)."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-benjamin-lubin",
+  "fields": {
+   "members_page_url": "http://people.bu.edu/blubin/students.html"
+  },
+  "note": "Students page last generated 2018 and mixes graduated and co-advised students; cannot tell who is current."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-abraham-ibrahim-matta",
+  "fields": {
+   "member_count": 3,
+   "member_breakdown": "1 PI, 2 PhD students",
+   "members_page_url": "https://sites.bu.edu/matta/students/",
+   "join_notes": "Apply to the BU CS graduate program; PI says he often cannot answer individual inquiries (on sabbatical AY 2026-27).",
+   "pi_email": "matta@bu.edu"
+  },
+  "note": "Count from 'Current PhD Students' on the students page; stopped at 'Past PhD Students'."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-bobak-nazer",
+  "fields": {
+   "member_count": 3,
+   "member_breakdown": "1 PI, 2 PhD students",
+   "members_page_url": "http://bobaknazer.github.io/group"
+  },
+  "note": "Count from 'Current' section of the group page; stopped at Alumni."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-eshed-ohn-bar",
+  "fields": {
+   "member_count": 25,
+   "member_breakdown": "1 PI, 7 PhD students (1 visiting), 6 MS students, 11 undergraduates",
+   "members_page_url": "https://eshed1.github.io/",
+   "join_page_url": null,
+   "join_notes": "PI is looking for two PhD students this year; email the PI your CV.",
+   "pi_email": "eohnbar@gmail.com",
+   "accepting_grad_students": true
+  },
+  "note": "Count from the 'Team' section of the H2X home page; stopped at 'Past Members' (worklist join_url was a paper PDF, dropped)."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-alexander-olshevsky",
+  "fields": {
+   "pi_email": "alexols@bu.edu"
+  },
+  "note": "Personal home page has no students/people section or link."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-ioannis-yannis-paschalidis",
+  "fields": {
+   "member_count": 14,
+   "member_breakdown": "1 PI, 13 PhD candidates",
+   "members_page_url": "https://sites.bu.edu/paschalidis/people/students/",
+   "join_page_url": "https://sites.bu.edu/paschalidis/home/applicants/"
+  },
+  "note": "Count from 'Current Students' on the NOC Lab students page; stopped at past postdocs/students."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-erol-pek-z",
+  "fields": {},
+  "note": "Lab website returns a BU 'Page Not Found' page."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-james-perkins",
+  "fields": {},
+  "note": "Old personal page with no roster or students section."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-nathan-phillips",
+  "fields": {
+   "join_page_url": null
+  },
+  "note": "lab_website/people_url point to the Institute for Global Sustainability (a center hub), not a PI group; count left null."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-tommaso-ranzani",
+  "fields": {
+   "member_count": 25,
+   "member_breakdown": "1 PI, 3 postdocs, 6 PhD students (incl. 1 rotating), 1 visiting researcher, 5 master's students, 9 undergraduates",
+   "members_page_url": "https://sites.bu.edu/ranzani-lab/people/",
+   "join_page_url": "https://sites.bu.edu/ranzani-lab/opportunities/",
+   "pi_email": "tranzani@bu.edu"
+  },
+  "note": "Count from the Morphable Biorobotics people page; stopped at Alumni."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-sheila-russo",
+  "fields": {
+   "member_count": 15,
+   "member_breakdown": "1 PI, 2 postdocs, 5 PhD students, 7 undergraduates",
+   "members_page_url": "https://sites.bu.edu/mrl/lab-members/",
+   "join_page_url": "https://sites.bu.edu/mrl/opportunities/"
+  },
+  "note": "Count from the MRL lab members page (master's section empty); stopped at Alumni."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-andrew-p-sabelhaus",
+  "fields": {
+   "member_count": 9,
+   "member_breakdown": "1 PI, 4 PhD candidates, 1 visiting scholar, 3 undergraduates",
+   "members_page_url": "https://sites.bu.edu/srclab/people/",
+   "join_page_url": "https://sites.bu.edu/srclab/join-us/"
+  },
+  "note": "Count from the SRC Lab people page (labelled 'as of summer 2024'); stopped at Alumni."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-venkatesh-saligrama",
+  "fields": {
+   "members_page_url": "http://sites.bu.edu/data/",
+   "pi_email": "srv@bu.edu"
+  },
+  "note": "Lab page appears stale (latest posts 2021) and lists as a student someone the Nazer group page shows graduated in 2022; cannot tell who is current."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-konstantinos-spiliopoulos",
+  "fields": {},
+  "note": "Page could not be fetched (certificate error on math.bu.edu, http and https)."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-david-starobinski",
+  "fields": {
+   "member_count": 3,
+   "member_breakdown": "1 PI, 2 graduate students",
+   "members_page_url": "http://people.bu.edu/staro/",
+   "pi_email": "staro@bu.edu"
+  },
+  "note": "Count from 'Research Group: Graduate students' on the home page; stopped at Alumni."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-gianluca-stringhini",
+  "fields": {
+   "member_count": 7,
+   "member_breakdown": "2 faculty (Egele, Stringhini), 5 students",
+   "members_page_url": "https://seclab.bu.edu/"
+  },
+  "note": "Count from SeclaBU 'Lab members'; this lab is co-led by two faculty, so the count covers both groups; stopped at Alumni."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-daniel-sussman",
+  "fields": {
+   "members_page_url": "https://math.bu.edu/people/sussman/advising/",
+   "accepting_grad_students": false,
+   "join_notes": "PI states he is currently not taking on new PhD students."
+  },
+  "note": "Advising page shows 'Current advisees' heading but no names rendered in text; count null."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-lei-tian",
+  "fields": {
+   "member_count": 15,
+   "member_breakdown": "1 PI, 1 visiting researcher, 1 postdoc, 5 PhD students, 4 MS students, 3 undergraduates",
+   "members_page_url": "https://sites.bu.edu/tianlab/people/",
+   "join_page_url": "https://sites.bu.edu/tianlab/openings/",
+   "pi_email": "leitian@bu.edu"
+  },
+  "note": "Count from the Tian Lab people page (alumni on a separate page)."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-ari-trachtenberg",
+  "fields": {},
+  "note": "Home and Work pages show no student/group roster (he co-directs the Laboratory of Networking and Information Systems, not fetched)."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-roberto-tron",
+  "fields": {},
+  "note": "Personal site has no people/students page or roster."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-sandor-vajda",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "vajda@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "Cached page is the BU ENG faculty profile with no roster; linked Vajda Lab site (vajdalab.org) timed out on both http and https fetches."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-pirooz-vakili",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Profile URL returns BU ENG 'Page not found'; no roster available."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-hua-wang",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "wangh@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "BU ENG faculty profile only; it mentions no lab or group roster (research faculty, so not marked faculty-no-lab)."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-tianyu-wang",
+  "fields": {
+   "member_count": 7,
+   "member_breakdown": "1 PI, 1 postdoc, 3 PhD students, 1 master's student, 1 undergraduate",
+   "members_page_url": "https://tyw-lab.github.io/Team/",
+   "join_page_url": "https://tyw-lab.github.io/joinUs/",
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "wangty@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "Counted from the lab Team page, stopping at Alumni (Visitors section is empty)."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-rabia-tugce-yazicigil",
+  "fields": {
+   "member_count": 15,
+   "member_breakdown": "1 PI, 10 PhD students, 2 master's students, 2 undergraduates",
+   "members_page_url": "https://sites.bu.edu/wisecircuits/people/",
+   "join_page_url": "https://sites.bu.edu/wisecircuits/prospective-students/",
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted from the lab People page (fetched); PhD alumni and the ALUMNI section excluded."
+ },
+ {
+  "source": "data/sources/bu-cise.json",
+  "lab_id": "bu-cise-jinglong-zhao",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "jinglong@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "Questrom faculty profile mentions no lab; the 'people' page is a Questrom industry-engagement staff page, not his group. Left null (research faculty, not marked faculty-no-lab)."
+ },
+ {
+  "source": "data/sources/bu-crem.json",
+  "lab_id": "bu-crem-darrell-kotton",
+  "fields": {
+   "member_count": 13,
+   "member_breakdown": "1 PI, 2 assistant professors, 2 staff (incl. lab manager), 3 postdocs, 5 graduate students",
+   "members_page_url": "https://www.bumc.bu.edu/kottonlab/our-team/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted from the Kotton Lab Our Team page; alumni are on a separate linked page."
+ },
+ {
+  "source": "data/sources/bu-crem.json",
+  "lab_id": "bu-crem-gustavo-mostoslavsky",
+  "fields": {
+   "member_count": 6,
+   "member_breakdown": "1 PI, 1 postdoc, 2 graduate students (1 PhD, 1 MD-PhD), 1 undergraduate, 1 lab manager",
+   "members_page_url": "http://www.mostoslavskylab.com/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "gmostosl@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "Counted from the Lab Members section of the lab home page, stopping at Alumni."
+ },
+ {
+  "source": "data/sources/bu-crem.json",
+  "lab_id": "bu-crem-george-murphy",
+  "fields": {
+   "member_count": 5,
+   "member_breakdown": "1 PI, 4 team members (roles not shown)",
+   "members_page_url": "https://murphylaboratory.com/category/people/team-members/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "gjmurphy@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "Counted from the Team Members page (fetched); lists 4 names without roles, plus the PI; alumni are a separate page."
+ },
+ {
+  "source": "data/sources/bu-crem.json",
+  "lab_id": "bu-crem-andrew-wilson",
+  "fields": {
+   "member_count": 7,
+   "member_breakdown": "1 PI, 1 assistant professor, 1 postdoc, 1 MD/PhD student, 1 MD student research assistant, 1 study coordinator, 1 lab manager",
+   "members_page_url": "https://sites.bu.edu/wilsonlab/our-lab/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "awilson@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "Counted from the lab People page (no alumni section)."
+ },
+ {
+  "source": "data/sources/bu-crem.json",
+  "lab_id": "bu-crem-valerie-gouon-evans",
+  "fields": {
+   "member_count": 9,
+   "member_breakdown": "1 PI, 3 PhD students, 1 lab manager, 4 undergraduates",
+   "members_page_url": "https://sites.bu.edu/gouonevanslab/people/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "valerige@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "Counted Principal Investigator plus Current Lab Members, stopping at Alumni Lab Members."
+ },
+ {
+  "source": "data/sources/bu-crem.json",
+  "lab_id": "bu-crem-finn-hawkins",
+  "fields": {
+   "member_count": 7,
+   "member_breakdown": "1 PI, 2 assistant professors, 1 lab manager, 2 graduate students (MD-PhD, PhD), 1 other member (role not stated)",
+   "members_page_url": "https://www.hawkins-lab.org",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted from the Team section of the lab home page, stopping at Alumni; hawk@bu.edu is a lab contact address, not clearly the PI's."
+ },
+ {
+  "source": "data/sources/bu-crem.json",
+  "lab_id": "bu-crem-angie-serrano",
+  "fields": {
+   "member_count": 7,
+   "member_breakdown": "1 PI, 2 graduate students (MD/PhD, PhD), 2 undergraduates, 1 summer intern, 1 research trainee",
+   "members_page_url": "https://serranolab.github.io/online/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted from The Team section of the lab site, stopping at Past Members."
+ },
+ {
+  "source": "data/sources/bu-crem.json",
+  "lab_id": "bu-crem-kim-vanuytsel",
+  "fields": {
+   "member_count": 5,
+   "member_breakdown": "1 PI, 2 graduate students (PhD, MD/PhD), 2 undergraduates",
+   "members_page_url": "https://sites.bu.edu/vanuytsellab/people/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "kimvan@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "Counted from the lab People page, stopping at Alumni."
+ },
+ {
+  "source": "data/sources/bu-crem.json",
+  "lab_id": "bu-crem-konstantinos-alysandratos",
+  "fields": {
+   "member_count": 7,
+   "member_breakdown": "1 PI, 3 postdocs, 1 PhD student, 2 lab managers (technician; clinical study coordinator)",
+   "members_page_url": "https://sites.bu.edu/alysandratoslab/lab-members/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted from the Lab Members page; former members are on a separate page."
+ },
+ {
+  "source": "data/sources/bu-crem.json",
+  "lab_id": "bu-crem-jessie-herriges",
+  "fields": {
+   "member_count": 6,
+   "member_breakdown": "1 PI, 2 postdocs, 1 PhD student, 1 lab manager",
+   "members_page_url": "https://sites.bu.edu/herrigeslab/lab-members/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": "herriges@bu.edu",
+   "accepting_grad_students": null
+  },
+  "note": "Counted from the Lab Members page, stopping at Alumni. Note: the page names the PI as Michael Herriges, PhD, not 'Jessie Herriges' as in the worklist; check the PI name."
+ },
+ {
+  "source": "data/sources/bu-hariri.json",
+  "lab_id": "bu-hariri-ioannis-paschalidis",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "lab_website is the Hariri Institute (an institute-wide hub with 400+ faculty), not a PI group page; count left null per brief."
+ },
+ {
+  "source": "data/sources/bu-nano.json",
+  "lab_id": "bu-nano-mark-grinstaff",
+  "fields": {
+   "member_count": 33,
+   "member_breakdown": "1 PI, 30 graduate students, 2 postdocs",
+   "members_page_url": "http://www.grinstaff.org/members.html",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted Graduate Students and Post-Docs on the Members page plus the PI; Collaborators and Alumni excluded."
+ },
+ {
+  "source": "data/sources/bu-whitaker.json",
+  "lab_id": "bu-whitaker-wilson-colucci",
+  "fields": {
+   "member_count": 9,
+   "member_breakdown": "1 PI, 3 assistant professors, 2 research associate professors, 1 T32 trainee, 2 members (roles not shown)",
+   "members_page_url": "https://www.bumc.bu.edu/busm-wci/labs/colucci-lab/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted names on the Whitaker Institute lab page (no update date shown; site menus reference 2021); two members have no role listed."
+ },
+ {
+  "source": "data/sources/bu-whitaker.json",
+  "lab_id": "bu-whitaker-jessica-fetterman",
+  "fields": {
+   "member_count": 16,
+   "member_breakdown": "2 co-PIs (Fetterman, Gopal), 1 clinical assistant professor, 2 bioinformaticians, 3 research assistants/study assistant, 2 project coordinators, 2 medical students, 1 master's student, 1 graduate student, 2 undergraduates",
+   "members_page_url": "https://sites.bu.edu/icamplab/our-team/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Whitaker page has no roster and points to the iCaMP lab; its Our Team page (fetched) lists 16 current members, but iCaMP is a joint program co-led by Fetterman and Deepa Gopal, so this is a shared two-PI roster."
+ },
+ {
+  "source": "data/sources/bu-whitaker.json",
+  "lab_id": "bu-whitaker-noyan-gokce",
+  "fields": {
+   "member_count": 3,
+   "member_breakdown": "1 PI, 2 assistant professors",
+   "members_page_url": "https://www.bumc.bu.edu/busm-wci/labs/gokce-lab/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted names on the Whitaker Institute lab page (no update date shown)."
+ },
+ {
+  "source": "data/sources/bu-whitaker.json",
+  "lab_id": "bu-whitaker-naomi-hamburg",
+  "fields": {
+   "member_count": 5,
+   "member_breakdown": "1 PI, 1 lab manager, 2 postdocs, 1 vascular research fellow",
+   "members_page_url": "https://www.bumc.bu.edu/busm-wci/labs/hamburg-lab/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the Lab Members section of the Whitaker Institute lab page (newest news item 2022)."
+ },
+ {
+  "source": "data/sources/bu-whitaker.json",
+  "lab_id": "bu-whitaker-jingyan-han",
+  "fields": {
+   "member_count": 7,
+   "member_breakdown": "1 PI, 1 postdoc, 5 undergraduates",
+   "members_page_url": "https://www.bumc.bu.edu/busm-wci/labs/han-lab/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted names on the Whitaker Institute lab page; newest news item is from 2021, so the roster may be dated."
+ },
+ {
+  "source": "data/sources/bu-whitaker.json",
+  "lab_id": "bu-whitaker-victoria-herrera-nelson-ruiz-opazo",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Page profiles only the two co-PIs with no members list; count left null."
+ },
+ {
+  "source": "data/sources/bu-whitaker.json",
+  "lab_id": "bu-whitaker-zhen-jiang",
+  "fields": {
+   "member_count": 8,
+   "member_breakdown": "1 PI, 1 research assistant professor, 6 students",
+   "members_page_url": "https://www.bumc.bu.edu/busm-wci/labs/jiang-lab/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted Lab Members and Students on the Whitaker Institute lab page."
+ },
+ {
+  "source": "data/sources/bu-whitaker.json",
+  "lab_id": "bu-whitaker-katya-ravid",
+  "fields": {
+   "member_count": 5,
+   "member_breakdown": "1 PI, 1 lab manager/research associate, 1 PhD candidate, 1 research technician, 1 member (role not shown)",
+   "members_page_url": "https://www.bumc.bu.edu/busm-wci/labs/ravid-lab/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted names on the Whitaker Institute lab page; one member has no role listed."
+ },
+ {
+  "source": "data/sources/bu-whitaker.json",
+  "lab_id": "bu-whitaker-serrano-lab",
+  "fields": {
+   "member_count": 7,
+   "member_breakdown": "1 PI, 2 graduate students (MD/PhD, PhD), 2 undergraduates, 1 summer intern, 1 research trainee",
+   "members_page_url": "https://serranolab.github.io/online/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Whitaker page has no roster; count taken from the Serrano Lab's own site (same PI, Angie Serrano; same lab as bu-crem-angie-serrano), stopping at Past Members."
+ },
+ {
+  "source": "data/sources/bu-whitaker.json",
+  "lab_id": "bu-whitaker-francesca-seta",
+  "fields": {
+   "member_count": 2,
+   "member_breakdown": "1 PI, 1 research scientist",
+   "members_page_url": "https://www.bumc.bu.edu/busm-wci/labs/seta-lab/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the Lab members section of the Whitaker Institute lab page."
+ }
+]

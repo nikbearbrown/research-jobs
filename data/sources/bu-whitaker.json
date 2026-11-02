@@ -22,13 +22,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 3 assistant professors, 2 research associate professors, 1 T32 trainee, 2 members (roles not shown)",
+      "members_page_url": "https://www.bumc.bu.edu/busm-wci/labs/colucci-lab/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread). Depth pass 2026-11-02: Counted names on the Whitaker Institute lab page (no update date shown; site menus reference 2021); two members have no role listed."
     },
     {
       "id": "bu-whitaker-jessica-fetterman",
@@ -44,13 +44,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "2 co-PIs (Fetterman, Gopal), 1 clinical assistant professor, 2 bioinformaticians, 3 research assistants/study assistant, 2 project coordinators, 2 medical students, 1 master's student, 1 graduate student, 2 undergraduates",
+      "members_page_url": "https://sites.bu.edu/icamplab/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread). Depth pass 2026-11-02: Whitaker page has no roster and points to the iCaMP lab; its Our Team page (fetched) lists 16 current members, but iCaMP is a joint program co-led by Fetterman and Deepa Gopal, so this is a shared two-PI roster."
     },
     {
       "id": "bu-whitaker-noyan-gokce",
@@ -66,13 +66,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 assistant professors",
+      "members_page_url": "https://www.bumc.bu.edu/busm-wci/labs/gokce-lab/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread). Depth pass 2026-11-02: Counted names on the Whitaker Institute lab page (no update date shown)."
     },
     {
       "id": "bu-whitaker-naomi-hamburg",
@@ -88,13 +88,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 lab manager, 2 postdocs, 1 vascular research fellow",
+      "members_page_url": "https://www.bumc.bu.edu/busm-wci/labs/hamburg-lab/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread). Depth pass 2026-11-02: Counted the Lab Members section of the Whitaker Institute lab page (newest news item 2022)."
     },
     {
       "id": "bu-whitaker-jingyan-han",
@@ -110,13 +110,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 5 undergraduates",
+      "members_page_url": "https://www.bumc.bu.edu/busm-wci/labs/han-lab/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread). Depth pass 2026-11-02: Counted names on the Whitaker Institute lab page; newest news item is from 2021, so the roster may be dated."
     },
     {
       "id": "bu-whitaker-victoria-herrera-nelson-ruiz-opazo",
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread). Depth pass 2026-11-02: Page profiles only the two co-PIs with no members list; count left null."
     },
     {
       "id": "bu-whitaker-zhen-jiang",
@@ -154,13 +154,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 research assistant professor, 6 students",
+      "members_page_url": "https://www.bumc.bu.edu/busm-wci/labs/jiang-lab/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread). Depth pass 2026-11-02: Counted Lab Members and Students on the Whitaker Institute lab page."
     },
     {
       "id": "bu-whitaker-katya-ravid",
@@ -176,13 +176,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 lab manager/research associate, 1 PhD candidate, 1 research technician, 1 member (role not shown)",
+      "members_page_url": "https://www.bumc.bu.edu/busm-wci/labs/ravid-lab/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread). Depth pass 2026-11-02: Counted names on the Whitaker Institute lab page; one member has no role listed."
     },
     {
       "id": "bu-whitaker-serrano-lab",
@@ -198,13 +198,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 graduate students (MD/PhD, PhD), 2 undergraduates, 1 summer intern, 1 research trainee",
+      "members_page_url": "https://serranolab.github.io/online/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread). PI name not confirmed -- not found on the A-Z faculty list; lab name taken directly from the Labs navigation."
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread). PI name not confirmed -- not found on the A-Z faculty list; lab name taken directly from the Labs navigation. Depth pass 2026-11-02: Whitaker page has no roster; count taken from the Serrano Lab's own site (same PI, Angie Serrano; same lab as bu-crem-angie-serrano), stopping at Past Members."
     },
     {
       "id": "bu-whitaker-francesca-seta",
@@ -220,13 +220,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 research scientist",
+      "members_page_url": "https://www.bumc.bu.edu/busm-wci/labs/seta-lab/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread)."
+      "notes": "Named lab page linked from the Institute's own 'Faculty Labs' listing; the lab's own page was not fetched this pass (member count, join info unread). Depth pass 2026-11-02: Counted the Lab members section of the Whitaker Institute lab page."
     }
   ],
   "non_lab_people": [

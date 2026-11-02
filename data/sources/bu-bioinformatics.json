@@ -95,7 +95,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Lab site tandem.bu.edu/benson.html returned empty text on both cached and rendered fetch; no roster visible."
     },
     {
       "id": "bu-bioinformatics-jennifer-bhatnagar",
@@ -103,21 +103,21 @@
       "lab_name": null,
       "pi_name": "Jennifer Bhatnagar",
       "pi_title": "Associate Professor, Biology",
-      "pi_email": null,
-      "accepting_grad_students": null,
+      "pi_email": "jmbhat@bu.edu",
+      "accepting_grad_students": true,
       "lab_website": "https://microbesatbu.wordpress.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoc, 3 PhD students, 1 master's student, 5 undergraduates",
+      "members_page_url": "https://microbesatbu.wordpress.com/lab-members/lab-personnel/",
+      "join_page_url": "https://microbesatbu.wordpress.com/prospective-students/",
+      "join_notes": "Aug 2026 post: recruiting PhD students (with the Templer lab) for Sept 2027 entry on an NSF Hubbard Brook project; see the Join the Lab page and submit materials before the December deadline.",
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Counted current members on the Lab personnel page, stopping at 'Former lab members'."
     },
     {
       "id": "bu-bioinformatics-dileep-bhattacharya",
@@ -147,7 +147,7 @@
       "lab_name": null,
       "pi_name": "Josh Campbell",
       "pi_title": "Director, Bioinformatics Graduate Program / Associate Professor, Computational Biomedicine",
-      "pi_email": null,
+      "pi_email": "camp@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://www.bumc.bu.edu/compbiomed/people/faculty/josh-campbell/",
       "location": null,
@@ -161,7 +161,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Lab website is a Computational Biomedicine dept profile; it links the dept Campbell Lab page, which points to camplab.net, whose Current Members page (https://www.camplab.net/current-members/) was not fetched (2-fetch limit)."
     },
     {
       "id": "bu-bioinformatics-luis-carvalho",
@@ -169,7 +169,7 @@
       "lab_name": null,
       "pi_name": "Luis Carvalho",
       "pi_title": "Associate Professor, Mathematics & Statistics",
-      "pi_email": null,
+      "pi_email": "lecarval@math.bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://math.bu.edu/people/lecarval/",
       "location": null,
@@ -177,13 +177,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 PhD student",
+      "members_page_url": "http://math.bu.edu/people/lecarval/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Counted the 'Students > Current' list on the PI's personal page plus the PI."
     },
     {
       "id": "bu-bioinformatics-john-connor",
@@ -205,7 +205,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: connorlab.com returns a WordPress 'critical error' page; no roster or links visible."
     },
     {
       "id": "bu-bioinformatics-mark-crovella",
@@ -235,7 +235,7 @@
       "lab_name": null,
       "pi_name": "Sarah Davies",
       "pi_title": "Assistant Professor of Biology",
-      "pi_email": null,
+      "pi_email": "daviessw@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://sites.bu.edu/davieslab/members/",
       "location": null,
@@ -243,13 +243,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 21,
+      "member_breakdown": "1 PI, 3 postdocs, 6 PhD students, 1 aquarium technician, 10 undergraduates",
+      "members_page_url": "https://sites.bu.edu/davieslab/members/",
+      "join_page_url": "https://sites.bu.edu/davieslab/join-the-lab/",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Counted the Members page (excluding the honorary member and the collaborators list); alumni are on a separate page."
     },
     {
       "id": "bu-bioinformatics-charles-delisi",
@@ -279,7 +279,7 @@
       "lab_name": null,
       "pi_name": "Ruben Dries",
       "pi_title": "Assistant Professor of Medicine",
-      "pi_email": null,
+      "pi_email": "rdries@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.drieslab.com",
       "location": null,
@@ -287,13 +287,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdocs, 3 graduate students, 1 data scientist, 1 bioinformatician, 2 undergraduates",
+      "members_page_url": "https://www.drieslab.com/team/",
+      "join_page_url": "https://www.drieslab.com/Join%20Us/",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Counted the Team page, stopping at Collaborators/Lab Alumni."
     },
     {
       "id": "bu-bioinformatics-sean-elliott",
@@ -309,13 +309,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 postdoc, 7 graduate students",
+      "members_page_url": "https://sites.bu.edu/sje-lab/members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Counted the 8 people on the Current Lab Members page plus the PI (PI not listed there)."
     },
     {
       "id": "bu-bioinformatics-lindsay-farrer",
@@ -323,7 +323,7 @@
       "lab_name": null,
       "pi_name": "Lindsay Farrer",
       "pi_title": "Professor, Genetics and Genomics",
-      "pi_email": null,
+      "pi_email": "farrer@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://www.bumc.bu.edu/genetics/genetics-people/faculty/farrer/",
       "location": null,
@@ -334,10 +334,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://www.bumc.bu.edu/genetics/opportunities/postdoctoral-positions-in-genetic-epidemiology/",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Lab website is a Biomedical Genetics department faculty profile; it mentions his group but shows no lab roster."
     },
     {
       "id": "bu-bioinformatics-john-finnerty",
@@ -359,7 +359,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: people.bu.edu page is only a link to nematostella.bu.edu/~FinnLab/FinnertyLab/, which timed out on fetch; no roster seen."
     },
     {
       "id": "bu-bioinformatics-james-galagan",
@@ -389,7 +389,7 @@
       "lab_name": null,
       "pi_name": "Lei Hou",
       "pi_title": "Assistant Professor, Biomedical Genetics",
-      "pi_email": null,
+      "pi_email": "leihou@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://hougroup.xyz/",
       "location": null,
@@ -397,13 +397,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 postdoc, 2 visiting undergraduate/student mentees (Zhejiang U / Edinburgh)",
+      "members_page_url": "https://hougroup.xyz/index.php/people/",
+      "join_page_url": "https://hougroup.xyz/index.php/people/",
+      "join_notes": "Hiring bioinformatics interns and data analysts: email CV to leihou@bu.edu titled '[BU data analyst application]'. Postdoc: no opening now; CV + research statement titled '[BU postdoc application]'.",
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Counted 'Current Mentees' on the People page plus the PI, stopping at 'Previous Mentees'."
     },
     {
       "id": "bu-bioinformatics-jonathan-huggins",
@@ -422,10 +422,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "join_page_url": "http://jhhuggins.org/",
+      "join_notes": "BU students enrolled in or accepted to a BU grad program may email about research; advises PhD students in Statistics and Computing & Data Sciences; may not reply to applicants from elsewhere.",
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Personal homepage describes 'my group' but lists no members; no people page linked."
     },
     {
       "id": "bu-bioinformatics-samuel-isaacson",
@@ -447,7 +447,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Personal page lists no group members; its 'Join Us' link resolves to math.bu.edu/join/ and the guessed /people/isaacson/join/ returned 404."
     },
     {
       "id": "bu-bioinformatics-gyungah-jun",
@@ -463,13 +463,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 postdoc, 3 PhD candidates, 4 data analysts",
+      "members_page_url": "https://sites.bu.edu/junlab/lab-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Counted PI plus 'Team Members' on the Lab Members page, stopping at Lab Alumni."
     },
     {
       "id": "bu-bioinformatics-simon-kasif",
@@ -491,7 +491,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: People page lists 'past and present' students and fellows together; current members can't be told apart."
     },
     {
       "id": "bu-bioinformatics-vijaya-kolachalama",
@@ -511,9 +511,9 @@
       "member_breakdown": null,
       "members_page_url": null,
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Homepage: PhD, MD and MD-PhD trainees and postdocs are welcome (see 'How to join' on the lab site).",
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Team link on the lab site resolves to a 404 (sites.bu.edu/team/) and /vkola/team/ just returns the homepage (likely JS-routed); no roster seen."
     },
     {
       "id": "bu-bioinformatics-mark-kon",
@@ -535,7 +535,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: math.bu.edu/people/mkon is an empty Word-HTML shell, even when rendered; nothing to count."
     },
     {
       "id": "bu-bioinformatics-darrell-kotton",
@@ -557,7 +557,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Faculty profile URL is a 404 and the people URL is the Pulmonary department roster, not his group; left null."
     },
     {
       "id": "bu-bioinformatics-adam-labadorf",
@@ -565,7 +565,7 @@
       "lab_name": null,
       "pi_name": "Adam Labadorf",
       "pi_title": "Assistant Professor of Medicine",
-      "pi_email": null,
+      "pi_email": "labadorf@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.bumc.bu.edu/busm/profile/adam-labadorf/",
       "location": null,
@@ -579,7 +579,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Lab website is a school faculty profile (mentions his independent research) with no group roster."
     },
     {
       "id": "bu-bioinformatics-ignaty-leshchiner",
@@ -595,13 +595,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students",
+      "members_page_url": "https://leshlab.org/people",
+      "join_page_url": "https://leshlab.org/positions",
+      "join_notes": "Positions page lists no specific openings; says to reach out to the PI directly.",
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Counted 'Our Folk' on the People page, stopping at Lab Alumni."
     },
     {
       "id": "bu-bioinformatics-marc-lenburg",
@@ -609,7 +609,7 @@
       "lab_name": null,
       "pi_name": "Marc Lenburg",
       "pi_title": "Professor, Computational Biomedicine",
-      "pi_email": null,
+      "pi_email": "mlenburg@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://www.bumc.bu.edu/compbiomed/people/faculty/marc-lenburg/",
       "location": null,
@@ -623,7 +623,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Dept profile and the dept Spira-Lenburg Lab page describe the lab but list no members; the people URL is the whole Computational Biomedicine section."
     },
     {
       "id": "bu-bioinformatics-pinghua-liu",
@@ -639,13 +639,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 1 visiting scholar, 4 graduate students, 8 undergraduates",
+      "members_page_url": "https://sites.bu.edu/liugroup/the-group/",
+      "join_page_url": "https://sites.bu.edu/liugroup/positions-available/",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Counted the non-alumni sections of 'The Group' page; page looks stale (undergrads described as joining 2017-2018), so the count may be out of date."
     },
     {
       "id": "bu-bioinformatics-kimberly-mccall",
@@ -667,7 +667,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Lab Members page (sites.bu.edu/mccall-lab/lab-members/) has no member content in plain or rendered fetch."
     },
     {
       "id": "bu-bioinformatics-stefano-monti",
@@ -683,13 +683,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 7 graduate trainees, 3 bioinformaticians",
+      "members_page_url": "http://www.bumc.bu.edu/compbiomed/labs/monti/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Counted PI, Graduate Trainees and Bioinformaticians on the dept-hosted Monti lab page, stopping at Past Trainees."
     },
     {
       "id": "bu-bioinformatics-pawel-przytycki",
@@ -697,7 +697,7 @@
       "lab_name": null,
       "pi_name": "Pawel Przytycki",
       "pi_title": "Assistant Professor, Computing & Data Sciences",
-      "pi_email": null,
+      "pi_email": "pawel@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.bu.edu/przytyckilab/",
       "location": null,
@@ -705,13 +705,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 6 PhD students, 1 undergraduate",
+      "members_page_url": "https://www.bu.edu/przytyckilab/team.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Counted the Team page, stopping at Lab Alumni."
     },
     {
       "id": "bu-bioinformatics-avrum-spira",
@@ -733,7 +733,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pulmonomics.org no longer resolves (DNS failure); no page to read."
     },
     {
       "id": "bu-bioinformatics-katrina-steiling",
@@ -755,7 +755,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Faculty profile URL is a 404 and the people URL is the Pulmonary department roster, not her group; left null."
     },
     {
       "id": "bu-bioinformatics-julia-tcw",
@@ -777,7 +777,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Cached lab site (sites.bu.edu/tcwlab/) is a 'Page not found' 404 with no roster links; count left null."
     },
     {
       "id": "bu-bioinformatics-dean-tolan",
@@ -793,13 +793,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 6 graduate students, 5 undergraduate students",
+      "members_page_url": "http://www.bu.edu/aldolase/lab/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Counted the 'Current Members of the Tolan Lab' list on the lab People page plus the PI; page appears old (past-member tables run to 2016)."
     },
     {
       "id": "bu-bioinformatics-adriana-tomic",
@@ -815,13 +815,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 head of data science, 5 PhD students, 1 visiting PhD student, 2 master's students, 2 BS students",
+      "members_page_url": "https://atomic-lab.org/team/",
+      "join_page_url": "https://atomic-lab.org/contact/",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Counted the 'Meet our team' list on the lab team page, excluding entries marked alumni."
     },
     {
       "id": "bu-bioinformatics-thomas-tullius",
@@ -829,7 +829,7 @@
       "lab_name": null,
       "pi_name": "Thomas Tullius",
       "pi_title": "Professor, Chemistry",
-      "pi_email": null,
+      "pi_email": "tullius@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://www.bu.edu/chemistry/faculty/tullius/",
       "location": null,
@@ -843,7 +843,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: lab_website is a 2009 department news article and the linked faculty profile returns 'not found'; no roster, count null."
     },
     {
       "id": "bu-bioinformatics-david-waxman",
@@ -862,10 +862,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "join_page_url": "http://www.bu.edu/biology/files/2023/12/Postdoctoral-Opening_Waxman-Lab_Boston-Univ_1.pdf",
+      "join_notes": "Biology profile links a postdoctoral research opening PDF for the Waxman Lab.",
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: lab_website is the department faculty profile; it lists no lab members and links no lab roster, so count is null."
     },
     {
       "id": "bu-bioinformatics-chao-zhang",
@@ -885,9 +885,9 @@
       "member_breakdown": null,
       "members_page_url": null,
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Site lists an open Postdoctoral Associate in Bioinformatics position; apply with CV and research statement via the linked form.",
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Personal lab site lists research and an open postdoc position but no member roster; count null."
     },
     {
       "id": "bu-bioinformatics-xiaoling-zhang",
@@ -895,7 +895,7 @@
       "lab_name": null,
       "pi_name": "Xiaoling Zhang",
       "pi_title": "Associate Professor of Medicine and Biostatistics, Biomedical Genetics",
-      "pi_email": null,
+      "pi_email": "zhangxl@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://sites.bu.edu/zhanglab/",
       "location": null,
@@ -903,13 +903,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 19,
+      "member_breakdown": "1 PI, 3 postdoctoral fellows, 7 PhD students, 3 MS students, 4 data analysts/staff, 1 visiting scholar",
+      "members_page_url": "https://sites.bu.edu/zhanglab/members/",
+      "join_page_url": "https://sites.bu.edu/zhanglab/join-us/",
+      "join_notes": "Looking for graduate students and postdocs; email CV/resume and a short research-interest statement to Dr. Xiaoling Zhang.",
       "profile_url": null,
-      "notes": "Breadth pass from department faculty page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: Counted current entries on the lab Members page above the Alumni heading, including the PI."
     }
   ],
   "non_lab_people": [

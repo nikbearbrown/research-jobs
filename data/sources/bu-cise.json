@@ -14,7 +14,7 @@
       "lab_name": null,
       "pi_name": "Sean B. Andersson",
       "pi_title": "Professor, ENG (ME, SE), ME Dept. Chair, Director of the BU Robotics Lab",
-      "pi_email": null,
+      "pi_email": "sanderss@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.bu.edu/anderssonlab/",
       "location": null,
@@ -22,13 +22,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoc, 6 graduate students (5 PhD, 1 MS), 3 undergraduates",
+      "members_page_url": "https://www.bu.edu/anderssonlab/people/",
+      "join_page_url": "https://www.bu.edu/anderssonlab/contact-us/information-for-prospective-students/",
+      "join_notes": "Grad applicants apply to the department and name him; students usually take courses/mini-projects before joining. Undergrad positions posted on BU UROP; no postdoc openings at the moment.",
       "profile_url": "https://www.bu.edu/cise/profile/sean-b-andersson/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Counted PI plus 'Current Members' on the lab People page, stopping at Alumni."
     },
     {
       "id": "bu-cise-john-baillieul",
@@ -36,7 +36,7 @@
       "lab_name": null,
       "pi_name": "John Baillieul",
       "pi_title": "Distinguished Professor, ENG (ME, ECE, SE)",
-      "pi_email": null,
+      "pi_email": "johnb@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://people.bu.edu/johnb/",
       "location": null,
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/john-baillieul/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Personal page has no roster; the linked Intelligent Mechatronics Lab page is only an 'ENTER' link to iml.bu.edu, which timed out, so count null."
     },
     {
       "id": "bu-cise-calin-belta",
@@ -58,7 +58,7 @@
       "lab_name": null,
       "pi_name": "Calin Belta",
       "pi_title": "Research Professor, ENG (ME, ECE, SE), Director, BU Robotics Lab",
-      "pi_email": null,
+      "pi_email": "cbelta@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://sites.bu.edu/hyness/calin/",
       "location": null,
@@ -66,13 +66,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 3 postdocs, 8 PhD students (mix of BU and UMD)",
+      "members_page_url": "https://calinbelta.com/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/calin-belta/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Counted PI plus 'Current Members' on the group People page (updated 2025-09); group is largely UMD-based, and home-page news says two listed students (Ahmad, Crowley) have since defended."
     },
     {
       "id": "bu-cise-azer-bestavros",
@@ -80,7 +80,7 @@
       "lab_name": null,
       "pi_name": "Azer Bestavros",
       "pi_title": "Warren Distinguished Professor of Computer Sciences, CAS (CS, ECE), Associate Provost (CDS)",
-      "pi_email": null,
+      "pi_email": "best@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://azer.bestavros.net/",
       "location": null,
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/azer-bestavros/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Personal site's Students page lists only graduated PhD advisees; no current members shown, count null."
     },
     {
       "id": "bu-cise-michael-c-caramanis",
@@ -102,7 +102,7 @@
       "lab_name": null,
       "pi_name": "Michael C. Caramanis",
       "pi_title": "Professor, ENG (ME, SE)",
-      "pi_email": null,
+      "pi_email": "mcaraman@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.bu.edu/pcms/caramanis/",
       "location": null,
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/michael-caramanis/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Personal page is a list of downloads with no group roster; count null."
     },
     {
       "id": "bu-cise-luis-carvalho",
@@ -124,7 +124,7 @@
       "lab_name": null,
       "pi_name": "Luis Carvalho",
       "pi_title": "Associate Professor, CAS (Math/Stat), Director of MSSP (M.S. in Statistical Practice)",
-      "pi_email": null,
+      "pi_email": "lecarval@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://math.bu.edu/people/lecarval/",
       "location": null,
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/luis-carvalho/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Faculty page (re-fetched after earlier cert error) shows research and publications but no group or student list; count null."
     },
     {
       "id": "bu-cise-christos-g-cassandras",
@@ -146,7 +146,7 @@
       "lab_name": null,
       "pi_name": "Christos G. Cassandras",
       "pi_title": "Distinguished Professor of Engineering, Professor, (ECE, SE)",
-      "pi_email": null,
+      "pi_email": "cgc@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://christosgcassandras.org/",
       "location": null,
@@ -154,13 +154,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 PhD students",
+      "members_page_url": "https://christosgcassandras.org/research-group-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/christos-cassandras/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Counted PI plus 'Current CODES Lab Members' on the Research Group Members page, stopping at past members."
     },
     {
       "id": "bu-cise-david-casta-n",
@@ -168,7 +168,7 @@
       "lab_name": null,
       "pi_name": "David Castañón",
       "pi_title": "Professor, ENG (ECE, SE)",
-      "pi_email": null,
+      "pi_email": "dac@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://people.bu.edu/dac/",
       "location": null,
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/david-castanon/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Personal home page lists no group members; he is only 'affiliated' with the multi-PI MDSP lab, so count null."
     },
     {
       "id": "bu-cise-ay-e-kivilcim-co-kun",
@@ -190,7 +190,7 @@
       "lab_name": null,
       "pi_name": "Ayşe Kivilcim Coşkun",
       "pi_title": "Director of CISE, Professor, ENG (ECE, SE), Associate Dean for Research and Faculty Development (ENG), Head of PEAC Lab",
-      "pi_email": null,
+      "pi_email": "acoskun@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://www.bu.edu/dbin/ece/people/acoskun/",
       "location": null,
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/ayse-kivilcim-coskun/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Home page points to PeacLab; its People page only links sub-pages (grad students, postdocs, undergrads) not fetched within the 2-fetch limit, so count null. She also directs CISE (a center), not counted."
     },
     {
       "id": "bu-cise-mark-crovella",
@@ -212,8 +212,8 @@
       "lab_name": null,
       "pi_name": "Mark Crovella",
       "pi_title": "Professor, CAS (CS, ECE, SE), Chair of Academic Affairs for Computing & Data Sciences, Founding Member and Faculty (CDS), Data Science Faculty Fellow",
-      "pi_email": null,
-      "accepting_grad_students": null,
+      "pi_email": "crovella@cs.bu.edu",
+      "accepting_grad_students": false,
       "lab_website": "http://www.cs.bu.edu/faculty/crovella/",
       "location": null,
       "phone": null,
@@ -224,9 +224,9 @@
       "member_breakdown": null,
       "members_page_url": null,
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Home page says he does not plan to admit new students for Fall 2027.",
       "profile_url": "https://www.bu.edu/cise/profile/mark-crovella/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Home page has no current-member list (only a graduated doctoral students page); count null."
     },
     {
       "id": "bu-cise-ashok-cutkosky",
@@ -234,7 +234,7 @@
       "lab_name": null,
       "pi_name": "Ashok Cutkosky",
       "pi_title": "Assistant Professor, ENG (ECE, SE), Faculty (CDS)",
-      "pi_email": null,
+      "pi_email": "cutkosky@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://ashok.cutkosky.com/",
       "location": null,
@@ -242,13 +242,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 5 PhD students, 6 undergraduate students",
+      "members_page_url": "https://ashok.cutkosky.com/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/ashok-cutkosky/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Counted the PhD and undergraduate student lists on his home page plus the PI; page says he is on leave at Meta until 2027-28."
     },
     {
       "id": "bu-cise-emiliano-dall-anese",
@@ -256,7 +256,7 @@
       "lab_name": null,
       "pi_name": "Emiliano Dall'Anese",
       "pi_title": "Associate Professor, ENG (ECE, SE), Interim Head, Division of Systems Engineering, Associate Head, Division of Systems Engineering",
-      "pi_email": null,
+      "pi_email": "edallane@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://emilianoda.github.io/",
       "location": null,
@@ -264,13 +264,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 5 PhD students, 1 postdoc, 2 master's students",
+      "members_page_url": "https://emilianoda.github.io/group.html",
+      "join_page_url": "https://emilianoda.github.io/openings.html",
+      "join_notes": "Looking for PhD students and postdocs in online optimization/control and power systems (page last edited June 2024).",
       "profile_url": "https://www.bu.edu/cise/profile/emiliano-dallanese/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Counted PI plus current PhD, postdoc and master's lists on the Research Group page, stopping at Former sections."
     },
     {
       "id": "bu-cise-vassilis-digalakis-jr",
@@ -278,7 +278,7 @@
       "lab_name": null,
       "pi_name": "Vassilis Digalakis Jr",
       "pi_title": "Assistant Professor, Questrom (OTM) and ENG (SE)",
-      "pi_email": null,
+      "pi_email": "vvd@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://vvdigalakis.github.io/",
       "location": null,
@@ -289,10 +289,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "join_page_url": "https://vvdigalakis.github.io/",
+      "join_notes": "Prospective PhDs apply to the Questrom PhD program (OTM track) naming him; RA applicants email with subject 'RA Application - [Name]' plus CV and fill out a Google form.",
       "profile_url": "https://www.bu.edu/cise/profile/vassilis-digalakis-jr/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Personal site describes how to join but lists no current students or group members; count null."
     },
     {
       "id": "bu-cise-manuel-egele",
@@ -300,7 +300,7 @@
       "lab_name": null,
       "pi_name": "Manuel Egele",
       "pi_title": "Associate Professor, ENG (ECE), Associate Chair of Doctoral Programs (ECE)",
-      "pi_email": null,
+      "pi_email": "megele@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://megele.io/",
       "location": null,
@@ -314,7 +314,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/manuel-egele/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Personal site says he co-leads BU's Secure Systems Lab but shows no member roster; count null."
     },
     {
       "id": "bu-cise-michael-gevelber",
@@ -322,7 +322,7 @@
       "lab_name": null,
       "pi_name": "Michael Gevelber",
       "pi_title": "Associate Professor, ENG (MSE, ME, SE)",
-      "pi_email": null,
+      "pi_email": "gevelber@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.bu.edu/pcl/",
       "location": null,
@@ -333,10 +333,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://www.bu.edu/pcl/research-opportunities/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/michael-gevelber/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Lab People page only shows 'Summer 2014' and 'Summer 2012' group photos/projects, so current membership can't be told; count null."
     },
     {
       "id": "bu-cise-vivek-k-goyal",
@@ -344,7 +344,7 @@
       "lab_name": null,
       "pi_name": "Vivek K Goyal",
       "pi_title": "CISE Deputy Director, Professor, ENG (ECE)",
-      "pi_email": null,
+      "pi_email": "goyal@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://www.vivekgoyal.org/",
       "location": null,
@@ -352,13 +352,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 postdoc, 6 graduate students",
+      "members_page_url": "http://vivekgoyal.org/people.htm",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/vivek-goyal/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Counted 'Current Group Members' on the STIR people page (including the PI), stopping at Past Group Members."
     },
     {
       "id": "bu-cise-yigong-hu",
@@ -366,7 +366,7 @@
       "lab_name": null,
       "pi_name": "Yigong Hu",
       "pi_title": "Assistant Professor (ECE)",
-      "pi_email": null,
+      "pi_email": "yigongh@bu.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -380,7 +380,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/yigong-hu/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bu-cise-lucy-hutyra",
@@ -388,7 +388,7 @@
       "lab_name": null,
       "pi_name": "Lucy Hutyra",
       "pi_title": "Distinguished Professor, CAS (Earth & Environment), Department Chair of Earth & Environment, Director of the BU Biogeosciences Program",
-      "pi_email": null,
+      "pi_email": "lrhutyra@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://sites.bu.edu/hutyra/",
       "location": null,
@@ -396,13 +396,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 4 PhD students, 1 master's student",
+      "members_page_url": "https://sites.bu.edu/hutyra/lab-members-alumni/",
+      "join_page_url": "http://sites.bu.edu/hutyra/files/2025/08/Urban_Climate_post_doc_Hutyra.pdf",
+      "join_notes": "Home page links an urban climate postdoc posting (PDF).",
       "profile_url": "https://www.bu.edu/cise/profile/lucy-hutyra/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Counted PI plus 'Current Lab Members' on the Lab Members & Alumni page, stopping at Alumni."
     },
     {
       "id": "bu-cise-prakash-ishwar",
@@ -410,7 +410,7 @@
       "lab_name": null,
       "pi_name": "Prakash Ishwar",
       "pi_title": "Professor, ENG (ECE, SE, CS)",
-      "pi_email": null,
+      "pi_email": "pi@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://sites.bu.edu/pi/",
       "location": null,
@@ -422,9 +422,9 @@
       "member_breakdown": null,
       "members_page_url": null,
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Seeks students for theoretical research on mathematical foundations of AI; send inquiries with CV attached, though he says he usually can't reply.",
       "profile_url": "https://www.bu.edu/cise/profile/prakash-ishwar/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Research-Group page lists only graduated PhD/MS students and past postdocs; no current members shown, count null."
     },
     {
       "id": "bu-cise-ajay-joshi",
@@ -432,7 +432,7 @@
       "lab_name": null,
       "pi_name": "Ajay Joshi",
       "pi_title": "Professor, ENG (ECE)",
-      "pi_email": null,
+      "pi_email": "joshi@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.bu.edu/eng/profile/ajay-joshi/",
       "location": null,
@@ -440,13 +440,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 6 PhD students, 2 BS students",
+      "members_page_url": "https://www.bu.edu/icas/people/",
+      "join_page_url": "http://www.bu.edu/icas/",
+      "join_notes": "Students interested in joining ICAS should email Prof. Joshi with CV and a short research-interest description; admissions questions go to the Admissions Office.",
       "profile_url": "https://www.bu.edu/cise/profile/ajay-joshi/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: lab_website is his ENG profile; counted the linked ICAS Group People page (PI, PhD and BS students), stopping at Alumni."
     },
     {
       "id": "bu-cise-w-clement-karl",
@@ -454,7 +454,7 @@
       "lab_name": null,
       "pi_name": "W. Clement Karl",
       "pi_title": "Professor, ENG (ECE, BME, SE), Department Chair (ECE)",
-      "pi_email": null,
+      "pi_email": "wckarl@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://www.bu.edu/prsocial/profile/w-clement-karl/",
       "location": null,
@@ -468,7 +468,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/w-clement-karl/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: lab_website is a BU PR experts profile with no lab link or roster; count null."
     },
     {
       "id": "bu-cise-mark-kon",
@@ -476,7 +476,7 @@
       "lab_name": null,
       "pi_name": "Mark Kon",
       "pi_title": "Professor CAS (Math/Stat)",
-      "pi_email": null,
+      "pi_email": "mkon@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://math.bu.edu/people/mkon/",
       "location": null,
@@ -490,7 +490,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/mark-kon/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Cached and rendered home page is an empty Word-HTML shell; no roster shown."
     },
     {
       "id": "bu-cise-janusz-konrad",
@@ -498,7 +498,7 @@
       "lab_name": null,
       "pi_name": "Janusz Konrad",
       "pi_title": "Professor, ENG (ECE)",
-      "pi_email": null,
+      "pi_email": "jkonrad@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://sites.bu.edu/jkonrad/",
       "location": null,
@@ -506,13 +506,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 master's students",
+      "members_page_url": "https://sites.bu.edu/jkonrad/students/",
+      "join_page_url": "https://sites.bu.edu/jkonrad/prospective-students/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/janusz-konrad/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Count from the VIP students page (only master's students listed; alumni linked separately)."
     },
     {
       "id": "bu-cise-nalin-kulatilaka",
@@ -520,7 +520,7 @@
       "lab_name": null,
       "pi_name": "Nalin Kulatilaka",
       "pi_title": "Wing Tat Lee Family Professor of Management; Professor of Finance, Questrom School of Business",
-      "pi_email": null,
+      "pi_email": "nalink@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.bu.edu/ise/profile/nalin-kulatilaka/",
       "location": null,
@@ -534,7 +534,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/nalin-kulatilaka/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: lab_website/people_url point to the Institute for Global Sustainability (a center hub), not a PI group; count left null."
     },
     {
       "id": "bu-cise-brian-kulis",
@@ -542,7 +542,7 @@
       "lab_name": null,
       "pi_name": "Brian Kulis",
       "pi_title": "Professor, ENG (ECE, CS, SE), Faculty (CDS)",
-      "pi_email": null,
+      "pi_email": "bkulis@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://people.bu.edu/bkulis/",
       "location": null,
@@ -550,13 +550,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 4 PhD students, 1 undergraduate",
+      "members_page_url": "http://people.bu.edu/bkulis/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/brian-kulis/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Count from 'Current Students' on the home page; stopped at 'Former Group Members'."
     },
     {
       "id": "bu-cise-lev-b-levitin",
@@ -564,7 +564,7 @@
       "lab_name": null,
       "pi_name": "Lev B. Levitin",
       "pi_title": "Distinguished Professor of Engineering Science, ENG (ECE)",
-      "pi_email": null,
+      "pi_email": "levitin@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.bu.edu/reliable/",
       "location": null,
@@ -574,11 +574,11 @@
       "research_summary": null,
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://www.bu.edu/reliable/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/lev-levitin/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Reliable Computing Lab page lists Levitin as associated faculty and mixes current and graduated students under 'Current and Recent Students'; cannot tell who is current."
     },
     {
       "id": "bu-cise-wenchao-li",
@@ -586,7 +586,7 @@
       "lab_name": null,
       "pi_name": "Wenchao Li",
       "pi_title": "Associate Professor, ENG (ECE, SE), CS",
-      "pi_email": null,
+      "pi_email": "wenchao@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://sites.bu.edu/depend/",
       "location": null,
@@ -594,13 +594,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 PhD students",
+      "members_page_url": "https://sites.bu.edu/depend/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/wenchao-li/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Count from PI + 'Current PhD Students'; master's/undergrad/high-school lists appear after the Alumni heading and were not counted."
     },
     {
       "id": "bu-cise-thomas-little",
@@ -608,7 +608,7 @@
       "lab_name": null,
       "pi_name": "Thomas Little",
       "pi_title": "Professor, ENG (ECE, SE)",
-      "pi_email": null,
+      "pi_email": "tdcl@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.bu.edu/eng/profile/thomas-little/",
       "location": null,
@@ -618,11 +618,11 @@
       "research_summary": null,
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "members_page_url": "https://sites.bu.edu/mcl/about-us/people/",
+      "join_page_url": "https://sites.bu.edu/mcl/about-us/interested-in-joining-the-lab/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/thomas-little/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-02: Profile links Multimedia Communications Lab; its People page shows no roster in text (students subpage not fetched, fetch limit reached)."
     },
     {
       "id": "bu-cise-benjamin-lubin",
@@ -630,7 +630,7 @@
       "lab_name": null,
       "pi_name": "Benjamin Lubin",
       "pi_title": "Clinical Associate Professor, Questrom (IS)",
-      "pi_email": null,
+      "pi_email": "blubin@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://people.bu.edu/blubin/",
       "location": null,
@@ -640,11 +640,11 @@
       "research_summary": null,
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "http://people.bu.edu/blubin/students.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/benjamin-lubin/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Students page last generated 2018 and mixes graduated and co-advised students; cannot tell who is current."
     },
     {
       "id": "bu-cise-abraham-ibrahim-matta",
@@ -652,7 +652,7 @@
       "lab_name": null,
       "pi_name": "Abraham (Ibrahim) Matta",
       "pi_title": "Professor, CAS (CS, SE)",
-      "pi_email": null,
+      "pi_email": "matta@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://sites.bu.edu/matta/",
       "location": null,
@@ -660,13 +660,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 PhD students",
+      "members_page_url": "https://sites.bu.edu/matta/students/",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Apply to the BU CS graduate program; PI says he often cannot answer individual inquiries (on sabbatical AY 2026-27).",
       "profile_url": "https://www.bu.edu/cise/profile/ibrahim-matta/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Count from 'Current PhD Students' on the students page; stopped at 'Past PhD Students'."
     },
     {
       "id": "bu-cise-bobak-nazer",
@@ -674,7 +674,7 @@
       "lab_name": null,
       "pi_name": "Bobak Nazer",
       "pi_title": "Associate Professor, ENG (ECE, SE), Distinguished Faculty Fellow, ENG, ECE Associate Chair for Undergraduate Programs",
-      "pi_email": null,
+      "pi_email": "bobak@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://bobaknazer.github.io/",
       "location": null,
@@ -682,13 +682,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 PhD students",
+      "members_page_url": "http://bobaknazer.github.io/group",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/bobak-nazer/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Count from 'Current' section of the group page; stopped at Alumni."
     },
     {
       "id": "bu-cise-sabrina-m-neuman",
@@ -696,7 +696,7 @@
       "lab_name": null,
       "pi_name": "Sabrina M. Neuman",
       "pi_title": "Assistant Professor, CAS (CS)",
-      "pi_email": null,
+      "pi_email": "sneuman@bu.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -710,7 +710,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/sabrina-m-neuman/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page."
     },
     {
       "id": "bu-cise-eshed-ohn-bar",
@@ -718,21 +718,21 @@
       "lab_name": null,
       "pi_name": "Eshed Ohn-Bar",
       "pi_title": "Assistant Professor, ENG (ECE)",
-      "pi_email": null,
-      "accepting_grad_students": null,
+      "pi_email": "eohnbar@bu.edu",
+      "accepting_grad_students": true,
       "lab_website": "https://eshed1.github.io/",
       "location": null,
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 25,
+      "member_breakdown": "1 PI, 7 PhD students (1 visiting), 6 MS students, 11 undergraduates",
+      "members_page_url": "https://eshed1.github.io/",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "PI is looking for two PhD students this year; email the PI your CV.",
       "profile_url": "https://www.bu.edu/cise/profile/eshed-ohn-bar/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Count from the 'Team' section of the H2X home page; stopped at 'Past Members' (worklist join_url was a paper PDF, dropped)."
     },
     {
       "id": "bu-cise-alexander-olshevsky",
@@ -740,7 +740,7 @@
       "lab_name": null,
       "pi_name": "Alexander Olshevsky",
       "pi_title": "Professor, ENG (ECE, SE)",
-      "pi_email": null,
+      "pi_email": "alexols@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://sites.bu.edu/aolshevsky/",
       "location": null,
@@ -754,7 +754,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/olshevsky/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Personal home page has no students/people section or link."
     },
     {
       "id": "bu-cise-ioannis-yannis-paschalidis",
@@ -770,13 +770,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 13 PhD candidates",
+      "members_page_url": "https://sites.bu.edu/paschalidis/people/students/",
+      "join_page_url": "https://sites.bu.edu/paschalidis/home/applicants/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/ioannis-paschalidis/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-02: Count from 'Current Students' on the NOC Lab students page; stopped at past postdocs/students."
     },
     {
       "id": "bu-cise-erol-pek-z",
@@ -784,7 +784,7 @@
       "lab_name": null,
       "pi_name": "Erol Peköz",
       "pi_title": "Professor, Questrom (OM, SE)",
-      "pi_email": null,
+      "pi_email": "pekoz@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://people.bu.edu/pekoz/",
       "location": null,
@@ -798,7 +798,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/erol-pekoz/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Lab website returns a BU 'Page Not Found' page."
     },
     {
       "id": "bu-cise-james-perkins",
@@ -806,7 +806,7 @@
       "lab_name": null,
       "pi_name": "James Perkins",
       "pi_title": "Associate Professor, ENG (ME, SE)",
-      "pi_email": null,
+      "pi_email": "perkins@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://people.bu.edu/perkins/",
       "location": null,
@@ -820,7 +820,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/james-perkins/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Old personal page with no roster or students section."
     },
     {
       "id": "bu-cise-nathan-phillips",
@@ -828,7 +828,7 @@
       "lab_name": null,
       "pi_name": "Nathan Phillips",
       "pi_title": "Professor, CAS (Earth & Environment)",
-      "pi_email": null,
+      "pi_email": "nathan@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.bu.edu/ise/profile/nathan-phillips/",
       "location": null,
@@ -842,7 +842,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/nathan-phillips/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: lab_website/people_url point to the Institute for Global Sustainability (a center hub), not a PI group; count left null."
     },
     {
       "id": "bu-cise-tommaso-ranzani",
@@ -850,7 +850,7 @@
       "lab_name": null,
       "pi_name": "Tommaso Ranzani",
       "pi_title": "Associate Professor (ME, MSE, BME)",
-      "pi_email": null,
+      "pi_email": "tranzani@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://sites.bu.edu/ranzani-lab/",
       "location": null,
@@ -858,13 +858,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 25,
+      "member_breakdown": "1 PI, 3 postdocs, 6 PhD students (incl. 1 rotating), 1 visiting researcher, 5 master's students, 9 undergraduates",
+      "members_page_url": "https://sites.bu.edu/ranzani-lab/people/",
+      "join_page_url": "https://sites.bu.edu/ranzani-lab/opportunities/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/tommaso-ranzani/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Count from the Morphable Biorobotics people page; stopped at Alumni."
     },
     {
       "id": "bu-cise-sheila-russo",
@@ -872,7 +872,7 @@
       "lab_name": null,
       "pi_name": "Sheila Russo",
       "pi_title": "Associate Professor (ME, MSE)",
-      "pi_email": null,
+      "pi_email": "russos@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://sites.bu.edu/mrl/",
       "location": null,
@@ -880,13 +880,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 2 postdocs, 5 PhD students, 7 undergraduates",
+      "members_page_url": "https://sites.bu.edu/mrl/lab-members/",
+      "join_page_url": "https://sites.bu.edu/mrl/opportunities/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/sheila-russo/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Count from the MRL lab members page (master's section empty); stopped at Alumni."
     },
     {
       "id": "bu-cise-andrew-p-sabelhaus",
@@ -894,7 +894,7 @@
       "lab_name": null,
       "pi_name": "Andrew P. Sabelhaus",
       "pi_title": "Assistant Professor, ENG (ME, SE)",
-      "pi_email": null,
+      "pi_email": "asabelha@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://sites.bu.edu/srclab/",
       "location": null,
@@ -902,13 +902,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 PhD candidates, 1 visiting scholar, 3 undergraduates",
+      "members_page_url": "https://sites.bu.edu/srclab/people/",
+      "join_page_url": "https://sites.bu.edu/srclab/join-us/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/andrew-p-sabelhaus/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Count from the SRC Lab people page (labelled 'as of summer 2024'); stopped at Alumni."
     },
     {
       "id": "bu-cise-venkatesh-saligrama",
@@ -916,7 +916,7 @@
       "lab_name": null,
       "pi_name": "Venkatesh Saligrama",
       "pi_title": "Professor, ENG (ECE, SE, CS), Founding Member and Faculty (CDS), Data Science Faculty Fellow (CDS)",
-      "pi_email": null,
+      "pi_email": "srv@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://sites.bu.edu/data/",
       "location": null,
@@ -926,11 +926,11 @@
       "research_summary": null,
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "http://sites.bu.edu/data/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/venkatesh-saligrama/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-02: Lab page appears stale (latest posts 2021) and lists as a student someone the Nazer group page shows graduated in 2022; cannot tell who is current."
     },
     {
       "id": "bu-cise-konstantinos-spiliopoulos",
@@ -938,7 +938,7 @@
       "lab_name": null,
       "pi_name": "Konstantinos Spiliopoulos",
       "pi_title": "Professor, CAS (Math/Stat), Director of Statistics",
-      "pi_email": null,
+      "pi_email": "kspiliop@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://math.bu.edu/people/kspiliop/",
       "location": null,
@@ -952,7 +952,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/konstantinos-spiliopoulos/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Page could not be fetched (certificate error on math.bu.edu, http and https)."
     },
     {
       "id": "bu-cise-david-starobinski",
@@ -960,7 +960,7 @@
       "lab_name": null,
       "pi_name": "David Starobinski",
       "pi_title": "Interim Associate Head, Division of Systems Engineering (ECE, SE Appointed)",
-      "pi_email": null,
+      "pi_email": "staro@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://people.bu.edu/staro/",
       "location": null,
@@ -968,13 +968,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 graduate students",
+      "members_page_url": "http://people.bu.edu/staro/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/david-starobinski/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Count from 'Research Group: Graduate students' on the home page; stopped at Alumni."
     },
     {
       "id": "bu-cise-gianluca-stringhini",
@@ -990,13 +990,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "2 faculty (Egele, Stringhini), 5 students",
+      "members_page_url": "https://seclab.bu.edu/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/gianluca-stringhini/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-02: Count from SeclaBU 'Lab members'; this lab is co-led by two faculty, so the count covers both groups; stopped at Alumni."
     },
     {
       "id": "bu-cise-daniel-sussman",
@@ -1004,8 +1004,8 @@
       "lab_name": null,
       "pi_name": "Daniel Sussman",
       "pi_title": "Assistant Professor, CAS (Math/Stat)",
-      "pi_email": null,
-      "accepting_grad_students": null,
+      "pi_email": "sussman@bu.edu",
+      "accepting_grad_students": false,
       "lab_website": "http://math.bu.edu/people/sussman/",
       "location": null,
       "phone": null,
@@ -1014,11 +1014,11 @@
       "research_summary": null,
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://math.bu.edu/people/sussman/advising/",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "PI states he is currently not taking on new PhD students.",
       "profile_url": "https://www.bu.edu/cise/profile/daniel-sussman/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Advising page shows 'Current advisees' heading but no names rendered in text; count null."
     },
     {
       "id": "bu-cise-lei-tian",
@@ -1026,7 +1026,7 @@
       "lab_name": null,
       "pi_name": "Lei Tian",
       "pi_title": "Associate Professor, ENG (ECE, BME)",
-      "pi_email": null,
+      "pi_email": "leitian@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://sites.bu.edu/tianlab/",
       "location": null,
@@ -1034,13 +1034,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 visiting researcher, 1 postdoc, 5 PhD students, 4 MS students, 3 undergraduates",
+      "members_page_url": "https://sites.bu.edu/tianlab/people/",
+      "join_page_url": "https://sites.bu.edu/tianlab/openings/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/lei-tian/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Count from the Tian Lab people page (alumni on a separate page)."
     },
     {
       "id": "bu-cise-ari-trachtenberg",
@@ -1048,7 +1048,7 @@
       "lab_name": null,
       "pi_name": "Ari Trachtenberg",
       "pi_title": "Professor, ENG (ECE, SE)",
-      "pi_email": null,
+      "pi_email": "trachten@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://people.bu.edu/trachten/",
       "location": null,
@@ -1062,7 +1062,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/ari-trachtenberg/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Home and Work pages show no student/group roster (he co-directs the Laboratory of Networking and Information Systems, not fetched)."
     },
     {
       "id": "bu-cise-roberto-tron",
@@ -1070,7 +1070,7 @@
       "lab_name": null,
       "pi_name": "Roberto Tron",
       "pi_title": "Associate Professor, ENG (ME, SE), Robotics and Autonomous Systems Director",
-      "pi_email": null,
+      "pi_email": "tron@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://sites.bu.edu/tron/",
       "location": null,
@@ -1084,7 +1084,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/roberto-tron/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Personal site has no people/students page or roster."
     },
     {
       "id": "bu-cise-sandor-vajda",
@@ -1092,7 +1092,7 @@
       "lab_name": null,
       "pi_name": "Sandor Vajda",
       "pi_title": "Professor, ENG (BME, SE, CHEM)",
-      "pi_email": null,
+      "pi_email": "vajda@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.bu.edu/eng/profile/sandor-vajda-ph-d/",
       "location": null,
@@ -1106,7 +1106,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/sandor-vajda/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Cached page is the BU ENG faculty profile with no roster; linked Vajda Lab site (vajdalab.org) timed out on both http and https fetches."
     },
     {
       "id": "bu-cise-pirooz-vakili",
@@ -1114,7 +1114,7 @@
       "lab_name": null,
       "pi_name": "Pirooz Vakili",
       "pi_title": "Associate Professor, ENG (SE, ME)",
-      "pi_email": null,
+      "pi_email": "vakili@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.bu.edu/eng/profile/pirooz-vakili/",
       "location": null,
@@ -1128,7 +1128,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/pirooz-vakili/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Profile URL returns BU ENG 'Page not found'; no roster available."
     },
     {
       "id": "bu-cise-hua-wang",
@@ -1136,7 +1136,7 @@
       "lab_name": null,
       "pi_name": "Hua Wang",
       "pi_title": "Associate Professor, ENG (ME, SE Appointed)",
-      "pi_email": null,
+      "pi_email": "wangh@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.bu.edu/eng/profile/hua-wang/",
       "location": null,
@@ -1150,7 +1150,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/hua-wang/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: BU ENG faculty profile only; it mentions no lab or group roster (research faculty, so not marked faculty-no-lab)."
     },
     {
       "id": "bu-cise-tianyu-wang",
@@ -1158,7 +1158,7 @@
       "lab_name": null,
       "pi_name": "Tianyu Wang",
       "pi_title": "Assistant Professor, ENG (ECE)",
-      "pi_email": null,
+      "pi_email": "wangty@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://tyw-lab.github.io/research/",
       "location": null,
@@ -1166,13 +1166,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 3 PhD students, 1 master's student, 1 undergraduate",
+      "members_page_url": "https://tyw-lab.github.io/Team/",
+      "join_page_url": "https://tyw-lab.github.io/joinUs/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/tianyu-wang/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Counted from the lab Team page, stopping at Alumni (Visitors section is empty)."
     },
     {
       "id": "bu-cise-rabia-tugce-yazicigil",
@@ -1180,7 +1180,7 @@
       "lab_name": null,
       "pi_name": "Rabia Tugce Yazicigil",
       "pi_title": "Associate Professor, ENG (ECE, BME)",
-      "pi_email": null,
+      "pi_email": "rty@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://wisecircuits.bu.edu/",
       "location": null,
@@ -1188,13 +1188,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 10 PhD students, 2 master's students, 2 undergraduates",
+      "members_page_url": "https://sites.bu.edu/wisecircuits/people/",
+      "join_page_url": "https://sites.bu.edu/wisecircuits/prospective-students/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/rabia-tugce-yazicigil/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Counted from the lab People page (fetched); PhD alumni and the ALUMNI section excluded."
     },
     {
       "id": "bu-cise-jinglong-zhao",
@@ -1202,7 +1202,7 @@
       "lab_name": null,
       "pi_name": "Jinglong Zhao",
       "pi_title": "Assistant Professor, Questrom (OTM), ENG (SE)",
-      "pi_email": null,
+      "pi_email": "jinglong@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.bu.edu/questrom/profile/jinglong-zhao/",
       "location": null,
@@ -1216,7 +1216,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cise/profile/jinglong-zhao/",
-      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown."
+      "notes": "Breadth pass from CISE's cross-departmental Faculty Affiliates directory; PI's own department (shown in title) is their home department, CISE itself has no labs of its own. Personal/lab website from the directory's 'Website' link where shown. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-02: Questrom faculty profile mentions no lab; the 'people' page is a Questrom industry-engagement staff page, not his group. Left null (research faculty, not marked faculty-no-lab)."
     }
   ],
   "non_lab_people": [],
