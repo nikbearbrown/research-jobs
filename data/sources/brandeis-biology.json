@@ -45,13 +45,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Developmental neurobiology.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 PhD candidates, 1 lab technician, 1 MS student, 2 undergrads",
+      "members_page_url": "https://sites.google.com/view/birrenlab/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/susan_birren/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Counted the Research Team section, stopping at Alumni."
     },
     {
       "id": "brandeis-biology-paul-garrity",
@@ -67,13 +67,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Neural development and behavior.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 3 postdocs, 1 research scientist, 4 PhD students, 2 research associates, 1 lab manager, 5 undergrads",
+      "members_page_url": "https://www.garritylab.com/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/paul_garrity/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Counted Current Lab members, stopping at Lab Alumni."
     },
     {
       "id": "brandeis-biology-bruce-goode",
@@ -89,13 +89,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Cytoskeletal mechanisms controlling cell morphogenesis.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 2 research scientists (1 senior), 4 postdocs, 1 PhD student, 1 research technician, 4 undergrads",
+      "members_page_url": "https://www.goodelab.org/our-team",
+      "join_page_url": "https://www.goodelab.org/positions",
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/bruce_goode/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Counted Our Team page; lab dogs excluded."
     },
     {
       "id": "brandeis-biology-christine-grienberger",
@@ -111,13 +111,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Understanding how the brain is able to produce learned behaviors.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 2 postdocs, 1 research scientist, 2 PhD students, 1 MS student, 1 research technician, 3 undergrads, 4 with roles not shown",
+      "members_page_url": "https://www.grienbergerlab.org/people",
+      "join_page_url": "https://www.grienbergerlab.org/join",
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/christine_grienberger/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Counted names on People page above Lab Alumni; several entries show only education, not role."
     },
     {
       "id": "brandeis-biology-leslie-griffith",
@@ -133,13 +133,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Biochemistry of synaptic plasticity.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 lab manager, 1 research associate, 1 technician, 1 postdoc, 2 graduate students labeled, 6 with roles not shown (most appear to be grad students)",
+      "members_page_url": "https://www.griffithlabbrandeis.com/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/leslie_griffith/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Counted the Team page; lab dog excluded."
     },
     {
       "id": "brandeis-biology-james-haber",
@@ -155,13 +155,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Repair of broken chromosomes and triggering of the DNA damage response.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI + 9 names under Current Lab Members; roles not shown",
+      "members_page_url": "https://sites.google.com/brandeis.edu/haber-lab/members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/james_haber/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Members page lists 9 current names without roles and does not list the PI; count adds the PI."
     },
     {
       "id": "brandeis-biology-liz-hedstrom",
@@ -177,13 +177,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Design of targeted protein degraders;  antibiotic discovery; enzyme structure-function studies.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 research scientist, 4 graduate students (incl. 1 MS), 2 undergrads",
+      "members_page_url": "https://sites.google.com/brandeis.edu/hedstromlab/people/current",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/lizbeth_hedstrom/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: People page was navigation only; counted the People > Current subpage (pets excluded)."
     },
     {
       "id": "brandeis-biology-duane-juang",
@@ -199,13 +199,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Development of novel assay platforms for research and diagnostics.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 2 PhD students, 3 undergrads",
+      "members_page_url": "https://sites.google.com/brandeis.edu/ivm/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/duane_juang/overview",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Counted People page, excluding previous rotation students."
     },
     {
       "id": "brandeis-biology-sebastian-kadener",
@@ -227,7 +227,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/sebastian_kadener/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Team page (/people) returns Not Found even rendered, /team also Not Found; home page has no roster."
     },
     {
       "id": "brandeis-biology-yerbol-z-kurmangaliyev",
@@ -243,13 +243,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": ": Genomics of brain development.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 PhD students, 1 post-bac, 2 undergrads",
+      "members_page_url": "https://www.yerbol-lab.org/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/yerbol_kurmangaliyev/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Counted Team page, stopping at Alumni."
     },
     {
       "id": "brandeis-biology-eve-marder",
@@ -265,13 +265,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Modulation of neural networks.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 2 grad students, 5 postdocs, 4 staff (research scientist, research specialist, lab manager, technician), 4 undergrads",
+      "members_page_url": "https://sites.google.com/brandeis.edu/marder-lab/lab-members-contact-info",
+      "join_page_url": "https://sites.google.com/brandeis.edu/marder-lab/lab-members-contact-info",
+      "join_notes": "Prospective grad students and postdocs email Eve Marder directly; undergrads email themarderlab@brandeis.edu with resume and unofficial transcript.",
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/eve_marder/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Listed site page was Research; counted the Lab Members & Contact Info page."
     },
     {
       "id": "brandeis-biology-michael-marr",
@@ -309,13 +309,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Mitochondrial genetics and metabolism in health and neurodegenerative disease",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 senior research scientist, 1 postdoc, 4 PhD students, 2 lab technicians, 2 undergrads",
+      "members_page_url": "https://meisellab.org/people",
+      "join_page_url": "https://meisellab.org/contact",
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/meisel/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Counted Lab Members on People page."
     },
     {
       "id": "brandeis-biology-paul-miller",
@@ -334,10 +334,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://www.brandeis.edu/biology/undergraduate/opportunities.html",
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/paul_miller/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Lab website is a department faculty research page with research descriptions, code and publications but no member roster or link to one."
     },
     {
       "id": "brandeis-biology-sacha-nelson",
@@ -353,13 +353,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Physiological genomics of the mammalian neocortex.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 2 graduate students, 1 research technician",
+      "members_page_url": "https://sites.google.com/a/brandeis.edu/nelsonlab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/sacha_nelson/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: People page mixes current members and recent alums; counted only entries not marked as alum/graduated. Page looks dated."
     },
     {
       "id": "brandeis-biology-suzanne-paradis",
@@ -375,13 +375,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Molecular mechanisms of synaptic development.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 1 PhD student, 1 visiting student, 1 undergrad, 1 with role not shown",
+      "members_page_url": "https://sites.google.com/brandeis.edu/the-paradis-lab/lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/suzanne_paradis/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Counted Current Lab Members plus PI, stopping at Recent Lab Alumni; mascot excluded."
     },
     {
       "id": "brandeis-biology-kaushik-ragunathan",
@@ -397,13 +397,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Molecular mechanisms of epigenetic inheritance; single molecule approaches to study chromatin associated factors",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 3 postdocs, 5 graduate students, 1 research staff, 4 undergrads",
+      "members_page_url": "http://ragunathanlab.org/",
+      "join_page_url": "http://ragunathanlab.org/",
+      "join_notes": "Site says the lab is actively recruiting; email the PI with \"[Ragunathan Lab — Position]\" in the subject. Postdocs send cover letter and CV; grad students join via MCB or BCBP and email to discuss rotations; undergrads send interest statement, availability and unofficial transcript.",
       "profile_url": null,
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Counted People section of the single-page home site, stopping at Alumni; lab dog excluded."
     },
     {
       "id": "brandeis-biology-avital-rodal",
@@ -419,13 +419,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Endosomal membrane traffic in neurons.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 2 research scientists (1 also lab manager), 1 postdoc, 1 graduate student labeled, 5 with roles not shown, 4 undergrads",
+      "members_page_url": "https://www.rodallab.org/people",
+      "join_page_url": "https://www.rodallab.org/positions",
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/kaushik_ragunathan/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Counted People page above Former Lab Members; lab pets excluded."
     },
     {
       "id": "brandeis-biology-michael-rosbash",
@@ -441,13 +441,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Circadian rhythms, behavior and gene expression.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 18,
+      "member_breakdown": "1 PI, 1 associate research professor, 3 postdocs, 5 graduate students, 2 staff, 6 undergrads",
+      "members_page_url": "https://sites.google.com/brandeis.edu/rosbashlab/members/lab-members",
+      "join_page_url": "https://sites.google.com/brandeis.edu/rosbashlab/resources/job-opportunities",
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/avital_rodal/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Counted the Lab Members page."
     },
     {
       "id": "brandeis-biology-piali-sengupta",
@@ -463,13 +463,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Behavioral and neuronal development in",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 lab technician, 1 lab manager, 1 senior research scientist, 4 postdocs, 7 graduate students",
+      "members_page_url": "https://www.senguptalab.org/people-1",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Counted Lab Members page (alumni on a separate page)."
     },
     {
       "id": "brandeis-biology-gina-turrigiano",
@@ -485,13 +485,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Activity-dependent regulation of neuronal properties.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI + 11 lab members: 1 postdoc, 1 research associate, 1 graduate student, 1 lab manager, 7 with roles not shown",
+      "members_page_url": "https://www.turrigianolab.org/team-1-1",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/michael_rosbash/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Team page lists 11 lab members (PI on a separate PI page); count adds the PI."
     },
     {
       "id": "brandeis-biology-stephen-van-hooser",
@@ -507,13 +507,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Development and function of cortical circuits.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 graduate students, 1 research technician, 1 undergrad",
+      "members_page_url": "http://www.vhlab.org/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/piali_sengupta/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Counted People page above Alumni; excluded a joke \"Junior Junior Students\" entry (a child)."
     },
     {
       "id": "brandeis-biology-hannah-yevick",
@@ -529,13 +529,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Mechanics of cell and tissue development, collective behaviors in living systems.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 PhD students, 1 postdoc, 1 post-bac, 1 undergrad, 1 with role not shown",
+      "members_page_url": "https://www.yevicklab.com/people",
+      "join_page_url": "https://www.yevicklab.com/open-positions",
       "join_notes": null,
       "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/gina_turrigiano/overview?institution=01BRAND_INST",
-      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked."
+      "notes": "Breadth pass from the department's own faculty directory (Name/Title/phone/email/office/Expertise template), parsed via scripts/parse_brandeis_people.py. profile_url is the person's ScholarWorks research-profile page, when linked. Depth pass 2026-11-02: Counted LAB Members, stopping at Past Members; page also says \"we are hiring!\"."
     },
     {
       "id": "brandeis-biology-colleen-hitchcock",
