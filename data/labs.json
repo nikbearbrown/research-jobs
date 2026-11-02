@@ -617,7 +617,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/SerratoCapuchinaAntonio.html",
-    "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass).",
+    "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no email address (plain and rendered).",
     "size": "unknown"
   },
   {
@@ -869,7 +869,7 @@
     "city": "Chestnut Hill, MA",
     "checked_on": "2026-10-28",
     "id": "bc-chemistry-staff",
-    "kind": "research-lab",
+    "kind": "faculty-no-lab",
     "lab_name": null,
     "pi_name": "Staff",
     "pi_title": "Academics",
@@ -887,8 +887,8 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/people/staff.html",
-    "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass).",
-    "size": "unknown"
+    "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-02: reclassified faculty-no-lab: not a person -- a breadth-pass parsing artifact whose profile_url is the department's Staff page.",
+    "size": "n/a"
   },
   {
     "institution": "Boston College",
@@ -1139,7 +1139,7 @@
     "city": "Chestnut Hill, MA",
     "checked_on": "2026-10-28",
     "id": "bc-chemistry-jeffery-a-byers",
-    "kind": "research-lab",
+    "kind": "faculty-no-lab",
     "lab_name": null,
     "pi_name": "Jeffery A. Byers",
     "pi_title": "Professor of Chemistry",
@@ -1157,8 +1157,8 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/people/folder-for-memoriam/jeffery-byers.html",
-    "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass).",
-    "size": "unknown"
+    "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-02: reclassified faculty-no-lab: his profile page now sits in the department's 'Folder for Memoriam' section, so he no longer runs an active group here.",
+    "size": "n/a"
   },
   {
     "institution": "Boston College",
@@ -1220,7 +1220,7 @@
     "city": "Chestnut Hill, MA",
     "checked_on": "2026-10-28",
     "id": "bc-chemistry-neil-m-wolfman",
-    "kind": "research-lab",
+    "kind": "faculty-no-lab",
     "lab_name": null,
     "pi_name": "Neil M. Wolfman",
     "pi_title": "Professor of the Practice",
@@ -1238,8 +1238,8 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/people/folder-for-memoriam/neil-wolfman.html",
-    "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass).",
-    "size": "unknown"
+    "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-02: reclassified faculty-no-lab: his profile page (in the department's 'Folder for Memoriam') says he died in January 2020.",
+    "size": "n/a"
   },
   {
     "institution": "Boston College",
@@ -2088,7 +2088,7 @@
     "lab_name": null,
     "pi_name": "Cannon, Kasey",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "kasey.cannon@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -2102,7 +2102,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people/alumni/kasey-cannon.html",
-    "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass).",
+    "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -2115,7 +2115,7 @@
     "lab_name": null,
     "pi_name": "Seal, Dylan",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "dylan.seal@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -2129,7 +2129,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people/alumni/dylan-seal.html",
-    "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass).",
+    "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -2142,7 +2142,7 @@
     "lab_name": null,
     "pi_name": "Yoder, Margaret",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "margaret.yoder@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -2156,7 +2156,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people/alumni/margaret-yoder.html",
-    "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass).",
+    "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -2169,7 +2169,7 @@
     "lab_name": null,
     "pi_name": "Donnelly, Heather",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "heather.donnelly@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -2183,7 +2183,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people/alumni/heather-donnelly.html",
-    "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass).",
+    "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -2993,7 +2993,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/patricia-doherty.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: profile page shows no email address (plain and rendered).",
     "size": "unknown"
   },
   {
@@ -3006,7 +3006,7 @@
     "lab_name": null,
     "pi_name": "Christopher Bridgwood",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "christopher.bridgwood@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -3020,7 +3020,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/chris-bridgwood.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -3033,7 +3033,7 @@
     "lab_name": null,
     "pi_name": "Charles Carrano",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "charles.carrano@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -3047,7 +3047,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/charles-carrano.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -3060,7 +3060,7 @@
     "lab_name": null,
     "pi_name": "Dwight Decker",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "dwight.decker@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -3074,7 +3074,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/dwight-decker.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -3087,7 +3087,7 @@
     "lab_name": null,
     "pi_name": "Kathleen Kraemer",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "kathleen.kraemer@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -3101,7 +3101,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/kathleen-kraemer.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -3114,7 +3114,7 @@
     "lab_name": null,
     "pi_name": "Thomas Kuchar",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "thomas.kuchar@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -3128,7 +3128,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/thomas-kuchar.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -3141,7 +3141,7 @@
     "lab_name": null,
     "pi_name": "Shu Lai",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "laise@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -3155,7 +3155,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/shu-lai.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -3168,7 +3168,7 @@
     "lab_name": null,
     "pi_name": "Dale Levandier",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "dale.levandier@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -3182,7 +3182,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/dale-levandier.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -3195,7 +3195,7 @@
     "lab_name": null,
     "pi_name": "Kevin Martin",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "kevin.martin@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -3209,7 +3209,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/kevin-martin.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -3222,7 +3222,7 @@
     "lab_name": null,
     "pi_name": "John Williamson",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "john.williamson.2@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -3236,7 +3236,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/john-williamson.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -3249,7 +3249,7 @@
     "lab_name": null,
     "pi_name": "William McNeil",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "william.mcneil@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -3263,7 +3263,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/william-mcneil.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -3276,7 +3276,7 @@
     "lab_name": null,
     "pi_name": "Shawn Miller",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "shawn.miller@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -3290,7 +3290,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/shawn-miller.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -3303,7 +3303,7 @@
     "lab_name": null,
     "pi_name": "Thomas Miller",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "thomas.miller.3@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -3317,7 +3317,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/thomas-miller.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -3330,7 +3330,7 @@
     "lab_name": null,
     "pi_name": "Sean O'Connell",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "sean.oconnell.2@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -3344,7 +3344,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/sean-oconnell.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -3357,7 +3357,7 @@
     "lab_name": null,
     "pi_name": "Rezy Pradipta",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "rezy.pradipta@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -3371,7 +3371,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/rezy-pradipta.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -3384,7 +3384,7 @@
     "lab_name": null,
     "pi_name": "David Webb",
     "pi_title": null,
-    "pi_email": null,
+    "pi_email": "david.webb@bc.edu",
     "accepting_grad_students": null,
     "lab_website": null,
     "location": null,
@@ -3398,7 +3398,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/research/sites/institute-for-scientific-research/people/profiles/david-webb.html",
-    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page.",
+    "notes": "Breadth pass from ISR's People/Profiles page; the listing itself shows only names (no titles/emails) -- a later per-person pass would need to visit each profile page. Depth pass 2026-11-02: pi_email read from the profile page.",
     "size": "unknown"
   },
   {
@@ -5342,7 +5342,7 @@
     "join_page_url": null,
     "join_notes": null,
     "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/affiliated-and-emeritus/lisa-feldman-barrett.html",
-    "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass).",
+    "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no email address (plain and rendered).",
     "size": "unknown"
   },
   {
