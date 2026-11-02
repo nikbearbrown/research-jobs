@@ -1,0 +1,22 @@
+[
+ {
+  "source": "data/sources/tufts-ctsi.json",
+  "lab_id": "tufts-ctsi-harry-p-selker",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the Tufts CTSI institute homepage (a hub), not a PI group; count left null."
+ },
+ {
+  "source": "data/sources/tufts-epsilon.json",
+  "lab_id": "tufts-epsilon-laurent-pilon",
+  "fields": {
+   "member_count": null,
+   "members_page_url": null,
+   "join_page_url": null
+  },
+  "note": "lab_website is the Tufts Epsilon Materials Institute (a hub); people page only links leadership/affiliated faculty, no PI group roster; count left null."
+ }
+]

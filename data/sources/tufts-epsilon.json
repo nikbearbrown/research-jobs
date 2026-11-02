@@ -30,7 +30,7 @@
       "join_page_url": "https://epsilon.tufts.edu/people/open-positions",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Cross-cutting institute: its Affiliated Faculty (Timothy Atherton/Physics, Luisa Chiesa/MechE, Prashant Deshlahra/ChemBioEng, Nathaniel Eagan/ChemBioEng, Marc Hodes/MechE, Graham Leverick, and more) are PIs whose own labs are recorded under their home department's source file (tufts-physics, tufts-me, tufts-cbe) -- not duplicated here."
+      "notes": "Cross-cutting institute: its Affiliated Faculty (Timothy Atherton/Physics, Luisa Chiesa/MechE, Prashant Deshlahra/ChemBioEng, Nathaniel Eagan/ChemBioEng, Marc Hodes/MechE, Graham Leverick, and more) are PIs whose own labs are recorded under their home department's source file (tufts-physics, tufts-me, tufts-cbe) -- not duplicated here. Depth pass 2026-11-02: lab_website is the Tufts Epsilon Materials Institute (a hub); people page only links leadership/affiliated faculty, no PI group roster; count left null."
     }
   ],
   "non_lab_people": [],

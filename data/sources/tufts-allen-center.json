@@ -28,7 +28,7 @@
       "join_page_url": "https://allencenter.tufts.edu/opportunities/careers",
       "join_notes": null,
       "profile_url": "https://allencenter.tufts.edu/our-team/michael-levin/",
-      "notes": "Michael Levin's primary departmental appointment is Biology (see tufts-biology.json) and he is also an Investigator in tufts-insciDE.json -- this entry is specifically the Allen Discovery Center, a distinct funded center with its own large staff roster, not a duplicate."
+      "notes": "Michael Levin's primary departmental appointment is Biology (see tufts-biology.json) and he is also an Investigator in tufts-insciDE.json -- this entry is specifically the Allen Discovery Center, a distinct funded center with its own large staff roster, not a duplicate. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
     }
   ],
   "non_lab_people": [],
