@@ -1,0 +1,134 @@
+[
+ {
+  "source": "data/sources/northeastern-ccnr.json",
+  "lab_id": "northeastern-ccnr-albert-laszlo-barabasi",
+  "pi_name": "Albert-L\u00e1szl\u00f3 Barab\u00e1si",
+  "lab_website": "https://barabasi.com/",
+  "home_status": "200",
+  "people_url": null,
+  "join_url": null,
+  "home_text": "cache/_text/barabasi.com/index.txt",
+  "people_text": null
+ },
+ {
+  "source": "data/sources/northeastern-chemistry.json",
+  "lab_id": "northeastern-chemistry-laboratory-for-neuromodulation-and-neuromuscular-repair",
+  "pi_name": null,
+  "lab_website": "http://www.northeastern.edu/lnnr/",
+  "home_status": "200",
+  "people_url": null,
+  "join_url": null,
+  "home_text": "cache/_text/www.northeastern.edu/lnnr.txt",
+  "people_text": null
+ },
+ {
+  "source": "data/sources/northeastern-chemistry.json",
+  "lab_id": "northeastern-chemistry-thakur",
+  "pi_name": "Thakur",
+  "lab_website": "http://webpreview.coffeecup.com/",
+  "home_status": "200",
+  "people_url": null,
+  "join_url": null,
+  "home_text": null,
+  "people_text": null
+ },
+ {
+  "source": "data/sources/northeastern-icbh.json",
+  "lab_id": "northeastern-icbh-brie-reid",
+  "pi_name": "Brie M. Reid",
+  "lab_website": "http://www.reid-lab.com",
+  "home_status": "200",
+  "people_url": "http://www.reid-lab.com/people",
+  "join_url": "http://www.reid-lab.com/join",
+  "home_text": "cache/_text/www.reid-lab.com/index.txt",
+  "people_text": "cache/_text/www.reid-lab.com/people.txt"
+ },
+ {
+  "source": "data/sources/northeastern-icbh.json",
+  "lab_id": "northeastern-icbh-joshua-curtiss",
+  "pi_name": "Joshua Curtiss",
+  "lab_website": "https://joshua-curtiss.github.io/",
+  "home_status": "200",
+  "people_url": null,
+  "join_url": "https://joshua-curtiss.github.io/research_staff.html",
+  "home_text": "cache/_text/joshua-curtiss.github.io/index.txt",
+  "people_text": null
+ },
+ {
+  "source": "data/sources/northeastern-mes.json",
+  "lab_id": "northeastern-mes-coastal-sustainability-institute-at-the-marine-science-center",
+  "pi_name": null,
+  "lab_website": "https://csi.northeastern.edu",
+  "home_status": "200",
+  "people_url": "https://csi.northeastern.edu/people/",
+  "join_url": null,
+  "home_text": "cache/_text/csi.northeastern.edu/index.txt",
+  "people_text": "cache/_text/csi.northeastern.edu/people.txt"
+ },
+ {
+  "source": "data/sources/northeastern-qmsi.json",
+  "lab_id": "northeastern-qmsi-arun-bansil",
+  "pi_name": "Arun Bansil",
+  "lab_website": "https://cos.northeastern.edu/people/arun-bansil/",
+  "home_status": "200",
+  "people_url": "https://cos.northeastern.edu/about/",
+  "join_url": "https://cos.northeastern.edu/admissions/",
+  "home_text": "cache/_text/cos.northeastern.edu/people-arun-bansil.txt",
+  "people_text": "cache/_text/cos.northeastern.edu/about.txt"
+ },
+ {
+  "source": "data/sources/northeastern-qmsi.json",
+  "lab_id": "northeastern-qmsi-swastik-kar",
+  "pi_name": "Swastik Kar",
+  "lab_website": "https://swastik.sites.northeastern.edu/",
+  "home_status": "200",
+  "people_url": "https://swastik.sites.northeastern.edu/people/",
+  "join_url": null,
+  "home_text": "cache/_text/swastik.sites.northeastern.edu/index.txt",
+  "people_text": "cache/_text/swastik.sites.northeastern.edu/people.txt"
+ },
+ {
+  "source": "data/sources/northeastern-ssehri.json",
+  "lab_id": "northeastern-ssehri-phil-brown",
+  "pi_name": "Phil Brown",
+  "lab_website": "https://cssh.northeastern.edu/ssehri/pfas-lab/",
+  "home_status": "200",
+  "people_url": "https://cssh.northeastern.edu/ssehri/members/",
+  "join_url": "https://cssh.northeastern.edu/ssehri/prospective-students/",
+  "home_text": "cache/_text/cssh.northeastern.edu/ssehri-pfas-lab.txt",
+  "people_text": "cache/_text/cssh.northeastern.edu/ssehri-members.txt"
+ },
+ {
+  "source": "data/sources/northeastern-ssehri.json",
+  "lab_id": "northeastern-ssehri-julia-varshavsky",
+  "pi_name": "Julia Varshavsky",
+  "lab_website": "https://cssh.northeastern.edu/ssehri/varshavsky-lab/",
+  "home_status": "200",
+  "people_url": "https://cssh.northeastern.edu/ssehri/members/",
+  "join_url": "https://cssh.northeastern.edu/ssehri/prospective-students/",
+  "home_text": "cache/_text/cssh.northeastern.edu/ssehri-varshavsky-lab.txt",
+  "people_text": "cache/_text/cssh.northeastern.edu/ssehri-members.txt"
+ },
+ {
+  "source": "data/sources/tufts-ctsi.json",
+  "lab_id": "tufts-ctsi-harry-p-selker",
+  "pi_name": "Harry P. Selker",
+  "lab_website": "https://www.tuftsctsi.org/",
+  "home_status": "200",
+  "people_url": null,
+  "join_url": "https://www.tuftsctsi.org/funding-opportunities/",
+  "home_text": "cache/_text/www.tuftsctsi.org/index.txt",
+  "people_text": null
+ },
+ {
+  "source": "data/sources/tufts-epsilon.json",
+  "lab_id": "tufts-epsilon-laurent-pilon",
+  "pi_name": "Laurent Pilon",
+  "lab_website": "https://epsilon.tufts.edu/",
+  "home_status": "200",
+  "people_url": "https://epsilon.tufts.edu/people",
+  "join_url": "https://epsilon.tufts.edu/people/open-positions",
+  "home_text": "cache/_text/epsilon.tufts.edu/index.txt",
+  "people_text": "cache/_text/epsilon.tufts.edu/people.txt"
+ }
+]
