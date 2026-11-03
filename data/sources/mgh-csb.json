@@ -22,13 +22,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 5 postdocs/research fellows, 1 grad student",
+      "members_page_url": "https://csb.mgh.harvard.edu/aaron_aguirre/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://csb.mgh.harvard.edu/aaron_aguirre",
-      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-03: Counted the lab's People tab on the CSB site (fetched), excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-csb-cesar-castro",
@@ -44,13 +44,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 3 postdocs, 1 research assistant, 1 research technician, 2 undergrad interns",
+      "members_page_url": "https://csb.mgh.harvard.edu/cesar_castro/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://csb.mgh.harvard.edu/cesar_castro",
-      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-03: Counted the lab's People tab on the CSB site (fetched), excluding Collaborators; alumni on separate page. Several members are also listed on the Lee/Im lab pages."
     },
     {
       "id": "mgh-csb-carlson",
@@ -66,13 +66,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 3 postdocs, 3 research assistants, 2 research technicians",
+      "members_page_url": "https://csb.mgh.harvard.edu/carlson/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://csb.mgh.harvard.edu/carlson",
-      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-03: Counted the lab's People tab on the CSB site (fetched), excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-csb-garris",
@@ -88,13 +88,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 postdoc, 1 grad student",
+      "members_page_url": "https://csb.mgh.harvard.edu/garris/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://csb.mgh.harvard.edu/garris",
-      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-03: Counted the lab's People tab on the CSB site (fetched), excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-csb-john-higgins",
@@ -110,13 +110,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 1 instructor, 6 postdocs, 7 staff (technologists, data analysts), 2 grad students",
+      "members_page_url": "https://csb.mgh.harvard.edu/john_higgins/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://csb.mgh.harvard.edu/john_higgins",
-      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-03: Counted the lab's People tab on the CSB site (fetched), excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-csb-hulsmans",
@@ -132,13 +132,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 postdocs",
+      "members_page_url": "https://csb.mgh.harvard.edu/hulsmans/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://csb.mgh.harvard.edu/hulsmans",
-      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-03: Counted the lab's People tab on the CSB site (fetched), excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-csb-hwang",
@@ -154,13 +154,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 26,
+      "member_breakdown": "1 PI, 1 instructor, 5 postdocs, 3 staff, 13 students, 2 interns, 1 visiting scientist",
+      "members_page_url": "https://csb.mgh.harvard.edu/hwang/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://csb.mgh.harvard.edu/hwang",
-      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-03: Counted the lab's People tab on the CSB site (fetched), excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-csb-hyungsoon-im",
@@ -176,13 +176,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 5 postdocs, 2 undergrad interns, 2 visiting scientists",
+      "members_page_url": "https://csb.mgh.harvard.edu/hyungsoon_im/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://csb.mgh.harvard.edu/hyungsoon_im",
-      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-03: Counted the lab's People tab on the CSB site (fetched), excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-csb-hakho-lee",
@@ -198,13 +198,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 8 postdocs, 3 grad students, 2 visiting faculty",
+      "members_page_url": "https://csb.mgh.harvard.edu/hakho_lee/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://csb.mgh.harvard.edu/hakho_lee",
-      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-03: Counted the lab's People tab on the CSB site (fetched), excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-csb-charles-lin",
@@ -220,13 +220,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 instructor, 3 postdocs, 1 staff scientist",
+      "members_page_url": "https://csb.mgh.harvard.edu/charles_lin/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://csb.mgh.harvard.edu/charles_lin",
-      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-03: Counted the lab's People tab on the CSB site (fetched), excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-csb-miller",
@@ -242,13 +242,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 instructor, 1 assistant professor, 4 postdocs, 1 research assistant, 2 research technicians",
+      "members_page_url": "https://csb.mgh.harvard.edu/miller/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://csb.mgh.harvard.edu/miller",
-      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-03: Counted the lab's People tab on the CSB site (fetched), excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-csb-matthias-nahrendorf",
@@ -264,13 +264,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 19,
+      "member_breakdown": "1 PI, 2 other faculty (instructor, professor of neurology), 11 postdocs, 2 research assistants, 3 staff",
+      "members_page_url": "https://csb.mgh.harvard.edu/nahrendorf/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://csb.mgh.harvard.edu/nahrendorf",
-      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-03: Counted the lab's People tab on the CSB site (fetched), excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-csb-ralph-weissleder",
@@ -286,13 +286,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 2 other faculty (instructor, assistant professor), 6 postdocs/fellows, 2 staff",
+      "members_page_url": "https://csb.mgh.harvard.edu/weissleder/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://csb.mgh.harvard.edu/weissleder",
-      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Lab name and PI identified from CSB's homepage 'Laboratories' nav list and lab-page URL slug; full name confirmed only where the slug itself includes it (e.g. 'aaron_aguirre') -- for single-surname slugs (Carlson, Garris, Hulsmans, Hwang, Miller), only the surname is confirmed; first name not read from the individual lab page in this pass. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-03: Counted the lab's People tab on the CSB site (fetched), excluding Collaborators; alumni on separate page."
     }
   ],
   "non_lab_people": [],

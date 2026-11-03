@@ -102,7 +102,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/hrvatin",
-      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile. Depth pass 2026-11-03: Cached lab site returned a 403 Forbidden page; not retried, size null."
     },
     {
       "id": "whitehead-rudolf-jaenisch",
@@ -121,7 +121,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/jaenisch",
-      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-03: Cached lab site returned a 403 Forbidden page; not retried, size null."
     },
     {
       "id": "whitehead-ankur-jain",
@@ -197,7 +197,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/lodish",
-      "notes": "Lab website's Members page lists a PI plus 13 names (2 administrative staff, 2 technical assistants, 7 postdoctoral associates/fellows, 1 graduate student), but the site footer says 'This website was last updated on 29th August 2015', consistent with the department profile's label 'The Lodish Lab (1968-2019)'. member_count left null because this roster is over a decade stale and the lab appears no longer active; not treated as a current count. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Lab website's Members page lists a PI plus 13 names (2 administrative staff, 2 technical assistants, 7 postdoctoral associates/fellows, 1 graduate student), but the site footer says 'This website was last updated on 29th August 2015', consistent with the department profile's label 'The Lodish Lab (1968-2019)'. member_count left null because this roster is over a decade stale and the lab appears no longer active; not treated as a current count. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-03: Lab Members page lists 15 people but site says it was last updated 29 August 2015, so current size unknown; left null."
     },
     {
       "id": "whitehead-sebastian-lourido",
@@ -216,7 +216,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/lourido",
-      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile. Depth pass 2026-11-03: Cached lab site returned a 403 Forbidden page; not retried, size null."
     },
     {
       "id": "whitehead-david-page",
@@ -254,7 +254,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/reddien",
-      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-03: Cached lab site returned a 403 Forbidden page; not retried, size null."
     },
     {
       "id": "whitehead-zuri-sullivan",
@@ -311,7 +311,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/weinberg",
-      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile. Depth pass 2026-11-03: Cached lab site returned a 403 Forbidden page; not retried, size null."
     },
     {
       "id": "whitehead-jonathan-weissman",
@@ -349,7 +349,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/yamashita",
-      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile. Depth pass 2026-11-03: Cached lab site returned a 403 Forbidden page; not retried, size null."
     },
     {
       "id": "whitehead-richard-young",
@@ -362,13 +362,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies how gene expression is controlled in healthy cells and how that control fails in diseases such as cancer.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 20,
+      "member_breakdown": "1 PI, 1 research scientist, 11 postdocs, 3 grad students, 1 technical assistant, 1 technical associate, 1 visiting scientist, 1 admin assistant",
+      "members_page_url": "http://younglab.wi.mit.edu/",
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/young",
-      "notes": "Lab website read via scripted fetch. The page lists an 'Alumni' heading followed by subsections (Postdoctoral Associates and Fellows, Graduate Students, Technical Assistants, Visiting Scientists) and then four more names (Richard A. Young as PI, plus a Research Scientist, an Administrative Lab Assistant, and a Technical Associate) -- it is not clear from the page structure whether only those last four are current members or whether the 'Alumni' heading applies to a narrower set. Left member_count null rather than guess; a clearer current-roster page was not found."
+      "notes": "Lab website read via scripted fetch. The page lists an 'Alumni' heading followed by subsections (Postdoctoral Associates and Fellows, Graduate Students, Technical Assistants, Visiting Scientists) and then four more names (Richard A. Young as PI, plus a Research Scientist, an Administrative Lab Assistant, and a Technical Associate) -- it is not clear from the page structure whether only those last four are current members or whether the 'Alumni' heading applies to a narrower set. Left member_count null rather than guess; a clearer current-roster page was not found. Depth pass 2026-11-03: Counted 'Youngsters' section on home page; the 'Alumni' label there is a link to a separate alumni page."
     },
     {
       "id": "whitehead-lindsey-backman",
@@ -407,7 +407,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/fellow/hamilos",
-      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile."
+      "notes": "Lab website returns 403 Forbidden to automated fetches (tried both plain HTTP and Playwright) -- appears to be a bot/robot-challenge screen on this self-hosted wi.mit.edu lab site, not a simple permission prompt. Could not read member roster, join info, or confirm contact details beyond the department profile. Depth pass 2026-11-03: Cached lab site returned a 403 Forbidden page; not retried, size null."
     },
     {
       "id": "whitehead-tobiloba-oni",

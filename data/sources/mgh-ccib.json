@@ -23,13 +23,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 DNA core director, 1 research team leader, 1 senior research tech, 1 lab manager, 1 project coordinator, 1 bioinformatics specialist",
+      "members_page_url": "http://ccib.mgh.harvard.edu/seed",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from CCIB's Faculty page (small, single-page list, 11 PIs)."
+      "notes": "Breadth pass from CCIB's Faculty page (small, single-page list, 11 PIs). Depth pass 2026-11-03: Counted Seed Lab Team on CCIB page plus PI; stopped at Former Team Members."
     },
     {
       "id": "mgh-ccib-christopher-smillie",
@@ -45,13 +45,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 research fellow, 2 grad students",
+      "members_page_url": "http://ccib.mgh.harvard.edu/smillie",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from CCIB's Faculty page (small, single-page list, 11 PIs)."
+      "notes": "Breadth pass from CCIB's Faculty page (small, single-page list, 11 PIs). Depth pass 2026-11-03: Counted Smillie Lab Team on CCIB page plus PI; stopped at Former Team Members."
     },
     {
       "id": "mgh-ccib-deborah-hung",
@@ -67,13 +67,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 2 research scientists, 3 research fellows, 2 grad students, 1 undergrad, 1 research technician, 1 unlisted role",
+      "members_page_url": "http://ccib.mgh.harvard.edu/hung",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from CCIB's Faculty page (small, single-page list, 11 PIs)."
+      "notes": "Breadth pass from CCIB's Faculty page (small, single-page list, 11 PIs). Depth pass 2026-11-03: Counted Hung Lab Team on CCIB page plus PI; stopped at Former Team Members."
     },
     {
       "id": "mgh-ccib-gary-ruvkun",
@@ -89,13 +89,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 3 research fellows, 2 senior research associates, 2 unlisted roles",
+      "members_page_url": "http://ccib.mgh.harvard.edu/ruvkun",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from CCIB's Faculty page (small, single-page list, 11 PIs)."
+      "notes": "Breadth pass from CCIB's Faculty page (small, single-page list, 11 PIs). Depth pass 2026-11-03: Counted Ruvkun Lab Team on CCIB page plus PI; stopped at Former Team Members."
     },
     {
       "id": "mgh-ccib-jen-sheen",
@@ -108,16 +108,16 @@
       "lab_website": "http://ccib.mgh.harvard.edu/sheen",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Pauline Lim",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 4 research fellows, 5 assistants in molecular biology, 1 research scientist, 2 visiting scientists, 1 greenhouse manager, 1 lab coordinator",
+      "members_page_url": "http://ccib.mgh.harvard.edu/sheen",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from CCIB's Faculty page (small, single-page list, 11 PIs)."
+      "notes": "Breadth pass from CCIB's Faculty page (small, single-page list, 11 PIs). Depth pass 2026-11-03: Counted Sheen Lab Team on CCIB page plus PI; one listed visitor also appears under former members, and the MGH Mol Bio directory lists fewer (9)."
     },
     {
       "id": "mgh-ccib-jonathan-strecker",

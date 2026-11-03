@@ -23,13 +23,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 2 associate faculty, 6 fellows/residents, 1 grad student, 1 admin",
+      "members_page_url": "https://wellman.massgeneral.org/aaron_aguirre/people",
+      "join_page_url": "https://wellman.massgeneral.org/information/careers",
       "join_notes": null,
       "profile_url": "https://wellman.massgeneral.org/aaron_aguirre",
-      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty."
+      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-03: Counted Wellman lab People page, excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-wellman-rox-anderson",
@@ -45,13 +45,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 34,
+      "member_breakdown": "1 PI (Wellman director), 10 associate faculty, 9 fellows, 2 students, 9 technical staff, 3 admin",
+      "members_page_url": "https://wellman.massgeneral.org/rox_anderson/people",
+      "join_page_url": "https://wellman.massgeneral.org/information/careers",
       "join_notes": null,
       "profile_url": "https://wellman.massgeneral.org/rox_anderson",
-      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty."
+      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-03: Counted Wellman lab People page, excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-wellman-brett-bouma",
@@ -67,17 +67,17 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 28,
+      "member_breakdown": "1 PI, 3 associate faculty, 5 fellows, 14 students, 4 technical staff, 1 admin",
+      "members_page_url": "https://wellman.massgeneral.org/brett_bouma/people",
+      "join_page_url": "https://wellman.massgeneral.org/information/careers",
       "join_notes": null,
       "profile_url": "https://wellman.massgeneral.org/brett_bouma",
-      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty."
+      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-03: Counted Wellman lab People page, excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-wellman-lynn-drake",
-      "kind": "research-lab",
+      "kind": "faculty-no-lab",
       "lab_name": null,
       "pi_name": "Lynn Drake, MD, FAAD",
       "pi_title": "Director of Business Development",
@@ -92,10 +92,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://wellman.massgeneral.org/information/careers",
       "join_notes": null,
       "profile_url": "https://wellman.massgeneral.org/lynn_drake",
-      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty."
+      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-03: Own Wellman page describes her as Director of Business Development (dermatology faculty, HMS lecturer) and mentions no lab; her 'people' link is Wellman's operations team, so marked faculty-no-lab."
     },
     {
       "id": "mgh-wellman-conor-evans",
@@ -111,13 +111,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 5 fellows, 2 students, 5 technical staff, 1 admin",
+      "members_page_url": "https://wellman.massgeneral.org/conor_evans/people",
+      "join_page_url": "https://wellman.massgeneral.org/information/careers",
       "join_notes": null,
       "profile_url": "https://wellman.massgeneral.org/conor_evans",
-      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty."
+      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-03: Counted Wellman lab People page, excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-wellman-tayyaba-hasan",
@@ -133,13 +133,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 2 instructors, 4 fellows, 2 technical staff, 2 admin",
+      "members_page_url": "https://wellman.massgeneral.org/tayyaba_hasan/people",
+      "join_page_url": "https://wellman.massgeneral.org/information/careers",
       "join_notes": null,
       "profile_url": "https://wellman.massgeneral.org/tayyaba_hasan",
-      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty."
+      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-03: Counted Wellman lab People page, excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-wellman-charles-lin",
@@ -155,13 +155,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 2 instructors, 4 fellows, 5 technical staff, 1 admin",
+      "members_page_url": "https://wellman.massgeneral.org/charles_lin/people",
+      "join_page_url": "https://wellman.massgeneral.org/information/careers",
       "join_notes": null,
       "profile_url": "https://wellman.massgeneral.org/charles_lin",
-      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty."
+      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-03: Counted Wellman lab People page, excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-wellman-seemantini-nadkarni",
@@ -177,13 +177,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 fellows, 3 technical staff, 1 admin",
+      "members_page_url": "https://wellman.massgeneral.org/seemantini_nadkarni/people",
+      "join_page_url": "https://wellman.massgeneral.org/information/careers",
       "join_notes": null,
       "profile_url": "https://wellman.massgeneral.org/seemantini_nadkarni",
-      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty."
+      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-03: Counted Wellman lab People page, excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-wellman-robert-redmond",
@@ -199,13 +199,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 associate faculty, 1 fellow, 1 student, 1 technician, 1 admin (shared)",
+      "members_page_url": "https://wellman.massgeneral.org/robert_redmond/people",
+      "join_page_url": "https://wellman.massgeneral.org/information/careers",
       "join_notes": null,
       "profile_url": "https://wellman.massgeneral.org/robert_redmond",
-      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty."
+      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-03: Counted Wellman lab People page, excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-wellman-guillermo-tearney",
@@ -221,13 +221,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 46,
+      "member_breakdown": "1 PI, 2 instructors, 5 fellows, 3 students, 33 technical/engineering/clinical staff, 2 admin",
+      "members_page_url": "https://wellman.massgeneral.org/guillermo_tearney/people",
+      "join_page_url": "https://wellman.massgeneral.org/information/careers",
       "join_notes": null,
       "profile_url": "https://wellman.massgeneral.org/guillermo_tearney",
-      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-03: Counted Wellman lab People page, excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-wellman-hensin-tsao",
@@ -243,13 +243,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 fellow, 2 students, 3 technical staff, 1 admin (shared)",
+      "members_page_url": "https://wellman.massgeneral.org/hensin_tsao/people",
+      "join_page_url": "https://wellman.massgeneral.org/information/careers",
       "join_notes": null,
       "profile_url": "https://wellman.massgeneral.org/hensin_tsao",
-      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty."
+      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-03: Counted Wellman lab People page, excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-wellman-ben-vakoc",
@@ -265,13 +265,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 instructor, 3 fellows, 1 grad student, 3 technical staff, 1 admin (shared)",
+      "members_page_url": "https://wellman.massgeneral.org/ben_vakoc/people",
+      "join_page_url": "https://wellman.massgeneral.org/information/careers",
       "join_notes": null,
       "profile_url": "https://wellman.massgeneral.org/ben_vakoc",
-      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty."
+      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-03: Counted Wellman lab People page, excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-wellman-mei-x-wu",
@@ -287,13 +287,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 instructor, 4 fellows, 1 researcher, 1 admin (shared)",
+      "members_page_url": "https://wellman.massgeneral.org/mei_x_wu/people",
+      "join_page_url": "https://wellman.massgeneral.org/information/careers",
       "join_notes": null,
       "profile_url": "https://wellman.massgeneral.org/mei_x_wu",
-      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty."
+      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-03: Counted Wellman lab People page, excluding Collaborators; alumni on separate page."
     },
     {
       "id": "mgh-wellman-seok-hyun-andy-yun",
@@ -309,13 +309,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 18,
+      "member_breakdown": "1 PI, 5 associate faculty, 7 fellows/residents, 2 students, 2 technical staff, 1 admin",
+      "members_page_url": "https://wellman.massgeneral.org/seok_hyun_yun/people",
+      "join_page_url": "https://wellman.massgeneral.org/information/careers",
       "join_notes": null,
       "profile_url": "https://wellman.massgeneral.org/seok_hyun_yun",
-      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty."
+      "notes": "Breadth pass from Wellman Center's Faculty (Senior) page, rendered via Playwright; PI emails matched 1:1 from the page's mailto: links in listed order. Lynn Drake has no separately named lab (Director of Business Development, not research faculty) but is listed under Faculty -- kept here since the page itself lists her as faculty. Depth pass 2026-11-03: Counted Wellman lab People page, excluding Collaborators; alumni on separate page."
     }
   ],
   "non_lab_people": [],

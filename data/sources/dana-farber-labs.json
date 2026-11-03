@@ -25,10 +25,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "join_page_url": "https://labs.dana-farber.org/abellab/join-us",
+      "join_notes": "Join page says the lab is looking for postdoctoral fellows in cancer-related ethics research; contact via the lab's contact page, then send CV and cover letter.",
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: No people/team page in the site navigation (Home, Research, Projects, Publications, Funding, Support, Join, Contact); count not shown."
     },
     {
       "id": "dana-farber-labs-suneet-agarwal",
@@ -36,21 +36,21 @@
       "lab_name": "Suneet Agarwal Lab",
       "pi_name": "Suneet Agarwal",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "Suneet.Agarwal@childrens.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.suneetagarwallab.com/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Shakowa Neal",
+      "admin_email": "shakowa.neal@childrens.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 program coordinator, 1 scientist, 3 postdocs, 1 lab manager, 1 grad student",
+      "members_page_url": "https://www.suneetagarwallab.com/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Current Lab Members. PI email shown in [AT] form."
     },
     {
       "id": "dana-farber-labs-judith-agudo",
@@ -58,7 +58,7 @@
       "lab_name": "Judith Agudo Lab",
       "pi_name": "Judith Agudo",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "judith_agudo@dfci.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://labs.dana-farber.org/agudolab/",
       "location": null,
@@ -66,13 +66,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 5 research fellows, 4 graduate students, 1 research technician",
+      "members_page_url": "https://labs.dana-farber.org/agudolab/people",
+      "join_page_url": "https://labs.dana-farber.org/agudolab/contact/opportunities",
+      "join_notes": "Opportunities page: interested candidates should contact the PI directly by email.",
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted 'People - Team' on the Who We Are page, stopping at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-andrew-aguirre",
@@ -85,16 +85,16 @@
       "lab_website": "https://labs.dana-farber.org/aguirrelab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Cindy Claros",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 20,
+      "member_breakdown": "1 PI, 7 postdoctoral/medical oncology fellows, 3 scientists, 5 research technicians, 3 graduate students, 1 administrative specialist",
+      "members_page_url": "https://labs.dana-farber.org/aguirrelab/people",
+      "join_page_url": "https://labs.dana-farber.org/aguirrelab/people/join-us",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the main roster on the People page; excluded 5 'Affiliated Members' and the Alumni section."
     },
     {
       "id": "dana-farber-labs-scott-armstrong",
@@ -102,21 +102,21 @@
       "lab_name": "Scott Armstrong Lab",
       "pi_name": "Scott Armstrong",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "Scott_Armstrong@dfci.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.armstronglab.org/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Jessica Brady",
+      "admin_email": "jessicaS_brady@dfci.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 18,
+      "member_breakdown": "1 PI, 1 administrative assistant, 3 scientists (incl. lab manager), 11 research fellows, 2 research technicians",
+      "members_page_url": "https://www.armstronglab.org/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted The Armstrong Lab list; alumni listed separately."
     },
     {
       "id": "dana-farber-labs-haribabu-arthanari",
@@ -132,13 +132,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 15 current members (roles not listed)",
+      "members_page_url": "https://labs.dana-farber.org/artlab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus 'Current Members' on the People page, stopping at Past Members."
     },
     {
       "id": "dana-farber-labs-desiree-azizoddin",
@@ -154,13 +154,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 postdoctoral fellow, 3 research assistants, 1 biostatistician, 2 research interns",
+      "members_page_url": "https://labs.dana-farber.org/azizoddinlab/lab-team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Lab Team page, stopping at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-sylvan-baca",
@@ -176,13 +176,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 15 mentees (postdocs, physicians, PhD and MS students)",
+      "members_page_url": "https://labs.dana-farber.org/bacalab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus 'Baca Lab Mentees' on the People page, stopping at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-pratiti-mimi-bandopadhayay",
@@ -198,13 +198,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 23,
+      "member_breakdown": "1 PI, 7 postdocs, 7 research associates, 2 scientists, 1 lab manager, 1 computational biologist, 1 director of strategic operations, 2 grad students (incl. 1 rotating), 1 affiliated faculty",
+      "members_page_url": "https://bandolab.org/bandopadhayay/members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Cached page was the PI bio; counted the Members page (several members shared with Beroukhim lab)."
     },
     {
       "id": "dana-farber-labs-david-barbie",
@@ -220,13 +220,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 9 postdoctoral fellows, 2 graduate students (1 PhD, 1 master's), 1 senior research technician",
+      "members_page_url": "https://labs.dana-farber.org/barbielab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted People page sections, stopping at Barbie Lab Alumni."
     },
     {
       "id": "dana-farber-labs-himisha-beltran",
@@ -239,16 +239,16 @@
       "lab_website": "https://labs.dana-farber.org/beltranlab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Candi Deblay",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 2 instructors, 5 research fellows, 2 research technicians, 1 computational biologist, 1 senior program administrator, 2 interns, 1 research associate",
+      "members_page_url": "https://labs.dana-farber.org/beltranlab/lab-team",
+      "join_page_url": "https://labs.dana-farber.org/beltranlab/join-us",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the Lab Team page."
     },
     {
       "id": "dana-farber-labs-bradley-bernstein",
@@ -264,13 +264,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 27,
+      "member_breakdown": "1 PI, 11 research fellows, 3 PhD students, 4 research technicians, 2 operations staff (incl. lab manager); plus 6-person Broad Institute team (associate directors, postdoc, coordinators)",
+      "members_page_url": "https://labs.dana-farber.org/bernsteinlab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the People page including its 'Broad Institute Team' section (21 at DFCI + 6 Broad)."
     },
     {
       "id": "dana-farber-labs-rameen-beroukhim",
@@ -286,13 +286,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 21,
+      "member_breakdown": "1 PI, 8 research fellows, 6 students, 6 scientific staff",
+      "members_page_url": "https://beroukhimlab.org/people/",
+      "join_page_url": "https://beroukhimlab.org/featured-content/developing-and-applying-computational-methods-to-analyze-large-genomic-datasets/",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted People page (excluded the joke entry 'Dr. Ramen', an office rug); alumni on separate page."
     },
     {
       "id": "dana-farber-labs-giada-bianchi",
@@ -308,13 +308,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "8 current lab members incl. PI (roles not listed)",
+      "members_page_url": "https://labs.dana-farber.org/bianchilab/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted 'Current Lab Members' on the Team page, stopping at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-stephen-blacklow",
@@ -322,7 +322,7 @@
       "lab_name": "Stephen Blacklow Lab",
       "pi_name": "Stephen Blacklow",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "Stephen_Blacklow@hms.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://bcmp.hms.harvard.edu/faculty-staff/stephen-charles-blacklow",
       "location": null,
@@ -330,13 +330,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 5 postdocs, 2 research associates, 3 grad students, 1 executive assistant",
+      "members_page_url": "https://blacklow.hms.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Dept faculty page links the Blacklow lab site; counted its People list, stopped at Alumni."
     },
     {
       "id": "dana-farber-labs-kira-bona",
@@ -352,13 +352,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 19,
+      "member_breakdown": "1 PI, 18 lab members (faculty/instructors, fellows, postdocs, statistician, research managers and coordinators, parent peer navigators, medical student)",
+      "members_page_url": "https://labs.dana-farber.org/bonalab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus 'Lab Members' on the People page, stopping at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-jennifer-brown",
@@ -374,13 +374,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 2 instructors, 1 postdoc, 1 scientist, 1 lab manager, 1 senior research technician, 1 nurse practitioner",
+      "members_page_url": "https://labs.dana-farber.org/brownlab/our-team",
+      "join_page_url": "https://labs.dana-farber.org/brownlab/current-opportunities",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Research Team and Clinical Team on the Our Team page, stopping at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-myles-brown",
@@ -396,13 +396,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 5 postdoctoral fellows, 1 lab manager, 1 research technician",
+      "members_page_url": "https://labs.dana-farber.org/mylesbrownlab/people/current-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Cached People page was nav-only; counted the Current Members subpage plus the PI."
     },
     {
       "id": "dana-farber-labs-sara-buhrlage",
@@ -418,13 +418,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 scientists, 2 postdoctoral fellows, 5 graduate students",
+      "members_page_url": "https://labs.dana-farber.org/buhrlagelab/people/lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the Lab Members page."
     },
     {
       "id": "dana-farber-labs-kathleen-burns",
@@ -440,13 +440,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 2 scientists, 5 postdoctoral/ACS fellows, 2 instructors, 3 PhD candidates",
+      "members_page_url": "https://labs.dana-farber.org/burnslab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus 'Current Lab Members' on the Team page, stopping at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-jose-cancelas",
@@ -462,13 +462,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "8 lab members incl. PI (roles not listed), 2 summer students",
+      "members_page_url": "https://labs.dana-farber.org/cancelaslab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted 'Meet the Cancelas Lab Members' plus 2 listed summer students on the Team page, stopping at Alumni."
     },
     {
       "id": "dana-farber-labs-lew-cantley",
@@ -484,13 +484,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 2 instructors, 3 postdoctoral researchers, 1 PhD student, 1 lab manager",
+      "members_page_url": "https://labs.dana-farber.org/cantleylab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus Current Members on the People page."
     },
     {
       "id": "dana-farber-labs-ruben-carrasco",
@@ -503,16 +503,16 @@
       "lab_website": "https://labs.dana-farber.org/carrascolab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Abigail Ossip",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 postdoctoral fellow, 2 research technicians, 2 visiting scientists, 1 computational scientist, 1 administrative support specialist",
+      "members_page_url": "https://labs.dana-farber.org/carrascolab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted People page sections, excluding collaborators and alumni."
     },
     {
       "id": "dana-farber-labs-edward-chouchani",
@@ -520,21 +520,21 @@
       "lab_name": "Edward Chouchani Lab",
       "pi_name": "Edward Chouchani",
       "pi_title": null,
-      "pi_email": null,
-      "accepting_grad_students": null,
+      "pi_email": "edwardt_chouchani@dfci.harvard.edu",
+      "accepting_grad_students": true,
       "lab_website": "https://labs.dana-farber.org/chouchanilab/",
       "location": null,
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 19,
+      "member_breakdown": "1 PI, 11 postdoctoral fellows (incl. 1 heme/onc fellow), 3 PhD students, 3 research technicians, 1 lab manager",
+      "members_page_url": "https://labs.dana-farber.org/chouchanilab/people",
+      "join_page_url": "https://labs.dana-farber.org/chouchanilab/join",
+      "join_notes": "Join page: postdocs email the PI with cover letter, CV and three references; HMS grad students and Harvard undergrads email the PI; outside students apply via Harvard BBS.",
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted People page, stopping at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-toni-k-choueiri",
@@ -547,16 +547,16 @@
       "lab_website": "https://labs.dana-farber.org/choueirilab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Shervonne Coney",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 24,
+      "member_breakdown": "1 PI, 1 administrative assistant, 1 lead scientist, 1 computational biologist, 16 postdoctoral/research fellows, 3 technicians, 1 clinical research coordinator",
+      "members_page_url": "https://labs.dana-farber.org/choueirilab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the People page."
     },
     {
       "id": "dana-farber-labs-dipanjan-chowdhury",
@@ -569,16 +569,16 @@
       "lab_website": "https://labs.dana-farber.org/chowdhurylab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Naomi Fyhr",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 7 postdoctoral fellows, 3 scientists/instructor, 4 research technicians, 1 lab manager, 1 administrative assistant",
+      "members_page_url": "https://labs.dana-farber.org/chowdhurylab/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the Team page, stopping at Chowdhury Lab Alumni."
     },
     {
       "id": "dana-farber-labs-ryan-collins-genomics",
@@ -591,16 +591,16 @@
       "lab_website": "https://labs.dana-farber.org/collins-genomics/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Alli Chapdelaine",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 3 postdoctoral fellows, 1 clinical fellow, 4 computational biologists, 1 undergraduate intern, 2 administrative staff",
+      "members_page_url": "https://labs.dana-farber.org/collins-genomics/people",
+      "join_page_url": "https://labs.dana-farber.org/collins-genomics/people/next-member-cgl-you",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted 'Current CGL members' plus 'CGL admin' (incl. PI) on the People page; several members are joint with other labs."
     },
     {
       "id": "dana-farber-labs-nika-danial",
@@ -609,20 +609,20 @@
       "pi_name": "Nika Danial",
       "pi_title": null,
       "pi_email": null,
-      "accepting_grad_students": null,
+      "accepting_grad_students": true,
       "lab_website": "https://www.daniallab-dana-farber.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 5 postdocs, 1 lab technician, 1 grad student, 1 undergraduate",
+      "members_page_url": "https://www.daniallab-dana-farber.org/meet-the-team",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Seeking postdocs and students; send CV and cover letter to Nika Danial via the site's email link.",
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Meet the Team, stopped at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-matthew-davids",
@@ -638,13 +638,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 associate professor, 1 instructor, 2 scientists, 3 postdoctoral fellows, 3 research technicians, 1 lab manager, 1 student researcher",
+      "members_page_url": "https://labs.dana-farber.org/davidslab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted 'Davids Lab Current Members' on the People page."
     },
     {
       "id": "dana-farber-labs-james-decaprio",
@@ -657,16 +657,16 @@
       "lab_website": "https://labs.dana-farber.org/decapriolab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Ariel Manning",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 5 postdoctoral fellows, 6 graduate students, 1 executive support specialist",
+      "members_page_url": "https://labs.dana-farber.org/decapriolab/lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Cached People page was nav-only; counted the Lab Members subpage plus the PI."
     },
     {
       "id": "dana-farber-labs-christina-dieli-conwright",
@@ -682,13 +682,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 34,
+      "member_breakdown": "1 PI, 1 senior scientist, 1 project manager, 4 clinical research coordinators, 4 postdocs, 4 PhD/graduate students, 11 research assistants/data specialist, 8 exercise trainers",
+      "members_page_url": "https://labs.dana-farber.org/dieliconwrightlab/people",
+      "join_page_url": "https://labs.dana-farber.org/dieliconwrightlab/careers",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the People page, stopping at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-stephanie-dougan",
@@ -704,13 +704,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 instructor, 4 postdoctoral fellows, 2 PhD students, 2 research assistants, 1 medical resident, 1 undergraduate",
+      "members_page_url": "https://labs.dana-farber.org/douganlab/lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the Lab Members page, stopping at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-benjamin-ebert",
@@ -723,16 +723,16 @@
       "lab_website": "https://labs.dana-farber.org/ebertlab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Kimberly Tran",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 24,
+      "member_breakdown": "1 PI, 11 postdoctoral fellows, 3 graduate students, 4 technical research associates, 5 senior staff/admin (lab manager, senior scientist, genomics scientist, science writer, executive assistant)",
+      "members_page_url": "https://labs.dana-farber.org/ebertlab/current-lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Cached People page was nav-only; counted the Current Lab Members subpage plus the PI."
     },
     {
       "id": "dana-farber-labs-michael-j-eck",
@@ -748,13 +748,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 2 scientists, 4 postdoctoral fellows, 1 graduate student, 3 research technicians, 1 visiting master's student, 1 technical director",
+      "members_page_url": "https://labs.dana-farber.org/ecklab/lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the Lab Members page, stopping at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-alan-engelman",
@@ -762,7 +762,7 @@
       "lab_name": "Alan Engelman Lab",
       "pi_name": "Alan Engelman",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "alan_engelman@dfci.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://labs.dana-farber.org/engelmanlab/",
       "location": null,
@@ -770,13 +770,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 scientist, 2 instructors, 3 research technicians, 1 research operations manager",
+      "members_page_url": "https://labs.dana-farber.org/engelmanlab/people",
+      "join_page_url": "https://labs.dana-farber.org/engelmanlab/join-us",
+      "join_notes": "Join page: PhD applicants apply via the HMS Virology program; postdoc and technician applicants email a cover letter and CV to the PI.",
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the Lab Members page."
     },
     {
       "id": "dana-farber-labs-mariella-filbin",
@@ -792,13 +792,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 21,
+      "member_breakdown": "1 PI, 2 instructors, 6 postdoctoral fellows, 4 scientists/computational biologists, 1 neurosurgery resident, 1 PhD student, 1 lab manager, 3 research technicians, 1 medical student, 1 undergraduate",
+      "members_page_url": "https://labs.dana-farber.org/filbinlab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus Current Members on the People page, stopping at Visiting Students (dated) and Lab Alumni."
     },
     {
       "id": "dana-farber-labs-eric-fischer",
@@ -814,13 +814,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 23,
+      "member_breakdown": "1 PI, 7 senior staff (scientists, lab manager), 7 postdocs, 3 graduate students, 4 research technicians, 1 bioinformatics engineer",
+      "members_page_url": "https://labs.dana-farber.org/fischerlab/people/lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the Lab Members page; excluded the 3-person TPD Proteomics Core listed at the end."
     },
     {
       "id": "dana-farber-labs-narjust-florez",
@@ -842,7 +842,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Site has no people/team page in its navigation and the home page shows only photo captions; count not shown."
     },
     {
       "id": "dana-farber-labs-lindsay-frazier",
@@ -858,13 +858,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 program manager, 1 administrative support specialist",
+      "members_page_url": "https://frazierlab.dana-farber.org/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the 3 people listed on the People page (page footer dated 2021)."
     },
     {
       "id": "dana-farber-labs-william-freed-pastor",
@@ -877,16 +877,16 @@
       "lab_website": "https://labs.dana-farber.org/freedpastorlab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Stacy Mueller",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 5 postdoctoral fellows, 1 instructor, 2 research technicians, 1 undergraduate research assistant, 1 grants administrator",
+      "members_page_url": "https://labs.dana-farber.org/freedpastorlab/people",
+      "join_page_url": "https://labs.dana-farber.org/freedpastorlab/opportunities",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Current Members on the People page, stopping at Alumni."
     },
     {
       "id": "dana-farber-labs-andrew-frelinger",
@@ -904,11 +904,11 @@
       "research_summary": null,
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://research.childrenshospital.org/research-units/center-platelet-research-studies-research",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: lab_website is the Boston Children's Center for Platelet Research Studies (a center), not a PI lab page; size left null."
     },
     {
       "id": "dana-farber-labs-dana-h-gabuzda",
@@ -926,11 +926,11 @@
       "research_summary": null,
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://gabuzdalab.dana-farber.org/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Current list (10 names) conflicts with the former-members list on the same page (e.g. Dutta, Aldersley, Mukerji listed as both), page dated 2023; can't tell who is current."
     },
     {
       "id": "dana-farber-labs-pietro-genovese",
@@ -943,16 +943,16 @@
       "lab_website": "https://labs.dana-farber.org/genoveselab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Tessa Bellavia",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 3 postdoctoral fellows, 3 research fellows, 3 PhD/graduate students, 1 lab manager, 1 administrative assistant",
+      "members_page_url": "https://labs.dana-farber.org/genoveselab/people",
+      "join_page_url": "https://labs.dana-farber.org/genoveselab/join-us",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the People page; alumni on a separate page."
     },
     {
       "id": "dana-farber-labs-rani-george",
@@ -965,16 +965,16 @@
       "lab_website": "https://labs.dana-farber.org/ranigeorgelab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Alissa Joy",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 instructor, 4 postdoctoral fellows, 1 research technician, 2 undergraduates, 1 visiting scientist, 1 administrative assistant",
+      "members_page_url": "https://labs.dana-farber.org/ranigeorgelab/people-0",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the People page; former members on a separate page."
     },
     {
       "id": "dana-farber-labs-irene-ghobrial",
@@ -987,16 +987,16 @@
       "lab_website": "https://labs.dana-farber.org/ghobriallab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Amanda Farra",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 28,
+      "member_breakdown": "1 PI, 1 center associate director, 4 instructors, 9 research fellows, 4 scientists/bioinformatics scientists, 1 computational biologist, 7 research technicians, 1 executive assistant",
+      "members_page_url": "https://labs.dana-farber.org/ghobriallab/our-team/lab-team",
+      "join_page_url": "https://labs.dana-farber.org/ghobriallab/career-opportunities",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Cached Our Team page was nav-only; counted the Lab Team subpage (separate Clinical Research Team not counted)."
     },
     {
       "id": "dana-farber-labs-marios-giannakis",
@@ -1012,13 +1012,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 postdoctoral fellow, 1 bioinformatics analyst, 1 research associate",
+      "members_page_url": "https://labs.dana-farber.org/giannakislab/people",
+      "join_page_url": "https://labs.dana-farber.org/giannakislab/join-us",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Current Laboratory Members, stopping at Past Laboratory Members."
     },
     {
       "id": "dana-farber-labs-riaz-gillani",
@@ -1031,16 +1031,16 @@
       "lab_website": "https://labs.dana-farber.org/gillanilab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Alissa Joy",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 3 postdoctoral fellows, 3 computational biologists, 1 clinical fellow, 1 resident, 6 students (medical, MD-PhD, master's), 1 undergraduate, 1 administrative specialist",
+      "members_page_url": "https://labs.dana-farber.org/gillanilab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the People page, stopping at Alumni."
     },
     {
       "id": "dana-farber-labs-katie-greenzang",
@@ -1056,13 +1056,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 pediatric chief resident, 1 senior clinical research manager, 2 clinical research coordinators, 1 program manager",
+      "members_page_url": "https://labs.dana-farber.org/greenzanglab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus Our Team on the People page, stopping at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-gabriel-griffin",
@@ -1078,13 +1078,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 4 research technicians, 3 students (2 PhD, 1 undergrad), 2 postdocs, 1 clinical fellow, 3 research scientists, 2 computational biologists",
+      "members_page_url": "https://griffin-lab.dana-farber.org/team.html",
+      "join_page_url": "https://griffin-lab.dana-farber.org/join-us.html",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Griffin Lab Team Members (several joint with other labs); page footer dated 2023."
     },
     {
       "id": "dana-farber-labs-todd-golub",
@@ -1102,11 +1102,11 @@
       "research_summary": null,
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "members_page_url": "https://golublab.broadinstitute.org/people",
+      "join_page_url": "https://golublab.broadinstitute.org/positions-available",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Broad-hosted People list is paginated ('Load More'); 20 people on first two pages and more pages remain past the fetch cap."
     },
     {
       "id": "dana-farber-labs-xin-gu",
@@ -1114,7 +1114,7 @@
       "lab_name": "Xin Gu Lab",
       "pi_name": "Xin Gu",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "Xin_Gu@hms.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://labs.dana-farber.org/xingulab",
       "location": null,
@@ -1122,13 +1122,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 postdoctoral fellow, 2 PhD students, 2 research assistants (1 also lab manager), 3 undergraduates",
+      "members_page_url": "https://labs.dana-farber.org/xingulab/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus Lab Members on the Team page; excluded Alumni and 2 'Honorary Lab Members' from other labs."
     },
     {
       "id": "dana-farber-labs-sasha-gusev",
@@ -1144,13 +1144,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 11 postdocs/research or clinical fellows, 4 doctoral students",
+      "members_page_url": "http://gusevlab.org/people",
+      "join_page_url": "http://gusevlab.org/join",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted current People, stopped at Alumni."
     },
     {
       "id": "dana-farber-labs-william-hahn",
@@ -1163,16 +1163,16 @@
       "lab_website": "https://labs.dana-farber.org/hahnlab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Alexis Bevilacqua",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 2 administrative staff, 2 scientists, 8 postdoctoral fellows, 4 research technicians",
+      "members_page_url": "https://labs.dana-farber.org/hahnlab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the People page, stopping at Alumni."
     },
     {
       "id": "dana-farber-labs-andrew-hantel",
@@ -1185,16 +1185,16 @@
       "lab_website": "https://labs.dana-farber.org/hantellab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Danlouberly Bouzi",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 data specialist, 1 research project manager, 2 clinical research coordinators, 2 research navigators, 1 administrative specialist",
+      "members_page_url": "https://labs.dana-farber.org/hantellab/people",
+      "join_page_url": "https://labs.dana-farber.org/hantellab/join",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus Lab Members; excluded the 'Mentees' list, which shows each mentee's current position elsewhere, and Former Lab Members."
     },
     {
       "id": "dana-farber-labs-rizwan-haq",
@@ -1210,13 +1210,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 research fellows, 1 scientist",
+      "members_page_url": "https://labs.dana-farber.org/haqlab/people",
+      "join_page_url": "https://labs.dana-farber.org/haqlab/join-us",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Haq Lab Members on people page, stopped at Alumni."
     },
     {
       "id": "dana-farber-labs-kevin-haigis",
@@ -1224,21 +1224,21 @@
       "lab_name": "Kevin Haigis Lab",
       "pi_name": "Kevin Haigis",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "kevin_haigis@dfci.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.haigislab.org/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Jenny Thurber",
+      "admin_email": "jennifer_thurber@dfci.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 executive support, 2 senior scientists, 4 postdocs, 3 grad students, 1 research technician",
+      "members_page_url": "https://www.haigislab.org/labmembers",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Lab Members page; alumni on separate page. PI email shown in 'at/dot' form."
     },
     {
       "id": "dana-farber-labs-emily-heikamp",
@@ -1254,13 +1254,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 2 postdocs, 1 scientist, 2 research technicians",
+      "members_page_url": "https://labs.dana-farber.org/heikamplab/lab-team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Heikamp Lab Team on the lab-team page (fetched from nav link), stopped at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-martin-e-hemler",
@@ -1282,7 +1282,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: lab_website is a generic Harvard Cancer Consortium (DF/HCC) member page with no Hemler lab roster; nothing to count."
     },
     {
       "id": "dana-farber-labs-sarah-hill",
@@ -1298,13 +1298,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 postdocs",
+      "members_page_url": "https://hilllab.dana-farber.org/people.html",
+      "join_page_url": "https://hilllab.dana-farber.org/join-the-hill-lab.html",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted People of the Hill Lab, stopped at Alumni."
     },
     {
       "id": "dana-farber-labs-volker-hovestadt",
@@ -1312,21 +1312,21 @@
       "lab_name": "Volker Hovestadt Lab",
       "pi_name": "Volker Hovestadt",
       "pi_title": null,
-      "pi_email": null,
-      "accepting_grad_students": null,
+      "pi_email": "volker_hovestadt@dfci.harvard.edu",
+      "accepting_grad_students": true,
       "lab_website": "http://hovestadt.bio/",
       "location": null,
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 postdocs, 3 visiting M.D. students",
+      "members_page_url": "http://hovestadt.bio/pages/Team",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Openings for computational biologists (postdoc/student) per Team page.",
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Lab Members, stopped at Lab Alumni; page says hiring postdocs/students."
     },
     {
       "id": "dana-farber-labs-immune-assessment",
@@ -1348,7 +1348,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Immune Assessment Laboratory is a core/service lab (CIMAC biomonitoring, biobanking); no single-PI group roster, count left null."
     },
     {
       "id": "dana-farber-labs-megan-insco",
@@ -1364,13 +1364,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 4 postdocs, 1 computational biologist, 1 resident research fellow, 2 technicians, 1 master's student",
+      "members_page_url": "https://labs.dana-farber.org/inscolab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Current Members on people page, stopped at Alumni."
     },
     {
       "id": "dana-farber-labs-rafael-irizarry",
@@ -1386,13 +1386,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 5 grad students, 5 postdocs, 1 DFCI staff",
+      "members_page_url": "http://rafalab.dfci.harvard.edu/pages/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Current Lab Members, stopped at Past Postdocs."
     },
     {
       "id": "dana-farber-labs-katherine-janeway",
@@ -1408,13 +1408,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI + 10 listed team members (roles not shown for most)",
+      "members_page_url": "https://labs.dana-farber.org/janewaylab/lab",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted names on The Janeway Lab Team page; alumni are on a separate page."
     },
     {
       "id": "dana-farber-labs-pasi-j-nne",
@@ -1436,7 +1436,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Lab site returns 403 Forbidden (plain and rendered); not bypassed."
     },
     {
       "id": "dana-farber-labs-rinath-jeselsohn",
@@ -1452,13 +1452,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 research associates, 2 postdocs, 2 computational staff",
+      "members_page_url": "https://labs.dana-farber.org/jeselsohnlab/people",
+      "join_page_url": "https://labs.dana-farber.org/jeselsohnlab/join-us",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted people page, stopped at Alumni."
     },
     {
       "id": "dana-farber-labs-cigall-kadoch",
@@ -1466,21 +1466,21 @@
       "lab_name": "Cigall Kadoch Lab",
       "pi_name": "Cigall Kadoch",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "cigall_kadoch@dfci.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "http://www.kadochlab.org/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Kristen Applegate",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 31,
+      "member_breakdown": "1 PI, 12 postdocs, 4 grad students, 1 visiting student, 6 computational biologists, 5 research technicians, 1 undergraduate intern, 1 academic assistant",
+      "members_page_url": "http://www.kadochlab.org/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted current sections, stopped at Lab Alumni. PI email shown in 'at' form."
     },
     {
       "id": "dana-farber-labs-william-kaelin",
@@ -1496,13 +1496,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 3 research technicians, 1 lab manager, 11 fellows",
+      "members_page_url": "https://labs.dana-farber.org/kaelinlab/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Team page lists 4 staff and 11 current fellows; PI added (he has his own page)."
     },
     {
       "id": "dana-farber-labs-alec-kimmelman",
@@ -1518,13 +1518,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 3 postdocs, 1 lab manager, 1 research technician, 1 senior scientist, 1 clinical fellow, 1 grad student",
+      "members_page_url": "https://www.thekimmelmanlab.org/lab-members.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted 'Members of the Kimmelman lab', stopped at Former Lab Members."
     },
     {
       "id": "dana-farber-labs-philip-kranzusch",
@@ -1532,21 +1532,21 @@
       "lab_name": "Philip Kranzusch Lab",
       "pi_name": "Philip Kranzusch",
       "pi_title": null,
-      "pi_email": null,
-      "accepting_grad_students": null,
+      "pi_email": "philip_kranzusch@dfci.harvard.edu",
+      "accepting_grad_students": true,
       "lab_website": "http://kranzuschlab.med.harvard.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 5 postdocs, 4 grad students, 2 research technicians",
+      "members_page_url": "https://kranzuschlab.med.harvard.edu/people.html",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Actively seeking researchers; students apply to HMS graduate programs, postdocs send CV, cover letter and three references.",
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI + current members, stopped at Kranzusch Lab Alumni. PI email shown in [at] form."
     },
     {
       "id": "dana-farber-labs-donald-kufe",
@@ -1568,7 +1568,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: People page shows a \"Kufe Lab Staff\" heading with no names (roster appears only as photos), also after a render attempt; count null."
     },
     {
       "id": "dana-farber-labs-andrew-lane",
@@ -1584,13 +1584,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 2 instructors, 4 postdocs, 3 research associates, 2 admin",
+      "members_page_url": "https://labs.dana-farber.org/lanelab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted people page, stopped at Lane Lab Alumni."
     },
     {
       "id": "dana-farber-labs-jennifer-ligibel",
@@ -1606,13 +1606,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 2 research operations leads, 5 clinical research staff, 5 instructors/fellows, 4 interventionists",
+      "members_page_url": "https://labs.dana-farber.org/ligibellab/ligibel-lab-team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Ligibel Lab Team (leadership, staff, fellows, interventionists), stopped at Alumni; group is a clinical/exercise research team."
     },
     {
       "id": "dana-farber-labs-keith-ligon",
@@ -1628,13 +1628,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 4 research fellows, 10 staff (technicians, CRCs, 1 grad student)",
+      "members_page_url": "https://labs.dana-farber.org/ligonlab/people",
+      "join_page_url": "https://labs.dana-farber.org/ligonlab/contact",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted people page excluding 2 listed collaborating clinical investigators (one at OHSU); alumni on separate page."
     },
     {
       "id": "dana-farber-labs-r-coleman-lindsley",
@@ -1650,13 +1650,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI + 16 current lab members (roles not listed)",
+      "members_page_url": "https://labs.dana-farber.org/lindsleylab/people",
+      "join_page_url": "https://labs.dana-farber.org/lindsleylab/join-lab",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Current Lindsley Lab Members; page also lists an 8-person HMDR data repository team not included; stopped at Alumni."
     },
     {
       "id": "dana-farber-labs-charlotta-lindvall",
@@ -1672,13 +1672,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 2 research assistants (1 med student), 1 research trainee, 2 nurse practitioners, 2 data analysts",
+      "members_page_url": "https://lindvalllab.dana-farber.org/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Current Team Members; excluded Lab Collaborators and Alumni (page footer dated 2020)."
     },
     {
       "id": "dana-farber-labs-david-liu",
@@ -1694,13 +1694,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 2 postdocs, 5 computational biologists, 1 PhD student",
+      "members_page_url": "https://liulab.dana-farber.org/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Liu Lab Team, stopped at Lab Alumni (some members shared with Sharpe/Van Allen labs)."
     },
     {
       "id": "dana-farber-labs-thomas-look",
@@ -1718,11 +1718,11 @@
       "research_summary": null,
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://zfin.org/ZDB-LAB-000918-2",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: lab_website is a ZFIN database registry entry (14 names incl. PI), not the lab's own site; can't tell if the list is current."
     },
     {
       "id": "dana-farber-labs-joseph-mancias",
@@ -1738,13 +1738,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 6 postdocs, 1 PhD candidate, 4 research technicians, 1 undergraduate",
+      "members_page_url": "https://labs.dana-farber.org/manciaslab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Mancias Lab Team, stopped at Alumni."
     },
     {
       "id": "dana-farber-labs-wayne-a-marasco",
@@ -1760,13 +1760,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 deputy director, 1 research scientist, 1 clinical collaborator, 6 postdocs/research fellows",
+      "members_page_url": "https://labs.dana-farber.org/marascolab/researchers",
+      "join_page_url": "https://labs.dana-farber.org/marascolab/join-us",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: PI and deputy director from Who We Are page plus 8 names on Researchers page (fetched from nav link)."
     },
     {
       "id": "dana-farber-labs-matthew-meyerson",
@@ -1779,16 +1779,16 @@
       "lab_website": "https://labs.dana-farber.org/meyersonlab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Hannah Delaney",
+      "admin_email": "hannah_delaney@dfci.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 28,
+      "member_breakdown": "1 PI, 1 admin, 7 senior scientists, 1 instructor, 8 postdocs, 4 grad students, 3 junior staff, 4 undergrad/visiting students",
+      "members_page_url": "https://labs.dana-farber.org/meyersonlab/lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Lab Members page (fetched from nav link); alumni on separate page."
     },
     {
       "id": "dana-farber-labs-alan-michelson",
@@ -1810,7 +1810,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Lab site http://www.platelets.org/ timed out on both the cached fetch and one retry; no roster available."
     },
     {
       "id": "dana-farber-labs-franziska-michor",
@@ -1818,7 +1818,7 @@
       "lab_name": "Franziska Michor Lab",
       "pi_name": "Franziska Michor",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "michor@jimmy.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "http://michorlab.dfci.harvard.edu/",
       "location": null,
@@ -1826,13 +1826,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 19,
+      "member_breakdown": "1 PI, 6 postdocs, 2 grad students, 1 MD-PhD student, 4 master's students, 4 undergrads, 1 research technician",
+      "members_page_url": "http://michorlab.dfci.harvard.edu/our-lab/",
+      "join_page_url": "https://careers.dana-farber.org/",
+      "join_notes": "Home page 'Join Our Lab' points to the Dana-Farber careers site.",
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted names on the 'Our Lab' page (alumni on a separate page)."
     },
     {
       "id": "dana-farber-labs-evanna-mills",
@@ -1848,13 +1848,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 4 postdocs, 3 grad students, 3 research technicians, 2 summer interns",
+      "members_page_url": "https://labs.dana-farber.org/millslab/people",
+      "join_page_url": "https://labs.dana-farber.org/millslab/join-contact",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Mills Lab Members, stopped at Alumni."
     },
     {
       "id": "dana-farber-labs-elizabeth-mittendorf",
@@ -1876,7 +1876,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: lab_website is the Breast Oncology Program's Translational Hub (a biospecimen initiative), not a lab roster; size left null."
     },
     {
       "id": "dana-farber-labs-kent-mouw",
@@ -1884,7 +1884,7 @@
       "lab_name": "Kent Mouw Lab",
       "pi_name": "Kent Mouw",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "kent_mouw@dfci.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://labs.dana-farber.org/mouwlab/",
       "location": null,
@@ -1892,13 +1892,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 research instructors, 1 senior scientist, 1 postdoc, 2 technicians, 2 clinical trainees, 1 visiting scientist",
+      "members_page_url": "https://labs.dana-farber.org/mouwlab/people",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "People page says to contact Dr. Mouw directly by email about joining.",
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus Current Members, stopped at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-murakami",
@@ -1914,13 +1914,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 18,
+      "member_breakdown": "1 PI, 2 postdocs, 1 neuro-oncology fellow, 3 research technicians, 1 grad student, 1 graduate computational researcher, 2 medical students, 2 undergrads, 5 interns",
+      "members_page_url": "https://dfci-murakami-lab.github.io/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted the People list above the Alumni heading."
     },
     {
       "id": "dana-farber-labs-fay-nicolson",
@@ -1936,13 +1936,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 postdoc, 1 research technician",
+      "members_page_url": "https://labs.dana-farber.org/nicolsonlab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Current Members, stopped at Alumni."
     },
     {
       "id": "dana-farber-labs-matthew-oser",
@@ -1958,13 +1958,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 7 postdocs, 1 visiting scholar, 1 research technician",
+      "members_page_url": "https://labs.dana-farber.org/oserlab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted people page, stopped at Alumni."
     },
     {
       "id": "dana-farber-labs-giovanni-parmigiani",
@@ -1986,7 +1986,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: ResearchGate lab page lists three groups (BayesMendel, multi-study ML group, myeloma data scientists) but no member roster; people link is a sign-up page."
     },
     {
       "id": "dana-farber-labs-erin-parry",
@@ -2002,13 +2002,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 postdocs, 3 research technicians",
+      "members_page_url": "https://labs.dana-farber.org/parrylab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Members of the Parry Lab, stopped at Alumni."
     },
     {
       "id": "dana-farber-labs-david-pellman",
@@ -2016,21 +2016,21 @@
       "lab_name": "David Pellman Lab",
       "pi_name": "David Pellman",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "David_Pellman@dfci.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://labs.dana-farber.org/pellmanlab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Harriet Scott",
+      "admin_email": "Harriet_Scott@dfci.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 1 admin, 2 scientists, 10 postdocs, 2 grad students, 1 other listed member",
+      "members_page_url": "https://labs.dana-farber.org/pellmanlab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus 16 Lab Members; excluded a joke/non-person entry (\"Gunhilde, Daughter of Gorm\")."
     },
     {
       "id": "dana-farber-labs-yana-pikman",
@@ -2046,13 +2046,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 2 postdocs, 1 grad student, 1 clinical fellow, 2 technicians, 1 admin",
+      "members_page_url": "https://labs.dana-farber.org/pikmanlab/people",
+      "join_page_url": "https://labs.dana-farber.org/pikmanlab/join-us",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Our Team and Lab Members, stopped at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-kornelia-polyak",
@@ -2068,13 +2068,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 admin, 3 instructors, 5 postdocs, 1 grad student, 1 technician",
+      "members_page_url": "https://labs.dana-farber.org/polyaklab/current-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Current Members page."
     },
     {
       "id": "dana-farber-labs-pere-puigserver",
@@ -2082,21 +2082,21 @@
       "lab_name": "Pere Puigserver Lab",
       "pi_name": "Pere Puigserver",
       "pi_title": null,
-      "pi_email": null,
-      "accepting_grad_students": null,
+      "pi_email": "pere_puigserver@dfci.harvard.edu",
+      "accepting_grad_students": true,
       "lab_website": "http://puigserver.dfci.harvard.edu/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Jollanda Lako",
+      "admin_email": "jollanda_lako@dfci.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 1 administrative assistant, 7 postdocs, 2 grad students, 1 research technician, 2 visiting students",
+      "members_page_url": "http://puigserver.dfci.harvard.edu/members",
+      "join_page_url": "http://puigserver.dfci.harvard.edu/opportunities",
+      "join_notes": "Home page says the lab is actively recruiting technicians, graduate students and postdocs; see the Opportunities tab.",
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Members page (PI, admin, current members); alumni on separate page."
     },
     {
       "id": "dana-farber-labs-jun-qi",
@@ -2112,13 +2112,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 scientist, 1 instructor, 1 unlabeled member, 1 technician, 1 Harvard CCB student",
+      "members_page_url": "https://labs.dana-farber.org/qilab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted names under Our Team before Attached Researchers/Alumni headings."
     },
     {
       "id": "dana-farber-labs-srivatsan-raghavan",
@@ -2134,13 +2134,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 computational biologist, 3 postdocs, 1 grad student, 1 technician",
+      "members_page_url": "https://labs.dana-farber.org/raghavanlab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus Current Lab Members, stopped at Lab Alumni; Project Ex Vivo team not included."
     },
     {
       "id": "dana-farber-labs-mohammad-rashidian",
@@ -2156,13 +2156,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 23,
+      "member_breakdown": "1 PI, 3 postdocs, 2 clinical fellows, 9 grad/PhD students, 4 technicians, 1 medical student, 2 co-ops, 2 undergrads (approx.)",
+      "members_page_url": "https://labs.dana-farber.org/rashidianlab/about-our-lab/lab-members",
+      "join_page_url": "https://labs.dana-farber.org/rashidianlab/opportunities",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Current Lab Members, stopped at Previous Lab Members."
     },
     {
       "id": "dana-farber-labs-rizwan-romee",
@@ -2178,13 +2178,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 24,
+      "member_breakdown": "1 PI, 8 postdocs/fellows, 1 scientist/lab manager, 2 clinical faculty, 3 grad students (incl. 1 master's), 3 research assistants, 1 medical student, 4 undergrads, 1 senior project manager",
+      "members_page_url": "https://romeelab.dana-farber.org/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted People page above 'Lab Alumni'; emails are Cloudflare-obfuscated so not recorded."
     },
     {
       "id": "dana-farber-labs-chris-sander",
@@ -2206,7 +2206,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Cached home page is a hash-routed SPA; its People tab has no usable link in the cached text, so no roster read."
     },
     {
       "id": "dana-farber-labs-vijay-sankaran",
@@ -2219,16 +2219,16 @@
       "lab_website": "https://www.bloodgenes.org/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Carmen Oleaga-Quintas",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 38,
+      "member_breakdown": "1 PI, 6 staff (incl. lab manager), 19 postdocs, 5 grad students, 2 undergrads, 5 affiliates (visiting scientist, MD fellows, students)",
+      "members_page_url": "https://www.bloodgenes.org/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Team page above 'Lab Alumni'; includes 5 listed affiliates."
     },
     {
       "id": "dana-farber-labs-jaime-l-schneider",
@@ -2241,16 +2241,16 @@
       "lab_website": "https://labs.dana-farber.org/schneiderlab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Margaret (Mags) Sheehan",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 1 lead scientist, 1 visiting scientist, 2 postdocs, 2 clinical fellows, 2 technicians, 5 admin/support",
+      "members_page_url": "https://labs.dana-farber.org/schneiderlab/lab-team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Lab Team & Support Staff plus PI, stopped at Alumni."
     },
     {
       "id": "dana-farber-labs-rosalind-segal",
@@ -2266,13 +2266,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 lab manager/senior scientist, 5 postdocs, 1 PhD candidate",
+      "members_page_url": "https://labs.dana-farber.org/segallab/lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Lab Members page."
     },
     {
       "id": "dana-farber-labs-william-sellers",
@@ -2285,16 +2285,16 @@
       "lab_website": "https://sellerslab.org/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Julian Pozniak",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 30,
+      "member_breakdown": "1 PI, 7 staff scientists (incl. lab manager), 7 postdoc-level trainees, 2 undergrads, 12 research/computational associates, 1 administrative lead",
+      "members_page_url": "https://sellerslab.org/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Lab members page (staff scientists, trainees, associates); alumni on separate page."
     },
     {
       "id": "dana-farber-labs-nilay-sethi",
@@ -2310,13 +2310,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 2 admin, 1 scientist, 5 postdocs, 1 visiting scientist, 4 students, 1 technical research associate, 1 undergrad",
+      "members_page_url": "https://labs.dana-farber.org/sethilab/lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: PI plus 15 names on Current Lab Members page (fetched from nav link); PI is on a separate PI page."
     },
     {
       "id": "dana-farber-labs-geoffrey-shapiro",
@@ -2332,13 +2332,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 senior scientist, 6 postdocs, 3 research technicians",
+      "members_page_url": "https://labs.dana-farber.org/shapirolab/our-team",
+      "join_page_url": "https://labs.dana-farber.org/shapirolab/join-us",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Shapiro Lab Team, stopped at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-william-m-shih",
@@ -2346,21 +2346,21 @@
       "lab_name": "William M. Shih Lab",
       "pi_name": "William M. Shih",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "william_shih@dfci.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.shih.hms.harvard.edu/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Jessica Rodriguez",
+      "admin_email": "jessica_rodriguez@dfci.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 2 staff/senior scientists, 10 research fellows, 1 researcher",
+      "members_page_url": "https://www.shih.hms.harvard.edu/current-team",
+      "join_page_url": "https://www.shih.hms.harvard.edu/opportunities",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus 13 listed on Current team page; executive assistant listed separately, not counted."
     },
     {
       "id": "dana-farber-labs-margaret-a-shipp",
@@ -2373,16 +2373,16 @@
       "lab_website": "https://shipplab.dana-farber.org/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Lindy Boyne",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 7 postdocs, 1 instructor, 2 research scientists, 2 research assistants, 1 PhD candidate, 1 executive assistant, 1 lab/division operations manager",
+      "members_page_url": "https://shipplab.dana-farber.org/lab-personnel.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Lab Personnel list plus PI; page footer is dated 2021, so roster may be stale."
     },
     {
       "id": "dana-farber-labs-ramesh-shivdasani",
@@ -2390,7 +2390,7 @@
       "lab_name": "Ramesh Shivdasani Lab",
       "pi_name": "Ramesh Shivdasani",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "ramesh_shivdasani@dfci.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://labs.dana-farber.org/shivdasanilab/",
       "location": null,
@@ -2398,13 +2398,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 senior scientist, 6 postdocs, 1 bioinformatics analyst",
+      "members_page_url": "https://labs.dana-farber.org/shivdasanilab/people",
+      "join_page_url": "https://labs.dana-farber.org/shivdasanilab/contact-us",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus Current Members on people page."
     },
     {
       "id": "dana-farber-labs-peter-sicinski",
@@ -2417,16 +2417,16 @@
       "lab_website": "https://labs.dana-farber.org/sicinskilab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Amanda Judge",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 administrator, 1 senior scientist, 2 instructors, 3 postdocs, 1 visiting scientist, 2 grad students, 1 technician",
+      "members_page_url": "https://labs.dana-farber.org/sicinskilab/people",
+      "join_page_url": "https://labs.dana-farber.org/sicinskilab/opportunities",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Current Members, stopped at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-pamela-silver",
@@ -2439,16 +2439,16 @@
       "lab_website": "https://www.silverlabhms.org/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Meghan Van Orden",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 18,
+      "member_breakdown": "1 PI, 1 lecturer, 1 administrator, 1 Wyss director, 1 lab manager, 4 fellows, 1 visiting grad student, 2 research scientists/leads, 4 research assistants, 2 undergrads",
+      "members_page_url": "https://www.silverlabhms.org/people",
+      "join_page_url": "https://www.silverlabhms.org/join-us",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted names on the People page (fetched)."
     },
     {
       "id": "dana-farber-labs-eric-smith",
@@ -2464,13 +2464,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 18,
+      "member_breakdown": "1 PI, 1 lab manager, 1 project manager, 3 instructors, 5 fellows/postdocs, 3 scientists, 1 grad student, 1 computational biologist, 2 technicians",
+      "members_page_url": "https://labs.dana-farber.org/ericsmithlab/people",
+      "join_page_url": "https://labs.dana-farber.org/ericsmithlab/join-and-collaborate",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Our Team, stopped at Former Trainees."
     },
     {
       "id": "dana-farber-labs-joseph-g-sodroski",
@@ -2492,7 +2492,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: lab_website is a Harvard Cancer Consortium member-detail page that rendered as the consortium home; no lab roster."
     },
     {
       "id": "dana-farber-labs-bruce-spiegelman",
@@ -2505,16 +2505,16 @@
       "lab_website": "https://labs.dana-farber.org/spiegelmanlab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Jollanda Lako",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 22,
+      "member_breakdown": "1 PI, 1 administrator, 2 instructors, 11 research fellows, 2 students, 5 research technicians",
+      "members_page_url": "https://labs.dana-farber.org/spiegelmanlab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Current Members, stopped at Some Previous Members."
     },
     {
       "id": "dana-farber-labs-kimberly-stegmaier",
@@ -2527,16 +2527,16 @@
       "lab_website": "https://labs.dana-farber.org/stegmaierlab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Barbara Keane",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 26,
+      "member_breakdown": "1 PI, ~12 postdocs/fellows, 2 senior scientists, 2 grad students, 2 computational biologists, 3 technicians, lab manager, admin, science writer, intern",
+      "members_page_url": "https://labs.dana-farber.org/stegmaierlab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus 25 Lab Members on people page; alumni on separate page."
     },
     {
       "id": "dana-farber-labs-zuzana-tothova",
@@ -2552,13 +2552,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 3 postdocs, 1 resident, 5 grad/rotation students, 1 computational biologist, 3 technicians, 1 undergrad",
+      "members_page_url": "https://labs.dana-farber.org/tothovalab/team/current-members",
+      "join_page_url": "https://labs.dana-farber.org/tothovalab/join-us",
+      "join_notes": "Current Members page invites inquiries via the lab contact page or DFCI careers page.",
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Current Members page; alumni on separate page."
     },
     {
       "id": "dana-farber-labs-steven-treon",
@@ -2580,7 +2580,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Site returned 403 Forbidden; not bypassed."
     },
     {
       "id": "dana-farber-labs-ravindra-uppaluri",
@@ -2596,13 +2596,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI + 8 members (roles not shown)",
+      "members_page_url": "https://uppalurilab.dana-farber.org/current-members.html",
+      "join_page_url": "https://uppalurilab.dana-farber.org/jobs.html",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted names on Current Members page (fetched) plus PI; page footer dated 2019, may be stale."
     },
     {
       "id": "dana-farber-labs-eliezer-van-allen",
@@ -2615,16 +2615,16 @@
       "lab_website": "https://labs.dana-farber.org/vanallenlab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Lauren Miller-Jones",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 30,
+      "member_breakdown": "1 PI, 1 lead scientist, 1 admin, 1 data manager, 26 lab members (instructors, postdocs, computational biologists, students, fellows)",
+      "members_page_url": "https://labs.dana-farber.org/vanallenlab/people",
+      "join_page_url": "https://labs.dana-farber.org/vanallenlab/people/join-us",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Meet the Team plus Lab Members, stopped at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-marc-vidal",
@@ -2643,10 +2643,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://ccsb.dana-farber.org/join-us",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: lab_website is the Center for Cancer Systems Biology (CCSB) site Vidal directs; its 12-person staff list is a center roster, so size left null."
     },
     {
       "id": "dana-farber-labs-k-vish-viswanath",
@@ -2659,16 +2659,16 @@
       "lab_website": "https://www.hsph.harvard.edu/viswanathlab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Megan Chau",
+      "admin_email": "Megan_Chau@dfci.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 postdoc, 1 associate director, 1 data analyst, 4 project/program managers and coordinators, 1 administrative assistant",
+      "members_page_url": "https://www.hsph.harvard.edu/viswanathlab/",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Appointments via administrative assistant Megan Chau.",
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Team section of the HSPH Viswanath Lab page."
     },
     {
       "id": "dana-farber-labs-srinivas-viswanathan",
@@ -2681,16 +2681,16 @@
       "lab_website": "https://labs.dana-farber.org/viswanathanlab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Janet Quinn",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 1 admin, 2 instructors, 1 senior scientist, 6 postdocs, 4 students, 1 resident, 1 technician",
+      "members_page_url": "https://labs.dana-farber.org/viswanathanlab/our-team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Cached people page had no names; counted Lab Team page (fetched from nav link)."
     },
     {
       "id": "dana-farber-labs-loren-walensky",
@@ -2706,13 +2706,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 22,
+      "member_breakdown": "1 PI, 3 scientists, 1 lab manager, 1 project coordinator, 6 postdocs, 4 grad students, 4 research assistants, 2 undergrad interns",
+      "members_page_url": "https://www.walenskylab.org/personnel",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Meet The Team page; alumni on separate page."
     },
     {
       "id": "dana-farber-labs-jia-huai-wang",
@@ -2734,7 +2734,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: People page shows only the PI's biography (footer 2018); no member list."
     },
     {
       "id": "dana-farber-labs-lachelle-d-weeks",
@@ -2747,16 +2747,16 @@
       "lab_website": "https://labs.dana-farber.org/weekslab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Danlouberly \"Dolly\" Bouzi",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 3 postdocs/fellows, 4 clinical research team, 3 other (admin, data scientist, medical student)",
+      "members_page_url": "https://labs.dana-farber.org/weekslab/people",
+      "join_page_url": "https://labs.dana-farber.org/weekslab/open-positions",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted people page, stopped at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-david-williams",
@@ -2772,13 +2772,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 2 staff scientists, 1 research technologist, 2 postdocs",
+      "members_page_url": "https://www.williamslaboratory.org/our-team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Our Team page."
     },
     {
       "id": "dana-farber-labs-wolpin-nowak",
@@ -2794,13 +2794,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 35,
+      "member_breakdown": "2 PIs, 22 research members (postdocs, scientists, technicians, computational), 11 administrative/clinical support",
+      "members_page_url": "https://labs.dana-farber.org/wolpin-nowaklab/people",
+      "join_page_url": "https://labs.dana-farber.org/wolpin-nowaklab/opportunities",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Co-led lab (Brian Wolpin and Jonathan Nowak); counted all listed members incl. 11 admin/clinical support; former members on separate page."
     },
     {
       "id": "dana-farber-labs-kai-wucherpfennig",
@@ -2816,13 +2816,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 8 postdocs, 3 grad students, 1 lead scientist",
+      "members_page_url": "https://labs.dana-farber.org/t-cells-treating-cancer/lab",
+      "join_page_url": "https://labs.dana-farber.org/t-cells-treating-cancer/join-us",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted PI plus Lab Members, stopped at Lab Alumni."
     },
     {
       "id": "dana-farber-labs-baochun-zhang",
@@ -2844,7 +2844,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Site returned 403 Forbidden; not bypassed."
     },
     {
       "id": "dana-farber-labs-jean-zhao",
@@ -2857,16 +2857,16 @@
       "lab_website": "https://labs.dana-farber.org/zhaolab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Keku'i Ledward",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 27,
+      "member_breakdown": "1 PI, 1 assistant, 3 instructors, ~10 research fellows, 4 visiting scientists, 3 scientists, 6 technicians/students",
+      "members_page_url": "https://labs.dana-farber.org/zhaolab/members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site."
+      "notes": "Breadth pass from Dana-Farber's curated 'Lab Websites' master list (dana-farber.org/research/labs), which gives every PI-led lab with its own external site but no department tag, email, or member count on the listing page itself. A later per-PI pass would need each lab's own site. Depth pass 2026-11-03: Counted Meet the Zhao Lab list, stopped at Past Members."
     }
   ],
   "non_lab_people": [],
