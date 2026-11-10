@@ -22,13 +22,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Condensed Matter Physics, Soft materials, Colloids, Liquid Crystals, Computational Physics, Physics Education\n\nSoft matter physics is the study of matter that is all around us in everyday life: soaps, oil, foods, sand, foams, and biological matter. All of these are readily deformable at room temperature and combine properties of both fluids and solids. Despite their ubiquity, these materials are extremely complicated. Unlike simple fluids like water, they have rich internal structure; unlike crystalline solids they are typically not periodically ordered. Moreover, they exist in long-lived metastable states far from equilibrium and respond to stimuli such as applied electric and magnetic fields, temperature and pressure. My work seeks to understand how these materials respond to shape: how they self-organize on curved surfaces or in complex geometries and how this knowledge can be used both to sculpt desirable shapes at the microscopic scale and create shape changing systems like soft robots. We use high performance computing to simulate and predict these behaviors and work closely with experimentalists at Tufts and beyond.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 graduate students, 2 undergraduate summer scholars",
+      "members_page_url": "https://sites.tufts.edu/softmattertheory/people/",
+      "join_page_url": "https://sites.tufts.edu/softmattertheory/contact/",
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5551",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: from 'Current Group Members' plus PI; alumni excluded."
     },
     {
       "id": "tufts-physics-hugo-beauchemin",
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5526",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: personal faculty page; no group roster shown on the home page."
     },
     {
       "id": "tufts-physics-hugh-gallagher",
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5456",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: personal faculty page (research/teaching links, news); no lab roster shown."
     },
     {
       "id": "tufts-physics-david-martin",
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5506",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: personal activity page for a professor; text says the ATLAS group 'consisted of' two faculty and no current roster is shown."
     },
     {
       "id": "tufts-physics-adam-smercina",
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/7176",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: personal research page on Wix; no lab roster shown."
     },
     {
       "id": "tufts-physics-cristian-staii",
@@ -377,10 +377,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://sites.tufts.edu/nutufts/join-us/",
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5561",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: cached people_url is a blog tag archive with one 2018 news post and no roster; the home link to Our Group (/people/) was not fetched, so the count is unknown."
     },
     {
       "id": "tufts-physics-bruce-boghosian",
@@ -411,20 +411,20 @@
       "pi_name": "Jeffrey Guasto",
       "pi_title": "Professor",
       "pi_email": "jeffrey.guasto@tufts.edu",
-      "accepting_grad_students": null,
+      "accepting_grad_students": true,
       "lab_website": "https://sites.tufts.edu/guastolab/",
       "location": null,
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": "biophysics and soft matter, microscale fluid mechanics and transport phenomena, microfluidic devices",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 postdocs, 1 PhD student, 1 undergraduate",
+      "members_page_url": "https://sites.tufts.edu/guastolab/people/",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Page says there are openings for PhD students and welcomes MS, undergraduate and postdoc inquiries; contact Prof. Guasto with a CV.",
       "profile_url": "http://as.tufts.edu/physics/node/5486",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Guasto Laboratory'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Guasto Laboratory'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: lab site read for size: count from People page current sections; page looks stale (latest news Feb 2022), so the roster may be out of date."
     },
     {
       "id": "tufts-physics-david-hammer",
@@ -468,7 +468,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5536",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: site is a Tufts QI/QC hub page saying the Love group has moved to the University of Toronto; no Tufts roster for this PI."
     },
     {
       "id": "tufts-physics-saeed-mehraban",
@@ -506,13 +506,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "nanophotonics, optical beam shaping, neuroengineering, chip-scale imaging and microscopy, quantum information systems\n\nResearch Website: https://sites.tufts.edu/amohanty/",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 4 PhD students, 3 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/amohanty/people/",
+      "join_page_url": "https://sites.tufts.edu/amohanty/opportunities/",
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/6011",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: lab site read for size: count from the People page above the Alumni heading."
     },
     {
       "id": "tufts-physics-fiorenzo-omenetto",
@@ -534,7 +534,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5466",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: this is the Silklab site; the People page URL returned the lab home page with no roster, so members could not be counted (extra render fetch gave the same)."
     },
     {
       "id": "tufts-physics-anna-sajina",
@@ -550,13 +550,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Extragalactic astrophysics\n\nHow did galaxies and their central black holes co-evolve from the Big Bang to the present? Despite much progress through large scale galaxy surveys as well as ever more sophisticated numerical simulations, we are still hampered by the fact that much of the star-formation activity and black hole growth are buried in thick cocoons of dust and gas. Observations suggest that much of this activity took place in the past, before the Universe was half its present age, and likely involved mergers of nearly equal sized galaxies. As the merger progresses, gas and dust are more and more concentrated, triggering prodigious star-formation and gradually increasing accretion onto the central black hole (Active Galactic Nuclei or AGN). The process is short lived as supernovae- or AGN-driven winds lead to a 'blow-out' event which disperses the intervening gas and dust halting further star-formation and black hole growth. Indications that starbursts and AGN may regulate each other as above can be seen in the local correlation between the mass of a central black hole and the stellar mass of its host galaxy. The same galaxy observed at different stages of this process can appear very different. Therefore observations of different types of galaxies at different epochs and in different wavelength regimes are crucial to build a more complete understanding of the whole process.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 5 current grad students",
+      "members_page_url": "http://cosmos2.phy.tufts.edu/~asajina/research_group.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5431",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: research Group page marks 5 grad students as current; 2 postdocs listed without a current mark (not counted) and the rest are past members/thesis students."
     },
     {
       "id": "tufts-physics-paul-simmonds",

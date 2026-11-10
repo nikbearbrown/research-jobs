@@ -29,7 +29,7 @@
       "join_page_url": "https://www.tuftsctsi.org/careers/",
       "join_notes": null,
       "profile_url": null,
-      "notes": "A large research-infrastructure institute, not independent PI-led labs -- recorded as one entry under the Dean/PI. Other leadership names were shown only with titles (no name text captured cleanly on the rendered page) except Selker and Gibson; a future pass could revisit the HTML structure directly. Depth pass 2026-11-02: lab_website is the Tufts CTSI institute homepage (a hub), not a PI group; count left null."
+      "notes": "A large research-infrastructure institute, not independent PI-led labs -- recorded as one entry under the Dean/PI. Other leadership names were shown only with titles (no name text captured cleanly on the rendered page) except Selker and Gibson; a future pass could revisit the HTML structure directly. Depth pass 2026-11-02: lab_website is the Tufts CTSI institute homepage (a hub), not a PI group; count left null. Depth pass 2026-11-10: lab site read for size: site is the Tufts Clinical and Translational Science Institute (a center/institute), not a single PI's research group."
     }
   ],
   "non_lab_people": [],

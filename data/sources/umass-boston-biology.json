@@ -66,13 +66,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 postdoc, 1 PhD student, 1 undergraduate",
+      "members_page_url": "https://thekaolab.com/members.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/albertkao/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page. Depth pass 2026-11-10: lab site read for size: members page entries above Lab Alumni."
     },
     {
       "id": "umass-boston-biology-alexey-veraksa",
@@ -88,13 +88,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 PhD students, 3 undergraduates",
+      "members_page_url": "https://www.faculty.umb.edu/alexey_veraksa/People.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/alexeyveraksa/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://www.faculty.umb.edu/alexey_veraksa/People.html). Depth pass 2026-11-10: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://www.faculty.umb.edu/alexey_veraksa/People.html). Depth pass 2026-11-10: pi_email read from the profile page. Depth pass 2026-11-10: lab site read for size: current Lab Members list; Previous Graduate Students excluded."
     },
     {
       "id": "umass-boston-biology-haider-ali-bhatti",
@@ -154,13 +154,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 PhD student, 1 research assistant (PhD student), 7 undergraduates",
+      "members_page_url": "https://www.umb.edu/mccuskerlab/research-team/",
+      "join_page_url": "https://www.umb.edu/mccuskerlab/join-us/",
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/catherinemccusker/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page. Depth pass 2026-11-10: lab site read for size: research Team page (1 extra fetch) entries above Former Lab Members."
     },
     {
       "id": "umass-boston-biology-changmeng-cai",
@@ -201,10 +201,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "http://www.kelliherlab.com/join",
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/christinakelliher/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page. Depth pass 2026-11-10: lab site read for size: the Lab Team link (kelliherlab.com/people) returns only the home/about text with no member list, so no count."
     },
     {
       "id": "umass-boston-biology-christopher-baker",
@@ -223,10 +223,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "http://bakerlab.bio/join/",
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/christopherbaker/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Baker Lab website')."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Baker Lab website'). Depth pass 2026-11-10: lab site read for size: site is a Jekyll lab page; the cached page is the publications list and shows no member roster, so no count."
     },
     {
       "id": "umass-boston-biology-douglas-woodhams",
@@ -242,13 +242,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdoctoral-level researchers, 3 PhD students, 3 students (level not stated), 1 undergraduate",
+      "members_page_url": "https://woodhamslab.com/people/",
+      "join_page_url": "https://woodhamslab.com/community-engagement-opportunities/",
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/douglaswoodhams/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'research opportunities in the Woodhams Lab'). Depth pass 2026-11-10: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'research opportunities in the Woodhams Lab'). Depth pass 2026-11-10: pi_email read from the profile page. Depth pass 2026-11-10: lab site read for size: people page entries before Former Lab Members; page footer says 2019 but includes a Fall 2024 postdoc."
     },
     {
       "id": "umass-boston-biology-guilherme-ortigara-longo",
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/guilhermelongo/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page. Depth pass 2026-11-10: lab site read for size: site could not be loaded (home_status: blocked-by-robots); not retried."
     },
     {
       "id": "umass-boston-biology-jarrett-byrnes",
@@ -286,13 +286,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI plus 6 other members (roles not shown in the text)",
+      "members_page_url": "https://byrneslab.net/members/",
+      "join_page_url": "https://byrneslab.net/prospectives.html",
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/jarrettbyrnes/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page. Depth pass 2026-11-10: lab site read for size: the Members page (fetched, 1 extra fetch) lists the PI and 6 named members; the cached /current-members page was a 404 and the roles are only filter tabs."
     },
     {
       "id": "umass-boston-biology-jens-rister",
@@ -308,13 +308,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 1 research technician, 4 graduate students, 8 undergraduates",
+      "members_page_url": "https://risterlab.weebly.com/who-we-are.html",
+      "join_page_url": "https://risterlab.weebly.com/join-us.html",
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/jensrister/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page. Depth pass 2026-11-10: lab site read for size: who We Are page, entries before the Alumni heading; the research technician heading is slightly ambiguous and a Volunteers heading has no names."
     },
     {
       "id": "umass-boston-biology-jill-macoska",
@@ -352,13 +352,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 graduate students, 2 undergraduates",
+      "members_page_url": "https://girardlab.weebly.com/our-team.html",
+      "join_page_url": "https://girardlab.weebly.com/join-us.html",
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/julietgirard/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page. Depth pass 2026-11-10: lab site read for size: our Team page; Alumni listed separately and excluded."
     },
     {
       "id": "umass-boston-biology-kellee-siegfried",
@@ -374,13 +374,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD students, 1 master's student, 1 undergraduate",
+      "members_page_url": "https://www.siegfried-lab.com/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/kelleesiegfried/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page. Depth pass 2026-11-10: lab site read for size: people page entries before Former Members; page says updated Aug 2024, so it may be dated."
     },
     {
       "id": "umass-boston-biology-labib-rouhana",
@@ -396,13 +396,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 2 PhD-holding researchers (role not stated), 2 PhD students, 1 master's student, 3 undergraduates",
+      "members_page_url": "https://rouhanalab.weebly.com/members.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/labibrouhana/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page. Depth pass 2026-11-10: lab site read for size: entries under CURRENT before the Alumni headings."
     },
     {
       "id": "umass-boston-biology-liam-revell",
@@ -418,13 +418,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 postdoctoral researcher, 1 PhD student",
+      "members_page_url": "https://faculty.umb.edu/liam.revell/people/index.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/liamrevell/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://faculty.umb.edu/liam.revell/people/index.html). Depth pass 2026-11-10: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://faculty.umb.edu/liam.revell/people/index.html). Depth pass 2026-11-10: pi_email read from the profile page. Depth pass 2026-11-10: lab site read for size: current Lab Personnel lists 2 people plus the PI; the postdoc is based at a university in Chile; Lab Alumni excluded."
     },
     {
       "id": "umass-boston-biology-linda-huang",
@@ -484,13 +484,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 PhD students, 1 master's student",
+      "members_page_url": "https://vidallab.weebly.com/people.html",
+      "join_page_url": "https://vidallab.weebly.com/join-the-lab.html",
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/mayracadorinvidal/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page. Depth pass 2026-11-10: lab site read for size: people page entries above Alumni."
     },
     {
       "id": "umass-boston-biology-mukulika-ray",
@@ -528,13 +528,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 2 master's students, 5 research assistants",
+      "members_page_url": "https://www.theviruspluslab.com/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/nicholahill/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page. Depth pass 2026-11-10: lab site read for size: people page entries before Collaborators/Former members."
     },
     {
       "id": "umass-boston-biology-pravrutha-raman",
@@ -543,20 +543,20 @@
       "pi_name": "Pravrutha Raman",
       "pi_title": "Assistant Professor",
       "pi_email": "Pravrutha.Raman@umb.edu",
-      "accepting_grad_students": null,
+      "accepting_grad_students": true,
       "lab_website": "https://chromevoramanlab.github.io/",
       "location": null,
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 1,
+      "member_breakdown": "1 PI",
+      "members_page_url": "https://chromevoramanlab.github.io/people/",
+      "join_page_url": "https://chromevoramanlab.github.io/join/",
+      "join_notes": "Actively recruiting lab manager, technicians, graduate students and postdocs; see the Join us page.",
       "profile_url": "https://www.umb.edu/directory/pravrutharaman/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab site read for size: people page lists only the PI as current (lab is recruiting at all levels); the rest are past trainees from earlier labs."
     },
     {
       "id": "umass-boston-biology-robert-stevenson",
@@ -594,13 +594,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoctoral fellow, 5 graduate students, 4 undergraduates",
+      "members_page_url": "https://blogs.umb.edu/shailjapathania/lab_members/",
+      "join_page_url": "https://blogs.umb.edu/shailjapathania/join-our-team/",
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/shailjapathania/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://blogs.umb.edu/shailjapathania/lab_members/). Depth pass 2026-11-10: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://blogs.umb.edu/shailjapathania/lab_members/). Depth pass 2026-11-10: pi_email read from the profile page. Depth pass 2026-11-10: lab site read for size: meet the Team page (updated as of Fall 2025); the one listed under Postdoctoral Fellows is described as a PhD in the MCOB program."
     },
     {
       "id": "umass-boston-biology-william-hagar",

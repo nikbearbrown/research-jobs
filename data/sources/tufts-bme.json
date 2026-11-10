@@ -154,13 +154,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research at the intersection of reproductive biology and tissue engineering to understand the immune-endocrine mechanisms driving uterine reproductive health and disease. We are particularly interested in understanding how inflammation negatively, and positively, impacts reproductive function across the lifespan. Our lab builds miniature uterine tissues using tissue engineering approaches and human tissues to study tissue regeneration, endometriosis, infertility, reproductive aging (i.e., menopause) and tissue-tissue crosstalk.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 graduate students (PhD), 1 research technician, 1 undergraduate",
+      "members_page_url": "https://www.gneccolab.com/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/bme/people/faculty/juan-gnecco",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Gnecco Lab Website')."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Gnecco Lab Website'). Depth pass 2026-11-10: lab site read for size: counted members not also in the Alumni list; Manek Khedia, Brianna Starling and Siqi Zhang appear in both the members list and the 2025 alumni list and were treated as alumni, so the page may be partly stale."
     },
     {
       "id": "tufts-bme-giulia-guidetti",
@@ -264,13 +264,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Immunoengineering, Genetic Engineering, Adoptive Cell Therapy, Immuno-Oncology, Transplant Immunology",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 PhD students, 3 MS students, 5 undergraduates, 1 visiting undergraduate",
+      "members_page_url": "https://www.karenmartinphd.com/team",
+      "join_page_url": "https://www.karenmartinphd.com/about-3",
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/bme/people/faculty/karen-martin",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Martin Lab Website')."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Martin Lab Website'). Depth pass 2026-11-10: lab site read for size: counted the Team page headed Summer 2026."
     },
     {
       "id": "tufts-bme-kyle-quinn",
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/bme/people/faculty/kyle-quinn",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: site could not be loaded (home_status 200 but the page returned '403 Forbidden' even after one rendered fetch)."
     },
     {
       "id": "tufts-bme-jugal-sahoo",
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/bme/people/faculty/angelo-sassaroli",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: the profile's lab link is Sergio Fantini's DOIT lab, where Sassaroli is listed as research faculty, not a group of his own; size left null."
     },
     {
       "id": "tufts-bme-andrew-stout",
@@ -374,13 +374,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "nanoelectronics, biosensing, biomaterials, tissue engineering, drug delivery",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 3 PhD students, 2 MS students, 4 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/timkolab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/bme/people/faculty/brian-timko",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Timko Lab')."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Timko Lab'). Depth pass 2026-11-10: lab site read for size: current people on the People page; alumni on a separate page."
     },
     {
       "id": "tufts-bme-qiaobing-xu",

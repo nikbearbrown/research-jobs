@@ -22,13 +22,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Chemical Biology and Bioorganic Chemistry. The post-translational modification (PTM) of proteins is an essential cellular vocabulary that allows critical information to be communicated within and between cells. The Scheck lab pioneers new chemical biology tools that enable the decoding of PTM networks. We use these methods to unlock previously unattainable information about how PTMs are integrated into signaling networks in living cells. Our focus is on PTMs with unusual mechanisms that make them particularly complicated to study using traditional tools, which typically inhibit or profile specific enzyme activities. We use an integrated mass spectrometry and chemical biology approach to develop new, selective chemistries and chemical methods that can predictably modulate, track, or capture specific PTMs, like glycation, ubiquitination, or phosphate B-elimination. Learning how these signals are interpreted or degraded will provide access to new therapeutic targets for preventing or treating neurodegenerative diseases, bacterial infection, autoimmune disease, cancer, diabetes, and age-related diseases.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 8 PhD students",
+      "members_page_url": "https://sites.tufts.edu/scheckresearchgroup/about/",
+      "join_page_url": "https://sites.tufts.edu/scheckresearchgroup/",
+      "join_notes": "Home page invites postdoc applications (cover letter, CV, publications, three references emailed to Prof. Scheck) and points Tufts undergraduates to an application portal.",
       "profile_url": "https://chem.tufts.edu/node/1526",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: from the About Us page (one extra fetch): PI plus 8 graduate students before the Lab Alumni heading; the home page also seeks postdocs for NIH-funded projects."
     },
     {
       "id": "tufts-chemistry-clay-bennett",
@@ -47,10 +47,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://ase.tufts.edu/academics/graduate-programs/joint-phd-chemistry-and-materials-science-and-engineering",
       "join_notes": null,
       "profile_url": "https://chem.tufts.edu/node/1451",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: lab home loads but the linked people page (https://ase.tufts.edu/bennett-lab/people) returned the generic Tufts University homepage with no roster; an alternate guessed URL gave Page Not Found."
     },
     {
       "id": "tufts-chemistry-ira-caspari-gnann",
@@ -70,9 +70,9 @@
       "member_breakdown": null,
       "members_page_url": null,
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Undergraduates apply through a form linked on the home page (chem.tufts.edu undergraduate research opportunities); for a learning assistant position or graduate research, email Professor Caspari.",
       "profile_url": "https://chem.tufts.edu/node/1486",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Caspari Group Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Caspari Group Website'). Depth pass 2026-11-10: lab site read for size: home page of a chemistry education research group shows no member roster; only PI contact and how to join."
     },
     {
       "id": "tufts-chemistry-kevin-clark",
@@ -88,13 +88,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Analytical Chemistry, Separations, Mass Spectrometry, RNA Modifications, Neuro-analytical Chemistry. Our group is interested in the characterization of RNA modifications in the central nervous system and single cells. These naturally occurring modifications to RNA biopolymers play important roles in regulating protein translation, but little is known about their functions in the brain. We are focused on developing new approaches for chromatographic separations and mass spectrometry measurements of in small-volume samples such that they can be applied for the simultaneous profiling of multiple RNA modifications in single neurons. The Clark Lab is particularly interested in ionic liquid solvents and ion-tagged oligonucleotides as customizable materials for nucleic acid sample preparation that can be leveraged to improve the performance of downstream analysis methods. We combine our analytical methodologies with a powerful neurobiological model, the marine mollusk Aplysia californica, to investigate relationships between the dynamic landscape of RNA modifications and animal behavior, learning and memory, and function of the central nervous system in health and disease.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 4 PhD students, 3 undergraduates",
+      "members_page_url": "https://www.clarklabrna.com/members",
+      "join_page_url": "https://www.clarklabrna.com/about-5",
       "join_notes": null,
       "profile_url": "https://chem.tufts.edu/node/1496",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Clark Research Group Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Clark Research Group Website'). Depth pass 2026-11-10: lab site read for size: from the Members page (the site moved to clarklabrna.com; one extra fetch); PI is not listed on that page but the site is Prof. Clark's group, counted above the Lab Alumni heading."
     },
     {
       "id": "tufts-chemistry-luke-davis",
@@ -110,13 +110,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "I am interested in synthesis and characterization in inorganic and materials chemistry. I am especially interested in fundamental or applied chemistry that has important societal implications. \n\nMy research laboratory has ongoing projects in several areas:\n\nZero-emissions ironmaking.\nThe synthesis of iron metal from iron ore contributes ca. 4% of global carbon dioxide emissions. I am interested in alternative thermochemical methods, such as the use of ammonia, for making iron from iron oxides. This project has extended to other critical metals also. \n\nThin-film photovoltaics with earth-abundant, sulfide-based absorber layers.\nThin-film photovoltaics (solar cells) provide electricity from sunlight with just a few hundred nm of light-absorbing material. We are exploring binary and ternary sulfides as top-cell materials for tandem photovoltaics.\n\nEarth-abundant molecular light absorbers and emitters.\nMolecular light absorbers and emitters are used in photoredox catalysis, dye-sensitized solar cells, and organic light-emitting diodes (OLEDs). We are exploring high-spin complexes of iron and manganese to prepare new molecules that absorb and emit light. \n \n\nI am developing new research programs in other areas:\n\nNew superconducting materials.\nNear-room-temperature superconductors have recently been realized in compressed hydrides. I am interested in new hydride compounds that are stable at ambient pressure and might serve as ambient-pressure, ambient-temperature superconductors.\n\nVolatile molecules carrying metal-atom equivalents for superconducting wires.\nCryogenic superconducting wires enable quantum bits based on Josephson junctions. We are developing new molecules and methods to deposit the electropositive metals that make up these wires from chemical vapors.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 postdoc, 3 graduate students",
+      "members_page_url": "https://sites.tufts.edu/davislab/people/",
+      "join_page_url": "https://sites.tufts.edu/davislab/positions/",
       "join_notes": null,
       "profile_url": "https://chem.tufts.edu/node/1506",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: count from People page; Helena Tardif (MS '26) is listed with current students but also in the alumni M.S. list, so excluded."
     },
     {
       "id": "tufts-chemistry-xinqiang-ding",
@@ -132,13 +132,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "The Ding Group develops and uses computational approaches to solve problems in chemistry and biophysics. We currently focus on the following two areas. \n1. Computational drug design. We aim to accelerate drug design by developing fast and accurate methods for computing protein-ligand binding free energy. To do that, we combine ideas and methods from molecular simulations, statistical mechanics and machine learning.\n2. Force field development. We aim to develop a transferable and accurate coarse-grained force field for simulating large biophysical systems.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 graduate students, 2 undergraduate students",
+      "members_page_url": "https://dinglab.io/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://chem.tufts.edu/node/2011",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: counted from Members page; Alumni excluded."
     },
     {
       "id": "tufts-chemistry-neel-joshi",
@@ -201,10 +201,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://ase.tufts.edu/academics/graduate-programs/joint-phd-chemistry-and-materials-science-and-engineering",
       "join_notes": null,
       "profile_url": "https://chem.tufts.edu/node/1491",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: lab home loads but the linked people page (https://ase.tufts.edu/kritzer-lab/people) returned the generic Tufts University homepage with no roster; an alternate guessed URL gave Page Not Found."
     },
     {
       "id": "tufts-chemistry-krishna-kumar",
@@ -220,13 +220,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Bioorganic Chemistry and Chemical Biology\n\nThe research interests of the Kumar laboratory are centered on the (1) use of chemistry to design molecules to interrogate and illuminate fundamental mechanisms in biology, or be used as therapeutics; and (2) use of biology to \"evolve\" and \"select\" molecules that can perform chemistry in non-biological and medicinal settings.\n\nThese are some questions we are trying to answer:  (i) Is it possible to design and mimic natural proteins and other biological macromolecules by use of building blocks that nature does not use – and whether such constructs can be endowed with properties that are not found in biology?; (ii) How did the first enzymes arise in the imagined Darwin's pond – is there a way to recreate this scenario and in the process develop a fundamentally new method to create enzymes?;  (iii) Biology uses phase separation, that is, clustering of different compounds in confined locations – a process that is key in orchestrating the daily activities of a cell – can we find methods that can predictably dictate where molecules are located in a given environment and thereby direct the phenotype that is generated?; (iv) Can we rationally design small molecules and peptides that can function against antibiotic resistant bacteria that are threatening the most basic tenet of modern medicine?",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 5 graduate students, 1 research assistant, 3 undergraduates",
+      "members_page_url": "https://www.kumarlabs.org/members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://chem.tufts.edu/node/1501",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: counted the Members page (alumni are on a separate page)."
     },
     {
       "id": "tufts-chemistry-jet-lem",
@@ -257,20 +257,20 @@
       "pi_name": "Yu-Shan Lin",
       "pi_title": "Professor and Dean of Academic Affairs",
       "pi_email": "yu-shan.lin@tufts.edu",
-      "accepting_grad_students": null,
+      "accepting_grad_students": true,
       "lab_website": "https://ase.tufts.edu/chemistry/lin/index.html",
       "location": null,
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Theoretical and Computational Biophysical Chemistry. The YSL Group aims to elucidate the structures and functions of biomolecules by integrating the power of advanced computations with the elegance of chemical theory. Our focus is to develop and apply computational methodology to significant biological problems that are difficult to address experimentally. Two major research projects in the YSL Group are (1) to understand and design cyclic peptides with desired conformations to modulate protein–protein interactions and (2) to elucidate the structural and functional roles of post-translational modifications and non-natural amino acids on protein folding.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 research associate, 1 postdoc, 4 graduate students",
+      "members_page_url": "https://sites.tufts.edu/ysllab/group-members/",
+      "join_page_url": "https://sites.tufts.edu/ysllab/group-members/",
+      "join_notes": "Postdocs: send a CV and three references to the PI (needs MD and ML experience). Graduate students: email the PI or current group grad students.",
       "profile_url": "https://chem.tufts.edu/node/1571",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: counted from the Group Members page (extra fetch); Lab Alumni excluded."
     },
     {
       "id": "tufts-chemistry-charlie-mace",
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://chem.tufts.edu/node/1456",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: site could not be loaded; home_status: playwright timeout navigating to macelab.org."
     },
     {
       "id": "tufts-chemistry-mary-shultz",
@@ -308,13 +308,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Physical Chemistry and Surface Science.  The Shultz group applies physics and chemistry to understand the inner workings of hydrogen bonding. Hydrogen bonding plays key roles in environmental, biological, and atmospheric chemistry. Our program has research thrusts in all three directions. We specialize both in devising environments that clearly reveal key interactions and in developing new instrumentation. The most recent focus is on icy surfaces and on clathrate formation. Probing the ice surface begins with a well-prepared single-crystal surface. We have unique capabilities for growing single-crystal ice from the melt and for and preparing any desired ice face. Our clean water efforts are aimed at developing new materials to fill the significant need for safe drinking water. According to the World Health Organization, over one billion people lack safe drinking water. Our program is based on using photo catalysts to capture readily available sunlight to turn pollutants into benign CO2 and water. We developed methods to grow ultra-nano (~2 nm) particles that have well-controlled surface structures and chemistry.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 postdoc, 1 PhD candidate",
+      "members_page_url": "https://sites.tufts.edu/shultzresearchlab/people/",
+      "join_page_url": "https://sites.tufts.edu/shultzresearchlab/opportunities/",
       "join_notes": null,
       "profile_url": "https://chem.tufts.edu/node/1516",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: counted the PI and the two names under Current Members; the same postdoc (Rubel Talukder) also appears in the alumni list as 'Postdoc 2026', so he may be leaving and the count could be 2."
     },
     {
       "id": "tufts-chemistry-e-charles-sykes",
@@ -333,10 +333,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://ase.tufts.edu/academics/graduate-programs/joint-phd-chemistry-and-materials-science-and-engineering",
       "join_notes": null,
       "profile_url": "https://chem.tufts.edu/node/1461",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: lab home loads but the linked people page (https://ase.tufts.edu/sykes-lab/people) returned the generic Tufts University homepage with no roster; an alternate guessed URL gave Page Not Found."
     },
     {
       "id": "tufts-chemistry-arthur-utz",
@@ -352,13 +352,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Physical and Surface Chemistry.  The Utz group studies how molecules react on surfaces. Reactions at the gas-surface interface are highly dynamical events. Large-scale atomic and vibrational motions transform reactants into products on sub-ps and Ã… scales. The experiments  probe ultrafast nuclear motion and energy flow dynamics that underlie heterogeneous catalysis and chemical vapor deposition. The goal is to to better model existing processes and direct the rational design of new catalytic materials and deposition techniques. The experiments use vibrational- and rotational-state selective laser excitation of molecules in a supersonic molecular beam to provide precise control over the energetics and orientation of the gas-phase reagent as it approaches the surface.  Reaction probability and product identity is then quantified as a function of the reagent's energetic configuration. These experiments have shown that the vibrational state of the incident molecule can have a profound effect on reaction probability, and suggest that energy redisribution within the reaction complex is not complete prior to reaction and that the competing kinetics of energy redistribution and reaction might be manipulated to control the outcome of a reaction. This has been subsequently confirmed by exerting bond-elective control over a heterogeneously catalyzed reaction.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 graduate students",
+      "members_page_url": "https://sites.tufts.edu/utzgroup/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://chem.tufts.edu/node/1441",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: counted the PI and four names under Current Members."
     },
     {
       "id": "tufts-chemistry-yu-zhang",
@@ -374,13 +374,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Inorganic chemistry, Organometallic chemistry, Photochemistry, Bioinorganic Chemistry. Transition metal complexes are crucial for catalysis, energy conversion, and biological functions. Our research group is dedicated to synthesizing innovative transition metal complexes for sustainable applications. Our main research interests include: 1) developing molecular inorganic complexes for solar energy conversion; 2) exploring organometallic catalysis and small molecule activation; and 3) investigating the mechanisms underlying significant natural and industrial processes.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 postdoc, 3 graduate students, 3 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/zhanginorganiclab/history/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://chem.tufts.edu/node/1576",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Zhang Lab Site')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Zhang Lab Site'). Depth pass 2026-11-10: lab site read for size: counted people above the Alumni heading on the People/history page."
     },
     {
       "id": "tufts-chemistry-diren-pamuk-turner",
@@ -421,10 +421,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://ase.tufts.edu/academics/graduate-programs/joint-phd-chemistry-and-materials-science-and-engineering",
       "join_notes": null,
       "profile_url": "https://chem.tufts.edu/node/1556",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: lab home loads but the linked people page (https://ase.tufts.edu/thomas-lab/people) returned the generic Tufts University homepage with no roster; an alternate guessed URL gave Page Not Found."
     },
     {
       "id": "tufts-chemistry-david-walt",
@@ -440,13 +440,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 26,
+      "member_breakdown": "1 PI, 11 postdoctoral fellows (incl. a psychiatry resident and a clinical fellow in pathology), 2 staff scientists, 2 graduate students, 9 research assistants, 1 visiting scientist",
+      "members_page_url": "https://waltlab.bwh.harvard.edu/current-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://chem.tufts.edu/node/1471",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: counted from the Current Members page (extra fetch); note the lab is described as at Brigham and Women's Hospital, Harvard Medical School and the Wyss Institute, not at Tufts."
     }
   ],
   "non_lab_people": [

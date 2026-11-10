@@ -22,13 +22,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 25,
+      "member_breakdown": "1 PI, 6 scientists, 1 research assistant professor, 1 clinician faculty collaborator, 1 postdoc, 6 PhD candidates, 2 senior research associates (one lab manager), 6 research technicians, 2 administrators",
+      "members_page_url": "https://sites.tufts.edu/aldridgelab/people/",
+      "join_page_url": "https://sites.tufts.edu/aldridgelab/join/",
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/13131",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'). Depth pass 2026-11-10: lab site read for size: names counted above the Alumni heading; titles on the page are loosely aligned with names so the breakdown is approximate."
     },
     {
       "id": "tufts-mbm-andrew-camilli",
@@ -330,13 +330,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 research technician",
+      "members_page_url": "https://sites.tufts.edu/mirandalab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/24876",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'). Depth pass 2026-11-10: lab site read for size: people page lists the PI and one research technician."
     },
     {
       "id": "tufts-mbm-wai-leung-ng",

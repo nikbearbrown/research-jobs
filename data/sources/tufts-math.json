@@ -25,10 +25,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://sites.tufts.edu/kasso/?page_id=405",
       "join_notes": null,
       "profile_url": "https://math.tufts.edu/node/1441",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: personal faculty page of a math professor; no research group roster shown."
     },
     {
       "id": "tufts-math-james-adler",
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://math.tufts.edu/node/1426",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: personal faculty page (CV, teaching, publications); no research group roster."
     },
     {
       "id": "tufts-math-bernard-akwei",
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://math.tufts.edu/node/2031",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: personal faculty page (home, research, teaching); no research group or roster shown."
     },
     {
       "id": "tufts-math-hyeran-cho",
@@ -248,7 +248,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://math.tufts.edu/node/1401",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: site could not be loaded (home_status: playwright-error ERR_NAME_NOT_RESOLVED)."
     },
     {
       "id": "tufts-math-boris-hasselblatt",
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://math.tufts.edu/node/1526",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: personal homepage (research interests, CV, software) with no group or member list."
     },
     {
       "id": "tufts-math-misha-kilmer",
@@ -314,7 +314,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://math.tufts.edu/node/1486",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: site could not be loaded; home_status: ERR_NAME_NOT_RESOLVED for mkilme01.pages.tufts.edu."
     },
     {
       "id": "tufts-math-seulip-lee",
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://math.tufts.edu/node/2516",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: personal page of a Norbert Wiener Fellow; no research group or roster shown."
     },
     {
       "id": "tufts-math-andreas-mang",
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://math.tufts.edu/node/2891",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Webpage')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Webpage'). Depth pass 2026-11-10: lab site read for size: personal faculty page; says he joined Tufts in Fall 2026, no lab roster shown (advising is on a separate page)."
     },
     {
       "id": "tufts-math-george-mcninch",
@@ -380,7 +380,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://math.tufts.edu/node/1411",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: personal faculty page with blog posts and a Lean seminar; no research group roster."
     },
     {
       "id": "tufts-math-james-murphy",
@@ -396,13 +396,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Machine learning, harmonic analysis, statistical learning, graph theory, data science, computational mathematics, image processing, signal processing",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 Norbert Wiener assistant professor, 2 PhD students, 1 undergraduate researcher",
+      "members_page_url": "https://jmurphy.math.tufts.edu/ResearchGroup/",
+      "join_page_url": "https://jmurphy.math.tufts.edu/GetInvolved/",
+      "join_notes": "Undergraduates with analysis/probability/data background email with resume (projects of a year or more); Tufts PhD students email the PI, others apply via Math, CS or ECE naming him; postdocs email CV, cover letter and 2 papers.",
       "profile_url": "https://math.tufts.edu/node/1436",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: counted from the HILDA research group page (extra fetch); Group Alumni and REU Alumni excluded."
     },
     {
       "id": "tufts-math-elizabeth-newman",
@@ -556,7 +556,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://math.tufts.edu/node/1356",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: personal faculty page (research interests, news); no lab roster shown."
     },
     {
       "id": "tufts-math-montserrat-teixidor-i-bigas",
@@ -600,7 +600,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://math.tufts.edu/node/1416",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: personal faculty home page (CV, papers, seminars); no research group roster."
     },
     {
       "id": "tufts-math-shuchin-aeron",
@@ -616,13 +616,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Machine Learning, Statistical Signal Processing, Information Theory, Optimal Transport",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 5 PhD students",
+      "members_page_url": "https://shuchin.github.io/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://math.tufts.edu/node/1516",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Personal' link; taken as the lab site because its own menu links a people or lab page (https://shuchin.github.io/people/)."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Personal' link; taken as the lab site because its own menu links a people or lab page (https://shuchin.github.io/people/). Depth pass 2026-11-10: lab site read for size: count from the Current PhD Students list on the people page; graduate alumni excluded."
     },
     {
       "id": "tufts-math-lenore-cowen",
@@ -710,7 +710,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://math.tufts.edu/node/1341",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: site is a multi-institution research group (Izsak and Beckmann) whose members page lists collaborators at many universities, not one PI's lab roster."
     },
     {
       "id": "tufts-math-eric-miller",

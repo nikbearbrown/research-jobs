@@ -22,13 +22,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoc, 4 PhD students, 1 lab coordinator/RA, 4 undergraduate RAs",
+      "members_page_url": "https://sccnlab.bc.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/stefano-anzellotti.html",
-      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab site read for size: counted Lab Members on SCCN Lab people page; collaborating faculty/students and former members excluded."
     },
     {
       "id": "bc-psychology-neuroscience-diane-jo-bart-plange",
@@ -44,13 +44,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 lab coordinator, 2 PhD students, 11 research assistants (incl. 1 master's student)",
+      "members_page_url": "https://dianejobartplange.weebly.com/people.html",
+      "join_page_url": "https://dianejobartplange.weebly.com/join-the-lab.html",
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/dianejo-bartplange.html",
-      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (https://dianejobartplange.weebly.com/people.html)."
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (https://dianejobartplange.weebly.com/people.html). Depth pass 2026-11-10: lab site read for size: counted PI, coordinator, PhD students and research assistants on the DISCO Lab people page; Lab Pets and Lab Alumni excluded."
     },
     {
       "id": "bc-psychology-neuroscience-john-christianson",
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/john-christianson.html",
-      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Christianson Lab')."
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Christianson Lab'). Depth pass 2026-11-10: lab site read for size: site could not be loaded: tinyurl.com/christiansonlab resolves to a Wix 'Reconnect Your Domain / This domain isn't connected to a site' page (home_status 200)."
     },
     {
       "id": "bc-psychology-neuroscience-sara-cordes",
@@ -88,13 +88,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 postdocs, 2 graduate students",
+      "members_page_url": "https://sites.bc.edu/sara-cordes/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/sara-cordes.html",
-      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (https://sites.bc.edu/sara-cordes/infant-and-child-cognition-lab-at-boston-college/)."
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (https://sites.bc.edu/sara-cordes/infant-and-child-cognition-lab-at-boston-college/). Depth pass 2026-11-10: lab site read for size: fetched the lab's People page https://sites.bc.edu/sara-cordes/people/ (1 extra fetch) and counted the listed people."
     },
     {
       "id": "bc-psychology-neuroscience-elizabeth-kensinger",
@@ -110,13 +110,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 research assistant professor, 2 postdocs, 2 PhD students, 1 laboratory coordinator",
+      "members_page_url": "https://www.bccanlab.com/researchteam",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Undergraduates apply via the online application; for full-time RA, grad or postdoc roles contact Dr. Kensinger directly by email.",
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/elizabeth-kensinger.html",
-      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab site read for size: fetched Research team page https://www.bccanlab.com/researchteam (1 extra fetch); affiliated faculty and collaborators and alumni excluded."
     },
     {
       "id": "bc-psychology-neuroscience-kengthsagn-louis",
@@ -176,13 +176,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 24,
+      "member_breakdown": "1 PI, 1 postdoc, 2 graduate students, 1 lab coordinator, 19 research assistants/thesis student/intern",
+      "members_page_url": "http://katherinemcauliffe.com/labmembers",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/katherine-mcauliffe.html",
-      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (http://katherinemcauliffe.com/labmembers)."
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (http://katherinemcauliffe.com/labmembers). Depth pass 2026-11-10: lab site read for size: counted everyone listed above the Lab Alumni heading on the Cooperation Lab people page; alumni and photo gallery excluded."
     },
     {
       "id": "bc-psychology-neuroscience-michael-mcdannald",
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/michael-mcdannald.html",
-      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'McDannald Lab')."
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'McDannald Lab'). Depth pass 2026-11-10: lab site read for size: site could not be loaded: home_status playwright-error (Page.goto timeout 30000ms exceeded). Not retried."
     },
     {
       "id": "bc-psychology-neuroscience-gorica-petrovich",
@@ -220,13 +220,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 3 graduate students, 5 undergraduate students",
+      "members_page_url": "https://petrovichlab.bc.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/gorica-petrovich.html",
-      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Site')."
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Site'). Depth pass 2026-11-10: lab site read for size: counted the people page (alumni excluded); possibly stale since two undergraduates are listed as BC class of 2023 and 2024."
     },
     {
       "id": "bc-psychology-neuroscience-karen-rosen",
@@ -330,13 +330,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 postdoc, 4 PhD students, 1 research assistant, 4 undergraduates",
+      "members_page_url": "http://smithlabbc.com/team-1",
+      "join_page_url": "http://smithlabbc.com/join",
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/smith-caroline.html",
-      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (http://smithlabbc.com/team-1)."
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (http://smithlabbc.com/team-1). Depth pass 2026-11-10: lab site read for size: counted current team on Smith Lab team page; Alumni list excluded."
     },
     {
       "id": "bc-psychology-neuroscience-gregg-sparkman",
@@ -352,13 +352,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 4 PhD students, 1 postdoc, 1 lab manager, 3 undergraduate RAs, 1 SPUR scholar",
+      "members_page_url": "http://bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/labs/sparkman-lab/people.html",
+      "join_page_url": "http://bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/labs/sparkman-lab/contact.html",
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/gregg-sparkman.html",
-      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'). Depth pass 2026-11-10: lab site read for size: counted current members on the SISC Lab people page; Former Visiting Scholars/postdocs/RAs excluded."
     },
     {
       "id": "bc-psychology-neuroscience-momchil-tomov",
@@ -396,13 +396,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 5 PhD students, 1 postdoc, 1 lab manager, 4 research assistants/consultants",
+      "members_page_url": "https://moralitylab.bc.edu/people/",
+      "join_page_url": "https://moralitylab.bc.edu/join-us/",
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/people/faculty-directory/liane-young.html",
-      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department's own people page (Postdoctoral Fellows section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab site read for size: counted PI, graduate students, postdoc, research staff and research assistants on the Morality Lab people page; Lab Pets excluded. Page also on a lab whose Alumni are on a separate page."
     },
     {
       "id": "bc-psychology-neuroscience-ali-banuazizi",

@@ -66,13 +66,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 postdoc, 1 PhD student, 1 undergraduate",
+      "members_page_url": "https://blogs.umb.edu/akirasone/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/akirasone/",
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled \"Akira Sone's Quantum Information Theory Group\")."
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled \"Akira Sone's Quantum Information Theory Group\"). Depth pass 2026-11-10: lab site read for size: count from the Team page: PI plus Current Postdoc, Current Students (1 PhD, 1 undergraduate); Alumni excluded."
     },
     {
       "id": "umass-boston-physics-bala-sundaram",

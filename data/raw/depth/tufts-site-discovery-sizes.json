@@ -1,0 +1,1251 @@
+[
+  {
+    "source": "data/sources/tufts-physics.json",
+    "lab_id": "tufts-physics-danilo-marchesini",
+    "fields": {},
+    "note": "lab site read for size: personal faculty page (research/teaching links, news); no lab roster shown."
+  },
+  {
+    "source": "data/sources/tufts-physics.json",
+    "lab_id": "tufts-physics-anna-sajina",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 5 current grad students",
+      "members_page_url": "http://cosmos2.phy.tufts.edu/~asajina/research_group.html"
+    },
+    "note": "lab site read for size: research Group page marks 5 grad students as current; 2 postdocs listed without a current mark (not counted) and the rest are past members/thesis students."
+  },
+  {
+    "source": "data/sources/tufts-cbe.json",
+    "lab_id": "tufts-cbe-ayse-asatekin",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 graduate students, 2 undergraduates",
+      "members_page_url": "http://engineering.tufts.edu/chbe/asatekin/people",
+      "pi_email": "ayse.asatekin@tufts.edu"
+    },
+    "note": "lab site read for size: people page lists PI, 3 grad students, 2 undergrads; the visiting-faculty affiliate (1) is not counted; former members are on a separate page."
+  },
+  {
+    "source": "data/sources/tufts-cs.json",
+    "lab_id": "tufts-cs-elaine-short",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 6 PhD students",
+      "members_page_url": "http://aabl.cs.tufts.edu/people.html",
+      "pi_email": "elaine@eshort.tech"
+    },
+    "note": "lab site read for size: count from the AABL lab People page linked from the personal site; 'Student Collaborators & Friends' (other advisors) and alumni not counted."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-smita-gopinath",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 graduate student",
+      "members_page_url": "http://gopinathlab.org/home/members"
+    },
+    "note": "lab site read for size: members page lists PI and one graduate student; everyone else is under Lab Alumni."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-zarin-machanda",
+    "fields": {},
+    "note": "lab site read for size: kibale Chimpanzee Project is a multi-institution field project with several directors, not a single PI's lab; not used as one PI's group size."
+  },
+  {
+    "source": "data/sources/tufts-bme.json",
+    "lab_id": "tufts-bme-kyle-quinn",
+    "fields": {},
+    "note": "lab site read for size: site could not be loaded (home_status 200 but the page returned '403 Forbidden' even after one rendered fetch)."
+  },
+  {
+    "source": "data/sources/tufts-psychology.json",
+    "lab_id": "tufts-psychology-jp-de-ruiter",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD students, 1 undergraduate research assistant, 1 lab manager",
+      "members_page_url": "https://sites.tufts.edu/hilab/people/",
+      "pi_email": "jp.deruiter@tufts.edu"
+    },
+    "note": "lab site read for size: count from 'Current research members' on the People page; alumni section excluded."
+  },
+  {
+    "source": "data/sources/tufts-ece.json",
+    "lab_id": "tufts-ece-mai-vu",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 PhD students",
+      "members_page_url": "https://sites.tufts.edu/links/?page_id=2",
+      "pi_email": "Mai.Vu@tufts.edu"
+    },
+    "note": "lab site read for size: pI plus 4 PhD students listed; alumni, visitors excluded."
+  },
+  {
+    "source": "data/sources/tufts-mbm.json",
+    "lab_id": "tufts-mbm-samantha-miranda",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 research technician",
+      "members_page_url": "https://sites.tufts.edu/mirandalab/people/"
+    },
+    "note": "lab site read for size: people page lists the PI and one research technician."
+  },
+  {
+    "source": "data/sources/tufts-cbe.json",
+    "lab_id": "tufts-cbe-nik-nair",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 2 postdocs, 7 graduate students (6 PhD, 1 MS), 3 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/nairlab/people/",
+      "pi_email": "Nikhil.Nair@tufts.edu"
+    },
+    "note": "lab site read for size: count from current sections of People page (alumni and visiting scholar excluded). Email shown obfuscated as Nikhil.Nair_at_tufts_dot_edu."
+  },
+  {
+    "source": "data/sources/tufts-physics.json",
+    "lab_id": "tufts-physics-timothy-atherton",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 graduate students, 2 undergraduate summer scholars",
+      "members_page_url": "https://sites.tufts.edu/softmattertheory/people/",
+      "join_page_url": "https://sites.tufts.edu/softmattertheory/contact/",
+      "pi_email": "timothy.atherton@tufts.edu"
+    },
+    "note": "lab site read for size: from 'Current Group Members' plus PI; alumni excluded."
+  },
+  {
+    "source": "data/sources/tufts-ece.json",
+    "lab_id": "tufts-ece-mark-hempstead",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 7 PhD students, 1 MS student, 2 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/tcal/people/"
+    },
+    "note": "lab site read for size: pI plus current PhD, MS and undergraduate students on the People page."
+  },
+  {
+    "source": "data/sources/tufts-bme.json",
+    "lab_id": "tufts-bme-brian-timko",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 3 PhD students, 2 MS students, 4 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/timkolab/people/"
+    },
+    "note": "lab site read for size: current people on the People page; alumni on a separate page."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-benjamin-wolfe",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 research technician, 4 PhD students, 4 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/wolfelab/people/",
+      "join_page_url": "https://sites.tufts.edu/wolfelab/join-the-wolfe-lab/"
+    },
+    "note": "lab site read for size: count before the Former Lab Members heading."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-jaye-gardiner",
+    "fields": {
+      "member_count": 1,
+      "member_breakdown": "1 PI",
+      "members_page_url": "http://www.gardinerlab.science/team.html"
+    },
+    "note": "lab site read for size: team page shows only the PI (plus a lab mascot and a 'This could be you!' placeholder); no other members listed."
+  },
+  {
+    "source": "data/sources/tufts-bme.json",
+    "lab_id": "tufts-bme-juan-gnecco",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 graduate students (PhD), 1 research technician, 1 undergraduate",
+      "members_page_url": "https://www.gneccolab.com/people",
+      "pi_email": "Juan.Gnecco@tufts.edu"
+    },
+    "note": "lab site read for size: counted members not also in the Alumni list; Manek Khedia, Brianna Starling and Siqi Zhang appear in both the members list and the 2025 alumni list and were treated as alumni, so the page may be partly stale."
+  },
+  {
+    "source": "data/sources/tufts-neuroscience.json",
+    "lab_id": "tufts-neuroscience-jamie-maguire",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 7 listed as Ph.D. (role not stated), 1 graduate student, 2 postbac scholars",
+      "members_page_url": "http://www.maguirelab.com/lab-members"
+    },
+    "note": "lab site read for size: count from the 'Current Lab Members' list (11 names including the PI); roles are not given for the Ph.D.s."
+  },
+  {
+    "source": "data/sources/tufts-dmcb.json",
+    "lab_id": "tufts-dmcb-gat-rauner",
+    "fields": {},
+    "note": "lab site read for size: single-page lab site (About, research, contact); no member roster shown on the cached page."
+  },
+  {
+    "source": "data/sources/tufts-psychology.json",
+    "lab_id": "tufts-psychology-ayanna-thomas",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 postdoctoral fellow, 1 graduate student, 1 senior research coordinator",
+      "members_page_url": "https://www.thomas-camlab.org/about",
+      "pi_email": "ayanna.thomas@tufts.edu"
+    },
+    "note": "lab site read for size: from 'Present Lab Members'; former members excluded."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-khoa-tran",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 graduate students, 2 undergraduates",
+      "members_page_url": "http://www.tranlab.science/members",
+      "join_page_url": "http://www.tranlab.science/join-the-lab",
+      "pi_email": "k.tran@tufts.edu"
+    },
+    "note": "lab site read for size: lab Members page lists PI, 2 grad students and 2 undergrad researchers; no alumni section."
+  },
+  {
+    "source": "data/sources/tufts-math.json",
+    "lab_id": "tufts-math-abiy-tasissa",
+    "fields": {},
+    "note": "lab site read for size: personal faculty page (research interests, news); no lab roster shown."
+  },
+  {
+    "source": "data/sources/tufts-physics.json",
+    "lab_id": "tufts-physics-adam-smercina",
+    "fields": {},
+    "note": "lab site read for size: personal research page on Wix; no lab roster shown."
+  },
+  {
+    "source": "data/sources/tufts-math.json",
+    "lab_id": "tufts-math-andreas-mang",
+    "fields": {},
+    "note": "lab site read for size: personal faculty page; says he joined Tufts in Fall 2026, no lab roster shown (advising is on a separate page)."
+  },
+  {
+    "source": "data/sources/tufts-ecs.json",
+    "lab_id": "tufts-ecs-andrew-kemp",
+    "fields": {},
+    "note": "lab site read for size: personal research page; no lab roster shown."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-erik-dopman",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 graduate students, 1 undergraduate",
+      "members_page_url": "https://as.tufts.edu/biology/dopman-lab/people",
+      "join_page_url": "https://as.tufts.edu/biology/dopman-lab/about/join-our-lab"
+    },
+    "note": "lab site read for size: 'Current Lab Members' on the People page; former members are on a separate page."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-catherine-freudenreich",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 3 PhD students, 1 MS student, 1 scientist, 6 undergraduates",
+      "members_page_url": "https://as.tufts.edu/biology/freudenreich-lab/people",
+      "join_page_url": "https://as.tufts.edu/biology/freudenreich-lab/about/join-our-lab"
+    },
+    "note": "lab site read for size: 'Current Lab Members' and 'Current Undergraduate Research Students' on the People page."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-alfredo-hernandez",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 3 graduate students, 1 research specialist, 5 undergraduates",
+      "members_page_url": "https://as.tufts.edu/biology/hernandez-lab/people",
+      "join_page_url": "https://as.tufts.edu/biology/hernandez-lab/about/join-our-lab"
+    },
+    "note": "lab site read for size: 'Current Lab Members' and current undergraduates on the People page."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-michael-levin",
+    "fields": {
+      "member_count": 71,
+      "member_breakdown": "1 PI, 11 postdocs, 9 staff scientists, 3 PhD students, ~18 undergraduates/interns, plus technicians, assistants and center admin staff",
+      "members_page_url": "https://as.tufts.edu/biology/levin-lab/people/current-lab-members"
+    },
+    "note": "lab site read for size: counted the Current Lab Members page (70 names) plus the PI; the list includes 14+ undergraduate interns, 11 postdocs, 9 staff scientists, 3 PhD students and Allen Discovery Center admin/management staff, so it reflects the whole center-sized group."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-kelly-mclaughlin",
+    "fields": {
+      "join_page_url": "https://as.tufts.edu/biology/mclaughlin-lab/about/join-our-lab"
+    },
+    "note": "lab site read for size: people page is headed 'Current Lab Members' but lists undergraduates by Class of 2017/2018 and 2014 awards, so it is clearly out of date; cannot tell who is current."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-mitch-mcvey",
+    "fields": {
+      "member_count": 19,
+      "member_breakdown": "1 PI, 1 senior research technician, 1 postdoctoral scholar, 5 PhD/graduate students (2 listed only as 'PhD'), 10 undergraduates, 1 rotation student",
+      "members_page_url": "https://as.tufts.edu/biology/mcvey-lab/people",
+      "join_page_url": "https://as.tufts.edu/biology/mcvey-lab/about/join-our-lab"
+    },
+    "note": "lab site read for size: people page lists members without a Current heading (former members on a separate page) and without dates; count may include some who have left."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-sergei-mirkin",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 scientist, 6 graduate students, 1 lab manager, 6 undergraduates",
+      "members_page_url": "https://as.tufts.edu/biology/mirkin-lab/people",
+      "join_page_url": "https://as.tufts.edu/biology/mirkin-lab/about/join-our-lab"
+    },
+    "note": "lab site read for size: people page; former members on a separate page."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-barry-trimmer",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 2 PhD students (1 rotating), 3 lab-affiliated master's students, 5 undergraduate researchers, 4 undergraduates on the MONOLITh robot team",
+      "members_page_url": "https://as.tufts.edu/biology/neuromechanics-and-biomimetic-devices-lab/people"
+    },
+    "note": "lab site read for size: people page; former members on a separate page. Includes lab-affiliated grad students and one rotation student."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-colin-orians",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 1 research assistant professor",
+      "members_page_url": "https://as.tufts.edu/biology/orians-lab/people",
+      "join_page_url": "https://as.tufts.edu/biology/orians-lab/about/join-our-lab"
+    },
+    "note": "lab site read for size: 'Current Lab Members' on the People page; former members on a separate page."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-michael-reed",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 PhD students, 4 undergraduate research students",
+      "members_page_url": "https://as.tufts.edu/biology/reed-lab/people",
+      "join_page_url": "https://as.tufts.edu/biology/reed-lab/about/join-our-lab",
+      "pi_email": "michael.reed@tufts.edu"
+    },
+    "note": "lab site read for size: counted from Current Lab Members and Current Undergraduate Research Students on the People page."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-michael-romero",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 graduate research students",
+      "members_page_url": "https://as.tufts.edu/biology/romero-lab/people",
+      "pi_email": "michael.romero@tufts.edu"
+    },
+    "note": "lab site read for size: counted from Current Lab Members on the People page."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-philip-starks",
+    "fields": {
+      "join_page_url": "https://as.tufts.edu/biology/starks-lab/about/join-our-lab",
+      "pi_email": "philip.starks@tufts.edu"
+    },
+    "note": "lab site read for size: people page lists only the PI (no lab members shown), so no roster count."
+  },
+  {
+    "source": "data/sources/tufts-commhealth.json",
+    "lab_id": "tufts-commhealth-keren-ladin",
+    "fields": {
+      "join_page_url": "https://as.tufts.edu/occupationaltherapy/about/open-positions"
+    },
+    "note": "lab site read for size: rEACH page returned 403 Access Denied and the cached people page is the department's faculty/staff list, not a lab roster."
+  },
+  {
+    "source": "data/sources/tufts-psychology.json",
+    "lab_id": "tufts-psychology-marcus-weera",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 4 graduate students",
+      "members_page_url": "https://as.tufts.edu/psychology/addiction-neuroscience-lab/people",
+      "join_page_url": "https://as.tufts.edu/psychology/addiction-neuroscience-lab/about/lab-opportunities"
+    },
+    "note": "lab site read for size: counted from the PI, Postdoctoral Scholar and Graduate Students sections; Alumni excluded."
+  },
+  {
+    "source": "data/sources/tufts-psychology.json",
+    "lab_id": "tufts-psychology-lisa-shin",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 graduate students/postdocs (page does not say which are which)",
+      "members_page_url": "https://as.tufts.edu/psychology/posttraumatic-stress-disorder-neuroimaging-lab/people",
+      "join_page_url": "https://as.tufts.edu/psychology/posttraumatic-stress-disorder-neuroimaging-lab/about",
+      "pi_email": "lisa.shin@tufts.edu"
+    },
+    "note": "lab site read for size: counted from PI plus the 'Graduate Students and Postdocs' section; Recent Alumni excluded."
+  },
+  {
+    "source": "data/sources/tufts-psychology.json",
+    "lab_id": "tufts-psychology-jessica-remedios",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 graduate students",
+      "members_page_url": "https://as.tufts.edu/psychology/social-identity-stigma-lab/people"
+    },
+    "note": "lab site read for size: counted from PI and Graduate Students sections; Lab Alumni and Collaborators excluded."
+  },
+  {
+    "source": "data/sources/tufts-psychology.json",
+    "lab_id": "tufts-psychology-keith-maddox",
+    "fields": {
+      "join_page_url": "https://as.tufts.edu/psychology/tusc-lab/about"
+    },
+    "note": "lab site read for size: people page lists only the PI and a visiting faculty entry with years 2021-2022; all other names are under Former Graduate Students / Former Research Assistants, so current members cannot be determined."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-elizabeth-crone",
+    "fields": {
+      "join_page_url": "https://ase.tufts.edu/research/opportunities-for-students"
+    },
+    "note": "lab site read for size: site fetch returned the generic Tufts University homepage, not the Crone lab page; no roster visible (one extra --render fetch gave the same)."
+  },
+  {
+    "source": "data/sources/tufts-physics.json",
+    "lab_id": "tufts-physics-fiorenzo-omenetto",
+    "fields": {},
+    "note": "lab site read for size: this is the Silklab site; the People page URL returned the lab home page with no roster, so members could not be counted (extra render fetch gave the same)."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-clay-bennett",
+    "fields": {
+      "join_page_url": "https://ase.tufts.edu/academics/graduate-programs/joint-phd-chemistry-and-materials-science-and-engineering"
+    },
+    "note": "lab site read for size: lab home loads but the linked people page (https://ase.tufts.edu/bennett-lab/people) returned the generic Tufts University homepage with no roster; an alternate guessed URL gave Page Not Found."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-joshua-kritzer",
+    "fields": {
+      "join_page_url": "https://ase.tufts.edu/academics/graduate-programs/joint-phd-chemistry-and-materials-science-and-engineering"
+    },
+    "note": "lab site read for size: lab home loads but the linked people page (https://ase.tufts.edu/kritzer-lab/people) returned the generic Tufts University homepage with no roster; an alternate guessed URL gave Page Not Found."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-yu-shan-lin",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 research associate, 1 postdoc, 4 graduate students",
+      "members_page_url": "https://sites.tufts.edu/ysllab/group-members/",
+      "join_page_url": "https://sites.tufts.edu/ysllab/group-members/",
+      "join_notes": "Postdocs: send a CV and three references to the PI (needs MD and ML experience). Graduate students: email the PI or current group grad students.",
+      "pi_email": "yu-shan.lin@tufts.edu",
+      "accepting_grad_students": true
+    },
+    "note": "lab site read for size: counted from the Group Members page (extra fetch); Lab Alumni excluded."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-e-charles-sykes",
+    "fields": {
+      "join_page_url": "https://ase.tufts.edu/academics/graduate-programs/joint-phd-chemistry-and-materials-science-and-engineering"
+    },
+    "note": "lab site read for size: lab home loads but the linked people page (https://ase.tufts.edu/sykes-lab/people) returned the generic Tufts University homepage with no roster; an alternate guessed URL gave Page Not Found."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-samuel-thomas",
+    "fields": {
+      "join_page_url": "https://ase.tufts.edu/academics/graduate-programs/joint-phd-chemistry-and-materials-science-and-engineering"
+    },
+    "note": "lab site read for size: lab home loads but the linked people page (https://ase.tufts.edu/thomas-lab/people) returned the generic Tufts University homepage with no roster; an alternate guessed URL gave Page Not Found."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-david-walt",
+    "fields": {
+      "member_count": 26,
+      "member_breakdown": "1 PI, 11 postdoctoral fellows (incl. a psychiatry resident and a clinical fellow in pathology), 2 staff scientists, 2 graduate students, 9 research assistants, 1 visiting scientist",
+      "members_page_url": "https://waltlab.bwh.harvard.edu/current-members/"
+    },
+    "note": "lab site read for size: counted from the Current Members page (extra fetch); note the lab is described as at Brigham and Women's Hospital, Harvard Medical School and the Wyss Institute, not at Tufts."
+  },
+  {
+    "source": "data/sources/tufts-me.json",
+    "lab_id": "tufts-me-tong-gao",
+    "fields": {},
+    "note": "lab site read for size: members page is a template with placeholder text; it lists four group members, but three are tagged 'Ph.D.@ MSU' and photos say 'Final days of MSU's CFG', so it is unclear who is a current Tufts member."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-xinqiang-ding",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 graduate students, 2 undergraduate students",
+      "members_page_url": "https://dinglab.io/people/"
+    },
+    "note": "lab site read for size: counted from Members page; Alumni excluded."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-ethan-deyle",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 2 PhD students (at Boston University, co-advised), 1 MS student, 2 undergraduates",
+      "members_page_url": "https://dyn.eco/about"
+    },
+    "note": "lab site read for size: counted from the Lab Members list on the People page, which says 'More to come'."
+  },
+  {
+    "source": "data/sources/tufts-psychology.json",
+    "lab_id": "tufts-psychology-heather-urry",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 graduate student",
+      "members_page_url": "https://ebbl.heatherurry.io/people.html",
+      "join_page_url": "https://ebbl.heatherurry.io/get-involved.html",
+      "pi_email": "heather.urry@tufts.edu"
+    },
+    "note": "lab site read for size: counted from Director and Current Graduate Students; Former Graduate Students and Postdocs excluded."
+  },
+  {
+    "source": "data/sources/tufts-bme.json",
+    "lab_id": "tufts-bme-angelo-sassaroli",
+    "fields": {},
+    "note": "the profile's lab link is Sergio Fantini's DOIT lab, where Sassaroli is listed as research faculty, not a group of his own; size left null."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-david-kaplan",
+    "fields": {
+      "join_page_url": "https://engineering.tufts.edu/bme/about/contact-and-directions"
+    },
+    "note": "lab site read for size: the lab link (engineering.tufts.edu/bme/kaplan/) returned Page Not Found and the cached people page is the department-wide people index."
+  },
+  {
+    "source": "data/sources/tufts-cbe.json",
+    "lab_id": "tufts-cbe-graham-leverick",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 graduate students, 4 undergraduate students",
+      "members_page_url": "https://engineering.tufts.edu/chbe/leverick/people",
+      "join_page_url": "https://engineering.tufts.edu/chbe/leverick/about/join-our-lab"
+    },
+    "note": "lab site read for size: counted from the People page; Former Lab Members excluded."
+  },
+  {
+    "source": "data/sources/tufts-epsilon.json",
+    "lab_id": "tufts-epsilon-laurent-pilon",
+    "fields": {
+      "join_page_url": "https://epsilon.tufts.edu/people/open-positions"
+    },
+    "note": "lab site read for size: site is the Tufts Epsilon Materials Institute, a multi-faculty institute, not one PI's group."
+  },
+  {
+    "source": "data/sources/tufts-math.json",
+    "lab_id": "tufts-math-fulton-gonzalez",
+    "fields": {},
+    "note": "lab site read for size: site could not be loaded (home_status: playwright-error ERR_NAME_NOT_RESOLVED)."
+  },
+  {
+    "source": "data/sources/tufts-math.json",
+    "lab_id": "tufts-math-george-mcninch",
+    "fields": {},
+    "note": "lab site read for size: personal faculty page with blog posts and a Lean seminar; no research group roster."
+  },
+  {
+    "source": "data/sources/tufts-immunology.json",
+    "lab_id": "tufts-immunology-li-zeng",
+    "fields": {
+      "join_page_url": "https://gsbs.tufts.edu/admissions"
+    },
+    "note": "lab site read for size: cached people page is the school-wide faculty directory; the lab page lists only 4 GSBS-student members ('Lab Members Who Are GSBS Students') and the lab's own Google site had no readable roster."
+  },
+  {
+    "source": "data/sources/tufts-math.json",
+    "lab_id": "tufts-math-genevieve-walsh",
+    "fields": {},
+    "note": "lab site read for size: personal faculty home page (CV, papers, seminars); no research group roster."
+  },
+  {
+    "source": "data/sources/tufts-physics.json",
+    "lab_id": "tufts-physics-hugo-beauchemin",
+    "fields": {},
+    "note": "lab site read for size: personal faculty page; no group roster shown on the home page."
+  },
+  {
+    "source": "data/sources/tufts-neuroscience.json",
+    "lab_id": "tufts-neuroscience-emily-newman",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 PhD student, 1 research technician, 5 undergraduate researchers",
+      "members_page_url": "https://hellonewmanlab.com/newman-lab-members",
+      "pi_email": "emily.newman@tufts.edu"
+    },
+    "note": "lab site read for size: counted from the Newman Lab members page."
+  },
+  {
+    "source": "data/sources/tufts-math.json",
+    "lab_id": "tufts-math-james-adler",
+    "fields": {},
+    "note": "lab site read for size: personal faculty page (CV, teaching, publications); no research group roster."
+  },
+  {
+    "source": "data/sources/tufts-math.json",
+    "lab_id": "tufts-math-james-murphy",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 Norbert Wiener assistant professor, 2 PhD students, 1 undergraduate researcher",
+      "members_page_url": "https://jmurphy.math.tufts.edu/ResearchGroup/",
+      "join_page_url": "https://jmurphy.math.tufts.edu/GetInvolved/",
+      "join_notes": "Undergraduates with analysis/probability/data background email with resume (projects of a year or more); Tufts PhD students email the PI, others apply via Math, CS or ECE naming him; postdocs email CV, cover letter and 2 papers."
+    },
+    "note": "lab site read for size: counted from the HILDA research group page (extra fetch); Group Alumni and REU Alumni excluded."
+  },
+  {
+    "source": "data/sources/tufts-physics.json",
+    "lab_id": "tufts-physics-krzysztof-sliwa",
+    "fields": {},
+    "note": "lab site read for size: personal activity page for a professor; text says the ATLAS group 'consisted of' two faculty and no current roster is shown."
+  },
+  {
+    "source": "data/sources/tufts-psychology.json",
+    "lab_id": "tufts-psychology-gina-kuperberg",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdocs, 3 research coordinators/technicians, 2 graduate students, 2 undergraduate researchers",
+      "members_page_url": "https://kuperberglab.com/team",
+      "join_page_url": "https://kuperberglab.com/join-our-lab"
+    },
+    "note": "lab site read for size: counted from Our Team page; consultants, collaborators and all alumni lists excluded."
+  },
+  {
+    "source": "data/sources/tufts-ece.json",
+    "lab_id": "tufts-ece-yingjie-lao",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 5 PhD students, 1 undergraduate",
+      "members_page_url": "https://laogroup.ece.tufts.edu/team/",
+      "pi_email": "yingjie.lao@tufts.edu"
+    },
+    "note": "lab site read for size: count from the Team page; alumni list excluded."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-charlie-mace",
+    "fields": {},
+    "note": "lab site read for size: site could not be loaded; home_status: playwright timeout navigating to macelab.org."
+  },
+  {
+    "source": "data/sources/tufts-math.json",
+    "lab_id": "tufts-math-misha-kilmer",
+    "fields": {},
+    "note": "lab site read for size: site could not be loaded; home_status: ERR_NAME_NOT_RESOLVED for mkilme01.pages.tufts.edu."
+  },
+  {
+    "source": "data/sources/tufts-ece.json",
+    "lab_id": "tufts-ece-shuchin-aeron",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 5 PhD students",
+      "members_page_url": "https://shuchin.github.io/people/"
+    },
+    "note": "lab site read for size: count from the Current PhD Students list on the people page; graduate alumni excluded."
+  },
+  {
+    "source": "data/sources/tufts-math.json",
+    "lab_id": "tufts-math-shuchin-aeron",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 5 PhD students",
+      "members_page_url": "https://shuchin.github.io/people/"
+    },
+    "note": "lab site read for size: count from the Current PhD Students list on the people page; graduate alumni excluded."
+  },
+  {
+    "source": "data/sources/tufts-me.json",
+    "lab_id": "tufts-me-jason-rife",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 senior personnel (Professor of the Practice), 7 graduate students",
+      "members_page_url": "https://sites.google.com/a/tufts.edu/asar/"
+    },
+    "note": "lab site read for size: count from the Personnel list on the home page (Lab Director, Senior Personnel, Current Graduate Students); former advisees excluded."
+  },
+  {
+    "source": "data/sources/tufts-cbe.json",
+    "lab_id": "tufts-cbe-prashant-deshlahra",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 4 graduate students (one listed with an MS 2025), 1 undergraduate",
+      "members_page_url": "https://sites.google.com/site/prashantdeshlahra/members",
+      "pi_email": "prashant.deshlahra@tufts.edu"
+    },
+    "note": "lab site read for size: count from the Members page above the Alumni heading."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-ira-caspari-gnann",
+    "fields": {
+      "join_notes": "Undergraduates apply through a form linked on the home page (chem.tufts.edu undergraduate research opportunities); for a learning assistant position or graduate research, email Professor Caspari.",
+      "pi_email": "ira.caspari@tufts.edu"
+    },
+    "note": "lab site read for size: home page of a chemistry education research group shows no member roster; only PI contact and how to join."
+  },
+  {
+    "source": "data/sources/tufts-math.json",
+    "lab_id": "tufts-math-corey-bregman",
+    "fields": {},
+    "note": "lab site read for size: personal faculty page (home, research, teaching); no research group or roster shown."
+  },
+  {
+    "source": "data/sources/tufts-math.json",
+    "lab_id": "tufts-math-seulip-lee",
+    "fields": {},
+    "note": "lab site read for size: personal page of a Norbert Wiener Fellow; no research group or roster shown."
+  },
+  {
+    "source": "data/sources/tufts-physics.json",
+    "lab_id": "tufts-physics-peter-love",
+    "fields": {},
+    "note": "lab site read for size: site is a Tufts QI/QC hub page saying the Love group has moved to the University of Toronto; no Tufts roster for this PI."
+  },
+  {
+    "source": "data/sources/tufts-me.json",
+    "lab_id": "tufts-me-kristen-wendell",
+    "fields": {},
+    "note": "lab site read for size: lab home page describes projects but shows no member list or people page."
+  },
+  {
+    "source": "data/sources/tufts-mbm.json",
+    "lab_id": "tufts-mbm-bree-aldridge",
+    "fields": {
+      "member_count": 25,
+      "member_breakdown": "1 PI, 6 scientists, 1 research assistant professor, 1 clinician faculty collaborator, 1 postdoc, 6 PhD candidates, 2 senior research associates (one lab manager), 6 research technicians, 2 administrators",
+      "members_page_url": "https://sites.tufts.edu/aldridgelab/people/",
+      "join_page_url": "https://sites.tufts.edu/aldridgelab/join/",
+      "pi_email": "Bree.Aldridge@tufts.edu"
+    },
+    "note": "lab site read for size: names counted above the Alumni heading; titles on the page are loosely aligned with names so the breakdown is approximate."
+  },
+  {
+    "source": "data/sources/tufts-ece.json",
+    "lab_id": "tufts-ece-aseema-mohanty",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 4 PhD students, 3 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/amohanty/people/",
+      "join_page_url": "https://sites.tufts.edu/amohanty/opportunities/"
+    },
+    "note": "lab site read for size: count from the People page above the Alumni heading."
+  },
+  {
+    "source": "data/sources/tufts-physics.json",
+    "lab_id": "tufts-physics-aseema-mohanty",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 4 PhD students, 3 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/amohanty/people/",
+      "join_page_url": "https://sites.tufts.edu/amohanty/opportunities/"
+    },
+    "note": "lab site read for size: count from the People page above the Alumni heading."
+  },
+  {
+    "source": "data/sources/tufts-psychology.json",
+    "lab_id": "tufts-psychology-nathan-ward",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 PhD students, 2 MS graduate research assistants, 2 undergraduate research assistants",
+      "members_page_url": "https://sites.tufts.edu/appliedcognition/research-team",
+      "join_page_url": "https://sites.tufts.edu/appliedcognition/opportunities",
+      "pi_email": "nathan.ward@tufts.edu"
+    },
+    "note": "lab site read for size: count from the Current team page (one extra fetch); alumni on a separate page excluded."
+  },
+  {
+    "source": "data/sources/tufts-vet-cp.json",
+    "lab_id": "tufts-vet-cp-elizabeth-byrnes",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 senior research technician",
+      "members_page_url": "https://sites.tufts.edu/byrneslab/other/"
+    },
+    "note": "lab site read for size: count from the Current Lab Members list; the Recent Alumni sections (including other technicians) excluded."
+  },
+  {
+    "source": "data/sources/tufts-psychology.json",
+    "lab_id": "tufts-psychology-paul-muentener",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 graduate student",
+      "members_page_url": "https://sites.tufts.edu/cdlab/research-team/"
+    },
+    "note": "lab site read for size: count from Research Team page (one extra fetch); alumni excluded."
+  },
+  {
+    "source": "data/sources/tufts-epcshd.json",
+    "lab_id": "tufts-epcshd-eileen-crehan",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 3 doctoral students, 3 master's students, 8 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/crehanlab/biography/"
+    },
+    "note": "lab site read for size: count from the Meet the Team page above Lab Alumni."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-luke-davis",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 postdoc, 3 graduate students",
+      "members_page_url": "https://sites.tufts.edu/davislab/people/",
+      "join_page_url": "https://sites.tufts.edu/davislab/positions/"
+    },
+    "note": "lab site read for size: count from People page; Helena Tardif (MS '26) is listed with current students but also in the alumni M.S. list, so excluded."
+  },
+  {
+    "source": "data/sources/tufts-cbe.json",
+    "lab_id": "tufts-cbe-nathaniel-eagan",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 4 graduate students, 5 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/eaganlaboratory/team/"
+    },
+    "note": "lab site read for size: count from Team page above Former Members."
+  },
+  {
+    "source": "data/sources/tufts-epcshd.json",
+    "lab_id": "tufts-epcshd-christine-mcwayne",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 PhD student, 2 master's research assistants, 1 undergraduate research assistant",
+      "members_page_url": "https://sites.tufts.edu/excelslab/people/researchassistants/",
+      "join_page_url": "https://sites.tufts.edu/excelslab/joinourlab/"
+    },
+    "note": "lab site read for size: count from the Current Research Assistants list and the Post Docs and Graduate Students page (two extra fetches); the postdoc heading names no one."
+  },
+  {
+    "source": "data/sources/tufts-phcm.json",
+    "lab_id": "tufts-phcm-jonathon-gass",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 postdoc, 1 research assistant, 2 master's graduate students",
+      "members_page_url": "https://sites.tufts.edu/gasslab/about-us/",
+      "pi_email": "jonathon.gass@tufts.edu"
+    },
+    "note": "lab site read for size: count from About Us page (one extra fetch); former affiliates and Ethiopia project staff/affiliates excluded."
+  },
+  {
+    "source": "data/sources/tufts-me.json",
+    "lab_id": "tufts-me-jeffrey-guasto",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 postdocs, 1 PhD student, 1 undergraduate",
+      "members_page_url": "https://sites.tufts.edu/guastolab/people/",
+      "join_notes": "Page says there are openings for PhD students and welcomes MS, undergraduate and postdoc inquiries; contact Prof. Guasto with a CV.",
+      "pi_email": "Jeffrey.Guasto@tufts.edu",
+      "accepting_grad_students": true
+    },
+    "note": "lab site read for size: count from People page current sections; page looks stale (latest news Feb 2022), so the roster may be out of date."
+  },
+  {
+    "source": "data/sources/tufts-physics.json",
+    "lab_id": "tufts-physics-jeffrey-guasto",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 postdocs, 1 PhD student, 1 undergraduate",
+      "members_page_url": "https://sites.tufts.edu/guastolab/people/",
+      "join_notes": "Page says there are openings for PhD students and welcomes MS, undergraduate and postdoc inquiries; contact Prof. Guasto with a CV.",
+      "pi_email": "Jeffrey.Guasto@tufts.edu",
+      "accepting_grad_students": true
+    },
+    "note": "lab site read for size: count from People page current sections; page looks stale (latest news Feb 2022), so the roster may be out of date."
+  },
+  {
+    "source": "data/sources/tufts-commhealth.json",
+    "lab_id": "tufts-commhealth-elizabeth-marfeo",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 undergraduate research assistant",
+      "members_page_url": "https://sites.tufts.edu/hpal/research-team/",
+      "join_notes": "To join, email hpalresearch@gmail.com."
+    },
+    "note": "lab site read for size: count from Research Team page (one extra fetch); alumni and collaborators excluded."
+  },
+  {
+    "source": "data/sources/tufts-epcshd.json",
+    "lab_id": "tufts-epcshd-richard-lerner",
+    "fields": {},
+    "note": "lab site read for size: site is the Institute for Applied Research in Youth Development (an institute); People page only has links to faculty, student, staff pages, so not a single PI group count."
+  },
+  {
+    "source": "data/sources/tufts-ecs.json",
+    "lab_id": "tufts-ecs-jill-vantongeren",
+    "fields": {},
+    "note": "lab site read for size: personal page (About Me, Research, Teaching, Publications); no roster seen."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-mimi-kao",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 2 PhD students, 1 research technician, 4 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/kaolab/people/",
+      "join_page_url": "https://sites.tufts.edu/kaolab/join-the-lab/",
+      "pi_email": "mimi.kao@tufts.edu"
+    },
+    "note": "lab site read for size: count from People page above Lab Alumni."
+  },
+  {
+    "source": "data/sources/tufts-math.json",
+    "lab_id": "tufts-math-kasso-okoudjou",
+    "fields": {
+      "join_page_url": "https://sites.tufts.edu/kasso/?page_id=405",
+      "pi_email": "kasso.okoudjou@tufts.edu"
+    },
+    "note": "lab site read for size: personal faculty page of a math professor; no research group roster shown."
+  },
+  {
+    "source": "data/sources/tufts-commhealth.json",
+    "lab_id": "tufts-commhealth-laura-corlin",
+    "fields": {},
+    "note": "lab site read for size: site returned a Tufts 'Page not found' (404) page; no lab content. home_status 200 but content is a 404."
+  },
+  {
+    "source": "data/sources/tufts-phcm.json",
+    "lab_id": "tufts-phcm-laura-corlin",
+    "fields": {},
+    "note": "lab site read for size: site returned a Tufts 'Page not found' (404) page; no lab content. home_status 200 but content is a 404."
+  },
+  {
+    "source": "data/sources/tufts-phcm.json",
+    "lab_id": "tufts-phcm-margie-skeer",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI (director), 1 projects manager, 3 research assistants, 1 intern",
+      "members_page_url": "https://sites.tufts.edu/margieskeerlab/our-team/"
+    },
+    "note": "lab site read for size: count from Our Team page above Past Lab Members; the page may not be recently updated."
+  },
+  {
+    "source": "data/sources/tufts-vet-idgh.json",
+    "lab_id": "tufts-vet-idgh-amanda-martinot",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 research scientist, 3 PhD students",
+      "members_page_url": "https://sites.tufts.edu/martinotlab/current-lab-members/"
+    },
+    "note": "lab site read for size: count from Current Lab Members page (one extra fetch)."
+  },
+  {
+    "source": "data/sources/tufts-psychology.json",
+    "lab_id": "tufts-psychology-stephanie-badde",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 PhD students, 7 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/multisensory/people/",
+      "join_page_url": "https://sites.tufts.edu/multisensory/positions/"
+    },
+    "note": "lab site read for size: counted current names on the People page before the Previous Lab Members heading."
+  },
+  {
+    "source": "data/sources/tufts-physics.json",
+    "lab_id": "tufts-physics-taritree-wongjirad",
+    "fields": {
+      "join_page_url": "https://sites.tufts.edu/nutufts/join-us/"
+    },
+    "note": "lab site read for size: cached people_url is a blog tag archive with one 2018 news post and no roster; the home link to Our Group (/people/) was not fetched, so the count is unknown."
+  },
+  {
+    "source": "data/sources/tufts-psychology.json",
+    "lab_id": "tufts-psychology-ariel-goldberg",
+    "fields": {
+      "join_page_url": "https://sites.tufts.edu/psycholinglab/join-the-lab/",
+      "pi_email": "ariel.goldberg@tufts.edu"
+    },
+    "note": "lab site read for size: people page names only the director, lists alumni and honors-thesis students, and has no current student roster."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-randi-rotjan",
+    "fields": {
+      "member_count": 35,
+      "member_breakdown": "1 PI, 3 postdocs, 1 lab coordinator, 1 lab technician, 2 PhD students, 6 master's students, 2 visiting researchers, 18 undergraduates, 1 other (Jan Witting, listed in the team page without a stated lab role)",
+      "members_page_url": "https://sites.tufts.edu/rotjanlab/who-we-are/",
+      "join_page_url": "https://sites.tufts.edu/rotjanlab/work-with-us/",
+      "pi_email": "randi.rotjan@tufts.edu"
+    },
+    "note": "lab site read for size: counted every person on the Who we are page (alumni are on a separate page); Jan Witting's role in the lab is not stated, so the count could be 34."
+  },
+  {
+    "source": "data/sources/tufts-vet-idgh.json",
+    "lab_id": "tufts-vet-idgh-jonathan-runstadler",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 1 research assistant, 1 Cummings scientist, 1 listed with no role",
+      "members_page_url": "https://sites.tufts.edu/runstadlerlab/people/"
+    },
+    "note": "lab site read for size: counted names under Current Lab Members before the Alum heading; Nicole Knobloch has no title shown."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-rebecca-scheck",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 8 PhD students",
+      "members_page_url": "https://sites.tufts.edu/scheckresearchgroup/about/",
+      "join_page_url": "https://sites.tufts.edu/scheckresearchgroup/",
+      "join_notes": "Home page invites postdoc applications (cover letter, CV, publications, three references emailed to Prof. Scheck) and points Tufts undergraduates to an application portal."
+    },
+    "note": "lab site read for size: from the About Us page (one extra fetch): PI plus 8 graduate students before the Lab Alumni heading; the home page also seeks postdocs for NIH-funded projects."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-mary-shultz",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 postdoc, 1 PhD candidate",
+      "members_page_url": "https://sites.tufts.edu/shultzresearchlab/people/",
+      "join_page_url": "https://sites.tufts.edu/shultzresearchlab/opportunities/"
+    },
+    "note": "lab site read for size: counted the PI and the two names under Current Members; the same postdoc (Rubel Talukder) also appears in the alumni list as 'Postdoc 2026', so he may be leaving and the count could be 2."
+  },
+  {
+    "source": "data/sources/tufts-psychology.json",
+    "lab_id": "tufts-psychology-holly-taylor",
+    "fields": {
+      "member_count": 18,
+      "member_breakdown": "1 PI, 2 PhD students, 1 lab manager, 13 undergraduate research assistants, 1 master's-level graduate student research assistant",
+      "members_page_url": "https://sites.tufts.edu/spatialcog/people/"
+    },
+    "note": "lab site read for size: counted the People page entries before the Lab Alumni heading (Prasasti Aich is a graduate student listed among the research assistants)."
+  },
+  {
+    "source": "data/sources/tufts-cee.json",
+    "lab_id": "tufts-cee-lauryn-spearing",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 postdoc, 3 PhD students, 4 undergraduate researchers",
+      "members_page_url": "https://sites.tufts.edu/spearing/researchteam/",
+      "join_page_url": "https://sites.tufts.edu/spearing/prospective-students/",
+      "pi_email": "lauryn.spearing@tufts.edu",
+      "accepting_grad_students": true,
+      "join_notes": "Page says it is recruiting PhD students for Spring and Fall 2027; see the Prospective Students page."
+    },
+    "note": "lab site read for size: from the Research Team page (one extra fetch) before the Group Alumni heading; the page says PhD students are being recruited for Spring and Fall 2027."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-eric-tytell",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 7 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/tytelllab/people/"
+    },
+    "note": "lab site read for size: counted names under Lab Members before the Lab Alumni heading."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-arthur-utz",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 graduate students",
+      "members_page_url": "https://sites.tufts.edu/utzgroup/people/",
+      "pi_email": "autz@tufts.edu"
+    },
+    "note": "lab site read for size: counted the PI and four names under Current Members."
+  },
+  {
+    "source": "data/sources/tufts-vet-idgh.json",
+    "lab_id": "tufts-vet-idgh-yi-pin-lin",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 lab manager (senior research technician), 3 PhD students, 3 research technicians",
+      "members_page_url": "https://sites.tufts.edu/yipinlinlab/?page_id=11",
+      "join_page_url": "https://sites.tufts.edu/yipinlinlab/?page_id=328",
+      "pi_email": "Yi-Pin.Lin@tufts.edu"
+    },
+    "note": "lab site read for size: counted the Lab Members entries before the alumni-style lists (postdocs, DVM and undergraduate lists are past members)."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-yu-zhang",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 postdoc, 3 graduate students, 3 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/zhanginorganiclab/history/"
+    },
+    "note": "lab site read for size: counted people above the Alumni heading on the People/history page."
+  },
+  {
+    "source": "data/sources/tufts-math.json",
+    "lab_id": "tufts-math-andrew-izsak",
+    "fields": {
+      "pi_email": "andrew.izsak@tufts.edu"
+    },
+    "note": "lab site read for size: site is a multi-institution research group (Izsak and Beckmann) whose members page lists collaborators at many universities, not one PI's lab roster."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-kevin-clark",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 4 PhD students, 3 undergraduates",
+      "members_page_url": "https://www.clarklabrna.com/members",
+      "join_page_url": "https://www.clarklabrna.com/about-5"
+    },
+    "note": "lab site read for size: from the Members page (the site moved to clarklabrna.com; one extra fetch); PI is not listed on that page but the site is Prof. Clark's group, counted above the Lab Alumni heading."
+  },
+  {
+    "source": "data/sources/tufts-psychology.json",
+    "lab_id": "tufts-psychology-elizabeth-race",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 graduate student, 11 undergraduate research assistants (one is lab manager)",
+      "members_page_url": "https://tuftsiconlab.weebly.com/people.html"
+    },
+    "note": "lab site read for size: counted all names under Current Lab Members; no alumni section is shown."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-lawrence-uricchio",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD students, 1 postdoc, 1 undergraduate",
+      "members_page_url": "https://uricchio.github.io/people.html"
+    },
+    "note": "lab site read for size: counted names above the Lab alumni heading."
+  },
+  {
+    "source": "data/sources/tufts-cee.json",
+    "lab_id": "tufts-cee-robert-viesca",
+    "fields": {
+      "pi_email": "robert.viesca@tufts.edu"
+    },
+    "note": "lab site read for size: personal faculty page with research, publications and former members only; no current group roster is shown."
+  },
+  {
+    "source": "data/sources/tufts-neuroscience.json",
+    "lab_id": "tufts-neuroscience-alexei-bygrave",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 2 PhD students, 1 research technician, 4 undergraduates",
+      "members_page_url": "https://www.bygravelab.com/team"
+    },
+    "note": "lab site read for size: counted Lab Members before the Past lab members heading."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-douglas-blackiston",
+    "fields": {},
+    "note": "lab site read for size: team page lists about 25 first names with project titles but no PI line and no current/past split, so who is current cannot be told."
+  },
+  {
+    "source": "data/sources/tufts-cs.json",
+    "lab_id": "tufts-cs-ankit-bhardwaj",
+    "fields": {
+      "pi_email": "ankit@cs.tufts.edu",
+      "accepting_grad_students": true,
+      "join_notes": "Page says he is hiring 2+ PhD students: apply to the Tufts CS PhD program and mention his name."
+    },
+    "note": "lab site read for size: personal homepage (head of the Datacenter Systems Lab) with no member list; it says he is hiring 2+ new PhD students."
+  },
+  {
+    "source": "data/sources/tufts-cs.json",
+    "lab_id": "tufts-cs-jivko-sinapov",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 5 PhD students",
+      "members_page_url": "https://www.eecs.tufts.edu/~jsinapov/group.html"
+    },
+    "note": "lab site read for size: counted the PI and the five graduate students listed before the Alumni heading; the page may be out of date (its newest alumni are from 2021)."
+  },
+  {
+    "source": "data/sources/tufts-cs.json",
+    "lab_id": "tufts-cs-liping-liu",
+    "fields": {},
+    "note": "lab site read for size: personal faculty page; it lists 3 current students by name (Jieyu Zhou, Jiajing Hu, Yukun Li) under Advising but is not a lab roster page, so the count is left to the main session (would be 4 with the PI)."
+  },
+  {
+    "source": "data/sources/tufts-ece.json",
+    "lab_id": "tufts-ece-marco-donato",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 3 PhD students, 4 undergraduates",
+      "members_page_url": "https://www.eecs.tufts.edu/~mdonato/lab/team/",
+      "join_page_url": "https://www.eecs.tufts.edu/blog/msx-asplos/"
+    },
+    "note": "lab site read for size: the cached people_url was a 404; one extra fetch of the lab's own Team page gave the Current members list before the Alumni heading."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-fatima-hussain",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 postdoc, 3 PhD students, 1 co-advised PhD student, 1 technician, 1 master's student, 3 undergraduates, 2 visiting scholars",
+      "members_page_url": "https://www.hussain-lab.org/people",
+      "join_page_url": "https://www.hussain-lab.org/join"
+    },
+    "note": "lab site read for size: counted people above the Past Mentees and Members heading."
+  },
+  {
+    "source": "data/sources/tufts-bme.json",
+    "lab_id": "tufts-bme-karen-martin",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 PhD students, 3 MS students, 5 undergraduates, 1 visiting undergraduate",
+      "members_page_url": "https://www.karenmartinphd.com/team",
+      "join_page_url": "https://www.karenmartinphd.com/about-3"
+    },
+    "note": "lab site read for size: counted the Team page headed Summer 2026."
+  },
+  {
+    "source": "data/sources/tufts-chemistry.json",
+    "lab_id": "tufts-chemistry-krishna-kumar",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 5 graduate students, 1 research assistant, 3 undergraduates",
+      "members_page_url": "https://www.kumarlabs.org/members/"
+    },
+    "note": "lab site read for size: counted the Members page (alumni are on a separate page)."
+  },
+  {
+    "source": "data/sources/tufts-ecs.json",
+    "lab_id": "tufts-ecs-rebecca-jackson",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 2 postdocs, 1 PhD student, 1 research associate, 1 undergraduate",
+      "members_page_url": "https://www.rebeccahjackson.com/people",
+      "join_page_url": "https://www.rebeccahjackson.com/contact"
+    },
+    "note": "lab site read for size: counted Group Members above the Past Members heading."
+  },
+  {
+    "source": "data/sources/tufts-biology.json",
+    "lab_id": "tufts-biology-sarah-hengel",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 3 PhD students, 4 undergraduates",
+      "members_page_url": "https://www.srhlab.com/about"
+    },
+    "note": "lab site read for size: home had no roster; one extra fetch of the About page gave PI, PhD students and undergraduate researchers above the Laboratory Alumni heading."
+  },
+  {
+    "source": "data/sources/tufts-ctsi.json",
+    "lab_id": "tufts-ctsi-harry-p-selker",
+    "fields": {
+      "join_page_url": "https://www.tuftsctsi.org/funding-opportunities/"
+    },
+    "note": "lab site read for size: site is the Tufts Clinical and Translational Science Institute (a center/institute), not a single PI's research group."
+  },
+  {
+    "source": "data/sources/tufts-math.json",
+    "lab_id": "tufts-math-xiaozhe-hu",
+    "fields": {},
+    "note": "lab site read for size: personal homepage (research interests, CV, software) with no group or member list."
+  }
+]

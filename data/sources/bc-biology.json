@@ -132,13 +132,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 7 undergraduate lab members",
+      "members_page_url": "https://bc.edu/content/bc-web/schools/morrissey/departments/biology/labs/das-lab/people.html",
+      "join_page_url": "https://bc.edu/content/bc-web/schools/morrissey/departments/biology/labs/das-lab/people/open-positions.html",
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/maitrey-das.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab site read for size: page lists only Undergraduate Lab Members as current (no current grad students or postdocs shown; all others are under Former headings), so count may understate the lab."
     },
     {
       "id": "bc-biology-lynn-dibenedetto",
@@ -198,13 +198,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 12 undergraduate researchers",
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/labs/fofana-lab/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/ismael-ben-fofana.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab site read for size: counted Current Lab Members on the people page (includes two noted as not pictured); Alumni excluded. PI counted though not under that heading."
     },
     {
       "id": "bc-biology-juan-manuel-gonzález-rosa",
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/welkin-johnson.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'). Depth pass 2026-11-10: lab site read for size: site could not be loaded: home_status 200 but cached page is a 404 Not Found."
     },
     {
       "id": "bc-biology-christopher-kenaley",
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/christopher-kenaley.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab site read for size: site could not be loaded: home_status playwright-error net::ERR_NAME_NOT_RESOLVED (domain does not resolve). Not retried."
     },
     {
       "id": "bc-biology-philip-j-landrigan",
@@ -396,13 +396,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 2 graduate students, 2 research associates, 4 undergraduates",
+      "members_page_url": "https://www.losicklab.com/people.html",
+      "join_page_url": "https://www.losicklab.com/open-positions.html",
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/vicki-losick.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab site read for size: counted Current members (including not pictured); Past members excluded."
     },
     {
       "id": "bc-biology-sarah-mcmenamin",
@@ -418,13 +418,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 3 PhD students, 2 postdocs, 1 aquatics specialist (shared with Gonzalez Rosa Lab), 8 undergraduate researchers",
+      "members_page_url": "https://sites.google.com/a/bc.edu/mcmenamin-lab/People",
+      "join_page_url": "https://sites.google.com/a/bc.edu/mcmenamin-lab/Join",
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/sarah-mcmenamin.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'McMenamin Lab Website')."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'McMenamin Lab Website'). Depth pass 2026-11-10: lab site read for size: counted the People page; Lab Alumni are on a separate page."
     },
     {
       "id": "bc-biology-michelle-meyer",
@@ -440,13 +440,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 graduate students, 1 senior research scientist",
+      "members_page_url": "https://meyerlabrna.org/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/michelle-meyer.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Meyer Lab')."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Meyer Lab'). Depth pass 2026-11-10: lab site read for size: counted the Current Members list on the Meyer Lab people page; Alumni excluded."
     },
     {
       "id": "bc-biology-babak-momeni",
@@ -462,13 +462,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 postdoc, 2 graduate students, 5 undergraduate researchers",
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/labs/momeni-lab/people.html",
+      "join_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/labs/momeni-lab/research/opportunities.html",
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/faculty-directory/babak-momeni.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Momeni Lab')."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Momeni Lab'). Depth pass 2026-11-10: lab site read for size: counted the listed PI, postdoc, graduate students and undergraduates; collaborators, past collaborators and an unlabelled name list excluded."
     },
     {
       "id": "bc-biology-heather-olins",
@@ -666,7 +666,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/people/research-faculty/james-whitney.html",
-      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Whitney Lab Website')."
+      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Whitney Lab Website'). Depth pass 2026-11-10: lab site read for size: home page names only the PI (Leadership section); the nav shows a Team item but no roster or Team link was in the cached text, so no member count."
     },
     {
       "id": "bc-biology-kathy-dunn",

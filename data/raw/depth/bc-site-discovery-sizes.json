@@ -1,0 +1,409 @@
+[
+  {
+    "source": "data/sources/bc-psychology-neuroscience.json",
+    "lab_id": "bc-psychology-neuroscience-gregg-sparkman",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 4 PhD students, 1 postdoc, 1 lab manager, 3 undergraduate RAs, 1 SPUR scholar",
+      "members_page_url": "http://bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/labs/sparkman-lab/people.html",
+      "join_page_url": "http://bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/labs/sparkman-lab/contact.html",
+      "pi_email": "gregg.sparkman@bc.edu"
+    },
+    "note": "lab site read for size: counted current members on the SISC Lab people page; Former Visiting Scholars/postdocs/RAs excluded."
+  },
+  {
+    "source": "data/sources/bc-biology.json",
+    "lab_id": "bc-biology-welkin-johnson",
+    "fields": {},
+    "note": "lab site read for size: site could not be loaded: home_status 200 but cached page is a 404 Not Found."
+  },
+  {
+    "source": "data/sources/bc-psychology-neuroscience.json",
+    "lab_id": "bc-psychology-neuroscience-katherine-mcauliffe",
+    "fields": {
+      "member_count": 24,
+      "member_breakdown": "1 PI, 1 postdoc, 2 graduate students, 1 lab coordinator, 19 research assistants/thesis student/intern",
+      "members_page_url": "http://katherinemcauliffe.com/labmembers",
+      "pi_email": "mcaulikg@bc.edu"
+    },
+    "note": "lab site read for size: counted everyone listed above the Lab Alumni heading on the Cooperation Lab people page; alumni and photo gallery excluded."
+  },
+  {
+    "source": "data/sources/bc-psychology-neuroscience.json",
+    "lab_id": "bc-psychology-neuroscience-michael-mcdannald",
+    "fields": {},
+    "note": "lab site read for size: site could not be loaded: home_status playwright-error (Page.goto timeout 30000ms exceeded). Not retried."
+  },
+  {
+    "source": "data/sources/bc-psychology-neuroscience.json",
+    "lab_id": "bc-psychology-neuroscience-stefano-anzellotti",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoc, 4 PhD students, 1 lab coordinator/RA, 4 undergraduate RAs",
+      "members_page_url": "https://sccnlab.bc.edu/people/",
+      "pi_email": "stefano.anzellotti@bc.edu"
+    },
+    "note": "lab site read for size: counted Lab Members on SCCN Lab people page; collaborating faculty/students and former members excluded."
+  },
+  {
+    "source": "data/sources/bc-psychology-neuroscience.json",
+    "lab_id": "bc-psychology-neuroscience-caroline-smith",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 postdoc, 4 PhD students, 1 research assistant, 4 undergraduates",
+      "members_page_url": "http://smithlabbc.com/team-1",
+      "join_page_url": "http://smithlabbc.com/join",
+      "pi_email": "caroline.smith.3@bc.edu"
+    },
+    "note": "lab site read for size: counted current team on Smith Lab team page; Alumni list excluded."
+  },
+  {
+    "source": "data/sources/bc-psychology-neuroscience.json",
+    "lab_id": "bc-psychology-neuroscience-john-christianson",
+    "fields": {},
+    "note": "lab site read for size: site could not be loaded: tinyurl.com/christiansonlab resolves to a Wix 'Reconnect Your Domain / This domain isn't connected to a site' page (home_status 200)."
+  },
+  {
+    "source": "data/sources/bc-eesc.json",
+    "lab_id": "bc-eesc-hilary-palevsky",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 senior research associate, 1 postdoc, 3 PhD students, 1 postbaccalaureate RA, 1 undergraduate RA",
+      "members_page_url": "http://www.hilarypalevsky.com/group"
+    },
+    "note": "lab site read for size: counted current members on the group page; Research Group Alumni excluded."
+  },
+  {
+    "source": "data/sources/bc-biology.json",
+    "lab_id": "bc-biology-maitreyi-das",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 7 undergraduate lab members",
+      "members_page_url": "https://bc.edu/content/bc-web/schools/morrissey/departments/biology/labs/das-lab/people.html",
+      "join_page_url": "https://bc.edu/content/bc-web/schools/morrissey/departments/biology/labs/das-lab/people/open-positions.html",
+      "pi_email": "maitreiy.das@bc.edu"
+    },
+    "note": "lab site read for size: page lists only Undergraduate Lab Members as current (no current grad students or postdocs shown; all others are under Former headings), so count may understate the lab."
+  },
+  {
+    "source": "data/sources/bc-eesc.json",
+    "lab_id": "bc-eesc-ethan-baxter",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 2 PhD students, 1 postdoc, 4 others with no role listed",
+      "members_page_url": "https://bc.edu/content/bc-web/schools/morrissey/departments/eesc/faculty-sites/ethan-baxter/people.html",
+      "join_page_url": "https://bc.edu/content/bc-web/schools/morrissey/departments/eesc/faculty-sites/ethan-baxter/student-opportunities.html",
+      "pi_email": "ethan.baxter@bc.edu"
+    },
+    "note": "lab site read for size: counted PI plus the 7 names under Current Members; four (Paige Hanley, Brooke Adams, Lizzy Birmingham, Lucius Yu-Kisselbach) have no role shown. Center for Isotope Geochemistry leadership (Walker, Lonero) not counted; Former Members excluded."
+  },
+  {
+    "source": "data/sources/bc-psychology-neuroscience.json",
+    "lab_id": "bc-psychology-neuroscience-diane-jo-bart-plange",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 lab coordinator, 2 PhD students, 11 research assistants (incl. 1 master's student)",
+      "members_page_url": "https://dianejobartplange.weebly.com/people.html",
+      "join_page_url": "https://dianejobartplange.weebly.com/join-the-lab.html"
+    },
+    "note": "lab site read for size: counted PI, coordinator, PhD students and research assistants on the DISCO Lab people page; Lab Pets and Lab Alumni excluded."
+  },
+  {
+    "source": "data/sources/bc-physics.json",
+    "lab_id": "bc-physics-benedetta-flebus",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 4 graduate students",
+      "members_page_url": "https://flebusgroup.com/group"
+    },
+    "note": "lab site read for size: counted everyone listed on the Our Group page."
+  },
+  {
+    "source": "data/sources/bc-biology.json",
+    "lab_id": "bc-biology-christopher-kenaley",
+    "fields": {},
+    "note": "lab site read for size: site could not be loaded: home_status playwright-error net::ERR_NAME_NOT_RESOLVED (domain does not resolve). Not retried."
+  },
+  {
+    "source": "data/sources/bc-biology.json",
+    "lab_id": "bc-biology-michelle-meyer",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 graduate students, 1 senior research scientist",
+      "members_page_url": "https://meyerlabrna.org/people/"
+    },
+    "note": "lab site read for size: counted the Current Members list on the Meyer Lab people page; Alumni excluded."
+  },
+  {
+    "source": "data/sources/bc-psychology-neuroscience.json",
+    "lab_id": "bc-psychology-neuroscience-liane-young",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 5 PhD students, 1 postdoc, 1 lab manager, 4 research assistants/consultants",
+      "members_page_url": "https://moralitylab.bc.edu/people/",
+      "join_page_url": "https://moralitylab.bc.edu/join-us/"
+    },
+    "note": "lab site read for size: counted PI, graduate students, postdoc, research staff and research assistants on the Morality Lab people page; Lab Pets excluded. Page also on a lab whose Alumni are on a separate page."
+  },
+  {
+    "source": "data/sources/bc-physics.json",
+    "lab_id": "bc-physics-cyril-p-opeil-sj",
+    "fields": {},
+    "note": "lab site read for size: lab site (Opeil Laboratory, Higgins 130) is a small page with Home, BC Physics Dept, Lab Research Focus and More Info links and no member roster."
+  },
+  {
+    "source": "data/sources/bc-psychology-neuroscience.json",
+    "lab_id": "bc-psychology-neuroscience-gorica-petrovich",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 3 graduate students, 5 undergraduate students",
+      "members_page_url": "https://petrovichlab.bc.edu/people/"
+    },
+    "note": "lab site read for size: counted the people page (alumni excluded); possibly stale since two undergraduates are listed as BC class of 2023 and 2024."
+  },
+  {
+    "source": "data/sources/bc-physics.json",
+    "lab_id": "bc-physics-brian-zhou",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 graduate students, 2 undergraduate/high school researchers",
+      "members_page_url": "https://sites.bc.edu/brianzhoulab/team/",
+      "pi_email": "brian.zhou@bc.edu"
+    },
+    "note": "lab site read for size: counted current team on the Zhou Lab team page; Graduate and Undergraduate/High School Alumni excluded."
+  },
+  {
+    "source": "data/sources/bc-chemistry.json",
+    "lab_id": "bc-chemistry-chia-kuang-frank-tsung",
+    "fields": {},
+    "note": "lab site read for size: site could not be loaded: sites.bc.edu/frank-tsung returns a 'Page not found' Sites@BC error page (home_status 200)."
+  },
+  {
+    "source": "data/sources/bc-physics.json",
+    "lab_id": "bc-physics-kenneth-burch",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 2 postdocs, 8 graduate students, 4 undergraduate students",
+      "members_page_url": "https://sites.bc.edu/lins/group-members/"
+    },
+    "note": "lab site read for size: counted the Group Members page; High School Students heading is empty."
+  },
+  {
+    "source": "data/sources/bc-psychology-neuroscience.json",
+    "lab_id": "bc-psychology-neuroscience-sara-cordes",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 postdocs, 2 graduate students",
+      "members_page_url": "https://sites.bc.edu/sara-cordes/people/",
+      "pi_email": "sara.cordes@bc.edu"
+    },
+    "note": "lab site read for size: fetched the lab's People page https://sites.bc.edu/sara-cordes/people/ (1 extra fetch) and counted the listed people."
+  },
+  {
+    "source": "data/sources/bc-biology.json",
+    "lab_id": "bc-biology-sarah-mcmenamin",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 3 PhD students, 2 postdocs, 1 aquatics specialist (shared with Gonzalez Rosa Lab), 8 undergraduate researchers",
+      "members_page_url": "https://sites.google.com/a/bc.edu/mcmenamin-lab/People",
+      "join_page_url": "https://sites.google.com/a/bc.edu/mcmenamin-lab/Join",
+      "pi_email": "mcmenams@bc.edu"
+    },
+    "note": "lab site read for size: counted the People page; Lab Alumni are on a separate page."
+  },
+  {
+    "source": "data/sources/bc-physics.json",
+    "lab_id": "bc-physics-ying-ran",
+    "fields": {},
+    "note": "lab site read for size: site could not be loaded: sites.google.com/a/bc.edu/ying-ran redirects to a Google Drive sign-in page (home_status 200)."
+  },
+  {
+    "source": "data/sources/bc-biology.json",
+    "lab_id": "bc-biology-james-whitney",
+    "fields": {},
+    "note": "lab site read for size: home page names only the PI (Leadership section); the nav shows a Team item but no roster or Team link was in the cached text, so no member count."
+  },
+  {
+    "source": "data/sources/bc-biology.json",
+    "lab_id": "bc-biology-ismael-ben-fofana",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 12 undergraduate researchers",
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/labs/fofana-lab/people.html"
+    },
+    "note": "lab site read for size: counted Current Lab Members on the people page (includes two noted as not pictured); Alumni excluded. PI counted though not under that heading."
+  },
+  {
+    "source": "data/sources/bc-biology.json",
+    "lab_id": "bc-biology-babak-momeni",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 postdoc, 2 graduate students, 5 undergraduate researchers",
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/labs/momeni-lab/people.html",
+      "join_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/biology/labs/momeni-lab/research/opportunities.html"
+    },
+    "note": "lab site read for size: counted the listed PI, postdoc, graduate students and undergraduates; collaborators, past collaborators and an unlabelled name list excluded."
+  },
+  {
+    "source": "data/sources/bc-engineering.json",
+    "lab_id": "bc-engineering-emma-brace",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 postdoc, 8 undergraduate researchers",
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/engineering/folder-for-research-labs/brace-lab/people.html",
+      "pi_email": "emma.brace@bc.edu"
+    },
+    "note": "lab site read for size: counted the Current Group Members: Fall 2026 list; lab mascot and Group Alumni excluded."
+  },
+  {
+    "source": "data/sources/bc-engineering.json",
+    "lab_id": "bc-engineering-avneet-hira",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 2 postdocs, 11 student researchers",
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/engineering/folder-for-research-labs/her-lab/people.html"
+    },
+    "note": "lab site read for size: counted PI, postdocs and student list above Past Members; one student is listed with a 2025 degree so list may include recent graduates."
+  },
+  {
+    "source": "data/sources/bc-engineering.json",
+    "lab_id": "bc-engineering-catherine-hoar",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 10 undergraduate research assistants",
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/engineering/folder-for-research-labs/hoar-lab/people.html",
+      "pi_email": "catherine.hoar@bc.edu"
+    },
+    "note": "lab site read for size: counted PI and the undergraduate list above Group Alumni."
+  },
+  {
+    "source": "data/sources/bc-engineering.json",
+    "lab_id": "bc-engineering-bryan-ranger",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 postdoc, 1 research assistant, 1 graduate nursing student, 8 undergraduates",
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/engineering/folder-for-research-labs/ranger-lab/team.html",
+      "pi_email": "bryan.ranger@bc.edu"
+    },
+    "note": "lab site read for size: counted the Meet the Team list above Past Members."
+  },
+  {
+    "source": "data/sources/bc-physics.json",
+    "lab_id": "bc-physics-fazel-tafti",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 7 PhD students, 2 undergraduates",
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/labs/Tafti-Lab/team.html",
+      "join_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/labs/Tafti-Lab/open-positions.html"
+    },
+    "note": "lab site read for size: counted Current Members and Undergraduate Students on the team page; Lab Alumni excluded."
+  },
+  {
+    "source": "data/sources/bc-physics.json",
+    "lab_id": "bc-physics-ilija-zeljkovic",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 6 graduate students, 2 undergraduates",
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/labs/Zeljkovic-Lab/people.html",
+      "pi_email": "ilija.zeljkovic@bc.edu"
+    },
+    "note": "lab site read for size: counted current people; alumni and high school students (past) excluded."
+  },
+  {
+    "source": "data/sources/bc-physics.json",
+    "lab_id": "bc-physics-xiao-chen",
+    "fields": {
+      "join_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/labs/xiao-chen/research/get-involved.html"
+    },
+    "note": "lab site read for size: people page shows only the PI's education and employment, no group roster."
+  },
+  {
+    "source": "data/sources/bc-physics.json",
+    "lab_id": "bc-physics-michael-j-naughton",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 senior research scientists, 1 postdoc, 6 graduate students",
+      "members_page_url": "https://www.bc.edu/content/bc-web/sites/naughton-lab/people.html"
+    },
+    "note": "lab site read for size: counted the people page; the PI himself is not listed on the page but is counted as the lab's PI. Past People excluded."
+  },
+  {
+    "source": "data/sources/bc-psychology-neuroscience.json",
+    "lab_id": "bc-psychology-neuroscience-elizabeth-kensinger",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 research assistant professor, 2 postdocs, 2 PhD students, 1 laboratory coordinator",
+      "members_page_url": "https://www.bccanlab.com/researchteam",
+      "join_notes": "Undergraduates apply via the online application; for full-time RA, grad or postdoc roles contact Dr. Kensinger directly by email."
+    },
+    "note": "lab site read for size: fetched Research team page https://www.bccanlab.com/researchteam (1 extra fetch); affiliated faculty and collaborators and alumni excluded."
+  },
+  {
+    "source": "data/sources/bc-eesc.json",
+    "lab_id": "bc-eesc-kat-wilson",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 1 MS student, 1 senior thesis student, 1 research assistant",
+      "members_page_url": "https://www.coastalsediments.com/people",
+      "pi_email": "Kathleen.Wilson@BC.edu"
+    },
+    "note": "lab site read for size: counted current people on the COMPASS Lab people page; Lab Alumni excluded."
+  },
+  {
+    "source": "data/sources/bc-physics.json",
+    "lab_id": "bc-physics-hope-bretscher",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 graduate students",
+      "members_page_url": "https://www.iqmlab.com/team",
+      "join_notes": "Group is recruiting PhD students and postdocs; contact the PI by email (postdocs encouraged to also seek independent fellowship funding).",
+      "pi_email": "hope.bretscher@bc.edu",
+      "accepting_grad_students": true
+    },
+    "note": "lab site read for size: counted PI and two grad students on the iQM team page (the Amy Kaniper entry shows a 'You!' placeholder label but has her bio); PI joined BC June 2026 and group is recruiting."
+  },
+  {
+    "source": "data/sources/bc-eesc.json",
+    "lab_id": "bc-eesc-juliet-ryan-davis",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 2 MS students, 1 postdoc",
+      "members_page_url": "https://www.julietryandavis.com/people",
+      "join_notes": "Email the PI with an introduction and CV."
+    },
+    "note": "lab site read for size: counted people on the People page."
+  },
+  {
+    "source": "data/sources/bc-biology.json",
+    "lab_id": "bc-biology-vicki-losick",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 2 graduate students, 2 research associates, 4 undergraduates",
+      "members_page_url": "https://www.losicklab.com/people.html",
+      "join_page_url": "https://www.losicklab.com/open-positions.html"
+    },
+    "note": "lab site read for size: counted Current members (including not pictured); Past members excluded."
+  },
+  {
+    "source": "data/sources/bc-physics.json",
+    "lab_id": "bc-physics-zoe-zhu",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 4 PhD students, 2 undergraduates",
+      "members_page_url": "https://www.ziyanzhu.com/group",
+      "join_page_url": "https://www.ziyanzhu.com/join",
+      "pi_email": "ziyan.zhu@bc.edu"
+    },
+    "note": "lab site read for size: counted Members on the group page plus the PI; the two pet entries (IT Support Specialist, Speech Coach) excluded."
+  },
+  {
+    "source": "data/sources/bc-eesc.json",
+    "lab_id": "bc-eesc-xingchen-tony-wang",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 visiting Simons Pivot Fellow, 1 senior research associate, 4 PhD students, 2 undergraduate researchers",
+      "members_page_url": "https://xingchentonywang.com/people/"
+    },
+    "note": "lab site read for size: counted Current Members; Lab Alumni excluded. Sarah Davies is a 2025-2026 fellow with a BU appointment."
+  }
+]

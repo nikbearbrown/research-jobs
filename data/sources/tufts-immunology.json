@@ -267,10 +267,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://gsbs.tufts.edu/admissions",
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/13751",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: cached people page is the school-wide faculty directory; the lab page lists only 4 GSBS-student members ('Lab Members Who Are GSBS Students') and the lab's own Google site had no readable roster."
     }
   ],
   "non_lab_people": [

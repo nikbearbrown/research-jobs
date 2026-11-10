@@ -86,13 +86,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoctoral fellow, 5 graduate students, 4 undergraduates",
+      "members_page_url": "https://blogs.umb.edu/shailjapathania/lab_members/",
+      "join_page_url": "https://blogs.umb.edu/shailjapathania/join-our-team/",
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/shailjapathania/",
-      "notes": "Breadth pass only; title/research summary not captured in this pass. Depth pass 2026-11-10: profile_url read from the name link on another UMass Boston department's listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://blogs.umb.edu/shailjapathania/lab_members/)."
+      "notes": "Breadth pass only; title/research summary not captured in this pass. Depth pass 2026-11-10: profile_url read from the name link on another UMass Boston department's listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://blogs.umb.edu/shailjapathania/lab_members/). Depth pass 2026-11-10: lab site read for size: meet the Team page (updated as of Fall 2025); the one listed under Postdoctoral Fellows is described as a PhD in the MCOB program."
     },
     {
       "id": "umass-boston-cpct-kourosh-zarringhalam",

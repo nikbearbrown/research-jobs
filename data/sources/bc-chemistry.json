@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/people/folder-for-memoriam/chia-kuang-tsung.html",
-      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Group Research Website')."
+      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Group Research Website'). Depth pass 2026-11-10: lab site read for size: site could not be loaded: sites.bc.edu/frank-tsung returns a 'Page not found' Sites@BC error page (home_status 200)."
     },
     {
       "id": "bc-chemistry-larry-w-mclaughlin",

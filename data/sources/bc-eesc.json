@@ -110,13 +110,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 2 PhD students, 1 postdoc, 4 others with no role listed",
+      "members_page_url": "https://bc.edu/content/bc-web/schools/morrissey/departments/eesc/faculty-sites/ethan-baxter/people.html",
+      "join_page_url": "https://bc.edu/content/bc-web/schools/morrissey/departments/eesc/faculty-sites/ethan-baxter/student-opportunities.html",
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people/faculty-directory/ethan-baxter.html",
-      "notes": "Breadth pass from the department's own people page (Visiting Scholars section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (https://bc.edu/content/bc-web/schools/morrissey/departments/eesc/faculty-sites/ethan-baxter/people.html)."
+      "notes": "Breadth pass from the department's own people page (Visiting Scholars section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (https://bc.edu/content/bc-web/schools/morrissey/departments/eesc/faculty-sites/ethan-baxter/people.html). Depth pass 2026-11-10: lab site read for size: counted PI plus the 7 names under Current Members; four (Paige Hanley, Brooke Adams, Lizzy Birmingham, Lucius Yu-Kisselbach) have no role shown. Center for Isotope Geochemistry leadership (Walker, Lonero) not counted; Former Members excluded."
     },
     {
       "id": "bc-eesc-mark-d-behn",
@@ -220,13 +220,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 senior research associate, 1 postdoc, 3 PhD students, 1 postbaccalaureate RA, 1 undergraduate RA",
+      "members_page_url": "http://www.hilarypalevsky.com/group",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people/faculty-directory/hilary-palevsky.html",
-      "notes": "Breadth pass from the department's own people page (Visiting Scholars section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (http://www.hilarypalevsky.com/group)."
+      "notes": "Breadth pass from the department's own people page (Visiting Scholars section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (http://www.hilarypalevsky.com/group). Depth pass 2026-11-10: lab site read for size: counted current members on the group page; Research Group Alumni excluded."
     },
     {
       "id": "bc-eesc-juliet-ryan-davis",
@@ -242,13 +242,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 2 MS students, 1 postdoc",
+      "members_page_url": "https://www.julietryandavis.com/people",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Email the PI with an introduction and CV.",
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people/faculty-directory/juliet-ryan-davis.html",
-      "notes": "Breadth pass from the department's own people page (Visiting Scholars section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (https://www.julietryandavis.com/people)."
+      "notes": "Breadth pass from the department's own people page (Visiting Scholars section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (https://www.julietryandavis.com/people). Depth pass 2026-11-10: lab site read for size: counted people on the People page."
     },
     {
       "id": "bc-eesc-jeremy-shakun",
@@ -352,13 +352,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 visiting Simons Pivot Fellow, 1 senior research associate, 4 PhD students, 2 undergraduate researchers",
+      "members_page_url": "https://xingchentonywang.com/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people/faculty-directory/xingchen-wang.html",
-      "notes": "Breadth pass from the department's own people page (Visiting Scholars section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (https://xingchentonywang.com/people/)."
+      "notes": "Breadth pass from the department's own people page (Visiting Scholars section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (https://xingchentonywang.com/people/). Depth pass 2026-11-10: lab site read for size: counted Current Members; Lab Alumni excluded. Sarah Davies is a 2025-2026 fellow with a BU appointment."
     },
     {
       "id": "bc-eesc-kat-wilson",
@@ -374,13 +374,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 1 MS student, 1 senior thesis student, 1 research assistant",
+      "members_page_url": "https://www.coastalsediments.com/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/eesc/people/faculty-directory/kathleen-wilson.html",
-      "notes": "Breadth pass from the department's own people page (Visiting Scholars section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (https://www.coastalsediments.com/people)."
+      "notes": "Breadth pass from the department's own people page (Visiting Scholars section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (https://www.coastalsediments.com/people). Depth pass 2026-11-10: lab site read for size: counted current people on the COMPASS Lab people page; Lab Alumni excluded."
     },
     {
       "id": "bc-eesc-susan-shufen-pan",

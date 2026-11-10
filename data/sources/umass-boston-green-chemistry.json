@@ -67,13 +67,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 3 postdocs, 3 graduate students, 5 undergraduates",
+      "members_page_url": "https://www.umb.edu/research/labs/dowling-lab/group-members/",
+      "join_page_url": "https://www.umb.edu/research/labs/dowling-lab/updates-opportunities/",
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/danieldowling/",
-      "notes": "Breadth pass from the Center's own Faculty Members page. Depth pass 2026-11-10: profile_url read from the name link on another UMass Boston department's listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the Center's own Faculty Members page. Depth pass 2026-11-10: profile_url read from the name link on another UMass Boston department's listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab site read for size: group Members page; includes 3 undergraduates under a 'Graduating Undergraduates' subheading, counted as current."
     },
     {
       "id": "umass-boston-green-chemistry-jason-evans",
@@ -89,13 +89,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 PhD students, 3 undergraduates",
+      "members_page_url": "https://sites.google.com/view/evansgroupwebsite/members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/jasonevans/",
-      "notes": "Breadth pass from the Center's own Faculty Members page. Depth pass 2026-11-10: profile_url read from the name link on another UMass Boston department's listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the Center's own Faculty Members page. Depth pass 2026-11-10: profile_url read from the name link on another UMass Boston department's listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab site read for size: members page; Alumni excluded."
     },
     {
       "id": "umass-boston-green-chemistry-michelle-foster",
@@ -114,10 +114,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://michellefosterpi.wixsite.com/website/open-positions",
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/michellefoster/",
-      "notes": "Breadth pass from the Center's own Faculty Members page. Depth pass 2026-11-10: profile_url read from the name link on another UMass Boston department's listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://michellefosterpi.wixsite.com/website/team)."
+      "notes": "Breadth pass from the Center's own Faculty Members page. Depth pass 2026-11-10: profile_url read from the name link on another UMass Boston department's listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://michellefosterpi.wixsite.com/website/team). Depth pass 2026-11-10: lab site read for size: team page lists only the PI and the site footer is dated 2020, so the roster looks out of date; no count."
     },
     {
       "id": "umass-boston-green-chemistry-jason-green",
@@ -133,13 +133,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 postdocs, 4 PhD students",
+      "members_page_url": "https://jasonrgreen.net/people/",
+      "join_page_url": "https://jasonrgreen.net/join/",
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/jasongreen/",
-      "notes": "Breadth pass from the Center's own Faculty Members page. Depth pass 2026-11-10: profile_url read from the name link on another UMass Boston department's listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://jasonrgreen.net/people/)."
+      "notes": "Breadth pass from the Center's own Faculty Members page. Depth pass 2026-11-10: profile_url read from the name link on another UMass Boston department's listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://jasonrgreen.net/people/). Depth pass 2026-11-10: lab site read for size: team page lists 9 people, but two postdocs are noted as starting faculty positions in Fall 2024 and are excluded; one postdoc (joined 2023) has no end noted so is counted."
     },
     {
       "id": "umass-boston-green-chemistry-niya-sa",
@@ -155,13 +155,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 BS/MS student, 2 PhD candidates, 3 other graduate students, 5 undergraduates",
+      "members_page_url": "https://saniyabnu.wixsite.com/niyasa/group-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.umb.edu/directory/niyasa/",
-      "notes": "Breadth pass from the Center's own Faculty Members page. Depth pass 2026-11-10: profile_url read from the name link on another UMass Boston department's listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://saniyabnu.wixsite.com/niyasa/group-members)."
+      "notes": "Breadth pass from the Center's own Faculty Members page. Depth pass 2026-11-10: profile_url read from the name link on another UMass Boston department's listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://saniyabnu.wixsite.com/niyasa/group-members). Depth pass 2026-11-10: lab site read for size: group Members page entries above Group Alumni (one named person, Olivia Paden, also appears in the alumni list)."
     },
     {
       "id": "umass-boston-green-chemistry-neil-reilly",

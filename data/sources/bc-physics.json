@@ -15,20 +15,20 @@
       "pi_name": "Hope Bretscher",
       "pi_title": "Assistant Professor of Physics",
       "pi_email": "hope.bretscher@bc.edu",
-      "accepting_grad_students": null,
+      "accepting_grad_students": true,
       "lab_website": "https://www.iqmlab.com/",
       "location": "Higgins Hall 330E",
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 graduate students",
+      "members_page_url": "https://www.iqmlab.com/team",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Group is recruiting PhD students and postdocs; contact the PI by email (postdocs encouraged to also seek independent fellowship funding).",
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/hope-bretcher.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Integrated Quantum Materials Lab Website')."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Integrated Quantum Materials Lab Website'). Depth pass 2026-11-10: lab site read for size: counted PI and two grad students on the iQM team page (the Amy Kaniper entry shows a 'You!' placeholder label but has her bio); PI joined BC June 2026 and group is recruiting."
     },
     {
       "id": "bc-physics-david-broido",
@@ -66,13 +66,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 2 postdocs, 8 graduate students, 4 undergraduate students",
+      "members_page_url": "https://sites.bc.edu/lins/group-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/kenneth-burch.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website')."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website'). Depth pass 2026-11-10: lab site read for size: counted the Group Members page; High School Students heading is empty."
     },
     {
       "id": "bc-physics-malavika-chandra",
@@ -113,10 +113,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/labs/xiao-chen/research/get-involved.html",
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/chen-xiao.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab site read for size: people page shows only the PI's education and employment, no group roster."
     },
     {
       "id": "bc-physics-jan-engelbrecht",
@@ -154,13 +154,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 4 graduate students",
+      "members_page_url": "https://flebusgroup.com/group",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/flebus-benedetta.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Flebus Group')."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Flebus Group'). Depth pass 2026-11-10: lab site read for size: counted everyone listed on the Our Group page."
     },
     {
       "id": "bc-physics-dinuka-gallaba",
@@ -264,13 +264,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 senior research scientists, 1 postdoc, 6 graduate students",
+      "members_page_url": "https://www.bc.edu/content/bc-web/sites/naughton-lab/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/michael-j-naughton.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website')."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website'). Depth pass 2026-11-10: lab site read for size: counted the people page; the PI himself is not listed on the page but is counted as the lab's PI. Past People excluded."
     },
     {
       "id": "bc-physics-cyril-p-opeil-sj",
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/cyril-opeil.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website')."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website'). Depth pass 2026-11-10: lab site read for size: lab site (Opeil Laboratory, Higgins 130) is a small page with Home, BC Physics Dept, Lab Research Focus and More Info links and no member roster."
     },
     {
       "id": "bc-physics-ying-ran",
@@ -314,7 +314,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/ying-ran.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Group Website')."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Group Website'). Depth pass 2026-11-10: lab site read for size: site could not be loaded: sites.google.com/a/bc.edu/ying-ran redirects to a Google Drive sign-in page (home_status 200)."
     },
     {
       "id": "bc-physics-fazel-tafti",
@@ -330,13 +330,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 7 PhD students, 2 undergraduates",
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/labs/Tafti-Lab/team.html",
+      "join_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/labs/Tafti-Lab/open-positions.html",
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/fazel-tafti.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website')."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website'). Depth pass 2026-11-10: lab site read for size: counted Current Members and Undergraduate Students on the team page; Lab Alumni excluded."
     },
     {
       "id": "bc-physics-ziqiang-wang",
@@ -374,13 +374,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 6 graduate students, 2 undergraduates",
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/labs/Zeljkovic-Lab/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/ilija-zeljkovic.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website')."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website'). Depth pass 2026-11-10: lab site read for size: counted current people; alumni and high school students (past) excluded."
     },
     {
       "id": "bc-physics-brian-zhou",
@@ -396,13 +396,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 graduate students, 2 undergraduate/high school researchers",
+      "members_page_url": "https://sites.bc.edu/brianzhoulab/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/Brian-Zhou.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website')."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website'). Depth pass 2026-11-10: lab site read for size: counted current team on the Zhou Lab team page; Graduate and Undergraduate/High School Alumni excluded."
     },
     {
       "id": "bc-physics-zoe-zhu",
@@ -418,13 +418,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 4 PhD students, 2 undergraduates",
+      "members_page_url": "https://www.ziyanzhu.com/group",
+      "join_page_url": "https://www.ziyanzhu.com/join",
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/zoe-zhu.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Group Website')."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Group Website'). Depth pass 2026-11-10: lab site read for size: counted Members on the group page plus the PI; the two pet entries (IT Support Specialist, Speech Coach) excluded."
     },
     {
       "id": "bc-physics-michael-graf",

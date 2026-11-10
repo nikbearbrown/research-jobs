@@ -1,0 +1,597 @@
+[
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-christopher-baker",
+    "fields": {
+      "join_page_url": "http://bakerlab.bio/join/"
+    },
+    "note": "lab site read for size: site is a Jekyll lab page; the cached page is the publications list and shows no member roster, so no count."
+  },
+  {
+    "source": "data/sources/umass-boston-school-for-environment.json",
+    "lab_id": "umass-boston-school-for-environment-gregory-koman",
+    "fields": {},
+    "note": "lab site read for size: personal page (bio and publications); the Lab page (gregkoman.com/lab.html) fetched empty, so no roster could be read."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-christina-kelliher",
+    "fields": {
+      "join_page_url": "http://www.kelliherlab.com/join"
+    },
+    "note": "lab site read for size: the Lab Team link (kelliherlab.com/people) returns only the home/about text with no member list, so no count."
+  },
+  {
+    "source": "data/sources/umass-boston-chemistry.json",
+    "lab_id": "umass-boston-chemistry-qingjiang-li",
+    "fields": {},
+    "note": "lab site read for size: site could not be loaded (home_status: playwright-error ERR_CERT_COMMON_NAME_INVALID); not retried."
+  },
+  {
+    "source": "data/sources/umass-boston-physics.json",
+    "lab_id": "umass-boston-physics-akira-sone",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 postdoc, 1 PhD student, 1 undergraduate",
+      "members_page_url": "https://blogs.umb.edu/akirasone/team/"
+    },
+    "note": "lab site read for size: count from the Team page: PI plus Current Postdoc, Current Students (1 PhD, 1 undergraduate); Alumni excluded."
+  },
+  {
+    "source": "data/sources/umass-boston-school-for-environment.json",
+    "lab_id": "umass-boston-school-for-environment-georgia-mavrommati",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD students, 2 master's students",
+      "members_page_url": "https://blogs.umb.edu/georgiamavrommati/current-members/",
+      "join_page_url": "https://blogs.umb.edu/georgiamavrommati/prospective-students-2/"
+    },
+    "note": "lab site read for size: four Current Students listed (the PI is not listed on the People page, added as the lab's PI); Former Members excluded."
+  },
+  {
+    "source": "data/sources/umass-boston-engineering.json",
+    "lab_id": "umass-boston-engineering-kimberly-hamad",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 graduate students, 2 undergraduates",
+      "members_page_url": "https://blogs.umb.edu/kimhamad/members/",
+      "pi_email": "kim.hamad@umb.edu"
+    },
+    "note": "lab site read for size: members page lists PI, 3 graduate students and 2 undergraduates; alumni are on a separate page."
+  },
+  {
+    "source": "data/sources/umass-boston-school-for-environment.json",
+    "lab_id": "umass-boston-school-for-environment-kimberly-hamad",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 graduate students, 2 undergraduates",
+      "members_page_url": "https://blogs.umb.edu/kimhamad/members/",
+      "pi_email": "kim.hamad@umb.edu"
+    },
+    "note": "lab site read for size: members page lists PI, 3 graduate students and 2 undergraduates; alumni are on a separate page."
+  },
+  {
+    "source": "data/sources/umass-boston-biochemistry.json",
+    "lab_id": "umass-boston-biochemistry-marianna-torok",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 graduate students",
+      "members_page_url": "https://blogs.umb.edu/mariannatorok/group-members/"
+    },
+    "note": "lab site read for size: three current graduate students listed (one starting Fall 2026); PI not listed on the roster, added; Former Group Members excluded."
+  },
+  {
+    "source": "data/sources/umass-boston-chemistry.json",
+    "lab_id": "umass-boston-chemistry-marianna-torok",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 graduate students",
+      "members_page_url": "https://blogs.umb.edu/mariannatorok/group-members/"
+    },
+    "note": "lab site read for size: three current graduate students listed (one starting Fall 2026); PI not listed on the roster, added; Former Group Members excluded."
+  },
+  {
+    "source": "data/sources/umass-boston-biochemistry.json",
+    "lab_id": "umass-boston-biochemistry-shailja-pathania",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoctoral fellow, 5 graduate students, 4 undergraduates",
+      "members_page_url": "https://blogs.umb.edu/shailjapathania/lab_members/",
+      "join_page_url": "https://blogs.umb.edu/shailjapathania/join-our-team/"
+    },
+    "note": "lab site read for size: meet the Team page (updated as of Fall 2025); the one listed under Postdoctoral Fellows is described as a PhD in the MCOB program."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-shailja-pathania",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoctoral fellow, 5 graduate students, 4 undergraduates",
+      "members_page_url": "https://blogs.umb.edu/shailjapathania/lab_members/",
+      "join_page_url": "https://blogs.umb.edu/shailjapathania/join-our-team/"
+    },
+    "note": "lab site read for size: meet the Team page (updated as of Fall 2025); the one listed under Postdoctoral Fellows is described as a PhD in the MCOB program."
+  },
+  {
+    "source": "data/sources/umass-boston-cpct.json",
+    "lab_id": "umass-boston-cpct-shailja-pathania",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoctoral fellow, 5 graduate students, 4 undergraduates",
+      "members_page_url": "https://blogs.umb.edu/shailjapathania/lab_members/",
+      "join_page_url": "https://blogs.umb.edu/shailjapathania/join-our-team/"
+    },
+    "note": "lab site read for size: meet the Team page (updated as of Fall 2025); the one listed under Postdoctoral Fellows is described as a PhD in the MCOB program."
+  },
+  {
+    "source": "data/sources/umass-boston-school-for-environment.json",
+    "lab_id": "umass-boston-school-for-environment-robert-chen",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 senior research engineer, 5 PhD students, 2 master's students, 1 undergraduate",
+      "members_page_url": "https://bobchenlab.weebly.com/people.html",
+      "join_page_url": "https://bobchenlab.weebly.com/prospective-students.html"
+    },
+    "note": "lab site read for size: people page lists 10 people including the PI (an interim dean); alumni sections say coming soon."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-jarrett-byrnes",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI plus 6 other members (roles not shown in the text)",
+      "members_page_url": "https://byrneslab.net/members/",
+      "join_page_url": "https://byrneslab.net/prospectives.html"
+    },
+    "note": "lab site read for size: the Members page (fetched, 1 extra fetch) lists the PI and 6 named members; the cached /current-members page was a 404 and the roles are only filter tabs."
+  },
+  {
+    "source": "data/sources/umass-boston-school-for-environment.json",
+    "lab_id": "umass-boston-school-for-environment-jarrett-byrnes",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI plus 6 other members (roles not shown in the text)",
+      "members_page_url": "https://byrneslab.net/members/",
+      "join_page_url": "https://byrneslab.net/prospectives.html"
+    },
+    "note": "lab site read for size: the Members page (fetched, 1 extra fetch) lists the PI and 6 named members; the cached /current-members page was a 404 and the roles are only filter tabs."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-pravrutha-raman",
+    "fields": {
+      "member_count": 1,
+      "member_breakdown": "1 PI",
+      "members_page_url": "https://chromevoramanlab.github.io/people/",
+      "pi_email": "pravrutha.raman@umb.edu",
+      "accepting_grad_students": true,
+      "join_notes": "Actively recruiting lab manager, technicians, graduate students and postdocs; see the Join us page.",
+      "join_page_url": "https://chromevoramanlab.github.io/join/"
+    },
+    "note": "lab site read for size: people page lists only the PI as current (lab is recruiting at all levels); the rest are past trainees from earlier labs."
+  },
+  {
+    "source": "data/sources/umass-boston-school-for-environment.json",
+    "lab_id": "umass-boston-school-for-environment-christian-rivera",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 PhD student, 1 master's student, 1 undergraduate",
+      "members_page_url": "https://cjriveralab.com/lab-members-2/",
+      "join_page_url": "https://cjriveralab.com/join-the-lab/"
+    },
+    "note": "lab site read for size: lab Members page lists 3 students; the PI has a separate Principal Investigator page and is added."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-liam-revell",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 postdoctoral researcher, 1 PhD student",
+      "members_page_url": "https://faculty.umb.edu/liam.revell/people/index.html",
+      "pi_email": "liam.revell@umb.edu"
+    },
+    "note": "lab site read for size: current Lab Personnel lists 2 people plus the PI; the postdoc is based at a university in Chile; Lab Alumni excluded."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-juliet-girard",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 graduate students, 2 undergraduates",
+      "members_page_url": "https://girardlab.weebly.com/our-team.html",
+      "join_page_url": "https://girardlab.weebly.com/join-us.html"
+    },
+    "note": "lab site read for size: our Team page; Alumni listed separately and excluded."
+  },
+  {
+    "source": "data/sources/umass-boston-biochemistry.json",
+    "lab_id": "umass-boston-biochemistry-jason-green",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 postdocs, 4 PhD students",
+      "members_page_url": "https://jasonrgreen.net/people/",
+      "join_page_url": "https://jasonrgreen.net/join/"
+    },
+    "note": "lab site read for size: team page lists 9 people, but two postdocs are noted as starting faculty positions in Fall 2024 and are excluded; one postdoc (joined 2023) has no end noted so is counted."
+  },
+  {
+    "source": "data/sources/umass-boston-chemistry.json",
+    "lab_id": "umass-boston-chemistry-jason-green",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 postdocs, 4 PhD students",
+      "members_page_url": "https://jasonrgreen.net/people/",
+      "join_page_url": "https://jasonrgreen.net/join/"
+    },
+    "note": "lab site read for size: team page lists 9 people, but two postdocs are noted as starting faculty positions in Fall 2024 and are excluded; one postdoc (joined 2023) has no end noted so is counted."
+  },
+  {
+    "source": "data/sources/umass-boston-green-chemistry.json",
+    "lab_id": "umass-boston-green-chemistry-jason-green",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 postdocs, 4 PhD students",
+      "members_page_url": "https://jasonrgreen.net/people/",
+      "join_page_url": "https://jasonrgreen.net/join/"
+    },
+    "note": "lab site read for size: team page lists 9 people, but two postdocs are noted as starting faculty positions in Fall 2024 and are excluded; one postdoc (joined 2023) has no end noted so is counted."
+  },
+  {
+    "source": "data/sources/umass-boston-school-for-environment.json",
+    "lab_id": "umass-boston-school-for-environment-jesse-farmer",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 4 PhD students, 5 undergraduates",
+      "members_page_url": "https://jfarmersalmanac.com/paleolab/",
+      "pi_email": "jesse.farmer@umb.edu"
+    },
+    "note": "lab site read for size: paleoLab page 'Who We Are' lists PI, 4 PhD students and 5 undergraduates (a dog is also pictured and not counted); alumni excluded."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-guilherme-ortigara-longo",
+    "fields": {},
+    "note": "lab site read for size: site could not be loaded (home_status: blocked-by-robots); not retried."
+  },
+  {
+    "source": "data/sources/umass-boston-biochemistry.json",
+    "lab_id": "umass-boston-biochemistry-michelle-foster",
+    "fields": {
+      "join_page_url": "https://michellefosterpi.wixsite.com/website/open-positions"
+    },
+    "note": "lab site read for size: team page lists only the PI and the site footer is dated 2020, so the roster looks out of date; no count."
+  },
+  {
+    "source": "data/sources/umass-boston-chemistry.json",
+    "lab_id": "umass-boston-chemistry-michelle-foster",
+    "fields": {
+      "join_page_url": "https://michellefosterpi.wixsite.com/website/open-positions"
+    },
+    "note": "lab site read for size: team page lists only the PI and the site footer is dated 2020, so the roster looks out of date; no count."
+  },
+  {
+    "source": "data/sources/umass-boston-green-chemistry.json",
+    "lab_id": "umass-boston-green-chemistry-michelle-foster",
+    "fields": {
+      "join_page_url": "https://michellefosterpi.wixsite.com/website/open-positions"
+    },
+    "note": "lab site read for size: team page lists only the PI and the site footer is dated 2020, so the roster looks out of date; no count."
+  },
+  {
+    "source": "data/sources/umass-boston-school-for-environment.json",
+    "lab_id": "umass-boston-school-for-environment-helen-poynton",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 4 PhD students, 1 master's student",
+      "members_page_url": "https://poyntonlab.com/research-group",
+      "pi_email": "helen.poynton@umb.edu"
+    },
+    "note": "lab site read for size: research group page (1 extra fetch) lists the PI and 5 students."
+  },
+  {
+    "source": "data/sources/umass-boston-chemistry.json",
+    "lab_id": "umass-boston-chemistry-adharsh-raghavan",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 2 graduate students, 1 undergraduate",
+      "members_page_url": "https://raghavanlab.wixsite.com/raghavanlab/group-members",
+      "pi_email": "adharsh.raghavan@umb.edu",
+      "accepting_grad_students": true,
+      "join_notes": "Looking for graduate and undergraduate students; graduate applicants apply through the Chemistry Department admission process, undergraduates contact the lab."
+    },
+    "note": "lab site read for size: group Members page; alumni excluded."
+  },
+  {
+    "source": "data/sources/umass-boston-biochemistry.json",
+    "lab_id": "umass-boston-biochemistry-jens-rister",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 1 research technician, 4 graduate students, 8 undergraduates",
+      "members_page_url": "https://risterlab.weebly.com/who-we-are.html",
+      "join_page_url": "https://risterlab.weebly.com/join-us.html"
+    },
+    "note": "lab site read for size: who We Are page, entries before the Alumni heading; the research technician heading is slightly ambiguous and a Volunteers heading has no names."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-jens-rister",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 1 research technician, 4 graduate students, 8 undergraduates",
+      "members_page_url": "https://risterlab.weebly.com/who-we-are.html",
+      "join_page_url": "https://risterlab.weebly.com/join-us.html"
+    },
+    "note": "lab site read for size: who We Are page, entries before the Alumni heading; the research technician heading is slightly ambiguous and a Volunteers heading has no names."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-labib-rouhana",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 2 PhD-holding researchers (role not stated), 2 PhD students, 1 master's student, 3 undergraduates",
+      "members_page_url": "https://rouhanalab.weebly.com/members.html"
+    },
+    "note": "lab site read for size: entries under CURRENT before the Alumni headings."
+  },
+  {
+    "source": "data/sources/umass-boston-biochemistry.json",
+    "lab_id": "umass-boston-biochemistry-niya-sa",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 BS/MS student, 2 PhD candidates, 3 other graduate students, 5 undergraduates",
+      "members_page_url": "https://saniyabnu.wixsite.com/niyasa/group-members"
+    },
+    "note": "lab site read for size: group Members page entries above Group Alumni (one named person, Olivia Paden, also appears in the alumni list)."
+  },
+  {
+    "source": "data/sources/umass-boston-chemistry.json",
+    "lab_id": "umass-boston-chemistry-niya-sa",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 BS/MS student, 2 PhD candidates, 3 other graduate students, 5 undergraduates",
+      "members_page_url": "https://saniyabnu.wixsite.com/niyasa/group-members"
+    },
+    "note": "lab site read for size: group Members page entries above Group Alumni (one named person, Olivia Paden, also appears in the alumni list)."
+  },
+  {
+    "source": "data/sources/umass-boston-green-chemistry.json",
+    "lab_id": "umass-boston-green-chemistry-niya-sa",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 BS/MS student, 2 PhD candidates, 3 other graduate students, 5 undergraduates",
+      "members_page_url": "https://saniyabnu.wixsite.com/niyasa/group-members"
+    },
+    "note": "lab site read for size: group Members page entries above Group Alumni (one named person, Olivia Paden, also appears in the alumni list)."
+  },
+  {
+    "source": "data/sources/umass-boston-biochemistry.json",
+    "lab_id": "umass-boston-biochemistry-jason-evans",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 PhD students, 3 undergraduates",
+      "members_page_url": "https://sites.google.com/view/evansgroupwebsite/members"
+    },
+    "note": "lab site read for size: members page; Alumni excluded."
+  },
+  {
+    "source": "data/sources/umass-boston-chemistry.json",
+    "lab_id": "umass-boston-chemistry-jason-evans",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 PhD students, 3 undergraduates",
+      "members_page_url": "https://sites.google.com/view/evansgroupwebsite/members"
+    },
+    "note": "lab site read for size: members page; Alumni excluded."
+  },
+  {
+    "source": "data/sources/umass-boston-green-chemistry.json",
+    "lab_id": "umass-boston-green-chemistry-jason-evans",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 PhD students, 3 undergraduates",
+      "members_page_url": "https://sites.google.com/view/evansgroupwebsite/members"
+    },
+    "note": "lab site read for size: members page; Alumni excluded."
+  },
+  {
+    "source": "data/sources/umass-boston-school-for-environment.json",
+    "lab_id": "umass-boston-school-for-environment-boniface-fosu",
+    "fields": {
+      "join_page_url": "https://sites.google.com/view/msuclimategroup/join-us"
+    },
+    "note": "lab site read for size: site is the Climate Dynamics & Extremes Lab; the Team page lists 5 current members but the students describe themselves at Mississippi State, so it is unclear it is the UMass Boston group; no count."
+  },
+  {
+    "source": "data/sources/umass-boston-school-for-environment.json",
+    "lab_id": "umass-boston-school-for-environment-shijuan-chen",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 PhD student, 1 master's student (research assistant at another university)",
+      "members_page_url": "https://sites.google.com/view/shijuanchen/people",
+      "pi_email": "shijuan.chen@umb.edu"
+    },
+    "note": "lab site read for size: people page lists the PI and two research assistants."
+  },
+  {
+    "source": "data/sources/umass-boston-engineering.json",
+    "lab_id": "umass-boston-engineering-joanna-dahl",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 2 PhD students, 1 undergraduate",
+      "members_page_url": "https://sites.google.com/view/umb-biomechanics-lab/people",
+      "join_page_url": "https://sites.google.com/view/umb-biomechanics-lab/prospective-phd-students"
+    },
+    "note": "lab site read for size: people page; Alumni excluded."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-albert-kao",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 postdoc, 1 PhD student, 1 undergraduate",
+      "members_page_url": "https://thekaolab.com/members.html",
+      "pi_email": "albert.kao@umb.edu"
+    },
+    "note": "lab site read for size: members page entries above Lab Alumni."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-mayra-cadorin-vidal",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 PhD students, 1 master's student",
+      "members_page_url": "https://vidallab.weebly.com/people.html",
+      "join_page_url": "https://vidallab.weebly.com/join-the-lab.html"
+    },
+    "note": "lab site read for size: people page entries above Alumni."
+  },
+  {
+    "source": "data/sources/umass-boston-biochemistry.json",
+    "lab_id": "umass-boston-biochemistry-douglas-woodhams",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdoctoral-level researchers, 3 PhD students, 3 students (level not stated), 1 undergraduate",
+      "members_page_url": "https://woodhamslab.com/people/",
+      "pi_email": "douglas.woodhams@umb.edu",
+      "join_page_url": "https://woodhamslab.com/community-engagement-opportunities/"
+    },
+    "note": "lab site read for size: people page entries before Former Lab Members; page footer says 2019 but includes a Fall 2024 postdoc."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-douglas-woodhams",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdoctoral-level researchers, 3 PhD students, 3 students (level not stated), 1 undergraduate",
+      "members_page_url": "https://woodhamslab.com/people/",
+      "pi_email": "douglas.woodhams@umb.edu",
+      "join_page_url": "https://woodhamslab.com/community-engagement-opportunities/"
+    },
+    "note": "lab site read for size: people page entries before Former Lab Members; page footer says 2019 but includes a Fall 2024 postdoc."
+  },
+  {
+    "source": "data/sources/umass-boston-school-for-environment.json",
+    "lab_id": "umass-boston-school-for-environment-douglas-woodhams",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdoctoral-level researchers, 3 PhD students, 3 students (level not stated), 1 undergraduate",
+      "members_page_url": "https://woodhamslab.com/people/",
+      "pi_email": "douglas.woodhams@umb.edu",
+      "join_page_url": "https://woodhamslab.com/community-engagement-opportunities/"
+    },
+    "note": "lab site read for size: people page entries before Former Lab Members; page footer says 2019 but includes a Fall 2024 postdoc."
+  },
+  {
+    "source": "data/sources/umass-boston-biochemistry.json",
+    "lab_id": "umass-boston-biochemistry-alexey-veraksa",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 PhD students, 3 undergraduates",
+      "members_page_url": "https://www.faculty.umb.edu/alexey_veraksa/People.html"
+    },
+    "note": "lab site read for size: current Lab Members list; Previous Graduate Students excluded."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-alexey-veraksa",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 PhD students, 3 undergraduates",
+      "members_page_url": "https://www.faculty.umb.edu/alexey_veraksa/People.html"
+    },
+    "note": "lab site read for size: current Lab Members list; Previous Graduate Students excluded."
+  },
+  {
+    "source": "data/sources/umass-boston-biochemistry.json",
+    "lab_id": "umass-boston-biochemistry-kellee-siegfried",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD students, 1 master's student, 1 undergraduate",
+      "members_page_url": "https://www.siegfried-lab.com/people"
+    },
+    "note": "lab site read for size: people page entries before Former Members; page says updated Aug 2024, so it may be dated."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-kellee-siegfried",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD students, 1 master's student, 1 undergraduate",
+      "members_page_url": "https://www.siegfried-lab.com/people"
+    },
+    "note": "lab site read for size: people page entries before Former Members; page says updated Aug 2024, so it may be dated."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-nichola-hill",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 2 master's students, 5 research assistants",
+      "members_page_url": "https://www.theviruspluslab.com/people"
+    },
+    "note": "lab site read for size: people page entries before Collaborators/Former members."
+  },
+  {
+    "source": "data/sources/umass-boston-biochemistry.json",
+    "lab_id": "umass-boston-biochemistry-daniel-dowling",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 3 postdocs, 3 graduate students, 5 undergraduates",
+      "members_page_url": "https://www.umb.edu/research/labs/dowling-lab/group-members/",
+      "join_page_url": "https://www.umb.edu/research/labs/dowling-lab/updates-opportunities/"
+    },
+    "note": "lab site read for size: group Members page; includes 3 undergraduates under a 'Graduating Undergraduates' subheading, counted as current."
+  },
+  {
+    "source": "data/sources/umass-boston-chemistry.json",
+    "lab_id": "umass-boston-chemistry-daniel-dowling",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 3 postdocs, 3 graduate students, 5 undergraduates",
+      "members_page_url": "https://www.umb.edu/research/labs/dowling-lab/group-members/",
+      "join_page_url": "https://www.umb.edu/research/labs/dowling-lab/updates-opportunities/"
+    },
+    "note": "lab site read for size: group Members page; includes 3 undergraduates under a 'Graduating Undergraduates' subheading, counted as current."
+  },
+  {
+    "source": "data/sources/umass-boston-green-chemistry.json",
+    "lab_id": "umass-boston-green-chemistry-daniel-dowling",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 3 postdocs, 3 graduate students, 5 undergraduates",
+      "members_page_url": "https://www.umb.edu/research/labs/dowling-lab/group-members/",
+      "join_page_url": "https://www.umb.edu/research/labs/dowling-lab/updates-opportunities/"
+    },
+    "note": "lab site read for size: group Members page; includes 3 undergraduates under a 'Graduating Undergraduates' subheading, counted as current."
+  },
+  {
+    "source": "data/sources/umass-boston-biochemistry.json",
+    "lab_id": "umass-boston-biochemistry-catherine-mccusker",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 PhD student, 1 research assistant (PhD student), 7 undergraduates",
+      "members_page_url": "https://www.umb.edu/mccuskerlab/research-team/",
+      "pi_email": "catherine.mccusker@umb.edu",
+      "join_page_url": "https://www.umb.edu/mccuskerlab/join-us/"
+    },
+    "note": "lab site read for size: research Team page (1 extra fetch) entries above Former Lab Members."
+  },
+  {
+    "source": "data/sources/umass-boston-biology.json",
+    "lab_id": "umass-boston-biology-catherine-mccusker",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 PhD student, 1 research assistant (PhD student), 7 undergraduates",
+      "members_page_url": "https://www.umb.edu/mccuskerlab/research-team/",
+      "pi_email": "catherine.mccusker@umb.edu",
+      "join_page_url": "https://www.umb.edu/mccuskerlab/join-us/"
+    },
+    "note": "lab site read for size: research Team page (1 extra fetch) entries above Former Lab Members."
+  },
+  {
+    "source": "data/sources/umass-boston-engineering.json",
+    "lab_id": "umass-boston-engineering-ioannis-zografopoulos",
+    "fields": {},
+    "note": "lab site read for size: people page lists the PI, 2 PhD students and 8 undergraduates with no alumni split, and most undergraduates are described in past tense, so who is current cannot be told."
+  }
+]

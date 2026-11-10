@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/13701",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: lab site read for size: site returned a Tufts 'Page not found' (404) page; no lab content. home_status 200 but content is a 404."
     },
     {
       "id": "tufts-phcm-olaf-dammann",
@@ -418,13 +418,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 postdoc, 1 research assistant, 2 master's graduate students",
+      "members_page_url": "https://sites.tufts.edu/gasslab/about-us/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/19606",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Gass Lab @ Tufts University')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Gass Lab @ Tufts University'). Depth pass 2026-11-10: lab site read for size: count from About Us page (one extra fetch); former affiliates and Ethiopia project staff/affiliates excluded."
     },
     {
       "id": "tufts-phcm-kenneth-getz",
@@ -924,13 +924,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI (director), 1 projects manager, 3 research assistants, 1 intern",
+      "members_page_url": "https://sites.tufts.edu/margieskeerlab/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/13886",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Skeer Lab Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Skeer Lab Website'). Depth pass 2026-11-10: lab site read for size: count from Our Team page above Past Lab Members; the page may not be recently updated."
     },
     {
       "id": "tufts-phcm-thomas-stopka",

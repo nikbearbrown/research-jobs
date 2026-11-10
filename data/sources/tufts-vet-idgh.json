@@ -88,13 +88,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 lab manager (senior research technician), 3 PhD students, 3 research technicians",
+      "members_page_url": "https://sites.tufts.edu/yipinlinlab/?page_id=11",
+      "join_page_url": "https://sites.tufts.edu/yipinlinlab/?page_id=328",
       "join_notes": null,
       "profile_url": "https://vet.tufts.edu/node/12596",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Yi-Pin Lin Lab')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Yi-Pin Lin Lab'). Depth pass 2026-11-10: lab site read for size: counted the Lab Members entries before the alumni-style lists (postdocs, DVM and undergraduate lists are past members)."
     },
     {
       "id": "tufts-vet-idgh-amanda-martinot",
@@ -110,13 +110,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 research scientist, 3 PhD students",
+      "members_page_url": "https://sites.tufts.edu/martinotlab/current-lab-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://vet.tufts.edu/node/5316",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Martinot Lab')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Martinot Lab'). Depth pass 2026-11-10: lab site read for size: count from Current Lab Members page (one extra fetch)."
     },
     {
       "id": "tufts-vet-idgh-maureen-murray",
@@ -198,13 +198,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 1 research assistant, 1 Cummings scientist, 1 listed with no role",
+      "members_page_url": "https://sites.tufts.edu/runstadlerlab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://vet.tufts.edu/node/5576",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Runstadler Lab')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Runstadler Lab'). Depth pass 2026-11-10: lab site read for size: counted names under Current Lab Members before the Alum heading; Nicole Knobloch has no title shown."
     },
     {
       "id": "tufts-vet-idgh-allen-rutberg",

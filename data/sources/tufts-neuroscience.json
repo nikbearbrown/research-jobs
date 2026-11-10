@@ -66,13 +66,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 2 PhD students, 1 research technician, 4 undergraduates",
+      "members_page_url": "https://www.bygravelab.com/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/19341",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: lab site read for size: counted Lab Members before the Past lab members heading."
     },
     {
       "id": "tufts-neuroscience-martina-chiacchiaretta",
@@ -198,13 +198,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 7 listed as Ph.D. (role not stated), 1 graduate student, 2 postbac scholars",
+      "members_page_url": "http://www.maguirelab.com/lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/13551",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Maguire Lab')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Maguire Lab'). Depth pass 2026-11-10: lab site read for size: count from the 'Current Lab Members' list (11 names including the PI); roles are not given for the Ph.D.s."
     },
     {
       "id": "tufts-neuroscience-stephen-moss",
@@ -242,13 +242,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 PhD student, 1 research technician, 5 undergraduate researchers",
+      "members_page_url": "https://hellonewmanlab.com/newman-lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/23456",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Newman Social Neuroethology Lab')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Newman Social Neuroethology Lab'). Depth pass 2026-11-10: lab site read for size: counted from the Newman Lab members page."
     },
     {
       "id": "tufts-neuroscience-leon-reijmers",

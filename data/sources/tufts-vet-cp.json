@@ -110,13 +110,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 senior research technician",
+      "members_page_url": "https://sites.tufts.edu/byrneslab/other/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://vet.tufts.edu/node/5456",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Byrnes Lab')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Byrnes Lab'). Depth pass 2026-11-10: lab site read for size: count from the Current Lab Members list; the Recent Alumni sections (including other technicians) excluded."
     },
     {
       "id": "tufts-vet-cp-francisco-conrado",

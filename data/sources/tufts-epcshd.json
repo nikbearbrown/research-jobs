@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/epcshd/node/946",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: site is the Institute for Applied Research in Youth Development (an institute); People page only has links to faculty, student, staff pages, so not a single PI group count."
     },
     {
       "id": "tufts-epcshd-christine-mcwayne",
@@ -242,13 +242,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Early childhood education, school success of young children at risk due to poverty, parenting and family-school partnerships in diverse ethnocultural communities, culturally inclusive STEM curriculum, community-based research collaborations.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 PhD student, 2 master's research assistants, 1 undergraduate research assistant",
+      "members_page_url": "https://sites.tufts.edu/excelslab/people/researchassistants/",
+      "join_page_url": "https://sites.tufts.edu/excelslab/joinourlab/",
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/epcshd/node/806",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: count from the Current Research Assistants list and the Post Docs and Graduate Students page (two extra fetches); the postdoc heading names no one."
     },
     {
       "id": "tufts-epcshd-jayanthi-mistry",
@@ -330,13 +330,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Neurodevelopmental disorders; autism spectrum disorder; sexuality education; social perception; eye tracking; dimensional measurement of psychological symptoms",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 3 doctoral students, 3 master's students, 8 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/crehanlab/biography/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/epcshd/node/836",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: count from the Meet the Team page above Lab Alumni."
     },
     {
       "id": "tufts-epcshd-lisa-fiore",

@@ -235,20 +235,20 @@
       "pi_name": "Lauryn Spearing",
       "pi_title": "Assistant Professor",
       "pi_email": "lauryn.spearing@tufts.edu",
-      "accepting_grad_students": null,
+      "accepting_grad_students": true,
       "lab_website": "https://sites.tufts.edu/spearing/",
       "location": null,
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": "1) Infrastructure management during uncertain contexts\n2) Understanding public perceptions towards the built environment\n3) Sustainable water technology adoption",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 postdoc, 3 PhD students, 4 undergraduate researchers",
+      "members_page_url": "https://sites.tufts.edu/spearing/researchteam/",
+      "join_page_url": "https://sites.tufts.edu/spearing/prospective-students/",
+      "join_notes": "Page says it is recruiting PhD students for Spring and Fall 2027; see the Prospective Students page.",
       "profile_url": "https://engineering.tufts.edu/cee/people/faculty/lauryn-spearing",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website')."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website'). Depth pass 2026-11-10: lab site read for size: from the Research Team page (one extra fetch) before the Group Alumni heading; the page says PhD students are being recruited for Spring and Fall 2027."
     },
     {
       "id": "tufts-cee-helen-suh",
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/cee/people/faculty/robert-viesca",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research website')."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research website'). Depth pass 2026-11-10: lab site read for size: personal faculty page with research, publications and former members only; no current group roster is shown."
     }
   ],
   "non_lab_people": [

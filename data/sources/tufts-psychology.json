@@ -25,10 +25,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://as.tufts.edu/psychology/tusc-lab/about",
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/psychology/node/2396",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: people page lists only the PI and a visiting faculty entry with years 2021-2022; all other names are under Former Graduate Students / Former Research Assistants, so current members cannot be determined."
     },
     {
       "id": "tufts-psychology-aerielle-allen",
@@ -66,13 +66,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Perception",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 PhD students, 7 undergraduates",
+      "members_page_url": "https://sites.tufts.edu/multisensory/people/",
+      "join_page_url": "https://sites.tufts.edu/multisensory/positions/",
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/psychology/node/2466",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: counted current names on the People page before the Previous Lab Members heading."
     },
     {
       "id": "tufts-psychology-jp-de-ruiter",
@@ -88,13 +88,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Cognition and Psycholinguistics",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD students, 1 undergraduate research assistant, 1 lab manager",
+      "members_page_url": "https://sites.tufts.edu/hilab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/psychology/node/2376",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: count from 'Current research members' on the People page; alumni section excluded."
     },
     {
       "id": "tufts-psychology-ariel-goldberg",
@@ -113,10 +113,10 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
+      "join_page_url": "https://sites.tufts.edu/psycholinglab/join-the-lab/",
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/psychology/node/2301",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: people page names only the director, lists alumni and honors-thesis students, and has no current student roster."
     },
     {
       "id": "tufts-psychology-xandra-kredlow",
@@ -154,13 +154,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Cognitive Neuroscience, Language (semantics), Clinical cognitive neuroscience",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdocs, 3 research coordinators/technicians, 2 graduate students, 2 undergraduate researchers",
+      "members_page_url": "https://kuperberglab.com/team",
+      "join_page_url": "https://kuperberglab.com/join-our-lab",
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/psychology/node/2356",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'). Depth pass 2026-11-10: lab site read for size: counted from Our Team page; consultants, collaborators and all alumni lists excluded."
     },
     {
       "id": "tufts-psychology-paul-muentener",
@@ -176,13 +176,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Conceptual Development, Causal Reasoning, Language & Thought",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 graduate student",
+      "members_page_url": "https://sites.tufts.edu/cdlab/research-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/psychology/node/2441",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: count from Research Team page (one extra fetch); alumni excluded."
     },
     {
       "id": "tufts-psychology-aniruddh-patel",
@@ -220,13 +220,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Cognitive Neuroscience",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 graduate student, 11 undergraduate research assistants (one is lab manager)",
+      "members_page_url": "https://tuftsiconlab.weebly.com/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/psychology/node/2351",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: counted all names under Current Lab Members; no alumni section is shown."
     },
     {
       "id": "tufts-psychology-jessica-remedios",
@@ -242,13 +242,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Social Cognition",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 graduate students",
+      "members_page_url": "https://as.tufts.edu/psychology/social-identity-stigma-lab/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/psychology/node/2386",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: counted from PI and Graduate Students sections; Lab Alumni and Collaborators excluded."
     },
     {
       "id": "tufts-psychology-lisa-shin",
@@ -264,13 +264,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Clinical Neuroscience",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 graduate students/postdocs (page does not say which are which)",
+      "members_page_url": "https://as.tufts.edu/psychology/posttraumatic-stress-disorder-neuroimaging-lab/people",
+      "join_page_url": "https://as.tufts.edu/psychology/posttraumatic-stress-disorder-neuroimaging-lab/about",
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/psychology/node/2406",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: counted from PI plus the 'Graduate Students and Postdocs' section; Recent Alumni excluded."
     },
     {
       "id": "tufts-psychology-holly-taylor",
@@ -286,13 +286,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Spatial Cognition, Applied Cognition.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 18,
+      "member_breakdown": "1 PI, 2 PhD students, 1 lab manager, 13 undergraduate research assistants, 1 master's-level graduate student research assistant",
+      "members_page_url": "https://sites.tufts.edu/spatialcog/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/psychology/node/2361",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: counted the People page entries before the Lab Alumni heading (Prasasti Aich is a graduate student listed among the research assistants)."
     },
     {
       "id": "tufts-psychology-ayanna-thomas",
@@ -308,13 +308,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Memory and Aging",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 postdoctoral fellow, 1 graduate student, 1 senior research coordinator",
+      "members_page_url": "https://www.thomas-camlab.org/about",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/psychology/node/2316",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: from 'Present Lab Members'; former members excluded."
     },
     {
       "id": "tufts-psychology-heather-urry",
@@ -330,13 +330,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Emotion and Emotion Regulation",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 graduate student",
+      "members_page_url": "https://ebbl.heatherurry.io/people.html",
+      "join_page_url": "https://ebbl.heatherurry.io/get-involved.html",
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/psychology/node/2366",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: counted from Director and Current Graduate Students; Former Graduate Students and Postdocs excluded."
     },
     {
       "id": "tufts-psychology-nathan-ward",
@@ -352,13 +352,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Applied Cognition",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 PhD students, 2 MS graduate research assistants, 2 undergraduate research assistants",
+      "members_page_url": "https://sites.tufts.edu/appliedcognition/research-team",
+      "join_page_url": "https://sites.tufts.edu/appliedcognition/opportunities",
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/psychology/node/2426",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: count from the Current team page (one extra fetch); alumni on a separate page excluded."
     },
     {
       "id": "tufts-psychology-marcus-weera",
@@ -374,13 +374,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Behavioral Neuroscience; Neurobiology of Stress & Addiction",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 4 graduate students",
+      "members_page_url": "https://as.tufts.edu/psychology/addiction-neuroscience-lab/people",
+      "join_page_url": "https://as.tufts.edu/psychology/addiction-neuroscience-lab/about/lab-opportunities",
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/psychology/node/3016",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'). Depth pass 2026-11-10: lab site read for size: counted from the PI, Postdoctoral Scholar and Graduate Students sections; Alumni excluded."
     },
     {
       "id": "tufts-psychology-cigdem-talgar",
