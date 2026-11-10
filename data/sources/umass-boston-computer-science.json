@@ -27,8 +27,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/nurithaspel/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-bo-sheng",
@@ -49,8 +49,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/bosheng/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-daniel-haehn",
@@ -71,8 +71,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/danielhaehn/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-duc-tran",
@@ -93,8 +93,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/ductran/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-funda-durupinar-babur",
@@ -115,8 +115,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/fundadurupinarbabur/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-gabriel-ghinita",
@@ -137,8 +137,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/gabrielghinita/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-junichi-suzuki",
@@ -159,8 +159,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/junichisuzuki/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-kenneth-fletcher",
@@ -181,8 +181,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/kennethfletcher/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-meng-ding",
@@ -203,8 +203,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/mengding/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-ozgun-babur",
@@ -225,8 +225,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/ozgunbabur/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-shichao-pei",
@@ -247,8 +247,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/shichaopei/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-stephen-chang",
@@ -269,8 +269,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/stephenchang/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-tarikul-islam-papon",
@@ -291,8 +291,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/tpapon/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://www.cs.umb.edu/~tpapon/) that shows no lab or people page."
     },
     {
       "id": "umass-boston-computer-science-tales-de-oliveira-imbiriba",
@@ -313,8 +313,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/talesimbiriba/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-tiago-soares-cogumbreiro-garcia",
@@ -335,8 +335,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/tiagocogumbreiro/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-tianfang-zhang",
@@ -357,8 +357,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/tianfangzhang/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-xiaohui-liang",
@@ -379,8 +379,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/xiaohuiliang/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "umass-boston-computer-science-yinxin-wan",
@@ -401,8 +401,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself."
+      "profile_url": "https://www.umb.edu/directory/yinxinwan/",
+      "notes": "Breadth pass from the department's own Faculty & Staff page (scripts/parse_umb_people.py); no lab site or profile link shown on the listing page itself. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     }
   ],
   "non_lab_people": [],

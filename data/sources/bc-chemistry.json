@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/people/faculty-directory/daniel-fox.html",
-      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-chemistry-nathaniel-hartmann",
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/people/faculty-directory/nathaniel-hartmann.html",
-      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-chemistry-clarissa-keen",
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/people/faculty-directory/clarissa-keen.html",
-      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-chemistry-kenneth-r-metz",
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/people/faculty-directory/kenneth-metz.html",
-      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-chemistry-allison-young",
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/people/faculty-directory/allison-young.html",
-      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-chemistry-william-h-armstrong",
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/people/faculty-directory/william-h-armstrong.html",
-      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-chemistry-e-joseph-billo",
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/people/faculty-directory/e-joseph-billo.html",
-      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-chemistry-michael-j-clarke",
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/people/faculty-directory/michael-clarke.html",
-      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-chemistry-dennis-j-sardella",
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/people/faculty-directory/dennis-j-sardella.html",
-      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-chemistry-jeffery-a-byers",
@@ -258,7 +258,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "frank.tsung@bc.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.bc.edu/frank-tsung/",
       "location": "Merkert 224",
       "phone": "617-552-3605",
       "admin_name": null,
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/people/folder-for-memoriam/chia-kuang-tsung.html",
-      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Group Research Website')."
     },
     {
       "id": "bc-chemistry-larry-w-mclaughlin",
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/chemistry/people/folder-for-memoriam/larry-mclaughlin.html",
-      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Research Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-chemistry-neil-m-wolfman",

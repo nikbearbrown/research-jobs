@@ -15,7 +15,7 @@
       "lab_name": null,
       "pi_name": "Elizabeth Sweet",
       "pi_title": "Associate Dean, School for the Environment",
-      "pi_email": null,
+      "pi_email": "betsy.sweet@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -28,8 +28,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/betsysweet/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-robert-chen",
@@ -37,9 +37,9 @@
       "lab_name": null,
       "pi_name": "Robert Chen",
       "pi_title": "Director of Grant Scholarly Initiatives, Provost's Office",
-      "pi_email": null,
+      "pi_email": "bob.chen@umb.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://bobchenlab.weebly.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -50,8 +50,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/bobchen/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-boniface-fosu",
@@ -59,9 +59,9 @@
       "lab_name": null,
       "pi_name": "Boniface Fosu",
       "pi_title": "Assistant Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "boniface.fosu@umb.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.google.com/view/msuclimategroup?usp=sharing",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -72,8 +72,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/bonifacefosu/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-carol-thornber",
@@ -81,7 +81,7 @@
       "lab_name": null,
       "pi_name": "Carol Thornber",
       "pi_title": "Dean of School for the Environment, School for the Environment",
-      "pi_email": null,
+      "pi_email": "carol.thornber@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -94,8 +94,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/carolthornber/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-christian-rivera",
@@ -103,9 +103,9 @@
       "lab_name": null,
       "pi_name": "Christian Rivera",
       "pi_title": "Assistant Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "cj.rivera@umb.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://cjriveralab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -116,8 +116,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/cjrivera/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-enrique-ramos",
@@ -125,7 +125,7 @@
       "lab_name": null,
       "pi_name": "Enrique Ramos",
       "pi_title": "Assistant Professor, Urban Planning & Community Development",
-      "pi_email": null,
+      "pi_email": "enrique.ramos@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -138,8 +138,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/enriqueramos/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-georgia-mavrommati",
@@ -147,9 +147,9 @@
       "lab_name": null,
       "pi_name": "Georgia Mavrommati",
       "pi_title": "Associate Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "georgia.mavrommati@umb.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://blogs.umb.edu/georgiamavrommati/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -160,8 +160,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/georgiamavrommati/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://blogs.umb.edu/georgiamavrommati/current-members/). Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-gregory-koman",
@@ -169,9 +169,9 @@
       "lab_name": null,
       "pi_name": "Gregory Koman",
       "pi_title": "Assistant Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "gregory.koman@umb.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.gregkoman.com",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -182,8 +182,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/gregorykoman/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://www.gregkoman.com/lab.html). Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-helen-poynton",
@@ -191,9 +191,9 @@
       "lab_name": null,
       "pi_name": "Helen Poynton",
       "pi_title": "Undergraduate Program Director & Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "helen.poynton@umb.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://poyntonlab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -204,8 +204,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/helenpoynton/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-jesse-farmer",
@@ -213,9 +213,9 @@
       "lab_name": null,
       "pi_name": "Jesse Farmer",
       "pi_title": "Assistant Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "jesse.farmer@umb.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://jfarmersalmanac.com/paleolab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -226,8 +226,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/jessefarmer/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-john-duff",
@@ -235,7 +235,7 @@
       "lab_name": null,
       "pi_name": "John Duff",
       "pi_title": "Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "john.duff@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -248,8 +248,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/johnduff/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-juanita-urban-rich",
@@ -257,7 +257,7 @@
       "lab_name": null,
       "pi_name": "Juanita Urban-Rich",
       "pi_title": "Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "juanita.urban-rich@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -270,8 +270,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/juanitaurban-rich/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-karen-johannesson",
@@ -279,7 +279,7 @@
       "lab_name": null,
       "pi_name": "Karen Johannesson",
       "pi_title": "Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "karen.johannesson@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -292,8 +292,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/karenjohannesson/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-karen-ricciardi",
@@ -301,7 +301,7 @@
       "lab_name": null,
       "pi_name": "Karen Ricciardi",
       "pi_title": "Senior Associate Dean, College of Science & Mathematics",
-      "pi_email": null,
+      "pi_email": "karen.ricciardi@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -314,8 +314,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/karenricciardi/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-katherine-dafforn",
@@ -323,7 +323,7 @@
       "lab_name": null,
       "pi_name": "Katherine Dafforn",
       "pi_title": "Distinguished Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "katherine.dafforn@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -336,8 +336,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/katherinedafforn/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-laura-castro-diaz",
@@ -345,7 +345,7 @@
       "lab_name": null,
       "pi_name": "Laura Castro Diaz",
       "pi_title": "Assistant Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "laura.castrodiaz@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -358,8 +358,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/lauracastrodiaz/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://lauracastrodiaz.wordpress.com/) that shows no lab or people page. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-lorena-estrada-martinez",
@@ -367,7 +367,7 @@
       "lab_name": null,
       "pi_name": "Lorena Estrada-Martinez",
       "pi_title": "Associate Professor, Urban Planning & Community Development",
-      "pi_email": null,
+      "pi_email": "lorena.estrada@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -380,8 +380,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/lorenaestrada/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-luis-santiago",
@@ -389,7 +389,7 @@
       "lab_name": null,
       "pi_name": "Luis Santiago",
       "pi_title": "Department Chair, Urban Planning & Community Development",
-      "pi_email": null,
+      "pi_email": "luis.santiago@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -402,8 +402,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/luissantiago/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-michael-tlusty",
@@ -411,7 +411,7 @@
       "lab_name": null,
       "pi_name": "Michael Tlusty",
       "pi_title": "Graduate Program Director, Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "michael.tlusty@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -424,8 +424,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/michaeltlusty/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://www.tlusty.solutions/) that shows no lab or people page. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-patrice-williams",
@@ -433,7 +433,7 @@
       "lab_name": null,
       "pi_name": "Patrice Williams",
       "pi_title": "Assistant Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "patrice.williams@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -446,8 +446,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/patricewilliams/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-chi-kan-hung",
@@ -455,7 +455,7 @@
       "lab_name": null,
       "pi_name": "Chi-Kan Hung",
       "pi_title": "Graduate Program Director, Associate Professor, Urban Planning & Community Development",
-      "pi_email": null,
+      "pi_email": "richard.hung@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -468,8 +468,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/richardhung/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-shijuan-chen",
@@ -477,9 +477,9 @@
       "lab_name": null,
       "pi_name": "Shijuan Chen",
       "pi_title": "Assistant Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "shijuan.chen@umb.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.google.com/view/shijuanchen/home",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -490,8 +490,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/shijuanchen/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://sites.google.com/view/shijuanchen/people). Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-sowmya-balachandran",
@@ -499,7 +499,7 @@
       "lab_name": null,
       "pi_name": "Sowmya Balachandran",
       "pi_title": "Assistant Professor, Urban Planning & Community Development",
-      "pi_email": null,
+      "pi_email": "sowmya.balachandran@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -512,8 +512,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/sowmyabalachandran/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-sua-kim",
@@ -521,7 +521,7 @@
       "lab_name": null,
       "pi_name": "Sua Kim",
       "pi_title": "Assistant Professor, Urban Planning & Community Development",
-      "pi_email": null,
+      "pi_email": "sua.kim@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -534,8 +534,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/suakim/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-xiaofeng-liu",
@@ -543,7 +543,7 @@
       "lab_name": null,
       "pi_name": "Xiaofeng Liu",
       "pi_title": "Assistant Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "xiaofeng.liu@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -556,8 +556,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/xiaofengliu/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-yang-yang",
@@ -565,7 +565,7 @@
       "lab_name": null,
       "pi_name": "Yang Yang",
       "pi_title": "Assistant Professor, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "yang.yang@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -578,8 +578,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/yangyang/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://yyanghydro.github.io/) that shows no lab or people page. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-zong-guo-xia",
@@ -587,7 +587,7 @@
       "lab_name": null,
       "pi_name": "Zong-Guo Xia",
       "pi_title": "Interim Chair, EnvSci Sus, Environ Sci & Sustainability",
-      "pi_email": null,
+      "pi_email": "zongguo.xia@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -600,8 +600,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/zongguoxia/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-mark-borrelli",
@@ -609,7 +609,7 @@
       "lab_name": null,
       "pi_name": "Mark Borrelli",
       "pi_title": "Hourly Research Fellow, School for the Environment",
-      "pi_email": null,
+      "pi_email": "mark.borrelli@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -622,8 +622,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/markborrelli/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-robert-stevenson",
@@ -631,7 +631,7 @@
       "lab_name": null,
       "pi_name": "Robert Stevenson",
       "pi_title": "Associate Dean, College of Science & Mathematics",
-      "pi_email": null,
+      "pi_email": "robert.stevenson@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -644,8 +644,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/robertstevenson/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-alexander-more",
@@ -653,7 +653,7 @@
       "lab_name": null,
       "pi_name": "Alexander More",
       "pi_title": "Associate Professor, Urban Public Health",
-      "pi_email": null,
+      "pi_email": "alexander.more@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -666,8 +666,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/alexandermore/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://sites.google.com/umb.edu/alexandermore) that shows no lab or people page. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-benyamin-lichtenstein",
@@ -675,7 +675,7 @@
       "lab_name": null,
       "pi_name": "Benyamin Lichtenstein",
       "pi_title": "Professor, Management",
-      "pi_email": null,
+      "pi_email": "b.lichtenstein@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -688,8 +688,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/blichtenstein/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-james-woods",
@@ -697,7 +697,7 @@
       "lab_name": null,
       "pi_name": "James Woods",
       "pi_title": "Director of Institute for New England Native American Studies, Institute New England Native American",
-      "pi_email": null,
+      "pi_email": "cedric.woods@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -710,8 +710,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/cedricwoods/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-david-timmons",
@@ -719,7 +719,7 @@
       "lab_name": null,
       "pi_name": "David Timmons",
       "pi_title": "Associate Professor, Economics",
-      "pi_email": null,
+      "pi_email": "david.timmons@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -732,8 +732,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/davidtimmons/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-douglas-woodhams",
@@ -741,9 +741,9 @@
       "lab_name": null,
       "pi_name": "Douglas Woodhams",
       "pi_title": "Professor, Biology",
-      "pi_email": null,
+      "pi_email": "douglas.woodhams@umb.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://woodhamslab.com/opportunities/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -754,8 +754,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/douglaswoodhams/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'research opportunities in the Woodhams Lab'). Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-jarrett-byrnes",
@@ -763,9 +763,9 @@
       "lab_name": null,
       "pi_name": "Jarrett Byrnes",
       "pi_title": "Associate Professor, Biology",
-      "pi_email": null,
+      "pi_email": "jarrett.byrnes@umb.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://byrneslab.net",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -776,8 +776,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/jarrettbyrnes/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-jose-martinez-reyes",
@@ -785,7 +785,7 @@
       "lab_name": null,
       "pi_name": "Jose Martinez Reyes",
       "pi_title": "Associate Professor, Anthropology",
-      "pi_email": null,
+      "pi_email": "jose.martinez-reyes@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -798,8 +798,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/josemartinez-reyes/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-kimberly-hamad",
@@ -807,9 +807,9 @@
       "lab_name": null,
       "pi_name": "Kimberly Hamad",
       "pi_title": "Professor, Engineering",
-      "pi_email": null,
+      "pi_email": "kim.hamad@umb.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://blogs.umb.edu/kimhamad/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -820,8 +820,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/kimhamad/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://blogs.umb.edu/kimhamad/members/). Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-lisa-rivera",
@@ -829,7 +829,7 @@
       "lab_name": null,
       "pi_name": "Lisa Rivera",
       "pi_title": "Associate Professor, Philosophy",
-      "pi_email": null,
+      "pi_email": "lisa.rivera@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -842,8 +842,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/lisarivera/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://www.faculty.umb.edu/lisa_rivera/FacultyWebsite/Welcome.html) that shows no lab or people page. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-maureen-scully",
@@ -851,7 +851,7 @@
       "lab_name": null,
       "pi_name": "Maureen Scully",
       "pi_title": "Professor, Management",
-      "pi_email": null,
+      "pi_email": "maureen.scully@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -864,8 +864,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/maureenscully/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-michael-johnson",
@@ -873,7 +873,7 @@
       "lab_name": null,
       "pi_name": "Michael Johnson",
       "pi_title": "Professor, Public Policy & Public Affairs",
-      "pi_email": null,
+      "pi_email": "michael.johnson@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -886,8 +886,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/michaeljohnson/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-roberta-wollons",
@@ -895,7 +895,7 @@
       "lab_name": null,
       "pi_name": "Roberta Wollons",
       "pi_title": "Professor, History",
-      "pi_email": null,
+      "pi_email": "roberta.wollons@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -908,8 +908,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/robertawollons/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     },
     {
       "id": "umass-boston-school-for-environment-rosalyn-negron",
@@ -917,7 +917,7 @@
       "lab_name": null,
       "pi_name": "Rosalyn Negron",
       "pi_title": "Professor, Anthropology",
-      "pi_email": null,
+      "pi_email": "rosalyn.negron@umb.edu",
       "accepting_grad_students": null,
       "lab_website": null,
       "location": null,
@@ -930,8 +930,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": null,
-      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries."
+      "profile_url": "https://www.umb.edu/directory/rosalynnegron/",
+      "notes": "Breadth pass from the School's own Faculty & Staff page, Core Faculty section only (those whose primary home is the School for the Environment); Affiliate/Adjunct Faculty and Staff sections not individually enumerated. No email shown on the listing page itself for most entries. Depth pass 2026-11-10: profile_url read from the name link on the department listing page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-10: pi_email read from the profile page."
     }
   ],
   "non_lab_people": [

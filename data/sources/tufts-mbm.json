@@ -16,7 +16,7 @@
       "pi_title": "Professor",
       "pi_email": "bree.aldridge@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.tufts.edu/aldridgelab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/13131",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
     },
     {
       "id": "tufts-mbm-andrew-camilli",
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/12996",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-john-coffin",
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/13481",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-rui-guo",
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/20981",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-peter-gwynne",
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/20921",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-ekaterina-heldwein",
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/13331",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-linden-hu",
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/13721",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-ralph-isberg",
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/14036",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-carol-kumamoto",
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/13216",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-john-leong",
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/13536",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-cammie-lesser",
@@ -248,7 +248,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/23321",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-michael-malamy",
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/13846",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-joan-mecsas",
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/13561",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-aaron-mendez",
@@ -314,7 +314,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/21646",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-samantha-miranda",
@@ -324,7 +324,7 @@
       "pi_title": "Assistant Professor",
       "pi_email": "samantha.miranda@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://sites.tufts.edu/mirandalab",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/24876",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
     },
     {
       "id": "tufts-mbm-wai-leung-ng",
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/14256",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-tanja-petnicki-ocwieja",
@@ -380,7 +380,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/14191",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-aimee-shen",
@@ -402,7 +402,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/13091",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-trever-smith-ii",
@@ -424,7 +424,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/18456",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-klemen-strle",
@@ -446,7 +446,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/20541",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-mbm-shumin-tan",
@@ -468,7 +468,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://medicine.tufts.edu/node/14171",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     }
   ],
   "non_lab_people": [

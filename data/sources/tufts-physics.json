@@ -16,7 +16,7 @@
       "pi_title": "Professor and Department Chair of Physics & Astronomy",
       "pi_email": "timothy.atherton@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://sites.tufts.edu/softmattertheory/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5551",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-physics-hugo-beauchemin",
@@ -38,7 +38,7 @@
       "pi_title": "Professor",
       "pi_email": "hugo.beauchemin@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hbeauchemin.phy.tufts.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5526",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-physics-hugh-gallagher",
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5476",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-physics-gary-goldstein",
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5471",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://ggoldste.pages.tufts.edu/) that shows no lab or people page."
     },
     {
       "id": "tufts-physics-mark-hertzberg",
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5521",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-physics-kiley-kennedy",
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/7181",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-physics-soubhik-kumar",
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/6371",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-physics-w-anthony-mann",
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5571",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-physics-danilo-marchesini",
@@ -192,7 +192,7 @@
       "pi_title": "Dean of Research for the School of Arts and Sciences and Leonard and Jane Holmes Bernstein Professor",
       "pi_email": "danilo.marchesini@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://cosmos.phy.tufts.edu/~danilo/Home.html",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5456",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-physics-david-martin",
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5736",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://www.davidvmartin.com/) that shows no lab or people page."
     },
     {
       "id": "tufts-physics-ken-olum",
@@ -248,7 +248,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5501",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://cosmos.phy.tufts.edu/~kdo/) that shows no lab or people page."
     },
     {
       "id": "tufts-physics-krzysztof-sliwa",
@@ -258,7 +258,7 @@
       "pi_title": "Professor",
       "pi_email": "krzysztof.sliwa@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://krzysztofsliwa.phy.tufts.edu/PROF-SLIWA-ACTIVITIES.html",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5506",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-physics-adam-smercina",
@@ -280,7 +280,7 @@
       "pi_title": "Assistant Professor",
       "pi_email": "adam.smercina@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://adamsmercina.wixsite.com/astrosmercina",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/7176",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-physics-cristian-staii",
@@ -314,7 +314,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5446",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-physics-roger-tobin",
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5546",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-physics-jeremy-wolcott",
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/6236",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-physics-taritree-wongjirad",
@@ -368,7 +368,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "taritree.wongjirad@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.tufts.edu/nutufts/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -380,7 +380,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5561",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-physics-bruce-boghosian",
@@ -402,7 +402,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5441",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-physics-jeffrey-guasto",
@@ -412,7 +412,7 @@
       "pi_title": "Professor",
       "pi_email": "jeffrey.guasto@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.tufts.edu/guastolab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -424,7 +424,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5486",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Guasto Laboratory'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "tufts-physics-david-hammer",
@@ -446,7 +446,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5451",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://dhammer.phy.tufts.edu/home/index.html) that shows no lab or people page."
     },
     {
       "id": "tufts-physics-peter-love",
@@ -456,7 +456,7 @@
       "pi_title": "Affiliate",
       "pi_email": "peter.love@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.google.com/view/tuftsqi",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -468,7 +468,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5536",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-physics-saeed-mehraban",
@@ -490,7 +490,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/6021",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-physics-aseema-mohanty",
@@ -500,7 +500,7 @@
       "pi_title": "Assistant Professor",
       "pi_email": "aseema.mohanty@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.tufts.edu/amohanty/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -512,7 +512,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/6011",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "tufts-physics-fiorenzo-omenetto",
@@ -522,7 +522,7 @@
       "pi_title": "Frank C. Doble Professor",
       "pi_email": "fiorenzo.omenetto@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://ase.tufts.edu/biomedical/unolab/home.html",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -534,7 +534,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5466",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-physics-anna-sajina",
@@ -544,7 +544,7 @@
       "pi_title": "Affiliate",
       "pi_email": "anna.sajina@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://cosmos2.phy.tufts.edu/~asajina/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -556,7 +556,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5431",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-physics-paul-simmonds",
@@ -578,7 +578,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/6016",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-physics-igor-sokolov",
@@ -600,7 +600,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5481",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-physics-thomas-vandervelde",
@@ -622,7 +622,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://as.tufts.edu/physics/node/5556",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     }
   ],
   "non_lab_people": [

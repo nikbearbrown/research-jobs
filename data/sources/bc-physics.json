@@ -16,7 +16,7 @@
       "pi_title": "Assistant Professor of Physics",
       "pi_email": "hope.bretscher@bc.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.iqmlab.com/",
       "location": "Higgins Hall 330E",
       "phone": null,
       "admin_name": null,
@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/hope-bretcher.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Integrated Quantum Materials Lab Website')."
     },
     {
       "id": "bc-physics-david-broido",
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/david-broido.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-physics-kenneth-burch",
@@ -60,7 +60,7 @@
       "pi_title": "John H. Rourke Professor of Physics and Chairperson",
       "pi_email": "ks.burch@bc.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.bc.edu/lins/",
       "location": "Higgins Hall 335C",
       "phone": "617-552-1094",
       "admin_name": null,
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/kenneth-burch.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website')."
     },
     {
       "id": "bc-physics-malavika-chandra",
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/Malavika_Chandra.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-physics-xiao-chen",
@@ -104,7 +104,7 @@
       "pi_title": "Associate Professor of Physics",
       "pi_email": "chenaad@bc.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/labs/xiao-chen",
       "location": "Higgns Hall 330B",
       "phone": "617-552-3139",
       "admin_name": null,
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/chen-xiao.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "bc-physics-jan-engelbrecht",
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/jan-engelbrecht.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-physics-benedetta-flebus",
@@ -148,7 +148,7 @@
       "pi_title": "Associate Professor of Physics",
       "pi_email": "benedetta.flebus@bc.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://flebusgroup.com",
       "location": "Higgins Hall 230B",
       "phone": "617-552-2310",
       "admin_name": null,
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/flebus-benedetta.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Flebus Group')."
     },
     {
       "id": "bc-physics-dinuka-gallaba",
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/Dinuka-Gallaba0.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-physics-andrzej-herczyński",
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/andrzej-herczynski.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-physics-krzysztof-kempa",
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/krzysztof-kempa.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://www.bc.edu/sites/kempa.html) that shows no lab or people page."
     },
     {
       "id": "bc-physics-qiong-ma",
@@ -248,7 +248,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/qiong-ma.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-physics-michael-j-naughton",
@@ -258,7 +258,7 @@
       "pi_title": "Evelyn J. and Robert A. Ferris Professor of Physics",
       "pi_email": "naughton@bc.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.bc.edu/content/bc-web/sites/naughton-lab",
       "location": "Higgins Hall 230A",
       "phone": "617-552-0635",
       "admin_name": null,
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/michael-j-naughton.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website')."
     },
     {
       "id": "bc-physics-cyril-p-opeil-sj",
@@ -280,7 +280,7 @@
       "pi_title": "Associate Professor of Physics",
       "pi_email": "cyril.opeil@bc.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://opeil-research-laboratory.onrender.com/",
       "location": "Higgins Hall 330J",
       "phone": "617-552-8450",
       "admin_name": null,
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/cyril-opeil.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website')."
     },
     {
       "id": "bc-physics-ying-ran",
@@ -302,7 +302,7 @@
       "pi_title": "Associate Professor of Physics",
       "pi_email": "ying.ran@bc.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.google.com/a/bc.edu/ying-ran/",
       "location": "Higgins Hall 330H",
       "phone": "617-552-6397",
       "admin_name": null,
@@ -314,7 +314,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/ying-ran.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Group Website')."
     },
     {
       "id": "bc-physics-fazel-tafti",
@@ -324,7 +324,7 @@
       "pi_title": "Associate Professor of Physics and Graduate Program Director",
       "pi_email": "fazel.tafti@bc.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/labs/Tafti-Lab",
       "location": "Higgins Hall 330A",
       "phone": "617-552-2127",
       "admin_name": null,
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/fazel-tafti.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website')."
     },
     {
       "id": "bc-physics-ziqiang-wang",
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/ziqiang-wang.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bc-physics-ilija-zeljkovic",
@@ -368,7 +368,7 @@
       "pi_title": "Professor of Physics",
       "pi_email": "ilija.zeljkovic@bc.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/labs/Zeljkovic-Lab",
       "location": "Higgins Hall 230H",
       "phone": "617-552-6490",
       "admin_name": null,
@@ -380,7 +380,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/ilija-zeljkovic.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website')."
     },
     {
       "id": "bc-physics-brian-zhou",
@@ -390,7 +390,7 @@
       "pi_title": "Associate Professor of Physics",
       "pi_email": "brian.zhou@bc.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.bc.edu/brianzhoulab/",
       "location": "Higgins Hall 230G",
       "phone": "617-552-0846",
       "admin_name": null,
@@ -402,7 +402,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/Brian-Zhou.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website')."
     },
     {
       "id": "bc-physics-zoe-zhu",
@@ -412,7 +412,7 @@
       "pi_title": "Assistant Professor of Physics",
       "pi_email": "zhuziyan@bc.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.ziyanzhu.com/",
       "location": "Higgins Hall 230F",
       "phone": null,
       "admin_name": null,
@@ -424,7 +424,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/zoe-zhu.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Group Website')."
     },
     {
       "id": "bc-physics-michael-graf",
@@ -446,7 +446,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/physics/people/faculty-directory/michael-graf.html",
-      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass)."
+      "notes": "Breadth pass from the department's own people page (Faculty section); lab website/member count/join info not yet read (later per-PI pass). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     }
   ],
   "non_lab_people": [

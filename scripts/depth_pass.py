@@ -27,6 +27,18 @@ Run with the project venv (Playwright lives there):
         files. Only fills fields that are currently null, except `kind`, which
         may be set to "faculty-no-lab". The note is appended to `notes`.
 
+    .venv/bin/python scripts/depth_pass.py sites --institution "Tufts University" [--dry-run]
+
+        Lab-site discovery. For every research-lab with no lab_website but a
+        profile_url: fetch the profile page and look for a link the page itself
+        labels as the lab/group/research website ("Research Website", "Lab
+        Website", "Research Group Website"), or names after the PI ("Utz
+        Group", "The Kaplan Lab"). Links repeated on three or more profile
+        pages are site navigation and are ignored. Exactly one distinct link
+        is written to lab_website; several leave it null with a note listing
+        them. --dry-run prints the decisions (and the most common unmatched
+        link labels, for tuning) without touching the source files.
+
 Every change appends a short "Depth pass <date>: ..." sentence to the lab's
 notes so the source of each value stays traceable.
 """
@@ -59,6 +71,28 @@ PEOPLE_LINK_RE = re.compile(
 )
 PEOPLE_HREF_RE = re.compile(r"/(people|team|members|group-members|lab-members|personnel|our-team|the-team|lab|group)(/|$|\.html?)", re.I)
 JOIN_LINK_RE = re.compile(r"\b(join|joining|openings|positions|opportunities|prospective|apply|recruit)", re.I)
+
+
+LAB_SITE_LABEL_RE = re.compile(
+    r"\b(lab|labs|laboratory|group|research|project)\b.{0,30}\b(web\s?site|web\s?page|home\s?page|site|page)\b"
+    r"|\b(web\s?site|web\s?page|home\s?page)\b.{0,20}\b(lab|laboratory|group|research)\b",
+    re.I,
+)
+LAB_NAME_LABEL_RE = re.compile(r"\b(lab|laboratory|group)\b", re.I)  # only with the PI's last name in the label
+NOT_A_LAB_SITE_RE = re.compile(
+    r"(scholar\.google|ncbi\.nlm\.nih|pubmed|orcid\.org|linkedin\.|twitter\.com|//x\.com|facebook\.|instagram\.|"
+    r"youtube\.|youtu\.be|researchgate\.|doi\.org|facultyprofiles\.tufts\.edu|drive\.google|docs\.google|"
+    r"wikipedia\.org|amazon\.|bsky\.app|mastodon|arxiv\.org|semanticscholar|academia\.edu|//github\.com|"
+    r"news\.|now\.tufts\.edu|/news/|/story/|/stories/|/article|/events?/)",
+    re.I,
+)
+PERSONAL_SITE_LABEL_RE = re.compile(
+    r"^\s*(personal|(personal|faculty|my)\s+(web\s?site|web\s?page|home\s?page|page|site)|web\s?site|home\s?page)\s*$", re.I)
+LABISH_URL_RE = re.compile(r"(lab(s|oratory)?\b|[-_/.]lab|lab[-_/]|group)", re.I)
+ROSTER_LINK_RE = re.compile(
+    r"^\s*(people|our people|team|our team|the team|members|lab members|group members|current members|"
+    r"personnel|meet the (lab|team|group)|lab|the lab|group|the group|research group)\s*$", re.I)
+DOC_HREF_RE = re.compile(r"\.(pdf|docx?|pptx?|xlsx?|jpe?g|png|zip)($|\?)", re.I)
 
 
 def fold(s):
@@ -261,6 +295,155 @@ def cmd_emails(args):
     print(f"emails: tried {tried}, filled {filled}, robots-blocked {blocked}", file=sys.stderr)
 
 
+def lab_site_candidates(res, pi_name):
+    """(url, label, why) for every link on a profile page that the page itself
+    presents as the person's lab / group / research website."""
+    from bs4 import BeautifulSoup
+
+    if not res.get("html"):
+        return []
+    _, _, lasts = name_parts(pi_name)
+    soup = BeautifulSoup(res["html"], "lxml")
+    here = res["url"].split("#")[0].rstrip("/")
+    out, seen = [], set()
+    for a in soup.find_all("a", href=True):
+        href = a["href"].strip()
+        if not href or href.startswith(("#", "mailto:", "tel:", "javascript:")):
+            continue
+        absu = urllib.parse.urljoin(res["url"], href).split("#")[0].strip()
+        if not absu.startswith("http") or absu.rstrip("/") == here:
+            continue
+        if NOT_A_LAB_SITE_RE.search(absu) or DOC_HREF_RE.search(urllib.parse.urlsplit(absu).path):
+            continue
+        label = re.sub(r"\s+", " ", a.get_text(" ", strip=True))
+        if not label and isinstance(a.next_sibling, str):
+            # umb.edu profile pages write <a href="..." class="button-cta" />Website</a>:
+            # the anchor is self-closed, so its label is the text right after it
+            label = re.sub(r"\s+", " ", a.next_sibling).strip()
+        if not label or len(label) > 80:
+            continue
+        why = None
+        has_pi_name = any(len(ln) >= 3 and re.search(rf"\b{re.escape(ln)}\b", fold(label)) for ln in lasts)
+        if re.search(r"\w['\u2019]s\b", label) and not has_pi_name:
+            continue  # "Susan Forsburg's Lab Page" on someone else's profile: another person's lab
+        if LAB_SITE_LABEL_RE.search(label):
+            why = "labelled"
+        elif PERSONAL_SITE_LABEL_RE.match(label):
+            why = "personal"
+        elif LAB_NAME_LABEL_RE.search(label) and has_pi_name:
+            why = "named"
+        if why and absu.rstrip("/") not in seen:
+            seen.add(absu.rstrip("/"))
+            out.append((absu, label, why))
+    return out
+
+
+def cmd_sites(args):
+    todo = []
+    sources = list(research_labs(source_paths(args)))
+    for path, data in sources:
+        for lab in data["labs"]:
+            if lab.get("kind") != "research-lab" or lab.get("lab_website") or not lab.get("profile_url"):
+                continue
+            if re.search(r"Depth pass [0-9-]+: lab_website", lab.get("notes") or ""):
+                continue  # already checked in an earlier run
+            todo.append((path, lab))
+    # pass 1: read every profile page, collect candidates
+    pages = {}
+    for _, lab in todo:
+        url = lab["profile_url"]
+        if url not in pages:
+            pages[url] = fetch(url)
+    cands = {id(lab): lab_site_candidates(pages[lab["profile_url"]], lab.get("pi_name")) for _, lab in todo}
+    # a link shown on 3+ different profile pages is navigation, not one PI's lab site
+    seen_on = {}
+    for _, lab in todo:
+        for u, _, _ in cands[id(lab)]:
+            seen_on.setdefault(u.rstrip("/"), set()).add(lab["profile_url"])
+    boiler = {u for u, ps in seen_on.items() if len(ps) >= 3}
+    filled = several = none = failed = 0
+    changed_paths = set()
+    for path, lab in todo:
+        res = pages[lab["profile_url"]]
+        if res["html"] is None:
+            failed += 1
+            why = "is blocked by robots.txt" if res["status"] == "blocked-by-robots" else f"failed to load ({str(res['status'])[:80]})"
+            append_note(lab, f"lab_website not checked: the profile page {why}.")
+            changed_paths.add(path)
+            print(f"!! {lab['id']}\t{why}", flush=True)
+            continue
+        cs = [c for c in cands[id(lab)] if c[0].rstrip("/") not in boiler]
+        personal = [c for c in cs if c[2] == "personal"]
+        cs = [c for c in cs if c[2] != "personal"]
+        labelled = [c for c in cs if c[2] == "labelled"]
+        if len(labelled) == 1:
+            cs = labelled  # an explicit "website" label beats a link that merely names the lab
+        if not cs and len(personal) == 1:
+            # The profile only offers a "Personal Website" link. Record it as the lab
+            # site only when it visibly is one: its address names a lab or group, or
+            # its own menu links a people / team / lab page.
+            url, label, _ = personal[0]
+            basis = None
+            if LABISH_URL_RE.search(urllib.parse.urlsplit(url).netloc + urllib.parse.urlsplit(url).path):
+                basis = "its address names a lab or group"
+            else:
+                home = fetch(url)
+                roster = find_link(home, ROSTER_LINK_RE) if home.get("html") else None
+                if roster:
+                    basis = f"its own menu links a people or lab page ({roster})"
+            if basis:
+                lab["lab_website"] = url
+                append_note(lab, f"lab_website read from the profile page's {label!r} link; taken as the lab site because {basis}.")
+                filled += 1
+                print(f"OK {lab['id']}\t{label!r}\t{url}\t[{basis[:40]}]", flush=True)
+            else:
+                none += 1
+                append_note(lab, f"lab_website left null: the profile page links a personal website ({url}) that shows no lab or people page.")
+                print(f".. {lab['id']}\tpersonal site, no lab signs\t{url}", flush=True)
+            changed_paths.add(path)
+            continue
+        if len(cs) == 1:
+            url, label, _ = cs[0]
+            lab["lab_website"] = url
+            shared = len(seen_on[url.rstrip("/")]) > 1
+            append_note(lab, f"lab_website read from the profile page (link labelled {label!r})"
+                        + ("; the same link is on another PI's profile, so the site may be shared." if shared else "."))
+            filled += 1
+            print(f"OK {lab['id']}\t{label!r}\t{url}", flush=True)
+        elif len(cs) > 1:
+            several += 1
+            append_note(lab, "lab_website left null: the profile page links several possible lab websites ("
+                        + ", ".join(u for u, _, _ in cs[:3]) + "), rather than guess.")
+            print(f"?? {lab['id']}\t" + " | ".join(f"{l!r} {u}" for u, l, _ in cs[:4]), flush=True)
+        else:
+            none += 1
+            append_note(lab, "lab_website not found: the profile page links no lab or research-group website.")
+        changed_paths.add(path)
+    if args.dry_run:
+        import collections
+
+        labels = collections.Counter()
+        for url, res in pages.items():
+            if not res.get("html"):
+                continue
+            from bs4 import BeautifulSoup
+
+            host = urllib.parse.urlsplit(url).netloc
+            for a in BeautifulSoup(res["html"], "lxml").find_all("a", href=True):
+                absu = urllib.parse.urljoin(url, a["href"])
+                if absu.startswith("http") and urllib.parse.urlsplit(absu).netloc != host:
+                    labels[re.sub(r"\s+", " ", a.get_text(" ", strip=True))[:50]] += 1
+        print("most common off-site link labels:", file=sys.stderr)
+        for lab_, n in labels.most_common(args.top):
+            print(f"  {n:4} {lab_!r}", file=sys.stderr)
+    else:
+        for path, data in sources:
+            if path in changed_paths:
+                save(path, data)
+    print(f"sites: checked {len(todo)}, filled {filled}, several {several}, none {none}, unreadable {failed}, "
+          f"navigation links ignored {len(boiler)}" + (" (dry run, nothing written)" if args.dry_run else ""), file=sys.stderr)
+
+
 def find_link(res, label_re, href_re=None):
     from bs4 import BeautifulSoup
 
@@ -380,10 +563,15 @@ def main():
     s.add_argument("sources", nargs="*")
     s.add_argument("--institution", action="append")
     s.add_argument("--out", required=True)
+    w = sub.add_parser("sites")
+    w.add_argument("sources", nargs="*")
+    w.add_argument("--institution", action="append")
+    w.add_argument("--dry-run", action="store_true")
+    w.add_argument("--top", type=int, default=40, help="with --dry-run: how many unmatched link labels to list")
     a = sub.add_parser("apply")
     a.add_argument("results")
     args = ap.parse_args()
-    {"emails": cmd_emails, "prep-sizes": cmd_prep_sizes, "apply": cmd_apply}[args.cmd](args)
+    {"emails": cmd_emails, "sites": cmd_sites, "prep-sizes": cmd_prep_sizes, "apply": cmd_apply}[args.cmd](args)
 
 
 if __name__ == "__main__":

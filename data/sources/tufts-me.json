@@ -16,7 +16,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "tong.gao@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://cml.it.tufts.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/me/people/faculty/tong-gao",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal website' link; taken as the lab site because its own menu links a people or lab page (https://cml.it.tufts.edu/member.html)."
     },
     {
       "id": "tufts-me-jeffrey-guasto",
@@ -38,7 +38,7 @@
       "pi_title": "Professor",
       "pi_email": "jeffrey.guasto@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.tufts.edu/guastolab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/me/people/faculty/jeffrey-guasto",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Guasto Laboratory'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "tufts-me-trevion-henderson",
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/me/people/faculty/trevion-henderson",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-me-marc-hodes",
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/me/people/faculty/marc-hodes",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-me-mark-kachanov",
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/me/people/faculty/mark-kachanov",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-me-hungtang-ko",
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/me/people/faculty/hungtang-ko",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://hungtangko.com/) that shows no lab or people page."
     },
     {
       "id": "tufts-me-jason-rife",
@@ -148,7 +148,7 @@
       "pi_title": "Professor",
       "pi_email": "jason.rife@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.google.com/a/tufts.edu/asar/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/me/people/faculty/jason-rife",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
     },
     {
       "id": "tufts-me-anil-saigal",
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/me/people/faculty/anil-saigal",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-me-igor-sokolov",
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/me/people/faculty/igor-sokolov",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-me-kristen-wendell",
@@ -214,7 +214,7 @@
       "pi_title": "Professor",
       "pi_email": "kristen.wendell@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.google.com/view/wendell-lab",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/me/people/faculty/kristen-wendell",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Wendell Lab Website')."
     },
     {
       "id": "tufts-me-robert-white",
@@ -248,7 +248,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://engineering.tufts.edu/me/people/faculty/robert-white",
-      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag)."
+      "notes": "Breadth pass from Tufts School of Engineering's shared faculty directory (confirmed unfiltered by department query param; fetched once across all 8 pages and bucketed by each person's own department tag). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     }
   ],
   "non_lab_people": [

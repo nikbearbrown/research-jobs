@@ -16,7 +16,7 @@
       "pi_title": "Professor and Department Chair of Biology",
       "pi_email": "colin.orians@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://as.tufts.edu/biology/orians-lab",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86056",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-douglas-blackiston",
@@ -38,7 +38,7 @@
       "pi_title": "Assistant Professor",
       "pi_email": "douglas.blackiston@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.douglasblackiston.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/88321",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
     },
     {
       "id": "tufts-biology-ethan-deyle",
@@ -60,7 +60,7 @@
       "pi_title": "Research Assistant Professor",
       "pi_email": "ethan.deyle@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://dyn.eco/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/88426",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Deyle Lab')."
     },
     {
       "id": "tufts-biology-erik-dopman",
@@ -82,7 +82,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "erik.dopman@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://as.tufts.edu/biology/dopman-lab",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86076",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-george-ellmore",
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86106",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-biology-catherine-freudenreich",
@@ -126,7 +126,7 @@
       "pi_title": "Professor",
       "pi_email": "catherine.freudenreich@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://as.tufts.edu/biology/freudenreich-lab",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86051",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-jaye-gardiner",
@@ -148,7 +148,7 @@
       "pi_title": "Assistant Professor",
       "pi_email": "jaye.gardiner@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.gardinerlab.science/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/88326",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
     },
     {
       "id": "tufts-biology-smita-gopinath",
@@ -170,7 +170,7 @@
       "pi_title": "Assistant Professor",
       "pi_email": "smita.gopinath@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://gopinathlab.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/88561",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-sarah-hengel",
@@ -192,7 +192,7 @@
       "pi_title": "Assistant Professor",
       "pi_email": "sarah.hengel@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.srhlab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/87811",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-alfredo-hernandez",
@@ -214,7 +214,7 @@
       "pi_title": "Assistant Professor",
       "pi_email": "alfredo.hernandez@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://as.tufts.edu/biology/hernandez-lab",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86871",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-fatima-hussain",
@@ -236,7 +236,7 @@
       "pi_title": "Assistant Professor",
       "pi_email": "fatima.hussain@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.hussain-lab.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -248,7 +248,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/87986",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-mimi-kao",
@@ -258,7 +258,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "mimi.kao@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.tufts.edu/kaolab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86186",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-michael-levin",
@@ -280,7 +280,7 @@
       "pi_title": "Vannevar Bush Professor",
       "pi_email": "michael.levin@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://as.tufts.edu/biology/levin-lab",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86191",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-kelly-mclaughlin",
@@ -302,7 +302,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "kelly.mclaughlin@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://as.tufts.edu/biology/mclaughlin-lab",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -314,7 +314,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86156",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-mitch-mcvey",
@@ -324,7 +324,7 @@
       "pi_title": "Professor",
       "pi_email": "mitch.mcvey@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://as.tufts.edu/biology/mcvey-lab",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86196",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-sergei-mirkin",
@@ -346,7 +346,7 @@
       "pi_title": "Professor and White Family Chair in Biology",
       "pi_email": "sergei.mirkin@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://as.tufts.edu/biology/mirkin-lab",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86241",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-jennifer-mortensen",
@@ -380,7 +380,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/88331",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-biology-michael-reed",
@@ -390,7 +390,7 @@
       "pi_title": "Professor",
       "pi_email": "michael.reed@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://as.tufts.edu/biology/reed-lab",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -402,7 +402,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86201",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-michael-romero",
@@ -412,7 +412,7 @@
       "pi_title": "Professor",
       "pi_email": "michael.romero@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://as.tufts.edu/biology/romero-lab",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -424,7 +424,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86206",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-randi-rotjan",
@@ -434,7 +434,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "randi.rotjan@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.tufts.edu/rotjanlab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -446,7 +446,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/87966",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Rotjan Lab')."
     },
     {
       "id": "tufts-biology-philip-starks",
@@ -456,7 +456,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "philip.starks@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://as.tufts.edu/biology/starks-lab",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -468,7 +468,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86216",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-khoa-tran",
@@ -478,7 +478,7 @@
       "pi_title": "Assistant Professor",
       "pi_email": "k.tran@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.tranlab.science/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -490,7 +490,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/88336",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-barry-trimmer",
@@ -500,7 +500,7 @@
       "pi_title": "Henry Bromfield Pearson Professor of Natural Science",
       "pi_email": "barry.trimmer@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://as.tufts.edu/biology/neuromechanics-and-biomimetic-devices-lab",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -512,7 +512,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86041",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-eric-tytell",
@@ -522,7 +522,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "eric.tytell@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.tufts.edu/tytelllab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -534,7 +534,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86096",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-benjamin-wolfe",
@@ -544,7 +544,7 @@
       "pi_title": "Associate Professor and Associate Department Chair of Biology",
       "pi_email": "benjamin.wolfe@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://sites.tufts.edu/wolfelab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -556,7 +556,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86046",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-perinur-bozaykut-eker",
@@ -578,7 +578,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/88586",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-biology-elizabeth-crone",
@@ -588,7 +588,7 @@
       "pi_title": "Affiliate",
       "pi_email": "elizabeth.crone@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://ase.tufts.edu/biology/labs/crone/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -600,7 +600,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86071",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-david-kaplan",
@@ -610,7 +610,7 @@
       "pi_title": "Distinguished Professor, Stern Family Professor of Engineering",
       "pi_email": "david.kaplan@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://engineering.tufts.edu/bme/kaplan/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -622,7 +622,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86251",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Kaplan Lab')."
     },
     {
       "id": "tufts-biology-zarin-machanda",
@@ -632,7 +632,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "zarin.machanda@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://kibalechimpanzees.wordpress.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -644,7 +644,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86276",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Website')."
     },
     {
       "id": "tufts-biology-anthony-monaco",
@@ -666,7 +666,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/88236",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-biology-daniel-promislow",
@@ -688,7 +688,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/87956",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-biology-julia-svoboda",
@@ -710,7 +710,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86141",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "tufts-biology-lawrence-uricchio",
@@ -720,7 +720,7 @@
       "pi_title": "Affiliate",
       "pi_email": "lawrence.uricchio@tufts.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://uricchio.github.io/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -732,7 +732,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/86171",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
     },
     {
       "id": "tufts-biology-frank-massaro",
@@ -754,7 +754,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://as.tufts.edu/biology/node/88541",
-      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department's own faculty directory (name/title/research-interests card); no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     }
   ],
   "non_lab_people": [
