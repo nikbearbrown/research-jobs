@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/j-timothy-sage/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-chemistry-bryan-spring",
@@ -214,7 +214,7 @@
       "pi_title": null,
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://lee-parsons.sites.northeastern.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/carolyn-lee-parsons/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lee-Parsons Research Laboratory')."
     },
     {
       "id": "northeastern-chemistry-katie-lotterhos",
@@ -512,7 +512,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/david-budil/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-chemistry-lee-makowski",
@@ -556,7 +556,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/aron-stubbins/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-chemistry-oyinda-oyelaran",
@@ -578,7 +578,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/oyinda-oyelaran/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-chemistry-carla-mattos",
@@ -622,7 +622,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/rein-kirss/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-chemistry-raymond-booth",
@@ -666,7 +666,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/eugene-smotkin/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-chemistry-alexandros-makriyannis",

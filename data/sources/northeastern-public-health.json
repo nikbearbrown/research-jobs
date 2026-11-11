@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/john-auerbach/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-public-health-phil-brown",
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/phil-brown/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-public-health-danielle-crookes",
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/domenic-corey/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not checked: the profile page on record does not show this person's name in its address, title or headings (it may be a lab or center page, or another person's page)."
     },
     {
       "id": "northeastern-public-health-adrianna-crossing",
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/danielle-crookes/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not checked: the profile page on record does not show this person's name in its address, title or headings (it may be a lab or center page, or another person's page)."
     },
     {
       "id": "northeastern-public-health-jennifer-evans",
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/adrianna-crossing/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not checked: the profile page on record does not show this person's name in its address, title or headings (it may be a lab or center page, or another person's page)."
     },
     {
       "id": "northeastern-public-health-stephen-flaherty",
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/jennifer-evans/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not checked: the profile page on record does not show this person's name in its address, title or headings (it may be a lab or center page, or another person's page)."
     },
     {
       "id": "northeastern-public-health-elizabeth-glowacki",
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/samantha-garbers/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not checked: the profile page on record does not show this person's name in its address, title or headings (it may be a lab or center page, or another person's page)."
     },
     {
       "id": "northeastern-public-health-matthew-goodwin",
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/elizabeth-glowacki/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not checked: the profile page on record does not show this person's name in its address, title or headings (it may be a lab or center page, or another person's page)."
     },
     {
       "id": "northeastern-public-health-sharon-l-harlan",
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/matthew-goodwin/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not checked: the profile page on record does not show this person's name in its address, title or headings (it may be a lab or center page, or another person's page)."
     },
     {
       "id": "northeastern-public-health-amy-helburn",
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/sharon-l-harlan/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not checked: the profile page on record does not show this person's name in its address, title or headings (it may be a lab or center page, or another person's page)."
     }
   ],
   "non_lab_people": [

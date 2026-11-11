@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/josephine-au/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-applied-psych-amy-briesch",
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/amy-briesch/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-applied-psych-jane-carlson",
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/jane-carlson/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-applied-psych-robin-codding",
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/robin-codding/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-applied-psych-adrianna-crossing",
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/adrianna-crossing/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://www.aecrossing.com/) that shows no lab or people page."
     },
     {
       "id": "northeastern-applied-psych-joshua-curtiss",
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/joshua-curtiss/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-applied-psych-nicole-davis",
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/nicole-davis/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-applied-psych-maeve-donnelly",
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/maeve-donnelly/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-applied-psych-laura-dudley",
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/laura-dudley/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-applied-psych-jessica-edwards-george",
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/jessica-edwards-george/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-applied-psych-krystal-hinerman",
@@ -248,7 +248,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/krystal-hinerman/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-applied-psych-jessica-hoffman",
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/jessica-hoffman/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-applied-psych-vanessa-johnson",
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/vanessa-johnson/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-applied-psych-laurie-kramer",
@@ -314,7 +314,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/laurie-kramer/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-applied-psych-chieh-li",
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/chieh-li/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     }
   ],
   "non_lab_people": [],

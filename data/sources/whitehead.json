@@ -292,7 +292,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/member/vale",
-      "notes": "Department profile (wi.mit.edu) read via scripted fetch; no separate lab website found yet -- consistent with this being a very new Whitehead lab (Member since December 2025, moved from Janelia/HHMI). No member roster available anywhere yet."
+      "notes": "Department profile (wi.mit.edu) read via scripted fetch; no separate lab website found yet -- consistent with this being a very new Whitehead lab (Member since December 2025, moved from Janelia/HHMI). No member roster available anywhere yet. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "whitehead-robert-weinberg",
@@ -387,7 +387,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/fellow/backman",
-      "notes": "Department/fellow profile (wi.mit.edu) read via scripted fetch; no separate lab website found. No member roster shown on the profile page itself.",
+      "notes": "Department/fellow profile (wi.mit.edu) read via scripted fetch; no separate lab website found. No member roster shown on the profile page itself. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website.",
       "location": "455 Main Street, Cambridge, MA 02142"
     },
     {
@@ -426,7 +426,7 @@
       "join_page_url": "https://wi.mit.edu/careers",
       "join_notes": "No lab-specific openings on the profile; Whitehead lists jobs at wi.mit.edu/careers and postdoc info at wi.mit.edu/postdoctoral-program. Contact the PI or listed lab/admin email directly.",
       "profile_url": "https://wi.mit.edu/people/fellow/oni",
-      "notes": "Fellow profile (wi.mit.edu) read via scripted fetch; no separate lab website found. No member roster shown on the profile page itself.",
+      "notes": "Fellow profile (wi.mit.edu) read via scripted fetch; no separate lab website found. No member roster shown on the profile page itself. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website.",
       "location": "455 Main Street, Cambridge, MA 02142",
       "phone": "(617) 258-5125"
     },

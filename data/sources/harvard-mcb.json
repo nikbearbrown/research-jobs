@@ -817,7 +817,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.mcb.harvard.edu/directory/david-nelson/?referral=faculty",
-      "notes": "No lab website listed on profile. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "No lab website listed on profile. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-mcb-ryan-nett",
@@ -1057,7 +1057,7 @@
       "join_page_url": null,
       "join_notes": "Profile says the lab welcomes applications from qualified individuals: send a CV and contact details for three recommenders (recipient not specified; PI email shown).",
       "profile_url": "https://www.mcb.harvard.edu/directory/matthew-meselson/?referral=faculty",
-      "notes": "Emeritus but still lists an active lab; no lab website. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website."
+      "notes": "Emeritus but still lists an active lab; no lab website. Members counted from the MCB departmental lab directory (includes shared admin staff and 'Associate' appointments); may differ from lab website. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-mcb-norbert-perrimon",

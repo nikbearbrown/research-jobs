@@ -16,7 +16,7 @@
       "pi_title": null,
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.mobs-lab.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/alessandro-vespignani/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
     },
     {
       "id": "northeastern-physics-swastik-kar",
@@ -60,7 +60,7 @@
       "pi_title": "Director of the DK-Lab at the Network Science Institute at Northeastern University",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.dk-lab.net/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/dima-krioukov/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
     },
     {
       "id": "northeastern-physics-latika-menon",
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/sergey-kravchenko/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-physics-srinivas-sridhar",
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/adrian-feiguin/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-physics-gregory-fiete",
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/emanuela-barberis/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-physics-michele-di-pierro",
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/brennan-klein/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://brennanklein.com/) that shows no lab or people page."
     },
     {
       "id": "northeastern-physics-mauricio-santillana",
@@ -380,7 +380,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/mauricio-santillana/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "northeastern-physics-esteban-moro-egido",
@@ -402,7 +402,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/esteban-moro-egido/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     }
   ],
   "non_lab_people": [],

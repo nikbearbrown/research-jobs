@@ -63,7 +63,7 @@
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/batista/",
-      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. Large lab, not small. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. Large lab, not small. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "ragon-bryan-bryson",
@@ -216,7 +216,7 @@
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/idris/",
-      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
+      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "ragon-boris-juelg",
@@ -235,7 +235,7 @@
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/juelg/",
-      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. PI/lab collaboration email is Cloudflare-obfuscated on the page; the fetch model reported it decodes to bjuelg@mgh.harvard.edu. Not independently verified, so pi_email is left null and the value is kept in pi_email_unverified.; Unverified email (decoded from a protected page): bjuelg@mgh.harvard.edu Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. PI/lab collaboration email is Cloudflare-obfuscated on the page; the fetch model reported it decodes to bjuelg@mgh.harvard.edu. Not independently verified, so pi_email is left null and the value is kept in pi_email_unverified.; Unverified email (decoded from a protected page): bjuelg@mgh.harvard.edu Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "ragon-douglas-kwon",
@@ -273,7 +273,7 @@
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/lichterfeld/",
-      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "ragon-daniel-lingwood",
@@ -368,7 +368,7 @@
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/ndungu/",
-      "notes": "Institute lab page read (2026-10-27): PI bio only, no member roster. Confirms PI is based at the Africa Health Research Institute (ahri.org) in South Africa; Ragon-side team size unknown."
+      "notes": "Institute lab page read (2026-10-27): PI bio only, no member roster. Confirms PI is based at the Africa Health Research Institute (ahri.org) in South Africa; Ragon-side team size unknown. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "ragon-shiv-pillai",
@@ -387,7 +387,7 @@
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/pillai/",
-      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "ragon-alison-ringel",
@@ -463,7 +463,7 @@
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/sokol/",
-      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. Depth pass 2026-11-02: profile page shows no email address (plain and rendered)."
+      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "ragon-eric-sun",
@@ -501,7 +501,7 @@
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/walker/",
-      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright)."
+      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "ragon-harikesh-wong",
@@ -539,7 +539,7 @@
       "join_page_url": "https://ragoninstitute.org/careers/",
       "join_notes": "No lab-specific openings listed. Use the lab page's 'Looking for Collaboration?' contact form or email the PI; institute jobs at ragoninstitute.org/careers.",
       "profile_url": "https://ragoninstitute.org/lab/yu/",
-      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. PI/lab collaboration email is Cloudflare-obfuscated on the page; the fetch model reported it decodes to xyu@mgh.harvard.edu. Not independently verified, so pi_email is left null and the value is kept in pi_email_unverified.; Unverified email (decoded from a protected page): xyu@mgh.harvard.edu Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Lab page read; members counted from roster on the lab page, excluding PI. PI/lab collaboration email is Cloudflare-obfuscated on the page; the fetch model reported it decodes to xyu@mgh.harvard.edu. Not independently verified, so pi_email is left null and the value is kept in pi_email_unverified.; Unverified email (decoded from a protected page): xyu@mgh.harvard.edu Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     }
   ],
   "non_lab_people": []

@@ -29,7 +29,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/jake-jinkun-chen/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-ben-wu",
@@ -51,7 +51,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/benjamin-wu-dds-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-thomas-e-van-dyke",
@@ -73,7 +73,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/thomas-e-van-dyke-dds-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows several addresses that could be the PI's (tvandyke@forsyth.org, %20tvandyke@forsyth.org); left null rather than guess."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows several addresses that could be the PI's (tvandyke@forsyth.org, %20tvandyke@forsyth.org); left null rather than guess. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-felicitas-bidlack",
@@ -83,7 +83,7 @@
       "pi_title": "PhD, Professor, Senior Director of Research Affairs",
       "pi_email": "fbidlack@forsyth.org",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://forsyth.org/bidlack-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -95,7 +95,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/felicitas-bidlack/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bidlack Lab Bidlack Lab')."
     },
     {
       "id": "forsyth-jirun-sun",
@@ -105,7 +105,7 @@
       "pi_title": "MS, PhD, Professor",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://forsyth.org/sun-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -117,7 +117,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/jirun-sun-ms-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Sun Lab Sun Lab')."
     },
     {
       "id": "forsyth-xuesong-he",
@@ -139,7 +139,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/xuesong-he-phd-dds/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-tsute-george-chen",
@@ -161,7 +161,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/tsute-george-chen-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-mary-ellen-davey",
@@ -183,7 +183,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/mary-ellen-davey-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-jessica-mark-welch",
@@ -205,7 +205,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/jessica-mark-welch-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-wei-hsu",
@@ -215,7 +215,7 @@
       "pi_title": "PhD, Senior Member of Staff",
       "pi_email": "whsu@forsyth.org",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://forsyth.org/hsu-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -227,7 +227,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/wei-hsu-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Hsu Lab Hsu Lab')."
     },
     {
       "id": "forsyth-mary-tavares",
@@ -249,7 +249,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/mary-tavares-dmd-mph/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows several addresses that could be the PI's (mtavares@forsyth.org, %20mtavares@forsyth.org); left null rather than guess."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows several addresses that could be the PI's (mtavares@forsyth.org, %20mtavares@forsyth.org); left null rather than guess. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-hatice-hasturk",
@@ -271,7 +271,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/hatice-hasturk-dds-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-takamitsu-maruyama",
@@ -281,7 +281,7 @@
       "pi_title": "PhD, Assistant Professor",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://forsyth.org/maruyama-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -293,7 +293,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/takamitsu-maruyama-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows several addresses that could be the PI's (tmaruyama@forsyth.org, %20tmaruyama@forsyth.org); left null rather than guess."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows several addresses that could be the PI's (tmaruyama@forsyth.org, %20tmaruyama@forsyth.org); left null rather than guess. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Maruyama Lab page')."
     },
     {
       "id": "forsyth-susan-rittling",
@@ -315,7 +315,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/susan-rittling-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-chengji-zhou",
@@ -337,7 +337,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/chengji-zhou-ph-d/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-gary-borisy",
@@ -359,7 +359,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/gary-borisy-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-batbileg-bor",
@@ -369,7 +369,7 @@
       "pi_title": "PhD, Associate Professor",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.borlab.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -381,7 +381,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/batbileg-bor-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bor Lab Learn More')."
     },
     {
       "id": "forsyth-jing-zhou",
@@ -403,7 +403,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/jing-zhou-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows several addresses that could be the PI's (jzhou@forsyth.org, %20jzhou@forsyth.org); left null rather than guess."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows several addresses that could be the PI's (jzhou@forsyth.org, %20jzhou@forsyth.org); left null rather than guess. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-yulong-zhang",
@@ -425,7 +425,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/yulong-zhang-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows several addresses that could be the PI's (yzhang@forsyth.org, %20yzhang@forsyth.org); left null rather than guess."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows several addresses that could be the PI's (yzhang@forsyth.org, %20yzhang@forsyth.org); left null rather than guess. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-qing-yu",
@@ -447,7 +447,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/qing-yu-md-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-tingxi-wu",
@@ -469,7 +469,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/tingxi-wu-dds-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-philip-c-trackman",
@@ -479,7 +479,7 @@
       "pi_title": "PhD, Research Professor",
       "pi_email": "ptrackman@forsyth.org",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://forsyth.org/trackman-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -491,7 +491,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/philip-c-trackman-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Trackman Lab Trackman Lab')."
     },
     {
       "id": "forsyth-yumi-maeda",
@@ -513,7 +513,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/yumi-maeda-dmd-dds-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-ning-yu",
@@ -535,7 +535,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/ning-yu-dds-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "forsyth-yang-hu",
@@ -557,7 +557,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/yang-hu-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     }
   ],
   "non_lab_people": [

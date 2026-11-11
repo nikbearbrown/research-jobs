@@ -36,7 +36,9 @@ Run with the project venv (Playwright lives there):
         Group", "The Kaplan Lab"). Links repeated on three or more profile
         pages are site navigation and are ignored. Exactly one distinct link
         is written to lab_website; several leave it null with a note listing
-        them. --dry-run prints the decisions (and the most common unmatched
+        them. When the profile page is itself the lab's site (its menu links a
+        people page under its own address, as on research.bidmc.org), the
+        profile address is recorded as the lab website. --dry-run prints the decisions (and the most common unmatched
         link labels, for tuning) without touching the source files.
 
 Every change appends a short "Depth pass <date>: ..." sentence to the lab's
@@ -80,7 +82,7 @@ LAB_SITE_LABEL_RE = re.compile(
 )
 LAB_NAME_LABEL_RE = re.compile(r"\b(lab|laboratory|group)\b", re.I)  # only with the PI's last name in the label
 NOT_A_LAB_SITE_RE = re.compile(
-    r"(scholar\.google|ncbi\.nlm\.nih|pubmed|orcid\.org|linkedin\.|twitter\.com|//x\.com|facebook\.|instagram\.|"
+    r"(myworkdayjobs|scholar\.google|ncbi\.nlm\.nih|pubmed|orcid\.org|linkedin\.|twitter\.com|//x\.com|facebook\.|instagram\.|"
     r"youtube\.|youtu\.be|researchgate\.|doi\.org|facultyprofiles\.tufts\.edu|drive\.google|docs\.google|"
     r"wikipedia\.org|amazon\.|bsky\.app|mastodon|arxiv\.org|semanticscholar|academia\.edu|//github\.com|"
     r"news\.|now\.tufts\.edu|/news/|/story/|/stories/|/article|/events?/)",
@@ -92,6 +94,8 @@ LABISH_URL_RE = re.compile(r"(lab(s|oratory)?\b|[-_/.]lab|lab[-_/]|group)", re.I
 ROSTER_LINK_RE = re.compile(
     r"^\s*(people|our people|team|our team|the team|members|lab members|group members|current members|"
     r"personnel|meet the (lab|team|group)|lab|the lab|group|the group|research group)\s*$", re.I)
+# a link to one section of something (a publication list, a directory listing) is not a lab website
+NOT_A_SITE_LABEL_RE = re.compile(r"\b(publications?|papers|directory|news|events?|calendar|seminars?|videos?|photos?|gallery)\b", re.I)
 DOC_HREF_RE = re.compile(r"\.(pdf|docx?|pptx?|xlsx?|jpe?g|png|zip)($|\?)", re.I)
 
 
@@ -320,7 +324,7 @@ def lab_site_candidates(res, pi_name):
             # umb.edu profile pages write <a href="..." class="button-cta" />Website</a>:
             # the anchor is self-closed, so its label is the text right after it
             label = re.sub(r"\s+", " ", a.next_sibling).strip()
-        if not label or len(label) > 80:
+        if not label or len(label) > 80 or NOT_A_SITE_LABEL_RE.search(label):
             continue
         why = None
         has_pi_name = any(len(ln) >= 3 and re.search(rf"\b{re.escape(ln)}\b", fold(label)) for ln in lasts)
@@ -336,6 +340,52 @@ def lab_site_candidates(res, pi_name):
             seen.add(absu.rstrip("/"))
             out.append((absu, label, why))
     return out
+
+
+def profile_is_about(res, pi_name):
+    """True when the profile page on record is visibly this person's page: a
+    last name is in the page address, its <title> or its first headings. Some
+    breadth-pass files paired a name with the next person's profile link; a
+    lab website read from such a page would belong to someone else."""
+    from bs4 import BeautifulSoup
+
+    _, _, lasts = name_parts(pi_name)
+    if not lasts:
+        return True  # no PI name on record (labs found by lab name): nothing to compare
+    parts = urllib.parse.urlsplit(res["url"])
+    hay = [fold(urllib.parse.unquote(parts.path + " " + parts.query))]
+    if res.get("html"):
+        soup = BeautifulSoup(res["html"], "lxml")
+        if soup.title:
+            hay.append(fold(soup.title.get_text(" ", strip=True)))
+        hay += [fold(h.get_text(" ", strip=True)) for h in soup.find_all(["h1", "h2"])[:6]]
+    words = set(re.findall(r"[a-z]+", " ".join(hay)))
+    squashed = re.sub(r"[^a-z]", "", " ".join(hay))
+    for ln in lasts:
+        bare = re.sub(r"[^a-z]", "", ln)
+        if bare and (bare in words or (len(bare) >= 4 and bare in squashed)):
+            return True
+    return False
+
+
+def own_roster_link(res):
+    """A people / lab-members link that sits under the profile page's own
+    address (research.bidmc.org/<name>/lab-members): the sign that the
+    "profile" is itself the lab's site. Department navigation never qualifies,
+    because a department's People page is not under one person's page."""
+    from bs4 import BeautifulSoup
+
+    if not res.get("html"):
+        return None
+    parts = urllib.parse.urlsplit(res["url"])
+    if not parts.path.strip("/"):
+        return None  # a bare host: everything is "under" it
+    here = f"{parts.scheme}://{parts.netloc}{parts.path}".rstrip("/")
+    for a in BeautifulSoup(res["html"], "lxml").find_all("a", href=True):
+        absu = urllib.parse.urljoin(res["url"], a["href"].strip()).split("#")[0]
+        if absu.startswith(here + "/") and PEOPLE_LINK_RE.search(a.get_text(" ", strip=True) or ""):
+            return absu
+    return None
 
 
 def cmd_sites(args):
@@ -372,12 +422,28 @@ def cmd_sites(args):
             changed_paths.add(path)
             print(f"!! {lab['id']}\t{why}", flush=True)
             continue
+        if not profile_is_about(res, lab.get("pi_name")):
+            failed += 1
+            append_note(lab, "lab_website not checked: the profile page on record does not show this person's name in its "
+                             "address, title or headings (it may be a lab or center page, or another person's page).")
+            changed_paths.add(path)
+            print(f"!! {lab['id']}\tprofile page is not visibly {lab.get('pi_name')}'s\t{lab['profile_url']}", flush=True)
+            continue
         cs = [c for c in cands[id(lab)] if c[0].rstrip("/") not in boiler]
-        personal = [c for c in cs if c[2] == "personal"]
+        # a "website" link that also sits on another person's profile is not this person's site
+        personal = [c for c in cs if c[2] == "personal" and len(seen_on[c[0].rstrip("/")]) == 1]
         cs = [c for c in cs if c[2] != "personal"]
         labelled = [c for c in cs if c[2] == "labelled"]
         if len(labelled) == 1:
             cs = labelled  # an explicit "website" label beats a link that merely names the lab
+        own = own_roster_link(res) if not cs else None
+        if own:
+            lab["lab_website"] = lab["profile_url"]
+            append_note(lab, f"lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address ({own}).")
+            filled += 1
+            changed_paths.add(path)
+            print(f"OK {lab['id']}\t[profile page is the lab site]\t{own}", flush=True)
+            continue
         if not cs and len(personal) == 1:
             # The profile only offers a "Personal Website" link. Record it as the lab
             # site only when it visibly is one: its address names a lab or group, or
