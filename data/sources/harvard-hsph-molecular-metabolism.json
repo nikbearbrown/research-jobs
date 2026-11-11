@@ -19,16 +19,16 @@
       "lab_website": "https://hsph.harvard.edu/research/hota-lab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Leah Benoit",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 16 staff (scientists, research associates, 1 postdoc, 2 BPH graduate students, assistants)",
+      "members_page_url": "https://hsph.harvard.edu/research/hota-lab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/gokhan-s-hotamisligil/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Hotamisligil Lab')."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Hotamisligil Lab'). Depth pass 2026-11-10: Counted the People page; Alumni excluded."
     },
     {
       "id": "harvard-hsph-molecular-metabolism-sheng-tony-hui",
@@ -41,16 +41,16 @@
       "lab_website": "https://www.hsph.harvard.edu/sheng-tony-hui/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Audrey Fox",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 administrative coordinator, 3 postdocs, 2 BPH graduate students, 1 research assistant",
+      "members_page_url": "https://hsph.harvard.edu/research/hui-lab/lab-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/sheng-tony-hui/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Hui Laboratory')."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Hui Laboratory'). Depth pass 2026-11-10: Home page had no roster; fetched Lab Members page; Lab Alumni excluded."
     },
     {
       "id": "harvard-hsph-molecular-metabolism-nora-kory",
@@ -66,13 +66,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 research associate, 5 postdocs, 1 research assistant, 1 visiting graduate student",
+      "members_page_url": "https://hsph.harvard.edu/research/kory-lab/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/nora-kory/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Kory Lab website')."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Kory Lab website'). Depth pass 2026-11-10: Counted the Team page; Alumni excluded."
     },
     {
       "id": "harvard-hsph-molecular-metabolism-william-b-mair",
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/william-b-mair/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Mair Lab HSPH Site')."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Mair Lab HSPH Site'). Depth pass 2026-11-10: Lab page shows only a description and news, with no team or roster link in the page's link list (just Publications), so no count."
     },
     {
       "id": "harvard-hsph-molecular-metabolism-brendan-manning",
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/brendan-manning/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Manning Lab')."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Manning Lab'). Depth pass 2026-11-10: Home page links 'Meet the Team' only on a pantheonsite.io staging address, which robots.txt blocked; no roster seen."
     },
     {
       "id": "harvard-hsph-molecular-metabolism-jessalyn-ubellacker",
@@ -124,21 +124,21 @@
       "lab_name": null,
       "pi_name": "Jessalyn Ubellacker",
       "pi_title": "Assistant Professor of Molecular Metabolism",
-      "pi_email": null,
+      "pi_email": "jubellacker@hsph.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://hsph.harvard.edu/research/ubellacker-lab/",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Audrey Fox",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoc, 2 research associates, 3 graduate students, 3 undergraduate/student researchers, 1 administrative coordinator",
+      "members_page_url": "https://hsph.harvard.edu/research/ubellacker-lab/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/jessalyn-ubellacker/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Ubellacker Lab Website')."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Ubellacker Lab Website'). Depth pass 2026-11-10: Counted Team page core members; excluded 4 'Affiliate Members' (PhD students and a visiting postdoc from other groups) and Alumni."
     }
   ],
   "non_lab_people": [],

@@ -1,0 +1,2595 @@
+[
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-edward-stuart-boyden",
+    "fields": {
+      "member_count": 59,
+      "member_breakdown": "1 PI, 4 administration, 41 students/postdocs/research staff, 1 visiting scientist/affiliate, 12 undergraduate researchers",
+      "members_page_url": "https://synthneuro.org/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "edboyden@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted names on the people page (alumni on a separate page)."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-james-dicarlo",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 3 research scientists, 3 postdocs, 3 grad students, 1 lab manager, 2 technical assistants, 1 software developer",
+      "members_page_url": "https://dicarlolab.mit.edu/dicarlo-lab-community/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted current sections; a postdoc (Soerensen) and a grad student (Zaidi) are still listed though photo captions mention a farewell and a defense in 2026, so count may be 1-2 high."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-sven-dorkenwald",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 4 postdocs, 4 grad students (2 rotation), 1 undergraduate, 2 technical associates, 1 administrative assistant",
+      "members_page_url": "https://dorkenwaldlab.com/people.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "sdorkenw@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Cached text was empty; counted after a rendered fetch of the people page; includes jointly-advised members."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-evelina-fedorenko",
+    "fields": {
+      "member_count": 27,
+      "member_breakdown": "1 PI, 13 postdocs/research scientists, 4 grad students, 4 full-time RAs/postbacs, 5 part-time RAs/UROPs",
+      "members_page_url": "https://evlab.mit.edu/our-family",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "evelina9@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted the Our Family page, fetched from the home page nav; excludes honorary members and pets; includes 2 postdocs with other primary mentors and one on leave."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-michale-s-fee",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 research scientist, 1 postdoc, 4 grad students, 1 lab manager, 1 administrative assistant",
+      "members_page_url": "https://feelaboratory.org/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Cached people page was an unrelated MIT directory; counted the roster on the lab's current site found via its home page link."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-guoping-feng",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: McGovern Institute faculty profile page for the PI, not a lab site with a roster."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-john-d-e-gabrieli",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Bcs.mit.edu profile URL returns Page not found."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-edward-a-gibson",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 grad students, 3 UROPs (postdoc and RA headings empty)",
+      "members_page_url": "http://tedlab.mit.edu/people.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Roster looks old (students listed as expected to graduate 2025-2027); excludes the visitor and collaborators."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-ann-m-graybiel",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Page only says the BCS website has moved; no lab content."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-mark-harnett",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 4 postdocs, 5 grad students, 1 undergraduate, 2 research technicians",
+      "members_page_url": "https://www.markharnett.org/members",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted current sections; Raul Mojica Soto-Albors sits under postdocs but his text says grad school 2020-2025, so he may be a former member and count may be 12."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-myriam-heiman",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 5 postdocs, 6 grad/MD-PhD students, 1 lab manager, 1 administrative assistant",
+      "members_page_url": "https://heiman.mit.edu/members/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "mheiman@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted active members; excluded the lab mascot."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-alan-pradip-jasanoff",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI, ~10 postdocs/research staff, 1 visiting faculty, 1 undergraduate, 1 lab administrator, 2 lab staff",
+      "members_page_url": "https://jasanofflab.mit.edu/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Cached page was a wrong MIT directory; the home page names jasanofflab.mit.edu as canonical, fetched its People page and counted names before Lab Alumni."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-mehrdad-jazayeri",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Bcs.mit.edu profile URL returns Page not found."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-nancy-kanwisher",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 research scientists/scholars, 2 postdocs, 4 grad students, 1 post-bacc, 1 lab tech, 1 undergraduate",
+      "members_page_url": "http://web.mit.edu/bcs/nklab/people.shtml",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "ngk@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Former Lab Members; excluded the dog; page last updated May 2024."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-roger-levy",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: Personal faculty page for the PI with no lab roster."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-troy-littleton",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 administrative assistant, 1 research scientist, 5 postdoctoral fellows, 4 grad students, 1 research technician",
+      "members_page_url": "http://web.mit.edu/flybrain/littletonlab/2012%20Lab%20Website/People.htm",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Roster is from a 2012-era site (URL says 2012 Lab Website), so likely very old."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-josh-mcdermott",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI, 3 postdocs, 9 grad students, 3 undergraduates, 1 lab administrator",
+      "members_page_url": "https://mcdermottlab.mit.edu/people.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted Lab Personnel; stopped at Lab Alumni."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-earl-k-miller",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 2 research scientists, 5 postdocs, 4 grad students, 1 visiting scholar, 1 visiting student, 1 research affiliate",
+      "members_page_url": "https://ekmillerlab.mit.edu/miller-lab-members/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted all listed lab members including 3 visitors/affiliates."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-elly-nedivi",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Monster.mit.edu host does not resolve (fetch failed)."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-tomaso-a-poggio",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Cbcl.mit.edu connection refused (fetch failed)."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-alexander-rakhlin",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 grad student, 3 postdocs, 1 IDSS student",
+      "members_page_url": "http://www.mit.edu/~rakhlin/lab.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted Current students and postdocs list plus PI; former mentees excluded."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-rebecca-r-saxe",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Personal page redirects to scripts.mit.edu/~saxelab, which returns 404."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-laura-e-schulz",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 research scientist, 4 postdocs, 3 Children Helping Science staff, 3 grad students, 1 lab manager",
+      "members_page_url": "https://eccl.mit.edu/meet-the-lab",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Cached page was not the roster; the home page declares eccl.mit.edu canonical, fetched its Meet the Lab page and counted before Lab Alumni."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-nidhi-seethapathi",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 4 postdoc-level (one, Chaix-Eichel, role not stated), 3 PhD students, 2 undergraduates",
+      "members_page_url": "http://www.seethapathilab.org/people-and-openings",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "nidhise@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted Current Group Members; alumni excluded."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-morgan-hwa-tze-sheng",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: Picower Institute faculty profile page (lists a Lab Members section but lab_website is a profile; its own lab site is shenglab.broadinstitute.org)."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-pawan-sinha",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 research affiliate, 1 research scientist, 1 research technician/lab manager, 1 senior administrator, 1 grad student, 2 postdocs, 1 MEng student",
+      "members_page_url": "https://www.sinhalab.mit.edu/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Cached team page was a wrong MIT 404; the home page declares sinhalab.mit.edu canonical, fetched its Team page; counted Current Lab Members plus PI, excluding faculty collaborators and affiliated researchers."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-mriganka-sur",
+    "fields": {
+      "member_count": 22,
+      "member_breakdown": "1 PI, 2 research scientists, 8 postdocs, 5 grad students, 1 post-bacc, 3 technical associates/lab manager, 2 administrative staff",
+      "members_page_url": "https://www.surlab.org/members/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "msur@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Cached home page only; counted Members page found via link; includes the SCSB administrative manager."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-joshua-b-tenenbaum",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: MIT Page Not Found at the profile URL."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-li-huei-tsai",
+    "fields": {
+      "member_count": 37,
+      "member_breakdown": "1 PI, 1 administrative assistant, 2 project managers, 33 other listed members (postdocs, grad students, technical associates, coordinators, visiting physician scientists)",
+      "members_page_url": "https://tsailaboratory.mit.edu/members/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted PI, admin and project managers in the header plus 33 listed members (lab manager listed once)."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-matthew-a-wilson",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Page only says the BCS website has moved."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-emilio-bizzi",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Placeholder page with only a name and 'last updated April 13, 2018'; no roster."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-martha-constantine-paton",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: Biology.mit.edu faculty profile page, not a lab site with a roster."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-mary-c-potter",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Mollylab-1.mit.edu host does not resolve (fetch failed)."
+  },
+  {
+    "source": "data/sources/mit-bcs.json",
+    "lab_id": "mit-bcs-william-quinn",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Bcs.mit.edu profile URL returns Page not found."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-eric-alm",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 administrative assistant, 1 lab technologist, 7 postdocs, 3 grad students/other",
+      "members_page_url": "https://web.mit.edu/almlab/members.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted the Current Members list; page undated and mentions COVID-era work, so may be dated."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-angela-belcher",
+    "fields": {
+      "member_count": 25,
+      "member_breakdown": "1 PI, 2 staff, 3 research scientists, 4 postdocs, 8 grad students, 7 undergraduates",
+      "members_page_url": "https://belcherlab.mit.edu/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted sections above Alumni."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-michael-birnbaum",
+    "fields": {
+      "member_count": 18,
+      "member_breakdown": "1 PI, 1 clinical fellow, 3 postdocs, 11 grad students, 1 research technician, 1 program manager",
+      "members_page_url": "https://birnbaumlab.com/about-us/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "mbirnb@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Cached home had no roster; counted Meet Our Team on About Us page found via nav."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-paul-blainey",
+    "fields": {
+      "member_count": 26,
+      "member_breakdown": "1 PI, 1 administrator, 1 scientific staff, 7 postdocs, 9 grad students, 2 research associates, 5 UROPs",
+      "members_page_url": "https://blainey.mit.edu/team-member/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Cached home had no roster; counted Current Team page found via nav."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-laurie-a-boyer",
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 PI, 4 postdocs, 1 research scientist, 4 grad/master's students, 1 technician, 4 UROPs, 1 administrative assistant",
+      "members_page_url": "https://boyerlab.mit.edu/team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "Lboyer@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted team page above alumni (July 2025 photo)."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-bryan-bryson",
+    "fields": {
+      "member_count": 18,
+      "member_breakdown": "1 PI, 2 postdocs, 8 grad students, 4 undergraduates, 1 research scientist, 1 research assistant, 1 lab administrator",
+      "members_page_url": "https://brysonlab.org/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "bryand@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted Lab Members on the home page."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-james-j-collins",
+    "fields": {
+      "member_count": 29,
+      "member_breakdown": "1 PI, 11 postdocs, 1 clinical scholar, 3 research scientists, 12 grad students, 1 administrative assistant",
+      "members_page_url": "http://collinslab.mit.edu/lab-members",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted all listed members; a few are at Wyss."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-peter-dedon",
+    "fields": {
+      "member_count": 21,
+      "member_breakdown": "1 PI, 4 research scientists, 6 postdocs, 4 grad students, 3 research engineers, 2 undergraduates, 1 administrative assistant",
+      "members_page_url": "http://dedon.mit.edu/people/index.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "pcdedon@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted Lab Members; page undated, includes SMART Singapore staff."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-domitilla-del-vecchio",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 3 postdocs, 5 PhD students, 2 undergraduates",
+      "members_page_url": "https://sites.mit.edu/ddvlab/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Cached page had no roster; counted Team members on People page linked from the home page."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-bevin-p-engelward",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 affiliate, 6 postdocs/research staff, 1 technician, 5 UROPs, 1 administrative assistant",
+      "members_page_url": "https://engelward-lab.mit.edu/mit-engelward-lab-members/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "bevin@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted the members page; undated."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-john-m-essigmann",
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 PI, 2 admin, 9 group members (postdocs/staff), 2 co-ops, 1 other, 1 UROP",
+      "members_page_url": "https://essigmann.mit.edu/current-essigmann-group-members/",
+      "join_page_url": null
+    },
+    "note": "Counted PI/administration, group members, co-ops and UROP on the current-members page."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-ernest-fraenkel",
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 PI, 1 senior admin assistant, 2 postdocs, 6 PhD students, 2 technical associates, 1 research associate, 1 research scientist, 1 more PhD student",
+      "members_page_url": "https://fraenkel.mit.edu/people/",
+      "join_page_url": "https://fraenkel.mit.edu/join/"
+    },
+    "note": "Counted all names under Current Members on the people page."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-mary-gehring",
+    "fields": {
+      "member_count": 19,
+      "member_breakdown": "1 PI, 2 lab/admin managers, 9 postdocs, 6 grad students, 1 undergrad",
+      "members_page_url": "https://www.gehringplantlab.org/people",
+      "join_page_url": null
+    },
+    "note": "Counted Current Lab Members on the people page; alumni section excluded."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-david-gifford",
+    "fields": {},
+    "note": "Not sized, the site could not be read: Giffordlab.mit.edu timed out on load (cached attempt and one retry both failed with a playwright timeout)."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-anders-sejr-hansen",
+    "fields": {
+      "member_count": 24,
+      "member_breakdown": "1 PI, 1 lab administrator, 7 postdocs, 11 grad students, 1 technical associate, 3 other students (UROP/Harvard MSc/HST MD)",
+      "members_page_url": "https://www.ashansenlab.com/team.html",
+      "join_page_url": "https://www.ashansenlab.com/join.html"
+    },
+    "note": "Counted team page entries above the Alumni heading."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-amy-e-keating",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 6 PhD students, 3 postdocs",
+      "members_page_url": "https://keatinglab.mit.edu/people/",
+      "join_page_url": null
+    },
+    "note": "Counted PI, PhD students and postdoctoral scientists on the people page; alumni excluded."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-angela-koehler",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 3 postdocs, 5 grad students, 1 lab coordinator",
+      "members_page_url": "http://koehlerlab.org/teamkoehler",
+      "join_page_url": "http://koehlerlab.org/news/2022/12/2/royalty-joins-the-koehler-lab-to-watch-the-boston-celtics-beat-the-miami-heat"
+    },
+    "note": "Counted PI, postdocs, grad students and research staff on the team page; Collaborators/Former Members lists are empty or excluded."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-robert-langer",
+    "fields": {},
+    "note": "Home page lists no members and the Members page (linked from home) shows only Robert Langer; the real roster is behind a members-only site, so no count."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-harvey-f-lodish",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 admin manager, 1 lab manager, 2 technical assistants, 9 postdocs, 1 grad student",
+      "members_page_url": "http://lodishlab.wi.mit.edu/members.html",
+      "join_page_url": null
+    },
+    "note": "Counted Lab Members page, but the site says it was last updated August 2015 so the roster is very old."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-scott-manalis",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 administrative assistant, 5 postdocs, 5 grad students, 3 undergrads",
+      "members_page_url": "http://manalis-lab.mit.edu/people.html",
+      "join_page_url": null
+    },
+    "note": "Counted Personnel page entries above the alumni headings."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-jacquin-c-niles",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 administrative assistant, 4 postdocs, 1 grad student, 1 technical associate",
+      "members_page_url": "http://web.mit.edu/nileslab/people/index.html",
+      "join_page_url": null
+    },
+    "note": "Counted PI and Current Members; the site is an old web.mit.edu page with no dates, so it may be stale."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-katharina-ribbeck",
+    "fields": {
+      "member_count": 19,
+      "member_breakdown": "1 PI, 1 admin assistant, 2 research scientists, 1 lab manager, 4 postdocs, 5 PhD students, 5 undergrads, 1 high school researcher",
+      "members_page_url": "https://biogels.mit.edu/people/",
+      "join_page_url": null
+    },
+    "note": "Counted all names on the Current Team page."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-ram-sasisekharan",
+    "fields": {},
+    "note": "Home page cached shows no roster and its People menu link was not captured in the link list, so no count was possible."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-eric-sun",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 7 PhD students, 2 MS students, 3 undergrads",
+      "members_page_url": "https://sunlab.mit.edu/team/",
+      "join_page_url": "https://sunlab.mit.edu/contact"
+    },
+    "note": "Counted all names on the team page."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-bruce-tidor",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 researcher, 1 administrative assistant",
+      "members_page_url": "https://groups.csail.mit.edu/tidor/people.php",
+      "join_page_url": null
+    },
+    "note": "Roster is on people.php (linked from the home page, fetched once); counted PI, researcher and other lab member."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-christopher-a-voigt",
+    "fields": {
+      "member_count": 29,
+      "member_breakdown": "1 PI, 12 postdocs, 12 grad students, 2 UROPs, 1 lab manager, 1 administrative assistant",
+      "members_page_url": "http://mit.edu/voigtlab/people.html",
+      "join_page_url": "http://mit.edu/voigtlab/openings.html"
+    },
+    "note": "Counted all current entries above the ALUMNI heading."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-ron-weiss",
+    "fields": {
+      "member_count": 37,
+      "member_breakdown": "1 PI, 4 staff, 8 PhD students, 13 postdocs, 3 other (visiting/affiliate), 8 undergrads",
+      "members_page_url": "https://weiss-lab.mit.edu/",
+      "join_page_url": "https://weiss-lab.mit.edu/opportunities/"
+    },
+    "note": "Roster is on the lab home page (the people link only goes to the PI bio); counted everything above the Alumni heading."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-forest-white",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 senior admin, 5 grad students, 3 postdocs",
+      "members_page_url": "https://white-lab.mit.edu/people/",
+      "join_page_url": null
+    },
+    "note": "Counted Current Members on the people page (updated 2026-9-2); alumni excluded."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-k-dane-wittrup",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 admin assistant, 9 grad students, 1 postdoc, 1 undergrad researcher",
+      "members_page_url": "https://kdw-lab.mit.edu/members/",
+      "join_page_url": "https://kdw-lab.mit.edu/join/"
+    },
+    "note": "Counted Current Lab Members on the members page; alumni excluded."
+  },
+  {
+    "source": "data/sources/mit-be.json",
+    "lab_id": "mit-be-michael-b-yaffe",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 12 lab staff/postdocs/visiting scientists/grad student, 1 administrative assistant",
+      "members_page_url": "https://yaffelab.mit.edu/people/current/",
+      "join_page_url": null
+    },
+    "note": "Count from the Current lab members page (fetched via the people menu link, 13 names) plus the PI who is listed on a separate page."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-eric-j-alm",
+    "fields": {},
+    "note": "Not sized, the site could not be read: Almlab.mit.edu did not load (cached fetch failed with a playwright error)."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-saurabh-amin",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 3 postdocs, 6 PhD students, 1 masters student",
+      "members_page_url": "https://resil.mit.edu/people/current-lab-members/",
+      "join_page_url": null
+    },
+    "note": "Count from the Current Lab Members page (fetched via the people menu link) plus the PI from the People page."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-moshe-e-ben-akiva",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 director, 2 student research assistants, 4 research staff/affiliates, 1 administrator",
+      "members_page_url": "https://www.its.mit.edu/team",
+      "join_page_url": null
+    },
+    "note": "Counted PI, students, research staff and administrator on the Team page (fetched); excluded 8 external 'research affiliates' at other universities."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-markus-j-buehler",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 4 postdocs, 6 PhD students, 1 SM student, 1 research associate, 1 UROP",
+      "members_page_url": "https://lamm.mit.edu/people/",
+      "join_page_url": null
+    },
+    "note": "Counted all names on the people page; the PI's assistant in the contact block is not counted."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-josephine-v-carstensen",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 3 postdocs, 2 PhD candidates, 1 MEng student, 1 undergraduate",
+      "members_page_url": "https://www.carstensen.mit.edu/people",
+      "join_page_url": null
+    },
+    "note": "Counted people above the Alumni heading on the people page."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-penny-chisholm",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 lab manager, 1 research scientist, 2 postdoctoral scholars, 5 research technicians",
+      "members_page_url": "https://chisholmlab.mit.edu/people/",
+      "join_page_url": null
+    },
+    "note": "Counted all names on the people page."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-otto-cordero",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 PhD students, 3 postdocs, 1 research associate",
+      "members_page_url": "https://corderolab.org/people/",
+      "join_page_url": null
+    },
+    "note": "Counted names before the ALUMNI heading; page date is Feb 2025."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-david-l-des-marais",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 4 PhD students, 1 undergraduate",
+      "members_page_url": "https://sites.google.com/mit.edu/des-marais-group/people",
+      "join_page_url": null
+    },
+    "note": "Counted the current sections on the Google Sites people page (masters and technician sections are empty); alumni excluded."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-elfatih-eltahir",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 2 research associates, 1 visiting scholar, 1 grad student, 1 undergrad",
+      "members_page_url": "https://eltahir.mit.edu/group-members/",
+      "join_page_url": "https://eltahir.mit.edu/interested-in-joining-the-group/"
+    },
+    "note": "Counted names under Group Members on the page."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-charles-f-harvey",
+    "fields": {},
+    "note": "People page mixes current members and alumni without a clear divider (one entry is 'Now Assistant Professor' yet listed among current), and the page is copyright 2024, so current members are unclear."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-michael-f-howland",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 4 postdocs, 8 PhD students, 1 visiting student",
+      "members_page_url": "https://www.howlandlab.com/people",
+      "join_page_url": "https://www.howlandlab.com/openings"
+    },
+    "note": "Counted current sections on the people page (undergraduate section is empty); alumni excluded."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-ali-jadbabaie",
+    "fields": {},
+    "note": "Not sized, the site is not one PI's own group: The site is Jadbabaie's personal page; its Research Group page (fetched) mixes ended entries (e.g. 2019-24) in the 'current' lists and looks about 2023 old, so no reliable count."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-jesse-kroll",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 2 postdocs, 6 grad students",
+      "members_page_url": "https://krollgroup.mit.edu/people.html",
+      "join_page_url": null
+    },
+    "note": "Counted the people page."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-benedetto-marelli",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 4 grad students, 9 postdocs",
+      "members_page_url": "https://marelli.mit.edu/people-1",
+      "join_page_url": null
+    },
+    "note": "Roster is on marelli.mit.edu/people-1 (linked from home People menu); counted PI, grad students and postdocs above the Alumni heading; page appears dated around 2023-24."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-admir-masic",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 4 grad students, 4 postdocs/research scientists, 2 visiting scholars, 2 UROPs, 1 administrative assistant",
+      "members_page_url": "https://www.masicgroup.mit.edu/people",
+      "join_page_url": "https://www.masicgroup.mit.edu/people"
+    },
+    "note": "Counted entries above FORMER MEMBERS; one grad student is noted as currently at Cambridge but is still listed."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-darcy-mcrose",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 4 postdocs, 4 grad students, 2 undergrads, 1 research assistant",
+      "members_page_url": "https://mcroselab.com/about/",
+      "join_page_url": "https://mcroselab.com/join-the-lab/"
+    },
+    "note": "Counted the Lab Members list above Former Lab Members."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-heidi-nepf",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 administrative assistant, 7 grad/MEng students, 1 visiting grad student, 1 postdoc, 3 research affiliates, 1 visiting fellow",
+      "members_page_url": "https://nepf.mit.edu/current-members/",
+      "join_page_url": null
+    },
+    "note": "Counted all names on the current members page (page copyright 2024)."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-desirée-plata",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI, 1 research scientist, 3 listed postdocs, 10 other members with no role shown, 1 MEng student, 1 undergraduate",
+      "members_page_url": "http://platalab.mit.edu/www/people.html",
+      "join_page_url": null
+    },
+    "note": "Counted all names under Current Lab Members; several have no role listed."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-serguei-saavedra",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD candidates, 2 postdocs",
+      "members_page_url": "https://sites.google.com/site/sergueisaavedra/people",
+      "join_page_url": "https://sites.google.com/site/sergueisaavedra/join"
+    },
+    "note": "Counted the Current Members section on the Google Sites people page."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-césar-terrer",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 research scientist, 1 postdoc, 4 PhD students, 1 visiting PhD student",
+      "members_page_url": "https://terrerlab.com/team/",
+      "join_page_url": "https://terrerlab.com/join-us/"
+    },
+    "note": "Counted all names above the Alumni heading (page dated 2026-09)."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-haruko-murakami-wainwright",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI (added, not listed on group page), 2 postdocs, 5 students",
+      "members_page_url": "https://sites.google.com/mit.edu/h-wainwrights-group/group",
+      "join_page_url": null
+    },
+    "note": "PI is not on the roster but the site is hers so 1 was added; visiting scholars section is empty; alumni excluded."
+  },
+  {
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-andrew-whittle",
+    "fields": {
+      "member_count": 22,
+      "member_breakdown": "1 PI, 4 postdocs, 8 grad students, 2 undergrads, 1 admin assistant, 6 visitors",
+      "members_page_url": "https://ajw-group.mit.edu/group-members/",
+      "join_page_url": null
+    },
+    "note": "Counted names above ALUMNI; the page says it is being updated and alumni go back to 2009-2015, so the roster may be old and visitors may not be current."
+  },
+  {
+    "fields": {
+      "member_count": 19,
+      "member_breakdown": "1 PI, 2 postdocs/visiting scholar, 8 PhD students, 6 master's students, 2 UROP/SuperUROP",
+      "members_page_url": "http://wucathy.com/group/",
+      "join_page_url": "http://wucathy.com/prospective/"
+    },
+    "note": "Counted from group page; alumni excluded.",
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-cathy-wu"
+  },
+  {
+    "fields": {
+      "member_count": 20,
+      "member_breakdown": "1 PI, 1 postdoc, 12 graduate/MEng students, 2 UROPs/SuperUROP, 1 MST, 3 visiting students",
+      "members_page_url": "https://zardini.mit.edu/people/",
+      "join_page_url": "https://zardini.mit.edu/join/"
+    },
+    "note": "Counted Research Team plus Visiting Students; 5 external Research Affiliates and alumni excluded.",
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-gioele-zardini"
+  },
+  {
+    "fields": {
+      "member_count": 32,
+      "member_breakdown": "1 PI, 31 members (PhD, master's, postdocs, research associate, visitors)",
+      "members_page_url": "https://mobility.mit.edu/people/",
+      "join_page_url": "https://mobility.mit.edu/openings/"
+    },
+    "note": "Counted PI plus the 31 names under MEMBERS (PhD, MST/MCP, postdocs, visitors); the separate Faculty and Staff block (other faculty, administrators, MMI staff) and Alumni excluded; Alumni pager (page 2) not followed since all current members precede it.",
+    "source": "data/sources/mit-cee.json",
+    "lab_id": "mit-cee-jinhua-zhao"
+  },
+  {
+    "fields": {
+      "member_count": 26,
+      "member_breakdown": "1 PI, 1 postdoc, 22 PhD students, 2 master's students",
+      "members_page_url": "https://www.rbg.mit.edu/people"
+    },
+    "note": "Counted from people page; alumni list only goes up to 2023 so roster may be somewhat old.",
+    "source": "data/sources/mit-csail.json",
+    "lab_id": "mit-csail-regina-barzilay"
+  },
+  {
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: CSAIL directory profile page for the Broderick Lab, not the PI's own lab site; no roster of group members beyond a short member list on the directory entry.",
+    "source": "data/sources/mit-csail.json",
+    "lab_id": "mit-csail-tamara-broderick"
+  },
+  {
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI (senior research scientist), 2 other research staff, 2 research affiliates, 1 consulting staff, 1 postdoc, 1 PhD student, 1 administrative assistant",
+      "members_page_url": "http://groups.csail.mit.edu/ana/People/index.html"
+    },
+    "note": "Counted names on the Advanced Network Architecture group member page; page undated, may be old, and includes an administrative assistant.",
+    "source": "data/sources/mit-csail.json",
+    "lab_id": "mit-csail-david-clark"
+  },
+  {
+    "fields": {
+      "member_count": null
+    },
+    "note": "Roster page https://billf.mit.edu/person_type/student-current/ returned 404 and the home page links no other people page.",
+    "source": "data/sources/mit-csail.json",
+    "lab_id": "mit-csail-william-freeman"
+  },
+  {
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: Learning and Intelligent Systems Group is co-led by two PIs (Lozano-Perez and Kaelbling).",
+    "source": "data/sources/mit-csail.json",
+    "lab_id": "mit-csail-leslie-kaelbling"
+  },
+  {
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: CSAIL directory profile page for the Decentralized Information Group, not the PI's own lab site; no roster of group members beyond a short member list on the directory entry.",
+    "source": "data/sources/mit-csail.json",
+    "lab_id": "mit-csail-lalana-kagal"
+  },
+  {
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: CSAIL directory profile page for the Katabi Lab, not the PI's own lab site; no roster of group members beyond a short member list on the directory entry.",
+    "source": "data/sources/mit-csail.json",
+    "lab_id": "mit-csail-dina-katabi"
+  },
+  {
+    "fields": {
+      "member_count": 90,
+      "member_breakdown": "1 PI, 9 staff, 21 postdocs, 6 PhD students, 2 MEng students, 7 visitors, 44 UROP/SuperUROP students",
+      "members_page_url": "http://compbio.mit.edu/people.html",
+      "join_page_url": "http://compbio.mit.edu/positions.html"
+    },
+    "note": "Counted names above the Alumni heading; some names list no role so counted as names; administrative assistants in the alumni list excluded; page is large and undated, count approximate.",
+    "source": "data/sources/mit-csail.json",
+    "lab_id": "mit-csail-manolis-kellis"
+  },
+  {
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 8 PhD students, 2 MEng students, 3 UROPs",
+      "members_page_url": "https://adg.csail.mit.edu/?page_id=11",
+      "join_page_url": "https://adg.csail.mit.edu/?page_id=15"
+    },
+    "note": "Counted people before Alumni; the shared administrative assistant (also supports other professors) was excluded.",
+    "source": "data/sources/mit-csail.json",
+    "lab_id": "mit-csail-mina-konakovic-lukovic"
+  },
+  {
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Groups.csail.mit.edu wiki main page returned 403 Forbidden. The site refuses the project's fetcher; not worked around.",
+    "source": "data/sources/mit-csail.json",
+    "lab_id": "mit-csail-john-leonard"
+  },
+  {
+    "fields": {
+      "member_count": null
+    },
+    "note": "Roster page http://groups.csail.mit.edu/people.html returned 403 Forbidden and the home page lists no roster, so no count possible.",
+    "source": "data/sources/mit-csail.json",
+    "lab_id": "mit-csail-nicholas-roy"
+  },
+  {
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 8 PhD students, 1 MEng student, 2 undergraduates, 1 clinical research coordinator",
+      "members_page_url": "https://cb.mit.edu/people/"
+    },
+    "note": "Counted from fetched people page (linked from the lab home page); postdoc heading empty; administrative assistant and alumni excluded.",
+    "source": "data/sources/mit-csail.json",
+    "lab_id": "mit-csail-collin-stultz"
+  },
+  {
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: CSAIL directory profile page for the Sussman Lab, not the PI's own lab site; no roster of group members beyond a short member list on the directory entry.",
+    "source": "data/sources/mit-csail.json",
+    "lab_id": "mit-csail-gerald-sussman"
+  },
+  {
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: CSAIL directory profile page for the Tidor Lab, not the PI's own lab site; no roster of group members beyond a short member list on the directory entry.",
+    "source": "data/sources/mit-csail.json",
+    "lab_id": "mit-csail-bruce-tidor"
+  },
+  {
+    "fields": {
+      "member_count": 19,
+      "member_breakdown": "1 PI, 6 postdocs, 10 PhD students, 2 UROPs",
+      "members_page_url": "https://abatelab.mit.edu/people/",
+      "join_page_url": "https://abatelab.mit.edu/join-us/"
+    },
+    "note": "Counted before Alumni; administrative assistant and DMSE financial coordinator excluded.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-iwnetim-abate"
+  },
+  {
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Page is a scripts.mit.edu php2shell maintenance placeholder, no lab content.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-antoine-allanore"
+  },
+  {
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 4 graduate students, 1 undergraduate",
+      "members_page_url": "https://beach.mit.edu/people/"
+    },
+    "note": "Counted before Alumni; page footer says 2024 so roster may be a bit old.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-geoffrey-sd-beach"
+  },
+  {
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 2 postdocs, 1 visiting scientist, 3 graduate students, 1 visiting scholar",
+      "members_page_url": "https://cima-lab.mit.edu/people/members/"
+    },
+    "note": "Counted from fetched Lab Members page; the administrative assistant listed under Staff was excluded.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-michael-j-cima"
+  },
+  {
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Http://sauvignon.mit.edu/ did not resolve (name not resolved).",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-eugene-a-fitzgerald"
+  },
+  {
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 PI, 9 graduate students (incl. 1 visiting), 6 undergraduates",
+      "members_page_url": "https://freitas.mit.edu/group-members/",
+      "join_page_url": "https://freitas.mit.edu/join-us/"
+    },
+    "note": "Counted before Alumni.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-rodrigo-freitas"
+  },
+  {
+    "fields": {
+      "member_count": null,
+      "kind": "faculty-no-lab"
+    },
+    "note": "Page says Professor Gibson retired in January 2022 and is no longer accepting graduate students or postdocs; no current members listed (only an administrative assistant).",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-lorna-j-gibson"
+  },
+  {
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Zeppola.mit.edu shows a 'briefly unavailable for scheduled maintenance' placeholder.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-jeffrey-grossman"
+  },
+  {
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 postdoc, 1 visitor, 4 graduate students, 2 undergraduates",
+      "members_page_url": "https://jaramillo.mit.edu/people/",
+      "join_page_url": "https://jaramillo.mit.edu/open-positions/"
+    },
+    "note": "Counted before Former; administrative assistant excluded.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-rafael-jaramillo"
+  },
+  {
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Web.mit.edu/jensenlab returned MIT 'Page Not Found'.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-klavs-f-jensen"
+  },
+  {
+    "fields": {
+      "member_count": 19,
+      "member_breakdown": "1 PI, 8 graduate students, 10 postdocs",
+      "members_page_url": "https://jeehwanlab.mit.edu/members/"
+    },
+    "note": "Counted before Group Alumni; administrative assistant excluded; one postdoc (Doyoon Lee) also appears in the alumni table as ending 2026.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-jeehwan-kim"
+  },
+  {
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 research scientist, 2 postdocs, 4 graduate researchers",
+      "members_page_url": "https://lebeau.mit.edu/the-group/"
+    },
+    "note": "Counted people in the group list (name-to-title pairing is ambiguous in the text); page footer is 2024, so possibly old; Michael Xu also appears under Former Students.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-james-m-lebeau"
+  },
+  {
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 4 postdocs, 6 graduate students, 4 undergraduates",
+      "members_page_url": "https://macfarlanelab.mit.edu/team.html"
+    },
+    "note": "Counted before Group Alumni; page copyright is 2023 but lists class of 2029 undergrads; one grad (PhD MIT 2026) may have graduated.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-robert-j-macfarlane"
+  },
+  {
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 3 research staff, 2 postdocs, 7 graduate students",
+      "members_page_url": "https://olivetti.mit.edu/people/"
+    },
+    "note": "Counted before Group Alumni.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-elsa-a-olivetti"
+  },
+  {
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 11 current members (4 postdocs, 2 visiting scientists, 1 visiting scholar, 4 graduate students)",
+      "members_page_url": "https://olson-research-group.mit.edu/team/"
+    },
+    "note": "Counted PI plus 11 Current Members (visiting scientists, postdocs, PhD candidates, graduate students); page updated 08/2025.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-gregory-b-olson"
+  },
+  {
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 1 visiting scientist, 1 postdoc, 11 graduate students",
+      "members_page_url": "https://caross.mit.edu/about/personnel/"
+    },
+    "note": "Counted before alumni; administrative assistant excluded.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-caroline-a-ross"
+  },
+  {
+    "fields": {
+      "member_count": 27,
+      "member_breakdown": "1 PI, 1 postdoc, 14 graduate students, 1 MEng, 9 UROPs, 1 outreach volunteer",
+      "members_page_url": "https://tasan.mit.edu/team/"
+    },
+    "note": "Counted before Previous Members; administrative assistant excluded; page copyright 2025.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-c-cem-tasan"
+  },
+  {
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Page is a scripts.mit.edu php2shell maintenance placeholder, no lab content.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-harry-l-tuller"
+  },
+  {
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 4 doctoral students",
+      "members_page_url": "https://sites.mit.edu/wallingroup/people/",
+      "join_page_url": "https://sites.mit.edu/wallingroup/positions-and-opportunities/"
+    },
+    "note": "Counted from the people page.",
+    "source": "data/sources/mit-dmse.json",
+    "lab_id": "mit-dmse-thomas-j-wallin"
+  },
+  {
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Page is a scripts.mit.edu php2shell maintenance placeholder, no lab content.",
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-andrew-babbin"
+  },
+  {
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 postdoc, 3 graduate students",
+      "members_page_url": "https://www.experimentalgeobiology.mit.edu/people"
+    },
+    "note": "Counted before Former members.",
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-tanja-bosak"
+  },
+  {
+    "fields": {
+      "member_count": 43,
+      "member_breakdown": "1 PI, 1 research scientist, 3 postdocs, 34 graduate researchers, 4 listed without role",
+      "members_page_url": "https://aeroastro.mit.edu/starlab/starlab-our-people/"
+    },
+    "note": "Counted from fetched STAR Lab Members page headed '2024 - 2025', so the roster may be a year or more old.",
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-kerri-cahoy"
+  },
+  {
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 graduate students",
+      "members_page_url": "http://mit.edu/~twcronin/www/people.html"
+    },
+    "note": "Counted before Group Alumni; page copyright 2023 and mentions a Fall 2024 student start, so likely old.",
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-timothy-cronin"
+  },
+  {
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 research scientists, 3 postdocs, 4 graduate students",
+      "members_page_url": "https://www.disruptiveplanets.mit.edu/team"
+    },
+    "note": "Counted team list; 2 administration staff excluded; Jared Bryan appears only in the page body (not the menu) and is counted.",
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-julien-de-wit"
+  },
+  {
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-raffaele-ferrari",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 3 undergrads, 3 grad students, 6 postdocs/researchers",
+      "members_page_url": "http://ferrari.mit.edu/group/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted PI, undergrads, grads and postdocs; excluded listed collaborators and 2 administrative staff."
+  },
+  {
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-arlene-fiore",
+    "fields": {
+      "member_count": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Home page has no roster; fetched https://teampaccc.mit.edu/our-team (and a repeat) but only the first part of the long, duplicated roster was seen (PI, postdoc Giani, grad students Yu, Elkins, Dressel, Avila, more below), so no reliable count."
+  },
+  {
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-gregory-fournier",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 grad students, 1 postdoc",
+      "members_page_url": "https://fournierlab.mit.edu/current-lab-members-and-alumni/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Count from fetched Current Lab Members list; alumni excluded."
+  },
+  {
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-wanying-kang",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 2 postdocs, 3 PhD students",
+      "members_page_url": "https://wanyingkang.com/group-members/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Group Members list with start years; Old Friends excluded."
+  },
+  {
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-john-marshall",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 research scientist",
+      "members_page_url": "http://oceans.mit.edu/JohnMarshall/group",
+      "pi_email": "jmarsh@mit.edu",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Research Group lists PI and research scientist Jeffrey Scott; admin assistant excluded; page may be sparse."
+  },
+  {
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-david-mcgee",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 program scientist, 1 postdoc, 3 grad students",
+      "members_page_url": "https://www.mcgeelab.mit.edu/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Current roster above Former group members."
+  },
+  {
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-paul-o-gorman",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 postdocs, 3 grad students",
+      "members_page_url": "http://pog.mit.edu/group.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Research Group list above Former students and postdocs."
+  },
+  {
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-shuhei-ono",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 research scientist, 1 postdoc, 3 PhD students, 2 UROPs",
+      "members_page_url": "https://ono.mit.edu/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Current Members list; excluded the lab puppy and Alumni."
+  },
+  {
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-mat-j-pe",
+    "fields": {
+      "member_count": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site could not be read: Cached page is a scripts.mit.edu PHP-disabled maintenance notice, not the lab site."
+  },
+  {
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-taylor-perron",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 postdocs, 9 grad students",
+      "members_page_url": "https://taylorperron.org/people/",
+      "pi_email": "perron@mit.edu",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Count from People page; 2 administrative staff excluded; some grads are primarily in other groups."
+  },
+  {
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-daniel-rothman",
+    "fields": {
+      "member_count": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Home page lists no members; the 'current and past students and postdocs' link resolves to the same home page text, so no roster is visible."
+  },
+  {
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-noelle-eckley-selin",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 4 postdocs, 6 PhD students",
+      "members_page_url": "http://www.selingroup.org/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": "Amy Kaczur",
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "People page lists Faculty, Postdocs and Graduate Students above Alumni; group administrator excluded from count."
+  },
+  {
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-susan-solomon",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 visiting scientist, 1 postdoc, 3 grad students, 1 undergrad",
+      "members_page_url": "https://www.ssolomongroup.mit.edu/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Current list above PAST MEMBERS; 2 administrative/financial staff excluded."
+  },
+  {
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-talia-tamarin-brodsky",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI (added, not listed), 2 postdocs, 3 PhD students",
+      "members_page_url": "https://taliatamarin.wixsite.com/taliatamarin/group",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Group page lists 5 members without the PI; added 1 for PI since the site is hers. Footer is 2023, may be somewhat old."
+  },
+  {
+    "source": "data/sources/mit-eaps.json",
+    "lab_id": "mit-eaps-ryan-woosley",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 PI (Principal Research Scientist), 1 postdoc",
+      "members_page_url": "https://woosley.mit.edu/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "People page lists PI and one postdoc."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-ahmad-bahai",
+    "fields": {
+      "member_count": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site is not one PI's own group: Waves, Bits & Molecules Laboratory is an RLE lab with multiple core faculty; cached people page shows no names anyway."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-stephen-bates",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 3 postdocs, 9 PhD students",
+      "members_page_url": "https://stephenbates19.github.io/group.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Research group list above Alumni; several are joint with other advisors."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-karl-berggren",
+    "fields": {
+      "member_count": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site is not one PI's own group: Quantum Nanostructures and Nanofabrication Group is co-led by Karl Berggren and Donnie Keathley (roster would be ~30 people)."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-sangeeta-bhatia",
+    "fields": {
+      "member_count": 25,
+      "member_breakdown": "1 PI, 4 postdocs (incl. 2 co-advised), 1 research scientist, 1 clinical fellow, 6 grad students, 2 technicians/associates, lab manager, research director, associate director",
+      "members_page_url": "http://lmrt.mit.edu/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted PI and team page members excluding 2 administrative assistants/coordinator; alumni excluded; footer says 2021 but roster has 2025-26 entries. Approximate role split."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-jas-brooks",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 3 postdocs, 6 PhD students, 1 Master's student",
+      "members_page_url": "https://mit-pel.com/team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Excluded administrator and the external collaborator."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-sam-coday",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 8 PhD students, 2 M.Eng, 4 UROPs (1 not pictured)",
+      "members_page_url": "https://coday.mit.edu/?page_id=12",
+      "pi_email": "coday@mit.edu",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted Student Researchers and Not pictured UROP; Alumni excluded."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-connor-wilson-coley",
+    "fields": {
+      "member_count": 38,
+      "member_breakdown": "1 PI, 4 postdocs, 21 PhD students (1 visiting), 1 software developer, 11 undergrad/UROP",
+      "members_page_url": "https://coley.mit.edu/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "People page dated October 2026; alumni excluded."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-priya-donti",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 7 PhD students, 3 undergrads",
+      "members_page_url": "https://priyadonti.com/group",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Current Members list; Past Members excluded."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-ruonan-han",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI, 11 PhD students, 2 M.Eng, 3 undergrads",
+      "members_page_url": "https://hangroup.mit.edu/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Fetched the people page (worklist people_url was one student's page); page says 16 current members plus PI."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-song-han",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 7 PhD students, 0 postdocs",
+      "members_page_url": "https://hanlab.mit.edu/team",
+      "accepting_grad_students": false,
+      "join_notes": "Team page says the lab is currently full in capacity.",
+      "join_page_url": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null
+    },
+    "note": "Fetched hanlab.mit.edu/team (cached songhan.mit.edu/team was just the home page); Postdoctoral 'Currently None'; Graduated excluded; page says lab is currently full."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-marija-ilic",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 10 PhD/SDM students, 2 visitors/UROP",
+      "members_page_url": "https://eesg.mit.edu/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted Principal Investigator, Students and Visitors; Postdocs heading empty; Recent Members excluded (some undated entries there are ambiguous)."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-ankur-moitra",
+    "fields": {
+      "member_count": null,
+      "members_page_url": "http://people.csail.mit.edu/moitra/group.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Group page lists students and postdocs together with past members with no current/former headings (some marked 'Now:', others not), so current members cannot be told apart."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-farnaz-niroui",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 7 PhD students, 1 undergrad",
+      "members_page_url": "https://niroui.mit.edu/team/",
+      "pi_email": "fniroui@mit.edu",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Administrative assistant excluded; alumni excluded (one name appears in both lists)."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-jelena-notaros",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 5 grad students, 2 undergrads",
+      "members_page_url": "http://www.mit.edu/~notaros/team.html",
+      "pi_email": "notaros@mit.edu",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Administrative assistant excluded; newest dated item is May 2024, so roster may be dated."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-kevin-p-o-brien",
+    "fields": {
+      "member_count": 19,
+      "member_breakdown": "1 PI, 1 postdoc, 10 grad students, 7 undergrads",
+      "members_page_url": "https://qce.mit.edu/people.html",
+      "pi_email": "kpobrien@mit.edu",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Administrative assistant excluded; footer 2020-2025."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-asu-ozdaglar",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 6 grad students, 2 postdocs",
+      "members_page_url": "https://asu.mit.edu/research-group/",
+      "pi_email": "asuman@mit.edu",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Fetched Research Group page; OLD: roster looks about a decade stale (former members and photo from the early 2010s)."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-pablo-parrilo",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 8 current students, 1 postdoc",
+      "members_page_url": "https://www.mit.edu/~parrilo/group.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Page says 'under construction'; Former group members excluded."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-yury-polyanskiy",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 5 current members",
+      "members_page_url": "http://people.lids.mit.edu/yp/homepage/groups.shtml",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Fetched Research Group page; undated list of 5 current members, roles not given."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-mark-rau",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 PhD students, 3 Master's students, 1 undergrad",
+      "members_page_url": "https://lama.mit.edu/team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Previous members and mascots excluded."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-negar-reiskarimian",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 4 PhD students, 2 undergrad/M.Eng students",
+      "members_page_url": "http://radiuslab.mit.edu/team.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Alumni excluded."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-nidhi-seethapathi",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI plus 9 current members (roles not stated)",
+      "members_page_url": "http://www.seethapathilab.org/people-and-openings",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Current Group Members list; roles not shown; worklist URL contains a zero-width character which I dropped."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-devavrat-shah",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 6 PhD students, 2 postdocs",
+      "members_page_url": "https://devavrat.mit.edu/members/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "OLD: students listed (e.g. Anish Agarwal, Sarah Cen) suggest a roster several years old."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-antonio-torralba",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 9 grad students, 2 postdocs",
+      "members_page_url": "https://groups.csail.mit.edu/vision/torralbalab/",
+      "pi_email": "torralba@mit.edu",
+      "accepting_grad_students": true,
+      "join_notes": "Page says he plans to admit new graduate students; apply via the graduate admissions portal, no individual inquiries answered.",
+      "join_page_url": null,
+      "admin_name": null,
+      "admin_email": null
+    },
+    "note": "Lab Members list on home page; past members excluded; assistant excluded."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-vinod-vaikuntanathan",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 PhD/M.Eng students, 2 postdocs",
+      "members_page_url": "http://people.csail.mit.edu/vinodv/group.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Alumni lists excluded."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-martin-wainwright",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 6 grad students, 1 postdoc",
+      "members_page_url": "https://wainwrigwork.github.io/group.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Current students and postdocs; alumni excluded."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-sixian-you",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 staff support, 1 postdoc, 7 grad students, 1 undergrad, 2 visiting students",
+      "members_page_url": "https://yougroup.mit.edu/people/",
+      "join_page_url": null,
+      "pi_email": "sixian@mit.edu"
+    },
+    "note": "Counted from fetched people page (13 mailto entries incl. PI); alumni excluded."
+  },
+  {
+    "source": "data/sources/mit-eecs.json",
+    "lab_id": "mit-eecs-hengyun-harry-zhou",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 PhD students, 1 MEng student",
+      "members_page_url": "https://zphy.github.io/people.html",
+      "join_page_url": "https://zphy.github.io/join.html"
+    },
+    "note": "People page 'Current Team'; excluded the incoming postdoc (not yet current) and the cat 'Kuro'."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-elfar-adalsteinsson",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 admin assistant, 1 student",
+      "members_page_url": "https://mri.mit.edu/people/",
+      "join_page_url": null,
+      "pi_email": "elfar@mit.edu"
+    },
+    "note": "Fetched mri.mit.edu/people; Professor, Staff and Students sections only, alumni excluded; roster looks sparse/possibly dated."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-sangeeta-n-bhatia",
+    "fields": {
+      "member_count": 27,
+      "member_breakdown": "1 PI, 6 admin/leadership/early staff, 20 group members (postdocs, grad students, techs, scientist)",
+      "members_page_url": "https://lmrt.mit.edu/team",
+      "join_page_url": "https://lmrt.mit.edu/careers"
+    },
+    "note": "Counted Administration + Group members sections on team page; alumni excluded; includes people co-advised with Broad/HMS."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-arup-k-chakraborty",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 4 research associates/PhD candidates, 1 lab administrator",
+      "members_page_url": "https://chakrabortygroup.mit.edu/members/",
+      "join_page_url": null
+    },
+    "note": "Members (Current) page; alumni on separate page."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-kwanghun-chung",
+    "fields": {
+      "member_count": 18,
+      "member_breakdown": "1 PI, 2 admin assistants, 2 research scientists, 1 senior computational scientist, 1 lab manager, 4 postdocs, 5 grad students, 1 visiting grad student, 1 technical associate",
+      "members_page_url": "http://chunglab.org/members",
+      "join_page_url": "http://chunglab.org/join-us",
+      "pi_email": "khchung@mit.edu"
+    },
+    "note": "Counted everyone above the Alumni heading on the members page."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-richard-j-cohen",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 PhD candidate, 1 lab administrator",
+      "members_page_url": "http://cohenlab.weebly.com/members.html",
+      "join_page_url": null
+    },
+    "note": "Weebly members page shows PI plus two people; site looks old (no dates) so count may be stale."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-elazer-r-edelman",
+    "fields": {
+      "member_count": 18,
+      "member_breakdown": "4 faculty/senior (incl. PI, 2 external-affiliated), 3 postdocs/visiting scientist, 11 grad students",
+      "members_page_url": "https://edelmanlab.mit.edu/current-members/",
+      "join_page_url": null
+    },
+    "note": "Current Members page; footer copyright 2019 so roster may be dated; includes faculty collaborators at BWH/JHU listed as current members."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-john-gabrieli",
+    "fields": {
+      "member_count": 32,
+      "member_breakdown": "1 PI, 1 principal research scientist, 3 research scientists, 2 postdocs, 7 research affiliates, 9 grad students, 9 staff",
+      "members_page_url": "https://gablab.mit.edu/members/",
+      "join_page_url": "https://gablab.mit.edu/opportunities/",
+      "pi_email": "gabrieli@mit.edu"
+    },
+    "note": "Counted all current sections of the members page incl. research affiliates and staff; no undergraduate names listed."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-lee-gehrke",
+    "fields": {},
+    "note": "Home page says Prof. Gehrke retired July 1, 2026; no roster visible in cached home text and no people link URLs shown, so no count."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-polina-golland",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 2 research scientists/visiting faculty, 5 grad students (postdocs heading empty)",
+      "members_page_url": "http://people.csail.mit.edu/polina/people.html",
+      "join_page_url": null
+    },
+    "note": "People page current sections (last updated Oct 2026); former students/postdocs excluded."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-matthew-g-jones",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoc, 4 PhD students, 1 MEng, 2 technical associates, 2 UROP undergrads",
+      "members_page_url": "https://www.thejoneslaboratory.com/team",
+      "join_page_url": null
+    },
+    "note": "Team page 'Lab Members'; alumni table excluded."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-robert-s-langer",
+    "fields": {},
+    "note": "Fetched langerlab.mit.edu/members: shows only Langer's name and contact details; the real member list is on a Members Only site, so no roster visible."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-laura-d-lewis",
+    "fields": {
+      "member_count": 21,
+      "member_breakdown": "1 PI, 1 admin assistant, 6 postdocs, 1 visiting scientist, 9 grad students, 1 lab manager, 1 technical associate, 1 clinical research coordinator",
+      "members_page_url": "https://www.lewisneurolab.org/people",
+      "join_page_url": "https://www.lewisneurolab.org/positions",
+      "pi_email": "ldlewis@mit.edu"
+    },
+    "note": "People page; no alumni section; one 'postdoc' (Sydney Bailes) is described as a PhD student."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-tami-lieberman",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdocs, 3 grad students, 1 program scientist, 2 undergrads, 1 visiting student",
+      "members_page_url": "https://lieberman.science/people/",
+      "join_page_url": "https://lieberman.science/join/"
+    },
+    "note": "People page above 'Former mentees'."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-leonid-a-mirny",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI (not on roster, added), 3 postdocs + 1 postdoctoral fellow, 1 research scientist, 2 grad students, 1 infrastructure admin, 1 lab administrator, 1 visiting student",
+      "members_page_url": "https://mirnylab.mit.edu/lab-members/",
+      "join_page_url": "https://mirnylab.mit.edu/jonas-neipel-joins-institute-curie-as-marie-curie-fellow/"
+    },
+    "note": "Lab Members page lists 10 people (excluding a dog and a coffee-machine joke entry); PI not on roster, +1 added; alumni excluded."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-alex-k-shalek",
+    "fields": {
+      "member_count": 35,
+      "member_breakdown": "35 first names incl. PI (administration, staff, postdocs, students)",
+      "members_page_url": "http://www.shaleklab.com/team",
+      "join_page_url": null
+    },
+    "note": "Team page shows first names only in a carousel list (repeated twice); counted 35 distinct entries; roles not shown per person, so moderately uncertain."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-phillip-a-sharp",
+    "fields": {},
+    "note": "Not sized, the site could not be read: Web.mit.edu/sharplab page returns MIT 'Page Not Found'."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-charles-sodini",
+    "fields": {},
+    "note": "Not sized, the site is not one PI's own group: Page is the MEDRC (Medical Electronic Device Realization Center) people page for Sodini as co-director, not his own group roster."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-peter-szolovits",
+    "fields": {},
+    "note": "Fetched Students.html: only historical thesis supervision list; no current-member roster on the CSAIL Clinical Decision-Making Group pages seen."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-giovanni-traverso",
+    "fields": {
+      "member_count": 111,
+      "member_breakdown": "1 director plus postdocs, program/research staff and students (roles not shown in text)",
+      "members_page_url": "https://www.l4te.org/team/",
+      "join_page_url": "https://www.l4te.org/join/"
+    },
+    "note": "Team page says 'current lab members'; counted 111 distinct names in the full list (one name repeated); roles are only visible via filters, so breakdown unknown."
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-bruce-walker",
+    "fields": {},
+    "note": "Not sized, the site is not one PI's own group: Ragoninstitute.org is the Ragon Institute (many labs), not one PI's group."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-polina-anikeeva",
+    "fields": {
+      "member_count": 27,
+      "member_breakdown": "1 PI, 3 staff, 6 postdocs, 8 grad students, 9 undergrads",
+      "members_page_url": "https://bioelectronics.mit.edu/team.html",
+      "join_page_url": null,
+      "pi_email": "anikeeva@mit.edu"
+    },
+    "note": "Rendered team page (plain page was empty); alumni excluded; mentors named under undergrads not counted."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-ed-boyden",
+    "fields": {
+      "member_count": 59,
+      "member_breakdown": "1 PI, 4 administration, 41 students/postdocs/staff, 1 visiting scientist/affiliate, 12 undergrads",
+      "members_page_url": "https://synthneuro.org/people/",
+      "join_page_url": null,
+      "pi_email": "edboyden@mit.edu"
+    },
+    "note": "Fetched people page (home links to it); alumni on separate page; one administration entry may be a pet but is not labelled so counted."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-martha-constantine-paton",
+    "fields": {},
+    "note": "Home page loads but its 'people' link resolves to the MIT-wide search page; no roster visible."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-robert-desimone",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 3 postdoctoral fellows, 5 research scientists, 3 technical associates",
+      "members_page_url": "https://desimonelab.com/people/",
+      "join_page_url": "https://desimonelab.com/join/"
+    },
+    "note": "Counted PI plus 11 under Lab Members above 'Lab Alumni'; four entries at the end of the alumni list look current but were not counted."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-michale-fee",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 grad students, 1 research scientist, 1 postdoc, 1 admin assistant, 1 tech associate/lab manager",
+      "members_page_url": "https://feelaboratory.org/people/",
+      "join_page_url": null
+    },
+    "note": "People page 'Current Members'; alumni on separate page."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-guoping-feng",
+    "fields": {
+      "member_count": 56,
+      "member_breakdown": "1 PI, 1 group leader, 3 lab management/admin, 9 research scientists, 17 postdoc-level (incl. 2 post-bacc scholars), 5 grad students, 15 staff/interns/affiliates, 6 undergrads/visiting",
+      "members_page_url": "https://fenglaboratory.org/members/",
+      "join_page_url": null
+    },
+    "note": "Counted Current Members sections above 'Former Members'; de-duplicated two people listed twice and excluded 'Taco' (post-DOGtorate)."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-ila-fiete",
+    "fields": {
+      "member_count": 18,
+      "member_breakdown": "1 PI, 1 admin, 7 postdocs, 9 grad students (incl. 1 visiting)",
+      "members_page_url": "https://fietelab.mit.edu/people/",
+      "join_page_url": null
+    },
+    "note": "People page; excluded 1 external affiliate and the dated undergrad list (2021-2023) and alumni."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-ann-graybiel",
+    "fields": {
+      "member_count": 23,
+      "member_breakdown": "1 PI, 5 researchers, 2 administrative, 5 support staff, 10 undergrads",
+      "members_page_url": "http://www.graybiel-lab.com/members.html",
+      "join_page_url": null
+    },
+    "note": "Members page; footer copyright 2015 but page has recent sections; alumni excluded."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-hugh-herr",
+    "fields": {
+      "member_count": 31,
+      "member_breakdown": "1 PI, 1 admin, 5 postdocs, 18 grad students, 2 research scientists, 3 research affiliates, 1 unlabelled",
+      "members_page_url": "https://www.media.mit.edu/groups/biomechatronics/people/",
+      "join_page_url": "https://www.media.mit.edu/groups/biomechatronics/applicant-information/"
+    },
+    "note": "Fetched Media Lab Biomechatronics group people page; counted entries not marked Past Member/Former."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-h-robert-horvitz",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI (not on roster, added), 5 postdocs, 2 grad students, 1 research assistant, 1 lab manager, 1 administrative coordinator",
+      "members_page_url": "http://web.mit.edu/horvitz/www/people.html",
+      "join_page_url": null
+    },
+    "note": "People page lists 10 current people; PI added as site is his; alumni on separate page."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-mehrdad-jazayeri",
+    "fields": {
+      "member_count": 21,
+      "member_breakdown": "1 PI, 5 postdocs, 1 research specialist, 8 grad students, 1 MD student, 2 technical associates, 1 exec assistant, 1 website manager, 1 undergrad",
+      "members_page_url": "https://jazlab.org/personnel-alumni/",
+      "join_page_url": "https://jazlab.org/open-positions/"
+    },
+    "note": "Personnel page above Alumni; two listed people (Chiara Caraccio, Nicholas Watters) also appear in alumni lists so count may be off by about 2."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-tomaso-poggio",
+    "fields": {},
+    "note": "Not sized, the site is not one PI's own group: Cbmm.mit.edu is the Center for Brains, Minds and Machines, a multi-PI center."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-rebecca-saxe",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 4 postdocs, 2 grad students, 1 post-bacc, 1 lab manager, 2 visitors",
+      "members_page_url": "https://saxelab.mit.edu/people/",
+      "join_page_url": "https://saxelab.mit.edu/join-us/"
+    },
+    "note": "Fetched Lab Members & Affiliates page; alumni on separate page."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-fan-wang",
+    "fields": {
+      "member_count": 21,
+      "member_breakdown": "1 PI, 8 postdocs, 2 research scientists, 6 grad students, 4 technical associates",
+      "members_page_url": "https://www.wanglab-neuro.org/team/",
+      "join_page_url": null
+    },
+    "note": "Team page above Alumni."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-satrajit-ghosh",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 admin, 3 postdoc/research affiliates, 5 research scientists, 1 software engineer, 1 technical associate, 1 PhD, 1 MEng, 1 visiting scientist",
+      "members_page_url": "https://sensein.group/team",
+      "join_page_url": "https://sensein.group/openings"
+    },
+    "note": "'Current members' on team page; past members excluded."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-ian-wickersham",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 5 technical associates, 2 postdocs",
+      "members_page_url": "https://wickershamlab.org/people/",
+      "join_page_url": "http://wickershamlab.org/contact/",
+      "pi_email": "wickersham@mit.edu"
+    },
+    "note": "People page above Alumni; roster dates are 2013-2017 so likely stale."
+  },
+  {
+    "fields": {
+      "member_count": 26,
+      "member_breakdown": "1 PI, 1 postdoc, 22 PhD students, 2 master's students",
+      "members_page_url": "https://www.rbg.mit.edu/people"
+    },
+    "note": "Counted from people page; alumni list only goes up to 2023 so roster may be somewhat old.",
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-regina-barzilay"
+  },
+  {
+    "source": "data/sources/mit-imes.json",
+    "lab_id": "mit-imes-james-j-collins",
+    "fields": {
+      "member_count": 29,
+      "member_breakdown": "1 PI, 11 postdocs, 1 clinical scholar, 3 research scientists, 12 grad students, 1 administrative assistant",
+      "members_page_url": "http://collinslab.mit.edu/lab-members",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted all listed members; a few are at Wyss."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-emilio-bizzi",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Placeholder page with only a name and 'last updated April 13, 2018'; no roster."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-james-dicarlo",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 3 research scientists, 3 postdocs, 3 grad students, 1 lab manager, 2 technical assistants, 1 software developer",
+      "members_page_url": "https://dicarlolab.mit.edu/dicarlo-lab-community/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted current sections; a postdoc (Soerensen) and a grad student (Zaidi) are still listed though photo captions mention a farewell and a defense in 2026, so count may be 1-2 high."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-sven-dorkenwald",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 4 postdocs, 4 grad students (2 rotation), 1 undergraduate, 2 technical associates, 1 administrative assistant",
+      "members_page_url": "https://dorkenwaldlab.com/people.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "sdorkenw@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Cached text was empty; counted after a rendered fetch of the people page; includes jointly-advised members."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-evelina-fedorenko",
+    "fields": {
+      "member_count": 27,
+      "member_breakdown": "1 PI, 13 postdocs/research scientists, 4 grad students, 4 full-time RAs/postbacs, 5 part-time RAs/UROPs",
+      "members_page_url": "https://evlab.mit.edu/our-family",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "evelina9@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted the Our Family page, fetched from the home page nav; excludes honorary members and pets; includes 2 postdocs with other primary mentors and one on leave."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-john-gabrieli",
+    "fields": {
+      "member_count": 32,
+      "member_breakdown": "1 PI, 1 principal research scientist, 3 research scientists, 2 postdocs, 7 research affiliates, 9 grad students, 9 staff",
+      "members_page_url": "https://gablab.mit.edu/members/",
+      "join_page_url": "https://gablab.mit.edu/opportunities/",
+      "pi_email": "gabrieli@mit.edu"
+    },
+    "note": "Counted all current sections of the members page incl. research affiliates and staff; no undergraduate names listed."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-mark-harnett",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 4 postdocs, 5 grad students, 1 undergraduate, 2 research technicians",
+      "members_page_url": "https://www.markharnett.org/members",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted current sections; Raul Mojica Soto-Albors sits under postdocs but his text says grad school 2020-2025, so he may be a former member and count may be 12."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-alan-jasanoff",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI, ~10 postdocs/research staff, 1 visiting faculty, 1 undergraduate, 1 lab administrator, 2 lab staff",
+      "members_page_url": "https://jasanofflab.mit.edu/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Cached page was a wrong MIT directory; the home page names jasanofflab.mit.edu as canonical, fetched its People page and counted names before Lab Alumni."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-nancy-kanwisher",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 research scientists/scholars, 2 postdocs, 4 grad students, 1 post-bacc, 1 lab tech, 1 undergraduate",
+      "members_page_url": "http://web.mit.edu/bcs/nklab/people.shtml",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "ngk@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Former Lab Members; excluded the dog; page last updated May 2024."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-josh-mcdermott",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI, 3 postdocs, 9 grad students, 3 undergraduates, 1 lab administrator",
+      "members_page_url": "https://mcdermottlab.mit.edu/people.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted Lab Personnel; stopped at Lab Alumni."
+  },
+  {
+    "source": "data/sources/mit-mcgovern.json",
+    "lab_id": "mit-mcgovern-nidhi-seethapathi",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 4 postdoc-level (one, Chaix-Eichel, role not stated), 3 PhD students, 2 undergraduates",
+      "members_page_url": "http://www.seethapathilab.org/people-and-openings",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "nidhise@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted Current Group Members; alumni excluded."
+  }
+]

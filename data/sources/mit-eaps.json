@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/andrew-babbin/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'bablab.mit.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'bablab.mit.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Not sized, the site could not be read: Page is a scripts.mit.edu php2shell maintenance placeholder, no lab content."
     },
     {
       "id": "mit-eaps-kristin-bergmann",
@@ -132,13 +132,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Experimental geobiologist exploring modern processes in microbial systems to interpret the record of life on early Earth and other planets.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 postdoc, 3 graduate students",
+      "members_page_url": "https://www.experimentalgeobiology.mit.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/tanja-bosak/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://www.experimentalgeobiology.mit.edu/people)."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://www.experimentalgeobiology.mit.edu/people). Depth pass 2026-11-10: Counted before Former members."
     },
     {
       "id": "mit-eaps-kerri-cahoy",
@@ -154,13 +154,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Leads the Space Telecommunications, Astronomy, and Radiation Lab building nanosatellite laser communication systems and weather sensors.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 43,
+      "member_breakdown": "1 PI, 1 research scientist, 3 postdocs, 34 graduate researchers, 4 listed without role",
+      "members_page_url": "https://aeroastro.mit.edu/starlab/starlab-our-people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/kerri-cahoy/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'starlab.mit.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'starlab.mit.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted from fetched STAR Lab Members page headed '2024 - 2025', so the roster may be a year or more old."
     },
     {
       "id": "mit-eaps-camilla-cattania",
@@ -198,13 +198,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Climate scientist focused on regional-scale atmospheric dynamics and surface-atmosphere interactions to understand climate sensitivity.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 graduate students",
+      "members_page_url": "http://mit.edu/~twcronin/www/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/timothy-cronin/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://mit.edu/~twcronin/www/people.html)."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://mit.edu/~twcronin/www/people.html). Depth pass 2026-11-10: Counted before Group Alumni; page copyright 2023 and mentions a Fall 2024 student start, so likely old."
     },
     {
       "id": "mit-eaps-julien-de-wit",
@@ -220,13 +220,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Planetary scientist specializing in detecting and characterizing new worlds, from habitable-zone exoplanets to near-Earth asteroids.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 research scientists, 3 postdocs, 4 graduate students",
+      "members_page_url": "https://www.disruptiveplanets.mit.edu/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/julien-de-wit/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'disruptiveplanets.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://www.disruptiveplanets.mit.edu/team)."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'disruptiveplanets.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://www.disruptiveplanets.mit.edu/team). Depth pass 2026-11-10: Counted team list; 2 administration staff excluded; Jared Bryan appears only in the page body (not the menu) and is counted."
     },
     {
       "id": "mit-eaps-laurent-demanet",
@@ -330,13 +330,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Physical oceanographer building next-generation models to understand ocean circulation and the inner workings of climate.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 3 undergrads, 3 grad students, 6 postdocs/researchers",
+      "members_page_url": "http://ferrari.mit.edu/group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/raffaele-ferrari/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'ferrari.mit.edu' link; taken as the lab site because its own menu links a people or lab page (http://ferrari.mit.edu/group/)."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'ferrari.mit.edu' link; taken as the lab site because its own menu links a people or lab page (http://ferrari.mit.edu/group/). Depth pass 2026-11-10: Counted PI, undergrads, grads and postdocs; excluded listed collaborators and 2 administrative staff."
     },
     {
       "id": "mit-eaps-arlene-fiore",
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/arlene-fiore/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'teampaccc.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://teampaccc.mit.edu/our-team)."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'teampaccc.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://teampaccc.mit.edu/our-team). Depth pass 2026-11-10: Home page has no roster; fetched https://teampaccc.mit.edu/our-team (and a repeat) but only the first part of the long, duplicated roster was seen (PI, postdoc Giani, grad students Yu, Elkins, Dressel, Avila, more below), so no reliable count."
     },
     {
       "id": "mit-eaps-glenn-r-flierl",
@@ -418,13 +418,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Evolutionary biologist studying the co-evolution of life and environments across deep time using microbial molecular phylogenetics.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 grad students, 1 postdoc",
+      "members_page_url": "https://fournierlab.mit.edu/current-lab-members-and-alumni/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/gregory-fournier/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Count from fetched Current Lab Members list; alumni excluded."
     },
     {
       "id": "mit-eaps-william-frank",
@@ -572,13 +572,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Investigates large-scale atmospheric and oceanic dynamics, and their effects on the climate of Earth and other planetary bodies.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 2 postdocs, 3 PhD students",
+      "members_page_url": "https://wanyingkang.com/group-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/wanying-kang/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'wanyingkang.com' link; taken as the lab site because its own menu links a people or lab page (https://wanyingkang.com/group-members/)."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'wanyingkang.com' link; taken as the lab site because its own menu links a people or lab page (https://wanyingkang.com/group-members/). Depth pass 2026-11-10: Group Members list with start years; Old Friends excluded."
     },
     {
       "id": "mit-eaps-john-marshall",
@@ -594,13 +594,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Oceanographer known for breakthroughs in modeling ocean circulation, and insights into the role of the oceans in climate.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 research scientist",
+      "members_page_url": "http://oceans.mit.edu/JohnMarshall/group",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/john-marshall/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://oceans.mit.edu/JohnMarshall/group)."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://oceans.mit.edu/JohnMarshall/group). Depth pass 2026-11-10: Research Group lists PI and research scientist Jeffrey Scott; admin assistant excluded; page may be sparse."
     },
     {
       "id": "mit-eaps-david-mcgee",
@@ -616,13 +616,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Specializes in isotope geochemistry and geochronology to reconstruct Earth’s climate history and improve future climate projections.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 program scientist, 1 postdoc, 3 grad students",
+      "members_page_url": "https://www.mcgeelab.mit.edu/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/david-mcgee/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'mcgeelab.mit.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'mcgeelab.mit.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Current roster above Former group members."
     },
     {
       "id": "mit-eaps-lyle-nelson",
@@ -682,13 +682,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Explores atmospheric dynamics and extreme precipitation events with a focus on the response to climate change.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 postdocs, 3 grad students",
+      "members_page_url": "http://pog.mit.edu/group.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/paul-ogorman/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'pog.mit.edu' link; taken as the lab site because its own menu links a people or lab page (http://pog.mit.edu/group.html)."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'pog.mit.edu' link; taken as the lab site because its own menu links a people or lab page (http://pog.mit.edu/group.html). Depth pass 2026-11-10: Research Group list above Former students and postdocs."
     },
     {
       "id": "mit-eaps-shuhei-ono",
@@ -704,13 +704,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Geochemist using stable isotopes to study how microbes catalyze chemical reactions and shape the chemistry of our atmosphere and oceans.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 research scientist, 1 postdoc, 3 PhD students, 2 UROPs",
+      "members_page_url": "https://ono.mit.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/shuhei-ono/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'ono.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://ono.mit.edu/people)."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'ono.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://ono.mit.edu/people). Depth pass 2026-11-10: Current Members list; excluded the lab puppy and Alumni."
     },
     {
       "id": "mit-eaps-mat-j-pe",
@@ -732,7 +732,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/matej-pec/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Not sized, the site could not be read: Cached page is a scripts.mit.edu PHP-disabled maintenance notice, not the lab site."
     },
     {
       "id": "mit-eaps-taylor-perron",
@@ -748,13 +748,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Investigates how geology, climate, and life intertwine to shape the landscapes of Earth and other planets.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 postdocs, 9 grad students",
+      "members_page_url": "https://taylorperron.org/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/taylor-perron/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'taylorperron.org' link; taken as the lab site because its own menu links a people or lab page (https://taylorperron.org/people/)."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'taylorperron.org' link; taken as the lab site because its own menu links a people or lab page (https://taylorperron.org/people/). Depth pass 2026-11-10: Count from People page; 2 administrative staff excluded; some grads are primarily in other groups."
     },
     {
       "id": "mit-eaps-raymond-t-pierrehumbert",
@@ -764,7 +764,7 @@
       "pi_title": "Professor of the Practice",
       "pi_email": "rpierre@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": "https://users.physics.ox.ac.uk/~pierrehumbert/",
+      "lab_website": null,
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -776,7 +776,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/raymond-pierrehumbert/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://users.physics.ox.ac.uk/~pierrehumbert/people/People.html)."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://users.physics.ox.ac.uk/~pierrehumbert/people/People.html). Depth pass 2026-11-10: lab_website cleared again: on reading, the website link on the profile page (https://users.physics.ox.ac.uk/~pierrehumbert/) is not this PI's lab site. OLD: page footer is 2018 (a member is listed as DPhil 2019), so the roster is likely stale; includes some fellows at other institutions; Oxford-based group."
     },
     {
       "id": "mit-eaps-ronald-g-prinn",
@@ -842,7 +842,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/daniel-rothman/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'rothmangroup.mit.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'rothmangroup.mit.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Home page lists no members; the 'current and past students and postdocs' link resolves to the same home page text, so no roster is visible."
     },
     {
       "id": "mit-eaps-leigh-royden",
@@ -921,16 +921,16 @@
       "lab_website": "http://www.selingroup.org",
       "location": null,
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Amy Kaczur",
       "admin_email": null,
       "research_summary": "Atmospheric chemist applying modeling to inform decision-making on air pollution, climate change, and persistent toxins like mercury.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 4 postdocs, 6 PhD students",
+      "members_page_url": "http://www.selingroup.org/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/noelle-eckley-selin/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'selingroup.org' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'selingroup.org' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: People page lists Faculty, Postdocs and Graduate Students above Alumni; group administrator excluded from count."
     },
     {
       "id": "mit-eaps-jason-soderblom",
@@ -968,13 +968,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Atmospheric chemist and climate scientist, best known for work to explain the Antarctic ozone hole and its link to CFC emissions.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 visiting scientist, 1 postdoc, 3 grad students, 1 undergrad",
+      "members_page_url": "https://www.ssolomongroup.mit.edu/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/susan-solomon/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'ssolomongroup.mit.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'ssolomongroup.mit.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Current list above PAST MEMBERS; 2 administrative/financial staff excluded."
     },
     {
       "id": "mit-eaps-gaia-stucky-de-quay",
@@ -1012,13 +1012,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Works at the interface between weather and climate, studying atmospheric temperature variability and how it responds to climate change.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI (added, not listed), 2 postdocs, 3 PhD students",
+      "members_page_url": "https://taliatamarin.wixsite.com/taliatamarin/group",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/talia-tamarin-brodsky/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://taliatamarin.wixsite.com/taliatamarin/group)."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://taliatamarin.wixsite.com/taliatamarin/group). Depth pass 2026-11-10: Group page lists 5 members without the PI; added 1 for PI since the site is hers. Footer is 2023, may be somewhat old."
     },
     {
       "id": "mit-eaps-richard-teague",
@@ -1100,13 +1100,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Marine carbon chemist studying the acid/base balance of the oceans and the impacts of CO2 with a focus on the underlying physical chemistry.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 2,
+      "member_breakdown": "1 PI (Principal Research Scientist), 1 postdoc",
+      "members_page_url": "https://woosley.mit.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/ryan-woosley/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://woosley.mit.edu/people/)."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://woosley.mit.edu/people/). Depth pass 2026-11-10: People page lists PI and one postdoc."
     },
     {
       "id": "mit-eaps-maria-zuber",

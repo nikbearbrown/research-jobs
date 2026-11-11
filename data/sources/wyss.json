@@ -24,13 +24,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Works on structural nanomedicine, including engineered materials for drug delivery and tissue repair.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 30,
+      "member_breakdown": "1 PI, 2 staff, 2 instructors, 8 postdocs, 6 grad students, 11 undergrads/interns",
+      "members_page_url": "https://www.natalieartzi.com/team",
+      "join_page_url": "https://www.natalieartzi.com/positions",
       "join_notes": null,
       "profile_url": "https://wyss.harvard.edu/team/core-faculty/natalie-artzi-ph-d/",
-      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Dr. Artzi’s laboratory')."
+      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Dr. Artzi’s laboratory'). Depth pass 2026-11-10: Counted all names above Alumni on the team page."
     },
     {
       "id": "wyss-christopher-chen",
@@ -46,13 +46,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Develops engineered cellular microenvironments to understand and control how cells build tissues.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 10 postdocs, 4 grad students, 2 lab staff",
+      "members_page_url": "https://www.chrischenlab.com/lab-members-1",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://wyss.harvard.edu/team/core-faculty/christopher-chen/",
-      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Chen Tissue Microfabrication Lab')."
+      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Chen Tissue Microfabrication Lab'). Depth pass 2026-11-10: Counted all names on the lab members page."
     },
     {
       "id": "wyss-george-church",
@@ -90,13 +90,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Reprograms bacteria and other organisms for tasks such as detecting and treating infections, working in synthetic and systems biology.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 29,
+      "member_breakdown": "1 PI, 11 postdocs, 1 clinical scholar, 3 research scientists, 12 grad students, 1 lab coordinator",
+      "members_page_url": "http://collinslab.mit.edu/lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://wyss.harvard.edu/team/core-faculty/james-collins/",
-      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Collins Lab')."
+      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Collins Lab'). Depth pass 2026-11-10: Counted all names on the lab members page (MIT lab; 'Read more' are per-person links)."
     },
     {
       "id": "wyss-donald-ingber",
@@ -140,7 +140,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://wyss.harvard.edu/team/core-faculty/jennifer-lewis/",
-      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Lewis Group'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Lewis Group'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Not sized, the site could not be read: Site returns Access Denied. The site refuses the project's fetcher; not worked around."
     },
     {
       "id": "wyss-samir-mitragotri",
@@ -162,7 +162,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://wyss.harvard.edu/team/core-faculty/samir-mitragotri/",
-      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: no email shown on the PI's Wyss profile page even after --render. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Mitragotri Laboratory for Drug Delivery')."
+      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: no email shown on the PI's Wyss profile page even after --render. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Mitragotri Laboratory for Drug Delivery'). Depth pass 2026-11-10: Cached page for drugdelivery.seas.harvard.edu/lab/members is the home page with no roster (appears to be the same lab as harvard-seas-samir-mitragotri, whose own site was counted at 28)."
     },
     {
       "id": "wyss-david-mooney",
@@ -184,7 +184,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://wyss.harvard.edu/team/core-faculty/david-mooney/",
-      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Mooney Lab: Laboratory for Cell and Tissue Engineering'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Mooney Lab: Laboratory for Cell and Tissue Engineering'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Not sized, the site could not be read: Site returns Access Denied. The site refuses the project's fetcher; not worked around."
     },
     {
       "id": "wyss-william-shih",
@@ -228,7 +228,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://wyss.harvard.edu/team/core-faculty/pamela-silver/",
-      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Silver Lab')."
+      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Silver Lab'). Depth pass 2026-11-10: Not sized, the site could not be read: Silver.med.harvard.edu failed to load (certificate name invalid), nothing cached."
     },
     {
       "id": "wyss-david-walt",
@@ -244,13 +244,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Develops diagnostic tools and biomarker assays based on single-molecule detection, applied to early cancer detection and neurodegenerative disease.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 26,
+      "member_breakdown": "1 PI (added), 11 postdocs, 2 staff scientists, 2 grad students, 9 research assistants, 1 visiting scientist",
+      "members_page_url": "https://waltlab.bwh.harvard.edu/current-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://wyss.harvard.edu/team/core-faculty/david-walt/",
-      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Walt Laboratory: Advanced Diagnostics')."
+      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Walt Laboratory: Advanced Diagnostics'). Depth pass 2026-11-10: PI not on the Current Members roster; added 1 for site's own PI; counted all listed members."
     },
     {
       "id": "wyss-peng-yin",
@@ -294,7 +294,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://wyss.harvard.edu/team/associate-faculty/joanna-aizenberg/",
-      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Aizenberg Biomineralization and Biomimetics Lab'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Aizenberg Biomineralization and Biomimetics Lab'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Not sized, the site could not be read: Site returns Access Denied. The site refuses the project's fetcher; not worked around."
     },
     {
       "id": "wyss-sangeeta-bhatia",
@@ -332,13 +332,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Develops biologically inspired materials, devices and pharmacotherapeutics based on molecular engineering and nanofabrication.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI (added), 2 assistant professors, 3 instructors, 1 postdoc, 5 grad students, 3 research assistants, 2 undergrads",
+      "members_page_url": "http://www.chaikoflab.org/lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://wyss.harvard.edu/team/associate-faculty/elliot-chaikof/",
-      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Chaikof Lab')."
+      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Chaikof Lab'). Depth pass 2026-11-10: PI not listed on the roster so added 1; counted all lab members; page copyright 2022 so may be stale."
     },
     {
       "id": "wyss-georg-duda",
@@ -426,7 +426,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://wyss.harvard.edu/team/associate-faculty/michael-levin-ph-d/",
-      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Levin Lab')."
+      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Levin Lab'). Depth pass 2026-11-10: Current list mixes Levin Lab members with Allen Discovery Center staff (deputy director, administrative director, financial director, facilities manager); about 66 names, so lab size not reliably separable. PI not listed."
     },
     {
       "id": "wyss-jarad-mason",
@@ -552,13 +552,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies the physical basis of how biological systems work at the nanoscale; Investigator at Boston Children's Hospital.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 2 instructors, 5 postdocs, 2 staff scientists, 2 grad students, 1 administrative assistant",
+      "members_page_url": "https://www.wonglab.tch.harvard.edu/members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://wyss.harvard.edu/team/associate-faculty/wesley-wong/",
-      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Wong Lab')."
+      "notes": "Breadth pass only: listed on the Wyss Institute's Core/Associate Faculty team-category page. Lab website, member count and join info not yet read; many of these PIs' primary labs are based in other departments (e.g. Harvard SEAS, MIT, BU, BIDMC) whose own source file may already or will separately cover them -- cross-check before assuming this is the only record. Email pass: found on the PI's own Wyss profile page (required --render to reveal, JS-obfuscated in static HTML). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Wong Lab'). Depth pass 2026-11-10: Fetched Members page linked from home; counted all listed."
     },
     {
       "id": "wyss-chao-ting-wu",

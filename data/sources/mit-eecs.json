@@ -126,7 +126,7 @@
       "pi_title": "Thomas and Gerd Perkins Professor of Electrical Engineering and Computer Science; Professor of EE, [EE]",
       "pi_email": "akinwand@mtl.mit.edu",
       "accepting_grad_students": null,
-      "lab_website": "http://mtlweb.mit.edu/~akinwand/",
+      "lab_website": null,
       "location": "MIT, Office 39-553",
       "phone": "(617) 258-7974",
       "admin_name": null,
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/akintunde-akinwande/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://mtlweb.mit.edu/~akinwand/people.html)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://mtlweb.mit.edu/~akinwand/people.html). Depth pass 2026-11-10: lab_website cleared again: on reading, the website link on the profile page (http://mtlweb.mit.edu/~akinwand/) is not this PI's lab site. Not sized, the site is not one PI's own group: People page is only the PI's bio (profile page, copyright 2008) with no roster."
     },
     {
       "id": "mit-eecs-mohammad-alizadeh",
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/ahmad-bahai/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://waves-bits-molecules.mit.edu/people/)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://waves-bits-molecules.mit.edu/people/). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: Waves, Bits & Molecules Laboratory is an RLE lab with multiple core faculty; cached people page shows no names anyway."
     },
     {
       "id": "mit-eecs-hari-balakrishnan",
@@ -308,13 +308,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Artificial Intelligence + Machine Learning, Information Science and Systems, Optimization and Game Theory",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 3 postdocs, 9 PhD students",
+      "members_page_url": "https://stephenbates19.github.io/group.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/stephen-bates/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://stephenbates19.github.io/group.html)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://stephenbates19.github.io/group.html). Depth pass 2026-11-10: Research group list above Alumni; several are joint with other advisors."
     },
     {
       "id": "mit-eecs-sara-beery",
@@ -380,7 +380,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/karl-berggren/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://qnn-rle.mit.edu/people/)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://qnn-rle.mit.edu/people/). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: Quantum Nanostructures and Nanofabrication Group is co-led by Karl Berggren and Donnie Keathley (roster would be ~30 people)."
     },
     {
       "id": "mit-eecs-robert-berwick",
@@ -418,13 +418,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Biological and Medical Devices and Systems, Computational Fabrication and Manufacturing, Nanoscale Materials, Devices, and Systems",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 25,
+      "member_breakdown": "1 PI, 4 postdocs (incl. 2 co-advised), 1 research scientist, 1 clinical fellow, 6 grad students, 2 technicians/associates, lab manager, research director, associate director",
+      "members_page_url": "http://lmrt.mit.edu/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/sangeeta-bhatia/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://lmrt.mit.edu/team)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://lmrt.mit.edu/team). Depth pass 2026-11-10: Counted PI and team page members excluding 2 administrative assistants/coordinator; alumni excluded; footer says 2021 but roster has 2025-26 entries. Approximate role split."
     },
     {
       "id": "mit-eecs-abigail-bodner",
@@ -528,13 +528,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Biological and Medical Devices and Systems, Human-Computer Interaction, Integrated Circuits and Systems",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 3 postdocs, 6 PhD students, 1 Master's student",
+      "members_page_url": "https://mit-pel.com/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/jas-brooks/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://mit-pel.com/team/)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://mit-pel.com/team/). Depth pass 2026-11-10: Excluded administrator and the external collaborator."
     },
     {
       "id": "mit-eecs-david-alexander-bruns-smith",
@@ -770,13 +770,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Electronic, Magnetic, Optical and Quantum Materials and Devices, Energy",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 8 PhD students, 2 M.Eng, 4 UROPs (1 not pictured)",
+      "members_page_url": "https://coday.mit.edu/?page_id=12",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/sam-coday/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://coday.mit.edu/?page_id=12)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://coday.mit.edu/?page_id=12). Depth pass 2026-11-10: Counted Student Researchers and Not pictured UROP; Alumni excluded."
     },
     {
       "id": "mit-eecs-connor-wilson-coley",
@@ -792,13 +792,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Artificial Intelligence + Machine Learning, Biological and Medical Devices and Systems",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 38,
+      "member_breakdown": "1 PI, 4 postdocs, 21 PhD students (1 visiting), 1 software developer, 11 undergrad/UROP",
+      "members_page_url": "https://coley.mit.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/connor-wilson-coley/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://coley.mit.edu/people)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://coley.mit.edu/people). Depth pass 2026-11-10: People page dated October 2026; alumni excluded."
     },
     {
       "id": "mit-eecs-henry-corrigan-gibbs",
@@ -1056,13 +1056,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: AI and Society, Artificial Intelligence + Machine Learning, Energy",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 7 PhD students, 3 undergrads",
+      "members_page_url": "https://priyadonti.com/group",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/priya-donti/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://priyadonti.com/group)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://priyadonti.com/group). Depth pass 2026-11-10: Current Members list; Past Members excluded."
     },
     {
       "id": "mit-eecs-frederic-durand",
@@ -1518,13 +1518,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Biological and Medical Devices and Systems, Electronic, Magnetic, Optical and Quantum Materials and Devices, Integrated Circuits and Systems",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 11 PhD students, 2 M.Eng, 3 undergrads",
+      "members_page_url": "https://hangroup.mit.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/ruonan-han/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Fetched the people page (worklist people_url was one student's page); page says 16 current members plus PI."
     },
     {
       "id": "mit-eecs-song-han",
@@ -1533,20 +1533,20 @@
       "pi_name": "Song Han",
       "pi_title": "Associate Professor, [EE and CS]",
       "pi_email": "songhan@mit.edu",
-      "accepting_grad_students": null,
+      "accepting_grad_students": false,
       "lab_website": "https://songhan.mit.edu",
       "location": "MIT, Office 38-344",
       "phone": "(617) 253-0086",
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Artificial Intelligence + Machine Learning, Computer Architecture, Integrated Circuits and Systems",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 7 PhD students, 0 postdocs",
+      "members_page_url": "https://hanlab.mit.edu/team",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Team page says the lab is currently full in capacity.",
       "profile_url": "https://www.eecs.mit.edu/people/song-han/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://songhan.mit.edu/team)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://songhan.mit.edu/team). Depth pass 2026-11-10: Fetched hanlab.mit.edu/team (cached songhan.mit.edu/team was just the home page); Postdoctoral 'Currently None'; Graduated excluded; page says lab is currently full."
     },
     {
       "id": "mit-eecs-silvina-hanono-wachman",
@@ -1760,13 +1760,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Energy",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 10 PhD/SDM students, 2 visitors/UROP",
+      "members_page_url": "https://eesg.mit.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/marija-ilic/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://eesg.mit.edu/people)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://eesg.mit.edu/people). Depth pass 2026-11-10: Counted Principal Investigator, Students and Visitors; Postdocs heading empty; Recent Members excluded (some undated entries there are ambiguous)."
     },
     {
       "id": "mit-eecs-piotr-indyk",
@@ -2216,7 +2216,7 @@
       "pi_title": "Advanced Television and Signal Processing (ATSP) Professor, [EE]",
       "pi_email": "hslee@mtl.mit.edu",
       "accepting_grad_students": null,
-      "lab_website": "http://www-mtl.mit.edu/researchgroups/hslee/",
+      "lab_website": null,
       "location": "MIT, Office 39-521",
       "phone": "(617) 253-5174",
       "admin_name": null,
@@ -2228,7 +2228,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/hae-seung-harry-lee/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab_website cleared again: on reading, the website link on the profile page (http://www-mtl.mit.edu/researchgroups/hslee/) is not this PI's lab site. Not sized, the site is not one PI's own group: Personal faculty profile page (home, publications, patents); no group roster."
     },
     {
       "id": "mit-eecs-steven-leeb",
@@ -2664,11 +2664,11 @@
       "research_summary": "Research areas: Artificial Intelligence + Machine Learning, Theory of Computation",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "http://people.csail.mit.edu/moitra/group.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/ankur-moitra/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://people.csail.mit.edu/moitra/group.html)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://people.csail.mit.edu/moitra/group.html). Depth pass 2026-11-10: Group page lists students and postdocs together with past members with no current/former headings (some marked 'Now:', others not), so current members cannot be told apart."
     },
     {
       "id": "mit-eecs-robert-morris",
@@ -2794,13 +2794,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Electronic, Magnetic, Optical and Quantum Materials and Devices, Energy, Nanoscale Materials, Devices, and Systems",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 7 PhD students, 1 undergrad",
+      "members_page_url": "https://niroui.mit.edu/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/farnaz-niroui-0/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://niroui.mit.edu/team/)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://niroui.mit.edu/team/). Depth pass 2026-11-10: Administrative assistant excluded; alumni excluded (one name appears in both lists)."
     },
     {
       "id": "mit-eecs-jelena-notaros",
@@ -2816,13 +2816,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Biological and Medical Devices and Systems, Communications Systems, Electronic, Magnetic, Optical and Quantum Materials and Devices",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 5 grad students, 2 undergrads",
+      "members_page_url": "http://www.mit.edu/~notaros/team.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/jelena-notaros/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://www.mit.edu/~notaros/team.html)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://www.mit.edu/~notaros/team.html). Depth pass 2026-11-10: Administrative assistant excluded; newest dated item is May 2024, so roster may be dated."
     },
     {
       "id": "mit-eecs-kevin-p-o-brien",
@@ -2838,13 +2838,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Electronic, Magnetic, Optical and Quantum Materials and Devices, Nanoscale Materials, Devices, and Systems, Quantum Computing, Communication, and Sensing",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 19,
+      "member_breakdown": "1 PI, 1 postdoc, 10 grad students, 7 undergrads",
+      "members_page_url": "https://qce.mit.edu/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/kevin-p-obrien/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://qce.mit.edu/people.html)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://qce.mit.edu/people.html). Depth pass 2026-11-10: Administrative assistant excluded; footer 2020-2025."
     },
     {
       "id": "mit-eecs-william-d-oliver",
@@ -2926,13 +2926,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: AI and Society, Artificial Intelligence + Machine Learning, Optimization and Game Theory",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 6 grad students, 2 postdocs",
+      "members_page_url": "https://asu.mit.edu/research-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/asu-ozdaglar/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://asu.mit.edu/research-group/)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://asu.mit.edu/research-group/). Depth pass 2026-11-10: Fetched Research Group page; OLD: roster looks about a decade stale (former members and photo from the early 2010s)."
     },
     {
       "id": "mit-eecs-tom-s-palacios",
@@ -2970,13 +2970,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Artificial Intelligence + Machine Learning, Information Science and Systems, Optimization and Game Theory",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 8 current students, 1 postdoc",
+      "members_page_url": "https://www.mit.edu/~parrilo/group.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/pablo-parrilo/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://www.mit.edu/~parrilo/group.html)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://www.mit.edu/~parrilo/group.html). Depth pass 2026-11-10: Page says 'under construction'; Former group members excluded."
     },
     {
       "id": "mit-eecs-david-perreault",
@@ -3014,13 +3014,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Artificial Intelligence + Machine Learning, Communications Systems, Information Science and Systems",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 5 current members",
+      "members_page_url": "http://people.lids.mit.edu/yp/homepage/groups.shtml",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/yury-polyanskiy/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://people.lids.mit.edu/yp/homepage/groups.shtml)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://people.lids.mit.edu/yp/homepage/groups.shtml). Depth pass 2026-11-10: Fetched Research Group page; undated list of 5 current members, roles not given."
     },
     {
       "id": "mit-eecs-mariana-popescu",
@@ -3124,13 +3124,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Computational Fabrication and Manufacturing, Information Science and Systems, Signal Processing",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 PhD students, 3 Master's students, 1 undergrad",
+      "members_page_url": "https://lama.mit.edu/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/mark-rau/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://lama.mit.edu/team/)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://lama.mit.edu/team/). Depth pass 2026-11-10: Previous members and mascots excluded."
     },
     {
       "id": "mit-eecs-lindsey-raymond",
@@ -3168,13 +3168,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Electronic, Magnetic, Optical and Quantum Materials and Devices, Integrated Circuits and Systems",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 4 PhD students, 2 undergrad/M.Eng students",
+      "members_page_url": "http://radiuslab.mit.edu/team.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/negar-reiskarimian/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Alumni excluded."
     },
     {
       "id": "mit-eecs-martin-rinard",
@@ -3338,19 +3338,19 @@
       "pi_title": "Assistant Professor / Shared Appointment in BCS, [AI+D]",
       "pi_email": "nidhise@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": "http://www.seethapathilab.org​",
+      "lab_website": "http://www.seethapathilab.org",
       "location": null,
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: AI for Healthcare and Life Sciences, Biological and Medical Devices and Systems",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI plus 9 current members (roles not stated)",
+      "members_page_url": "http://www.seethapathilab.org/people-and-openings",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/seethapathi-assistant-professor/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Current Group Members list; roles not shown; worklist URL contains a zero-width character which I dropped."
     },
     {
       "id": "mit-eecs-devavrat-shah",
@@ -3366,13 +3366,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: AI and Society, Artificial Intelligence + Machine Learning, Information Science and Systems",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 6 PhD students, 2 postdocs",
+      "members_page_url": "https://devavrat.mit.edu/members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/devavrat-shah/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://devavrat.mit.edu/members/)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://devavrat.mit.edu/members/). Depth pass 2026-11-10: OLD: students listed (e.g. Anish Agarwal, Sarah Cen) suggest a roster several years old."
     },
     {
       "id": "mit-eecs-jeffrey-shapiro",
@@ -3514,7 +3514,7 @@
       "pi_title": "Founder & Co-Director, Medical Electronic Device Realization Center (MEDRC); Clarence J. LeBel Professor of Electrical Engineering (Post-Tenure), [EE]",
       "pi_email": "sodini@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": "http://www-mtl.mit.edu/researchgroups/sodini/",
+      "lab_website": null,
       "location": "MIT, Office 39-527B",
       "phone": "(617) 253-4938",
       "admin_name": null,
@@ -3526,7 +3526,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/charles-sodini/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab_website cleared again: on reading, the website link on the profile page (http://www-mtl.mit.edu/researchgroups/sodini/) is not this PI's lab site. Not sized, the site is not one PI's own group: MEDRC (Medical Electronic Device Realization Center) site, not Sodini's own lab; no roster."
     },
     {
       "id": "mit-eecs-armando-solar-lezama",
@@ -3733,20 +3733,20 @@
       "pi_name": "Antonio Torralba",
       "pi_title": "Faculty Head, AI+D; Delta Electronics Professor, [AI+D]",
       "pi_email": "torralba@csail.mit.edu",
-      "accepting_grad_students": null,
+      "accepting_grad_students": true,
       "lab_website": "https://groups.csail.mit.edu/vision/torralbalab/",
       "location": "MIT, Office 45-741G",
       "phone": "(617) 324-0900",
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Artificial Intelligence + Machine Learning, Graphics and Vision",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 9 grad students, 2 postdocs",
+      "members_page_url": "https://groups.csail.mit.edu/vision/torralbalab/",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Page says he plans to admit new graduate students; apply via the graduate admissions portal, no individual inquiries answered.",
       "profile_url": "https://www.eecs.mit.edu/people/antonio-torralba/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Lab Members list on home page; past members excluded; assistant excluded."
     },
     {
       "id": "mit-eecs-john-tsitsiklis",
@@ -3806,13 +3806,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Artificial Intelligence + Machine Learning, Security and Cryptography, Theory of Computation",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 PhD/M.Eng students, 2 postdocs",
+      "members_page_url": "http://people.csail.mit.edu/vinodv/group.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/vinod-vaikuntanathan/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://people.csail.mit.edu/vinodv/group.html)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://people.csail.mit.edu/vinodv/group.html). Depth pass 2026-11-10: Alumni lists excluded."
     },
     {
       "id": "mit-eecs-george-verghese",
@@ -3872,13 +3872,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Artificial Intelligence + Machine Learning, Information Science and Systems, Optimization and Game Theory",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 6 grad students, 1 postdoc",
+      "members_page_url": "https://wainwrigwork.github.io/group.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/martin-wainwright/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://wainwrigwork.github.io/group.html)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://wainwrigwork.github.io/group.html). Depth pass 2026-11-10: Current students and postdocs; alumni excluded."
     },
     {
       "id": "mit-eecs-cardinal-warde",
@@ -4048,13 +4048,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Biological and Medical Devices and Systems, Electronic, Magnetic, Optical and Quantum Materials and Devices, Optics + Photonics",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 staff support, 1 postdoc, 7 grad students, 1 undergrad, 2 visiting students",
+      "members_page_url": "https://yougroup.mit.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/sixian-you/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted from fetched people page (13 mailto entries incl. PI); alumni excluded."
     },
     {
       "id": "mit-eecs-nickolai-zeldovich",
@@ -4114,13 +4114,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research areas: Computer Architecture, Information Science and Systems, Quantum Computing, Communication, and Sensing",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 PhD students, 1 MEng student",
+      "members_page_url": "https://zphy.github.io/people.html",
+      "join_page_url": "https://zphy.github.io/join.html",
       "join_notes": null,
       "profile_url": "https://www.eecs.mit.edu/people/harryzhou/",
-      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://zphy.github.io/people.html)."
+      "notes": "Breadth pass from the EECS People directory (230 entries total). Research tags are the directory's own topic-filter labels, not a one-sentence summary written by us -- kept as-is since no other description was shown. Lab website/member count/join info are a later per-PI pass. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://zphy.github.io/people.html). Depth pass 2026-11-10: People page 'Current Team'; excluded the incoming postdoc (not yet current) and the cat 'Kuro'."
     }
   ],
   "non_lab_people": [

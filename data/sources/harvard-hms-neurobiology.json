@@ -447,7 +447,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://neuro.hms.harvard.edu/faculty-staff/joshua-kaplan",
-      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Kaplan Lab')."
+      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Kaplan Lab'). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: Lab_website redirects to the MGH Department of Molecular Biology site; the people page is a department faculty list, not Kaplan's own group."
     },
     {
       "id": "harvard-hms-neurobiology-wei-chung-allen-lee",
@@ -821,7 +821,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://neuro.hms.harvard.edu/faculty-staff/clifford-woolf",
-      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Depth pass 2026-11-10: lab_website read from the profile page's 'kirbyneuro.org/WoolfLab/' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Depth pass 2026-11-10: lab_website read from the profile page's 'kirbyneuro.org/WoolfLab/' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Not sized, the site is not one PI's own group: Lab_website lands on the F.M. Kirby Neurobiology Center site; its People page lists center faculty and staff, not a Woolf lab roster."
     },
     {
       "id": "harvard-hms-neurobiology-gary-yellen",

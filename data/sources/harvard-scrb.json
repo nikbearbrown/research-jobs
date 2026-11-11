@@ -22,13 +22,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies the molecular laws governing the birth, differentiation and assembly of the cerebral cortex, integrating developmental and evolutionary approaches toward brain-repair therapies and neuropsychiatric disease models.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 25,
+      "member_breakdown": "1 PI, 12 postdocs/affiliates/visiting scholars, 1 staff scientist, 2 PhD candidates, 3 institute fellows, 2 undergraduates, 3 technical staff, 1 lab manager",
+      "members_page_url": "https://hscrb.harvard.edu/labs/arlotta-lab/people/",
+      "join_page_url": "https://hscrb.harvard.edu/jobs/",
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/arlotta-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/arlotta-lab/people/)."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/arlotta-lab/people/). Depth pass 2026-11-10: Counted the People page."
     },
     {
       "id": "harvard-scrb-buenrostro",
@@ -44,13 +44,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Advances knowledge of gene regulation and its downstream consequences on cell fate decisions.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 27,
+      "member_breakdown": "1 PI, 1 operations director, 15 postdocs, 6 grad students, 4 research assistants",
+      "members_page_url": "http://buenrostrolab.com/people",
+      "join_page_url": "http://buenrostrolab.com/join-us",
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/buenrostro-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Profile page (hscrb.harvard.edu) read; no email shown. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Buenrostro Lab website')."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Profile page (hscrb.harvard.edu) read; no email shown. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Buenrostro Lab website'). Depth pass 2026-11-10: Counted from the People page roster (no alumni section)."
     },
     {
       "id": "harvard-scrb-camargo",
@@ -64,15 +64,15 @@
       "location": null,
       "phone": null,
       "admin_name": null,
-      "admin_email": null,
+      "admin_email": "Aubrey.Plumb@childrens.harvard.edu",
       "research_summary": "Studies adult stem cell biology, organ size regulation, and cancer.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI (added, not on roster), 4 postdocs/research fellows, 1 research technician, 3 PhD students",
+      "members_page_url": "https://camargolab.squarespace.com/current-lab-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/camargo-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Camargo Lab website')."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Camargo Lab website'). Depth pass 2026-11-10: Fetched Current Lab Members page; PI not listed on the roster so 1 added; count = 8 listed + PI."
     },
     {
       "id": "harvard-scrb-chen",
@@ -88,13 +88,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Builds tools bridging single-cell genomics with space and time to localize cell types and transcriptional programs within intact tissues.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 21,
+      "member_breakdown": "1 PI, 6 postdocs, 11 grad students, 1 undergrad, 1 lab operations manager, 1 executive assistant",
+      "members_page_url": "https://www.insitubiology.org/team",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Email chenf@broadinstitute.org to join (per team page).",
       "profile_url": "https://hscrb.harvard.edu/labs/chen-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Chen Lab website')."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Chen Lab website'). Depth pass 2026-11-10: Counted the \"current members\" list up to Amazing Alumni; excluded Fei.I (listed as a lab AI assistant)."
     },
     {
       "id": "harvard-scrb-fishman",
@@ -110,13 +110,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies the heart-brain connection using genetic, developmental and neurobiological tools in zebrafish.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 lab manager, 6 postdocs, 1 fellow, 1 post-bac, 2 undergrads, 1 research assistant, 2 aquatics facility staff",
+      "members_page_url": "https://hscrb.harvard.edu/labs/fishman-lab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/fishman-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/fishman-lab/people/)."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/fishman-lab/people/). Depth pass 2026-11-10: Counted the people page up to Alumni; includes the 2 Aquatics Facility staff listed under the lab."
     },
     {
       "id": "harvard-scrb-flynn",
@@ -132,13 +132,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Explores how biopolymers such as RNA and glycans work together to control cellular processes in human disease.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 1 clinical instructor, 7 postdocs, 6 PhD candidates, 1 master's student, 1 staff scientist",
+      "members_page_url": "http://www.rafrna.com/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/flynn-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Flynn Lab website')."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Flynn Lab website'). Depth pass 2026-11-10: Counted the Lab Members section of the single-page site, stopping at Lab Alumni."
     },
     {
       "id": "harvard-scrb-franklin",
@@ -154,13 +154,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Explores the innate immune system's role in tissue repair and homeostasis, focusing on macrophage/non-immune cell communication.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 lab manager, 4 postdocs, 4 grad students",
+      "members_page_url": "https://www.ruthfranklinlab.com/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/franklin-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Franklin Lab website')."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Franklin Lab website'). Depth pass 2026-11-10: Counted team page before Lab Alumni; excluded 3 unlabelled names with external links (Theodosiou, Li, Medzhitov) that sit between the PI and Alumni and appear not to be current members."
     },
     {
       "id": "harvard-scrb-hsu",
@@ -176,13 +176,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies the principles and molecular nature of cell-cell interactions governing development, regeneration and injury repair in the skin.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 1 faculty coordinator, 5 postdocs/fellows, 4 grad students, 1 master's student, 2 undergrads, 1 visiting fellow, 1 research assistant",
+      "members_page_url": "https://hsulaboratory.org/hsu-lab-team/",
+      "join_page_url": "https://hsulaboratory.org/join-the-hsu-lab/",
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/hsu-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Hsu Lab website')."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Hsu Lab website'). Depth pass 2026-11-10: Counted team page up to Lab Alumni."
     },
     {
       "id": "harvard-scrb-hyman",
@@ -220,13 +220,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies heart failure and metabolic diseases of aging, translating findings into therapies.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 22,
+      "member_breakdown": "1 PI, 8 postdocs, 2 associates, 4 grad students, 7 undergrads",
+      "members_page_url": "https://hscrb.harvard.edu/labs/lee-lab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/lee-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/lee-lab/people/)."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/lee-lab/people/). Depth pass 2026-11-10: Counted people page; excluded the faculty assistant who is shared with the McKinley lab."
     },
     {
       "id": "harvard-scrb-macklis",
@@ -248,7 +248,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/macklis-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Macklis Lab website')."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Macklis Lab website'). Depth pass 2026-11-10: Not sized, the site could not be read: Site returned an Access Denied (edgesuite) error to the cached fetch, no content. The site refuses the project's fetcher; not worked around."
     },
     {
       "id": "harvard-scrb-mckinley",
@@ -264,13 +264,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies regeneration in the uterus and the biology of menstruation.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdocs, 4 grad students, 2 research assistants, 1 undergrad",
+      "members_page_url": "https://www.mckinleylab.org/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/mckinley-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the McKinley Lab website')."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the McKinley Lab website'). Depth pass 2026-11-10: Counted the People page above the ALUMNI heading (Alumni dated through 2026 excluded)."
     },
     {
       "id": "harvard-scrb-melton",
@@ -308,13 +308,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Uses theoretical evolutionary biology, applied mathematics, statistics and computational biology to address questions in cancer research.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 19,
+      "member_breakdown": "1 PI, 6 postdocs, 2 grad students, 1 MD-PhD student, 4 master's students, 4 undergrads, 1 research technician",
+      "members_page_url": "http://michorlab.dfci.harvard.edu/our-lab/",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Home page says Join Our Lab -> careers.dana-farber.org",
       "profile_url": "https://hscrb.harvard.edu/labs/michor-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Michor Lab website')."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Michor Lab website'). Depth pass 2026-11-10: Fetched Our Lab page (home page had no roster); counted all listed members (no alumni on that page)."
     },
     {
       "id": "harvard-scrb-ramanathan",
@@ -330,13 +330,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Investigates how multi-potent stem cells make fate decisions to form complex tissues, and how neural dynamics drive behavioral decisions.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 3 postdocs, 1 research assistant, 8 grad students (one joint with Weitz lab), 2 with no role shown (Ishaq Khan, Julie Liu)",
+      "members_page_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/ramanathan-lab/people/)."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/ramanathan-lab/people/). Depth pass 2026-11-10: Counted Lab Members up to the Alumni headings; Ishaq Khan and Julie Liu have no role shown but are in the current list."
     },
     {
       "id": "harvard-scrb-rubin",
@@ -352,13 +352,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Investigates molecular mediators of neurodegenerative diseases toward preclinical therapeutic candidates.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 21,
+      "member_breakdown": "1 PI, 1 administrator, 2 research scientists, 11 postdocs, 1 grad student, 5 undergrads",
+      "members_page_url": "https://hscrb.harvard.edu/labs/rubin-lab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/rubin-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/rubin-lab/people/)."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/rubin-lab/people/). Depth pass 2026-11-10: Counted people page up to Recent Alumni."
     },
     {
       "id": "harvard-scrb-scadden",
@@ -374,13 +374,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies the principles governing blood cell production, toward therapies for blood disorders and cancer.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 8 postdocs (Chen, Cheng, He, Kristiansen, Li, Mayerhofer, Xia, Zhao), 1 instructor, 2 resident physicians, 1 medical student, 1 lab manager, 1 program manager",
+      "members_page_url": "https://scaddenlab.com/scadden-lab-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/scadden-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Profile page (hscrb.harvard.edu) read; no email shown. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Scadden Lab website')."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Profile page (hscrb.harvard.edu) read; no email shown. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Scadden Lab website'). Depth pass 2026-11-10: Fetched the Team page (home page had no roster); counted the Team tab, stopping at Alumni."
     },
     {
       "id": "harvard-scrb-segel",
@@ -396,13 +396,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies the genetic forces that dictate the pacing of postnatal mammalian development.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 lab manager, 1 faculty assistant, 7 grad students (incl. 1 visiting), 5 undergrads",
+      "members_page_url": "https://www.segel.group/members.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/segel-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled \"Visit the Segel Lab's website\")."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled \"Visit the Segel Lab's website\"). Depth pass 2026-11-10: Counted Members page, marked last updated 2026-10."
     },
     {
       "id": "harvard-scrb-wagers",
@@ -418,13 +418,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies the factors and mechanisms regulating migration, expansion and regenerative potential of adult blood- and muscle-forming stem cells.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 18,
+      "member_breakdown": "1 PI, 1 administrator, 3 postdocs, 4 grad students, 5 research assistants, 1 undergrad, 3 associates",
+      "members_page_url": "https://hscrb.harvard.edu/labs/wagers-lab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/wagers-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/wagers-lab/people/)."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/wagers-lab/people/). Depth pass 2026-11-10: Counted people page up to Wagers Lab Alumni."
     },
     {
       "id": "harvard-scrb-whited",
@@ -440,13 +440,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies limb regeneration in axolotl salamanders, developing tools to manipulate gene expression during regeneration.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 22,
+      "member_breakdown": "1 PI, 1 postdoc, 3 grad students, 1 lab manager, ~16 other students/trainees (undergrad and master's level, roles from bios)",
+      "members_page_url": "https://www.whitedlab.com/lab-members.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/whited-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Whited Lab website')."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Whited Lab website'). Depth pass 2026-11-10: Counted named members before Lab Alumni; roster may be dated: bios mention class-of-2025 undergrads and a student leaving by a mid-2025 date."
     },
     {
       "id": "harvard-scrb-zon",
@@ -454,21 +454,21 @@
       "lab_name": "Zon Lab",
       "pi_name": "Leonard Zon",
       "pi_title": "Professor, HSCRB",
-      "pi_email": null,
+      "pi_email": "zon@enders.tch.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.zonlab.org/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Hannah diCicco",
+      "admin_email": "hannah.dicicco@childrens.harvard.edu",
       "research_summary": "Studies how assaults to the hematopoietic system cause diseases such as leukemias, lymphomas and anemias, using zebrafish.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 28,
+      "member_breakdown": "1 PI, 4 administration/staff (lab manager, administrator, staff scientist, bioinformatician), 14 postdocs, 7 grad students, 1 research assistant, 1 aquatics staff",
+      "members_page_url": "https://www.zonlab.org/current-members",
+      "join_page_url": "https://www.zonlab.org/join",
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/zon-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Profile page (hscrb.harvard.edu) read; no email shown. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Zon Lab website')."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Profile page (hscrb.harvard.edu) read; no email shown. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Zon Lab website'). Depth pass 2026-11-10: Counted Current Members page; footer says copyright 2021 though names look maintained."
     },
     {
       "id": "harvard-scrb-strominger",

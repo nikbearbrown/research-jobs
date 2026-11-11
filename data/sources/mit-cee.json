@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/eric-j-alm/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://almlab.mit.edu/' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://almlab.mit.edu/' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Not sized, the site could not be read: Almlab.mit.edu did not load (cached fetch failed with a playwright error)."
     },
     {
       "id": "mit-cee-saurabh-amin",
@@ -44,13 +44,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Developing resilient infrastructure monitoring, control algorithms, and incentives to enhance decision-making under uncertainty.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 3 postdocs, 6 PhD students, 1 masters student",
+      "members_page_url": "https://resil.mit.edu/people/current-lab-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/saurabh-amin/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://resil.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://resil.mit.edu/people/)."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://resil.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://resil.mit.edu/people/). Depth pass 2026-11-10: Count from the Current Lab Members page (fetched via the people menu link) plus the PI from the People page."
     },
     {
       "id": "mit-cee-moshe-e-ben-akiva",
@@ -66,13 +66,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Developing and applying advanced discrete choice models to analyze travel behavior and simulate demand and supply to optimize transportation systems.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 director, 2 student research assistants, 4 research staff/affiliates, 1 administrator",
+      "members_page_url": "https://www.its.mit.edu/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/moshe-e-ben-akiva/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'https://its.mit.edu/' link; taken as the lab site because its own menu links a people or lab page (https://www.its.mit.edu/team)."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'https://its.mit.edu/' link; taken as the lab site because its own menu links a people or lab page (https://www.its.mit.edu/team). Depth pass 2026-11-10: Counted PI, students, research staff and administrator on the Team page (fetched); excluded 8 external 'research affiliates' at other universities."
     },
     {
       "id": "mit-cee-lydia-bourouiba",
@@ -110,13 +110,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Computational modeling of materials in biology and engineering, utilizing artificial intelligence, machine learning and multiscale modeling to understand, design and manufacture complex materials across scales, from atoms to structures.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 4 postdocs, 6 PhD students, 1 SM student, 1 research associate, 1 UROP",
+      "members_page_url": "https://lamm.mit.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/markus-j-buehler/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://lamm.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://lamm.mit.edu/people/)."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://lamm.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://lamm.mit.edu/people/). Depth pass 2026-11-10: Counted all names on the people page; the PI's assistant in the contact block is not counted."
     },
     {
       "id": "mit-cee-josephine-v-carstensen",
@@ -132,13 +132,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Civil engineer developing computational methods that integrate optimization, structural mechanics, and human expertise to transform the built environment at all scales.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 3 postdocs, 2 PhD candidates, 1 MEng student, 1 undergraduate",
+      "members_page_url": "https://www.carstensen.mit.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/josephine-v-carstensen/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.carstensen.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://www.carstensen.mit.edu/people)."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.carstensen.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://www.carstensen.mit.edu/people). Depth pass 2026-11-10: Counted people above the Alumni heading on the people page."
     },
     {
       "id": "mit-cee-penny-chisholm",
@@ -154,13 +154,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies the biology, ecology, and evolution of the single most abundant marine phytoplankton species to understand the forces that shape microbial ecosystems.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 lab manager, 1 research scientist, 2 postdoctoral scholars, 5 research technicians",
+      "members_page_url": "https://chisholmlab.mit.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/penny-chisholm/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://chisholmlab.mit.edu/' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://chisholmlab.mit.edu/' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted all names on the people page."
     },
     {
       "id": "mit-cee-tal-cohen",
@@ -198,13 +198,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Understanding how social and ecological interactions at micro-scales impact the global productivity, stability and evolutionary dynamics of microbial ecosystems.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 PhD students, 3 postdocs, 1 research associate",
+      "members_page_url": "https://corderolab.org/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/otto-cordero/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://corderolab.org/' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://corderolab.org/' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted names before the ALUMNI heading; page date is Feb 2025."
     },
     {
       "id": "mit-cee-david-l-des-marais",
@@ -220,13 +220,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Uses tools from molecular, quantitative, and population genetics to identify the physiological and genetic basis of plant response to environmental cues.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 4 PhD students, 1 undergraduate",
+      "members_page_url": "https://sites.google.com/mit.edu/des-marais-group/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/david-l-des-marais/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'https://sites.google.com/mit.edu/des-marais-group/home')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'https://sites.google.com/mit.edu/des-marais-group/home'). Depth pass 2026-11-10: Counted the current sections on the Google Sites people page (masters and technician sections are empty); alumni excluded."
     },
     {
       "id": "mit-cee-elfatih-eltahir",
@@ -242,13 +242,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Investigates how global climate change may impact patterns of water availability, extreme weather, and spread of disease, and how society may to adapt to such impacts.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 2 research associates, 1 visiting scholar, 1 grad student, 1 undergrad",
+      "members_page_url": "https://eltahir.mit.edu/group-members/",
+      "join_page_url": "https://eltahir.mit.edu/interested-in-joining-the-group/",
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/elfatih-eltahir/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://eltahir.mit.edu/' link; taken as the lab site because its own menu links a people or lab page (https://eltahir.mit.edu/group-members/)."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://eltahir.mit.edu/' link; taken as the lab site because its own menu links a people or lab page (https://eltahir.mit.edu/group-members/). Depth pass 2026-11-10: Counted names under Group Members on the page."
     },
     {
       "id": "mit-cee-dara-entekhabi",
@@ -314,7 +314,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/charles-f-harvey/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://harveylab.mit.edu/' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://harveylab.mit.edu/' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: People page mixes current members and alumni without a clear divider (one entry is 'Now Assistant Professor' yet listed among current), and the page is copyright 2024, so current members are unclear."
     },
     {
       "id": "mit-cee-michael-f-howland",
@@ -330,13 +330,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Environmental flow physics and the modeling, optimization, and control of renewable energy systems.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 4 postdocs, 8 PhD students, 1 visiting student",
+      "members_page_url": "https://www.howlandlab.com/people",
+      "join_page_url": "https://www.howlandlab.com/openings",
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/michael-f-howland/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.howlandlab.com/' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.howlandlab.com/' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted current sections on the people page (undergraduate section is empty); alumni excluded."
     },
     {
       "id": "mit-cee-ali-jadbabaie",
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/ali-jadbabaie/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://jadbabaie.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://jadbabaie.mit.edu/research-group/)."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://jadbabaie.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://jadbabaie.mit.edu/research-group/). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: The site is Jadbabaie's personal page; its Research Group page (fetched) mixes ended entries (e.g. 2019-24) in the 'current' lists and looks about 2023 old, so no reliable count."
     },
     {
       "id": "mit-cee-oliver-jagoutz",
@@ -440,13 +440,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Investigates the chemical transformations and impacts of organic species in the Earth’s atmosphere.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 2 postdocs, 6 grad students",
+      "members_page_url": "https://krollgroup.mit.edu/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/jesse-kroll/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://krollgroup.mit.edu/index.htm' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://krollgroup.mit.edu/index.htm' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted the people page."
     },
     {
       "id": "mit-cee-tami-lieberman",
@@ -484,13 +484,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Specializes in using bio-fabrication strategies to design bio-inspired materials that work at the biotic/abiotic interface to prevent or mitigate environmental impact.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 4 grad students, 9 postdocs",
+      "members_page_url": "https://marelli.mit.edu/people-1",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/benedetto-marelli/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.marelli.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://marelli.mit.edu/people-1)."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.marelli.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://marelli.mit.edu/people-1). Depth pass 2026-11-10: Roster is on marelli.mit.edu/people-1 (linked from home People menu); counted PI, grad students and postdocs above the Alumni heading; page appears dated around 2023-24."
     },
     {
       "id": "mit-cee-admir-masic",
@@ -506,13 +506,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Leader in the study of cement chemistry and the development of multifunctional cement-based materials.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 4 grad students, 4 postdocs/research scientists, 2 visiting scholars, 2 UROPs, 1 administrative assistant",
+      "members_page_url": "https://www.masicgroup.mit.edu/people",
+      "join_page_url": "https://www.masicgroup.mit.edu/people",
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/admir-masic/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.masicgroup.mit.edu/' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.masicgroup.mit.edu/' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted entries above FORMER MEMBERS; one grad student is noted as currently at Cambridge but is still listed."
     },
     {
       "id": "mit-cee-darcy-mcrose",
@@ -528,13 +528,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Uses secondary metabolites to understand microbial ecology, biogeochemistry, and plant-microbe interactions.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 4 postdocs, 4 grad students, 2 undergrads, 1 research assistant",
+      "members_page_url": "https://mcroselab.com/about/",
+      "join_page_url": "https://mcroselab.com/join-the-lab/",
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/darcy-mcrose/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://mcroselab.com/' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://mcroselab.com/' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted the Lab Members list above Former Lab Members."
     },
     {
       "id": "mit-cee-caitlin-mueller",
@@ -572,13 +572,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Fluvial and coastal hydrodynamicist studying the physical processes that determine how vegetation impacts currents and waves, sediment transport, and ecosystem function.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 administrative assistant, 7 grad/MEng students, 1 visiting grad student, 1 postdoc, 3 research affiliates, 1 visiting fellow",
+      "members_page_url": "https://nepf.mit.edu/current-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/heidi-nepf/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://nepf.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://nepf.mit.edu/current-members/)."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://nepf.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://nepf.mit.edu/current-members/). Depth pass 2026-11-10: Counted all names on the current members page (page copyright 2024)."
     },
     {
       "id": "mit-cee-john-a-ochsendorf",
@@ -616,13 +616,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Specializes in environmental chemistry for novel materials and industrial process optimization, carbon and energy systems, resource efficiency, and sustainable design.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 1 research scientist, 3 listed postdocs, 10 other members with no role shown, 1 MEng student, 1 undergraduate",
+      "members_page_url": "http://platalab.mit.edu/www/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/desiree-plata/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'http://platalab.mit.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'http://platalab.mit.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted all names under Current Lab Members; several have no role listed."
     },
     {
       "id": "mit-cee-serguei-saavedra",
@@ -638,13 +638,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Interested in understanding the feasibility of observing the emergence, transformation, and regeneration of ecological systems.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD candidates, 2 postdocs",
+      "members_page_url": "https://sites.google.com/site/sergueisaavedra/people",
+      "join_page_url": "https://sites.google.com/site/sergueisaavedra/join",
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/serguei-saavedra/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://sites.google.com/site/sergueisaavedra/' link; taken as the lab site because its own menu links a people or lab page (https://sites.google.com/site/sergueisaavedra/people)."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://sites.google.com/site/sergueisaavedra/' link; taken as the lab site because its own menu links a people or lab page (https://sites.google.com/site/sergueisaavedra/people). Depth pass 2026-11-10: Counted the Current Members section on the Google Sites people page."
     },
     {
       "id": "mit-cee-yossi-sheffi",
@@ -704,13 +704,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Examines Earth system challenges and climate change with satellite and field data, assessing terrestrial ecosystems, carbon dynamics and climate solutions.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 research scientist, 1 postdoc, 4 PhD students, 1 visiting PhD student",
+      "members_page_url": "https://terrerlab.com/team/",
+      "join_page_url": "https://terrerlab.com/join-us/",
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/cesar-terrer/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://terrerlab.com' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://terrerlab.com' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted all names above the Alumni heading (page dated 2026-09)."
     },
     {
       "id": "mit-cee-franz-josef-ulm",
@@ -748,13 +748,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Computational hydrogeologist and geostatistician advancing AI/ML methods for monitoring and predicting water quality and water resources.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI (added, not listed on group page), 2 postdocs, 5 students",
+      "members_page_url": "https://sites.google.com/mit.edu/h-wainwrights-group/group",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/haruko-murakami-wainwright/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://sites.google.com/mit.edu/h-wainwrights-group/home' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://sites.google.com/mit.edu/h-wainwrights-group/home' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: PI is not on the roster but the site is hers so 1 was added; visiting scholars section is empty; alumni excluded."
     },
     {
       "id": "mit-cee-andrew-whittle",
@@ -770,13 +770,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Expert in modeling of geomaterial behavior, developing analysis methods for predicting soil-structure interactions, and monitoring and controlling underground infrastructure.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 22,
+      "member_breakdown": "1 PI, 4 postdocs, 8 grad students, 2 undergrads, 1 admin assistant, 6 visitors",
+      "members_page_url": "https://ajw-group.mit.edu/group-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/andrew-whittle/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://ajw-group.mit.edu/' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://ajw-group.mit.edu/' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted names above ALUMNI; the page says it is being updated and alumni go back to 2009-2015, so the roster may be old and visitors may not be current."
     },
     {
       "id": "mit-cee-john-williams",
@@ -814,13 +814,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Advancing machine learning and optimization for large-scale societal systems, focusing on accelerating design and analysis for urban mobility and enabling trustworthy decision-making in critical infrastructure.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 19,
+      "member_breakdown": "1 PI, 2 postdocs/visiting scholar, 8 PhD students, 6 master's students, 2 UROP/SuperUROP",
+      "members_page_url": "http://wucathy.com/group/",
+      "join_page_url": "http://wucathy.com/prospective/",
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/cathy-wu/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'http://wucathy.com/' link; taken as the lab site because its own menu links a people or lab page (http://wucathy.com/group/)."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'http://wucathy.com/' link; taken as the lab site because its own menu links a people or lab page (http://wucathy.com/group/). Depth pass 2026-11-10: Counted from group page; alumni excluded."
     },
     {
       "id": "mit-cee-gioele-zardini",
@@ -836,13 +836,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Develops efficient computational tools and algorithmic approaches to formulate and solve complex, interconnected system design and autonomous decision-making problems.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 20,
+      "member_breakdown": "1 PI, 1 postdoc, 12 graduate/MEng students, 2 UROPs/SuperUROP, 1 MST, 3 visiting students",
+      "members_page_url": "https://zardini.mit.edu/people/",
+      "join_page_url": "https://zardini.mit.edu/join/",
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/zardini/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://zardini.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://zardini.mit.edu/people/)."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://zardini.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://zardini.mit.edu/people/). Depth pass 2026-11-10: Counted Research Team plus Visiting Students; 5 external Research Affiliates and alumni excluded."
     },
     {
       "id": "mit-cee-jinhua-zhao",
@@ -858,13 +858,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Fuses behavioral science, transportation technology, and artificial intelligence to shape travel behavior, design mobility systems, and reform urban policies.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 32,
+      "member_breakdown": "1 PI, 31 members (PhD, master's, postdocs, research associate, visitors)",
+      "members_page_url": "https://mobility.mit.edu/people/",
+      "join_page_url": "https://mobility.mit.edu/openings/",
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/jinhua-zhao/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://mobility.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://mobility.mit.edu/people/)."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://mobility.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://mobility.mit.edu/people/). Depth pass 2026-11-10: Counted PI plus the 31 names under MEMBERS (PhD, MST/MCP, postdocs, visitors); the separate Faculty and Staff block (other faculty, administrators, MMI staff) and Alumni excluded; Alumni pager (page 2) not followed since all current members precede it."
     }
   ],
   "non_lab_people": []

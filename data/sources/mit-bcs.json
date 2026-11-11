@@ -22,13 +22,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 59,
+      "member_breakdown": "1 PI, 4 administration, 41 students/postdocs/research staff, 1 visiting scientist/affiliate, 12 undergraduate researchers",
+      "members_page_url": "https://synthneuro.org/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/edward-stuart-boyden",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Counted names on the people page (alumni on a separate page)."
     },
     {
       "id": "mit-bcs-gloria-choi",
@@ -110,13 +110,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 3 research scientists, 3 postdocs, 3 grad students, 1 lab manager, 2 technical assistants, 1 software developer",
+      "members_page_url": "https://dicarlolab.mit.edu/dicarlo-lab-community/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/james-dicarlo",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted current sections; a postdoc (Soerensen) and a grad student (Zaidi) are still listed though photo captions mention a farewell and a defense in 2026, so count may be 1-2 high."
     },
     {
       "id": "mit-bcs-sven-dorkenwald",
@@ -132,13 +132,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 4 postdocs, 4 grad students (2 rotation), 1 undergraduate, 2 technical associates, 1 administrative assistant",
+      "members_page_url": "https://dorkenwaldlab.com/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/sven-dorkenwald",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Cached text was empty; counted after a rendered fetch of the people page; includes jointly-advised members."
     },
     {
       "id": "mit-bcs-linlin-fan",
@@ -176,13 +176,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 27,
+      "member_breakdown": "1 PI, 13 postdocs/research scientists, 4 grad students, 4 full-time RAs/postbacs, 5 part-time RAs/UROPs",
+      "members_page_url": "https://evlab.mit.edu/our-family",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/evelina-fedorenko",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted the Our Family page, fetched from the home page nav; excludes honorary members and pets; includes 2 postdocs with other primary mentors and one on leave."
     },
     {
       "id": "mit-bcs-michale-s-fee",
@@ -198,13 +198,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 research scientist, 1 postdoc, 4 grad students, 1 lab manager, 1 administrative assistant",
+      "members_page_url": "https://feelaboratory.org/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/michale-s-fee",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Cached people page was an unrelated MIT directory; counted the roster on the lab's current site found via its home page link."
     },
     {
       "id": "mit-bcs-guoping-feng",
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/guoping-feng",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: McGovern Institute faculty profile page for the PI, not a lab site with a roster."
     },
     {
       "id": "mit-bcs-ila-fiete",
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/john-d-e-gabrieli",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Not sized, the site could not be read: Bcs.mit.edu profile URL returns Page not found."
     },
     {
       "id": "mit-bcs-edward-a-gibson",
@@ -308,13 +308,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 grad students, 3 UROPs (postdoc and RA headings empty)",
+      "members_page_url": "http://tedlab.mit.edu/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/edward-gibson",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Roster looks old (students listed as expected to graduate 2025-2027); excludes the visitor and collaborators."
     },
     {
       "id": "mit-bcs-ann-m-graybiel",
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/ann-m-graybiel",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Not sized, the site could not be read: Page only says the BCS website has moved; no lab content."
     },
     {
       "id": "mit-bcs-mark-harnett",
@@ -352,13 +352,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 4 postdocs, 5 grad students, 1 undergraduate, 2 research technicians",
+      "members_page_url": "https://www.markharnett.org/members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/mark-harnett",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Harnett Lab website.'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Harnett Lab website.'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted current sections; Raul Mojica Soto-Albors sits under postdocs but his text says grad school 2020-2025, so he may be a former member and count may be 12."
     },
     {
       "id": "mit-bcs-myriam-heiman",
@@ -374,13 +374,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 5 postdocs, 6 grad/MD-PhD students, 1 lab manager, 1 administrative assistant",
+      "members_page_url": "https://heiman.mit.edu/members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/myriam-heiman",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Counted active members; excluded the lab mascot."
     },
     {
       "id": "mit-bcs-susan-hockfield",
@@ -418,13 +418,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, ~10 postdocs/research staff, 1 visiting faculty, 1 undergraduate, 1 lab administrator, 2 lab staff",
+      "members_page_url": "https://jasanofflab.mit.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/alan-pradip-jasanoff",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Cached page was a wrong MIT directory; the home page names jasanofflab.mit.edu as canonical, fetched its People page and counted names before Lab Alumni."
     },
     {
       "id": "mit-bcs-mehrdad-jazayeri",
@@ -446,7 +446,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/mehrdad-jazayeri",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Not sized, the site could not be read: Bcs.mit.edu profile URL returns Page not found."
     },
     {
       "id": "mit-bcs-nancy-kanwisher",
@@ -462,13 +462,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 research scientists/scholars, 2 postdocs, 4 grad students, 1 post-bacc, 1 lab tech, 1 undergraduate",
+      "members_page_url": "http://web.mit.edu/bcs/nklab/people.shtml",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/nancy-kanwisher",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted names above Former Lab Members; excluded the dog; page last updated May 2024."
     },
     {
       "id": "mit-bcs-roger-levy",
@@ -490,7 +490,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/roger-levy",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: Personal faculty page for the PI with no lab roster."
     },
     {
       "id": "mit-bcs-troy-littleton",
@@ -506,13 +506,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 administrative assistant, 1 research scientist, 5 postdoctoral fellows, 4 grad students, 1 research technician",
+      "members_page_url": "http://web.mit.edu/flybrain/littletonlab/2012%20Lab%20Website/People.htm",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/troy-littleton",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Roster is from a 2012-era site (URL says 2012 Lab Website), so likely very old."
     },
     {
       "id": "mit-bcs-josh-mcdermott",
@@ -528,13 +528,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 3 postdocs, 9 grad students, 3 undergraduates, 1 lab administrator",
+      "members_page_url": "https://mcdermottlab.mit.edu/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/josh-mcdermott",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted Lab Personnel; stopped at Lab Alumni."
     },
     {
       "id": "mit-bcs-earl-k-miller",
@@ -550,13 +550,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 2 research scientists, 5 postdocs, 4 grad students, 1 visiting scholar, 1 visiting student, 1 research affiliate",
+      "members_page_url": "https://ekmillerlab.mit.edu/miller-lab-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/earl-k-miller",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Counted all listed lab members including 3 visitors/affiliates."
     },
     {
       "id": "mit-bcs-elly-nedivi",
@@ -578,7 +578,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/elly-nedivi",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Not sized, the site could not be read: Monster.mit.edu host does not resolve (fetch failed)."
     },
     {
       "id": "mit-bcs-tomaso-a-poggio",
@@ -600,7 +600,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/tomaso-poggio",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Not sized, the site could not be read: Cbcl.mit.edu connection refused (fetch failed)."
     },
     {
       "id": "mit-bcs-drazen-prelec",
@@ -660,13 +660,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 grad student, 3 postdocs, 1 IDSS student",
+      "members_page_url": "http://www.mit.edu/~rakhlin/lab.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/alexander-rakhlin",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Counted Current students and postdocs list plus PI; former mentees excluded."
     },
     {
       "id": "mit-bcs-robert-mark-richardson",
@@ -710,7 +710,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/rebecca-r-saxe",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Not sized, the site could not be read: Personal page redirects to scripts.mit.edu/~saxelab, which returns 404."
     },
     {
       "id": "mit-bcs-laura-e-schulz",
@@ -726,13 +726,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 research scientist, 4 postdocs, 3 Children Helping Science staff, 3 grad students, 1 lab manager",
+      "members_page_url": "https://eccl.mit.edu/meet-the-lab",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/laura-e-schulz",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Cached page was not the roster; the home page declares eccl.mit.edu canonical, fetched its Meet the Lab page and counted before Lab Alumni."
     },
     {
       "id": "mit-bcs-nidhi-seethapathi",
@@ -748,13 +748,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 4 postdoc-level (one, Chaix-Eichel, role not stated), 3 PhD students, 2 undergraduates",
+      "members_page_url": "http://www.seethapathilab.org/people-and-openings",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/nidhi-seethapathi",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted Current Group Members; alumni excluded."
     },
     {
       "id": "mit-bcs-morgan-hwa-tze-sheng",
@@ -776,7 +776,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/morgan-hwa-tze-sheng",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: Picower Institute faculty profile page (lists a Lab Members section but lab_website is a profile; its own lab site is shenglab.broadinstitute.org)."
     },
     {
       "id": "mit-bcs-pawan-sinha",
@@ -792,13 +792,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 research affiliate, 1 research scientist, 1 research technician/lab manager, 1 senior administrator, 1 grad student, 2 postdocs, 1 MEng student",
+      "members_page_url": "https://www.sinhalab.mit.edu/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/pawan-sinha",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Cached team page was a wrong MIT 404; the home page declares sinhalab.mit.edu canonical, fetched its Team page; counted Current Lab Members plus PI, excluding faculty collaborators and affiliated researchers."
     },
     {
       "id": "mit-bcs-mriganka-sur",
@@ -814,13 +814,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 22,
+      "member_breakdown": "1 PI, 2 research scientists, 8 postdocs, 5 grad students, 1 post-bacc, 3 technical associates/lab manager, 2 administrative staff",
+      "members_page_url": "https://www.surlab.org/members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/mriganka-sur",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Cached home page only; counted Members page found via link; includes the SCSB administrative manager."
     },
     {
       "id": "mit-bcs-joshua-b-tenenbaum",
@@ -842,7 +842,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/joshua-b-tenenbaum",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Not sized, the site could not be read: MIT Page Not Found at the profile URL."
     },
     {
       "id": "mit-bcs-li-huei-tsai",
@@ -858,13 +858,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 37,
+      "member_breakdown": "1 PI, 1 administrative assistant, 2 project managers, 33 other listed members (postdocs, grad students, technical associates, coordinators, visiting physician scientists)",
+      "members_page_url": "https://tsailaboratory.mit.edu/members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/li-huei-tsai",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Counted PI, admin and project managers in the header plus 33 listed members (lab manager listed once)."
     },
     {
       "id": "mit-bcs-fan-wang",
@@ -930,7 +930,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/matthew-wilson",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Not sized, the site could not be read: Page only says the BCS website has moved."
     },
     {
       "id": "mit-bcs-feng-zhang",
@@ -974,7 +974,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/emilio-bizzi",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Not sized, the site could not be read: Placeholder page with only a name and 'last updated April 13, 2018'; no roster."
     },
     {
       "id": "mit-bcs-martha-constantine-paton",
@@ -996,7 +996,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/martha-constantine-paton",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: Biology.mit.edu faculty profile page, not a lab site with a roster."
     },
     {
       "id": "mit-bcs-alan-v-hein",
@@ -1040,7 +1040,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/mary-c-potter",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Not sized, the site could not be read: Mollylab-1.mit.edu host does not resolve (fetch failed)."
     },
     {
       "id": "mit-bcs-william-quinn",
@@ -1062,7 +1062,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bcs.mit.edu/directory/william-quinn",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Not sized, the site could not be read: Bcs.mit.edu profile URL returns Page not found."
     },
     {
       "id": "mit-bcs-kenneth-n-wexler",

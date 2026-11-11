@@ -16,7 +16,7 @@
       "pi_title": "Professor",
       "pi_email": "hal@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": "http://groups.csail.mit.edu/mac/users/hal/hal.html",
+      "lab_website": null,
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/hal-abelson",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'personal website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'personal website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab_website cleared again: on reading, the website link on the profile page (http://groups.csail.mit.edu/mac/users/hal/hal.html) is not this PI's lab site. Not sized, the site is not one PI's own group: Hal Abelson's personal profile/bio page, no lab roster."
     },
     {
       "id": "mit-csail-ted-adelson",
@@ -220,13 +220,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 26,
+      "member_breakdown": "1 PI, 1 postdoc, 22 PhD students, 2 master's students",
+      "members_page_url": "https://www.rbg.mit.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/regina-barzilay",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'RBG Group Website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'RBG Group Website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted from people page; alumni list only goes up to 2023 so roster may be somewhat old."
     },
     {
       "id": "mit-csail-sara-beery",
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/tamara-broderick",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Broderick Lab')."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Broderick Lab'). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: CSAIL directory profile page for the Broderick Lab, not the PI's own lab site; no roster of group members beyond a short member list on the directory entry."
     },
     {
       "id": "mit-csail-rodney-brooks",
@@ -484,13 +484,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI (senior research scientist), 2 other research staff, 2 research affiliates, 1 consulting staff, 1 postdoc, 1 PhD student, 1 administrative assistant",
+      "members_page_url": "http://groups.csail.mit.edu/ana/People/index.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/david-clark",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal web site' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal web site' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted names on the Advanced Network Architecture group member page; page undated, may be old, and includes an administrative assistant."
     },
     {
       "id": "mit-csail-costis-daskalakis",
@@ -710,7 +710,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/william-freeman",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://billf.mit.edu/person_type/student-current/)."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://billf.mit.edu/person_type/student-current/). Depth pass 2026-11-10: Roster page https://billf.mit.edu/person_type/student-current/ returned 404 and the home page links no other people page."
     },
     {
       "id": "mit-csail-mohsen-ghaffari",
@@ -786,7 +786,7 @@
       "pi_title": "Senior Research Scientist",
       "pi_email": "glass@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": "http://groups.csail.mit.edu/sls/people/glass.shtml",
+      "lab_website": null,
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -798,7 +798,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/jim-glass",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab_website cleared again: on reading, the website link on the profile page (http://groups.csail.mit.edu/sls/people/glass.shtml) is not this PI's lab site. Not sized, the site is not one PI's own group: Spoken Language Systems group lists three principal investigators (Glass, Seneff, Zue); multi-PI group."
     },
     {
       "id": "mit-csail-michel-goemans",
@@ -1238,7 +1238,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/leslie-kaelbling",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website')."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website'). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: Learning and Intelligent Systems Group is co-led by two PIs (Lozano-Perez and Kaelbling)."
     },
     {
       "id": "mit-csail-lalana-kagal",
@@ -1260,7 +1260,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/lalana-kagal",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Group website')."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Group website'). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: CSAIL directory profile page for the Decentralized Information Group, not the PI's own lab site; no roster of group members beyond a short member list on the directory entry."
     },
     {
       "id": "mit-csail-yael-kalai",
@@ -1326,7 +1326,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/dina-katabi",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Katabi Lab')."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Katabi Lab'). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: CSAIL directory profile page for the Katabi Lab, not the PI's own lab site; no roster of group members beyond a short member list on the directory entry."
     },
     {
       "id": "mit-csail-boris-katz",
@@ -1364,13 +1364,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 90,
+      "member_breakdown": "1 PI, 9 staff, 21 postdocs, 6 PhD students, 2 MEng students, 7 visitors, 44 UROP/SuperUROP students",
+      "members_page_url": "http://compbio.mit.edu/people.html",
+      "join_page_url": "http://compbio.mit.edu/positions.html",
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/manolis-kellis",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://compbio.mit.edu/people.html)."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://compbio.mit.edu/people.html). Depth pass 2026-11-10: Counted names above the Alumni heading; some names list no role so counted as names; administrative assistants in the alumni list excluded; page is large and undated, count approximate."
     },
     {
       "id": "mit-csail-jonathan-kelner",
@@ -1452,13 +1452,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 8 PhD students, 2 MEng students, 3 UROPs",
+      "members_page_url": "https://adg.csail.mit.edu/?page_id=11",
+      "join_page_url": "https://adg.csail.mit.edu/?page_id=15",
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/mina-konakovic-lukovic",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Group Website: https://adg.csail.mit.edu/')."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Group Website: https://adg.csail.mit.edu/'). Depth pass 2026-11-10: Counted people before Alumni; the shared administrative assistant (also supports other professors) was excluded."
     },
     {
       "id": "mit-csail-tim-kraska",
@@ -1568,7 +1568,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/john-leonard",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Not sized, the site could not be read: Groups.csail.mit.edu wiki main page returned 403 Forbidden. The site refuses the project's fetcher; not worked around."
     },
     {
       "id": "mit-csail-barbara-liskov",
@@ -2074,7 +2074,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/nicholas-roy",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Roster page http://groups.csail.mit.edu/people.html returned 403 Forbidden and the home page lists no roster, so no count possible."
     },
     {
       "id": "mit-csail-ronitt-rubinfeld",
@@ -2486,13 +2486,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 8 PhD students, 1 MEng student, 2 undergraduates, 1 clinical research coordinator",
+      "members_page_url": "https://cb.mit.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/collin-stultz",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Group Website')."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Group Website'). Depth pass 2026-11-10: Counted from fetched people page (linked from the lab home page); postdoc heading empty; administrative assistant and alumni excluded."
     },
     {
       "id": "mit-csail-gerald-sussman",
@@ -2514,7 +2514,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/gerald-sussman",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Sussman Lab')."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Sussman Lab'). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: CSAIL directory profile page for the Sussman Lab, not the PI's own lab site; no roster of group members beyond a short member list on the directory entry."
     },
     {
       "id": "mit-csail-vivienne-sze",
@@ -2568,7 +2568,7 @@
       "pi_title": "Professor",
       "pi_email": "russt@csail.mit.edu",
       "accepting_grad_students": null,
-      "lab_website": "http://groups.csail.mit.edu/locomotion/russt.html",
+      "lab_website": null,
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -2580,7 +2580,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/russ-tedrake",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab_website cleared again: on reading, the website link on the profile page (http://groups.csail.mit.edu/locomotion/russt.html) is not this PI's lab site. Not sized, the site is not one PI's own group: Lab_website is Russ Tedrake's personal page; roster page http://groups.csail.mit.edu/people.html returned 403 Forbidden, so no count possible."
     },
     {
       "id": "mit-csail-joshua-tenenbaum",
@@ -2646,7 +2646,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.csail.mit.edu/person/bruce-tidor",
-      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Tidor Lab')."
+      "notes": "Breadth pass from CSAIL's PI/Core-Dual people directory (role-filtered, Playwright-rendered). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Tidor Lab'). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: CSAIL directory profile page for the Tidor Lab, not the PI's own lab site; no roster of group members beyond a short member list on the directory entry."
     },
     {
       "id": "mit-csail-antonio-torralba",

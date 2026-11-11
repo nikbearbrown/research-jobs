@@ -22,13 +22,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 27,
+      "member_breakdown": "1 PI, 3 staff, 6 postdocs, 8 grad students, 9 undergrads",
+      "members_page_url": "https://bioelectronics.mit.edu/team.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/polina-anikeeva/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'). Depth pass 2026-11-10: Rendered team page (plain page was empty); alumni excluded; mentors named under undergrads not counted."
     },
     {
       "id": "mit-mcgovern-emilio-bizzi",
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/emilio-bizzi/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Not sized, the site could not be read: Placeholder page with only a name and 'last updated April 13, 2018'; no roster."
     },
     {
       "id": "mit-mcgovern-ed-boyden",
@@ -66,13 +66,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 59,
+      "member_breakdown": "1 PI, 4 administration, 41 students/postdocs/staff, 1 visiting scientist/affiliate, 12 undergrads",
+      "members_page_url": "https://synthneuro.org/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/ed-boyden/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'). Depth pass 2026-11-10: Fetched people page (home links to it); alumni on separate page; one administration entry may be a pet but is not labelled so counted."
     },
     {
       "id": "mit-mcgovern-martha-constantine-paton",
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/martha-constantine-paton/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'). Depth pass 2026-11-10: Home page loads but its 'people' link resolves to the MIT-wide search page; no roster visible."
     },
     {
       "id": "mit-mcgovern-robert-desimone",
@@ -110,13 +110,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 3 postdoctoral fellows, 5 research scientists, 3 technical associates",
+      "members_page_url": "https://desimonelab.com/people/",
+      "join_page_url": "https://desimonelab.com/join/",
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/robert-desimone/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website')."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab website'). Depth pass 2026-11-10: Counted PI plus 11 under Lab Members above 'Lab Alumni'; four entries at the end of the alumni list look current but were not counted."
     },
     {
       "id": "mit-mcgovern-james-dicarlo",
@@ -132,13 +132,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 3 research scientists, 3 postdocs, 3 grad students, 1 lab manager, 2 technical assistants, 1 software developer",
+      "members_page_url": "https://dicarlolab.mit.edu/dicarlo-lab-community/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/james-dicarlo/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted current sections; a postdoc (Soerensen) and a grad student (Zaidi) are still listed though photo captions mention a farewell and a defense in 2026, so count may be 1-2 high."
     },
     {
       "id": "mit-mcgovern-sven-dorkenwald",
@@ -154,13 +154,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 4 postdocs, 4 grad students (2 rotation), 1 undergraduate, 2 technical associates, 1 administrative assistant",
+      "members_page_url": "https://dorkenwaldlab.com/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/sven-dorkenwald/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Cached text was empty; counted after a rendered fetch of the people page; includes jointly-advised members."
     },
     {
       "id": "mit-mcgovern-evelina-fedorenko",
@@ -176,13 +176,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 27,
+      "member_breakdown": "1 PI, 13 postdocs/research scientists, 4 grad students, 4 full-time RAs/postbacs, 5 part-time RAs/UROPs",
+      "members_page_url": "https://evlab.mit.edu/our-family",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/ev-fedorenko/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted the Our Family page, fetched from the home page nav; excludes honorary members and pets; includes 2 postdocs with other primary mentors and one on leave."
     },
     {
       "id": "mit-mcgovern-michale-fee",
@@ -198,13 +198,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 grad students, 1 research scientist, 1 postdoc, 1 admin assistant, 1 tech associate/lab manager",
+      "members_page_url": "https://feelaboratory.org/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/michale-fee/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE')."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'). Depth pass 2026-11-10: People page 'Current Members'; alumni on separate page."
     },
     {
       "id": "mit-mcgovern-guoping-feng",
@@ -220,13 +220,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 56,
+      "member_breakdown": "1 PI, 1 group leader, 3 lab management/admin, 9 research scientists, 17 postdoc-level (incl. 2 post-bacc scholars), 5 grad students, 15 staff/interns/affiliates, 6 undergrads/visiting",
+      "members_page_url": "https://fenglaboratory.org/members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/guoping-feng/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE')."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'). Depth pass 2026-11-10: Counted Current Members sections above 'Former Members'; de-duplicated two people listed twice and excluded 'Taco' (post-DOGtorate)."
     },
     {
       "id": "mit-mcgovern-ila-fiete",
@@ -242,13 +242,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 18,
+      "member_breakdown": "1 PI, 1 admin, 7 postdocs, 9 grad students (incl. 1 visiting)",
+      "members_page_url": "https://fietelab.mit.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/ila-fiete/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE')."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'). Depth pass 2026-11-10: People page; excluded 1 external affiliate and the dated undergrad list (2021-2023) and alumni."
     },
     {
       "id": "mit-mcgovern-john-gabrieli",
@@ -264,13 +264,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 32,
+      "member_breakdown": "1 PI, 1 principal research scientist, 3 research scientists, 2 postdocs, 7 research affiliates, 9 grad students, 9 staff",
+      "members_page_url": "https://gablab.mit.edu/members/",
+      "join_page_url": "https://gablab.mit.edu/opportunities/",
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/john-gabrieli/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted all current sections of the members page incl. research affiliates and staff; no undergraduate names listed."
     },
     {
       "id": "mit-mcgovern-ann-graybiel",
@@ -286,13 +286,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 23,
+      "member_breakdown": "1 PI, 5 researchers, 2 administrative, 5 support staff, 10 undergrads",
+      "members_page_url": "http://www.graybiel-lab.com/members.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/ann-graybiel/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'). Depth pass 2026-11-10: Members page; footer copyright 2015 but page has recent sections; alumni excluded."
     },
     {
       "id": "mit-mcgovern-mark-harnett",
@@ -308,13 +308,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 4 postdocs, 5 grad students, 1 undergraduate, 2 research technicians",
+      "members_page_url": "https://www.markharnett.org/members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/mark-harnett/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted current sections; Raul Mojica Soto-Albors sits under postdocs but his text says grad school 2020-2025, so he may be a former member and count may be 12."
     },
     {
       "id": "mit-mcgovern-hugh-herr",
@@ -330,13 +330,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 31,
+      "member_breakdown": "1 PI, 1 admin, 5 postdocs, 18 grad students, 2 research scientists, 3 research affiliates, 1 unlabelled",
+      "members_page_url": "https://www.media.mit.edu/groups/biomechatronics/people/",
+      "join_page_url": "https://www.media.mit.edu/groups/biomechatronics/applicant-information/",
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/hugh-herr/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE')."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'). Depth pass 2026-11-10: Fetched Media Lab Biomechatronics group people page; counted entries not marked Past Member/Former."
     },
     {
       "id": "mit-mcgovern-h-robert-horvitz",
@@ -352,13 +352,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI (not on roster, added), 5 postdocs, 2 grad students, 1 research assistant, 1 lab manager, 1 administrative coordinator",
+      "members_page_url": "http://web.mit.edu/horvitz/www/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/h-robert-horvitz/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE')."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'). Depth pass 2026-11-10: People page lists 10 current people; PI added as site is his; alumni on separate page."
     },
     {
       "id": "mit-mcgovern-alan-jasanoff",
@@ -374,13 +374,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, ~10 postdocs/research staff, 1 visiting faculty, 1 undergraduate, 1 lab administrator, 2 lab staff",
+      "members_page_url": "https://jasanofflab.mit.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/alan-jasanoff/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Cached page was a wrong MIT directory; the home page names jasanofflab.mit.edu as canonical, fetched its People page and counted names before Lab Alumni."
     },
     {
       "id": "mit-mcgovern-mehrdad-jazayeri",
@@ -396,13 +396,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 21,
+      "member_breakdown": "1 PI, 5 postdocs, 1 research specialist, 8 grad students, 1 MD student, 2 technical associates, 1 exec assistant, 1 website manager, 1 undergrad",
+      "members_page_url": "https://jazlab.org/personnel-alumni/",
+      "join_page_url": "https://jazlab.org/open-positions/",
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/mehrdad-jazayeri/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE')."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'). Depth pass 2026-11-10: Personnel page above Alumni; two listed people (Chiara Caraccio, Nicholas Watters) also appear in alumni lists so count may be off by about 2."
     },
     {
       "id": "mit-mcgovern-nancy-kanwisher",
@@ -418,13 +418,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 research scientists/scholars, 2 postdocs, 4 grad students, 1 post-bacc, 1 lab tech, 1 undergraduate",
+      "members_page_url": "http://web.mit.edu/bcs/nklab/people.shtml",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/nancy-kanwisher/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted names above Former Lab Members; excluded the dog; page last updated May 2024."
     },
     {
       "id": "mit-mcgovern-josh-mcdermott",
@@ -440,13 +440,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 3 postdocs, 9 grad students, 3 undergraduates, 1 lab administrator",
+      "members_page_url": "https://mcdermottlab.mit.edu/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/josh-mcdermott/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted Lab Personnel; stopped at Lab Alumni."
     },
     {
       "id": "mit-mcgovern-tomaso-poggio",
@@ -468,7 +468,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/tomaso-poggio/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'lab website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'lab website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Not sized, the site is not one PI's own group: Cbmm.mit.edu is the Center for Brains, Minds and Machines, a multi-PI center."
     },
     {
       "id": "mit-mcgovern-rebecca-saxe",
@@ -484,13 +484,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 4 postdocs, 2 grad students, 1 post-bacc, 1 lab manager, 2 visitors",
+      "members_page_url": "https://saxelab.mit.edu/people/",
+      "join_page_url": "https://saxelab.mit.edu/join-us/",
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/rebecca-saxe/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE')."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'). Depth pass 2026-11-10: Fetched Lab Members & Affiliates page; alumni on separate page."
     },
     {
       "id": "mit-mcgovern-nidhi-seethapathi",
@@ -506,13 +506,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 4 postdoc-level (one, Chaix-Eichel, role not stated), 3 PhD students, 2 undergraduates",
+      "members_page_url": "http://www.seethapathilab.org/people-and-openings",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/nidhi-seethapathi/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted Current Group Members; alumni excluded."
     },
     {
       "id": "mit-mcgovern-fan-wang",
@@ -528,13 +528,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 21,
+      "member_breakdown": "1 PI, 8 postdocs, 2 research scientists, 6 grad students, 4 technical associates",
+      "members_page_url": "https://www.wanglab-neuro.org/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/fan-wang/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE')."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'LAB WEBSITE'). Depth pass 2026-11-10: Team page above Alumni."
     },
     {
       "id": "mit-mcgovern-feng-zhang",
@@ -572,13 +572,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 admin, 3 postdoc/research affiliates, 5 research scientists, 1 software engineer, 1 technical associate, 1 PhD, 1 MEng, 1 visiting scientist",
+      "members_page_url": "https://sensein.group/team",
+      "join_page_url": "https://sensein.group/openings",
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/satrajit-ghosh/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'). Depth pass 2026-11-10: 'Current members' on team page; past members excluded."
     },
     {
       "id": "mit-mcgovern-ian-wickersham",
@@ -594,13 +594,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 5 technical associates, 2 postdocs",
+      "members_page_url": "https://wickershamlab.org/people/",
+      "join_page_url": "http://wickershamlab.org/contact/",
       "join_notes": null,
       "profile_url": "http://mcgovern.mit.edu/profile/ian-wickersham/",
-      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website')."
+      "notes": "Breadth pass from the Researchers listing page; no email/lab-site link shown there (only name + profile link). Individual profile page not yet read for lab_website/email/member count. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'). Depth pass 2026-11-10: People page above Alumni; roster dates are 2013-2017 so likely stale."
     }
   ],
   "non_lab_people": [],

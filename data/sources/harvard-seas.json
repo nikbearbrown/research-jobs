@@ -53,13 +53,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 7 PhD students (some co-advised), 1 postdoc",
+      "members_page_url": "https://dmelis.github.io/index.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/david-alvarez-melis",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'dmelis.github.io' link; taken as the lab site because its own menu links a people or lab page (https://dmelis.github.io/index.html)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'dmelis.github.io' link; taken as the lab site because its own menu links a people or lab page (https://dmelis.github.io/index.html). Depth pass 2026-11-10: Counted \"Current Group Members\" under Research Group and Advisees on his personal homepage (DCML group roster); stopped at Former Students."
     },
     {
       "id": "harvard-seas-nada-amin",
@@ -163,13 +163,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 postdoc, 1 research fellow, 6 PhD students, 2 master's students, 1 student researcher",
+      "members_page_url": "http://crisp.seas.harvard.edu/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/demba-ba",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'crisp.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (http://crisp.seas.harvard.edu/people.html)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'crisp.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (http://crisp.seas.harvard.edu/people.html). Depth pass 2026-11-10: Counted members above past members; footer says 2020 but roster includes recent names."
     },
     {
       "id": "harvard-seas-boaz-barak",
@@ -257,7 +257,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/katia-bertoldi",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'bertoldi.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://bertoldi.seas.harvard.edu/group/)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'bertoldi.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://bertoldi.seas.harvard.edu/group/). Depth pass 2026-11-10: Roster is split across Staff, PostDocs, Graduate Students, Visitors subpages (3+ fetches needed); the group page itself lists no names. Page says the group currently has no openings."
     },
     {
       "id": "harvard-seas-william-bossert",
@@ -295,13 +295,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 3 postdocs, 5 PhD students, 1 master's student, 3 undergrads",
+      "members_page_url": "https://xkianteb.github.io/group",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/kiante-brantley",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'xkianteb.github.io' link; taken as the lab site because its own menu links a people or lab page (https://xkianteb.github.io/group)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'xkianteb.github.io' link; taken as the lab site because its own menu links a people or lab page (https://xkianteb.github.io/group). Depth pass 2026-11-10: Counted group page before Alumni; a bracketed \"Prospective Kempner Research Fellows\" label sits next to the postdoc list so postdoc status of some names is slightly unclear."
     },
     {
       "id": "harvard-seas-karen-brennan",
@@ -323,7 +323,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/karen-brennan",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'creativecomputing.gse.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://creativecomputing.gse.harvard.edu/people/)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'creativecomputing.gse.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://creativecomputing.gse.harvard.edu/people/). Depth pass 2026-11-10: People page lists 5 labelled people (director, 2 doctoral students, visiting scholar, research associate) followed by about 100 names with no roles or alumni heading; cannot tell who is current."
     },
     {
       "id": "harvard-seas-michael-brenner",
@@ -345,7 +345,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/michael-brenner",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'brennergroup.seas.harvard.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'brennergroup.seas.harvard.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Not sized, the site could not be read: Site returned an Access Denied error, no content. The site refuses the project's fetcher; not worked around."
     },
     {
       "id": "harvard-seas-david-brooks",
@@ -399,7 +399,7 @@
       "pi_title": "Robert L. Wallace Professor of Applied Physics and Vinton Hayes Senior Research Fellow in Electrical Engineering",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": "https://meta-imaging.pratt.duke.edu/",
+      "lab_website": null,
       "location": "Pierce 205A",
       "phone": "(617) 384-7611",
       "admin_name": "Anna Frej (Staff Contact)",
@@ -411,7 +411,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/federico-capasso",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Email pass: profile page shows only an admin 'Staff Contact', no personal PI email; also found a lab website link on the same page. Depth pass 2026-11-10: lab_website read from the profile page's 'meta-imaging.pratt.duke.edu' link; taken as the lab site because its own menu links a people or lab page (https://meta-imaging.pratt.duke.edu/team)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Email pass: profile page shows only an admin 'Staff Contact', no personal PI email; also found a lab website link on the same page. Depth pass 2026-11-10: lab_website read from the profile page's 'meta-imaging.pratt.duke.edu' link; taken as the lab site because its own menu links a people or lab page (https://meta-imaging.pratt.duke.edu/team). Depth pass 2026-11-10: lab_website cleared again: on reading, the website link on the profile page (https://meta-imaging.pratt.duke.edu/) is not this PI's lab site. Not sized, the site is not one PI's own group: Lab_website is the Duke-led AFOSR MURI Meta-Imaging program site (Capasso is one of several co-PIs); no group roster."
     },
     {
       "id": "harvard-seas-stephen-casper",
@@ -443,7 +443,7 @@
       "pi_title": "Gordon McKay Professor of Computer Science",
       "pi_email": "yiling@seas.harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": "http://www.yiling.seas.harvard.edu",
+      "lab_website": null,
       "location": "150 Western Ave, Sci&Eng 5.306",
       "phone": null,
       "admin_name": null,
@@ -455,7 +455,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/yiling-chen",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'www.yiling.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://yiling.seas.harvard.edu/people/)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'www.yiling.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://yiling.seas.harvard.edu/people/). Depth pass 2026-11-10: lab_website cleared again: on reading, the website link on the profile page (http://www.yiling.seas.harvard.edu) is not this PI's lab site. Not sized, the site is not one PI's own group: Lab_website is the PI's personal website (she is a member of the EconCS group); home page shows no roster and no People link address."
     },
     {
       "id": "harvard-seas-sitan-chen",
@@ -537,13 +537,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 4 postdocs, 5 PhD students (3 co-advised), 1 guest researcher",
+      "members_page_url": "https://www.sychunglab.org/people",
+      "join_page_url": "https://www.sychunglab.org/positions",
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/sueyeon-chung",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'www.sychunglab.org' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'www.sychunglab.org' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted People page; collaborators list excluded."
     },
     {
       "id": "harvard-seas-david-clarke",
@@ -603,13 +603,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 7 PhD candidates/students (including 1 incoming), 1 post-bac fellow",
+      "members_page_url": "https://dtak.github.io/people/",
+      "join_page_url": "https://dtak.github.io/joining/",
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/finale-doshi-velez",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'dtak.github.io' link; taken as the lab site because its own menu links a people or lab page (https://dtak.github.io/people/)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'dtak.github.io' link; taken as the lab site because its own menu links a people or lab page (https://dtak.github.io/people/). Depth pass 2026-11-10: Counted Current Lab Members, stopping at Former Members; includes one listed \"Incoming PhD Student\"."
     },
     {
       "id": "harvard-seas-frank-doyle",
@@ -663,7 +663,7 @@
       "pi_title": "Gordon McKay Professor of Computer Science",
       "pi_email": "dwork@seas.harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": "https://hireaspirations.seas.harvard.edu/",
+      "lab_website": null,
       "location": "150 Western Ave, Sci&Eng 3.305",
       "phone": null,
       "admin_name": null,
@@ -675,7 +675,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/cynthia-dwork",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'hireaspirations.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://hireaspirations.seas.harvard.edu/people/)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'hireaspirations.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://hireaspirations.seas.harvard.edu/people/). Depth pass 2026-11-10: lab_website cleared again: on reading, the website link on the profile page (https://hireaspirations.seas.harvard.edu/) is not this PI's lab site. Not sized, the site is not one PI's own group: Lab_website is the Hire Aspirations Institute (an institute with 23 affiliates and staff); not one PI's group."
     },
     {
       "id": "harvard-seas-cynthia-friend",
@@ -697,7 +697,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/cynthia-friend",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'faculty.chemistry.harvard.edu/friend-lab')."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'faculty.chemistry.harvard.edu/friend-lab'). Depth pass 2026-11-10: Not sized, the site could not be read: Site returned an Access Denied error, no content. The site refuses the project's fetcher; not worked around."
     },
     {
       "id": "harvard-seas-krzysztof-gajos",
@@ -713,13 +713,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 6 PhD students",
+      "members_page_url": "https://iis.seas.harvard.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/krzysztof-gajos",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'iis.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://iis.seas.harvard.edu/people/)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'iis.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://iis.seas.harvard.edu/people/). Depth pass 2026-11-10: Counted Current group members, stopping at Recent Alumni."
     },
     {
       "id": "harvard-seas-stephanie-gil",
@@ -763,7 +763,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/elena-glassman",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'glassmanlab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'glassmanlab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Home page \"Current Lab Members\" lists only the PI and 2 PhD students, but the page also describes a community of undergraduates, masters, PhD students and postdocs and recent papers name more people, so the list looks incomplete; no full roster seen."
     },
     {
       "id": "harvard-seas-yannai-gonczarowski",
@@ -867,13 +867,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 22,
+      "member_breakdown": "1 PI, 3 admin/staff (lab administrator, research portfolio manager, one more staff entry), 2 scientists, 7 postdocs, 4 PhD students, 4 undergrads, 1 visiting scholar",
+      "members_page_url": "https://www.donheehamlab.org/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/donhee-ham",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'www.donheehamlab.org' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'www.donheehamlab.org' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted people page above ALUMNI; page footer says 2019, so the roster may be old, and the role labels for the first three staff names are ambiguous."
     },
     {
       "id": "harvard-seas-lene-hau",
@@ -939,7 +939,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/doeke-hekstra",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'hekstralab.fas.harvard.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'hekstralab.fas.harvard.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Not sized, the site could not be read: Site returned an Access Denied error, no content. The site refuses the project's fetcher; not worked around."
     },
     {
       "id": "harvard-seas-gage-hills",
@@ -1027,7 +1027,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/noel-holbrook",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'holbrookgroup.oeb.harvard.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'holbrookgroup.oeb.harvard.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Not sized, the site could not be read: Site returned an Access Denied error, no content. The site refuses the project's fetcher; not worked around."
     },
     {
       "id": "harvard-seas-paul-horowitz",
@@ -1065,13 +1065,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 4 PhD students, 1 postdoc, 1 visiting master's student, 1 undergrad, 1 lab administrator, 2 affiliates",
+      "members_page_url": "https://biorobotics.harvard.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/robert-howe",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'biorobotics.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://biorobotics.harvard.edu/people/)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'biorobotics.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://biorobotics.harvard.edu/people/). Depth pass 2026-11-10: Counted PI plus the 10 results in the People Directory (no pager); includes 2 people with Affiliate roles/unclear status."
     },
     {
       "id": "harvard-seas-evelyn-hu",
@@ -1093,7 +1093,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/evelyn-hu",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'hugroup.seas.harvard.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'hugroup.seas.harvard.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Not sized, the site could not be read: Site returned an Access Denied error, no content. The site refuses the project's fetcher; not worked around."
     },
     {
       "id": "harvard-seas-john-hutchinson",
@@ -1103,7 +1103,7 @@
       "pi_title": "Abbott and James Lawrence Professor of Engineering and Gordon McKay Professor of Applied Mechanics, Emeritus",
       "pi_email": "jhutchin@fas.harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": "https://groups.seas.harvard.edu/hutchinson/",
+      "lab_website": null,
       "location": "Pierce 100E",
       "phone": null,
       "admin_name": null,
@@ -1115,7 +1115,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/john-hutchinson",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'groups.seas.harvard.edu/hutchinson' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'groups.seas.harvard.edu/hutchinson' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: lab_website cleared again: on reading, the website link on the profile page (https://groups.seas.harvard.edu/hutchinson/) is not this PI's lab site. Not sized, the site is not one PI's own group: Lab_website is the PI's personal faculty page (emeritus, not taking students); no group roster."
     },
     {
       "id": "harvard-seas-peter-huybers",
@@ -1131,13 +1131,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI (added, not on roster), 1 postdoc, 4 grad students, 5 undergrads, 1 assistant",
+      "members_page_url": "https://phuybers.sites.fas.harvard.edu/People.html",
+      "join_page_url": "https://phuybers.sites.fas.harvard.edu/Opportunities.html",
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/peter-huybers",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'phuybers.sites.fas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://phuybers.sites.fas.harvard.edu/People.html)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'phuybers.sites.fas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://phuybers.sites.fas.harvard.edu/People.html). Depth pass 2026-11-10: PI not listed on the People page but site is his, so 1 added; stopped before Former students."
     },
     {
       "id": "harvard-seas-stratos-idreos",
@@ -1159,7 +1159,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/stratos-idreos",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'daslab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'daslab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: People section lists 13 names above \"Show Alumni\", but two of them are tagged \"Now: IBM\" / \"Now: Meta\", so it is unclear who is still current."
     },
     {
       "id": "harvard-seas-daniel-jacob",
@@ -1219,13 +1219,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 postdoc, 13 students",
+      "members_page_url": "https://shamulent.github.io/group",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/sham-kakade",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'shamulent.github.io' link; taken as the lab site because its own menu links a people or lab page (https://shamulent.github.io/group)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'shamulent.github.io' link; taken as the lab site because its own menu links a people or lab page (https://shamulent.github.io/group). Depth pass 2026-11-10: Counted PI plus the 'Current Students and Postdocs' list (1 postdoc, 13 students); stopped at Former Postdocs."
     },
     {
       "id": "harvard-seas-efthimios-kaxiras",
@@ -1260,16 +1260,16 @@
       "lab_website": "https://www.keutschgroup.com/frank-keutsch",
       "location": "12 Oxford Street",
       "phone": "(617) 495-1878",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Lori Reck",
+      "admin_email": "lreck@seas.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 faculty coordinator, 2 senior engineers/scientists, 7 grad students, 1 postdoc",
+      "members_page_url": "https://www.keutschgroup.com/members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/frank-keutsch",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'www.keutschgroup.com/frank-keutsch' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'www.keutschgroup.com/frank-keutsch' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted PI, Lori Reck, Dykema, Greenberg, 7 grad students, 1 postdoc from the Members page; excluded Rob Stanhope (listed as Anderson Group lab administrator), pets, alumni."
     },
     {
       "id": "harvard-seas-ahmad-khalil",
@@ -1291,7 +1291,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/ahmad-mo-khalil",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'khalillab.github.io' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'khalillab.github.io' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Home page shows only research and publications; no roster or people link in the cached text, and no people_url, so no count."
     },
     {
       "id": "harvard-seas-philip-kim",
@@ -1348,16 +1348,16 @@
       "lab_website": "https://cse-lab.seas.harvard.edu/",
       "location": "Pierce 323",
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Lori Reck",
+      "admin_email": "lreck@seas.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 4 postdocs, 2 research associates, 2 visiting fellows, 4 PhD students, 1 faculty coordinator",
+      "members_page_url": "https://cse-lab.seas.harvard.edu/cse-lab-people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/petros-koumoutsakos",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'cse-lab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'cse-lab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted every person listed on the people page (PI, Reck coordinator included); 'Former Members' heading was empty."
     },
     {
       "id": "harvard-seas-boris-kozinsky",
@@ -1373,13 +1373,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 19,
+      "member_breakdown": "1 PI, 2 postdocs, 13 grad students, 3 undergrads",
+      "members_page_url": "https://mir.g.harvard.edu/people/members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/boris-kozinsky",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'mir.g.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://mir.g.harvard.edu/people)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'mir.g.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://mir.g.harvard.edu/people). Depth pass 2026-11-10: Fetched the Members page linked from the people page; counted PI, 2 postdocs, 13 PhD students, 3 undergrads; excluded Nicola Molinari (now at Bosch, visiting associate) and shared faculty coordinator Matthew Zahnzinger."
     },
     {
       "id": "harvard-seas-zhiming-kuang",
@@ -1703,13 +1703,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 grad students, 1 visiting PhD student",
+      "members_page_url": "https://www.kaighin.org/people/",
+      "join_page_url": "https://www.kaighin.org/opportunities/",
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/kaighin-mccoll",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'www.kaighin.org' link; taken as the lab site because its own menu links a people or lab page (https://www.kaighin.org/people/)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'www.kaighin.org' link; taken as the lab site because its own menu links a people or lab page (https://www.kaighin.org/people/). Depth pass 2026-11-10: Counted PI, Gallagher, Matthews, Getz (Fall 2026-present) and visiting student Mei Du; stopped at Past members."
     },
     {
       "id": "harvard-seas-james-mickens",
@@ -1731,7 +1731,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/james-mickens",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'asml.cyber.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://asml.cyber.harvard.edu/people/)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'asml.cyber.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://asml.cyber.harvard.edu/people/). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: Applied Social Media Lab at Berkman Klein Center, led by three PIs (Lessig, Mickens, Zittrain); roster is staff-heavy."
     },
     {
       "id": "harvard-seas-samir-mitragotri",
@@ -1747,13 +1747,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 28,
+      "member_breakdown": "1 PI, 1 faculty assistant, 1 research scientist/lab manager, 1 research associate, 11 postdocs, 6 PhD students, 7 visiting fellows",
+      "members_page_url": "https://mitragotrilab.seas.harvard.edu/lab/members",
+      "join_page_url": "https://mitragotrilab.seas.harvard.edu/about/join",
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/samir-mitragotri",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'mitragotrilab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'mitragotrilab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted all names on the lab members page; no Alumni section included; role labels from page."
     },
     {
       "id": "harvard-seas-jerry-mitrovica",
@@ -1841,7 +1841,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/paul-moorcroft",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'moorcroftlab.oeb.harvard.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'moorcroftlab.oeb.harvard.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Not sized, the site could not be read: Site returns Access Denied (Akamai) so nothing readable. The site refuses the project's fetcher; not worked around."
     },
     {
       "id": "harvard-seas-julia-mundy",
@@ -1854,16 +1854,16 @@
       "lab_website": "http://mundy.physics.harvard.edu/",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Amanda Hall",
+      "admin_email": "amandahall@fas.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 19,
+      "member_breakdown": "1 PI, 1 research scientist, 1 lab administrator, 2 postdocs, 9 grad researchers, 5 undergrads",
+      "members_page_url": "http://mundy.physics.harvard.edu/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/julia-mundy",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'mundy.physics.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (http://mundy.physics.harvard.edu/people.html)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'mundy.physics.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (http://mundy.physics.harvard.edu/people.html). Depth pass 2026-11-10: Counted all names above 'Former Members'; roster looks current (2026 dates in alumni)."
     },
     {
       "id": "harvard-seas-susan-murphy",
@@ -1945,13 +1945,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 3 postdocs, 1 research associate, 9 grad students",
+      "members_page_url": "https://needleman.seas.harvard.edu/people",
+      "join_page_url": "https://needleman.seas.harvard.edu/join-us/",
+      "join_notes": "Contact Dan directly about joining.",
       "profile_url": "https://seas.harvard.edu/person/daniel-needleman",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'needleman.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://needleman.seas.harvard.edu/people)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'needleman.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://needleman.seas.harvard.edu/people). Depth pass 2026-11-10: Counted PI and all names above Alumni; excluded Lab Visitors."
     },
     {
       "id": "harvard-seas-david-nelson",
@@ -2074,16 +2074,16 @@
       "lab_website": "http://vcg.seas.harvard.edu/",
       "location": "150 Western Ave, Sci&Eng 4.303",
       "phone": null,
-      "admin_name": null,
+      "admin_name": "Emma Duncan",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 admin, 2 postdocs, 7 PhD students",
+      "members_page_url": "https://vcg.seas.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/hanspeter-pfister",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'vcg.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://vcg.seas.harvard.edu/people)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'vcg.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://vcg.seas.harvard.edu/people). Depth pass 2026-11-10: Counted PI plus the Members list (admin, 2 post-docs, 7 PhD students); excluded Associates, Alumni, Visitors."
     },
     {
       "id": "harvard-seas-maxim-prigozhin",
@@ -2121,13 +2121,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 postdoc, 6 PhD students",
+      "members_page_url": "https://procaccia.info/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/ariel-procaccia",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'procaccia.info' link; taken as the lab site because its own menu links a people or lab page (https://procaccia.info/people/)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'procaccia.info' link; taken as the lab site because its own menu links a people or lab page (https://procaccia.info/people/). Depth pass 2026-11-10: Counted PI plus 'Current Group Members'; stopped at Alumni."
     },
     {
       "id": "harvard-seas-sharad-ramanathan",
@@ -2143,13 +2143,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 3 postdocs, 1 research assistant, 8 grad students (one joint with Weitz lab), 2 with no role shown (Ishaq Khan, Julie Liu)",
+      "members_page_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/sharad-ramanathan",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'hscrb.harvard.edu/labs/ramanathan-lab')."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'hscrb.harvard.edu/labs/ramanathan-lab'). Depth pass 2026-11-10: Counted Lab Members up to the Alumni headings; Ishaq Khan and Julie Liu have no role shown but are in the current list."
     },
     {
       "id": "harvard-seas-james-rice",
@@ -2215,7 +2215,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/zachary-schiffer",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'schifferlab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'schifferlab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Not sized, the site could not be read: Schifferlab.seas.harvard.edu did not resolve (ERR_NAME_NOT_RESOLVED)."
     },
     {
       "id": "harvard-seas-daniel-schrag",
@@ -2275,13 +2275,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 PhD students, 1 visiting undergrad",
+      "members_page_url": "https://semeghini.seas.harvard.edu/people/",
+      "join_page_url": "https://semeghini.seas.harvard.edu/open-positions/",
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/giulia-semeghini",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'semeghini.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://semeghini.seas.harvard.edu/people/)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'semeghini.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://semeghini.seas.harvard.edu/people/). Depth pass 2026-11-10: Counted PI, 3 grad students and 1 visiting undergrad; 'Open Postdoc Position' is not a person; stopped at Former Members."
     },
     {
       "id": "harvard-seas-john-shaw",
@@ -2325,7 +2325,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/stuart-shieber",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'nlp.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (http://nlp.seas.harvard.edu/members/)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'nlp.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (http://nlp.seas.harvard.edu/members/). Depth pass 2026-11-10: Not sized, the site is not one PI's own group: Harvardnlp members page lists two faculty (Shieber, Brantley) plus fellows; multi-PI group, and page footer is 2024."
     },
     {
       "id": "harvard-seas-patrick-slade",
@@ -2341,13 +2341,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 24,
+      "member_breakdown": "1 PI, 4 postdocs, 10 doctoral researchers, 6 master's/visiting, 3 undergrads",
+      "members_page_url": "https://sladelab.seas.harvard.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/patrick-slade",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'sladelab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'sladelab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted all names above the Alumni headings."
     },
     {
       "id": "harvard-seas-maurice-smith",
@@ -2363,13 +2363,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 postdoc, 5 PhD students, 1 lab technician",
+      "members_page_url": "http://www.seas.harvard.edu/motorlab/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/maurice-smith",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'www.seas.harvard.edu/motorlab' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'www.seas.harvard.edu/motorlab' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted 'Current Lab Members' above Alumni; page looks old (newest dated alumni entry is 2019), so may be stale."
     },
     {
       "id": "harvard-seas-michael-smith",
@@ -2429,13 +2429,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 25,
+      "member_breakdown": "1 PI, 4 postdocs, 5 doctoral students, 1 visiting doctoral, 4 research fellows, 6 master's, 4 undergrads",
+      "members_page_url": "https://bioniclab.seas.harvard.edu/people/",
+      "join_page_url": "https://bioniclab.seas.harvard.edu/open-positions/",
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/shriya-srinivasan",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'bioniclab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'bioniclab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: The worklist people_url was a 404; fetched Lab Members page linked from home. Counted all names; excluded Collaborators."
     },
     {
       "id": "harvard-seas-fiamma-straneo",
@@ -2492,16 +2492,16 @@
       "lab_website": "http://bgc.seas.harvard.edu",
       "location": "Pierce 127",
       "phone": "(617) 496-0858",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Robert Stanhope",
+      "admin_email": "stanhope@seas.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 1 scientific programmer, 1 faculty coordinator, 2 research fellows, 5 postdocs, 3 doctoral students, 1 master's student",
+      "members_page_url": "http://bgc.seas.harvard.edu/current-group.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/elsie-sunderland",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'bgc.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (http://bgc.seas.harvard.edu/lab.html)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'bgc.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (http://bgc.seas.harvard.edu/lab.html). Depth pass 2026-11-10: Fetched Current Group page linked from the lab page; counted PI and staff/students; excluded 3 Associates (collaborators); undergraduates are on a separate page not read."
     },
     {
       "id": "harvard-seas-zhigang-suo",
@@ -2539,13 +2539,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 20,
+      "member_breakdown": "1 PI, 4 postdocs, 9 PhD students (incl. 1 labelled postdoc), 1 master's, 5 undergrad/master's/PhD under later heading",
+      "members_page_url": "https://teamcore.seas.harvard.edu/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/milind-tambe",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'teamcore.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://teamcore.seas.harvard.edu/team/)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'teamcore.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://teamcore.seas.harvard.edu/team/). Depth pass 2026-11-10: Counted every named person on the team page, PI included; the page headings are mixed up in places (e.g. a postdoc under PhD Students)."
     },
     {
       "id": "harvard-seas-nick-trefethen",
@@ -2825,13 +2825,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 grad students",
+      "members_page_url": "http://meso.seas.harvard.edu/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/robert-westervelt",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'meso.seas.harvard.edu/westervelt.html' link; taken as the lab site because its own menu links a people or lab page (http://meso.seas.harvard.edu/people.html)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'meso.seas.harvard.edu/westervelt.html' link; taken as the lab site because its own menu links a people or lab page (http://meso.seas.harvard.edu/people.html). Depth pass 2026-11-10: Counted PI and 2 graduate students; excluded Naomi Brave (CIQM center managing director) and Sagar Bhandari (collaborator/alumnus). Page is stale (footer 2016)."
     },
     {
       "id": "harvard-seas-steven-wofsy",
@@ -2875,7 +2875,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/robert-wood",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'micro.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://www.micro.seas.harvard.edu/people)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'micro.seas.harvard.edu' link; taken as the lab site because its own menu links a people or lab page (https://www.micro.seas.harvard.edu/people). Depth pass 2026-11-10: People page at www.micro.seas.harvard.edu/people lists PI, admin, 8 grad students, 6 postdocs but Research Staff, Visiting Master's and Undergraduate sections show no names (likely images), so full roster not visible."
     },
     {
       "id": "harvard-seas-robin-wordsworth",
@@ -2891,13 +2891,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI plus 6 other current members (roles not labelled on page)",
+      "members_page_url": "https://people.seas.harvard.edu/~rwordsworth/people.html",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Open to hearing from prospective students or postdocs; get in touch.",
       "profile_url": "https://seas.harvard.edu/person/robin-wordsworth",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'people.seas.harvard.edu/~rwordsworth/index.html' link; taken as the lab site because its own menu links a people or lab page (https://people.seas.harvard.edu/~rwordsworth/people.html)."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'people.seas.harvard.edu/~rwordsworth/index.html' link; taken as the lab site because its own menu links a people or lab page (https://people.seas.harvard.edu/~rwordsworth/people.html). Depth pass 2026-11-10: Counted the 'Current Group Members' list including PI; 5 'Associated' postdocs/students/undergrads listed separately were not counted."
     },
     {
       "id": "harvard-seas-le-xie",
@@ -2910,16 +2910,16 @@
       "lab_website": "https://xielab.seas.harvard.edu/",
       "location": "150 Western Ave, Sci&Eng SEC 5.418",
       "phone": "(617) 496-1888",
-      "admin_name": null,
+      "admin_name": "Justin Benton",
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 18,
+      "member_breakdown": "1 PI, 6 PhD students, 5 postdocs, 2 master's, 4 undergrads",
+      "members_page_url": "https://xielab.seas.harvard.edu/group-member/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/le-xie",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'xielab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'xielab.seas.harvard.edu' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Fetched Group Member page linked from site; counted current lists; excluded Bin Wang (Lab Infrastructure Advisor) and alumni."
     },
     {
       "id": "harvard-seas-amir-yacoby",
@@ -2998,16 +2998,16 @@
       "lab_website": "https://sites.google.com/g.harvard.edu/y-lab",
       "location": "Pierce Hall 225",
       "phone": "(617) 998-1949",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Molly Carlson",
+      "admin_email": "mcarlson@seas.harvard.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 4 postdocs, 4 grad researchers, 2 rotation grad researchers, 2 undergrads, 2 visiting grads, 1 undergrad associate",
+      "members_page_url": "https://sites.google.com/g.harvard.edu/y-lab/team",
+      "join_page_url": "https://sites.google.com/g.harvard.edu/y-lab/positions",
       "join_notes": null,
       "profile_url": "https://seas.harvard.edu/person/kiyoul-yang",
-      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'sites.google.com/g.harvard.edu/y-lab' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from the SEAS faculty directory (seas.harvard.edu/faculty, 10 pages of 20). pi_email/phone/office come directly from the directory card; research_summary, lab_website, member_count and join info not yet read (would need each person's own profile/lab page). Depth pass 2026-11-10: lab_website read from the profile page's 'sites.google.com/g.harvard.edu/y-lab' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: Counted all listed researchers; excluded 3 administrative associates; page footer says 2023 but entries have 2026 degrees."
     },
     {
       "id": "harvard-seas-juncheng-yang",

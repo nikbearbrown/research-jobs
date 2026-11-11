@@ -1,0 +1,1321 @@
+[
+  {
+    "source": "data/sources/harvard-hms-neurobiology.json",
+    "lab_id": "harvard-hms-neurobiology-joshua-kaplan",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: Lab_website redirects to the MGH Department of Molecular Biology site; the people page is a department faculty list, not Kaplan's own group."
+  },
+  {
+    "source": "data/sources/harvard-hms-neurobiology.json",
+    "lab_id": "harvard-hms-neurobiology-clifford-woolf",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: Lab_website lands on the F.M. Kirby Neurobiology Center site; its People page lists center faculty and staff, not a Woolf lab roster."
+  },
+  {
+    "source": "data/sources/harvard-hsph-biostatistics.json",
+    "lab_id": "harvard-hsph-biostatistics-francesca-dominici",
+    "fields": {
+      "member_count": null,
+      "pi_email": "fdominic@hsph.harvard.edu"
+    },
+    "note": "No roster on the lab page or its Leadership page (only titles for Dominici); page also describes NSAPH as a multi-institution group, so no count."
+  },
+  {
+    "source": "data/sources/harvard-hsph-biostatistics.json",
+    "lab_id": "harvard-hsph-biostatistics-curtis-huttenhower",
+    "fields": {
+      "member_count": 38,
+      "member_breakdown": "1 PI, 10 research staff, 2 core staff, 17 postdocs, 8 students",
+      "members_page_url": "https://huttenhower.sph.harvard.edu/people/",
+      "join_page_url": "https://huttenhower.sph.harvard.edu/positions/",
+      "pi_email": "chuttenh@hsph.harvard.edu"
+    },
+    "note": "Counted the structured current list on the people page (excludes 'Lab Affiliates' and the dated alumni/visitor table below it; 5 people in that table have no end date and were not counted)."
+  },
+  {
+    "source": "data/sources/harvard-hsph-biostatistics.json",
+    "lab_id": "harvard-hsph-biostatistics-xihong-lin",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 3 research staff, 4 postdocs, 5 PhD students",
+      "members_page_url": "https://hsph.harvard.edu/research/lin-lab/current-lab-members/",
+      "admin_email": "dpcohen@hsph.harvard.edu",
+      "pi_email": "xihong_lin@harvard.edu"
+    },
+    "note": "Counted the Lab Members page (Alumni is a separate tab)."
+  },
+  {
+    "source": "data/sources/harvard-hsph-biostatistics.json",
+    "lab_id": "harvard-hsph-biostatistics-rachel-nethery",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI (not listed, added), 2 PhD students",
+      "members_page_url": "https://rachelnethery.github.io/people/"
+    },
+    "note": "People page lists only Sarika Aggarwal and Keith Barnatchez (both PhD students); PI not on roster so +1; site is Nethery's personal academic site, so confirm it is her full group."
+  },
+  {
+    "source": "data/sources/harvard-hsph-biostatistics.json",
+    "lab_id": "harvard-hsph-biostatistics-jp-onnela",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 6 staff/research assistants, 4 postdocs/research associates, 3 doctoral students (plus 1 operations manager counted in staff)",
+      "members_page_url": "https://hsph.harvard.edu/research/onnela-lab/people-2/",
+      "pi_email": "onnela@hsph.harvard.edu"
+    },
+    "note": "Fetched the People page linked from the lab home; counted team above the Lab Affiliates (4 external, not counted) and Alumni headings."
+  },
+  {
+    "source": "data/sources/harvard-hsph-environmental-health.json",
+    "lab_id": "harvard-hsph-environmental-health-peng-gao",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 5 postdocs, 1 clinical fellow, 1 PhD student",
+      "members_page_url": "https://hsph.harvard.edu/research/gao-lab/our-team/",
+      "pi_email": "pgao@hsph.harvard.edu"
+    },
+    "note": "Counted the Our Team page."
+  },
+  {
+    "source": "data/sources/harvard-hsph-environmental-health.json",
+    "lab_id": "harvard-hsph-environmental-health-adam-haber",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 postdoc, 6 PhD students, 1 master's student",
+      "members_page_url": "http://www.haberlab.org/people",
+      "join_page_url": "http://www.haberlab.org/join-us"
+    },
+    "note": "Counted current People section; Lab Alumni listed separately and not counted."
+  },
+  {
+    "source": "data/sources/harvard-hsph-environmental-health.json",
+    "lab_id": "harvard-hsph-environmental-health-hannah-greenwald-healy",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdocs, plus 7 students (doctoral, master's, undergraduate)",
+      "members_page_url": "http://thehealylab.com/team",
+      "pi_email": "hannahhealy@hsph.harvard.edu"
+    },
+    "note": "Counted the team page; 'Previous Lab Members' not counted."
+  },
+  {
+    "source": "data/sources/harvard-hsph-environmental-health.json",
+    "lab_id": "harvard-hsph-environmental-health-tamarra-james-todd",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD candidates, 1 research project manager, 1 instructor",
+      "members_page_url": "https://hsph.harvard.edu/?post_type=rcil&p=111350045026&preview=true",
+      "pi_email": "tjtodd@hsph.harvard.edu"
+    },
+    "note": "Counted 'Current ERJ Lab Members' on the Meet the Team page (a preview URL); 'Previous Members' excluded."
+  },
+  {
+    "source": "data/sources/harvard-hsph-environmental-health.json",
+    "lab_id": "harvard-hsph-environmental-health-quan-lu",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 4 research fellows, 1 research scientist, 2 students",
+      "members_page_url": "https://hsph.harvard.edu/research/lu-lab/",
+      "pi_email": "qlu@hsph.harvard.edu"
+    },
+    "note": "Counted the Lab Team section on the lab page; newest news item on the page is from 2023, so the roster may be dated."
+  },
+  {
+    "source": "data/sources/harvard-hsph-environmental-health.json",
+    "lab_id": "harvard-hsph-environmental-health-jin-ah-park",
+    "fields": {
+      "member_count": null,
+      "pi_email": "jpark@hsph.harvard.edu"
+    },
+    "note": "Lab Team page was not shown on the cached home page; fetched the Research Team page, which lists PI plus 4 postdocs but includes Chimwemwe Mwase, whom the Alumni list says left in May 2024 (latest photos 2024), so current members cannot be told."
+  },
+  {
+    "source": "data/sources/harvard-hsph-environmental-health.json",
+    "lab_id": "harvard-hsph-environmental-health-marc-weisskopf",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI, 16 staff, postdocs and students (research manager, 5 postdocs, 3 doctoral students, scientists, project managers)",
+      "members_page_url": "https://hsph.harvard.edu/research/weisskopf-lab/our-team/"
+    },
+    "note": "Counted PI plus 'Current Lab Members'; 'Past Lab Members' excluded."
+  },
+  {
+    "source": "data/sources/harvard-hsph-epidemiology.json",
+    "lab_id": "harvard-hsph-epidemiology-mingyang-song",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 visiting scholar, 2 postdocs, 1 staff, 8 students",
+      "members_page_url": "https://hsph.harvard.edu/research/song-lab/people/our-team/"
+    },
+    "note": "Fetched Our Team page; excluded 2 'Lab Affiliates' (joint with another lab) and Alumni."
+  },
+  {
+    "source": "data/sources/harvard-hsph-ghp.json",
+    "lab_id": "harvard-hsph-ghp-kevin-croke",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: Lab_website is Kevin Croke's profile/bio page (bio, publications, teaching); it shows no group roster."
+  },
+  {
+    "source": "data/sources/harvard-hsph-ghp.json",
+    "lab_id": "harvard-hsph-ghp-nicolas-alan-menzies",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 research scientist, 1 senior research analyst, 1 postdoc, 4 PhD students",
+      "members_page_url": "https://hsph.harvard.edu/research/menzies-lab/meet-the-team/",
+      "pi_email": "nmenzies@hsph.harvard.edu"
+    },
+    "note": "Fetched Meet the Team page; Alumni excluded."
+  },
+  {
+    "source": "data/sources/harvard-hsph-iid.json",
+    "lab_id": "harvard-hsph-iid-flaminia-catteruccia",
+    "fields": {
+      "member_count": 20,
+      "member_breakdown": "1 PI, 2 research scientists/associates, 5 postdocs, 6 graduate students, 4 research assistants, 2 staff",
+      "members_page_url": "https://hsph.harvard.edu/research/catteruccia-lab/our-team/",
+      "admin_name": "BlakeLee Kaiser"
+    },
+    "note": "Counted the Our Team page."
+  },
+  {
+    "source": "data/sources/harvard-hsph-iid.json",
+    "lab_id": "harvard-hsph-iid-kizzmekia-s-corbett-helaire",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 4 postdocs, 4 students, 2 staff",
+      "members_page_url": "https://hsph.harvard.edu/research/corbett-lab/the-team/",
+      "admin_name": "Taylor Hill",
+      "pi_email": "kizzmekia_corbett@hsph.harvard.edu",
+      "join_notes": "Page has a 'How to join the Lab' note giving kizzmekia_corbett@hsph.harvard.edu as the contact."
+    },
+    "note": "Counted the team page."
+  },
+  {
+    "source": "data/sources/harvard-hsph-iid.json",
+    "lab_id": "harvard-hsph-iid-manoj-t-duraisingh",
+    "fields": {
+      "member_count": 23,
+      "member_breakdown": "1 PI, 5 research scientists/associates/assistants, 2 visiting scientists, 12 postdocs and research-associate fellows, 4 graduate students",
+      "members_page_url": "https://hsph.harvard.edu/research/duraisingh-lab/team-members/"
+    },
+    "note": "Home page had no roster; fetched Team Members page; counted all listed names (an empty 'Department Associate' heading excluded)."
+  },
+  {
+    "source": "data/sources/harvard-hsph-iid.json",
+    "lab_id": "harvard-hsph-iid-sarah-fortune",
+    "fields": {
+      "member_count": 23,
+      "member_breakdown": "1 PI, 13 researchers/staff, 7 postdocs, 2 graduate students",
+      "members_page_url": "https://hsph.harvard.edu/research/fortune-lab/the-team/",
+      "pi_email": "sfortune@hsph.harvard.edu",
+      "join_notes": "Students or postdocs email Sarah Fortune and cc Lili Welch with a CV and why they are interested."
+    },
+    "note": "Counted The Team page."
+  },
+  {
+    "source": "data/sources/harvard-hsph-iid.json",
+    "lab_id": "harvard-hsph-iid-wendy-garrett",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 5 postdocs, 2 research staff, 1 PhD student",
+      "members_page_url": "https://hsph.harvard.edu/research/garrett-lab/team/",
+      "join_notes": "Prospective grad students apply through the Harvard Chan BPH PhD program or the HMS BBS PhD program."
+    },
+    "note": "Counted the Team page; Past Members excluded."
+  },
+  {
+    "source": "data/sources/harvard-hsph-iid.json",
+    "lab_id": "harvard-hsph-iid-yonatan-grad",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 5 researchers/staff, 4 postdocs, 4 students",
+      "members_page_url": "https://hsph.harvard.edu/research/grad-lab/people/",
+      "join_notes": "Prospective grad students come through several PhD programs (BPH, Systems Biology, etc.); page says 'Email to Apply'."
+    },
+    "note": "Counted the People page; Grad Lab Alumni excluded."
+  },
+  {
+    "source": "data/sources/harvard-hsph-iid.json",
+    "lab_id": "harvard-hsph-iid-phyllis-kanki",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 4 research staff/department associates, 1 graduate student",
+      "members_page_url": "https://hsph.harvard.edu/research/kanki-lab/lab-members/"
+    },
+    "note": "Counted the Lab Members page."
+  },
+  {
+    "source": "data/sources/harvard-hsph-iid.json",
+    "lab_id": "harvard-hsph-iid-j-r-mie-le-pen",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 lab manager, 2 postdocs, 1 grad student, 2 rotating students",
+      "members_page_url": "https://hsph.harvard.edu/research/le-pen-lab/our-team/"
+    },
+    "note": "Counted the Our Team page; Alumni is a separate tab."
+  },
+  {
+    "source": "data/sources/harvard-hsph-iid.json",
+    "lab_id": "harvard-hsph-iid-daniel-edward-neafsey",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 8 researchers/staff, 2 graduate students",
+      "members_page_url": "https://hsph.harvard.edu/research/neafsey-lab/people/"
+    },
+    "note": "Counted the People page; some researchers are Broad Institute staff or also appear on other labs' pages."
+  },
+  {
+    "source": "data/sources/harvard-hsph-iid.json",
+    "lab_id": "harvard-hsph-iid-pardis-christine-sabeti",
+    "fields": {
+      "member_count": null,
+      "join_page_url": "https://www.sabetilab.org/opportunities/"
+    },
+    "note": "Team page is script-driven: names are not in the cached or rendered text (counters show 0), so no roster is visible; site news dates from 2015-2016 so it may be dated."
+  },
+  {
+    "source": "data/sources/harvard-hsph-iid.json",
+    "lab_id": "harvard-hsph-iid-roger-shapiro",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 5 staff (research associate, department associates, project/research managers)",
+      "members_page_url": "https://hsph.harvard.edu/research/shapiro-group/our-team/"
+    },
+    "note": "Counted the Our Team page; no postdocs or students listed."
+  },
+  {
+    "source": "data/sources/harvard-hsph-iid.json",
+    "lab_id": "harvard-hsph-iid-dyann-f-wirth",
+    "fields": {
+      "member_count": 19,
+      "member_breakdown": "1 PI, 5 researchers/scientists, 6 visiting scientists, 1 postdoc, 4 graduate students, 2 research assistants",
+      "members_page_url": "https://hsph.harvard.edu/research/wirth-lab/our-team/"
+    },
+    "note": "Counted the lab roster; Senegal collaborators and Broad Institute collaborators listed lower on the page were not counted."
+  },
+  {
+    "source": "data/sources/harvard-hsph-molecular-metabolism.json",
+    "lab_id": "harvard-hsph-molecular-metabolism-g-khan-s-hotamisligil",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI, 16 staff (scientists, research associates, 1 postdoc, 2 BPH graduate students, assistants)",
+      "members_page_url": "https://hsph.harvard.edu/research/hota-lab/people/",
+      "admin_name": "Leah Benoit"
+    },
+    "note": "Counted the People page; Alumni excluded."
+  },
+  {
+    "source": "data/sources/harvard-hsph-molecular-metabolism.json",
+    "lab_id": "harvard-hsph-molecular-metabolism-sheng-tony-hui",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 administrative coordinator, 3 postdocs, 2 BPH graduate students, 1 research assistant",
+      "members_page_url": "https://hsph.harvard.edu/research/hui-lab/lab-members/",
+      "admin_name": "Audrey Fox"
+    },
+    "note": "Home page had no roster; fetched Lab Members page; Lab Alumni excluded."
+  },
+  {
+    "source": "data/sources/harvard-hsph-molecular-metabolism.json",
+    "lab_id": "harvard-hsph-molecular-metabolism-nora-kory",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 research associate, 5 postdocs, 1 research assistant, 1 visiting graduate student",
+      "members_page_url": "https://hsph.harvard.edu/research/kory-lab/team/"
+    },
+    "note": "Counted the Team page; Alumni excluded."
+  },
+  {
+    "source": "data/sources/harvard-hsph-molecular-metabolism.json",
+    "lab_id": "harvard-hsph-molecular-metabolism-william-b-mair",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Lab page shows only a description and news, with no team or roster link in the page's link list (just Publications), so no count."
+  },
+  {
+    "source": "data/sources/harvard-hsph-molecular-metabolism.json",
+    "lab_id": "harvard-hsph-molecular-metabolism-brendan-manning",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Home page links 'Meet the Team' only on a pantheonsite.io staging address, which robots.txt blocked; no roster seen."
+  },
+  {
+    "source": "data/sources/harvard-hsph-molecular-metabolism.json",
+    "lab_id": "harvard-hsph-molecular-metabolism-jessalyn-ubellacker",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoc, 2 research associates, 3 graduate students, 3 undergraduate/student researchers, 1 administrative coordinator",
+      "members_page_url": "https://hsph.harvard.edu/research/ubellacker-lab/team/",
+      "admin_name": "Audrey Fox",
+      "pi_email": "jubellacker@hsph.harvard.edu"
+    },
+    "note": "Counted Team page core members; excluded 4 'Affiliate Members' (PhD students and a visiting postdoc from other groups) and Alumni."
+  },
+  {
+    "source": "data/sources/harvard-hsph-sbs.json",
+    "lab_id": "harvard-hsph-sbs-lisa-berkman",
+    "fields": {
+      "member_count": null,
+      "pi_email": "lberkman@hsph.harvard.edu"
+    },
+    "note": "Not sized, the site is not one PI's own group: Lab_website is Lisa Berkman's profile-style page (bio, research summaries, mentions of the Harvard Center for Population and Development Studies); no group roster shown."
+  },
+  {
+    "source": "data/sources/harvard-hsph-sbs.json",
+    "lab_id": "harvard-hsph-sbs-shoba-ramanadhan",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI (not listed, added), 1 research project coordinator, 1 DrPH student, 1 MPH student, 1 PhD student",
+      "members_page_url": "https://hsph.harvard.edu/research/ramanadhan-lab/meet-the-team",
+      "pi_email": "sramanadhan@hsph.harvard.edu"
+    },
+    "note": "Counted 'Current Members' (4); PI not on the roster so +1; Past Members excluded."
+  },
+  {
+    "source": "data/sources/harvard-hsph-sbs.json",
+    "lab_id": "harvard-hsph-sbs-kasisomayajula-viswanath",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 8 staff (administrative, analyst, project managers, 1 postdoc, program managers)",
+      "members_page_url": "https://www.hsph.harvard.edu/viswanathlab/",
+      "admin_name": "Megan Chau",
+      "admin_email": "Megan_Chau@dfci.harvard.edu"
+    },
+    "note": "Counted the Team section on the lab page; includes DF/HCC program managers listed there."
+  },
+  {
+    "source": "data/sources/harvard-hsph-sbs.json",
+    "lab_id": "harvard-hsph-sbs-david-williams",
+    "fields": {
+      "member_count": null,
+      "pi_email": "dwilliam@hsph.harvard.edu"
+    },
+    "note": "Not sized, the site is not one PI's own group: Lab_website is David Williams's profile/bio page (biography, awards, media); no roster. The worklist people_url points to Ubellacker's team page, which is not his, so it was not used."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-arlotta",
+    "fields": {
+      "member_count": 25,
+      "member_breakdown": "1 PI, 12 postdocs/affiliates/visiting scholars, 1 staff scientist, 2 PhD candidates, 3 institute fellows, 2 undergraduates, 3 technical staff, 1 lab manager",
+      "members_page_url": "https://hscrb.harvard.edu/labs/arlotta-lab/people/",
+      "join_page_url": "https://hscrb.harvard.edu/jobs/"
+    },
+    "note": "Counted the People page."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-buenrostro",
+    "fields": {
+      "member_count": 27,
+      "member_breakdown": "1 PI, 1 operations director, 15 postdocs, 6 grad students, 4 research assistants",
+      "members_page_url": "http://buenrostrolab.com/people",
+      "join_page_url": "http://buenrostrolab.com/join-us",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the People page roster (no alumni section)."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-camargo",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI (added, not on roster), 4 postdocs/research fellows, 1 research technician, 3 PhD students",
+      "members_page_url": "https://camargolab.squarespace.com/current-lab-members",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": "Aubrey.Plumb@childrens.harvard.edu",
+      "pi_email": "Fernando.Camargo@childrens.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Fetched Current Lab Members page; PI not listed on the roster so 1 added; count = 8 listed + PI."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-chen",
+    "fields": {
+      "member_count": 21,
+      "member_breakdown": "1 PI, 6 postdocs, 11 grad students, 1 undergrad, 1 lab operations manager, 1 executive assistant",
+      "members_page_url": "https://www.insitubiology.org/team",
+      "join_page_url": null,
+      "join_notes": "Email chenf@broadinstitute.org to join (per team page).",
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted the \"current members\" list up to Amazing Alumni; excluded Fei.I (listed as a lab AI assistant)."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-fishman",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 lab manager, 6 postdocs, 1 fellow, 1 post-bac, 2 undergrads, 1 research assistant, 2 aquatics facility staff",
+      "members_page_url": "https://hscrb.harvard.edu/labs/fishman-lab/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted the people page up to Alumni; includes the 2 Aquatics Facility staff listed under the lab."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-flynn",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI, 1 clinical instructor, 7 postdocs, 6 PhD candidates, 1 master's student, 1 staff scientist",
+      "members_page_url": "http://www.rafrna.com/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "ryan.flynn@childrens.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted the Lab Members section of the single-page site, stopping at Lab Alumni."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-franklin",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 lab manager, 4 postdocs, 4 grad students",
+      "members_page_url": "https://www.ruthfranklinlab.com/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "ruthfranklin@fas.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted team page before Lab Alumni; excluded 3 unlabelled names with external links (Theodosiou, Li, Medzhitov) that sit between the PI and Alumni and appear not to be current members."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-hsu",
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 PI, 1 faculty coordinator, 5 postdocs/fellows, 4 grad students, 1 master's student, 2 undergrads, 1 visiting fellow, 1 research assistant",
+      "members_page_url": "https://hsulaboratory.org/hsu-lab-team/",
+      "join_page_url": "https://hsulaboratory.org/join-the-hsu-lab/",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted team page up to Lab Alumni."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-lee",
+    "fields": {
+      "member_count": 22,
+      "member_breakdown": "1 PI, 8 postdocs, 2 associates, 4 grad students, 7 undergrads",
+      "members_page_url": "https://hscrb.harvard.edu/labs/lee-lab/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted people page; excluded the faculty assistant who is shared with the McKinley lab."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-macklis",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Site returned an Access Denied (edgesuite) error to the cached fetch, no content. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-mckinley",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdocs, 4 grad students, 2 research assistants, 1 undergrad",
+      "members_page_url": "https://www.mckinleylab.org/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "kara_mckinley@harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted the People page above the ALUMNI heading (Alumni dated through 2026 excluded)."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-michor",
+    "fields": {
+      "member_count": 19,
+      "member_breakdown": "1 PI, 6 postdocs, 2 grad students, 1 MD-PhD student, 4 master's students, 4 undergrads, 1 research technician",
+      "members_page_url": "http://michorlab.dfci.harvard.edu/our-lab/",
+      "join_page_url": null,
+      "join_notes": "Home page says Join Our Lab -> careers.dana-farber.org",
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "michor@jimmy.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Fetched Our Lab page (home page had no roster); counted all listed members (no alumni on that page)."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-ramanathan",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 3 postdocs, 1 research assistant, 8 grad students (one joint with Weitz lab), 2 with no role shown (Ishaq Khan, Julie Liu)",
+      "members_page_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted Lab Members up to the Alumni headings; Ishaq Khan and Julie Liu have no role shown but are in the current list."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-rubin",
+    "fields": {
+      "member_count": 21,
+      "member_breakdown": "1 PI, 1 administrator, 2 research scientists, 11 postdocs, 1 grad student, 5 undergrads",
+      "members_page_url": "https://hscrb.harvard.edu/labs/rubin-lab/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted people page up to Recent Alumni."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-scadden",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 8 postdocs (Chen, Cheng, He, Kristiansen, Li, Mayerhofer, Xia, Zhao), 1 instructor, 2 resident physicians, 1 medical student, 1 lab manager, 1 program manager",
+      "members_page_url": "https://scaddenlab.com/scadden-lab-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Fetched the Team page (home page had no roster); counted the Team tab, stopping at Alumni."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-segel",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 lab manager, 1 faculty assistant, 7 grad students (incl. 1 visiting), 5 undergrads",
+      "members_page_url": "https://www.segel.group/members.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted Members page, marked last updated 2026-10."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-wagers",
+    "fields": {
+      "member_count": 18,
+      "member_breakdown": "1 PI, 1 administrator, 3 postdocs, 4 grad students, 5 research assistants, 1 undergrad, 3 associates",
+      "members_page_url": "https://hscrb.harvard.edu/labs/wagers-lab/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted people page up to Wagers Lab Alumni."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-whited",
+    "fields": {
+      "member_count": 22,
+      "member_breakdown": "1 PI, 1 postdoc, 3 grad students, 1 lab manager, ~16 other students/trainees (undergrad and master's level, roles from bios)",
+      "members_page_url": "https://www.whitedlab.com/lab-members.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted named members before Lab Alumni; roster may be dated: bios mention class-of-2025 undergrads and a student leaving by a mid-2025 date."
+  },
+  {
+    "source": "data/sources/harvard-scrb.json",
+    "lab_id": "harvard-scrb-zon",
+    "fields": {
+      "member_count": 28,
+      "member_breakdown": "1 PI, 4 administration/staff (lab manager, administrator, staff scientist, bioinformatician), 14 postdocs, 7 grad students, 1 research assistant, 1 aquatics staff",
+      "members_page_url": "https://www.zonlab.org/current-members",
+      "join_page_url": "https://www.zonlab.org/join",
+      "join_notes": null,
+      "admin_name": "Hannah diCicco",
+      "admin_email": "hannah.dicicco@childrens.harvard.edu",
+      "pi_email": "zon@enders.tch.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted Current Members page; footer says copyright 2021 though names look maintained."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-david-alvarez-melis",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 7 PhD students (some co-advised), 1 postdoc",
+      "members_page_url": "https://dmelis.github.io/index.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted \"Current Group Members\" under Research Group and Advisees on his personal homepage (DCML group roster); stopped at Former Students."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-demba-ba",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 postdoc, 1 research fellow, 6 PhD students, 2 master's students, 1 student researcher",
+      "members_page_url": "http://crisp.seas.harvard.edu/people.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "demba@seas.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted members above past members; footer says 2020 but roster includes recent names."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-katia-bertoldi",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Roster is split across Staff, PostDocs, Graduate Students, Visitors subpages (3+ fetches needed); the group page itself lists no names. Page says the group currently has no openings."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-kiant-brantley",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 3 postdocs, 5 PhD students, 1 master's student, 3 undergrads",
+      "members_page_url": "https://xkianteb.github.io/group",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "kdbrantley@g.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted group page before Alumni; a bracketed \"Prospective Kempner Research Fellows\" label sits next to the postdoc list so postdoc status of some names is slightly unclear."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-karen-brennan",
+    "fields": {
+      "member_count": null
+    },
+    "note": "People page lists 5 labelled people (director, 2 doctoral students, visiting scholar, research associate) followed by about 100 names with no roles or alumni heading; cannot tell who is current."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-michael-brenner",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Site returned an Access Denied error, no content. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-sueyeon-chung",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 4 postdocs, 5 PhD students (3 co-advised), 1 guest researcher",
+      "members_page_url": "https://www.sychunglab.org/people",
+      "join_page_url": "https://www.sychunglab.org/positions",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted People page; collaborators list excluded."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-finale-doshi-velez",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 7 PhD candidates/students (including 1 incoming), 1 post-bac fellow",
+      "members_page_url": "https://dtak.github.io/people/",
+      "join_page_url": "https://dtak.github.io/joining/",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted Current Lab Members, stopping at Former Members; includes one listed \"Incoming PhD Student\"."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-cynthia-friend",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Site returned an Access Denied error, no content. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-krzysztof-gajos",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 6 PhD students",
+      "members_page_url": "https://iis.seas.harvard.edu/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted Current group members, stopping at Recent Alumni."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-elena-glassman",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Home page \"Current Lab Members\" lists only the PI and 2 PhD students, but the page also describes a community of undergraduates, masters, PhD students and postdocs and recent papers name more people, so the list looks incomplete; no full roster seen."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-donhee-ham",
+    "fields": {
+      "member_count": 22,
+      "member_breakdown": "1 PI, 3 admin/staff (lab administrator, research portfolio manager, one more staff entry), 2 scientists, 7 postdocs, 4 PhD students, 4 undergrads, 1 visiting scholar",
+      "members_page_url": "https://www.donheehamlab.org/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted people page above ALUMNI; page footer says 2019, so the roster may be old, and the role labels for the first three staff names are ambiguous."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-doeke-hekstra",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Site returned an Access Denied error, no content. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-noel-holbrook",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Site returned an Access Denied error, no content. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-robert-howe",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 4 PhD students, 1 postdoc, 1 visiting master's student, 1 undergrad, 1 lab administrator, 2 affiliates",
+      "members_page_url": "https://biorobotics.harvard.edu/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted PI plus the 10 results in the People Directory (no pager); includes 2 people with Affiliate roles/unclear status."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-evelyn-hu",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Site returned an Access Denied error, no content. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-peter-huybers",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI (added, not on roster), 1 postdoc, 4 grad students, 5 undergrads, 1 assistant",
+      "members_page_url": "https://phuybers.sites.fas.harvard.edu/People.html",
+      "join_page_url": "https://phuybers.sites.fas.harvard.edu/Opportunities.html",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "PI not listed on the People page but site is his, so 1 added; stopped before Former students."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-stratos-idreos",
+    "fields": {
+      "member_count": null
+    },
+    "note": "People section lists 13 names above \"Show Alumni\", but two of them are tagged \"Now: IBM\" / \"Now: Meta\", so it is unclear who is still current."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-sham-kakade",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 postdoc, 13 students",
+      "members_page_url": "https://shamulent.github.io/group",
+      "pi_email": "sham@seas.harvard.edu"
+    },
+    "note": "Counted PI plus the 'Current Students and Postdocs' list (1 postdoc, 13 students); stopped at Former Postdocs."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-frank-keutsch",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 faculty coordinator, 2 senior engineers/scientists, 7 grad students, 1 postdoc",
+      "members_page_url": "https://www.keutschgroup.com/members",
+      "admin_name": "Lori Reck",
+      "admin_email": "lreck@seas.harvard.edu"
+    },
+    "note": "Counted PI, Lori Reck, Dykema, Greenberg, 7 grad students, 1 postdoc from the Members page; excluded Rob Stanhope (listed as Anderson Group lab administrator), pets, alumni."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-ahmad-khalil",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Home page shows only research and publications; no roster or people link in the cached text, and no people_url, so no count."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-petros-koumoutsakos",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 4 postdocs, 2 research associates, 2 visiting fellows, 4 PhD students, 1 faculty coordinator",
+      "members_page_url": "https://cse-lab.seas.harvard.edu/cse-lab-people/",
+      "admin_name": "Lori Reck",
+      "admin_email": "lreck@seas.harvard.edu",
+      "pi_email": "petros@seas.harvard.edu"
+    },
+    "note": "Counted every person listed on the people page (PI, Reck coordinator included); 'Former Members' heading was empty."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-boris-kozinsky",
+    "fields": {
+      "member_count": 19,
+      "member_breakdown": "1 PI, 2 postdocs, 13 grad students, 3 undergrads",
+      "members_page_url": "https://mir.g.harvard.edu/people/members"
+    },
+    "note": "Fetched the Members page linked from the people page; counted PI, 2 postdocs, 13 PhD students, 3 undergrads; excluded Nicola Molinari (now at Bosch, visiting associate) and shared faculty coordinator Matthew Zahnzinger."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-kaighin-mccoll",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 grad students, 1 visiting PhD student",
+      "members_page_url": "https://www.kaighin.org/people/",
+      "join_page_url": "https://www.kaighin.org/opportunities/",
+      "pi_email": "kmccoll@seas.harvard.edu"
+    },
+    "note": "Counted PI, Gallagher, Matthews, Getz (Fall 2026-present) and visiting student Mei Du; stopped at Past members."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-james-mickens",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: Applied Social Media Lab at Berkman Klein Center, led by three PIs (Lessig, Mickens, Zittrain); roster is staff-heavy."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-samir-mitragotri",
+    "fields": {
+      "member_count": 28,
+      "member_breakdown": "1 PI, 1 faculty assistant, 1 research scientist/lab manager, 1 research associate, 11 postdocs, 6 PhD students, 7 visiting fellows",
+      "members_page_url": "https://mitragotrilab.seas.harvard.edu/lab/members",
+      "join_page_url": "https://mitragotrilab.seas.harvard.edu/about/join",
+      "pi_email": "mitragotri@seas.harvard.edu"
+    },
+    "note": "Counted all names on the lab members page; no Alumni section included; role labels from page."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-paul-moorcroft",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Site returns Access Denied (Akamai) so nothing readable. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-julia-mundy",
+    "fields": {
+      "member_count": 19,
+      "member_breakdown": "1 PI, 1 research scientist, 1 lab administrator, 2 postdocs, 9 grad researchers, 5 undergrads",
+      "members_page_url": "http://mundy.physics.harvard.edu/people.html",
+      "admin_name": "Amanda Hall",
+      "admin_email": "amandahall@fas.harvard.edu",
+      "pi_email": "mundy@fas.harvard.edu"
+    },
+    "note": "Counted all names above 'Former Members'; roster looks current (2026 dates in alumni)."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-daniel-needleman",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 3 postdocs, 1 research associate, 9 grad students",
+      "members_page_url": "https://needleman.seas.harvard.edu/people",
+      "join_page_url": "https://needleman.seas.harvard.edu/join-us/",
+      "join_notes": "Contact Dan directly about joining.",
+      "pi_email": "dan.needleman@gmail.com"
+    },
+    "note": "Counted PI and all names above Alumni; excluded Lab Visitors."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-hanspeter-pfister",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 admin, 2 postdocs, 7 PhD students",
+      "members_page_url": "https://vcg.seas.harvard.edu/people",
+      "admin_name": "Emma Duncan",
+      "pi_email": "pfister@seas.harvard.edu"
+    },
+    "note": "Counted PI plus the Members list (admin, 2 post-docs, 7 PhD students); excluded Associates, Alumni, Visitors."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-ariel-procaccia",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 postdoc, 6 PhD students",
+      "members_page_url": "https://procaccia.info/people/",
+      "pi_email": "arielpro@gmail.com"
+    },
+    "note": "Counted PI plus 'Current Group Members'; stopped at Alumni."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-zachary-schiffer",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Schifferlab.seas.harvard.edu did not resolve (ERR_NAME_NOT_RESOLVED)."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-giulia-semeghini",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 PhD students, 1 visiting undergrad",
+      "members_page_url": "https://semeghini.seas.harvard.edu/people/",
+      "join_page_url": "https://semeghini.seas.harvard.edu/open-positions/",
+      "pi_email": "semeghini@g.harvard.edu"
+    },
+    "note": "Counted PI, 3 grad students and 1 visiting undergrad; 'Open Postdoc Position' is not a person; stopped at Former Members."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-stuart-shieber",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: Harvardnlp members page lists two faculty (Shieber, Brantley) plus fellows; multi-PI group, and page footer is 2024."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-patrick-slade",
+    "fields": {
+      "member_count": 24,
+      "member_breakdown": "1 PI, 4 postdocs, 10 doctoral researchers, 6 master's/visiting, 3 undergrads",
+      "members_page_url": "https://sladelab.seas.harvard.edu/people/",
+      "pi_email": "slade@seas.harvard.edu"
+    },
+    "note": "Counted all names above the Alumni headings."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-maurice-smith",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 postdoc, 5 PhD students, 1 lab technician",
+      "members_page_url": "http://www.seas.harvard.edu/motorlab/people.html",
+      "pi_email": "mas@seas.harvard.edu"
+    },
+    "note": "Counted 'Current Lab Members' above Alumni; page looks old (newest dated alumni entry is 2019), so may be stale."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-shriya-srinivasan",
+    "fields": {
+      "member_count": 25,
+      "member_breakdown": "1 PI, 4 postdocs, 5 doctoral students, 1 visiting doctoral, 4 research fellows, 6 master's, 4 undergrads",
+      "members_page_url": "https://bioniclab.seas.harvard.edu/people/",
+      "join_page_url": "https://bioniclab.seas.harvard.edu/open-positions/"
+    },
+    "note": "The worklist people_url was a 404; fetched Lab Members page linked from home. Counted all names; excluded Collaborators."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-elsie-sunderland",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 1 scientific programmer, 1 faculty coordinator, 2 research fellows, 5 postdocs, 3 doctoral students, 1 master's student",
+      "members_page_url": "http://bgc.seas.harvard.edu/current-group.html",
+      "admin_name": "Robert Stanhope",
+      "admin_email": "stanhope@seas.harvard.edu"
+    },
+    "note": "Fetched Current Group page linked from the lab page; counted PI and staff/students; excluded 3 Associates (collaborators); undergraduates are on a separate page not read."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-milind-tambe",
+    "fields": {
+      "member_count": 20,
+      "member_breakdown": "1 PI, 4 postdocs, 9 PhD students (incl. 1 labelled postdoc), 1 master's, 5 undergrad/master's/PhD under later heading",
+      "members_page_url": "https://teamcore.seas.harvard.edu/team/",
+      "pi_email": "milind_tambe@harvard.edu"
+    },
+    "note": "Counted every named person on the team page, PI included; the page headings are mixed up in places (e.g. a postdoc under PhD Students)."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-robert-westervelt",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 grad students",
+      "members_page_url": "http://meso.seas.harvard.edu/people.html",
+      "pi_email": "westervelt@seas.harvard.edu"
+    },
+    "note": "Counted PI and 2 graduate students; excluded Naomi Brave (CIQM center managing director) and Sagar Bhandari (collaborator/alumnus). Page is stale (footer 2016)."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-robert-wood",
+    "fields": {
+      "member_count": null
+    },
+    "note": "People page at www.micro.seas.harvard.edu/people lists PI, admin, 8 grad students, 6 postdocs but Research Staff, Visiting Master's and Undergraduate sections show no names (likely images), so full roster not visible."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-robin-wordsworth",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI plus 6 other current members (roles not labelled on page)",
+      "members_page_url": "https://people.seas.harvard.edu/~rwordsworth/people.html",
+      "join_notes": "Open to hearing from prospective students or postdocs; get in touch."
+    },
+    "note": "Counted the 'Current Group Members' list including PI; 5 'Associated' postdocs/students/undergrads listed separately were not counted."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-le-xie",
+    "fields": {
+      "member_count": 18,
+      "member_breakdown": "1 PI, 6 PhD students, 5 postdocs, 2 master's, 4 undergrads",
+      "members_page_url": "https://xielab.seas.harvard.edu/group-member/",
+      "admin_name": "Justin Benton",
+      "pi_email": "xie@seas.harvard.edu"
+    },
+    "note": "Fetched Group Member page linked from site; counted current lists; excluded Bin Wang (Lab Infrastructure Advisor) and alumni."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-kiyoul-yang",
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 PI, 4 postdocs, 4 grad researchers, 2 rotation grad researchers, 2 undergrads, 2 visiting grads, 1 undergrad associate",
+      "members_page_url": "https://sites.google.com/g.harvard.edu/y-lab/team",
+      "join_page_url": "https://sites.google.com/g.harvard.edu/y-lab/positions",
+      "admin_name": "Molly Carlson",
+      "admin_email": "mcarlson@seas.harvard.edu",
+      "pi_email": "kiyoul@seas.harvard.edu"
+    },
+    "note": "Counted all listed researchers; excluded 3 administrative associates; page footer says 2023 but entries have 2026 degrees."
+  },
+  {
+    "source": "data/sources/wyss.json",
+    "lab_id": "wyss-natalie-artzi",
+    "fields": {
+      "member_count": 30,
+      "member_breakdown": "1 PI, 2 staff, 2 instructors, 8 postdocs, 6 grad students, 11 undergrads/interns",
+      "members_page_url": "https://www.natalieartzi.com/team",
+      "join_page_url": "https://www.natalieartzi.com/positions",
+      "pi_email": "nartzi@mit.edu"
+    },
+    "note": "Counted all names above Alumni on the team page."
+  },
+  {
+    "source": "data/sources/wyss.json",
+    "lab_id": "wyss-christopher-chen",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI, 10 postdocs, 4 grad students, 2 lab staff",
+      "members_page_url": "https://www.chrischenlab.com/lab-members-1"
+    },
+    "note": "Counted all names on the lab members page."
+  },
+  {
+    "source": "data/sources/wyss.json",
+    "lab_id": "wyss-james-collins",
+    "fields": {
+      "member_count": 29,
+      "member_breakdown": "1 PI, 11 postdocs, 1 clinical scholar, 3 research scientists, 12 grad students, 1 lab coordinator",
+      "members_page_url": "http://collinslab.mit.edu/lab-members"
+    },
+    "note": "Counted all names on the lab members page (MIT lab; 'Read more' are per-person links)."
+  },
+  {
+    "source": "data/sources/wyss.json",
+    "lab_id": "wyss-jennifer-lewis",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Site returns Access Denied. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/wyss.json",
+    "lab_id": "wyss-samir-mitragotri",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Cached page for drugdelivery.seas.harvard.edu/lab/members is the home page with no roster (appears to be the same lab as harvard-seas-samir-mitragotri, whose own site was counted at 28)."
+  },
+  {
+    "source": "data/sources/wyss.json",
+    "lab_id": "wyss-david-mooney",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Site returns Access Denied. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/wyss.json",
+    "lab_id": "wyss-pamela-silver",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Silver.med.harvard.edu failed to load (certificate name invalid), nothing cached."
+  },
+  {
+    "source": "data/sources/wyss.json",
+    "lab_id": "wyss-david-walt",
+    "fields": {
+      "member_count": 26,
+      "member_breakdown": "1 PI (added), 11 postdocs, 2 staff scientists, 2 grad students, 9 research assistants, 1 visiting scientist",
+      "members_page_url": "https://waltlab.bwh.harvard.edu/current-members/"
+    },
+    "note": "PI not on the Current Members roster; added 1 for site's own PI; counted all listed members."
+  },
+  {
+    "source": "data/sources/wyss.json",
+    "lab_id": "wyss-joanna-aizenberg",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: Site returns Access Denied. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/wyss.json",
+    "lab_id": "wyss-elliot-chaikof",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI (added), 2 assistant professors, 3 instructors, 1 postdoc, 5 grad students, 3 research assistants, 2 undergrads",
+      "members_page_url": "http://www.chaikoflab.org/lab-members",
+      "pi_email": "echaikof@bidmc.harvard.edu"
+    },
+    "note": "PI not listed on the roster so added 1; counted all lab members; page copyright 2022 so may be stale."
+  },
+  {
+    "source": "data/sources/wyss.json",
+    "lab_id": "wyss-michael-levin",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Current list mixes Levin Lab members with Allen Discovery Center staff (deputy director, administrative director, financial director, facilities manager); about 66 names, so lab size not reliably separable. PI not listed."
+  },
+  {
+    "source": "data/sources/wyss.json",
+    "lab_id": "wyss-wesley-wong",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 2 instructors, 5 postdocs, 2 staff scientists, 2 grad students, 1 administrative assistant",
+      "members_page_url": "https://www.wonglab.tch.harvard.edu/members",
+      "pi_email": "Wesley.Wong@childrens.harvard.edu"
+    },
+    "note": "Fetched Members page linked from home; counted all listed."
+  },
+  {
+    "source": "data/sources/harvard-seas.json",
+    "lab_id": "harvard-seas-sharad-ramanathan",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 3 postdocs, 1 research assistant, 8 grad students (one joint with Weitz lab), 2 with no role shown (Ishaq Khan, Julie Liu)",
+      "members_page_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted Lab Members up to the Alumni headings; Ishaq Khan and Julie Liu have no role shown but are in the current list."
+  }
+]
