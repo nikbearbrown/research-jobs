@@ -73,7 +73,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://neuro.hms.harvard.edu/faculty-staff/bruce-bean",
-      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page)."
+      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-hms-neurobiology-richard-born",
@@ -139,7 +139,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://neuro.hms.harvard.edu/faculty-staff/jonathan-cohen",
-      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page)."
+      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-hms-neurobiology-david-corey",
@@ -249,7 +249,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://neuro.hms.harvard.edu/faculty-staff/jeffrey-s-flier",
-      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page)."
+      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-hms-neurobiology-aleena-garner",
@@ -435,7 +435,7 @@
       "pi_title": "Professor of Neurobiology, HMS",
       "pi_email": "kaplan@frodo.mgh.harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://genetics.mgh.harvard.edu/kaplanweb/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -447,7 +447,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://neuro.hms.harvard.edu/faculty-staff/joshua-kaplan",
-      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page)."
+      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Kaplan Lab')."
     },
     {
       "id": "harvard-hms-neurobiology-wei-chung-allen-lee",
@@ -491,7 +491,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://neuro.hms.harvard.edu/faculty-staff/marge-livingstone",
-      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Email found on department profile page; no lab website given to check for a roster (2026-10-29)."
+      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Email found on department profile page; no lab website given to check for a roster (2026-10-29). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-hms-neurobiology-evan-macosko",
@@ -535,7 +535,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://neuro.hms.harvard.edu/faculty-staff/joseph-martin",
-      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page)."
+      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-hms-neurobiology-david-l-paul",
@@ -557,7 +557,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://neuro.hms.harvard.edu/faculty-staff/david-l-paul",
-      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page)."
+      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-hms-neurobiology-carlos-ponce",
@@ -733,7 +733,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://neuro.hms.harvard.edu/faculty-staff/charles-dean-stiles",
-      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page)."
+      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-hms-neurobiology-taralyn-tan",
@@ -755,7 +755,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://neuro.hms.harvard.edu/faculty-staff/taralyn-tan",
-      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page)."
+      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-hms-neurobiology-charles-weitz",
@@ -777,7 +777,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://neuro.hms.harvard.edu/faculty-staff/charles-weitz",
-      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page)."
+      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-hms-neurobiology-rachel-wilson",
@@ -809,7 +809,7 @@
       "pi_title": "Professor of Neurology, HMS",
       "pi_email": "clifford.woolf@childrens.harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://kirbyneuro.org/WoolfLab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -821,7 +821,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://neuro.hms.harvard.edu/faculty-staff/clifford-woolf",
-      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page)."
+      "notes": "Breadth pass from the department's own People directory (full name/title/email/lab-site, same page). Depth pass 2026-11-10: lab_website read from the profile page's 'kirbyneuro.org/WoolfLab/' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "harvard-hms-neurobiology-gary-yellen",

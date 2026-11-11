@@ -98,7 +98,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/john-brownstein",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-hms-dbmi-tianxi-cai",
@@ -230,7 +230,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/katherine-liao",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-hms-dbmi-arjun-manrai",
@@ -252,7 +252,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/arjun-raj-manrai",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-hms-dbmi-alexa-mccray",
@@ -274,7 +274,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/alexa-mccray",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://clinicaltrials.gov/) that shows no lab or people page."
     },
     {
       "id": "harvard-hms-dbmi-shawn-murphy",
@@ -296,7 +296,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/shawn-murphy",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-hms-dbmi-luke-oconnor",
@@ -450,7 +450,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://dbmi.hms.harvard.edu/people/hojjat-salmasian",
-      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass."
+      "notes": "Breadth pass from the department's own paginated people directory (parsed via scripts/parse_hms_people.py). Classified as a PI-led lab because the page lists a Professor-rank title (non-emeritus); lab website is whatever the directory card itself links to (may be a shared center, not always a personal lab). Member count, admin and join info are a later per-PI pass. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-hms-dbmi-sebastian-schneeweiss",

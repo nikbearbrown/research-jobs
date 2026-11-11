@@ -16,7 +16,7 @@
       "pi_title": "James Stevens Simmons Professor of Genetics and Metabolism",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hsph.harvard.edu/research/hota-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/gokhan-s-hotamisligil/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Hotamisligil Lab')."
     },
     {
       "id": "harvard-hsph-molecular-metabolism-sheng-tony-hui",
@@ -38,7 +38,7 @@
       "pi_title": "Associate Professor of Molecular Metabolism",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.hsph.harvard.edu/sheng-tony-hui/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/sheng-tony-hui/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Hui Laboratory')."
     },
     {
       "id": "harvard-hsph-molecular-metabolism-nora-kory",
@@ -60,7 +60,7 @@
       "pi_title": "Assistant Professor of Molecular Metabolism",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hsph.harvard.edu/research/kory-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/nora-kory/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Kory Lab website')."
     },
     {
       "id": "harvard-hsph-molecular-metabolism-william-b-mair",
@@ -82,7 +82,7 @@
       "pi_title": "Professor of Molecular Metabolism",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hsph.harvard.edu/research/mair-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/william-b-mair/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Mair Lab HSPH Site')."
     },
     {
       "id": "harvard-hsph-molecular-metabolism-brendan-manning",
@@ -104,7 +104,7 @@
       "pi_title": "Barry R. and Irene T. Bloom Professorship of Public Health",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.hsph.harvard.edu/manning-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/brendan-manning/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Manning Lab')."
     },
     {
       "id": "harvard-hsph-molecular-metabolism-jessalyn-ubellacker",
@@ -126,7 +126,7 @@
       "pi_title": "Assistant Professor of Molecular Metabolism",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hsph.harvard.edu/research/ubellacker-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/jessalyn-ubellacker/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Profile page (hsph.harvard.edu) read via both plain fetch and Playwright render; no email shown either way. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Ubellacker Lab Website')."
     }
   ],
   "non_lab_people": [],

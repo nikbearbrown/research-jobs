@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/eduardo-andrade-lima/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-andrew-babbin",
@@ -38,7 +38,7 @@
       "pi_title": "Associate Professor, Undergraduate Officer",
       "pi_email": "babbin@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://bablab.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/andrew-babbin/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'bablab.mit.edu' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-eaps-kristin-bergmann",
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/kristin-bergmann/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://kdberg.scripts.mit.edu/kdberg/) that shows no lab or people page."
     },
     {
       "id": "mit-eaps-richard-binzel",
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/richard-p-binzel/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-abigail-bodner",
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/abigail-bodner/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://multiscalemariners.com/) that shows no lab or people page."
     },
     {
       "id": "mit-eaps-tanja-bosak",
@@ -126,7 +126,7 @@
       "pi_title": "Professor",
       "pi_email": "tbosak@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.experimentalgeobiology.mit.edu",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/tanja-bosak/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://www.experimentalgeobiology.mit.edu/people)."
     },
     {
       "id": "mit-eaps-kerri-cahoy",
@@ -148,7 +148,7 @@
       "pi_title": "Professor",
       "pi_email": "kcahoy@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://starlab.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/kerri-cahoy/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'starlab.mit.edu' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-eaps-camilla-cattania",
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/camilla-cattania/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-timothy-cronin",
@@ -192,7 +192,7 @@
       "pi_title": "Associate Professor, Chair, EAPS Committee on Education and Graduate Officer",
       "pi_email": "twcronin@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://mit.edu/~twcronin/www/index.html",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/timothy-cronin/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://mit.edu/~twcronin/www/people.html)."
     },
     {
       "id": "mit-eaps-julien-de-wit",
@@ -214,7 +214,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "jdewit@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.disruptiveplanets.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/julien-de-wit/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'disruptiveplanets.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://www.disruptiveplanets.mit.edu/team)."
     },
     {
       "id": "mit-eaps-laurent-demanet",
@@ -248,7 +248,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/laurent-demanet/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-stephanie-dutkiewicz",
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/stephanie-dutkiewicz/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://ocean.mit.edu/~stephd/) that shows no lab or people page."
     },
     {
       "id": "mit-eaps-kerry-a-emanuel",
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/kerry-a-emanuel/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://emanuel.mit.edu/) that shows no lab or people page."
     },
     {
       "id": "mit-eaps-dara-entekhabi",
@@ -314,7 +314,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/dara-entekhabi/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-raffaele-ferrari",
@@ -324,7 +324,7 @@
       "pi_title": "Professor, Co-Director, MIT Lorenz Center",
       "pi_email": "raffaele@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://ferrari.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/raffaele-ferrari/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'ferrari.mit.edu' link; taken as the lab site because its own menu links a people or lab page (http://ferrari.mit.edu/group/)."
     },
     {
       "id": "mit-eaps-arlene-fiore",
@@ -346,7 +346,7 @@
       "pi_title": "Professor, Associate Department Head",
       "pi_email": "amfiore@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.teampaccc.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/arlene-fiore/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'teampaccc.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://teampaccc.mit.edu/our-team)."
     },
     {
       "id": "mit-eaps-glenn-r-flierl",
@@ -380,7 +380,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/glenn-r-flierl/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-michael-follows",
@@ -402,7 +402,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/michael-follows/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-gregory-fournier",
@@ -412,7 +412,7 @@
       "pi_title": "Associate Professor",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://fournierlab.scripts.mit.edu/web/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -424,7 +424,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/gregory-fournier/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-eaps-william-frank",
@@ -446,7 +446,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/william-frank/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://10.1126/sciadv.adh3688) that shows no lab or people page."
     },
     {
       "id": "mit-eaps-bradford-hager",
@@ -468,7 +468,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/bradford-hager/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-thomas-herring",
@@ -490,7 +490,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/thomas-herring/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://www-gpsg.mit.edu/~tah) that shows no lab or people page."
     },
     {
       "id": "mit-eaps-ben-holtzman",
@@ -512,7 +512,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/ben-holtzman/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-oliver-jagoutz",
@@ -534,7 +534,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/oliver-jagoutz/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-ruben-juanes",
@@ -556,7 +556,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/ruben-juanes/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-wanying-kang",
@@ -566,7 +566,7 @@
       "pi_title": "Assistant Professor",
       "pi_email": "wanying@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://wanyingkang.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -578,7 +578,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/wanying-kang/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'wanyingkang.com' link; taken as the lab site because its own menu links a people or lab page (https://wanyingkang.com/group-members/)."
     },
     {
       "id": "mit-eaps-john-marshall",
@@ -588,7 +588,7 @@
       "pi_title": "Professor",
       "pi_email": "jmarsh@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://oceans.mit.edu/JohnMarshall/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -600,7 +600,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/john-marshall/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (http://oceans.mit.edu/JohnMarshall/group)."
     },
     {
       "id": "mit-eaps-david-mcgee",
@@ -610,7 +610,7 @@
       "pi_title": "Professor, Department Head",
       "pi_email": "davidmcg@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.mcgeelab.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -622,7 +622,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/david-mcgee/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'mcgeelab.mit.edu' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-eaps-lyle-nelson",
@@ -644,7 +644,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/lyle-nelson/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-nicole-xike-nie",
@@ -666,7 +666,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/nicole-xike-nie/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-paul-o-gorman",
@@ -676,7 +676,7 @@
       "pi_title": "Professor, Chair, Program in Atmospheres, Oceans and Climate (PAOC)",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://pog.mit.edu",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -688,7 +688,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/paul-ogorman/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'pog.mit.edu' link; taken as the lab site because its own menu links a people or lab page (http://pog.mit.edu/group.html)."
     },
     {
       "id": "mit-eaps-shuhei-ono",
@@ -698,7 +698,7 @@
       "pi_title": "Professor, Chair, Program in Geology, Geochemistry, and Geobiology",
       "pi_email": "sono@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://ono.mit.edu",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -710,7 +710,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/shuhei-ono/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'ono.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://ono.mit.edu/people)."
     },
     {
       "id": "mit-eaps-mat-j-pe",
@@ -720,7 +720,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "mpec@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://mpec.scripts.mit.edu/peclab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -732,7 +732,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/matej-pec/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-eaps-taylor-perron",
@@ -742,7 +742,7 @@
       "pi_title": "Professor",
       "pi_email": "perron@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://taylorperron.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -754,7 +754,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/taylor-perron/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'taylorperron.org' link; taken as the lab site because its own menu links a people or lab page (https://taylorperron.org/people/)."
     },
     {
       "id": "mit-eaps-raymond-t-pierrehumbert",
@@ -764,7 +764,7 @@
       "pi_title": "Professor of the Practice",
       "pi_email": "rpierre@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://users.physics.ox.ac.uk/~pierrehumbert/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -776,7 +776,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/raymond-pierrehumbert/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://users.physics.ox.ac.uk/~pierrehumbert/people/People.html)."
     },
     {
       "id": "mit-eaps-ronald-g-prinn",
@@ -798,7 +798,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/ronald-g-prinn/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://mit.edu/rprinn) that shows no lab or people page."
     },
     {
       "id": "mit-eaps-sai-ravela",
@@ -820,7 +820,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/sai-ravela/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-daniel-rothman",
@@ -830,7 +830,7 @@
       "pi_title": "Professor, Co-Director, Lorenz Center",
       "pi_email": "dhr@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://rothmangroup.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -842,7 +842,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/daniel-rothman/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'rothmangroup.mit.edu' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-eaps-leigh-royden",
@@ -864,7 +864,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/leigh-royden/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://sites.google.com/view/prof-royden/) that shows no lab or people page."
     },
     {
       "id": "mit-eaps-c-adam-schlosser",
@@ -886,7 +886,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/c-adam-schlosser/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-sara-seager",
@@ -908,7 +908,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/sara-seager/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://www.saraseager.com/) that shows no lab or people page."
     },
     {
       "id": "mit-eaps-noelle-eckley-selin",
@@ -918,7 +918,7 @@
       "pi_title": "Professor, Director, MIT Center for Sustainability Science and Strategy",
       "pi_email": "selin@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.selingroup.org",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -930,7 +930,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/noelle-eckley-selin/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'selingroup.org' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-eaps-jason-soderblom",
@@ -952,7 +952,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/jason-soderblom/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-susan-solomon",
@@ -962,7 +962,7 @@
       "pi_title": "Professor",
       "pi_email": "solos@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.ssolomongroup.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -974,7 +974,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/susan-solomon/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'ssolomongroup.mit.edu' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-eaps-gaia-stucky-de-quay",
@@ -996,7 +996,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/gaia-stucky-de-quay/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-talia-tamarin-brodsky",
@@ -1006,7 +1006,7 @@
       "pi_title": "Assistant Professor",
       "pi_email": "talia_tb@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://taliatamarin.wixsite.com/taliatamarin",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1018,7 +1018,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/talia-tamarin-brodsky/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://taliatamarin.wixsite.com/taliatamarin/group)."
     },
     {
       "id": "mit-eaps-richard-teague",
@@ -1040,7 +1040,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/richard-teague/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-eaps-robert-van-der-hilst",
@@ -1062,7 +1062,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/robert-van-der-hilst/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://hilst.mit.edu/) that shows no lab or people page."
     },
     {
       "id": "mit-eaps-benjamin-weiss",
@@ -1084,7 +1084,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/benjamin-weiss/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://www.benweiss.mit.edu/) that shows no lab or people page."
     },
     {
       "id": "mit-eaps-ryan-woosley",
@@ -1094,7 +1094,7 @@
       "pi_title": "Principal Research Scientist",
       "pi_email": "rwoosley@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://woosley.mit.edu",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1106,7 +1106,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/ryan-woosley/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://woosley.mit.edu/people/)."
     },
     {
       "id": "mit-eaps-maria-zuber",
@@ -1128,7 +1128,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://eaps.mit.edu/people/faculty/maria-zuber/",
-      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the EAPS Faculty + Senior Researchers directory. No email, lab website or member count shown on this page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://www-geodyn.mit.edu/zubersite) that shows no lab or people page."
     }
   ],
   "non_lab_people": [

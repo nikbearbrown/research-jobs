@@ -16,7 +16,7 @@
       "pi_title": "Irene Heinz Given Professor of Immunology and Infectious Diseases",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hsph.harvard.edu/research/catteruccia-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/flaminia-catteruccia/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Catteruccia Lab')."
     },
     {
       "id": "harvard-hsph-iid-kizzmekia-s-corbett-helaire",
@@ -38,7 +38,7 @@
       "pi_title": "Melvin J. and Geraldine L. Glimcher Assistant Professor of Immunology and Infectious Diseases",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hsph.harvard.edu/research/corbett-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/kizzmekia-s-corbett-helaire/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Corbett Lab Website')."
     },
     {
       "id": "harvard-hsph-iid-manoj-t-duraisingh",
@@ -60,7 +60,7 @@
       "pi_title": "John LaPorte Given Professor of Immunology and Infectious Diseases",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hsph.harvard.edu/research/duraisingh-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/manoj-t-duraisingh/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Duraisingh Lab')."
     },
     {
       "id": "harvard-hsph-iid-sarah-fortune",
@@ -82,7 +82,7 @@
       "pi_title": "John LaPorte Given Professor of Immunology and Infectious Diseases",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hsph.harvard.edu/research/fortune-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/sarah-fortune/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Fortune Lab')."
     },
     {
       "id": "harvard-hsph-iid-wendy-garrett",
@@ -104,7 +104,7 @@
       "pi_title": "Irene Heinz Given Professor of Immunology and Infectious Diseases",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hsph.harvard.edu/research/garrett-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/wendy-garrett/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Garrett Lab')."
     },
     {
       "id": "harvard-hsph-iid-yonatan-grad",
@@ -126,7 +126,7 @@
       "pi_title": "Professor of Immunology and Infectious Diseases",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hsph.harvard.edu/research/grad-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/yonatan-grad/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Grad Lab')."
     },
     {
       "id": "harvard-hsph-iid-phyllis-kanki",
@@ -148,7 +148,7 @@
       "pi_title": "Mary Woodard Lasker Professor of Health Sciences",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hsph.harvard.edu/research/kanki-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/phyllis-kanki/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Kanki Lab website')."
     },
     {
       "id": "harvard-hsph-iid-j-r-mie-le-pen",
@@ -170,7 +170,7 @@
       "pi_title": "Assistant Professor of Immunology and Infectious Diseases",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hsph.harvard.edu/research/le-pen-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/jeremie-le-pen/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Le Pen Lab')."
     },
     {
       "id": "harvard-hsph-iid-daniel-edward-neafsey",
@@ -192,7 +192,7 @@
       "pi_title": "Associate Professor of Immunology and Infectious Diseases",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hsph.harvard.edu/research/neafsey-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/daniel-edward-neafsey/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Neafsey Lab')."
     },
     {
       "id": "harvard-hsph-iid-pardis-christine-sabeti",
@@ -214,7 +214,7 @@
       "pi_title": "Professor of Immunology and Infectious Diseases",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.sabetilab.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/pardis-christine-sabeti/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Sabeti Lab')."
     },
     {
       "id": "harvard-hsph-iid-roger-shapiro",
@@ -236,7 +236,7 @@
       "pi_title": "Professor of Immunology and Infectious Diseases",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hsph.harvard.edu/research/shapiro-group/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -248,7 +248,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/roger-shapiro/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): none is shown anywhere on the page (no mailto link, no plain-text address) -- pi_email left null, confirmed absence not a fetch failure. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Shapiro Research Group')."
     },
     {
       "id": "harvard-hsph-iid-dyann-f-wirth",
@@ -258,7 +258,7 @@
       "pi_title": "Richard Pearson Strong Professor of Infectious Diseases",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hsph.harvard.edu/research/wirth-lab/",
       "location": null,
       "phone": null,
       "admin_name": "Haley Cronshaw (Executive Assistant)",
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hsph.harvard.edu/profile/dyann-f-wirth/",
-      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): no PI email shown; the only address on the page is her Executive Assistant's (captured as admin_email)."
+      "notes": "Breadth pass from HSPH's school-wide faculty directory (hsph.harvard.edu/profiles/, a client-rendered app whose per-department URL filters do not actually filter server-side -- the full unfiltered directory was read once via Playwright, clicking through all pages, and bucketed by each person's listed department). No email, lab site or research blurb is shown on the directory card itself; a later per-PI pass is needed. Revisited the HSPH profile page for an email (2026-10-29 depth pass): no PI email shown; the only address on the page is her Executive Assistant's (captured as admin_email). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Wirth Lab website')."
     }
   ],
   "non_lab_people": [

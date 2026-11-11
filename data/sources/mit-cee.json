@@ -16,7 +16,7 @@
       "pi_title": "Professor",
       "pi_email": "ejalm@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://almlab.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/eric-j-alm/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://almlab.mit.edu/' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-cee-saurabh-amin",
@@ -38,7 +38,7 @@
       "pi_title": "Edmund K. Turner Professor in Civil Engineering, Co-Director, Operations Research Center (ORC)",
       "pi_email": "amins@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://resil.mit.edu",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/saurabh-amin/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://resil.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://resil.mit.edu/people/)."
     },
     {
       "id": "mit-cee-moshe-e-ben-akiva",
@@ -60,7 +60,7 @@
       "pi_title": "Edmund K Turner Professor in Civil Engineering",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://its.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/moshe-e-ben-akiva/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'https://its.mit.edu/' link; taken as the lab site because its own menu links a people or lab page (https://www.its.mit.edu/team)."
     },
     {
       "id": "mit-cee-lydia-bourouiba",
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/lydia-bourouiba/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-cee-markus-j-buehler",
@@ -104,7 +104,7 @@
       "pi_title": "Jerry McAfee (1940) Professor in Engineering",
       "pi_email": "mbuehler@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://lamm.mit.edu",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/markus-j-buehler/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://lamm.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://lamm.mit.edu/people/)."
     },
     {
       "id": "mit-cee-josephine-v-carstensen",
@@ -126,7 +126,7 @@
       "pi_title": "Gilbert W. Winslow (1937) Career Development Professor in Civil Engineering, Associate Professor",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.carstensen.mit.edu",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/josephine-v-carstensen/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.carstensen.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://www.carstensen.mit.edu/people)."
     },
     {
       "id": "mit-cee-penny-chisholm",
@@ -148,7 +148,7 @@
       "pi_title": "Institute Professor",
       "pi_email": "chisholm@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://chisholmlab.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/penny-chisholm/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://chisholmlab.mit.edu/' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-cee-tal-cohen",
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/tal-cohen/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://tal-cohen.mit.edu/) that shows no lab or people page."
     },
     {
       "id": "mit-cee-otto-cordero",
@@ -192,7 +192,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "ottox@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://corderolab.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/otto-cordero/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://corderolab.org/' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-cee-david-l-des-marais",
@@ -214,7 +214,7 @@
       "pi_title": "Amgen Career Development Professor, Associate Professor, Director of Parsons Laboratory",
       "pi_email": "dldesmar@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.google.com/mit.edu/des-marais-group/home",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/david-l-des-marais/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'https://sites.google.com/mit.edu/des-marais-group/home')."
     },
     {
       "id": "mit-cee-elfatih-eltahir",
@@ -236,7 +236,7 @@
       "pi_title": "H. M. King Bhumibol Professor",
       "pi_email": "eltahir@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://eltahir.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -248,7 +248,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/elfatih-eltahir/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://eltahir.mit.edu/' link; taken as the lab site because its own menu links a people or lab page (https://eltahir.mit.edu/group-members/)."
     },
     {
       "id": "mit-cee-dara-entekhabi",
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/dara-entekhabi/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-cee-michael-follows",
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/michael-follows/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-cee-charles-f-harvey",
@@ -302,7 +302,7 @@
       "pi_title": "Professor",
       "pi_email": "charvey@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://harveylab.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -314,7 +314,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/charles-f-harvey/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://harveylab.mit.edu/' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-cee-michael-f-howland",
@@ -324,7 +324,7 @@
       "pi_title": "Jeffrey Cheah Career Development Professor, Associate Professor",
       "pi_email": "mhowland@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.howlandlab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/michael-f-howland/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.howlandlab.com/' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-cee-ali-jadbabaie",
@@ -346,7 +346,7 @@
       "pi_title": "Department Head; JR East Professor",
       "pi_email": "jadbabai@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://jadbabaie.mit.edu",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/ali-jadbabaie/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://jadbabaie.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://jadbabaie.mit.edu/research-group/)."
     },
     {
       "id": "mit-cee-oliver-jagoutz",
@@ -380,7 +380,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/oliver-jagoutz/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://617.324.5514, https://erlweb.mit.edu/people/oliver-jagoutz/) that shows no lab or people page."
     },
     {
       "id": "mit-cee-patrick-jaillet",
@@ -402,7 +402,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/patrick-jaillet/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-cee-ruben-juanes",
@@ -424,7 +424,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/ruben-juanes/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-cee-jesse-kroll",
@@ -434,7 +434,7 @@
       "pi_title": "Peter de Florez Professor",
       "pi_email": "jhkroll@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://krollgroup.mit.edu/index.htm",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -446,7 +446,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/jesse-kroll/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://krollgroup.mit.edu/index.htm' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-cee-tami-lieberman",
@@ -468,7 +468,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/tami-lieberman/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-cee-benedetto-marelli",
@@ -478,7 +478,7 @@
       "pi_title": "Professor, Associate Department Head, Undergraduate Chair",
       "pi_email": "bmarelli@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.marelli.mit.edu",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -490,7 +490,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/benedetto-marelli/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.marelli.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://marelli.mit.edu/people-1)."
     },
     {
       "id": "mit-cee-admir-masic",
@@ -500,7 +500,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "masic@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.masicgroup.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -512,7 +512,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/admir-masic/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.masicgroup.mit.edu/' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-cee-darcy-mcrose",
@@ -522,7 +522,7 @@
       "pi_title": "Assistant Professor",
       "pi_email": "dmcrose@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://mcroselab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -534,7 +534,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/darcy-mcrose/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://mcroselab.com/' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-cee-caitlin-mueller",
@@ -556,7 +556,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/caitlin-mueller/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://digitalstructures.mit.edu) that shows no lab or people page."
     },
     {
       "id": "mit-cee-heidi-nepf",
@@ -566,7 +566,7 @@
       "pi_title": "Donald and Martha Harleman Professor of Civil and Environmental Engineering",
       "pi_email": "hmnepf@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://nepf.mit.edu",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -578,7 +578,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/heidi-nepf/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://nepf.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://nepf.mit.edu/current-members/)."
     },
     {
       "id": "mit-cee-john-a-ochsendorf",
@@ -600,7 +600,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/john-a-ochsendorf/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://web.mit.edu/masonry/) that shows no lab or people page."
     },
     {
       "id": "mit-cee-desirée-plata",
@@ -610,7 +610,7 @@
       "pi_title": "School of Engineering Distinguished Climate and Energy Professor, Associate Dean of Engineering",
       "pi_email": "dplata@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://platalab.mit.edu",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -622,7 +622,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/desiree-plata/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'http://platalab.mit.edu' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-cee-serguei-saavedra",
@@ -632,7 +632,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "sersaa@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.google.com/site/sergueisaavedra/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -644,7 +644,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/serguei-saavedra/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://sites.google.com/site/sergueisaavedra/' link; taken as the lab site because its own menu links a people or lab page (https://sites.google.com/site/sergueisaavedra/people)."
     },
     {
       "id": "mit-cee-yossi-sheffi",
@@ -666,7 +666,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/yossi-sheffi/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://sheffi.mit.edu/) that shows no lab or people page."
     },
     {
       "id": "mit-cee-david-simchi-levi",
@@ -688,7 +688,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/david-simchi-levi/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://slevi1.mit.edu/) that shows no lab or people page."
     },
     {
       "id": "mit-cee-césar-terrer",
@@ -698,7 +698,7 @@
       "pi_title": "TianFu Group Career Development Professor, Associate Professor",
       "pi_email": "cterrer@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://terrerlab.com",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -710,7 +710,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/cesar-terrer/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://terrerlab.com' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-cee-franz-josef-ulm",
@@ -732,7 +732,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/franz-josef-ulm/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://cshub.mit.edu/) that shows no lab or people page."
     },
     {
       "id": "mit-cee-haruko-murakami-wainwright",
@@ -742,7 +742,7 @@
       "pi_title": "Atlantic Richfield Career Development Professor in Energy Studies, Assistant Professor",
       "pi_email": "hmwainw@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.google.com/mit.edu/h-wainwrights-group/home",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -754,7 +754,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/haruko-murakami-wainwright/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://sites.google.com/mit.edu/h-wainwrights-group/home' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-cee-andrew-whittle",
@@ -764,7 +764,7 @@
       "pi_title": "Edmund K Turner Professor in Civil Engineering",
       "pi_email": "ajwhittl@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://ajw-group.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -776,7 +776,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/andrew-whittle/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://ajw-group.mit.edu/' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-cee-john-williams",
@@ -798,7 +798,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/john-williams-2/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://geospatial.mit.edu) that shows no lab or people page."
     },
     {
       "id": "mit-cee-cathy-wu",
@@ -808,7 +808,7 @@
       "pi_title": "Class of 1954 Career Development Professor, Associate Professor",
       "pi_email": "cathywu@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://wucathy.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -820,7 +820,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/cathy-wu/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'http://wucathy.com/' link; taken as the lab site because its own menu links a people or lab page (http://wucathy.com/group/)."
     },
     {
       "id": "mit-cee-gioele-zardini",
@@ -830,7 +830,7 @@
       "pi_title": "Rudge (1948) and Nancy Allen Career Development Professor, Assistant Professor",
       "pi_email": "gzardini@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://zardini.mit.edu",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -842,7 +842,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/zardini/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://zardini.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://zardini.mit.edu/people/)."
     },
     {
       "id": "mit-cee-jinhua-zhao",
@@ -852,7 +852,7 @@
       "pi_title": "Class of 1941 Professor",
       "pi_email": "jinhua@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://mobility.mit.edu",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -864,7 +864,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cee.mit.edu/people_individual/jinhua-zhao/",
-      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from the department faculty page; lab_website/member_count/join info not yet read (later per-PI pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://mobility.mit.edu' link; taken as the lab site because its own menu links a people or lab page (https://mobility.mit.edu/people/)."
     }
   ],
   "non_lab_people": []

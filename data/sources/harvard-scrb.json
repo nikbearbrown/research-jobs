@@ -16,7 +16,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "paola_arlotta@harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hscrb.harvard.edu/labs/arlotta-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/arlotta-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/arlotta-lab/people/)."
     },
     {
       "id": "harvard-scrb-buenrostro",
@@ -38,7 +38,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://buenrostrolab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/buenrostro-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Profile page (hscrb.harvard.edu) read; no email shown."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Profile page (hscrb.harvard.edu) read; no email shown. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Buenrostro Lab website')."
     },
     {
       "id": "harvard-scrb-camargo",
@@ -60,7 +60,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "fernando.camargo@childrens.harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://camargolab.squarespace.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/camargo-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Camargo Lab website')."
     },
     {
       "id": "harvard-scrb-chen",
@@ -82,7 +82,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "chenf@broadinstitute.org",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.insitubiology.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/chen-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Chen Lab website')."
     },
     {
       "id": "harvard-scrb-fishman",
@@ -104,7 +104,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "mark_fishman@harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hscrb.harvard.edu/labs/fishman-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/fishman-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/fishman-lab/people/)."
     },
     {
       "id": "harvard-scrb-flynn",
@@ -126,7 +126,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "raflynn@fas.harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.rafrna.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/flynn-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Flynn Lab website')."
     },
     {
       "id": "harvard-scrb-franklin",
@@ -148,7 +148,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "ruthfranklin@fas.harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.ruthfranklinlab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/franklin-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Franklin Lab website')."
     },
     {
       "id": "harvard-scrb-hsu",
@@ -170,7 +170,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "HsuLab@fas.harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://hsulaboratory.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/hsu-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Hsu Lab website')."
     },
     {
       "id": "harvard-scrb-hyman",
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/hyman-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-scrb-lee",
@@ -214,7 +214,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "richard_lee@harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hscrb.harvard.edu/labs/lee-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/lee-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/lee-lab/people/)."
     },
     {
       "id": "harvard-scrb-macklis",
@@ -236,7 +236,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "macklislabadmin@fas.harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://macklislab.hscrb.harvard.edu",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -248,7 +248,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/macklis-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Macklis Lab website')."
     },
     {
       "id": "harvard-scrb-mckinley",
@@ -258,7 +258,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "kara_mckinley@fas.harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.mckinleylab.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/mckinley-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the McKinley Lab website')."
     },
     {
       "id": "harvard-scrb-melton",
@@ -302,7 +302,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "michor@jimmy.harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://michorlab.dfci.harvard.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -314,7 +314,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/michor-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Michor Lab website')."
     },
     {
       "id": "harvard-scrb-ramanathan",
@@ -324,7 +324,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "sharad@cgr.harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hscrb.harvard.edu/labs/ramanathan-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/ramanathan-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/ramanathan-lab/people/)."
     },
     {
       "id": "harvard-scrb-rubin",
@@ -346,7 +346,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "lee_rubin@harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hscrb.harvard.edu/labs/rubin-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/rubin-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/rubin-lab/people/)."
     },
     {
       "id": "harvard-scrb-scadden",
@@ -368,7 +368,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.scaddenlab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -380,7 +380,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/scadden-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Profile page (hscrb.harvard.edu) read; no email shown."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Profile page (hscrb.harvard.edu) read; no email shown. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Scadden Lab website')."
     },
     {
       "id": "harvard-scrb-segel",
@@ -390,7 +390,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "michael_segel@harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.segel.group/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -402,7 +402,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/segel-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled \"Visit the Segel Lab's website\")."
     },
     {
       "id": "harvard-scrb-wagers",
@@ -412,7 +412,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "amy_wagers@harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hscrb.harvard.edu/labs/wagers-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -424,7 +424,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/wagers-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://hscrb.harvard.edu/labs/wagers-lab/people/)."
     },
     {
       "id": "harvard-scrb-whited",
@@ -434,7 +434,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": "jessica_whited@harvard.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.whitedlab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -446,7 +446,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/whited-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Whited Lab website')."
     },
     {
       "id": "harvard-scrb-zon",
@@ -456,7 +456,7 @@
       "pi_title": "Professor, HSCRB",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.zonlab.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -468,7 +468,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/zon-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Profile page (hscrb.harvard.edu) read; no email shown."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Profile page (hscrb.harvard.edu) read; no email shown. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Visit the Zon Lab website')."
     },
     {
       "id": "harvard-scrb-strominger",
@@ -490,7 +490,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://hscrb.harvard.edu/labs/strominger-lab/",
-      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Contact email on lab page is for lab administration ('tfinn'), not confirmed as the PI's own address."
+      "notes": "Listed on the HSCRB faculty directory; this is a breadth pass -- lab website, member count and join info not yet read. Contact email on lab page is for lab administration ('tfinn'), not confirmed as the PI's own address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "harvard-scrb-verdine",

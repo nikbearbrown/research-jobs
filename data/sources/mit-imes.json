@@ -19,7 +19,7 @@
       "pi_title": "Core Faculty, MIT IMES",
       "pi_email": "elfar@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.rle.mit.edu/mri/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -31,7 +31,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/adalsteinsson-elfar",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Adalsteinsson Group')."
     },
     {
       "id": "mit-imes-daniel-g-anderson",
@@ -53,7 +53,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/anderson-daniel",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website left null: the profile page links several possible lab websites (http://ki.mit.edu/people/faculty/anderson, http://ki.mit.edu/people/insidethelab/anderson), rather than guess."
     },
     {
       "id": "mit-imes-regina-barzilay",
@@ -63,7 +63,7 @@
       "pi_title": "Associate Faculty, MIT IMES",
       "pi_email": "reginab@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.rbg.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -75,7 +75,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/barzilay-regina",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Regina Barzilay Group'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "mit-imes-sangeeta-n-bhatia",
@@ -85,7 +85,7 @@
       "pi_title": "Core Faculty, MIT IMES",
       "pi_email": "sbhatia@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://lmrt.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -97,7 +97,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/bhatia-sangeeta",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page's 'website' link; taken as the lab site because its own menu links a people or lab page (https://lmrt.mit.edu/team)."
     },
     {
       "id": "mit-imes-brett-bouma",
@@ -119,7 +119,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/bouma-brett",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-imes-lydia-bourouiba",
@@ -141,7 +141,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/bourouiba-lydia",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-imes-emery-n-brown",
@@ -163,7 +163,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/brown-emery",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-imes-arup-k-chakraborty",
@@ -173,7 +173,7 @@
       "pi_title": "Core Faculty, MIT IMES",
       "pi_email": "arupc@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://chakrabortygroup.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -185,7 +185,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/chakraborty-arup",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Chakraborty Lab')."
     },
     {
       "id": "mit-imes-kwanghun-chung",
@@ -195,7 +195,7 @@
       "pi_title": "Core Faculty, MIT IMES",
       "pi_email": "khchung@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://chunglab.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -207,7 +207,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/chung-kwanghun",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Chung Lab')."
     },
     {
       "id": "mit-imes-richard-j-cohen",
@@ -217,7 +217,7 @@
       "pi_title": "Professor of Health Sciences and Technology, Emeritus, MIT IMES",
       "pi_email": "rjcohen@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://cohenlab.weebly.com/index.html",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -229,7 +229,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/cohen-richard",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Cohen Lab')."
     },
     {
       "id": "mit-imes-james-j-collins",
@@ -239,7 +239,7 @@
       "pi_title": "Core Faculty, MIT IMES",
       "pi_email": "jimjc@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.collinslab.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -251,7 +251,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/collins-james",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Collins Lab'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "mit-imes-elazer-r-edelman",
@@ -261,7 +261,7 @@
       "pi_title": "Core Faculty, MIT IMES",
       "pi_email": "ere@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://edelmanlab.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -273,7 +273,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/edelman-elazer",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page's 'website' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-imes-joseph-j-frassica",
@@ -295,7 +295,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/frassica-joseph",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-imes-john-gabrieli",
@@ -305,7 +305,7 @@
       "pi_title": "Core Faculty, MIT IMES",
       "pi_email": "gabrieli@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://gablab.mit.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -317,7 +317,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/gabrieli-john",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Gabrieli Lab'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "mit-imes-lee-gehrke",
@@ -327,7 +327,7 @@
       "pi_title": "Core Faculty, MIT IMES",
       "pi_email": "lgehrke@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.gehrkelab.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -339,7 +339,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/gehrke-lee",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Gehrke Lab')."
     },
     {
       "id": "mit-imes-marzyeh-ghassemi",
@@ -361,7 +361,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/ghassemi-marzyeh",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-imes-polina-golland",
@@ -371,7 +371,7 @@
       "pi_title": "Associate Faculty, MIT IMES",
       "pi_email": "polina@csail.mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://people.csail.mit.edu/polina/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -383,7 +383,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/golland-polina",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Golland Group')."
     },
     {
       "id": "mit-imes-martha-l-gray",
@@ -405,7 +405,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/gray-martha",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-imes-thomas-heldt",
@@ -427,7 +427,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/heldt-thomas",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-imes-matthew-g-jones",
@@ -437,7 +437,7 @@
       "pi_title": "Core Faculty, MIT IMES",
       "pi_email": "mgjones@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.thejoneslaboratory.com",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -449,7 +449,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/jones-matthew",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Jones Lab at MIT')."
     },
     {
       "id": "mit-imes-robert-s-langer",
@@ -459,7 +459,7 @@
       "pi_title": "Associate Faculty, MIT IMES",
       "pi_email": "rlanger@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://web.mit.edu/langerlab/langer.html",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -471,7 +471,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/langer-robert",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Langer Lab')."
     },
     {
       "id": "mit-imes-laura-d-lewis",
@@ -481,7 +481,7 @@
       "pi_title": "Core Faculty, MIT IMES",
       "pi_email": "ldlewis@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.lewisneurolab.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -493,7 +493,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/lewis-laura",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lewis Lab'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "mit-imes-tami-lieberman",
@@ -503,7 +503,7 @@
       "pi_title": "Core Faculty, MIT IMES",
       "pi_email": "tami@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://lieberman.science/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -515,7 +515,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/lieberman-tami",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lieberman Lab'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "mit-imes-tania-lopez-silva",
@@ -537,7 +537,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/lopez-silva-tania",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-imes-leonid-a-mirny",
@@ -547,7 +547,7 @@
       "pi_title": "Core Faculty, MIT IMES",
       "pi_email": "leonid@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://mirnylab.mit.edu",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -559,7 +559,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/mirny-leonid",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Mirny Lab')."
     },
     {
       "id": "mit-imes-dava-j-newman",
@@ -581,7 +581,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/newman-dava",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-imes-lonnie-g-petersen",
@@ -603,7 +603,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/petersen-lonnie",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-imes-ellen-roche",
@@ -625,7 +625,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/roche-ellen",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-imes-alex-k-shalek",
@@ -635,7 +635,7 @@
       "pi_title": "Core Faculty, MIT IMES",
       "pi_email": "shalek@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.shaleklab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -647,7 +647,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/shalek-alex-k",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Shalek Lab')."
     },
     {
       "id": "mit-imes-phillip-a-sharp",
@@ -657,7 +657,7 @@
       "pi_title": "Associate Faculty, MIT IMES",
       "pi_email": "sharppa@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://web.mit.edu/sharplab/home.html",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -669,7 +669,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/sharp-phillip",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Sharp Lab')."
     },
     {
       "id": "mit-imes-charles-sodini",
@@ -679,7 +679,7 @@
       "pi_title": "Core Faculty, MIT IMES",
       "pi_email": "sodini@mtl.mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www-mtl.mit.edu/wpmu/sodini/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -691,7 +691,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/sodini-charles",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Sodini Group')."
     },
     {
       "id": "mit-imes-collin-m-stultz",
@@ -713,7 +713,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/stultz-collin",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "mit-imes-peter-szolovits",
@@ -723,7 +723,7 @@
       "pi_title": "Core Faculty, MIT IMES",
       "pi_email": "psz@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://groups.csail.mit.edu/medg/people/psz/home/Pete_MEDG_site/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -735,7 +735,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/szolovits-peter",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page's 'website' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "mit-imes-giovanni-traverso",
@@ -745,7 +745,7 @@
       "pi_title": "Associate Faculty, MIT IMES",
       "pi_email": "cgt20@mit.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.l4te.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -757,7 +757,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/traverso-giovanni",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'lab website')."
     },
     {
       "id": "mit-imes-bruce-walker",
@@ -767,7 +767,7 @@
       "pi_title": "Professor of the Practice, MIT IMES",
       "pi_email": "bwalker@partners.org",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://ragoninstitute.org/walker/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -779,7 +779,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://imes.mit.edu/people/walker-bruce",
-      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern."
+      "notes": "Breadth pass from the IMES Faculty directory (paginated, 4 pages). Several of these PIs are joint-appointed and may already have an entry in another department's source file (e.g. Regina Barzilay/EECS, Daniel Anderson/ChemE) -- not cross-checked individually this pass; email reconstructed from the page's '[at]' obfuscation pattern. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Walker Lab')."
     }
   ],
   "non_lab_people": []

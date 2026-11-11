@@ -308,7 +308,7 @@ def cmd_emails(args):
 
 def canon(url):
     """Address with scheme, www. and trailing slash dropped, for telling two spellings of one link apart."""
-    return re.sub(r"^https?://(www\.)?", "", url.strip(), flags=re.I).rstrip("/").lower()
+    return re.sub(r"^(https?://)?(www\.)?", "", url.strip(), flags=re.I).rstrip("/").lower()
 
 
 # a label naming a center / institute / program is a hub, not one PI's lab site
@@ -333,6 +333,10 @@ def lab_site_candidates(res, pi_name):
         absu = urllib.parse.urljoin(res["url"], href).split("#")[0].strip()
         if not absu.startswith("http") or absu.rstrip("/") == here:
             continue
+        if re.search(r"\s|%20OR%20", absu) or absu.startswith(here + "/"):
+            continue  # a malformed address ("a OR b"), or a broken relative link that lands under the profile page
+        # "Lab website" links sometimes point at the site's publications page: record the site, not that page
+        absu = re.sub(r"/publications?(\.s?html?)?/?$", "/", absu, flags=re.I)
         if NOT_A_LAB_SITE_RE.search(absu) or DOC_HREF_RE.search(urllib.parse.urlsplit(absu).path):
             continue
         label = re.sub(r"\s+", " ", a.get_text(" ", strip=True))
@@ -388,6 +392,38 @@ def profile_is_about(res, pi_name):
         if bare and (bare in words or (len(bare) >= 4 and bare in squashed)):
             return True
     return False
+
+
+def site_roster_link(home, url):
+    """A people / team / lab link in the menu of the site at `url`. When `url`
+    is a page inside a larger site (wyss.harvard.edu/team/core-faculty/<name>/,
+    cyber.harvard.edu/people/<name>), only a link under that same page counts:
+    the institute's own People menu says nothing about this person's group."""
+    from bs4 import BeautifulSoup
+
+    if not home.get("html"):
+        return None
+    parts = urllib.parse.urlsplit(url)
+    path = parts.path
+    last = path.rstrip("/").rsplit("/", 1)[-1]
+    if "." in last or last.lower() in ("home", "index", "site"):
+        path = path.rstrip("/").rsplit("/", 1)[0]  # .../index.html, .../home -> its folder
+    base = canon(f"{parts.netloc}{path}")
+    deep = bool(path.strip("/"))
+    for a in BeautifulSoup(home["html"], "lxml").find_all("a", href=True):
+        href = a["href"].strip()
+        if href.startswith(("mailto:", "tel:", "javascript:")) or href == "#":
+            continue
+        absu = urllib.parse.urljoin(home["url"], href).split("#")[0]
+        if canon(urllib.parse.urlsplit(absu).netloc) != canon(parts.netloc):
+            continue
+        if canon(absu) in (base, canon(url)):
+            continue
+        if deep and not canon(absu).startswith(base + "/"):
+            continue
+        if ROSTER_LINK_RE.search(a.get_text(" ", strip=True) or ""):
+            return absu
+    return None
 
 
 def own_roster_link(res):
@@ -477,9 +513,14 @@ def cmd_sites(args):
                     passed.append((url, label, "its address names a lab or group"))
                     continue
                 home = fetch(url)
-                roster = find_link(home, ROSTER_LINK_RE) if home.get("html") else None
+                roster = site_roster_link(home, url)
                 if roster:
                     passed.append((url, label, f"its own menu links a people or lab page ({roster})"))
+            if len(passed) > 1:
+                # a site and pages inside it (daslab.seas.harvard.edu and its class pages) are one site
+                shortest = min(passed, key=lambda c: len(canon(c[0])))
+                if all(canon(c[0]).startswith(canon(shortest[0])) for c in passed):
+                    passed = [shortest]
             if len(passed) == 1:
                 url, label, basis = passed[0]
                 lab["lab_website"] = url
