@@ -16,6 +16,23 @@ FIELDS = ["id", "kind", "size", "institution", "unit", "city", "lab_name", "pi_n
 
 VALID_KINDS = {"research-lab", "core-facility", "faculty-no-lab"}
 
+# Optional extra columns: H-1B sponsorship evidence per lab, produced by
+# scripts/sponsorship_step4_tiers.py. Merged in by lab id when the file exists;
+# delete the file and rebuild to drop the columns. See sponsorship_research/summary.md.
+SPONSORSHIP = ROOT / "sponsorship_research" / "lab_sponsorship.csv"
+
+
+def load_sponsorship():
+    if not SPONSORSHIP.exists():
+        return [], {}
+    with open(SPONSORSHIP, newline="", encoding="utf-8") as fh:
+        rows = list(csv.DictReader(fh))
+    cols = [c for c in rows[0].keys() if c != "id"] if rows else []
+    clash = set(cols) & set(FIELDS)
+    if clash:
+        raise SystemExit(f"sponsorship columns would overwrite existing ones: {sorted(clash)}")
+    return cols, {r["id"]: r for r in rows}
+
 
 def size_of(lab):
     if lab.get("kind") != "research-lab":
@@ -41,13 +58,18 @@ def main():
     dupes = {i for i in ids if ids.count(i) > 1}
     if dupes:
         raise SystemExit(f"duplicate ids: {sorted(dupes)}")
+    extra_cols, extra = load_sponsorship()
+    for lab in labs:
+        row = extra.get(lab["id"], {})
+        for c in extra_cols:
+            lab[c] = row.get(c) or None
     (ROOT / "data" / "labs.json").write_text(json.dumps(labs, indent=2, ensure_ascii=False) + "\n")
     # labs.csv is a list of real labs: faculty-no-lab entries (clinical-only
     # faculty, lecturers, anyone with no lab of their own) are recorded in
     # labs.json for completeness but left out of the CSV.
     csv_labs = [l for l in labs if l.get("kind") != "faculty-no-lab"]
     with open(ROOT / "data" / "labs.csv", "w", newline="") as fh:
-        w = csv.DictWriter(fh, fieldnames=FIELDS, extrasaction="ignore")
+        w = csv.DictWriter(fh, fieldnames=FIELDS + extra_cols, extrasaction="ignore")
         w.writeheader()
         w.writerows(csv_labs)
     counts = {}
@@ -57,6 +79,8 @@ def main():
     for l in labs:
         kind_counts[l.get("kind")] = kind_counts.get(l.get("kind"), 0) + 1
     print(f"{len(labs)} entries ({len(csv_labs)} in labs.csv); by size: {counts}; by kind: {kind_counts}")
+    if extra_cols:
+        print(f"merged {len(extra_cols)} sponsorship columns for {sum(1 for l in labs if l['id'] in extra)} labs")
 
 
 if __name__ == "__main__":

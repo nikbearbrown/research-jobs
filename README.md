@@ -113,3 +113,11 @@ Sizes marked `unknown` are labs whose own websites could not be read in the firs
 Think tanks and policy centers do not have labs, so for them the unit is the organization or one of its programs, and the contact is a research lead or the careers page.
 
 Still to resolve: people pages for many centers (blank `people_url`), BU's full 132-entry centers directory (only page 1 read), Northeastern's institutes beyond the first 87, Fletcher and UMass Boston McCormack centers, and sites that loop between http and https (CSAIL, McGovern, MIT CIS, RLE).
+
+## H-1B sponsorship columns
+
+`data/labs.csv` and `data/labs.json` carry 13 extra columns per lab: `legal_entity_name`, `entity_type`, `cap_exempt_likely`, `sponsorship_tier`, `entry_level_roles_sponsored`, `senior_roles_sponsored`, `new_employment_filings_3yr`, `median_entry_wage`, `policy_summary`, `policy_url`, `evidence_as_of`, `confidence`, `sponsorship_notes`.
+
+They say which legal employer a lab most likely hires through and what public records show about the positions that employer sponsors for H-1B. They are evidence labels, not promises, and not legal advice. Read `sponsorship_research/summary.md` first; it gives the tiers, the limits and how to rerun the pipeline.
+
+The columns come from `sponsorship_research/lab_sponsorship.csv`, which `scripts/build.py` merges in by lab id. Delete that file and rebuild to drop them.

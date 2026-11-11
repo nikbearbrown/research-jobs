@@ -1,0 +1,177 @@
+{
+ "state": "MA",
+ "files": {
+  "LCA_Disclosure_Data_FY2024_Q1__MA.csv": 3497,
+  "LCA_Disclosure_Data_FY2024_Q2__MA.csv": 4921,
+  "LCA_Disclosure_Data_FY2024_Q3__MA.csv": 7892,
+  "LCA_Disclosure_Data_FY2024_Q4__MA.csv": 4058,
+  "LCA_Disclosure_Data_FY2025_Q1__MA.csv": 3697,
+  "LCA_Disclosure_Data_FY2025_Q2__MA.csv": 4635,
+  "LCA_Disclosure_Data_FY2025_Q3__MA.csv": 8705,
+  "LCA_Disclosure_Data_FY2025_Q4__MA.csv": 3978,
+  "LCA_Disclosure_Data_FY2026_Q3__MA.csv": 15201
+ },
+ "rows_after_dedup": 55444,
+ "case_status": {
+  "Certified": 50042,
+  "Certified - Withdrawn": 4138,
+  "Withdrawn": 907,
+  "Denied": 357
+ },
+ "matched_certified_rows": 5092,
+ "entities_with_filings": [
+  "bc",
+  "bch",
+  "bidmc",
+  "bmc",
+  "brandeis",
+  "broad",
+  "bu",
+  "bwh",
+  "dfci",
+  "emerson",
+  "forsyth",
+  "harvard",
+  "hhmi",
+  "hsl",
+  "ibm",
+  "joslin",
+  "mclean",
+  "mee",
+  "mgb",
+  "mgh",
+  "mit",
+  "northeastern",
+  "spaulding",
+  "tufts",
+  "tuftsmc",
+  "umb",
+  "whitehead"
+ ],
+ "entities_without_filings": [
+  "ragon",
+  "usda",
+  "va"
+ ],
+ "mgh_filings_with_cambridge_worksite": {
+  "600 MAIN ST": 9,
+  "600 MAIN STREET": 7,
+  "400 TECHNOLOGY SQUARE": 6,
+  "65 LANDSDOWNE ST": 4,
+  "400 TECHNOLOGY SQ": 2,
+  "415 MAIN STREET": 2,
+  "65 LANDSDOWNE STREET": 1,
+  "MGH RAGON INSTITUTE, 600 MAIN ST": 1,
+  "415 MAIN ST": 1,
+  "600 MAIN ST CAMBRIDGE": 1
+ },
+ "pw_source_by_entity": {
+  "bch": {
+   "OES/OEWS (level given)": 361,
+   "Survey": 73,
+   "blank": 2
+  },
+  "mgh": {
+   "OES/OEWS (level given)": 642,
+   "Survey": 2
+  },
+  "bidmc": {
+   "OES/OEWS (level given)": 310,
+   "Survey": 10
+  },
+  "mclean": {
+   "OES/OEWS (level given)": 33,
+   "CBA": 3,
+   "Survey": 3
+  },
+  "tufts": {
+   "OES/OEWS (level given)": 172,
+   "Survey": 2
+  },
+  "harvard": {
+   "OES/OEWS (level given)": 452
+  },
+  "bu": {
+   "OES/OEWS (level given)": 281,
+   "CBA": 15
+  },
+  "bc": {
+   "OES/OEWS (level given)": 137
+  },
+  "ibm": {
+   "OES/OEWS (level given)": 264
+  },
+  "mit": {
+   "OES/OEWS (level given)": 346,
+   "blank": 33
+  },
+  "tuftsmc": {
+   "OES/OEWS (level given)": 41,
+   "Survey": 3
+  },
+  "hsl": {
+   "OES/OEWS (level given)": 22,
+   "Survey": 1
+  },
+  "joslin": {
+   "OES/OEWS (level given)": 15
+  },
+  "broad": {
+   "OES/OEWS (level given)": 173
+  },
+  "dfci": {
+   "OES/OEWS (level given)": 425,
+   "Survey": 24,
+   "blank": 6
+  },
+  "mee": {
+   "OES/OEWS (level given)": 58,
+   "Survey": 10,
+   "CBA": 2
+  },
+  "hhmi": {
+   "OES/OEWS (level given)": 54
+  },
+  "northeastern": {
+   "OES/OEWS (level given)": 164,
+   "CBA": 1
+  },
+  "bwh": {
+   "OES/OEWS (level given)": 351,
+   "Survey": 76,
+   "CBA": 35
+  },
+  "bmc": {
+   "OES/OEWS (level given)": 68,
+   "CBA": 46,
+   "Survey": 15
+  },
+  "brandeis": {
+   "OES/OEWS (level given)": 47,
+   "CBA": 2
+  },
+  "mgb": {
+   "Survey": 101,
+   "CBA": 65,
+   "OES/OEWS (level given)": 23
+  },
+  "spaulding": {
+   "OES/OEWS (level given)": 20
+  },
+  "whitehead": {
+   "OES/OEWS (level given)": 37
+  },
+  "umb": {
+   "CBA": 36,
+   "OES/OEWS (level given)": 22
+  },
+  "forsyth": {
+   "OES/OEWS (level given)": 7
+  },
+  "emerson": {
+   "OES/OEWS (level given)": 1
+  }
+ },
+ "unclassified_certified_rows": 211,
+ "flagged_certified_rows": 616
+}
