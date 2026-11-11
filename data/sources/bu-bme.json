@@ -17,7 +17,7 @@
       "pi_title": "Associate Professor (ME, MSE, BME)",
       "pi_email": "albro@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.albrolab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -29,7 +29,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/michael-albro-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Albro Lab')."
     },
     {
       "id": "bu-bme-samagya-banskota-phd",
@@ -39,7 +39,7 @@
       "pi_title": "Assistant Professor (BME)",
       "pi_email": "samagya@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.banskotalab.com",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -51,7 +51,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/samagya-banskota/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Banskota Lab'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "bu-bme-thomas-bifano-phd",
@@ -61,7 +61,7 @@
       "pi_title": "Professor (ME, MSE, BME, ECE); Director, Photonics Center",
       "pi_email": "tgb@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://bifanolab.website",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -73,7 +73,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/thomas-bifano-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bifano Lab')."
     },
     {
       "id": "bu-bme-irving-bigio-phd",
@@ -95,7 +95,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/irving-bigio/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-david-bishop-phd",
@@ -117,7 +117,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/david-bishop/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-david-boas-phd",
@@ -139,7 +139,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/david-boas-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-mario-cabodi-phd",
@@ -161,7 +161,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/mario-cabodi-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-chandramouli-chandrasekaran-phd",
@@ -183,7 +183,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/chandramouli-chandrasekaran-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-christopher-chen-md-phd",
@@ -193,7 +193,7 @@
       "pi_title": "William Fairfield Warren Distinguished Professor (BME, MSE)",
       "pi_email": "chencs@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.chrischenlab.com",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -205,7 +205,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/christopher-chen-m-d-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Chen Lab - Tissue Microfabrication Lab'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "bu-bme-jerry-chen-phd",
@@ -215,7 +215,7 @@
       "pi_title": "Associate Professor (Biology, BME)",
       "pi_email": "jerry@chen-lab.org",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.chen-lab.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -227,7 +227,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/jerry-chen-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Chen Laboratory')."
     },
     {
       "id": "bu-bme-ji-xin-cheng-phd",
@@ -237,7 +237,7 @@
       "pi_title": "William Fairfield Warren Distinguished Professor (ECE, BME, MSE)",
       "pi_email": "jxcheng@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://sites.bu.edu/cheng-group",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -249,7 +249,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/ji-xin-cheng/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Cheng Group')."
     },
     {
       "id": "bu-bme-brian-cleary-phd",
@@ -271,7 +271,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/brian-cleary-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-brianne-connizzo-phd",
@@ -281,7 +281,7 @@
       "pi_title": "Assistant Professor (BME, ME)",
       "pi_email": "connizzo@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.connizzolab.com",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -293,7 +293,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/brianne-connizzo-phd/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Connizzo Lab')."
     },
     {
       "id": "bu-bme-qiang-cui-phd",
@@ -315,7 +315,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/qiang-cui-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-jack-dennerlein-phd",
@@ -337,7 +337,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/jack-dennerlein-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-douglas-densmore-phd",
@@ -359,7 +359,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/douglas-densmore/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-brian-depasquale-phd",
@@ -381,7 +381,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/brian-depasquale-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-anna-devor-phd",
@@ -403,7 +403,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/anna-devor-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-mary-dunlop-phd",
@@ -413,7 +413,7 @@
       "pi_title": "Vice Chair, Professor (BME)",
       "pi_email": "mjdunlop@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.dunloplab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -425,7 +425,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/mary-dunlop-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Dunlop Lab'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "bu-bme-michael-economo-phd",
@@ -435,7 +435,7 @@
       "pi_title": "Assistant Professor (BME)",
       "pi_email": "mne@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://economolab.org",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -447,7 +447,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/michael-economo-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'economolab.org' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "bu-bme-solomon-eisenberg-scd",
@@ -469,7 +469,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/sol-eisenberg-sc-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-shyamsunder-erramilli-phd",
@@ -479,7 +479,7 @@
       "pi_title": "Chair (Physics), Professor (Physics, MSE, BME)",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://physics.bu.edu/femtospec/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -491,7 +491,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/shyamsunder-erramilli/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'FemtoSpec Laboratory Home Page')."
     },
     {
       "id": "bu-bme-jeroen-eyckmans-phd",
@@ -513,7 +513,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/jeroen-eyckmans-phd/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-ana-fiszbein-phd",
@@ -535,7 +535,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/ana-fiszbein/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-james-galagan-phd",
@@ -545,7 +545,7 @@
       "pi_title": "Professor (BME, Microbiology, ECE)",
       "pi_email": "jgalag@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.galaganlab.org",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -557,7 +557,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/james-galagan-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Galagan Lab')."
     },
     {
       "id": "bu-bme-jeffrey-gavornik-phd",
@@ -579,7 +579,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/jeffery-gavornik-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-alexander-a-green-phd",
@@ -589,7 +589,7 @@
       "pi_title": "Associate Professor (BME)",
       "pi_email": "aagreen@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://alexgreenlab.org",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -601,7 +601,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/alex-green-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Green Laboratory'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "bu-bme-mark-grinstaff-phd",
@@ -611,7 +611,7 @@
       "pi_title": "William Fairfield Warren Distinguished Professor (BME, Chemistry, MSE, MED)",
       "pi_email": "mgrin@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.grinstaff.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -623,7 +623,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/mark-grinstaff/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Grinstaff Group')."
     },
     {
       "id": "bu-bme-frank-guenther-phd",
@@ -645,7 +645,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/frank-guenther-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-xue-han-phd",
@@ -655,7 +655,7 @@
       "pi_title": "Professor (BME)",
       "pi_email": "xuehan@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.bu.edu/hanlab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -667,7 +667,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/xue-han-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Han Lab')."
     },
     {
       "id": "bu-bme-liangliang-hao-phd",
@@ -677,7 +677,7 @@
       "pi_title": "Assistant Professor (BME)",
       "pi_email": "lhao1@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://hao-lab.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -689,7 +689,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/liangliang-hao-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Hao Lab'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "bu-bme-michael-hasselmo-phd",
@@ -699,7 +699,7 @@
       "pi_title": "Director of Center for Systems Neuroscience; Professor (Psychological and Brain Science, BME)",
       "pi_email": "hasselmo@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.bu.edu/hasselmo/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -711,7 +711,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/michael-hasselmo/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Hasselmo Laboratory')."
     },
     {
       "id": "bu-bme-miguel-jimenez-phd",
@@ -733,7 +733,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/miguel-jimenez-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-diane-joseph-mccarthy-phd",
@@ -743,7 +743,7 @@
       "pi_title": "Executive Director, Bioengineering Technology & Entrepreneurship Center; Professor of the Practice (BME, Chemistry, MSE)",
       "pi_email": "djosephm@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://sites.google.com/bu.edu/joseph-mccarthy-group",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -755,7 +755,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/diane-joseph-mccarthy/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Joseph-McCarthy Group')."
     },
     {
       "id": "bu-bme-w-clem-karl-phd",
@@ -777,7 +777,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/w-clem-karl/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-simon-kasif-phd",
@@ -799,7 +799,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/simon-kasif-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-nancy-kopell-phd",
@@ -821,7 +821,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/nancy-kopell-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-ann-mckee-md",
@@ -843,7 +843,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/ann-mckee-m-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://bu.edu/cte) that shows no lab or people page."
     },
     {
       "id": "bu-bme-pankaj-mehta-phd",
@@ -865,7 +865,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/pankaj-mehta/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-jerome-c-mertz-phd",
@@ -887,7 +887,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/jerome-c-mertz-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-elise-morgan-phd",
@@ -897,7 +897,7 @@
       "pi_title": "Dean, College of Engineering; Professor (ME, MSE, BME)",
       "pi_email": "efmorgan@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://morganresearchlab.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -909,7 +909,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/elise-morgan-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Morgan Research Lab')."
     },
     {
       "id": "bu-bme-hamid-nawab-phd",
@@ -931,7 +931,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/hamid-nawab/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-john-t-ngo-phd",
@@ -941,7 +941,7 @@
       "pi_title": "Associate Professor (BME)",
       "pi_email": "jtngo@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.thengolab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -953,7 +953,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/john-t-ngo-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Ngo Lab'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "bu-bme-hadi-t-nia-phd",
@@ -963,7 +963,7 @@
       "pi_title": "Associate Professor (BME, MSE)",
       "pi_email": "htnia@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://nia-lab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -975,7 +975,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/hadi-nia-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'https://nia-lab.com/')."
     },
     {
       "id": "bu-bme-elaine-o-nsoesie-phd",
@@ -997,7 +997,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/elaine-o-nsoesie-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-timothy-o'shea-phd",
@@ -1019,7 +1019,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/timothy-oshea-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-ioannis-paschalidis-phd",
@@ -1029,7 +1029,7 @@
       "pi_title": "Distinguished Professor of Engineering (ECE, BME, SE); Director, Rafik B. Hariri Institute",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://sites.bu.edu/paschalidis/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1041,7 +1041,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/ioannis-paschalidis/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Paschalidis NOC Lab')."
     },
     {
       "id": "bu-bme-tyler-perrachione-phd",
@@ -1063,7 +1063,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/tyler-perrachione-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-erica-d-pratt-phd",
@@ -1073,7 +1073,7 @@
       "pi_title": "Assistant Professor (BME, MSE), Moorman-Simon Interdisciplinary Career Development Professor",
       "pi_email": "epratt@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://ericaprattlab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1085,7 +1085,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/erica-pratt-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Pratt Laboratory')."
     },
     {
       "id": "bu-bme-steve-ramirez-phd",
@@ -1095,7 +1095,7 @@
       "pi_title": "Assistant Professor (Psychological & Brain Sciences, BME)",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://theramirezgroup.org",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1107,7 +1107,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/steve-ramirez-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Ramirez Group'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "bu-bme-tommaso-ranzani-phd",
@@ -1117,7 +1117,7 @@
       "pi_title": "Associate Professor (ME, MSE, BME)",
       "pi_email": "tranzani@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://sites.bu.edu/ranzani-lab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1129,7 +1129,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/tommaso-ranzini-phd/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Ranzani Lab')."
     },
     {
       "id": "bu-bme-robert-m-g-reinhart-phd",
@@ -1151,7 +1151,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/robert-m-g-reinhart-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-darren-roblyer-phd",
@@ -1173,7 +1173,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/darren-roblyer-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-michelle-sander-phd",
@@ -1195,7 +1195,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/michelle-sander/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-benjamin-scott-phd",
@@ -1205,7 +1205,7 @@
       "pi_title": "Assistant Professor (Psychological and Brain Sciences, BME)",
       "pi_email": "bbs@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.scottcognitionlab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1217,7 +1217,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/benjamin-scott-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.scottcognitionlab.com/' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "bu-bme-daniel-segrè-phd",
@@ -1239,7 +1239,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/daniel-segre-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-kamal-sen-phd",
@@ -1261,7 +1261,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/kamal-sen-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-satish-k-singh-md",
@@ -1283,7 +1283,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/satish-k-singh-md/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-michael-l-smith-phd",
@@ -1305,7 +1305,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/michael-l-smith-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-dimitrije-stamenovic-phd",
@@ -1327,7 +1327,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/dimitrije-stamenovic-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-matthias-stangl-phd",
@@ -1337,7 +1337,7 @@
       "pi_title": "Assistant Professor (BME, Psychological & Brain Sciences, Neurosurgery)",
       "pi_email": "mstangl@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.stangl-lab.com",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1349,7 +1349,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/matthias-stangl-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Stangl Lab')."
     },
     {
       "id": "bu-bme-cara-e-stepp-phd",
@@ -1359,7 +1359,7 @@
       "pi_title": "Professor, Sargent College (Speech, Language, & Hearing Science, BME)",
       "pi_email": "cstepp@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://sites.bu.edu/stepplab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1371,7 +1371,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/cara-e-stepp-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Stepp Lab'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "bu-bme-robert-a-stern-phd",
@@ -1381,7 +1381,7 @@
       "pi_title": "Professor of Neurology, Neurosurgery, and Anatomy, Neurobiology (BME)",
       "pi_email": "bobstern@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.sternneurolab.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1393,7 +1393,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/robert-a-stern-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Stern Lab')."
     },
     {
       "id": "bu-bme-shannon-stott-phd",
@@ -1415,7 +1415,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/shannon-stott-phd-2/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-béla-suki-phd",
@@ -1437,7 +1437,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/bela-suki-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-nancy-sullivan-scd",
@@ -1459,7 +1459,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/nancy-sullivan-sc-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-michelle-teplensky-phd",
@@ -1469,7 +1469,7 @@
       "pi_title": "Assistant Professor (BME, MSE)",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://teplenskylab.com",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1481,7 +1481,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/michelle-teplensky-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Teplensky Lab')."
     },
     {
       "id": "bu-bme-lei-tian-phd",
@@ -1503,7 +1503,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/lei-tian/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-joe-tien-phd",
@@ -1513,7 +1513,7 @@
       "pi_title": "Associate Professor (BME, MSE)",
       "pi_email": "jtien@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://people.bu.edu/jtien/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1525,7 +1525,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/joe-tien-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Tien Group')."
     },
     {
       "id": "bu-bme-m-selim-ünlü-phd",
@@ -1547,7 +1547,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/selim-unlu/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-sandor-vajda-phd",
@@ -1557,7 +1557,7 @@
       "pi_title": "Professor (BME, SE Affiliate, Chemistry)",
       "pi_email": "vajda@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://vajdalab.org",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1569,7 +1569,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/sandor-vajda-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Vajda Lab')."
     },
     {
       "id": "bu-bme-archana-venkataraman-phd",
@@ -1591,7 +1591,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/archana-venkataraman-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-joyce-y-wong-phd",
@@ -1601,7 +1601,7 @@
       "pi_title": "Professor (BME, MSE), Inaugural Term Distinguished Professor of Engineering",
       "pi_email": "jywong@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://people.bu.edu/wonglab",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1613,7 +1613,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/joyce-y-wong-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Joyce Wong Laboratory')."
     },
     {
       "id": "bu-bme-wilson-w-wong-phd",
@@ -1623,7 +1623,7 @@
       "pi_title": "Professor (BME)",
       "pi_email": "wilwong@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.bu.edu/wilsonwong/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1635,7 +1635,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/wilson-w-wong-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Wilson Wong Lab'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "bu-bme-zeba-wunderlich-phd",
@@ -1645,7 +1645,7 @@
       "pi_title": "Associate Professor (Department of Biology, BME)",
       "pi_email": "zeba@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://wunderlichlab.org",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1657,7 +1657,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/zeba-wunderlich-phd/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Wunderlich Lab')."
     },
     {
       "id": "bu-bme-rabia-yazicigil-phd",
@@ -1679,7 +1679,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/rabia-yazicigil-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://wisecircuits.bu.edu) that shows no lab or people page."
     },
     {
       "id": "bu-bme-meg-younger-phd",
@@ -1689,7 +1689,7 @@
       "pi_title": "Assistant Professor (Biology, BME)",
       "pi_email": "myounger@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.youngerlaboratory.org/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1701,7 +1701,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/meg-younger-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Younger Lab')."
     },
     {
       "id": "bu-bme-muhammad-zaman-phd",
@@ -1711,7 +1711,7 @@
       "pi_title": "Professor (BME, MSE); Director, Center on Forced Displacement",
       "pi_email": "zaman@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.bu.edu/zaman/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1723,7 +1723,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/muhammad-zaman-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Zaman Lab')."
     },
     {
       "id": "bu-bme-katherine-yanhang-zhang-phd",
@@ -1745,7 +1745,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/katherine-yanhang-zhang-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-bme-xin-zhang-phd",
@@ -1767,7 +1767,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/xin-zhang-ph-d/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     }
   ],
   "non_lab_people": [

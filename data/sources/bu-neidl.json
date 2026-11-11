@@ -29,7 +29,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/neidl/profile/robert-davey/",
-      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-neidl-brett-case",
@@ -39,7 +39,7 @@
       "pi_title": "Assistant Professor, Virology, Immunology & Microbiology",
       "pi_email": "bcase1@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.caselabresearch.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -51,7 +51,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/neidl/profile/brett-case/",
-      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Case Lab webpage')."
     },
     {
       "id": "bu-neidl-john-h-connor",
@@ -73,7 +73,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/neidl/profile/john-h-connor/",
-      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-neidl-nicholas-crossland",
@@ -95,7 +95,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/neidl/profile/nicholas-crossland/",
-      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-neidl-florian-douam",
@@ -117,7 +117,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/neidl/profile/florian-douam/",
-      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-neidl-adam-hume",
@@ -139,7 +139,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/neidl/profile/adam-hume/",
-      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-neidl-igor-kramnik",
@@ -161,7 +161,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/neidl/profile/igor-kramnik/",
-      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-neidl-john-misasi",
@@ -183,7 +183,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/neidl/profile/john-misasi-md/",
-      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-neidl-elke-mühlberger",
@@ -193,7 +193,7 @@
       "pi_title": "Professor, Virology, Immunology & Microbiology; Director, Integrated Science Core",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.bu.edu/muhlbergerlab/new-front-page/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -205,7 +205,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/neidl/profile/elke-muhlberger/",
-      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Mühlberger lab webpage')."
     },
     {
       "id": "bu-neidl-mohsan-saeed",
@@ -227,7 +227,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/neidl/profile/mohsan-saeed/",
-      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "NEIDL CORE Faculty (primarily based at NEIDL); breadth pass from department faculty page, no email shown on the listing. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     }
   ],
   "non_lab_people": [],

@@ -29,7 +29,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/thomas-bania/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-astronomy-elizabeth-blanton",
@@ -51,7 +51,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/elizabeth-blanton/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://people.bu.edu/eblanton) that shows no lab or people page."
     },
     {
       "id": "bu-astronomy-tereasa-brainerd",
@@ -73,7 +73,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/tereasa-brainerd/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://people.bu.edu/brainerd/) that shows no lab or people page."
     },
     {
       "id": "bu-astronomy-dillon-brout",
@@ -95,7 +95,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/dillon-brout/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-astronomy-emily-cunningham",
@@ -117,7 +117,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/emily-cunningham/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-astronomy-chuanfei-dong",
@@ -127,7 +127,7 @@
       "pi_title": "Assistant Professor",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.google.com/site/chuanfeidong",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -139,7 +139,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/chuanfei-dong/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'https://sites.google.com/site/chuanfeidong' link; taken as the lab site because its own menu links a people or lab page (https://sites.google.com/site/chuanfeidong/research-group)."
     },
     {
       "id": "bu-astronomy-catherine-espaillat",
@@ -161,7 +161,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/catherine-espaillat/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-astronomy-jj-hermes",
@@ -171,7 +171,7 @@
       "pi_title": "Associate Professor",
       "pi_email": "jjhermes@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://sites.bu.edu/buwd/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -183,7 +183,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/jj-hermes/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'http://sites.bu.edu/buwd/' link; taken as the lab site because its own menu links a people or lab page (https://sites.bu.edu/buwd/people/)."
     },
     {
       "id": "bu-astronomy-wen-li",
@@ -193,7 +193,7 @@
       "pi_title": "Associate Professor; Director of Graduate Studies",
       "pi_email": "wenli77@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://wenli77.wixsite.com/home",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -205,7 +205,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/wen-li/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'http://wenli77.wixsite.com/home' link; taken as the lab site because its own menu links a people or lab page (https://wenli77.wixsite.com/home/group-members)."
     },
     {
       "id": "bu-astronomy-carlos-martinis",
@@ -227,7 +227,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/carlos-martinis/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-astronomy-michael-mendillo",
@@ -249,7 +249,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/michael-mendillo/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-astronomy-luke-moore",
@@ -271,7 +271,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/luke-moore/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-astronomy-philip-muirhead",
@@ -293,7 +293,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/phil-muirhead/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-astronomy-toshi-nishimura",
@@ -315,7 +315,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/toshi-nishimura/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-astronomy-merav-opher",
@@ -337,7 +337,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/merav-opher/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://meravopher.com) that shows no lab or people page."
     },
     {
       "id": "bu-astronomy-meers-oppenheim",
@@ -347,7 +347,7 @@
       "pi_title": "Professor; Associate Director, Center for Space Physics",
       "pi_email": "meerso@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://spaceplasma.bu.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -359,7 +359,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/meers-oppenheim/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://spaceplasma.bu.edu/' link; taken as the lab site because its own menu links a people or lab page (https://spaceplasma.bu.edu/students.html)."
     },
     {
       "id": "bu-astronomy-carl-schmidt",
@@ -381,7 +381,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/carl-schmidt/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://carlschmidt.science) that shows no lab or people page."
     },
     {
       "id": "bu-astronomy-paul-withers",
@@ -403,7 +403,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/paul-withers/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://sirius.bu.edu/withers/) that shows no lab or people page."
     }
   ],
   "non_lab_people": [],

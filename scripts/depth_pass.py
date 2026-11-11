@@ -45,6 +45,7 @@ Every change appends a short "Depth pass <date>: ..." sentence to the lab's
 notes so the source of each value stays traceable.
 """
 import argparse
+import warnings
 import datetime
 import json
 import re
@@ -57,6 +58,12 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from fetch import CACHE_DIR, _slug_for, fetch  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
+
+try:  # a few profile addresses serve XML feeds; parsing them as HTML is fine for link reading
+    from bs4 import XMLParsedAsHTMLWarning
+    warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+except ImportError:
+    pass
 TODAY = datetime.date.today().isoformat()
 
 EMAIL_RE = re.compile(r"[A-Za-z0-9._%+'-]+@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}")
@@ -85,7 +92,7 @@ NOT_A_LAB_SITE_RE = re.compile(
     r"(myworkdayjobs|scholar\.google|ncbi\.nlm\.nih|pubmed|orcid\.org|linkedin\.|twitter\.com|//x\.com|facebook\.|instagram\.|"
     r"youtube\.|youtu\.be|researchgate\.|doi\.org|facultyprofiles\.tufts\.edu|drive\.google|docs\.google|"
     r"wikipedia\.org|amazon\.|bsky\.app|mastodon|arxiv\.org|semanticscholar|academia\.edu|//github\.com|"
-    r"news\.|now\.tufts\.edu|/news/|/story/|/stories/|/article|/events?/)",
+    r"news\.|now\.tufts\.edu|/news/|/story/|/stories/|/article|/events?/|/20\d\d/\d\d/)",
     re.I,
 )
 PERSONAL_SITE_LABEL_RE = re.compile(
@@ -299,6 +306,15 @@ def cmd_emails(args):
     print(f"emails: tried {tried}, filled {filled}, robots-blocked {blocked}", file=sys.stderr)
 
 
+def canon(url):
+    """Address with scheme, www. and trailing slash dropped, for telling two spellings of one link apart."""
+    return re.sub(r"^https?://(www\.)?", "", url.strip(), flags=re.I).rstrip("/").lower()
+
+
+# a label naming a center / institute / program is a hub, not one PI's lab site
+HUB_LABEL_RE = re.compile(r"\b(cent(er|re)|institute|consortium|program(me)?|initiative|network|department)\b", re.I)
+
+
 def lab_site_candidates(res, pi_name):
     """(url, label, why) for every link on a profile page that the page itself
     presents as the person's lab / group / research website."""
@@ -330,14 +346,20 @@ def lab_site_candidates(res, pi_name):
         has_pi_name = any(len(ln) >= 3 and re.search(rf"\b{re.escape(ln)}\b", fold(label)) for ln in lasts)
         if re.search(r"\w['\u2019]s\b", label) and not has_pi_name:
             continue  # "Susan Forsburg's Lab Page" on someone else's profile: another person's lab
+        if HUB_LABEL_RE.search(label) and not has_pi_name:
+            continue  # "Rehabilitation Research and Training Center Website": a center, not a lab
         if LAB_SITE_LABEL_RE.search(label):
             why = "labelled"
         elif PERSONAL_SITE_LABEL_RE.match(label):
             why = "personal"
         elif LAB_NAME_LABEL_RE.search(label) and has_pi_name:
             why = "named"
-        if why and absu.rstrip("/") not in seen:
-            seen.add(absu.rstrip("/"))
+        elif canon(label) == canon(absu) and urllib.parse.urlsplit(absu).netloc != urllib.parse.urlsplit(res["url"]).netloc:
+            # seas.harvard.edu lists a person's sites under "Websites" with the bare
+            # address as the link text: a website link with no say on whether it is a lab's
+            why = "personal"
+        if why and canon(absu) not in seen:
+            seen.add(canon(absu))
             out.append((absu, label, why))
     return out
 
@@ -383,7 +405,7 @@ def own_roster_link(res):
     here = f"{parts.scheme}://{parts.netloc}{parts.path}".rstrip("/")
     for a in BeautifulSoup(res["html"], "lxml").find_all("a", href=True):
         absu = urllib.parse.urljoin(res["url"], a["href"].strip()).split("#")[0]
-        if absu.startswith(here + "/") and PEOPLE_LINK_RE.search(a.get_text(" ", strip=True) or ""):
+        if absu.startswith(here + "/") and absu[len(here):].strip("/") and PEOPLE_LINK_RE.search(a.get_text(" ", strip=True) or ""):
             return absu
     return None
 
@@ -409,7 +431,7 @@ def cmd_sites(args):
     seen_on = {}
     for _, lab in todo:
         for u, _, _ in cands[id(lab)]:
-            seen_on.setdefault(u.rstrip("/"), set()).add(lab["profile_url"])
+            seen_on.setdefault(canon(u), set()).add(lab["profile_url"])
     boiler = {u for u, ps in seen_on.items() if len(ps) >= 3}
     filled = several = none = failed = 0
     changed_paths = set()
@@ -429,9 +451,9 @@ def cmd_sites(args):
             changed_paths.add(path)
             print(f"!! {lab['id']}\tprofile page is not visibly {lab.get('pi_name')}'s\t{lab['profile_url']}", flush=True)
             continue
-        cs = [c for c in cands[id(lab)] if c[0].rstrip("/") not in boiler]
+        cs = [c for c in cands[id(lab)] if canon(c[0]) not in boiler]
         # a "website" link that also sits on another person's profile is not this person's site
-        personal = [c for c in cs if c[2] == "personal" and len(seen_on[c[0].rstrip("/")]) == 1]
+        personal = [c for c in cs if c[2] == "personal" and len(seen_on[canon(c[0])]) == 1]
         cs = [c for c in cs if c[2] != "personal"]
         labelled = [c for c in cs if c[2] == "labelled"]
         if len(labelled) == 1:
@@ -444,34 +466,42 @@ def cmd_sites(args):
             changed_paths.add(path)
             print(f"OK {lab['id']}\t[profile page is the lab site]\t{own}", flush=True)
             continue
-        if not cs and len(personal) == 1:
-            # The profile only offers a "Personal Website" link. Record it as the lab
-            # site only when it visibly is one: its address names a lab or group, or
-            # its own menu links a people / team / lab page.
-            url, label, _ = personal[0]
-            basis = None
-            if LABISH_URL_RE.search(urllib.parse.urlsplit(url).netloc + urllib.parse.urlsplit(url).path):
-                basis = "its address names a lab or group"
-            else:
+        if not cs and 1 <= len(personal) <= 4:
+            # The profile only offers "Personal Website" / bare-address links. One is
+            # recorded as the lab site only when it visibly is one: its address names a
+            # lab or group, or its own menu links a people / team / lab page.
+            passed = []
+            for url, label, _ in personal:
+                parts = urllib.parse.urlsplit(url)
+                if LABISH_URL_RE.search(parts.netloc + parts.path):
+                    passed.append((url, label, "its address names a lab or group"))
+                    continue
                 home = fetch(url)
                 roster = find_link(home, ROSTER_LINK_RE) if home.get("html") else None
                 if roster:
-                    basis = f"its own menu links a people or lab page ({roster})"
-            if basis:
+                    passed.append((url, label, f"its own menu links a people or lab page ({roster})"))
+            if len(passed) == 1:
+                url, label, basis = passed[0]
                 lab["lab_website"] = url
                 append_note(lab, f"lab_website read from the profile page's {label!r} link; taken as the lab site because {basis}.")
                 filled += 1
                 print(f"OK {lab['id']}\t{label!r}\t{url}\t[{basis[:40]}]", flush=True)
+            elif len(passed) > 1:
+                several += 1
+                append_note(lab, "lab_website left null: the profile page links several websites that look like lab sites ("
+                            + ", ".join(u for u, _, _ in passed[:3]) + "), rather than guess.")
+                print(f"?? {lab['id']}\t" + " | ".join(u for u, _, _ in passed), flush=True)
             else:
                 none += 1
-                append_note(lab, f"lab_website left null: the profile page links a personal website ({url}) that shows no lab or people page.")
-                print(f".. {lab['id']}\tpersonal site, no lab signs\t{url}", flush=True)
+                sites_ = ", ".join(u for u, _, _ in personal[:3])
+                append_note(lab, f"lab_website left null: the profile page links a personal website ({sites_}) that shows no lab or people page.")
+                print(f".. {lab['id']}\tpersonal site, no lab signs\t{sites_}", flush=True)
             changed_paths.add(path)
             continue
         if len(cs) == 1:
             url, label, _ = cs[0]
             lab["lab_website"] = url
-            shared = len(seen_on[url.rstrip("/")]) > 1
+            shared = len(seen_on[canon(url)]) > 1
             append_note(lab, f"lab_website read from the profile page (link labelled {label!r})"
                         + ("; the same link is on another PI's profile, so the site may be shared." if shared else "."))
             filled += 1
@@ -548,6 +578,8 @@ def cmd_prep_sizes(args):
         for lab in data["labs"]:
             if lab.get("kind") != "research-lab" or lab.get("member_count") is not None or not lab.get("lab_website"):
                 continue
+            if args.site_found_on and f"Depth pass {args.site_found_on}: lab_website" not in (lab.get("notes") or ""):
+                continue  # only the lab sites the `sites` step recorded on that date
             site = lab["lab_website"]
             item = {"source": str(path.relative_to(ROOT)), "lab_id": lab["id"], "pi_name": lab.get("pi_name"),
                     "lab_website": site, "home_status": None, "people_url": None, "join_url": None,
@@ -629,6 +661,8 @@ def main():
     s.add_argument("sources", nargs="*")
     s.add_argument("--institution", action="append")
     s.add_argument("--out", required=True)
+    s.add_argument("--site-found-on", metavar="YYYY-MM-DD",
+                   help="only labs whose lab_website was recorded by the sites step on this date")
     w = sub.add_parser("sites")
     w.add_argument("sources", nargs="*")
     w.add_argument("--institution", action="append")

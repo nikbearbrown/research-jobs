@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/osama-alshaykh/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-john-baillieul",
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/john-baillieul-ph-d-me-se/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-kayhan-batmanghelich",
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/kayhan-batmanghelich-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-enrico-bellotti",
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/enrico-bellotti/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-azer-bestavros",
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/azer-bestavros/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-thomas-bifano",
@@ -126,7 +126,7 @@
       "pi_title": "Professor (ME, MSE, BME, ECE); Director, Photonics Center",
       "pi_email": "tgb@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://bifanolab.website",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -138,7 +138,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/thomas-bifano-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bifano Lab')."
     },
     {
       "id": "bu-ece-irving-bigio",
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/irving-bigio/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-david-bishop",
@@ -182,7 +182,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/david-bishop/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-david-boas",
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/david-boas-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-richard-brower",
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/richard-brower/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-david-campbell",
@@ -236,7 +236,7 @@
       "pi_title": "Professor (Physics, ECE, MSE)",
       "pi_email": "dkcampbe@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://physics.bu.edu/sites/campbell-group/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -248,7 +248,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/david-campbell/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Campbell Group Home Page')."
     },
     {
       "id": "bu-ece-jeffrey-carruthers",
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/jeffrey-carruthers/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-christos-cassandras",
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/christos-cassandras/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-david-casta-n",
@@ -314,7 +314,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/david-castanon/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-wei-lun-harry-chao",
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/wei-lun-chao-phd/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-ji-xin-cheng",
@@ -346,7 +346,7 @@
       "pi_title": "William Fairfield Warren Distinguished Professor (ECE, BME, MSE)",
       "pi_email": "jxcheng@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://sites.bu.edu/cheng-group",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/ji-xin-cheng/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Cheng Group')."
     },
     {
       "id": "bu-ece-ay-e-coskun",
@@ -380,7 +380,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/ayse-coskun/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-mark-crovella",
@@ -402,7 +402,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/mark-crovella/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-ashok-cutkosky",
@@ -424,7 +424,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/ashok-cutkosky/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://ashok.cutkosky.com) that shows no lab or people page."
     },
     {
       "id": "bu-ece-luca-dal-negro",
@@ -446,7 +446,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/luca-dal-negro/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-emiliano-dall-anese",
@@ -468,7 +468,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/emiliano-dallanese-phd/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-douglas-densmore",
@@ -490,7 +490,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/douglas-densmore/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-chuanfei-dong",
@@ -512,7 +512,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/chuanfei-dong-phd/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-manuel-egele",
@@ -534,7 +534,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/manuel-egele/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-solomon-eisenberg",
@@ -556,7 +556,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/sol-eisenberg-sc-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-farouk-el-baz",
@@ -578,7 +578,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/farouk-el-baz/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-james-galagan",
@@ -588,7 +588,7 @@
       "pi_title": "Professor, (BME, Microbiology, ECE)",
       "pi_email": "jgalag@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://www.galaganlab.org",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -600,7 +600,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/james-galagan-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Galagan Lab')."
     },
     {
       "id": "bu-ece-vivek-goyal",
@@ -622,7 +622,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/vivek-goyal/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-martin-herbordt",
@@ -644,7 +644,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/martin-herbordt/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-yigong-hu",
@@ -666,7 +666,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/yigong-hu-phd/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-prakash-ishwar",
@@ -688,7 +688,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/prakash-ishwar/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-ajay-joshi",
@@ -710,7 +710,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/ajay-joshi/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-w-clem-karl",
@@ -732,7 +732,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/w-clem-karl/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-mohamad-kassab",
@@ -754,7 +754,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/mohamad-kassab-phd/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-william-klein",
@@ -776,7 +776,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/william-klein/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-janusz-konrad",
@@ -798,7 +798,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/janusz-konrad/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-robert-kotiuga",
@@ -820,7 +820,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/robert-kotiuga/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-orran-krieger",
@@ -842,7 +842,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/orran-krieger/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://okrieg.github.io) that shows no lab or people page."
     },
     {
       "id": "bu-ece-brian-kulis",
@@ -864,7 +864,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/brian-kulis/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-david-lake",
@@ -874,7 +874,7 @@
       "pi_title": "Assistant Professor (ECE)",
       "pi_email": "dlake@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://sites.bu.edu/lakelab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -886,7 +886,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/david-lake-phd/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lake Lab')."
     },
     {
       "id": "bu-ece-min-chang-lee",
@@ -908,7 +908,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/min-chang-lee/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-lev-levitin",
@@ -930,7 +930,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/lev-levitin/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-wenchao-li",
@@ -952,7 +952,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/wenchao-li-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-thomas-little",
@@ -974,7 +974,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/thomas-little/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-michael-mendillo",
@@ -996,7 +996,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/michael-mendillo/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-jerome-c-mertz",
@@ -1018,7 +1018,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/jerome-c-mertz-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-tali-moreshet",
@@ -1040,7 +1040,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/tali-moreshet/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-hamid-nawab",
@@ -1062,7 +1062,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/hamid-nawab/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-bobak-nazer",
@@ -1084,7 +1084,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/bobak-nazer/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-sabrina-m-neuman",
@@ -1106,7 +1106,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/sabrina-m-neuman-phd/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-toshi-nishimura",
@@ -1116,7 +1116,7 @@
       "pi_title": "Associate Professor (Astronomy, ECE)",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://sites.google.com/site/toshinishimurabu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1128,7 +1128,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/toshi-nishimura/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website'); the same link is on another PI's profile, so the site may be shared."
     },
     {
       "id": "bu-ece-eshed-ohn-bar",
@@ -1150,7 +1150,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/ohn-bar-eshed/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-alexander-olshevsky",
@@ -1172,7 +1172,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/alexander-olshevsky/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-meers-oppenheim",
@@ -1194,7 +1194,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/meers-oppenheim-phd/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-roberto-paiella",
@@ -1216,7 +1216,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/roberto-paiella/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-ioannis-paschalidis",
@@ -1226,7 +1226,7 @@
       "pi_title": "Distinguished Professor of Engineering (ECE, BME, SE Appointed); Director, Rafik B. Hariri Institute for Computing and Computational Science and Engineering",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://sites.bu.edu/paschalidis/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1238,7 +1238,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/ioannis-paschalidis/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Paschalidis NOC Lab')."
     },
     {
       "id": "bu-ece-milo-popovi",
@@ -1260,7 +1260,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/milos-popovic/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-siddharth-ramachandran",
@@ -1282,7 +1282,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/siddharth-ramachandran/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-darren-roblyer",
@@ -1304,7 +1304,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/darren-roblyer-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-venkatesh-saligrama",
@@ -1326,7 +1326,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/venkatesh-saligrama/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-michelle-sander",
@@ -1348,7 +1348,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/michelle-sander/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-stan-sclaroff",
@@ -1370,7 +1370,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/stan-sclaroff/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-joshua-semeter",
@@ -1380,7 +1380,7 @@
       "pi_title": "Professor (ECE)",
       "pi_email": "jls@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://heaviside.bu.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1392,7 +1392,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/joshua-semeter/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Semeter Lab')."
     },
     {
       "id": "bu-ece-alexander-sergienko",
@@ -1414,7 +1414,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/alexander-sergienko/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-sahar-sharifzadeh",
@@ -1424,7 +1424,7 @@
       "pi_title": "Associate Head for Graduate Programs (MSE), Associate Professor (ECE, MSE, Chemistry)",
       "pi_email": "ssharifz@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://sites.bu.edu/sharifzadeh/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1436,7 +1436,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/sahar-sharifzadeh/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Sharifzadeh Group')."
     },
     {
       "id": "bu-ece-adam-smith",
@@ -1458,7 +1458,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/adam-smith-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-david-starobinski",
@@ -1480,7 +1480,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/david-starobinski/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-gianluca-stringhini",
@@ -1490,7 +1490,7 @@
       "pi_title": "ECE Associate Chair for Undergraduate Programs, Associate Professor (ECE)",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://seclab.bu.edu/people/gianluca/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1502,7 +1502,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/gianluca-stringhini-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'https://seclab.bu.edu/people/gianluca/' link; taken as the lab site because its address names a lab or group."
     },
     {
       "id": "bu-ece-alex-sushkov",
@@ -1524,7 +1524,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/alex-sushkov-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-anna-swan",
@@ -1546,7 +1546,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/anna-swan/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-lei-tian",
@@ -1568,7 +1568,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/lei-tian/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-ari-trachtenberg",
@@ -1590,7 +1590,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/ari-trachtenberg/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-m-selim-nl",
@@ -1612,7 +1612,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/selim-unlu/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-archana-venkataraman",
@@ -1634,7 +1634,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/archana-venkataraman-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-brian-walsh",
@@ -1644,7 +1644,7 @@
       "pi_title": "Associate Professor (ME, ECE)",
       "pi_email": "bwalsh@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://sites.bu.edu/bwalsh/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1656,7 +1656,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/brian-walsh-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'http://sites.bu.edu/bwalsh/' link; taken as the lab site because its own menu links a people or lab page (https://sites.bu.edu/bwalsh/people/)."
     },
     {
       "id": "bu-ece-tianyu-wang",
@@ -1666,7 +1666,7 @@
       "pi_title": "Assistant Professor (ECE)",
       "pi_email": "wangty@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://tyw-lab.github.io",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1678,7 +1678,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/tianyu-wang-phd/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Wang Lab')."
     },
     {
       "id": "bu-ece-richard-west",
@@ -1700,7 +1700,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/richard-west-phd/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-ece-chen-yang",
@@ -1710,7 +1710,7 @@
       "pi_title": "Associate Chair of Master Programs & Professor (ECE, Chem, MSE)",
       "pi_email": "cheyang@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "http://sites.bu.edu/yanglab/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -1722,7 +1722,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/chen-yang/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Yang Research Group')."
     },
     {
       "id": "bu-ece-rabia-yazicigil",
@@ -1744,7 +1744,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/rabia-yazicigil-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://wisecircuits.bu.edu) that shows no lab or people page."
     },
     {
       "id": "bu-ece-xin-zhang",
@@ -1766,7 +1766,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/xin-zhang-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     }
   ],
   "non_lab_people": [

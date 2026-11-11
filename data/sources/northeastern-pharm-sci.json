@@ -132,13 +132,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 18,
+      "member_breakdown": "1 PI, 2 postdocs, 1 PhD student, 1 masters student, 4 lab technicians, 9 undergraduate research assistants",
+      "members_page_url": "https://bryantlab.sites.northeastern.edu/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/camron-bryant/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bryant Lab – Addiction Genetics')."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bryant Lab – Addiction Genetics'). Depth pass 2026-11-10: Meet the Team page (past members are on a separate page)."
     },
     {
       "id": "northeastern-pharm-sci-nishil-desai",

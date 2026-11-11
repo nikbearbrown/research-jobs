@@ -29,7 +29,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/yves-atchade/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-math-jennifer-balakrishnan",
@@ -51,7 +51,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/jennifer-balakrishnan/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/jbala/) that shows no lab or people page."
     },
     {
       "id": "bu-math-margaret-beck",
@@ -73,7 +73,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/margaret-beck/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/mabeck) that shows no lab or people page."
     },
     {
       "id": "bu-math-alexander-bertoloni-meli",
@@ -95,7 +95,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/alexander-bertoloni-meli/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/abertolo/) that shows no lab or people page."
     },
     {
       "id": "bu-math-luis-carvalho",
@@ -117,7 +117,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/luis-carvalho/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/lecarval/) that shows no lab or people page."
     },
     {
       "id": "bu-math-julio-castrillon",
@@ -139,7 +139,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/julio-castrillon/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/jcandas/) that shows no lab or people page."
     },
     {
       "id": "bu-math-anirban-chatterjee",
@@ -161,7 +161,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/anirban-chatterjee/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-math-daniel-cunha",
@@ -183,7 +183,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/daniel-cunha/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-math-uri-eden",
@@ -205,7 +205,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/uri-eden/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/tzvi/) that shows no lab or people page."
     },
     {
       "id": "bu-math-david-fried",
@@ -227,7 +227,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/david-fried/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-math-isaac-fried",
@@ -249,7 +249,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/isaac-fried/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/if/) that shows no lab or people page."
     },
     {
       "id": "bu-math-ashis-gangopadhyay",
@@ -271,7 +271,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/ashis-gangopadhyay/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/ag/) that shows no lab or people page."
     },
     {
       "id": "bu-math-amiremad-ghassami",
@@ -281,7 +281,7 @@
       "pi_title": "Assistant Professor",
       "pi_email": null,
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://www.aeghassami.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -293,7 +293,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/amiremad-ghassami/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.aeghassami.com/' link; taken as the lab site because its own menu links a people or lab page (https://www.aeghassami.com/group.html)."
     },
     {
       "id": "bu-math-ryan-goh",
@@ -315,7 +315,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/ryan-goh/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/rgoh/) that shows no lab or people page."
     },
     {
       "id": "bu-math-jonathan-huggins",
@@ -337,7 +337,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/jonathan-huggins/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://jhhuggins.org/) that shows no lab or people page."
     },
     {
       "id": "bu-math-samuel-isaacson",
@@ -359,7 +359,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/samuel-isaacson/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/isaacson/) that shows no lab or people page."
     },
     {
       "id": "bu-math-indrajit-kalita",
@@ -381,7 +381,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/indrajit-kalita/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-math-akihiro-kanamori",
@@ -403,7 +403,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/akihiro-kanamori/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/aki/) that shows no lab or people page."
     },
     {
       "id": "bu-math-tasso-kaper",
@@ -425,7 +425,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/tasso-kaper/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/tasso/) that shows no lab or people page."
     },
     {
       "id": "bu-math-takashi-kimura",
@@ -447,7 +447,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/takashi-kimura/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/kimura/) that shows no lab or people page."
     },
     {
       "id": "bu-math-mark-kon",
@@ -469,7 +469,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/prof-mark-kon/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/mkon/) that shows no lab or people page."
     },
     {
       "id": "bu-math-nancy-kopell",
@@ -491,7 +491,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/nancy-kopell/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-math-mark-kramer",
@@ -501,7 +501,7 @@
       "pi_title": "Affiliated Professor",
       "pi_email": "mak@bu.edu",
       "accepting_grad_students": null,
-      "lab_website": null,
+      "lab_website": "https://math.bu.edu/people/mak/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -513,7 +513,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/mark-kramer/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'personal webpage' link; taken as the lab site because its own menu links a people or lab page (https://math.bu.edu/people/mak/people.html)."
     },
     {
       "id": "bu-math-siu-cheong-lau",
@@ -535,7 +535,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/siu-cheong-lau/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/lau/) that shows no lab or people page."
     },
     {
       "id": "bu-math-yu-shen-lin",
@@ -557,7 +557,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/yu-shen-lin/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/yslin/) that shows no lab or people page."
     },
     {
       "id": "bu-math-judith-lok",
@@ -579,7 +579,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/judith-lok/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-math-asya-lyass",
@@ -601,7 +601,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/asya-lyass/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-math-michelle-mccarthy",
@@ -623,7 +623,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/michelle-mccarthy/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-math-debarghya-mukherjee",
@@ -645,7 +645,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/debarghya-mukherjee/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://debarghya-mukherjee.github.io/) that shows no lab or people page."
     },
     {
       "id": "bu-math-gabriel-ocker",
@@ -667,7 +667,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/gabriel-ocker/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/gkocker/) that shows no lab or people page."
     },
     {
       "id": "bu-math-debdeep-pati",
@@ -689,7 +689,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/debdeep-pati/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-math-robert-pollack",
@@ -711,7 +711,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/robert-pollack/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/rpollack/) that shows no lab or people page."
     },
     {
       "id": "bu-math-david-rohrlich",
@@ -733,7 +733,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/david-rohrlich/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/rohrlich/) that shows no lab or people page."
     },
     {
       "id": "bu-math-michael-salins",
@@ -755,7 +755,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/michael-salins/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/msalins/) that shows no lab or people page."
     },
     {
       "id": "bu-math-konstantinos-spiliopoulos",
@@ -777,7 +777,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/konstantinos-spiliopoulos/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/kspiliop/) that shows no lab or people page."
     },
     {
       "id": "bu-math-padmavathi-srinivasan",
@@ -799,7 +799,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/padmavathi-srinivasan/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no email address."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://padmask.github.io/) that shows no lab or people page."
     },
     {
       "id": "bu-math-emily-stephen",
@@ -821,7 +821,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/emily-stephen/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (http://www.emilystephen.com) that shows no lab or people page."
     },
     {
       "id": "bu-math-glenn-stevens",
@@ -843,7 +843,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/glenn-stevens/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/ghs/) that shows no lab or people page."
     },
     {
       "id": "bu-math-maciej-szczesny",
@@ -865,7 +865,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/maciej-szczesny/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://math.bu.edu/people/szczesny/) that shows no lab or people page."
     },
     {
       "id": "bu-math-daniel-weiner",
@@ -887,7 +887,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/daniel-weiner/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website."
     },
     {
       "id": "bu-math-jared-weinstein",
@@ -909,7 +909,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/jared-weinstein/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://sites.google.com/view/jared-weinstein/home) that shows no lab or people page."
     },
     {
       "id": "bu-math-brian-williams",
@@ -931,7 +931,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/brian-williams/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://brianrwilliams.github.io//) that shows no lab or people page."
     },
     {
       "id": "bu-math-guangqu-zheng",
@@ -953,7 +953,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/guangqu-zheng/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website left null: the profile page links a personal website (https://sites.bu.edu/gzheng90/) that shows no lab or people page."
     }
   ],
   "non_lab_people": [

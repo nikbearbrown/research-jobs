@@ -1,0 +1,994 @@
+[
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-adamopoulos",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 5 postdocs, 1 graduate student",
+      "members_page_url": "https://research.bidmc.org/iannis-adamopoulos/postdoctoral-research-fellows",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Index page lists only headings; counted from the postdoc page (5 names) and graduate-students page (1 name); PI counted from the lab being his, not listed by name on pages read."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-alkalay",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 postdoctoral fellow",
+      "members_page_url": "https://research.bidmc.org/ron-alkalay/lab-members",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Lab Members page shows director and one postdoc."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-anderson",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Lab Members page has only section headings (Faculty, Postdocs, Students, Lab Staff, Alumni) with no names; roster is on four sub-pages, more than the extra-fetch limit."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-balk",
+    "fields": {
+      "member_count": 18,
+      "member_breakdown": "1 PI, 1 lab manager, 4 faculty/instructors, 3 further research-team members, 4 research fellows, 5 students",
+      "members_page_url": "https://research.bidmc.org/steven-balk/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "sbalk@bidmc.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Team page; excluded Russo and Varkaris (tagged Alumni) and the Alumni list; the page mixes role tags with section lists so the exact split is slightly uncertain."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-banks",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 3 postdocs, 1 instructor, 1 bioinformatician, 2 research assistants",
+      "members_page_url": "https://research.bidmc.org/alexander-banks/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "7 names on Lab Members page plus the PI (separate Principal Investigator page)."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-battelli",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 research staff, 1 student",
+      "members_page_url": "https://research.bidmc.org/lorella-battelli/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "lbattell@bidmc.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Team page lists Battelli, Monsell and Pires; collaborators excluded."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-benitez",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 research assistant, 2 postdocs, 1 data analyst, 6 undergraduate research assistants",
+      "members_page_url": "https://research.bidmc.org/bruno-benitez/team",
+      "join_page_url": "https://research.bidmc.org/bruno-benitez/opportunities",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "bbenitez@bidmc.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Our Team page; Lab Alumni is a separate page."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-bernard-lee",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI (Chief of Plastic Surgery), 1 plastic surgeon, 1 MD, 1 MD/MPH candidate, 1 MD candidate",
+      "members_page_url": "https://research.bidmc.org/bernard-lee/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Our Team page lists five people with no alumni section."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-collier",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 postdoc, 3 clinical research coordinators, 2 clinical research interns, 1 lab technician, 1 research NP",
+      "members_page_url": "https://research.bidmc.org/ai-ris-collier/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Research Team section of Team page; Collaborators and Alumni excluded."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-donnino",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Site is a mind-body chronic migraine study (Donnino plus 3 MBSR instructors), a study team rather than a lab roster; left null."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-fehnel",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 clinical research assistant, 1 data scientist, 2 research collaborators",
+      "members_page_url": "https://research.bidmc.org/corey-fehnel/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Current Lab Members on a program site (NCAP); counts include collaborators and one Hebrew SeniorLife staff member; past members and advisors excluded."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-freedman",
+    "fields": {
+      "member_count": 25,
+      "member_breakdown": "1 PI, 1 research coordinator, 5 postdocs, 5 MD/dental trainees/residents, 4 research student interns, 8 undergraduates, 2 admin, 1 other",
+      "members_page_url": "https://research.bidmc.org/benjamin-freedman/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "freedm2@bidmc.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Our Team page; Noelle Chandler is listed three times and counted once; collaborators and alumni excluded."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-gangadharan",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Team page has only placeholder text and no names."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-gerszten",
+    "fields": {
+      "member_count": 18,
+      "member_breakdown": "1 PI + 7 faculty physician investigators, 10 staff (biostatisticians, research associates, technician, data scientist, program director)",
+      "members_page_url": "https://research.bidmc.org/robert-gerszten/current-lab-members",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "10 names on Current Lab Members plus 8 investigators from the Principal Investigators page (fetched); alumni excluded."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-gut-brain",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": "Opportunities for undergraduates, medical students, PhD candidates, residents and fellows; email GIMotilityResearch@caregroup.harvard.edu",
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Site is the BIDMC Institute for Gut-Brain Research (an institute, 11 people listed), not a single PI group; left null."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-heng",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI (not listed, lab site), 3 faculty/fellows, 1 research staff, 1 summer intern, 5 collaborative-training members co-mentored with other PIs",
+      "members_page_url": "https://research.bidmc.org/janheng/members",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Members page current sections before Alumni; the PI is added from the lab name, and the five co-mentored members are included as listed under current."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-hide",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 2 instructors, 3 postdocs, 1 research staff lead, 1 summer intern, 1 postdoctoral associate",
+      "members_page_url": "https://research.bidmc.org/winston-hide/team",
+      "join_page_url": "https://research.bidmc.org/winston-hide/join-us",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Team page Current Lab Members."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-kahn",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI (not listed, lab site), 1 assistant professor/staff scientist, 3 postdocs, 2 staff scientists/research associates, 1 post-bac, 1 research assistant, 1 lab manager, 1 admin",
+      "members_page_url": "https://research.bidmc.org/barbara-kahn/current-members",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": "Suzanne Ruscitti",
+      "admin_email": "sruscitt@bidmc.harvard.edu",
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Current Members page (10 names) plus the PI; alumni excluded."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-keshavan",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Site is Project SUCCESS, a multi-site study team, not a lab roster; left null."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-kim",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI (not listed, lab site), 2 instructors/staff scientists, 1 postdoc",
+      "members_page_url": "https://research.bidmc.org/young-bum-kim/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "People page lists 3 people plus the PI."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-lee",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 5 postdocs, 1 postdoc/research specialist",
+      "members_page_url": "https://research.bidmc.org/albert-lee/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Team page 1 (6 names) and page 2 (Tanaka); Brian Lustig also appears in the alumni list, so there is a conflict."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-liang",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI (separate bio page), 2 resident physicians, 1 research assistant, 1 senior research scientist, 1 research scientist",
+      "members_page_url": "https://research.bidmc.org/patric-liang/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "pliang1@bidmc.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Lab Members page (5 names) plus the PI; the site still carries template text."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-mantzoros",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 4 postdocs, 4 internal medicine residents, 1 endocrinologist, 2 research students, 2 other members",
+      "members_page_url": "https://research.bidmc.org/christos-mantzoros/our-research-team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Our Research Team page; affiliated faculty and past members excluded."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-marcantonio",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 3 clinical research coordinators, 1 program manager, 1 biostatistician, 2 faculty biostatisticians",
+      "members_page_url": "https://research.bidmc.org/edward-marcantonio/current-team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Current Team page."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-meissner",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI (not listed, lab site), 1 visiting master's student, 1 undergraduate",
+      "members_page_url": "https://research.bidmc.org/torsten-meissner/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "tmeissne@bidmc.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Current members shows 2 people plus the PI."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-rosen",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 4 postdocs, 2 bioinformaticians, 2 research assistants, 1 administrative coordinator, 1 staff scientist",
+      "members_page_url": "https://research.bidmc.org/evan-rosen/people-new",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": "Zain Nicols",
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Lab Members on the People page; former members excluded."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-rutkove",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 physician, 5 postdoctoral fellows, 3 research coordinators, 3 other team members",
+      "members_page_url": "https://research.bidmc.org/seward-rutkove/our-team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Our Team page; a trailing bare name list (13 names) is assumed to be recent alumni and not counted."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-sarwar",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Team page is a template with lorem ipsum and only the PI name; no roster."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-scammell",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI (not listed, lab site), 1 instructor/staff scientist, 3 postdocs, 1 postdoc/staff, 1 research assistant",
+      "members_page_url": "https://research.bidmc.org/thomas-scammell/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "tscammel@bidmc.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Current section lists 6 people plus the PI; collaborators and alumni excluded."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-schermerhorn",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 integrated vascular surgery resident/research fellow, 1 general surgery resident/research fellow, 4 research fellows (1 predoctoral)",
+      "members_page_url": "https://research.bidmc.org/marc-schermerhorn/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Team page list above the Alumni heading (PI plus six); alumni excluded."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-secemsky",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Page is for the Center for Medical Device Evaluation and mixes faculty, staff, collaborators, trainees and alumni in one flat list with no clear current/alumni boundary, so no reliable count."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-shahawy",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 8 research scholars/fellows (incl. 2 resident research scholars, 1 postdoc)",
+      "members_page_url": "https://research.bidmc.org/sarrah-shahawy/lab-research-team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Team page list above the Former Research Scholars heading (PI plus eight)."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-sheen",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Team page lists only three students/fellows (Cho, Khabazeh, Lian) and does not list the PI, so a full-lab count is not shown."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-slack",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Lab Members page only shows category headings (PI, postdocs, grad students, RAs, undergrads); the names live on separate subpages not read, so no count."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-strom",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 section head/PI, 1 faculty physician investigator, 1 program manager, 1 clinical research writing assistant, 2 trainees",
+      "members_page_url": "https://research.bidmc.org/jordan-strom/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Our Team list above Alumni; Spetko is also in the alumni list with dates 2024-2026, so may be leaving. Group is a section/program (Cardiovascular Imaging Research)."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-subramaniam",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "The site is the Sadhguru Center for a Conscious Planet (a center the PI directs), so its roster is not one PI group size; not reclassified."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-szabo",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Team page shows only category headings (PI, Lab Members, Intern Students, Alumni) with no names in the cached text."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-tenen",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 lab manager, 3 senior scientists/researchers",
+      "members_page_url": "https://research.bidmc.org/daniel-tenen/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Current Lab Members section lists five people; page has no dates."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-tian",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Team page is template placeholder text (lorem ipsum names) with only a few real names, so no reliable roster."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-vanderhorst",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 research associate, 1 postdoc, 3 research assistants, 2 student interns",
+      "members_page_url": "https://research.bidmc.org/veronica-vanderhorst/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "The Current Team section (collaborators and alumni excluded)."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-yeh-mind-body",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 faculty, 1 clinical research coordinator, 1 lab manager",
+      "members_page_url": "https://research.bidmc.org/gloria-yeh/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "gyeh@bidmc.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Team page lists four people; no alumni heading."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-zeidel",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 5 faculty (assistant/associate professors, instructor), 2 postdocs, 1 research assistant, plus 1 more faculty",
+      "members_page_url": "https://research.bidmc.org/mark-zeidel/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "mzeidel@bidmc.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Team page lists ten people incl. PI with no alumni section; no dates shown."
+  },
+  {
+    "source": "data/sources/forsyth.json",
+    "lab_id": "forsyth-felicitas-bidlack",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 senior postdoc, 1 postdoc, 1 research assistant",
+      "members_page_url": "https://forsyth.org/bidlack-lab/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Lab Team block on the lab page (has a \"View All\" link, so could be longer); lab alumni excluded."
+  },
+  {
+    "source": "data/sources/forsyth.json",
+    "lab_id": "forsyth-jirun-sun",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Lab Team block lists three people (graduate fellow, postdoc, one other) but not the PI, and has a \"View All\" link, so the total is not shown."
+  },
+  {
+    "source": "data/sources/forsyth.json",
+    "lab_id": "forsyth-wei-hsu",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Lab page has two inconsistent roster lists (9-person text list without the PI, 7-person card list); cannot tell who is current."
+  },
+  {
+    "source": "data/sources/forsyth.json",
+    "lab_id": "forsyth-takamitsu-maruyama",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 PI (assistant professor), 1 senior research associate",
+      "members_page_url": "https://forsyth.org/maruyama-lab/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Lab Team block on the lab page (has a \"View All\" link); alumni excluded."
+  },
+  {
+    "source": "data/sources/forsyth.json",
+    "lab_id": "forsyth-batbileg-bor",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 postdoctoral fellows, 2 staff scientists",
+      "members_page_url": "http://www.borlab.org/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Meet the Team list above the Former Members heading."
+  },
+  {
+    "source": "data/sources/forsyth.json",
+    "lab_id": "forsyth-philip-c-trackman",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 PI (research professor), 1 postdoctoral fellow",
+      "members_page_url": "https://forsyth.org/trackman-lab/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Lab Team block on the lab page (has a \"View All\" link, so could be longer)."
+  },
+  {
+    "source": "data/sources/northeastern-icbh.json",
+    "lab_id": "northeastern-icbh-gene-tunik",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://movementneurosciencelab.sites.northeastern.edu/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "The old Tunik Lab site says it moved to the Movement Neuroscience Lab site, whose people page lists 23 people under three co-directing PIs; not recorded as this PI's own group size."
+  },
+  {
+    "source": "data/sources/northeastern-icbh.json",
+    "lab_id": "northeastern-icbh-tim-morris",
+    "fields": {
+      "member_count": 22,
+      "member_breakdown": "1 PI, 1 PhD student, 20 undergraduate researchers",
+      "members_page_url": "https://brainimpact.lab.northeastern.edu/our-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the fetched Our Team page of the Brain ImPACT lab; several undergraduates are labelled class of 2025, so some may have left. Alumni excluded."
+  },
+  {
+    "source": "data/sources/northeastern-ifm.json",
+    "lab_id": "northeastern-ifm-ambika-bajpayee",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 4 PhD students, 1 MS student, 1 undergraduate",
+      "members_page_url": "https://bajpayeelab.com/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "People page lists six students; the PI is on a separate Meet the PI section and named in the contact block, so counted as one more."
+  },
+  {
+    "source": "data/sources/northeastern-ifm.json",
+    "lab_id": "northeastern-ifm-guohao-dai",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 8 PhD students",
+      "members_page_url": "https://dai-lab.sites.northeastern.edu/our-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Current Lab Members list above Previous Lab Members (page still has template placeholder entries)."
+  },
+  {
+    "source": "data/sources/northeastern-ifm.json",
+    "lab_id": "northeastern-ifm-eno-ebong",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 5 PhD students, 2 masters students, 3 undergraduates",
+      "members_page_url": "https://ebonglab.org/group-members/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "e.ebong@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Roster looks old (photos from 2017-2018, husky.neu.edu emails); the PI is not listed on the page but is its contact, counted as one."
+  },
+  {
+    "source": "data/sources/northeastern-ifm.json",
+    "lab_id": "northeastern-ifm-hyeonyu-kim",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 PhD candidates, 9 undergraduates",
+      "members_page_url": "https://kimheartmakers.sites.northeastern.edu/our-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "hy.kim@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "People page lists PI plus eleven students."
+  },
+  {
+    "source": "data/sources/northeastern-ifm.json",
+    "lab_id": "northeastern-ifm-maijia-liao",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 research technician, 1 masters student",
+      "members_page_url": "https://sites.google.com/view/maijia-liao-homepage/team",
+      "join_page_url": null,
+      "join_notes": "Page says the lab is looking for students, postdocs and lab specialists; contact Maijia for more info.",
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Team page lists PI and two members above Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-ifm.json",
+    "lab_id": "northeastern-ifm-frank-loth",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 director/PI, 3 PhD students, 1 masters student, 4 undergraduates",
+      "members_page_url": "https://neurobiomechanics.github.io/CNRL/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "People section on the lab home page (no separate people page cached); no alumni heading."
+  },
+  {
+    "source": "data/sources/northeastern-ifm.json",
+    "lab_id": "northeastern-ifm-sandra-shefelbine",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "s.shefelbine@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "The cached people page shows the same content as the home page (research and contact only) with no member list."
+  },
+  {
+    "source": "data/sources/northeastern-ifm.json",
+    "lab_id": "northeastern-ifm-amir-vahabikashi",
+    "fields": {
+      "member_count": 29,
+      "member_breakdown": "1 PI, 7 PhD students, 3 research assistants, 9 masters students, 9 undergraduates",
+      "members_page_url": "https://www.vahabikashilab.com/team",
+      "join_page_url": "https://www.vahabikashilab.com/join-us",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "a.vahabikashi@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Meet The Team list (join dates up to Oct 2026), alumni excluded."
+  },
+  {
+    "source": "data/sources/northeastern-ifm.json",
+    "lab_id": "northeastern-ifm-lei-wang",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 4 PhD students, 2 graduate biotech students, 3 undergraduates",
+      "members_page_url": "https://wang-lab.sites.northeastern.edu/our-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Current Lab Members list; previous members section is placeholder text."
+  },
+  {
+    "source": "data/sources/northeastern-netsi.json",
+    "lab_id": "northeastern-netsi-andreia-sofia-teixeira",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 assistant professor, 1 lecturer, 1 postdoc, 5 PhD students",
+      "members_page_url": "https://andreiasofiateixeira.com/branlab/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Team section on the lab home page: PI plus the staff and student lines; affiliated and external members and alumni excluded."
+  },
+  {
+    "source": "data/sources/northeastern-pharm-sci.json",
+    "lab_id": "northeastern-pharm-sci-camron-d-bryant",
+    "fields": {
+      "member_count": 18,
+      "member_breakdown": "1 PI, 2 postdocs, 1 PhD student, 1 masters student, 4 lab technicians, 9 undergraduate research assistants",
+      "members_page_url": "https://bryantlab.sites.northeastern.edu/our-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Meet the Team page (past members are on a separate page)."
+  },
+  {
+    "source": "data/sources/northeastern-pt.json",
+    "lab_id": "northeastern-pt-neha-gothe",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 postdocs, 1 research coordinator, 1 PhD student, 2 masters student affiliates, 5 undergraduates",
+      "members_page_url": "https://eprl.sites.northeastern.edu/our-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "n.gothe@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Our Team page; includes the Lab Affiliates masters students."
+  }
+]

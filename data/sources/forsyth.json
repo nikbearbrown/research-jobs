@@ -89,13 +89,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 senior postdoc, 1 postdoc, 1 research assistant",
+      "members_page_url": "https://forsyth.org/bidlack-lab/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/felicitas-bidlack/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bidlack Lab Bidlack Lab')."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bidlack Lab Bidlack Lab'). Depth pass 2026-11-10: Lab Team block on the lab page (has a \"View All\" link, so could be longer); lab alumni excluded."
     },
     {
       "id": "forsyth-jirun-sun",
@@ -117,7 +117,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/jirun-sun-ms-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Sun Lab Sun Lab')."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Sun Lab Sun Lab'). Depth pass 2026-11-10: Lab Team block lists three people (graduate fellow, postdoc, one other) but not the PI, and has a \"View All\" link, so the total is not shown."
     },
     {
       "id": "forsyth-xuesong-he",
@@ -227,7 +227,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/wei-hsu-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Hsu Lab Hsu Lab')."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Hsu Lab Hsu Lab'). Depth pass 2026-11-10: Lab page has two inconsistent roster lists (9-person text list without the PI, 7-person card list); cannot tell who is current."
     },
     {
       "id": "forsyth-mary-tavares",
@@ -287,13 +287,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 2,
+      "member_breakdown": "1 PI (assistant professor), 1 senior research associate",
+      "members_page_url": "https://forsyth.org/maruyama-lab/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/takamitsu-maruyama-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows several addresses that could be the PI's (tmaruyama@forsyth.org, %20tmaruyama@forsyth.org); left null rather than guess. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Maruyama Lab page')."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows several addresses that could be the PI's (tmaruyama@forsyth.org, %20tmaruyama@forsyth.org); left null rather than guess. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Maruyama Lab page'). Depth pass 2026-11-10: Lab Team block on the lab page (has a \"View All\" link); alumni excluded."
     },
     {
       "id": "forsyth-susan-rittling",
@@ -375,13 +375,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 postdoctoral fellows, 2 staff scientists",
+      "members_page_url": "http://www.borlab.org/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/batbileg-bor-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bor Lab Learn More')."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bor Lab Learn More'). Depth pass 2026-11-10: Meet the Team list above the Former Members heading."
     },
     {
       "id": "forsyth-jing-zhou",
@@ -485,13 +485,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 2,
+      "member_breakdown": "1 PI (research professor), 1 postdoctoral fellow",
+      "members_page_url": "https://forsyth.org/trackman-lab/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://forsyth.org/team_member/philip-c-trackman-phd/",
-      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Trackman Lab Trackman Lab')."
+      "notes": "Breadth pass from Forsyth's 'Principal Investigators' team category (rendered via Playwright; the _team_categories query param does not actually filter server-side, so this list was hand-picked by title/role from the full rendered team page). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Trackman Lab Trackman Lab'). Depth pass 2026-11-10: Lab Team block on the lab page (has a \"View All\" link, so could be longer)."
     },
     {
       "id": "forsyth-yumi-maeda",
