@@ -125,7 +125,7 @@
       "lab_name": null,
       "pi_name": "Chuanfei Dong",
       "pi_title": "Assistant Professor",
-      "pi_email": null,
+      "pi_email": "dcfy@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://sites.google.com/site/chuanfeidong",
       "location": null,
@@ -137,9 +137,9 @@
       "member_breakdown": null,
       "members_page_url": null,
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Interested undergraduates, grad students and postdocs are asked to email the PI.",
       "profile_url": "https://www.bu.edu/astronomy/profile/chuanfei-dong/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'https://sites.google.com/site/chuanfeidong' link; taken as the lab site because its own menu links a people or lab page (https://sites.google.com/site/chuanfeidong/research-group)."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'https://sites.google.com/site/chuanfeidong' link; taken as the lab site because its own menu links a people or lab page (https://sites.google.com/site/chuanfeidong/research-group). Depth pass 2026-11-10: Home page and the Research Group page (fetched) show no member names, only a contact line and photo links, so no roster to count."
     },
     {
       "id": "bu-astronomy-catherine-espaillat",
@@ -177,13 +177,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 graduate students, 4 undergraduates",
+      "members_page_url": "https://sites.bu.edu/buwd/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/jj-hermes/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'http://sites.bu.edu/buwd/' link; taken as the lab site because its own menu links a people or lab page (https://sites.bu.edu/buwd/people/)."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'http://sites.bu.edu/buwd/' link; taken as the lab site because its own menu links a people or lab page (https://sites.bu.edu/buwd/people/). Depth pass 2026-11-10: Counted the people grid above 'Former group members' on the People page."
     },
     {
       "id": "bu-astronomy-wen-li",
@@ -199,13 +199,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 postdoc, 2 research scientists, 5 graduate students, 3 undergraduates",
+      "members_page_url": "https://wenli77.wixsite.com/home/group-members",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Page says she is interested in working with grad or undergrad research assistants; contact her via the contact page.",
       "profile_url": "https://www.bu.edu/astronomy/profile/wen-li/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'http://wenli77.wixsite.com/home' link; taken as the lab site because its own menu links a people or lab page (https://wenli77.wixsite.com/home/group-members)."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'http://wenli77.wixsite.com/home' link; taken as the lab site because its own menu links a people or lab page (https://wenli77.wixsite.com/home/group-members). Depth pass 2026-11-10: Counted the current lists on the Group Members page; PI is on the page header, added 1; Alumni list excluded."
     },
     {
       "id": "bu-astronomy-carlos-martinis",
@@ -353,13 +353,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 senior research scientist, 1 postdoc, 1 PhD student",
+      "members_page_url": "https://spaceplasma.bu.edu/students.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/astronomy/profile/meers-oppenheim/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://spaceplasma.bu.edu/' link; taken as the lab site because its own menu links a people or lab page (https://spaceplasma.bu.edu/students.html)."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'https://spaceplasma.bu.edu/' link; taken as the lab site because its own menu links a people or lab page (https://spaceplasma.bu.edu/students.html). Depth pass 2026-11-10: Counted 'Current Researchers' on the Group Members page; PhD Alumni table excluded."
     },
     {
       "id": "bu-astronomy-carl-schmidt",

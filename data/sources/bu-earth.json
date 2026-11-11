@@ -22,13 +22,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 4 PhD students, 1 master's student",
+      "members_page_url": "https://sites.bu.edu/hutyra/lab-members-alumni/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/earth/profiles/lucy-hutyra/",
-      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Hutyra Research Lab')."
+      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Hutyra Research Lab'). Depth pass 2026-11-10: Followed the home page's 'Lab Members & Alumni' link and counted the PI plus those under 'Current Lab Members'."
     },
     {
       "id": "bu-earth-ian-sue-wing",
@@ -88,13 +88,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 PhD students, 1 staff scientist, 1 visiting student, 1 undergraduate/BA-MA student, 1 visiting graduate research assistant",
+      "members_page_url": "https://sites.bu.edu/fichotlab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/earth/profiles/cedric-g-fichot/",
-      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Fichot Lab')."
+      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Fichot Lab'). Depth pass 2026-11-10: Counted the first roster on the People page (above 'Past Members'); a second shorter list further down omits the last two people, so the count may be slightly generous."
     },
     {
       "id": "bu-earth-jeffrey-geddes",
@@ -110,13 +110,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 PhD students",
+      "members_page_url": "https://sites.bu.edu/jged/members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/earth/profiles/jeffrey-geddes/",
-      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Geddes Research Group')."
+      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Geddes Research Group'). Depth pass 2026-11-10: Counted the PI and 4 PhD students above the 'Former' lists."
     },
     {
       "id": "bu-earth-bruce-anderson",
@@ -176,13 +176,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 18,
+      "member_breakdown": "1 PI, 6 postdocs, 7 PhD students, 2 research scientists, 1 master's student, 1 further PhD candidate (all listed under Current members)",
+      "members_page_url": "http://www.barnes-research.com/group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/earth/profiles/elizabeth-barnes/",
-      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Barnes Group')."
+      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Barnes Group'). Depth pass 2026-11-10: Counted the 18 names under 'Current members'; stopped at 'Former members'."
     },
     {
       "id": "bu-earth-cutler-j-cleveland",
@@ -308,13 +308,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI (added, not listed), 12 listed members incl. postdocs, a PhD student, technicians, interns",
+      "members_page_url": "http://www.fulweilerlab.com/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/earth/profiles/robinson-w-fulweiler/",
-      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Fulweiler Lab')."
+      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Fulweiler Lab'). Depth pass 2026-11-10: The team page lists 12 people and omits the PI, but the site is clearly Fulweiler's own lab, so I added 1."
     },
     {
       "id": "bu-earth-sucharita-gopal",
@@ -374,13 +374,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 7 other current members (postdocs, PhD students, one MS student)",
+      "members_page_url": "https://sites.google.com/view/keys-research/group",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/earth/profiles/pat-keys/",
-      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://sites.google.com/view/keys-research/group)."
+      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://sites.google.com/view/keys-research/group). Depth pass 2026-11-10: Counted the PI plus 7 under 'Current members' (stopped at 'Past members'); one person labelled postdoctoral researcher has a bio saying PhD student, so the role split is uncertain."
     },
     {
       "id": "bu-earth-sasha-kramer",
@@ -396,13 +396,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 1 PhD student, 1 research associate, 1 technician, 1 undergraduate",
+      "members_page_url": "https://www.sashakramer.me/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/earth/profiles/sasha-kramer/",
-      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://www.sashakramer.me/team)."
+      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its own menu links a people or lab page (https://www.sashakramer.me/team). Depth pass 2026-11-10: Counted everyone above 'Past Kramer Lab members'; one technician is formally in the Dietze Lab but collaborates with this lab and is listed on the team page."
     },
     {
       "id": "bu-earth-andrew-c-kurtz",
@@ -666,7 +666,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/earth/profiles/zoe-hughes/",
-      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Website' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: HUB: bucoastallab.com is the BU Coastal Lab shared by Duncan Fitzgerald, Zoe Hughes and Alyssa Novak (multi-PI group), so no single-PI count."
     },
     {
       "id": "bu-earth-yuri-knyazikhin",
@@ -726,13 +726,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI (added), 1 master's student, 1 technician, 1 lecturer",
+      "members_page_url": "https://sites.bu.edu/novak/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/earth/profiles/alyssa-novak/",
-      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Novak Lab')."
+      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Novak Lab'). Depth pass 2026-11-10: The team page does not list the PI but the site is Novak Lab, so I added 1 to the 3 people listed above 'Past Lab Members'."
     }
   ],
   "non_lab_people": [

@@ -132,13 +132,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 2 PhD candidates, 1 MS candidate, 1 REU student, 1 RET participant",
+      "members_page_url": "https://bifanolab.website/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/thomas-bifano-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bifano Lab')."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bifano Lab'). Depth pass 2026-11-10: Counted 'Current members' plus the PI on the People page (updated Nov 2026)."
     },
     {
       "id": "bu-ece-irving-bigio",
@@ -242,13 +242,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 current members (graduate/postdoc level)",
+      "members_page_url": "http://physics.bu.edu/sites/campbell-group/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/david-campbell/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Campbell Group Home Page')."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Campbell Group Home Page'). Depth pass 2026-11-10: Counted the PI and 4 under 'Current Members'. The page looks old: members joined 2013 to 2018 and no recent dates appear."
     },
     {
       "id": "bu-ece-jeffrey-carruthers",
@@ -349,16 +349,16 @@
       "lab_website": "http://sites.bu.edu/cheng-group",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Yvonne Cancino",
+      "admin_email": "icancino@bu.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 24,
+      "member_breakdown": "1 PI, 1 research assistant professor, 9 postdocs, 12 PhD students, 1 visiting researcher",
+      "members_page_url": "https://sites.bu.edu/cheng-group/people/current-members/",
+      "join_page_url": "https://sites.bu.edu/cheng-group/contact/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/ji-xin-cheng/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Cheng Group')."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Cheng Group'). Depth pass 2026-11-10: Counted the Current Members page (fetched); 2 lab administrators left out; people page itself was only navigation."
     },
     {
       "id": "bu-ece-ay-e-coskun",
@@ -594,13 +594,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 postdoc, 6 graduate students, 1 research fellow",
+      "members_page_url": "http://www.galaganlab.org/people",
+      "join_page_url": "http://www.galaganlab.org/join",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/james-galagan-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Galagan Lab')."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Galagan Lab'). Depth pass 2026-11-10: Counted the People page above Alumni."
     },
     {
       "id": "bu-ece-vivek-goyal",
@@ -880,13 +880,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 2 graduate students, 1 undergraduate",
+      "members_page_url": "https://sites.bu.edu/lakelab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/david-lake-phd/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lake Lab')."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lake Lab'). Depth pass 2026-11-10: Counted the PI and those under 'Current group members' (alumni list is empty/collapsed)."
     },
     {
       "id": "bu-ece-min-chang-lee",
@@ -1122,13 +1122,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 research scientists, 1 graduate student, 1 undergraduate",
+      "members_page_url": "https://sites.google.com/site/toshinishimurabu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/toshi-nishimura/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Research Group Website'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted the Current Members list above 'Past Members'."
     },
     {
       "id": "bu-ece-eshed-ohn-bar",
@@ -1232,13 +1232,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 13 PhD candidates",
+      "members_page_url": "https://sites.bu.edu/paschalidis/people/students/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/ioannis-paschalidis/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Paschalidis NOC Lab')."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Paschalidis NOC Lab'). Depth pass 2026-11-10: Counted 13 'Current Students' on the fetched Students page plus the PI (not on that list); page has no dates, so it may be dated."
     },
     {
       "id": "bu-ece-milo-popovi",
@@ -1386,13 +1386,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 research scientist, 6 PhD students, 1 MS student",
+      "members_page_url": "https://heaviside.bu.edu/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/joshua-semeter/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Semeter Lab')."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Semeter Lab'). Depth pass 2026-11-10: Counted everyone above 'Alumni'; the page has no dates and looks old, and one research scientist also appears in the Alumni list, so treat as approximate."
     },
     {
       "id": "bu-ece-alexander-sergienko",
@@ -1430,13 +1430,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI (added), 4 graduate students",
+      "members_page_url": "https://sites.bu.edu/sharifzadeh/group-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/sahar-sharifzadeh/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Sharifzadeh Group')."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Sharifzadeh Group'). Depth pass 2026-11-10: The roster lists 4 graduate students and not the PI, but the site is clearly her group, so I added 1."
     },
     {
       "id": "bu-ece-adam-smith",
@@ -1502,7 +1502,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/gianluca-stringhini-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'https://seclab.bu.edu/people/gianluca/' link; taken as the lab site because its address names a lab or group."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page's 'https://seclab.bu.edu/people/gianluca/' link; taken as the lab site because its address names a lab or group. Depth pass 2026-11-10: DEAD: seclab.bu.edu/people/gianluca/ did not load (30 s timeout, tried again with the same result); it also looks like a personal profile page inside a shared lab site."
     },
     {
       "id": "bu-ece-alex-sushkov",
@@ -1650,13 +1650,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 3 research scientists, 5 PhD candidates",
+      "members_page_url": "https://sites.bu.edu/bwalsh/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/brian-walsh-ph-d/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'http://sites.bu.edu/bwalsh/' link; taken as the lab site because its own menu links a people or lab page (https://sites.bu.edu/bwalsh/people/)."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'http://sites.bu.edu/bwalsh/' link; taken as the lab site because its own menu links a people or lab page (https://sites.bu.edu/bwalsh/people/). Depth pass 2026-11-10: Counted everyone above the Alumni heading."
     },
     {
       "id": "bu-ece-tianyu-wang",
@@ -1672,13 +1672,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 3 PhD students, 1 master's student, 1 undergraduate",
+      "members_page_url": "https://tyw-lab.github.io/Team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/tianyu-wang-phd/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Wang Lab')."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Also appears in bu-cise.json (CISE cross-departmental directory) under a different lab id -- same person, recorded in both since ECE is their home department and CISE is a cross-cutting hub that lists them too. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Wang Lab'). Depth pass 2026-11-10: Counted everyone above the Alumni heading ('Visitors' is empty)."
     },
     {
       "id": "bu-ece-richard-west",
@@ -1716,13 +1716,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI (added), 1 research assistant professor, 5 PhD students, 4 undergraduates",
+      "members_page_url": "https://sites.bu.edu/yanglab/people/current-group-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/chen-yang/",
-      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Yang Research Group')."
+      "notes": "Breadth pass from department faculty directory (primary & affiliated faculty), full static list of 84. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Yang Research Group'). Depth pass 2026-11-10: Followed the home page's 'Current Group Members' link; that page omits the PI, but the site is her lab, so I added 1."
     },
     {
       "id": "bu-ece-rabia-yazicigil",

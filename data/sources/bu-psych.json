@@ -132,13 +132,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 3 doctoral students, 2 undergraduate research assistants",
+      "members_page_url": "https://sites.bu.edu/denisonlab/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/psych/profile/rachel-denison/",
-      "notes": "Breadth pass from department faculty page; no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Denison Lab'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from department faculty page; no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Denison Lab'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Count from the People page; Lab Alumni excluded."
     },
     {
       "id": "bu-psych-brett-dibenedictis",
@@ -264,13 +264,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 2 postdocs, 5 graduate students, 1 center/lab manager, 2 undergraduates",
+      "members_page_url": "http://www.bu.edu/hasselmo/personnel.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/psych/profile/michael-hasselmo-d-phil/",
-      "notes": "Breadth pass from department faculty page; no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Hasselmo Laboratory')."
+      "notes": "Breadth pass from department faculty page; no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Hasselmo Laboratory'). Depth pass 2026-11-10: Count from the Lab Members (personnel) page fetched via the home page; alumni excluded; Hasselmo also directs a Center but this is his own lab page."
     },
     {
       "id": "bu-psych-ellen-s-hendriksen",
@@ -330,13 +330,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 4 postdocs, 1 research technician, 4 graduate students, 4 undergraduates",
+      "members_page_url": "https://www.howe-lab.org/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/psych/profile/mark-howe/",
-      "notes": "Breadth pass from department faculty page; no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Howe Lab')."
+      "notes": "Breadth pass from department faculty page; no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Howe Lab'). Depth pass 2026-11-10: Count from The Team on the People page; alumni heading excluded."
     },
     {
       "id": "bu-psych-chloe-jordan",
@@ -894,7 +894,7 @@
       "lab_name": null,
       "pi_name": "Steve Ramirez",
       "pi_title": "Associate Professor",
-      "pi_email": null,
+      "pi_email": "dvsteve@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "http://theramirezgroup.org/",
       "location": null,
@@ -902,13 +902,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 3 postdocs, 3 graduate students, 2 research assistants, 3 undergraduates",
+      "members_page_url": "http://theramirezgroup.org/team",
+      "join_page_url": "http://theramirezgroup.org/join",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/psych/profile/steve-ramirez-phd/",
-      "notes": "Breadth pass from department faculty page; no email shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Ramirez Group'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from department faculty page; no email shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Ramirez Group'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted the Team page above Alumni; 2 'Collaborating Graduate Student' entries (one from the Hasselmo lab) not counted; 14 if included."
     },
     {
       "id": "bu-psych-robert-m-g-reinhart",
@@ -924,13 +924,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 30,
+      "member_breakdown": "1 PI, 4 postdocs, 4 PhD students, 1 lab manager, 1 MS student, 19 research assistants",
+      "members_page_url": "https://reinhartlab.org/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/psych/profile/robert-m-g-reinhart-phd/",
-      "notes": "Breadth pass from department faculty page; no email shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Reinhart Laboratory'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from department faculty page; no email shown on the listing page itself. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Reinhart Laboratory'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Count from Lab Members on the Team page; the 'Load More' control is on the Alumni list only, so the current roster is complete."
     },
     {
       "id": "bu-psych-mark-richardson",
@@ -1612,7 +1612,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/sed/profile/kathleen-corriveau/",
-      "notes": "Breadth pass from department faculty page; no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Social Learning Laboratory website')."
+      "notes": "Breadth pass from department faculty page; no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Social Learning Laboratory website'). Depth pass 2026-11-10: People page shows only Faculty (Corriveau and Nissel); postdoc, graduate student, lab manager and research assistant lists are on separate sub-pages (4 more pages) beyond the 2-fetch limit, so no full count."
     },
     {
       "id": "bu-psych-daniel-fulford",
@@ -1716,13 +1716,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 postdoctoral associates, 1 graduate student, 1 research assistant",
+      "members_page_url": "https://sites.bu.edu/litzlab/lab-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/psych/profile/brett-litz/",
-      "notes": "Breadth pass from department faculty page; no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Litz Lab')."
+      "notes": "Breadth pass from department faculty page; no email shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Litz Lab'). Depth pass 2026-11-10: Count from the Lab Members page."
     },
     {
       "id": "bu-psych-susan-mcgurk",

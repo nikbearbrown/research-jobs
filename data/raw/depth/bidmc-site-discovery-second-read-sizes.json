@@ -1,0 +1,171 @@
+[
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-benson",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 PhD graduate student, 1 research assistant",
+      "members_page_url": "https://research.bidmc.org/mark-benson/people"
+    },
+    "note": "Second read, from the full people page: People page lists 10 people tagged Current Members / Collaborators / Alumni; 3 tagged Current Members (incl. PI Benson); page 2 is empty."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-brady",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Second read, from the full people page: Research Team section shows 7 named people ('current internal research staff') but ends with a 'More' link, the PI is not named on the roster, and the Team directory (pages 1-2 read) mixes collaborators and alumni with no tags, so a full current count cannot be confirmed."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-ho",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Second read, from the full people page: People list (pages 1-2, 'Load More' continues) mixes current staff, collaborators and alumni with no tags and does not name the PI, so current members cannot be told apart."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-jiang",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 4 postdoctoral researchers, 1 lab staff, 1 summer student",
+      "members_page_url": "https://research.bidmc.org/zhenghui-jiang/people"
+    },
+    "note": "Second read, from the full people page: Count from the People page (page 2 empty); site copyright is 2023 so the roster may be stale."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-kaur",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "5 people named, roles not shown",
+      "members_page_url": "https://research.bidmc.org/satvinder-kaur/people"
+    },
+    "note": "Second read, from the full people page: Count of 5 names (PI Satvinder Kaur plus four) on the People page; page 2 is empty; no roles shown."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-kimball",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Second read, from the full people page: HUB: CLEARS (Clinical Laboratory for Epidemiology and Applied Research in Skin) is co-directed by Kimball and Porter with several listed principal investigators."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-kirby",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "8 people incl. PI (postdoctoral fellows, research associate, undergraduates)",
+      "members_page_url": "https://research.bidmc.org/james-kirby/people"
+    },
+    "note": "Second read, from the full people page: Count of 8 names on the People page (all alphabetical groups visible, page 2 empty); roles are not reliably mapped to names; earlier read noted a pointer to a 404 personnel page."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-nazarian",
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 lab director, 5 PhD candidates/students, 3 MS/MD students, 5 postdoctoral fellows, 3 research/administrative staff",
+      "members_page_url": "https://research.bidmc.org/ara-nazarian/people"
+    },
+    "note": "Second read, from the full people page: Count from page 1 (10 people) plus page 2 (6 people); page 2 has no further Load More."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-olumi",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Second read, from the full people page: HUB: lab is co-led by two PIs (Aria Olumi and Zongwei Wang, both listed as principal investigator)."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-parsons",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 postdoctoral research fellow",
+      "members_page_url": "https://research.bidmc.org/charles-parsons/people"
+    },
+    "note": "Second read, from the full people page: People page lists 2 people (page 2 empty) but footer still has template placeholder text and copyright 2023."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-saper",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI (added), 8 listed staff incl. postdoctoral fellows, a senior research associate, an instructor and a chief technician",
+      "members_page_url": "https://research.bidmc.org/clifford-saper/people",
+      "pi_email": "csaper@bidmc.harvard.edu"
+    },
+    "note": "Second read, from the full people page: 8 names listed (page 2 empty); the PI is not on the roster but it is Saper's lab site, so added 1;"
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-simon",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 postdoctoral fellow, 1 instructor/research staff",
+      "members_page_url": "https://research.bidmc.org/david-simon/people"
+    },
+    "note": "Second read, from the full people page: 3 people tagged Current members (PI plus two); alumni block is repeated on page 2."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-snyder",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI (not listed, added), 3 named people with university affiliations only",
+      "members_page_url": "https://research.bidmc.org/brian-snyder/people"
+    },
+    "note": "Second read, from the full people page: Three names on the People page (page 2 empty, no roles shown); PI is not listed but it is his lab site, so added 1."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-sofer",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Second read, from the full people page: Full People list read (4 pages, 31 people): 7 tagged Current Members, 4 more tagged only Sofer Lab Members (unclear if current), rest alumni/collaborators; PI not listed, so no reliable current count."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-stephenson",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 9 clinical research and administrative staff and fellows",
+      "members_page_url": "https://research.bidmc.org/kathryn-stephenson/people"
+    },
+    "note": "Second read, from the full people page: Count from the People page (page 2 empty); mostly clinical research staff; copyright 2023."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-sun",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 instructor, 2 summer interns",
+      "members_page_url": "https://research.bidmc.org/lijun-sun/people"
+    },
+    "note": "Second read, from the full people page: Count from the People page (page 2 empty); two are summer interns."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-tsokos",
+    "fields": {
+      "member_count": 23,
+      "member_breakdown": "23 people incl. PI: about 12 postdoctoral research fellows, 3 instructors, 2 professors, plus clinical/administrative staff",
+      "members_page_url": "https://research.bidmc.org/george-tsokos/people"
+    },
+    "note": "Second read, from the full people page: Pages 1-3 of the People list: 10 + 10 + 3 people, no alumni headings; breakdown is approximate."
+  },
+  {
+    "source": "data/sources/bidmc-research.json",
+    "lab_id": "bidmc-research-vega",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Second read, from the full people page: Roster includes template filler names (lorem ipsum) mixed with real names and the PI is not listed, so a reliable count cannot be made."
+  }
+]

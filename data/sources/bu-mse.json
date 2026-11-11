@@ -24,13 +24,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 senior research scientist, 7 PhD students, 3 MS students, 1 research assistant",
+      "members_page_url": "https://www.albrolab.com/people",
+      "join_page_url": "https://www.albrolab.com/open-positions",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/michael-albro-ph-d/",
-      "notes": "Breadth pass from the BU College of Engineering's shared, paginated faculty/staff directory (not department-specific) -- only the first page (~70 of 418 total ENG people) was read in this pass; cross-appointed people may also appear in other BU engineering department source files. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Albro Lab')."
+      "notes": "Breadth pass from the BU College of Engineering's shared, paginated faculty/staff directory (not department-specific) -- only the first page (~70 of 418 total ENG people) was read in this pass; cross-appointed people may also appear in other BU engineering department source files. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Albro Lab'). Depth pass 2026-11-10: Counted the People page above Alumni."
     },
     {
       "id": "bu-mse-karen-allen",
@@ -52,7 +52,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/karen-allen/",
-      "notes": "Breadth pass from the BU College of Engineering's shared, paginated faculty/staff directory (not department-specific) -- only the first page (~70 of 418 total ENG people) was read in this pass; cross-appointed people may also appear in other BU engineering department source files. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Allen Group Home Page')."
+      "notes": "Breadth pass from the BU College of Engineering's shared, paginated faculty/staff directory (not department-specific) -- only the first page (~70 of 418 total ENG people) was read in this pass; cross-appointed people may also appear in other BU engineering department source files. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Allen Group Home Page'). Depth pass 2026-11-10: People page headings (Postdoctoral Fellows, Undergraduate Students, Graduate Students, Former Lab Members) are separated from the names in a table, so the cached text cannot show which names are current vs former; a count would be a guess."
     },
     {
       "id": "bu-mse-paul-barbone",
@@ -134,13 +134,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 2 PhD candidates, 1 MS candidate, 1 REU student, 1 RET participant",
+      "members_page_url": "https://bifanolab.website/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/thomas-bifano-ph-d/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bifano Lab')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bifano Lab'). Depth pass 2026-11-10: Counted 'Current members' plus the PI on the People page (updated Nov 2026)."
     },
     {
       "id": "bu-mse-james-bird",
@@ -228,7 +228,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/keith-brown/",
-      "notes": "Breadth pass from the BU College of Engineering's shared, paginated faculty/staff directory (not department-specific) -- only the first page (~70 of 418 total ENG people) was read in this pass; cross-appointed people may also appear in other BU engineering department source files. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Brown Research Group')."
+      "notes": "Breadth pass from the BU College of Engineering's shared, paginated faculty/staff directory (not department-specific) -- only the first page (~70 of 418 total ENG people) was read in this pass; cross-appointed people may also appear in other BU engineering department source files. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Brown Research Group'). Depth pass 2026-11-10: The People page (http://kablab.org/people) returns a 404 even when rendered, and the home page shows no roster, so no count."
     },
     {
       "id": "bu-mse-scott-bunch",
@@ -266,13 +266,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 current members (graduate/postdoc level)",
+      "members_page_url": "http://physics.bu.edu/sites/campbell-group/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/david-campbell/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Campbell Group Home Page')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Campbell Group Home Page'). Depth pass 2026-11-10: Counted the PI and 4 under 'Current Members'. The page looks old: members joined 2013 to 2018 and no recent dates appear."
     },
     {
       "id": "bu-mse-john-caradonna",
@@ -294,7 +294,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/john-caradonna/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Caradonna Group Home Page')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Caradonna Group Home Page'). Depth pass 2026-11-10: DEAD: home page is an empty placeholder ('Caradonna Group Home Page' with a blank body); no roster or lab content."
     },
     {
       "id": "bu-mse-claudio-chamon",
@@ -354,13 +354,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 10 postdocs, 4 graduate students, 1 lab manager",
+      "members_page_url": "https://www.chrischenlab.com/lab-members-1",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/christopher-chen-m-d-ph-d/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Chen Lab - Tissue Microfabrication Lab'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Chen Lab - Tissue Microfabrication Lab'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted the Lab Members page; also lists a Senior Program Coordinator, left out as administrative."
     },
     {
       "id": "bu-mse-ji-xin-cheng",
@@ -373,16 +373,16 @@
       "lab_website": "http://sites.bu.edu/cheng-group",
       "location": null,
       "phone": null,
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Yvonne Cancino",
+      "admin_email": "icancino@bu.edu",
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 24,
+      "member_breakdown": "1 PI, 1 research assistant professor, 9 postdocs, 12 PhD students, 1 visiting researcher",
+      "members_page_url": "https://sites.bu.edu/cheng-group/people/current-members/",
+      "join_page_url": "https://sites.bu.edu/cheng-group/contact/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/ji-xin-cheng/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Cheng Group')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Cheng Group'). Depth pass 2026-11-10: Counted the Current Members page (fetched); 2 lab administrators left out; people page itself was only navigation."
     },
     {
       "id": "bu-mse-laisheng-chou",
@@ -413,20 +413,20 @@
       "pi_name": "David Coker",
       "pi_title": null,
       "pi_email": "coker@bu.edu",
-      "accepting_grad_students": null,
+      "accepting_grad_students": true,
       "lab_website": "http://people.bu.edu/cokergrp/",
       "location": null,
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 graduate students (two dog 'members' not counted)",
+      "members_page_url": "http://people.bu.edu/cokergrp/people.html",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Send CV to coker@bu.edu; group says it is always interested in recruiting postdocs, graduate and undergraduate students.",
       "profile_url": "https://www.bu.edu/eng/profile/david-coker/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Coker Group Home Page')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Coker Group Home Page'). Depth pass 2026-11-10: Count from the People page (PI plus Hino, Lamonda, Marasco); two joke dog entries excluded; page appears dated (news items ~2021)."
     },
     {
       "id": "bu-mse-eric-cueny",
@@ -514,7 +514,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/linda-doerrer/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Doerrer Group Home Page')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Doerrer Group Home Page'). Depth pass 2026-11-10: Lab site (avengingmanateestudio.us) could not be read: robots.txt block recorded in the cache, nothing cached."
     },
     {
       "id": "bu-mse-florian-douam",
@@ -574,13 +574,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 PhD students",
+      "members_page_url": "http://www.bu.edu/nems/about.html",
+      "join_page_url": "http://www.bu.edu/nems/about.html",
+      "join_notes": "Lab says it has an opening for a postdoc and a PhD student; BU candidates email Prof. Ekinci, others apply to the relevant graduate program and tell the lab.",
       "profile_url": "https://www.bu.edu/eng/profile/kamil-ekinci-ph-d/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Ekinci Research Group')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Ekinci Research Group'). Depth pass 2026-11-10: Counted the 'Personnel' list on the About Us page (http://www.bu.edu/nems/about.html); the page looks old, with undated alumni and an open postdoc/PhD position."
     },
     {
       "id": "bu-mse-michael-el-batanouny",
@@ -646,7 +646,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/shyamsunder-erramilli/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'FemtoSpec Laboratory Home Page')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'FemtoSpec Laboratory Home Page'). Depth pass 2026-11-10: HUB: FemtoSpec Laboratory is a multi-PI group (Rothschild, Averitt, Zeigler, Erramilli as core researchers); its student list looks dated, not one PI's group."
     },
     {
       "id": "bu-mse-maxim-d-frank-kamenetskii",
@@ -728,13 +728,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 32,
+      "member_breakdown": "1 PI, 29 graduate students, 2 postdocs",
+      "members_page_url": "https://www.grinstaff.org/members.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/mark-grinstaff/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Grinstaff Group')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Grinstaff Group'). Depth pass 2026-11-10: Counted first-name entries under Graduate Students and Post-Docs; PI is not on the roster, added 1; Collaborators and Alumni excluded."
     },
     {
       "id": "bu-mse-douglas-p-holmes",
@@ -794,13 +794,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI (not listed on roster, added), 1 research scientist/postdoc, 4 graduate students, 1 master's student, 1 undergraduate",
+      "members_page_url": "https://sites.bu.edu/el/our-lab/currentgroupmembers/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/malika-jeffries-el/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Jeffries-EL Research Group')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Jeffries-EL Research Group'). Depth pass 2026-11-10: Count from the Current Group Members page fetched via the home-page menu; PI is not on that roster (added 1); bios suggest the roster is several years old (grad students with 2019 degrees)."
     },
     {
       "id": "bu-mse-miguel-jimenez",
@@ -838,13 +838,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 11 group members",
+      "members_page_url": "http://sites.google.com/bu.edu/joseph-mccarthy-group/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/diane-joseph-mccarthy/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Joseph-McCarthy Group')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Joseph-McCarthy Group'). Depth pass 2026-11-10: Counted 11 names under Current Group Members plus the PI; roles are not given; Past members and Collaborators excluded."
     },
     {
       "id": "bu-mse-maria-kamenetska",
@@ -926,13 +926,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 postdoc, 6 PhD students, 2 master's students, 3 undergraduates",
+      "members_page_url": "https://sites.bu.edu/lubnergroup/lab-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/sean-lubner/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lubner Group')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lubner Group'). Depth pass 2026-11-10: Counted everything above Alumni. The page says last updated 9/16/2025, so it is about 14 months old."
     },
     {
       "id": "bu-mse-karl-ludwig",
@@ -948,13 +948,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD research fellows, 2 graduate researchers",
+      "members_page_url": "https://sites.bu.edu/ludwig/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/karl-ludwig/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Materials X-Ray Diffraction Lab Home Page')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Materials X-Ray Diffraction Lab Home Page'). Depth pass 2026-11-10: Count from the People page."
     },
     {
       "id": "bu-mse-j-gregory-mcdaniel",
@@ -976,7 +976,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/j-gregory-mcdaniel-ph-d/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'McDaniel Research Group')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'McDaniel Research Group'). Depth pass 2026-11-10: The McDaniel Research Group home page only lists funded projects; no people or roster page is linked, so no count."
     },
     {
       "id": "bu-mse-pritiraj-mohanty",
@@ -998,7 +998,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/pritiraj-mohanty/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Mohanty Group Home Page')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Mohanty Group Home Page'). Depth pass 2026-11-10: people_url returned the same cached content as the home page (research topics only); no roster is shown on the site."
     },
     {
       "id": "bu-mse-elise-morgan",
@@ -1020,7 +1020,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/elise-morgan-ph-d/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Morgan Research Lab')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Morgan Research Lab'). Depth pass 2026-11-10: DEAD: site shows a Bluehost 'Account Suspended' page."
     },
     {
       "id": "bu-mse-dan-nathanson",
@@ -1058,13 +1058,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 3 postdocs, 1 PhD student, 2 MD/PhD students, 1 MS student, 1 engineer, 1 research fellow, 1 visiting scientist",
+      "members_page_url": "https://nia-lab.com/people/",
+      "join_page_url": "https://nia-lab.com/positions/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/hadi-nia-ph-d/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'https://nia-lab.com/')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'https://nia-lab.com/'). Depth pass 2026-11-10: Counted the PI plus 10 'Current members' on the People page (alumni list is empty)."
     },
     {
       "id": "bu-mse-timothy-o-shea",
@@ -1146,13 +1146,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 3 PhD students, 3 undergraduates, 1 visiting RET researcher",
+      "members_page_url": "https://sites.bu.edu/plummer/group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/abigail-plummer-ph-d/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Plummer Research Group')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Plummer Research Group'). Depth pass 2026-11-10: Counted everyone above 'Alumni' on the Summer 2026 People page."
     },
     {
       "id": "bu-mse-richard-pober",
@@ -1196,7 +1196,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/anatoli-polkovnikov/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Condensed Matter Theory Group Home Page')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Condensed Matter Theory Group Home Page'). Depth pass 2026-11-10: HUB: personal profile page for an associate professor (CV, talks, publications, 'Condensed Matter Theory Group' label); no group roster shown."
     },
     {
       "id": "bu-mse-erica-d-pratt",
@@ -1212,13 +1212,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 PhD students, 4 undergraduates",
+      "members_page_url": "https://ericaprattlab.com/people",
+      "join_page_url": "https://ericaprattlab.com/join",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/erica-pratt-ph-d/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Pratt Laboratory')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Pratt Laboratory'). Depth pass 2026-11-10: Counted the Team page above Alumni; a 'Chief Talent Officer' named Loki is listed under Administration and was not counted."
     },
     {
       "id": "bu-mse-siddharth-ramachandran",
@@ -1256,13 +1256,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 25,
+      "member_breakdown": "1 PI, 3 postdocs, 6 PhD students, 1 visiting researcher, 5 master's students, 9 undergraduates",
+      "members_page_url": "https://sites.bu.edu/ranzani-lab/people/",
+      "join_page_url": "https://sites.bu.edu/ranzani-lab/opportunities/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/tommaso-ranzini-phd/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Ranzani Lab')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Ranzani Lab'). Depth pass 2026-11-10: Counted the current sections of the People page above Alumni."
     },
     {
       "id": "bu-mse-claudio-rebbi",
@@ -1300,13 +1300,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 6 graduate students, 3 undergraduates",
+      "members_page_url": "https://www.bu.edu/reinhardlab/people-2/currentstudent/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/bjorn-reinhard/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Reinhard Group Home Page')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Reinhard Group Home Page'). Depth pass 2026-11-10: Count from the Current Students page (fetched via the People page link) plus the PI; page was not date-stamped."
     },
     {
       "id": "bu-mse-sheila-russo",
@@ -1410,13 +1410,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI (added), 4 graduate students",
+      "members_page_url": "https://sites.bu.edu/sharifzadeh/group-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/sahar-sharifzadeh/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Sharifzadeh Group')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Sharifzadeh Group'). Depth pass 2026-11-10: The roster lists 4 graduate students and not the PI, but the site is clearly her group, so I added 1."
     },
     {
       "id": "bu-mse-andre-sharon",
@@ -1454,13 +1454,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 postdoc, 3 graduate students",
+      "members_page_url": "https://sites.bu.edu/nml/novel-materials-lab/group-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/kevin-smith/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Novel Materials Laboratory Home Page')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Novel Materials Laboratory Home Page'). Depth pass 2026-11-10: Count from the Group Members page fetched from the home-page menu; roster looks old (entries say 'since 2014/2015', research highlight from 2014)."
     },
     {
       "id": "bu-mse-minjung-son",
@@ -1469,20 +1469,20 @@
       "pi_name": "Minjung Son",
       "pi_title": null,
       "pi_email": "mson@bu.edu",
-      "accepting_grad_students": null,
+      "accepting_grad_students": true,
       "lab_website": "https://www.msonlab.com",
       "location": null,
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 graduate students, 4 undergraduates",
+      "members_page_url": "https://www.msonlab.com/people",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Page says the group is always looking for undergraduates, graduate students and postdocs; apply via the Contact page.",
       "profile_url": "https://www.bu.edu/eng/profile/minjung-son/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Son Lab')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Son Lab'). Depth pass 2026-11-10: Count from Group Members on the People page; alumni excluded."
     },
     {
       "id": "bu-mse-dimitrije-stamenovic",
@@ -1520,13 +1520,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 5 graduate students",
+      "members_page_url": "https://sites.bu.edu/straub/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/john-straub/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Straub Group Home Page'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Straub Group Home Page'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted the PI and 5 graduate students above the 'Former Group Members' heading."
     },
     {
       "id": "bu-mse-alex-sushkov",
@@ -1592,7 +1592,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/michelle-teplensky-ph-d/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Teplensky Lab')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Teplensky Lab'). Depth pass 2026-11-10: DEAD: Lab website did not load (30 s timeout in the cached fetch); a re-fetch also timed out."
     },
     {
       "id": "bu-mse-joe-tien",
@@ -1608,13 +1608,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 postdoc, 2 undergraduates",
+      "members_page_url": "http://people.bu.edu/jtien/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/joe-tien-ph-d/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Tien Group')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Tien Group'). Depth pass 2026-11-10: Count is from the Members list on the lab home page; the page says current members are in bold but the bold is lost in the text, so I counted the four names with no years before the dated alumni list."
     },
     {
       "id": "bu-mse-m-selim-nl",
@@ -1680,7 +1680,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/joyce-y-wong-ph-d/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Joyce Wong Laboratory')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Joyce Wong Laboratory'). Depth pass 2026-11-10: DEAD: people.bu.edu/wonglab returns a BU 'Page Not Found' page."
     },
     {
       "id": "bu-mse-chen-yang",
@@ -1696,13 +1696,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI (added), 1 research assistant professor, 5 PhD students, 4 undergraduates",
+      "members_page_url": "https://sites.bu.edu/yanglab/people/current-group-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/chen-yang/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Yang Research Group')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Yang Research Group'). Depth pass 2026-11-10: Followed the home page's 'Current Group Members' link; that page omits the PI, but the site is her lab, so I added 1."
     },
     {
       "id": "bu-mse-muhammad-zaman",
@@ -1718,13 +1718,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 2 research scientists/staff, 1 postdoc, 3 graduate students, 1 research associate",
+      "members_page_url": "https://www.bu.edu/zaman/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/eng/profile/muhammad-zaman-ph-d/",
-      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Zaman Lab')."
+      "notes": "Breadth pass from the department's own filtered faculty directory (confirmed correctly scoped to this department, re-verified 2026-10-28). Title not shown on the listing page itself (would need an individual profile-page visit). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Zaman Lab'). Depth pass 2026-11-10: Counted people above the 'Lab Alumni' heading; undergraduates, a medical student and the long doctoral list sit after that heading so were not counted."
     },
     {
       "id": "bu-mse-katherine-yanhang-zhang",

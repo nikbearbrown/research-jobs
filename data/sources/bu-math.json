@@ -287,13 +287,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 group members",
+      "members_page_url": "https://www.aeghassami.com/group.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/amiremad-ghassami/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.aeghassami.com/' link; taken as the lab site because its own menu links a people or lab page (https://www.aeghassami.com/group.html)."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page's 'https://www.aeghassami.com/' link; taken as the lab site because its own menu links a people or lab page (https://www.aeghassami.com/group.html). Depth pass 2026-11-10: Counted the PI and the 4 people listed on the Group page."
     },
     {
       "id": "bu-math-ryan-goh",
@@ -513,7 +513,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/math/profile/mark-kramer/",
-      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'personal webpage' link; taken as the lab site because its own menu links a people or lab page (https://math.bu.edu/people/mak/people.html)."
+      "notes": "Breadth pass from department faculty directory; no email or lab site shown on the listing page itself. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'personal webpage' link; taken as the lab site because its own menu links a people or lab page (https://math.bu.edu/people/mak/people.html). Depth pass 2026-11-10: Home page has no roster; the People page (https://math.bu.edu/people/mak/people.html) fails with a certificate error in both the cached fetch and my re-fetch, so no count."
     },
     {
       "id": "bu-math-siu-cheong-lau",

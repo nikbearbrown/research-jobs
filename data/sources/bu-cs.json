@@ -271,7 +271,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cs/profiles/saenko/",
-      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself (would need the individual profile page, not fetched this pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (http://ai.bu.edu/people.html)."
+      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself (would need the individual profile page, not fetched this pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page's 'Personal Website' link; taken as the lab site because its own menu links a people or lab page (http://ai.bu.edu/people.html). Depth pass 2026-11-10: Page is dated 2017 and its 'Group Members' list shows only the PI (Kate Saenko, group leader); the roster appears empty or not loaded, so no count is possible."
     },
     {
       "id": "bu-cs-stan-sclaroff",
@@ -441,13 +441,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 PhD researchers, 3 undergraduate researchers",
+      "members_page_url": "https://disc.bu.edu/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/cs/profiles/mathan/",
-      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself (would need the individual profile page, not fetched this pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'DiSC lab website')."
+      "notes": "Breadth pass from department faculty directory; no email or personal lab site shown on the listing page itself (would need the individual profile page, not fetched this pass). Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'DiSC lab website'). Depth pass 2026-11-10: Counted the Team list above the Alumni heading."
     },
     {
       "id": "bu-cs-mark-bun",

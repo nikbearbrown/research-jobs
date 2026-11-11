@@ -18,20 +18,20 @@
       "pi_name": "Samagya Banskota",
       "pi_title": "Assistant Professor, Biomedical Engineering",
       "pi_email": "samagya@bu.edu",
-      "accepting_grad_students": null,
+      "accepting_grad_students": true,
       "lab_website": "https://www.banskotalab.com/",
       "location": null,
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": "My lab's research lies at the intersection of synthetic biology, protein engineering, drug delivery, and gene editing.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 3 postdocs, 5 graduate students, 3 undergraduates",
+      "members_page_url": "https://www.banskotalab.com/team",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Accepts undergraduates, grad students and postdocs; email Professor Banskota with a PDF CV and a short description of research interests.",
       "profile_url": "https://www.bu.edu/bdc/profile/samagya-banskota/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Banskota Lab'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Banskota Lab'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted the Meet the Team cards; Alumni excluded."
     },
     {
       "id": "bu-bdc-cynthia-a-bradham",
@@ -47,13 +47,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies secondary (dorsal-ventral) axis specification and skeletal patterning in the sea urchin.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 2 lab managers, 1 postdoc, 5 graduate students, 3 undergraduates, 1 summer intern",
+      "members_page_url": "https://people.bu.edu/cbradham/people.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/bdc/profile/cynthia-a-bradham/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bradham Lab')."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Bradham Lab'). Depth pass 2026-11-10: Counted the Current Members block (ends at the summer intern), PI included; the lists after it are alumni. Page has no dates."
     },
     {
       "id": "bu-bdc-christopher-chen",
@@ -69,13 +69,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Investigates tissue engineering and mechanobiology, how physical forces affect development, physiology and disease.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 10 postdocs, 4 graduate students, 1 lab manager",
+      "members_page_url": "https://www.chrischenlab.com/lab-members-1",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/bdc/profile/christopher-chen/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Chen Lab'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Chen Lab'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted the Lab Members page; also lists a Senior Program Coordinator, left out as administrative."
     },
     {
       "id": "bu-bdc-brian-cleary",
@@ -135,13 +135,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Uses Synthetic and Systems Biology approaches to quantitatively understand and engineer cellular processes, especially microbial feedback.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 14,
+      "member_breakdown": "1 PI, 4 postdocs, 8 PhD students, 1 undergraduate",
+      "members_page_url": "https://www.dunloplab.com/people",
+      "join_page_url": "https://www.dunloplab.com/open-positions",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/bdc/profile/mary-dunlop/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Dunlop lab'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Dunlop lab'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted everything above 'Former Lab Members' on the People page."
     },
     {
       "id": "bu-bdc-jeroen-eyckmans",
@@ -207,7 +207,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/bdc/profile/alexander-green/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Green Lab'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Green Lab'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: DEAD: site returns 403 Forbidden on plain and rendered fetch."
     },
     {
       "id": "bu-bdc-liang-hao",
@@ -223,13 +223,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Develops molecular and cellular tools to precisely track and control disease biology in intact organisms.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 3 postdocs, 6 PhD students, 1 MS student",
+      "members_page_url": "https://hao-lab.org/lab-members",
+      "join_page_url": "https://hao-lab.org/opportunities",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/bdc/profile/liang-hao/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Hao Lab'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Hao Lab'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted the Lab Members page above 'Lab Alumni'; footer shows lhao1@bu.edu but not clearly the PI's, so left out."
     },
     {
       "id": "bu-bdc-miguel-jimenez",
@@ -273,7 +273,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/bdc/profile/ahmad-khalil/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Khalil Lab')."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Khalil Lab'). Depth pass 2026-11-10: Home page shows only research text and publications with no members list or people link, so no count."
     },
     {
       "id": "bu-bdc-kirill-korolev",
@@ -311,13 +311,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies how microbial populations respond to and shape their physical and chemical environment.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 4 graduate students, 1 undergraduate",
+      "members_page_url": "https://www.larkinlab.com/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/bdc/profile/joseph-william-larkin/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Larkin Lab')."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Larkin Lab'). Depth pass 2026-11-10: Counted Lab Members above Lab Alumni; page footer says 2020, so the roster may be old."
     },
     {
       "id": "bu-bdc-pankaj-mehta",
@@ -339,7 +339,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/bdc/profile/pankaj-mehta/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Mehta Group')."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Mehta Group'). Depth pass 2026-11-10: Page could not be read: fetch.py reported blocked by robots.txt for physics.bu.edu/~pankajm/."
     },
     {
       "id": "bu-bdc-john-ngo",
@@ -355,13 +355,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Applies evolution, chemistry and engineering to develop tools for measuring and controlling biomolecules in living cells.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 postdoc, 3 graduate students",
+      "members_page_url": "https://www.thengolab.com/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/bdc/profile/john-ngo/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Ngo Lab'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Ngo Lab'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted the People page above Alumni."
     },
     {
       "id": "bu-bdc-daniel-segre",
@@ -370,20 +370,20 @@
       "pi_name": "Daniel Segre",
       "pi_title": "Professor of Biology, Bioinformatics, and Biomedical Engineering",
       "pi_email": "dsegre@bu.edu",
-      "accepting_grad_students": null,
+      "accepting_grad_students": true,
       "lab_website": "https://www.bu.edu/segrelab/",
       "location": null,
       "phone": null,
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Develops theoretical approaches and computational models for complex biological networks, especially metabolism.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 research assistant professors, 3 postdocs, 4 PhD students",
+      "members_page_url": "https://www.bu.edu/segrelab/team/",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Inquire about open positions; postdoc inquiries by email to the PI with a CV; grad students come through BU programs (Bioinformatics, MCBB, SB2).",
       "profile_url": "https://www.bu.edu/bdc/profile/daniel-segre/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Daniel Segre Lab')."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Daniel Segre Lab'). Depth pass 2026-11-10: Counted 9 'Current Lab Members' on the Team page; Segre is not in that list but it is his lab site, so added 1."
     },
     {
       "id": "bu-bdc-trevor-siggers",
@@ -399,13 +399,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies systems-level understanding of immune cell responses through proteomic and genomic study of transcription factors.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 PhD students, 3 undergraduates, 1 high-school student",
+      "members_page_url": "https://blogs.bu.edu/tsiggers/photos/",
+      "join_page_url": "https://blogs.bu.edu/tsiggers/positions/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/bdc/profile/trevor-siggers/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Siggers Lab')."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Siggers Lab'). Depth pass 2026-11-10: Counted the current sections of the People page; two alumni-section undergraduates marked 'present' were not counted."
     },
     {
       "id": "bu-bdc-wilson-wong",
@@ -421,13 +421,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Develops genetic means to dynamically regulate cell functions in complex multicellular organisms.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 19,
+      "member_breakdown": "1 PI, 3 postdocs, 11 graduate students, 4 undergraduates",
+      "members_page_url": "https://sites.bu.edu/wilsonwong/people/",
+      "join_page_url": "https://sites.bu.edu/wilsonwong/join/",
       "join_notes": null,
       "profile_url": "https://www.bu.edu/bdc/profile/wilson-wong/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Wong Lab'); the same link is on another PI's profile, so the site may be shared."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Wong Lab'); the same link is on another PI's profile, so the site may be shared. Depth pass 2026-11-10: Counted the Our Team lists; 6 'Affiliated Researchers' (mostly Grinstaff group students) not counted; Alumni excluded."
     },
     {
       "id": "bu-bdc-zeba-wunderlich",
@@ -449,7 +449,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://www.bu.edu/bdc/profile/zeba-wunderlich/",
-      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Wunderlich Lab')."
+      "notes": "Breadth pass from department faculty page. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Wunderlich Lab'). Depth pass 2026-11-10: DEAD: site returns a CloudFront 403 request-blocked page on plain and rendered fetch."
     },
     {
       "id": "bu-bdc-rabia-yazicigil-kirby",

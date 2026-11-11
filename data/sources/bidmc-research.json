@@ -205,13 +205,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "﻿",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 PhD graduate student, 1 research assistant",
+      "members_page_url": "https://research.bidmc.org/mark-benson/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/mark-benson",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/mark-benson/team)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/mark-benson/team). Depth pass 2026-11-10: Second read, from the full people page: People page lists 10 people tagged Current Members / Collaborators / Alumni; 3 tagged Current Members (incl. PI Benson); page 2 is empty."
     },
     {
       "id": "bidmc-research-bernard-lee",
@@ -277,7 +277,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/roscoe-brady",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Psychiatry), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/roscoe-brady/people)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Psychiatry), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/roscoe-brady/people). Depth pass 2026-11-10: Second read, from the full people page: Research Team section shows 7 named people ('current internal research staff') but ends with a 'More' link, the PI is not named on the roster, and the Team directory (pages 1-2 read) mixes collaborators and alumni with no tags, so a full current count cannot be confirmed."
     },
     {
       "id": "bidmc-research-brodsky",
@@ -585,7 +585,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/jennifer-ho",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/jennifer-ho/team)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/jennifer-ho/team). Depth pass 2026-11-10: Second read, from the full people page: People list (pages 1-2, 'Load More' continues) mixes current staff, collaborators and alumni with no tags and does not name the PI, so current members cannot be told apart."
     },
     {
       "id": "bidmc-research-jiang",
@@ -601,13 +601,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "﻿",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 4 postdoctoral researchers, 1 lab staff, 1 summer student",
+      "members_page_url": "https://research.bidmc.org/zhenghui-jiang/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/zhenghui-jiang",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Gastrointestinal), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/zhenghui-jiang/team)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Gastrointestinal), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/zhenghui-jiang/team). Depth pass 2026-11-10: Second read, from the full people page: Count from the People page (page 2 empty); site copyright is 2023 so the roster may be stale."
     },
     {
       "id": "bidmc-research-kahn",
@@ -645,13 +645,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "﻿",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "5 people named, roles not shown",
+      "members_page_url": "https://research.bidmc.org/satvinder-kaur/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/satvinder-kaur",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/satvinder-kaur/team)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/satvinder-kaur/team). Depth pass 2026-11-10: Second read, from the full people page: Count of 5 names (PI Satvinder Kaur plus four) on the People page; page 2 is empty; no roles shown."
     },
     {
       "id": "bidmc-research-keshavan",
@@ -717,7 +717,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/alexa-kimball",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Dermatology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/alexa-kimball/team)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Dermatology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/alexa-kimball/team). Depth pass 2026-11-10: Second read, from the full people page: HUB: CLEARS (Clinical Laboratory for Epidemiology and Applied Research in Skin) is co-directed by Kimball and Porter with several listed principal investigators."
     },
     {
       "id": "bidmc-research-kirby",
@@ -733,13 +733,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "﻿",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "8 people incl. PI (postdoctoral fellows, research associate, undergraduates)",
+      "members_page_url": "https://research.bidmc.org/james-kirby/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/james-kirby",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pathology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/james-kirby/team)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pathology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/james-kirby/team). Depth pass 2026-11-10: Second read, from the full people page: Count of 8 names on the People page (all alphabetical groups visible, page 2 empty); roles are not reliably mapped to names; earlier read noted a pointer to a 404 personnel page."
     },
     {
       "id": "bidmc-research-lee",
@@ -931,13 +931,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "﻿",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 lab director, 5 PhD candidates/students, 3 MS/MD students, 5 postdoctoral fellows, 3 research/administrative staff",
+      "members_page_url": "https://research.bidmc.org/ara-nazarian/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/ara-nazarian",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/ara-nazarian/team-0)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/ara-nazarian/team-0). Depth pass 2026-11-10: Second read, from the full people page: Count from page 1 (10 people) plus page 2 (6 people); page 2 has no further Load More."
     },
     {
       "id": "bidmc-research-olumi",
@@ -959,7 +959,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/aria-olumi",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Urologic Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/aria-olumi/team)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Urologic Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/aria-olumi/team). Depth pass 2026-11-10: Second read, from the full people page: HUB: lab is co-led by two PIs (Aria Olumi and Zongwei Wang, both listed as principal investigator)."
     },
     {
       "id": "bidmc-research-parsons",
@@ -975,13 +975,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "﻿",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 postdoctoral research fellow",
+      "members_page_url": "https://research.bidmc.org/charles-parsons/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/charles-parsons",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Acute Care Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/charles-parsons/team)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Acute Care Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/charles-parsons/team). Depth pass 2026-11-10: Second read, from the full people page: People page lists 2 people (page 2 empty) but footer still has template placeholder text and copyright 2023."
     },
     {
       "id": "bidmc-research-rice",
@@ -1063,13 +1063,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "﻿",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI (added), 8 listed staff incl. postdoctoral fellows, a senior research associate, an instructor and a chief technician",
+      "members_page_url": "https://research.bidmc.org/clifford-saper/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/clifford-saper",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/clifford-saper/team)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/clifford-saper/team). Depth pass 2026-11-10: Second read, from the full people page: 8 names listed (page 2 empty); the PI is not on the roster but it is Saper's lab site, so added 1;"
     },
     {
       "id": "bidmc-research-sarwar",
@@ -1239,13 +1239,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "﻿",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 postdoctoral fellow, 1 instructor/research staff",
+      "members_page_url": "https://research.bidmc.org/david-simon/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/david-simon",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/david-simon/our-team-0)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neurology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/david-simon/our-team-0). Depth pass 2026-11-10: Second read, from the full people page: 3 people tagged Current members (PI plus two); alumni block is repeated on page 2."
     },
     {
       "id": "bidmc-research-slack",
@@ -1305,13 +1305,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "﻿",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI (not listed, added), 3 named people with university affiliations only",
+      "members_page_url": "https://research.bidmc.org/brian-snyder/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/brian-snyder",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/brian-snyder/team)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Orthopedics), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/brian-snyder/team). Depth pass 2026-11-10: Second read, from the full people page: Three names on the People page (page 2 empty, no roles shown); PI is not listed but it is his lab site, so added 1."
     },
     {
       "id": "bidmc-research-sofer",
@@ -1333,7 +1333,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/tamar-sofer",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/tamar-sofer/team)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Cardiology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/tamar-sofer/team). Depth pass 2026-11-10: Second read, from the full people page: Full People list read (4 pages, 31 people): 7 tagged Current Members, 4 more tagged only Sofer Lab Members (unclear if current), rest alumni/collaborators; PI not listed, so no reliable current count."
     },
     {
       "id": "bidmc-research-stephenson",
@@ -1349,13 +1349,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "﻿",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 9 clinical research and administrative staff and fellows",
+      "members_page_url": "https://research.bidmc.org/kathryn-stephenson/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/kathryn-stephenson",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Vaccine Research), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/kathryn-stephenson/team)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Vaccine Research), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/kathryn-stephenson/team). Depth pass 2026-11-10: Second read, from the full people page: Count from the People page (page 2 empty); mostly clinical research staff; copyright 2023."
     },
     {
       "id": "bidmc-research-strom",
@@ -1415,13 +1415,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "﻿",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 1 instructor, 2 summer interns",
+      "members_page_url": "https://research.bidmc.org/lijun-sun/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/lijun-sun",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/lijun-sun/team)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Surgery), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/lijun-sun/team). Depth pass 2026-11-10: Second read, from the full people page: Count from the People page (page 2 empty); two are summer interns."
     },
     {
       "id": "bidmc-research-szabo",
@@ -1503,13 +1503,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "﻿",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 23,
+      "member_breakdown": "23 people incl. PI: about 12 postdoctoral research fellows, 3 instructors, 2 professors, plus clinical/administrative staff",
+      "members_page_url": "https://research.bidmc.org/george-tsokos/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/george-tsokos",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pathology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/george-tsokos/team)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Pathology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: profile page shows no email address (plain and rendered). Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/george-tsokos/team). Depth pass 2026-11-10: Second read, from the full people page: Pages 1-3 of the People list: 10 + 10 + 3 people, no alumni headings; breakdown is approximate."
     },
     {
       "id": "bidmc-research-upshaw",
@@ -1575,7 +1575,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://research.bidmc.org/rafael-vega",
-      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neuro-Oncology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/rafael-vega/team)."
+      "notes": "Breadth pass from BIDMC's research lab search tool (department tag: Neuro-Oncology), rendered via Playwright since the static HTML returns 'No results found'. No email/lab-admin/member-count shown on the listing or profile summary; the profile_url is BIDMC's own research.bidmc.org bio page, not necessarily the lab's own external site. Depth pass 2026-11-02: pi_email read from the profile page. Depth pass 2026-11-10: lab_website set to the profile page, which is the lab's own site: its menu links a people page under the same address (https://research.bidmc.org/rafael-vega/team). Depth pass 2026-11-10: Second read, from the full people page: Roster includes template filler names (lorem ipsum) mixed with real names and the PI is not listed, so a reliable count cannot be made."
     },
     {
       "id": "bidmc-research-wadhera",
