@@ -181,8 +181,8 @@
       "members_page_url": null,
       "join_page_url": null,
       "join_notes": null,
-      "profile_url": "https://bouve.northeastern.edu/directory/jennifer-deese/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: profile page shows no address matching the PI's name (only shared/office addresses); pi_email left null. Depth pass 2026-11-10: lab_website not checked: the profile page on record does not show this person's name in its address, title or headings (it may be a lab or center page, or another person's page)."
+      "profile_url": null,
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-11: profile_url removed: the earlier value (https://bouve.northeastern.edu/directory/jennifer-deese/) is another person's page, and the listing page shows no profile link naming this person."
     },
     {
       "id": "northeastern-nursing-janet-a-dewan",
