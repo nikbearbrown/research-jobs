@@ -621,6 +621,8 @@ def cmd_prep_sizes(args):
                 continue
             if args.site_found_on and f"Depth pass {args.site_found_on}: lab_website" not in (lab.get("notes") or ""):
                 continue  # only the lab sites the `sites` step recorded on that date
+            if args.only_note and not re.search(args.only_note, lab.get("notes") or ""):
+                continue  # only labs whose notes match (e.g. "member_count cleared")
             site = lab["lab_website"]
             item = {"source": str(path.relative_to(ROOT)), "lab_id": lab["id"], "pi_name": lab.get("pi_name"),
                     "lab_website": site, "home_status": None, "people_url": None, "join_url": None,
@@ -704,6 +706,7 @@ def main():
     s.add_argument("--out", required=True)
     s.add_argument("--site-found-on", metavar="YYYY-MM-DD",
                    help="only labs whose lab_website was recorded by the sites step on this date")
+    s.add_argument("--only-note", metavar="REGEX", help="only labs whose notes match this pattern")
     w = sub.add_parser("sites")
     w.add_argument("sources", nargs="*")
     w.add_argument("--institution", action="append")
