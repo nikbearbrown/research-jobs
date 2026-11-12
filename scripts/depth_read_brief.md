@@ -44,3 +44,36 @@ linked straight to the lab's site), also record `pi_name` and `pi_title`
 when the site clearly names who runs the lab, plus `pi_email` if shown.
 
 Leave a field out or null when not shown. `note` is always present.
+
+## Extra rules (added 2026-11-10, after reading about 750 lab sites)
+
+- This checkout may have no `.venv`: use `python3 scripts/fetch.py <url>` then.
+  Fetch pages only with `scripts/fetch.py` (it honours robots.txt and the rate
+  limit), one request at a time. If it reports a robots.txt block or a
+  failure, say so in `note` and move on.
+- `members_page_url` must be the address of the page the count was really read
+  from: the worklist's `people_url` or `lab_website`, or a page you fetched.
+  Never construct or infer an address.
+- If the PI is not on the roster but the site is clearly theirs, add 1 and say
+  so in `note`.
+- If the roster is cut off by a "More", "See more", "Load more", "View all"
+  control or a pager, follow that link (it counts toward the 2 extra fetches)
+  and count the full list. If the full roster still cannot be seen, leave the
+  count null and say what was visible. Never record a partial count.
+- If `lab_website` is not one PI's own lab or group site (a center, institute,
+  program, shared multi-PI group, project site, department page, or just the
+  person's profile page), leave the count null and start `note` with `HUB:`
+  followed by what the site is. Same for a lab co-led by two or more PIs.
+- If the site did not load, redirects to something unrelated, or is a
+  placeholder, leave the count null and start `note` with `DEAD:`.
+- If a roster looks old (newest date several years back), still count it and
+  say so in `note`.
+- Every worklist item gets exactly one result object, with `source` and
+  `lab_id` copied unchanged.
+
+The main session then runs `scripts/merge_read_results.py`, which checks every
+result against the worklist and the page cache, turns the `HUB:` / `DEAD:`
+tags into plain sentences, and writes the file `depth_pass.py apply` reads.
+
+When done, report: how many items got a count, how many were left null
+(grouped by reason in a few words), and any item you were unsure about.

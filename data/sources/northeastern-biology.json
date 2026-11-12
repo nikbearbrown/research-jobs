@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/donald-omalley/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/omalley-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/omalley-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: No roster on the home page; it names only past graduate students and a few per-person pages, so current members cannot be told."
     },
     {
       "id": "northeastern-biology-dagmar-sternad",
@@ -88,13 +88,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Our laboratory uses the model organism Caenorhabditis elegans as an in vivo system to explore how mechanical forces are sensed and interpreted by cells. We are collaborating with Dr. Hari Parameswaran’s group in Bioengineering to understand how cells in a tissue communicate and coordinate their contractility, and with Dr. Ronen Zaidel-Bar at Tel Aviv University to understand how the…",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdocs, 1 PhD student, 1 MS student, 5 undergraduates",
+      "members_page_url": "https://cramlab.sites.northeastern.edu/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/erin-cram/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Cram Lab'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/the-cram-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Cram Lab'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/the-cram-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Counted from the Our Team page; PI is not listed on the roster so 1 was added."
     },
     {
       "id": "northeastern-biology-veronica-godoy-carter",
@@ -176,13 +176,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "The Lewis Lab studies persister cells responsible for tolerance to antibiotics, uncultured bacteria of the environment and the microbiome, and works on drug discovery.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 1 manager/postdoc, 4 senior/associate research scientists plus 1 principal research scientist, 5 postdocs, 1 research technician, 2 PhD students, 1 administrative assistant",
+      "members_page_url": "https://lewislab.sites.northeastern.edu/members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/kim-lewis/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/the-lewis-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/the-lewis-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Counted from the Members List on the lab's Members page (site title reads Antimicrobial Discovery Center, but it is the Lewis lab site)."
     },
     {
       "id": "northeastern-biology-penny-beuning",
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/penny-beuning/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/the-beuning-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/the-beuning-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Home page has no members list and the PI page (dnalab.../penny-j-beuning/) is a CV; no roster found."
     },
     {
       "id": "northeastern-biology-javier-apfeld",
@@ -226,7 +226,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/javier-apfeld/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Apfeld Lab'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/the-apfeld-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Apfeld Lab'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/the-apfeld-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Not sized, the site could not be read: apfeldlab.strikingly.com returns a CloudFront 403 'request blocked' (cached and re-rendered), so no roster could be read. The site refuses the project's fetcher; not worked around."
     },
     {
       "id": "northeastern-biology-dori-woods",
@@ -248,7 +248,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/dori-woods/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/woods-laboratory/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/woods-laboratory/), which names only the PI and is not a roster. Depth pass 2026-11-11: Not sized, the site could not be read: www.lairlab.net did not resolve (ERR_NAME_NOT_RESOLVED) and nothing is cached."
     },
     {
       "id": "northeastern-biology-gunther-zupanc",
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/alain-karma/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/circs/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/circs/), which names only the PI and is not a roster. Depth pass 2026-11-11: Not sized, the site is not one PI's own group: CIRCS (Center for Interdisciplinary Research on Complex Systems), a multi-faculty center; member lists are not loaded in the cached text."
     },
     {
       "id": "northeastern-biology-yunrong-chai",
@@ -330,13 +330,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "The Geisinger Lab investigates the molecular basis of antibiotic resistance and disease development in infections with hospital-acquired pathogens.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 4 graduate students, 1 masters student, 1 undergraduate co-op, 9 undergraduates",
+      "members_page_url": "https://geisingerlab.sites.northeastern.edu/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/edward-geisinger/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Geisinger Lab'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/the-geisinger-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Geisinger Lab'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/the-geisinger-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Counted the Current members section of the Lab Members page; stopped at Lab Alumni."
     },
     {
       "id": "northeastern-biology-tovah-day",
@@ -352,13 +352,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "The Day Lab investigates the molecular role of G quadruplex DNA in genome stability and human disease.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 graduate students, 1 master's student, 3 undergraduates",
+      "members_page_url": "https://daylab.northeastern.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/tovah-day/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Day Lab'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/the-day-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Day Lab'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/the-day-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Counted from the People page; stopped at Laboratory Alumni."
     },
     {
       "id": "northeastern-biology-konstantin-khrapko",
@@ -402,7 +402,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/jonathan-tilly/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/tillys-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/tillys-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Not sized, the site could not be read: www.lairlab.net did not resolve (ERR_NAME_NOT_RESOLVED) and nothing is cached; site also appears shared by more than one PI."
     },
     {
       "id": "northeastern-biology-alexander-ivanov",
@@ -446,7 +446,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/craig-ferris/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/center-for-translational-neuroimaging/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/center-for-translational-neuroimaging/), which names only the PI and is not a roster. Depth pass 2026-11-11: Not sized, the site is not one PI's own group: Center for Translational Neuroimaging (a center site with a faculty imaging director and collaborators), not one PI's group."
     },
     {
       "id": "northeastern-biology-michail-sitkovsky",
@@ -490,7 +490,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/herbie-levine/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/levine-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/levine-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Not sized, the site is not one PI's own group: Institute for Mechanobiology, a multi-faculty institute."
     },
     {
       "id": "northeastern-biology-andreia-ionescu",
@@ -506,13 +506,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "The Ionescu Lab studies skeletal development, pathology, and regeneration, focusing on stem cell fate mapping, lineage tracing, and single-cell transcriptomics to uncover mechanisms of skeletal growth and repair.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 2 senior research scientists, 2 postdoctoral fellows, 3 graduate students, 5 undergraduates",
+      "members_page_url": "https://ionesculab.sites.northeastern.edu/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/andreia-ionescu/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Ionescu Lab'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/the-ionescu-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Ionescu Lab'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/the-ionescu-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Counted from the Our Team page; stopped at Alumni."
     },
     {
       "id": "northeastern-biology-lisa-feldman-barrett",
@@ -550,13 +550,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "The Saavedra Lab investigates host-microbe interactions in health and disease through an immunology and cell biology lens.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 postdoc, 2 graduate students, 5 undergraduates",
+      "members_page_url": "https://www.saavedralab.com/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/pedro-saavedra-2-2/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/saavedra-lab-of-host-microbe-interactions/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/saavedra-lab-of-host-microbe-interactions/), which names only the PI and is not a roster. Depth pass 2026-11-11: Counted from the Meet the Team section; stopped at Past lab members."
     },
     {
       "id": "northeastern-biology-calina-copos",
@@ -572,13 +572,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "The Copos Lab is broadly interested in mathematical biology of the cell. They are a group of interdisciplinary scientists that develop models and new mathematical tools to tease apart the “internal machinery” of a living cell. Their work combines mechanics-based mathematical modeling, numerical and computational methods, image-based analysis and inference, and collaborations with experimentalists.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 graduate students, 1 masters student, 2 undergraduates",
+      "members_page_url": "https://calinacopos.github.io/group.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/calina-copos/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/copos-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/copos-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Counted from the Our group page (Spring 2026 meeting time shown); stopped at Alumni."
     },
     {
       "id": "northeastern-biology-gökçe-altin-yavuzarslan",
@@ -594,13 +594,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "The Altin-Yavuzarslan Engineered Living Systems Lab focuses on advanced biomanufacturing and material research. The lab designs engineered living materials (ELM) and 3D prints them to create functional form factors. We develop biocompatible polymers for ELM formulations and innovative encapsulation strategies for ELM design. Our goal is to fabricate smart ELM-based objects for on-demand production, sustainable…",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 PhD student, 1 MS student, 2 undergraduates",
+      "members_page_url": "https://altinyavuzarslanlab.sites.northeastern.edu/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/gokce-a-yavuzarslan/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/altin-yavuzarslan-engineered-living-systems-lab-2/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/altin-yavuzarslan-engineered-living-systems-lab-2/), which names only the PI and is not a roster. Depth pass 2026-11-11: Counted from the Our team page; stopped at Alumni."
     },
     {
       "id": "northeastern-biology-emeka-okeke",
@@ -616,13 +616,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Okeke Lab investigates the molecular mechanisms associated with the inflammatory response of innate immune cells with a focus on neutrophils and macrophages. Specifically, we are interested in pathways associated with the release of neutrophil extracellular traps (NETs) and the contribution of NETs to different diseased states including diseases of the central nervous system.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 1 undergraduate",
+      "members_page_url": "https://okekelab.sites.northeastern.edu/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/emeka-okeke/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/okeke-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/okeke-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Counted from the Our team page; stopped at Alumni."
     },
     {
       "id": "northeastern-biology-lianyong-wang",
@@ -644,7 +644,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/lianyong-wang/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/wang-laboratory/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/wang-laboratory/), which names only the PI and is not a roster. Depth pass 2026-11-11: Not sized, the site is not one PI's own group: Institute for Plant-Human Interface (IPHI), a multi-PI institute people page."
     },
     {
       "id": "northeastern-biology-thiago-monteiro-araujo-dos-santos",
@@ -726,13 +726,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "The Wang Lab develops mammalian synthetic biology tools to advance anti-cancer cellular therapy, regenerative medicine, and microfluidic human organ models.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 4 PhD students, 2 graduate biotechnology students, 3 undergraduates",
+      "members_page_url": "https://wang-lab.sites.northeastern.edu/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/lei-wang/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/lei-wang-laboratory/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/lei-wang-laboratory/), which names only the PI and is not a roster. Depth pass 2026-11-11: Counted Current Lab Members; the Previous Lab Members section is only template placeholder text."
     },
     {
       "id": "northeastern-biology-emily-r-moore",
@@ -748,13 +748,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "The Moore Bone Lab utilizes novel investigative tools to understand how bones and teeth develop, grow, maintain, and repair. Our goal is to inspire treatments that form mineralized tissue when and where it is needed in patients of all ages. Our approaches involve characterizing cell-intrinsic behavior and tissue niche factors that influence stem/progenitor cell activity,…",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 2 graduate students, 2 PhD candidates, 1 undergraduate",
+      "members_page_url": "https://moorebonelab.sites.northeastern.edu/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/emily-r-moore/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Moore Bone Lab'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/moore-bone-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'The Moore Bone Lab'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/moore-bone-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Counted PI plus the 6 Active Members; stopped at Alumni."
     }
   ],
   "non_lab_people": [],

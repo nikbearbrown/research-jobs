@@ -36,7 +36,7 @@
       "lab_name": "Kar Lab",
       "pi_name": "Swastik Kar",
       "pi_title": null,
-      "pi_email": null,
+      "pi_email": "s.kar@northeastern.edu",
       "accepting_grad_students": null,
       "lab_website": "https://swastik.sites.northeastern.edu/",
       "location": null,
@@ -44,13 +44,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Professor Kar’s interests lie in the investigation of electronic, optical, and electrochemical properties of graphene and development of graphene-based applications, including energy generation and storage.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 current PhD students, 4 scientific and operational staff (1 associate director for operations, 1 research associate scientist, 2 postdocs)",
+      "members_page_url": "https://swastik.sites.northeastern.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/swastik-kar/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/kar-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/kar-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: PI plus 2 PhD students marked current plus 4 staff listed under Scientific and Operational Staff; other students and undergrads are graduated or dated (latest 2020-2024) and were excluded."
     },
     {
       "id": "northeastern-physics-dima-krioukov",
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/dima-krioukov/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/dk-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-10: lab_website read from the profile page (link labelled 'Lab Website'). Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/dk-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Personnel page cached text has no names (page body empty); count left null."
     },
     {
       "id": "northeastern-physics-latika-menon",
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/latika-menon/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/menon-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/menon-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Not sized, the site is not one PI's own group: menonlab.org is Anant K Menon's lab (Weill Cornell addresses), not clearly Latika Menon's own group; count left null."
     },
     {
       "id": "northeastern-physics-don-heiman",
@@ -116,7 +116,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/don-heiman/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/spintronics-nanomagnetics-group/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/spintronics-nanomagnetics-group/), which names only the PI and is not a roster. Depth pass 2026-11-11: Our Team page lists Heiman plus three people at other institutions with no roles or dates, so current members cannot be told; left null."
     },
     {
       "id": "northeastern-physics-israeloff",
@@ -160,7 +160,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/oleg-batishchev/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/batischev-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/batischev-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Not sized, the site is not one PI's own group: Introductory Physics Laboratory is a teaching lab course site, not a research group."
     },
     {
       "id": "northeastern-physics-sergey-kravchenko",
@@ -204,7 +204,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/srinivas-sridhar/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/sridhar-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/sridhar-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Not sized, the site is not one PI's own group: Nanomedicine Innovation Center site, people page lists no roster for one PI's group."
     },
     {
       "id": "northeastern-physics-adrian-feiguin",
@@ -242,13 +242,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "The Fiete lab has broad interests in condensed matter physics that range from confined electrons at the nanoscale to frustrated magnetism in macroscopic samples. Their research focuses primarily on interaction effects in quantum many-body systems. The theoretical methods they use range from numerics to powerful non-perturbative analytical techniques. Often experiments are a strong motivation for…",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 postdoc, 3 graduate students, 3 undergraduates",
+      "members_page_url": "https://fiete.sites.northeastern.edu/group-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/gregory-fiete/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/quantum-matter-and-correlated-electron-theory-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/quantum-matter-and-correlated-electron-theory-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Postdoc, 3 grad students and 3 undergrads on the roster; PI not listed but the site is his, so +1; stopped at Recent Former Group Members."
     },
     {
       "id": "northeastern-physics-emanuela-barberis",
@@ -292,7 +292,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/michele-di-pierro/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/di-pierro-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/di-pierro-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Not sized, the site is not one PI's own group: Center for Theoretical Biological Physics site, multi-institution roster not one PI's group."
     },
     {
       "id": "northeastern-physics-tsuguo-aramaki",
@@ -308,13 +308,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "The Aramaki Lab group focuses on experimental astrophysics research with an emphasis on dark matter searches and gamma-ray observations, engaging in SuperCDMS (Cryogenic Dark Matter Search), GAPS (General AntiParticle), and GRAMS (Gamma-Ray and AntiMatter Survey) projects.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 postdoc, 3 PhD students, 5 undergraduates",
+      "members_page_url": "https://aramakilab.sites.northeastern.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/tsuguo-aramaki/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/aramaki-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. (area tag was 'Uncategorized'; bucketed by keyword guess, flagged for review) Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/aramaki-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: Counted all listed before Former Members."
     },
     {
       "id": "northeastern-physics-mingzhong-wu",
@@ -330,13 +330,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "The Northeastern Advanced Magnetics & Electronics (NAME) Laboratory is committed to discovering novel magnetic and electronic phenomena and exploring their potential for next-generation microelectronic and computing technologies.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 associate research scientists, 1 postdoc, 1 PhD student",
+      "members_page_url": "https://name.sites.northeastern.edu/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://cos.northeastern.edu/people/mingzhong-wu/",
-      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/name-lab/), which names only the PI and is not a roster."
+      "notes": "Depth pass from Northeastern COS's faculty-labs-research listing + this lab's own detail page. Depth pass 2026-11-02: profile page shows no email address. Depth pass 2026-11-11: member_count cleared: the earlier value of 1 came from the College of Science page for this lab (https://cos.northeastern.edu/nucos-faculty-lab/name-lab/), which names only the PI and is not a roster. Depth pass 2026-11-11: All names on Our Team page; no alumni section."
     },
     {
       "id": "northeastern-physics-brennan-klein",

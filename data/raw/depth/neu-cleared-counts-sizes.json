@@ -1,0 +1,902 @@
+[
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-donald-omalley",
+    "fields": {},
+    "note": "No roster on the home page; it names only past graduate students and a few per-person pages, so current members cannot be told."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-erin-cram",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdocs, 1 PhD student, 1 MS student, 5 undergraduates",
+      "members_page_url": "https://cramlab.sites.northeastern.edu/our-team/"
+    },
+    "note": "Counted from the Our Team page; PI is not listed on the roster so 1 was added."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-kim-lewis",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI, 1 manager/postdoc, 4 senior/associate research scientists plus 1 principal research scientist, 5 postdocs, 1 research technician, 2 PhD students, 1 administrative assistant",
+      "members_page_url": "https://lewislab.sites.northeastern.edu/members/"
+    },
+    "note": "Counted from the Members List on the lab's Members page (site title reads Antimicrobial Discovery Center, but it is the Lewis lab site)."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-penny-beuning",
+    "fields": {},
+    "note": "Home page has no members list and the PI page (dnalab.../penny-j-beuning/) is a CV; no roster found."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-javier-apfeld",
+    "fields": {},
+    "note": "Not sized, the site could not be read: apfeldlab.strikingly.com returns a CloudFront 403 'request blocked' (cached and re-rendered), so no roster could be read. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-dori-woods",
+    "fields": {},
+    "note": "Not sized, the site could not be read: www.lairlab.net did not resolve (ERR_NAME_NOT_RESOLVED) and nothing is cached."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-alain-karma",
+    "fields": {},
+    "note": "Not sized, the site is not one PI's own group: CIRCS (Center for Interdisciplinary Research on Complex Systems), a multi-faculty center; member lists are not loaded in the cached text."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-edward-geisinger",
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 PI, 4 graduate students, 1 masters student, 1 undergraduate co-op, 9 undergraduates",
+      "members_page_url": "https://geisingerlab.sites.northeastern.edu/our-team/"
+    },
+    "note": "Counted the Current members section of the Lab Members page; stopped at Lab Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-tovah-day",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 graduate students, 1 master's student, 3 undergraduates",
+      "members_page_url": "https://daylab.northeastern.edu/people/"
+    },
+    "note": "Counted from the People page; stopped at Laboratory Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-jonathan-tilly",
+    "fields": {},
+    "note": "Not sized, the site could not be read: www.lairlab.net did not resolve (ERR_NAME_NOT_RESOLVED) and nothing is cached; site also appears shared by more than one PI."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-craig-ferris",
+    "fields": {},
+    "note": "Not sized, the site is not one PI's own group: Center for Translational Neuroimaging (a center site with a faculty imaging director and collaborators), not one PI's group."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-herbert-levine",
+    "fields": {},
+    "note": "Not sized, the site is not one PI's own group: Institute for Mechanobiology, a multi-faculty institute."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-andreia-ionescu",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 2 senior research scientists, 2 postdoctoral fellows, 3 graduate students, 5 undergraduates",
+      "members_page_url": "https://ionesculab.sites.northeastern.edu/our-team/"
+    },
+    "note": "Counted from the Our Team page; stopped at Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-pedro-saavedra",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 postdoc, 2 graduate students, 5 undergraduates",
+      "members_page_url": "https://www.saavedralab.com/team"
+    },
+    "note": "Counted from the Meet the Team section; stopped at Past lab members."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-calina-copos",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 graduate students, 1 masters student, 2 undergraduates",
+      "members_page_url": "https://calinacopos.github.io/group.html"
+    },
+    "note": "Counted from the Our group page (Spring 2026 meeting time shown); stopped at Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-gökçe-altin-yavuzarslan",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 PhD student, 1 MS student, 2 undergraduates",
+      "members_page_url": "https://altinyavuzarslanlab.sites.northeastern.edu/our-team/"
+    },
+    "note": "Counted from the Our team page; stopped at Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-emeka-okeke",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 1 undergraduate",
+      "members_page_url": "https://okekelab.sites.northeastern.edu/our-team/"
+    },
+    "note": "Counted from the Our team page; stopped at Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-lianyong-wang",
+    "fields": {},
+    "note": "Not sized, the site is not one PI's own group: Institute for Plant-Human Interface (IPHI), a multi-PI institute people page."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-lei-wang",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 4 PhD students, 2 graduate biotechnology students, 3 undergraduates",
+      "members_page_url": "https://wang-lab.sites.northeastern.edu/our-team/"
+    },
+    "note": "Counted Current Lab Members; the Previous Lab Members section is only template placeholder text."
+  },
+  {
+    "source": "data/sources/northeastern-biology.json",
+    "lab_id": "northeastern-biology-emily-r-moore",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 2 graduate students, 2 PhD candidates, 1 undergraduate",
+      "members_page_url": "https://moorebonelab.sites.northeastern.edu/our-team/"
+    },
+    "note": "Counted PI plus the 6 Active Members; stopped at Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-eno-ebong",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 5 PhD students, 2 masters students, 3 undergraduates",
+      "members_page_url": "https://ebonglab.org/group-members/"
+    },
+    "note": "Counted Current Lab Members on the group page (home page redirects to ebonglab.org); roster looks old (2019-2020 news, husky.neu.edu emails), one listed master's student is marked Graduated and was excluded."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-max-bi",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 2 postdocs, 4 PhD students, 1 undergraduate",
+      "members_page_url": "https://dapengbi.com/people.html",
+      "pi_email": "d.bi@northeastern.edu"
+    },
+    "note": "Counted PI plus Current Members; stopped at Group Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-mary-jo-ondrechen",
+    "fields": {
+      "member_count": 19,
+      "member_breakdown": "1 PI, 1 visiting faculty, 8 doctoral students (plus 1 PhD candidate listed in the page menu, Lydia Ruffner), 4 masters students, 3 undergraduates, 1 high-school student contributor",
+      "members_page_url": "https://theorg.sites.northeastern.edu/lab-members/"
+    },
+    "note": "Counted the Lab Members page (18 people incl. PI) plus Lydia Ruffner, who the same page's menu lists under Lab Members and whose own page says Graduate Student (Ph.D. Candidate); her profile looks old, so the count may be 1 high."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-bryan-spring",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 postdocs, 5 PhD students, 4 undergraduates",
+      "members_page_url": "https://sites.google.com/view/springlabnu/people"
+    },
+    "note": "The listed people URL (springlabnu.com/view/.../people) 404s; read the same People page at sites.google.com instead. Stopped at Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-vivek-venkatachalam",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 research associate, 4 PhD students, 2 undergraduates",
+      "members_page_url": "https://www.venkatachalamlab.org/people"
+    },
+    "note": "Counted PI plus Current Lab Members; stopped at Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-paul-whitford",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 6 graduate students, 4 undergraduate researchers",
+      "members_page_url": "http://www.northeastern.edu/whitford/"
+    },
+    "note": "Counted the People section of the lab home page (the listed people_url returned the university home page); stopped at Past Undergraduate Researchers and Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-rebecca-carrier",
+    "fields": {},
+    "note": "Not sized, the site could not be read: www1.coe.neu.edu/~rebecca/ only says 'Redirecting to new site' with no link or roster."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-carolyn-lee-parsons",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 2 postdocs, 2 PhD candidates, 1 MS candidate, 1 visiting scholar, 2 undergraduates",
+      "members_page_url": "https://lee-parsons.sites.northeastern.edu/group-members/current/"
+    },
+    "note": "Counted PI plus the Current page; roster may be old (newest dates 2023)."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-katie-lotterhos",
+    "fields": {},
+    "note": "Roster mixes postdocs, PhD, MS, co-op undergraduates with ended or past terms (e.g. 'May through December 2025'), visiting and recent graduates, so current members cannot be told."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-george-odoherty",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 4 PhD students",
+      "members_page_url": "https://odohertylab.sites.northeastern.edu/our-team/"
+    },
+    "note": "Counted the Our Team page (site moved from northeastern.edu/odoherty); PI is not listed on the roster so 1 was added."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-michael-pollastri",
+    "fields": {},
+    "note": "Not sized, the site is not one PI's own group: Lab for Neglected Tropical Disease Drug Discovery is co-led by two PIs (Pollastri and Ferrins)."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-leila-deravi",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 2 postdocs, 6 PhD students",
+      "members_page_url": "https://biomaterialsdesign.sites.northeastern.edu/team/"
+    },
+    "note": "Counted PI plus the listed team; stopped at BDG Alums."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-meni-wanunu",
+    "fields": {
+      "member_count": 18,
+      "member_breakdown": "1 PI, 3 postdocs, 1 lab manager, 1 software technician, 1 undergrad RA, 11 PhD students",
+      "members_page_url": "https://wanunu.sites.northeastern.edu/people/",
+      "pi_email": "wanunu@neu.edu"
+    },
+    "note": "Counted from the People page (linked from the cached home page, fetched once); stopped at the Former heading."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-ke-zhang",
+    "fields": {
+      "member_count": null
+    },
+    "note": "The cached people.html is the same text as the home page (news only, no roster) and the home page links no other roster, so no member list is visible."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-sunny-zhou",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 10 others (PhD and industry PhD students, research associates, scientists, lab manager, visiting scientist)",
+      "members_page_url": "https://sunnyland.sites.northeastern.edu/sunnylanders/",
+      "pi_email": "z.zhou@northeastern.edu"
+    },
+    "note": "Counted from the SunnyLanders page (fetched); no alumni section shown."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-roman-manetsch",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 senior research scientist, 7 doctoral candidates, 3 undergrads",
+      "members_page_url": "https://manetschlab.com/our-group"
+    },
+    "note": "Counted from the Our Group page (fetched) above its Former headings; the home page names four different undergrads in older news."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-steven-lopez",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 PhD students, 1 postbac, 3 undergrads",
+      "members_page_url": "https://lopez.sites.northeastern.edu/our-team/"
+    },
+    "note": "Counted from the Our Team page; roster looks 2023-24 era (a first-year student graduated 2023)."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-paul-champion",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site is not one PI's own group: CIRCS, the Center for Interdisciplinary Research on Complex Systems, a multi-faculty center site, not one PI's group."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-vaso-lykourinou",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI (teaching professor), 6 undergrad students",
+      "members_page_url": "https://schwarzwellera.wixsite.com/raiseneuorg"
+    },
+    "note": "Counted from the RAISE student research group site's Our Team list; the Graduates list is alumni and was excluded. Site copyright 2023, so possibly dated."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-lee-makowski",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 senior research scientist, 1 research scientist, 1 postdoc, 1 molecular biologist, 2 programming assistants, 1 research assistant",
+      "members_page_url": "https://makowski-lab.sites.northeastern.edu/our-team/"
+    },
+    "note": "Counted from the Our Team page."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-carla-mattos",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 associate research scientist, 2 PhD students, 4 undergrads",
+      "members_page_url": "https://mattoslab.sites.northeastern.edu/current-members/",
+      "pi_email": "c.mattos@northeastern.edu"
+    },
+    "note": "Counted from the Current Members page."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-raymond-booth",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 doctoral students",
+      "members_page_url": "https://boothlab.sites.northeastern.edu/our-team/",
+      "pi_email": "ra.booth@northeastern.edu"
+    },
+    "note": "Counted from the Our Team page; Former Members excluded."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-paul-stevenson",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 2 undergrads",
+      "members_page_url": "https://www.stevensonresearch.com/team",
+      "pi_email": "p.stevenson@northeastern.edu"
+    },
+    "note": "Counted from the Team page; the two joke \"research associates\" (cats) and alumni excluded."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-sijia-dong",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 3 postdocs, 3 PhD students, 1 MS student, 2 undergrads",
+      "members_page_url": "https://sdonglab.org/group.html"
+    },
+    "note": "Counted from the Group Members page."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-hannah-sayre",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 4 graduate students, 4 undergrads",
+      "members_page_url": "https://sayre.sites.northeastern.edu/people/",
+      "pi_email": "h.sayre@northeastern.edu"
+    },
+    "note": "Counted from the People page; Alumni excluded."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-mark-williams",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI (also Dean of the College of Science), 1 principal research scientist, 1 associate research scientist, 2 PhD candidates",
+      "members_page_url": "https://williamslab.sites.northeastern.edu/our-team/"
+    },
+    "note": "Counted from the Williams Lab Members page; former members excluded."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-diego-alzate-sanchez",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 PhD candidates, 3 undergrads",
+      "members_page_url": "https://dmas.sites.northeastern.edu/our-team-2/"
+    },
+    "note": "Counted from the Our Team page; Alumni excluded."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-rebecca-sherbo",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 PhD students, 1 undergrad, 1 lab technician",
+      "members_page_url": "https://rebeccasherbo.wixsite.com/sherbo-lab/people"
+    },
+    "note": "Counted from the People page; it looks old (PI shown as \"Incoming\" 2023, first-year students from fall 2023)."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-jing-ke-weng",
+    "fields": {
+      "member_count": 34,
+      "member_breakdown": "1 PI, 6 postdocs, 10 graduate students (incl. 3 MS), 12 undergrads, 1 visiting faculty, 4 staff",
+      "members_page_url": "https://wenglab.net/people/",
+      "pi_email": "jingke.weng@northeastern.edu"
+    },
+    "note": "Counted from the People page (Current tab); Alumni excluded."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-katia-zolotovsky",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 researcher, 1 graduate student, 2 undergrads",
+      "members_page_url": "https://biointeractive.lab.northeastern.edu/about/"
+    },
+    "note": "Counted from the Lab & Team page (fetched); Lab Alumni excluded. Home page itself has no roster."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-alexander-ivanov",
+    "fields": {
+      "member_count": null,
+      "pi_email": "a.ivanov@northeastern.edu"
+    },
+    "note": "Roster is stale: entries run 2015-2021 with \"present\" end dates and undergrads from classes of 2020-22, plus a blank template row, so who is current cannot be told (taken literally it would be 17)."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-damilola-daramola",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoc, 6 PhD students and 1 undergrad at Northeastern; 1 PhD student and 1 MS student at Ohio University",
+      "members_page_url": "https://reproduce.lab.northeastern.edu/our-team/"
+    },
+    "note": "Counted from the Our Team page: 9 at Northeastern plus 2 listed under \"Team at Ohio University\"."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-srirupa-chakraborty",
+    "fields": {
+      "member_count": 20,
+      "member_breakdown": "1 PI, 2 postdocs, 6 PhD students, 1 MS student, 9 undergrads, 1 high school student",
+      "members_page_url": "https://sites.google.com/view/simbiosyslab/members"
+    },
+    "note": "Counted from the Members page; alumni excluded. Roster seems to date from about 2024."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-magda-h-barecka",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 1 postdoc, 4 PhD students, 1 undergrad",
+      "members_page_url": "https://bareckalab.sites.northeastern.edu/our-team/"
+    },
+    "note": "Counted from the Our Team page; the lab mascot and Alumni excluded."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-jeffrey-agar",
+    "fields": {
+      "member_count": null
+    },
+    "note": "Not sized, the site could not be read: theagarlab.com now serves an unrelated spam page (online gambling promotion on a t-shirt design site)."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-zhenyu-tian",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 PhD candidates, 4 undergrads",
+      "members_page_url": "https://tianlab.sites.northeastern.edu/members/"
+    },
+    "note": "Counted from the Members page; Alumni and lab mascots excluded."
+  },
+  {
+    "source": "data/sources/northeastern-chemistry.json",
+    "lab_id": "northeastern-chemistry-jesse-peltier",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 4 MS students, 6 undergrads",
+      "members_page_url": "https://peltierlab.sites.northeastern.edu/our-team/",
+      "pi_email": "J.Peltier@Northeastern.edu"
+    },
+    "note": "Counted from The Team page."
+  },
+  {
+    "source": "data/sources/northeastern-mes.json",
+    "lab_id": "northeastern-mes-jennifer-bowen",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI, 3 postdocs, 6 graduate students, 1 technician, 6 undergrads",
+      "members_page_url": "https://jb2032.wixsite.com/bowenlab/people",
+      "pi_email": "je.bowen@northeastern.edu"
+    },
+    "note": "Counted from the People page; the PI is not listed so 1 added. The postdoc block is garbled (one bio under Kylea Garces seems to belong to someone else), so 3 postdocs is by names; Former lists excluded."
+  },
+  {
+    "source": "data/sources/northeastern-mes.json",
+    "lab_id": "northeastern-mes-jonathan-grabowski",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 2 research scientists, 1 postdoc fellow, 5 PhD candidates, 1 Three Seas student, 1 lab manager, 1 technician, 1 undergrad",
+      "members_page_url": "https://grabowskilab.sites.northeastern.edu/our-team/",
+      "pi_email": "j.grabowski@northeastern.edu"
+    },
+    "note": "Counted from the Our Team page."
+  },
+  {
+    "source": "data/sources/northeastern-mes.json",
+    "lab_id": "northeastern-mes-brian-helmuth",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 3 MS students, 2 undergrad RAs",
+      "members_page_url": "https://helmuthlab.cos.northeastern.edu/people/team/"
+    },
+    "note": "Counted 8 on the Team page (fetched; linked from the cached home page) plus the PI, who has his own page, so 1 added."
+  },
+  {
+    "source": "data/sources/northeastern-mes.json",
+    "lab_id": "northeastern-mes-randall-hughes",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 2 postdocs, 5 PhD students, 1 Three Seas MS student",
+      "members_page_url": "https://hugheslab.squarespace.com/people",
+      "pi_email": "rhughes@northeastern.edu"
+    },
+    "note": "Counted from the People page above the lab alumni heading."
+  },
+  {
+    "source": "data/sources/northeastern-mes.json",
+    "lab_id": "northeastern-mes-david-kimbro",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 PhD candidates, 1 technician, 1 MS student, 1 undergrad",
+      "members_page_url": "https://kimbro.lab.cos.northeastern.edu/our-team/"
+    },
+    "note": "Counted from Current Lab Members; Alumni excluded."
+  },
+  {
+    "source": "data/sources/northeastern-mes.json",
+    "lab_id": "northeastern-mes-samuel-muñoz",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD students, 1 MS student, 1 undergrad",
+      "members_page_url": "https://munoz.sites.northeastern.edu/our-team/"
+    },
+    "note": "Counted from the People page (fetched; linked from the cached home page); Lab Alumni excluded."
+  },
+  {
+    "source": "data/sources/northeastern-mes.json",
+    "lab_id": "northeastern-mes-justin-ries",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 undergraduate researcher",
+      "members_page_url": "https://rieslab.sites.northeastern.edu/people/"
+    },
+    "note": "People page lists mostly people marked Former; only the PI and one undergrad not marked Former counted, so the roster is old."
+  },
+  {
+    "source": "data/sources/northeastern-mes.json",
+    "lab_id": "northeastern-mes-geoffrey-trussell",
+    "fields": {},
+    "note": "Not sized, the site could not be read: lab_website redirects to the Northeastern University home page, no lab content."
+  },
+  {
+    "source": "data/sources/northeastern-mes.json",
+    "lab_id": "northeastern-mes-amy-mueller",
+    "fields": {},
+    "note": "Home page names only the PI and lists no group members; count left null."
+  },
+  {
+    "source": "data/sources/northeastern-mes.json",
+    "lab_id": "northeastern-mes-gabriela-garcia",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 PhD students",
+      "members_page_url": "https://www.gabrielamgarcia.com/people",
+      "pi_email": "ga.garcia@northeastern.edu"
+    },
+    "note": "Counted the PI and 3 PhD students under Current Lab Members; stopped at Former Lab Members."
+  },
+  {
+    "source": "data/sources/northeastern-mes.json",
+    "lab_id": "northeastern-mes-damon-hall",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 postdoc, 5 PhD students, 8 research assistants (undergrad interns and co-ops)",
+      "members_page_url": "https://www.sustainabilitysciencelab.org/people.html",
+      "join_page_url": "https://www.sustainabilitysciencelab.org/people.html"
+    },
+    "note": "Research Team section before the former-students list; some research assistants are term-dated 2026 co-ops/interns, counted as listed."
+  },
+  {
+    "source": "data/sources/northeastern-mes.json",
+    "lab_id": "northeastern-mes-remy-gatins",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 2 PhD students, 1 undergraduate intern",
+      "members_page_url": "https://www.remygatins.com/people",
+      "join_page_url": "https://www.remygatins.com/join-the-lab",
+      "pi_email": "r.gatins@northeastern.edu"
+    },
+    "note": "PI plus 2 grad students and 1 current undergrad intern; stopped at Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-mes.json",
+    "lab_id": "northeastern-mes-peter-james-dennedy-frank",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 2 PhD students, 1 undergraduate",
+      "members_page_url": "https://www.wrelab.science/team",
+      "pi_email": "pjdf@northeastern.edu"
+    },
+    "note": "PI plus 2 PhD students and 1 undergrad; Postdoc heading has no names; stopped at Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-mes.json",
+    "lab_id": "northeastern-mes-chengfei-he",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 1 PhD student, 1 undergraduate",
+      "members_page_url": "https://yefee.github.io/people/"
+    },
+    "note": "PI plus 1 PhD student and 1 undergrad; stopped at Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-physics.json",
+    "lab_id": "northeastern-physics-swastik-kar",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 2 current PhD students, 4 scientific and operational staff (1 associate director for operations, 1 research associate scientist, 2 postdocs)",
+      "members_page_url": "https://swastik.sites.northeastern.edu/people/",
+      "pi_email": "s.kar@northeastern.edu"
+    },
+    "note": "PI plus 2 PhD students marked current plus 4 staff listed under Scientific and Operational Staff; other students and undergrads are graduated or dated (latest 2020-2024) and were excluded."
+  },
+  {
+    "source": "data/sources/northeastern-physics.json",
+    "lab_id": "northeastern-physics-dima-krioukov",
+    "fields": {},
+    "note": "Personnel page cached text has no names (page body empty); count left null."
+  },
+  {
+    "source": "data/sources/northeastern-physics.json",
+    "lab_id": "northeastern-physics-latika-menon",
+    "fields": {},
+    "note": "Not sized, the site is not one PI's own group: menonlab.org is Anant K Menon's lab (Weill Cornell addresses), not clearly Latika Menon's own group; count left null."
+  },
+  {
+    "source": "data/sources/northeastern-physics.json",
+    "lab_id": "northeastern-physics-don-heiman",
+    "fields": {},
+    "note": "Our Team page lists Heiman plus three people at other institutions with no roles or dates, so current members cannot be told; left null."
+  },
+  {
+    "source": "data/sources/northeastern-physics.json",
+    "lab_id": "northeastern-physics-oleg-batishchev",
+    "fields": {},
+    "note": "Not sized, the site is not one PI's own group: Introductory Physics Laboratory is a teaching lab course site, not a research group."
+  },
+  {
+    "source": "data/sources/northeastern-physics.json",
+    "lab_id": "northeastern-physics-srinivas-sridhar",
+    "fields": {},
+    "note": "Not sized, the site is not one PI's own group: Nanomedicine Innovation Center site, people page lists no roster for one PI's group."
+  },
+  {
+    "source": "data/sources/northeastern-physics.json",
+    "lab_id": "northeastern-physics-gregory-fiete",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 postdoc, 3 graduate students, 3 undergraduates",
+      "members_page_url": "https://fiete.sites.northeastern.edu/group-members/"
+    },
+    "note": "Postdoc, 3 grad students and 3 undergrads on the roster; PI not listed but the site is his, so +1; stopped at Recent Former Group Members."
+  },
+  {
+    "source": "data/sources/northeastern-physics.json",
+    "lab_id": "northeastern-physics-michele-di-pierro",
+    "fields": {},
+    "note": "Not sized, the site is not one PI's own group: Center for Theoretical Biological Physics site, multi-institution roster not one PI's group."
+  },
+  {
+    "source": "data/sources/northeastern-physics.json",
+    "lab_id": "northeastern-physics-tsuguo-aramaki",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 postdoc, 3 PhD students, 5 undergraduates",
+      "members_page_url": "https://aramakilab.sites.northeastern.edu/people/"
+    },
+    "note": "Counted all listed before Former Members."
+  },
+  {
+    "source": "data/sources/northeastern-physics.json",
+    "lab_id": "northeastern-physics-mingzhong-wu",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 associate research scientists, 1 postdoc, 1 PhD student",
+      "members_page_url": "https://name.sites.northeastern.edu/our-team/"
+    },
+    "note": "All names on Our Team page; no alumni section."
+  },
+  {
+    "source": "data/sources/northeastern-psychology.json",
+    "lab_id": "northeastern-psychology-heather-brenhouse",
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 PI, 2 graduate students, 13 undergraduate volunteers",
+      "members_page_url": "https://brenhouse.lab.northeastern.edu/team-bio/",
+      "join_page_url": "https://brenhouse.lab.northeastern.edu/join-us/"
+    },
+    "note": "PI not on roster so +1; 2 current graduate students, 13 distinct current undergrad volunteers (Angelina Tung listed twice); stopped at Senior Lab Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-psychology.json",
+    "lab_id": "northeastern-psychology-rebecca-shansky",
+    "fields": {
+      "member_count": 20,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 1 research technician, 1 honors thesis student, 14 undergraduate assistants",
+      "members_page_url": "http://shanskylab.com/people",
+      "join_page_url": "http://shanskylab.com/join"
+    },
+    "note": "Roster headed Lab Members summer 2025 (a little old)."
+  },
+  {
+    "source": "data/sources/northeastern-psychology.json",
+    "lab_id": "northeastern-psychology-armen-stepanyants",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 graduate student",
+      "members_page_url": "https://neurogeometry.sites.northeastern.edu/people/",
+      "pi_email": "a.stepanyants@northeastern.edu"
+    },
+    "note": "Fetched People page: Current Lab Members lists PI and 1 grad student; stopped at Lab Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-psychology.json",
+    "lab_id": "northeastern-psychology-iris-berent",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 5 lab managers, 7 research assistants",
+      "members_page_url": "https://berentlab.sites.northeastern.edu/team/"
+    },
+    "note": "Fetched Team page; counted PI, lab managers and research assistants; no alumni on this page."
+  },
+  {
+    "source": "data/sources/northeastern-psychology.json",
+    "lab_id": "northeastern-psychology-john-coley",
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 PI, 1 postdoc, 5 doctoral candidates, 9 research assistants",
+      "members_page_url": "https://corelab.sites.northeastern.edu/team/",
+      "pi_email": "j.coley@northeastern.edu"
+    },
+    "note": "All members on Team page; alumni are on a separate page."
+  },
+  {
+    "source": "data/sources/northeastern-psychology.json",
+    "lab_id": "northeastern-psychology-stacy-marsella",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 4 PhD students, 1 research associate, 1 research assistant",
+      "members_page_url": "http://www.cesarlab.org/team",
+      "pi_email": "s.marsella@neu.edu"
+    },
+    "note": "Meet the Lab list (PI labeled Host) before Meet the Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-psychology.json",
+    "lab_id": "northeastern-psychology-peter-bex",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 5 other members (roles not given)",
+      "members_page_url": "https://bexlab.sites.northeastern.edu/our-team/"
+    },
+    "note": "Fetched Our Team page: 6 names, no roles for most, counted names; no alumni section."
+  },
+  {
+    "source": "data/sources/northeastern-psychology.json",
+    "lab_id": "northeastern-psychology-david-desteno",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 current members",
+      "members_page_url": "http://davedesteno.com/lab"
+    },
+    "note": "Two current members listed; PI not on roster so +1; stopped at Lab Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-psychology.json",
+    "lab_id": "northeastern-psychology-rhea-eskew",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 other current members",
+      "members_page_url": "https://visionlab.sites.northeastern.edu/people/current-lab-members/"
+    },
+    "note": "4 names on Current Lab Members including Eskew."
+  },
+  {
+    "source": "data/sources/northeastern-psychology.json",
+    "lab_id": "northeastern-psychology-laurel-gabard-durnam",
+    "fields": {
+      "member_count": 18,
+      "member_breakdown": "1 PI, 2 research scientists, 4 postdoctoral fellows (1 incoming assistant professor), 2 graduate students, 1 lab manager, 8 undergraduate RAs",
+      "members_page_url": "https://www.plasticityinneurodevelopmentlab.com/pinelabpeople"
+    },
+    "note": "Fetched Current page. Excluded 2 affiliated graduate students from other labs (would be 20) and lab pets."
+  },
+  {
+    "source": "data/sources/northeastern-psychology.json",
+    "lab_id": "northeastern-psychology-miyoung-kwon",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 4 research assistants",
+      "members_page_url": "https://kwonlab.sites.northeastern.edu/people/"
+    },
+    "note": "All names on Team page."
+  },
+  {
+    "source": "data/sources/northeastern-psychology.json",
+    "lab_id": "northeastern-psychology-zhenghan-qi",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 1 lab manager, 4 graduate students, 7 research assistants",
+      "members_page_url": "https://qlab.sites.northeastern.edu/people/",
+      "pi_email": "z.qi@northeastern.edu",
+      "accepting_grad_students": false
+    },
+    "note": "Counted before Alumni; page says PI is not recruiting grad students for Fall 2027."
+  },
+  {
+    "source": "data/sources/northeastern-psychology.json",
+    "lab_id": "northeastern-psychology-alexandra-rodman",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 graduate students, 3 research coordinators, 6 undergraduate RAs",
+      "members_page_url": "https://www.socialdevlab.com/our-team",
+      "pi_email": "a.rodman@northeastern.edu"
+    },
+    "note": "Counted before Lab Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-psychology.json",
+    "lab_id": "northeastern-psychology-analia-albuja",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 graduate student, 1 lab manager, 8 research assistants",
+      "members_page_url": "https://basil.sites.northeastern.edu/our-team/",
+      "pi_email": "a.albuja@northeastern.edu"
+    },
+    "note": "Counted before Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-psychology.json",
+    "lab_id": "northeastern-psychology-brie-reid",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 lab manager, 2 PhD students, 1 postdoc, 8 undergraduate RAs",
+      "members_page_url": "https://reid-lab.com/people"
+    },
+    "note": "Names partly hidden in cached text; counted from profile links in the Lab Staff and Undergraduate sections; excluded Mentee Network (other institutions) and Alumni."
+  }
+]
