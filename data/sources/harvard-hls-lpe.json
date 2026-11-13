@@ -1,0 +1,40 @@
+{
+  "id": "harvard-hls-lpe",
+  "institution": "Harvard",
+  "unit": "Program on Law and Political Economy (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://lpe.law.harvard.edu/",
+    "https://lpe.law.harvard.edu/people/",
+    "https://lpe.law.harvard.edu/about/",
+    "https://lpe.law.harvard.edu/fellowships-and-writing-prize/academic-fellowship/",
+    "https://lpe.law.harvard.edu/fellowships-and-writing-prize/student-fellowship/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-lpe-yochai-benkler",
+      "kind": "research-lab",
+      "lab_name": "Program on Law and Political Economy (LPE@HLS), Harvard Law School",
+      "pi_name": "Yochai Benkler",
+      "pi_title": "Faculty Director; Berkman Professor of Entrepreneurial Legal Studies",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://lpe.law.harvard.edu/",
+      "location": "23 Everett Street, Cambridge, MA 02138",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Hewlett-funded program building the field of law and political economy through teaching, scholarship, fellowships and events for students and faculty around Boston.",
+      "member_count": 5,
+      "member_breakdown": "1 faculty director, 1 executive director, 1 program coordinator, 1 postdoctoral fellow, 1 academic fellow",
+      "members_page_url": "https://lpe.law.harvard.edu/people/",
+      "join_page_url": "https://lpe.law.harvard.edu/fellowships-and-writing-prize/student-fellowship/",
+      "join_notes": "The Student Fellowship (year-long, $4,000 grant, for Harvard 2L, 3L, SJD and PhD students) closed for 2026-27 and the next round is to be announced in spring 2027. The Academic Fellowship page says it is not currently seeking candidates.",
+      "profile_url": "https://hls.harvard.edu/faculty/directory/10071/Benkler",
+      "notes": "R.H. Lossin is Executive Director; Angela Camacho-DeSousa is Program Coordinator; Corinne Blalock is postdoctoral fellow (2025-27); M. Sandhu is academic fellow (2025-27). Not counted: faculty affiliates, 7 student fellows for 2026-27 and one visiting scholar. The About page gives a contact email but it is hidden by the site's email protection, so it is not recorded."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read start, people, about; fetched the academic and student fellowship pages (2 of 3 extra fetches)."
+}

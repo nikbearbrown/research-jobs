@@ -19,7 +19,10 @@ STAGED_DIR. For each target in the worklists that has a staged file this:
     one that does not is set to null and reported;
   - reports (does not change) a lead whose last name appears on none of the
     target's pages, and a member_count with no members_page_url;
-  - for `school` targets, drops entries whose website is already in the
+  - drops an extra entry (not the organization's own) that shows no lead and
+    no website of its own, unless it is a named lab, center or institute with
+    its own page, and names it in the file's notes;
+  - drops an extra entry (and, for `school` targets, any entry) whose website is already in the
     directory (an existing lab's lab_website or another target's start_url)
     and names them in the file's notes;
   - writes data/sources/<id>.json (never over an existing file) and sets the
@@ -53,6 +56,10 @@ INSTITUTION = {"harvard": "Harvard", "hks": "Harvard", "mit": "MIT", "bu": "Bost
 
 def canon(u):
     return re.sub(r"^(https?://)?(www\.)?", "", (u or "").strip(), flags=re.I).split("#")[0].rstrip("/").lower()
+
+
+def host(u):
+    return urllib.parse.urlsplit(u if "//" in (u or "") else "//" + (u or "")).netloc.lower().removeprefix("www.")
 
 
 def fold(s):
@@ -154,8 +161,8 @@ def main():
             if u not in listing:
                 print(f"UNREAD listing_url {tid}: {u}")
                 problems += 1
-        labs, seen_ids, dropped = [], set(), []
-        for raw in data.get("labs") or []:
+        labs, seen_ids, dropped, thin = [], set(), [], []
+        for n, raw in enumerate(data.get("labs") or []):
             lab = {k: raw.get(k) for k in LAB_KEYS}
             lab["kind"] = "research-lab"
             lid = lab["id"] or ""
@@ -186,7 +193,15 @@ def main():
                 print(f"CHECK member_count {lid}: {lab['member_count']} from {lab['members_page_url']}")
                 problems += 1
                 lab["member_count"] = lab["member_breakdown"] = None
-            if item["category"] == "school" and lab["lab_website"] and canon(lab["lab_website"]) in known_sites:
+            own_site = lab["lab_website"] and host(lab["lab_website"]) != host(item.get("start_url"))
+            named_lab = re.search(r"\b(lab|labs|laboratory|center|centre|institute)\b", lab["lab_name"] or "", re.I)
+            if (n > 0 or item["category"] == "school") and not lab["pi_name"] and not own_site and not (named_lab and lab["lab_website"]):
+                # a project or program named in a menu, with no lead and no site of its own, is not an entry
+                thin.append(lab["lab_name"] or lid)
+                continue
+            if ((n > 0 or item["category"] == "school") and lab["lab_website"]
+                    and canon(lab["lab_website"]) != canon(item.get("start_url")) and canon(lab["lab_website"]) in known_sites):
+                # e.g. a school's centers that are separate targets, or a lab the directory already has
                 dropped.append(lab["lab_name"] or lab["lab_website"])
                 continue
             if lab["lab_website"]:
@@ -195,6 +210,8 @@ def main():
         notes = (data.get("notes") or "").strip()
         if dropped:
             notes += (" " if notes else "") + f"Left out because the directory already has them ({len(dropped)}): " + "; ".join(dropped) + "."
+        if thin:
+            notes += (" " if notes else "") + f"Named on the pages but given no entry, because no lead or site of their own is shown ({len(thin)}): " + "; ".join(thin) + "."
         out = {
             "id": tid,
             "institution": INSTITUTION.get(tid.split("-")[0]) or item.get("parent") or item["name"],

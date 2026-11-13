@@ -1,0 +1,40 @@
+{
+  "id": "harvard-hls-iglp",
+  "institution": "Harvard",
+  "unit": "Institute for Global Law and Policy (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://iglp.law.harvard.edu/",
+    "https://iglp.law.harvard.edu/faculty-staff/",
+    "https://iglp.law.harvard.edu/about-us/",
+    "https://iglp.law.harvard.edu/fellows/",
+    "https://iglp.law.harvard.edu/contact/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-iglp-david-kennedy",
+      "kind": "research-lab",
+      "lab_name": "Institute for Global Law and Policy (IGLP), Harvard Law School",
+      "pi_name": "David Kennedy",
+      "pi_title": "Faculty Director (also called Institute Director); Manley O. Hudson Professor of Law",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://iglp.law.harvard.edu/",
+      "location": "Harvard Law School, 1545 Massachusetts Avenue, Langdell 175, Cambridge, MA 02138",
+      "phone": "(617) 496-5491",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Faculty-led effort to develop new approaches to global law and policy, with a worldwide network of young scholars and policy makers, workshops and residential fellowships.",
+      "member_count": 4,
+      "member_breakdown": "1 faculty director, 1 senior advisor, 1 managing director, 1 program coordinator/executive assistant",
+      "members_page_url": "https://iglp.law.harvard.edu/faculty-staff/",
+      "join_page_url": "https://iglp.law.harvard.edu/fellows/",
+      "join_notes": "The residential fellowship page says the program gives full or partial stipend support to a small number of doctoral and post-doctoral scholars, with an online application form on the site. A separate Visiting Researchers application exists but was not read. No contact person named on the page.",
+      "profile_url": "https://iglp.law.harvard.edu/david-kennedy/",
+      "notes": "Other staff: Zinaida Miller (Senior Advisor), Kristen Verdeaux (Managing Director), Seamus Darby (Program Coordinator/Executive Assistant). The contact page shows email and phone labels with no readable values. Faculty named under Mentoring and Collaborating are not counted."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read start, faculty-staff, about; fetched the fellows and contact pages (2 of 3 extra fetches)."
+}

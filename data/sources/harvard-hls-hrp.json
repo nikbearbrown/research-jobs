@@ -1,0 +1,40 @@
+{
+  "id": "harvard-hls-hrp",
+  "institution": "Harvard",
+  "unit": "Human Rights Program (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://hrp.law.harvard.edu/",
+    "https://hrp.law.harvard.edu/who-we-are/people/",
+    "https://hrp.law.harvard.edu/who-we-are/about-us/",
+    "https://hrp.law.harvard.edu/vacancies-at-hrp/",
+    "https://hrp.law.harvard.edu/fellowships/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-hrp-gerald-l-neuman",
+      "kind": "research-lab",
+      "lab_name": "Human Rights Program at Harvard Law School",
+      "pi_name": "Gerald L. Neuman",
+      "pi_title": "Director, Human Rights Program; J. Sinclair Armstrong Professor of International, Foreign, and Comparative Law",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://hrp.law.harvard.edu/",
+      "location": "6 Everett Street, Cambridge, MA 02138",
+      "phone": "+1 617-495-9362",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Supports human rights scholarship and practice at the law school through visiting fellows, student fellowships, events and publications.",
+      "member_count": 3,
+      "member_breakdown": "1 director, 1 associate director, 1 program assistant",
+      "members_page_url": "https://hrp.law.harvard.edu/who-we-are/people/",
+      "join_page_url": "https://hrp.law.harvard.edu/fellowships/",
+      "join_notes": "The fellowships page describes Visiting Fellows (usually from outside the US, one semester to a year), Henigson and Satter postgraduate fellowships for Law School graduates, and summer and winter fellowships for law students. No contact person is named on the page.",
+      "profile_url": "https://hrp.law.harvard.edu/faculty/gerald-l-neuman/",
+      "notes": "Associate Director is Abadir M. Ibrahim; Program Assistant is Valenia Bergier. Count leaves out the founder (Henry J. Steiner, emeritus), five 2026-27 visiting fellows and seven student affiliates. A general email address appears on the page but is hidden by the site's email protection, so it is not recorded. The Opportunities page (vacancies-at-hrp) was cached as a 404 Not Found."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read start, people, about, the vacancies page (404) and fetched the fellowships page (1 of 3 extra fetches)."
+}

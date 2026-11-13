@@ -1,0 +1,41 @@
+{
+  "id": "harvard-hls-pil",
+  "institution": "Harvard",
+  "unit": "Program in Islamic Law (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://pil.law.harvard.edu/",
+    "https://pil.law.harvard.edu/pil_people/",
+    "https://pil.law.harvard.edu/what-we-do/",
+    "https://pil.law.harvard.edu/fellowships/",
+    "https://pil.law.harvard.edu/researchers/",
+    "https://pil.law.harvard.edu/contact-us/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-pil-intisar-a-rabb",
+      "kind": "research-lab",
+      "lab_name": "Program in Islamic Law, Harvard Law School",
+      "pi_name": "Intisar A. Rabb",
+      "pi_title": "Faculty Director; Professor of Law and of History",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://pil.law.harvard.edu/",
+      "location": "Harvard Law School, Cambridge, MA 02138",
+      "phone": "+1.617.495.0580",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Program that supports research, teaching and digital tools on Islamic law and history, including the SHARIAsource portal, with fellowships and publications.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://pil.law.harvard.edu/pil_people/",
+      "join_page_url": "https://pil.law.harvard.edu/fellowships/",
+      "join_notes": "The fellowships page invites applications for a 2026-27 PIL Research Fellowship for scholars with a JD, PhD or SJD (stipend, online application); its stated deadline of February 13, 2026 has passed. The site also has Research Opportunities for students and a Jobs, Grants, CFPs page, not read.",
+      "profile_url": null,
+      "notes": "Member count left blank: the Faculty & Staff page lists 6 core people (Rabb; Rashid Alvi, Executive Director; Cole Crawford, Senior Software Engineer and Program Associate; Sheily Fajardo, Program Assistant; Maggie Sager, Managing Editor; Abtsam Saleh, Lab Coordinator) plus advisors from other units, and the Fellows & Students page lists research fellows, a faculty research associate and many research assistants. Contact page shows query and submission emails hidden by the site's email protection, so not recorded."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read start, people, what-we-do (about), fellowships; fetched researchers and contact-us (one earlier fetch used a mistyped fellows-and-students address before the linked /researchers/ page; counts as the third extra fetch). Named on the pages but given no entry, because no lead or site of their own is shown (3): SHARIAsource Portal; SEARCHstrata; CnC: Data Science Tools."
+}

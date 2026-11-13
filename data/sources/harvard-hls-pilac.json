@@ -1,0 +1,40 @@
+{
+  "id": "harvard-hls-pilac",
+  "institution": "Harvard",
+  "unit": "Program on International Law and Armed Conflict (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://pilac.law.harvard.edu/",
+    "https://pilac.law.harvard.edu/about-menu",
+    "https://pilac.law.harvard.edu/contact-menu",
+    "https://pilac.law.harvard.edu/students-menu",
+    "https://pilac.law.harvard.edu/naz-k-modirzadeh"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-pilac-gabriella-blum",
+      "kind": "research-lab",
+      "lab_name": "Harvard Law School Program on International Law and Armed Conflict (HLS PILAC)",
+      "pi_name": "Gabriella Blum",
+      "pi_title": "Faculty Director; Rita E. Hauser Professor of Human Rights and Humanitarian Law",
+      "pi_email": "gblum@law.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://pilac.law.harvard.edu/",
+      "location": "Harvard Law School, 1545 Massachusetts Avenue, Langdell 175-J, Cambridge, Massachusetts 02138",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "pilac@law.harvard.edu",
+      "research_summary": "Independent, non-advocacy research program on public international law and armed conflict, working with student researchers and practitioners.",
+      "member_count": 4,
+      "member_breakdown": "2 faculty (faculty director and founding director), 1 research director, 1 team member whose role is not shown",
+      "members_page_url": "https://pilac.law.harvard.edu/about-menu",
+      "join_page_url": "https://pilac.law.harvard.edu/students-menu",
+      "join_notes": "Research Assistant positions are mostly limited to current Harvard Law students and are announced on the Student Opportunities page only when open; staff do not take inquiries outside an open call. The contact page says there is no standing fellows program and no ad hoc fellow or affiliate applications.",
+      "profile_url": "https://pilac.law.harvard.edu/professor-gabriella-blum",
+      "notes": "Team listed: Gabriella Blum; Naz K. Modirzadeh (Professor of Practice and Founding Director; contact is her faculty assistant Marie Turcotte Hills, mturcottehills@law.harvard.edu); Dustin A. Lewis (Research Director, dlewis@law.harvard.edu); Taha Wiheba (role not shown). Affiliates and research assistants (partial list) not counted. No open RA call seen on the students page as cached. Phone not shown."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read start, about-menu; fetched contact-menu, students-menu and Modirzadeh's page (3 of 3 extra fetches)."
+}

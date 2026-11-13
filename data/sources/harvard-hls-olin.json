@@ -1,0 +1,38 @@
+{
+  "id": "harvard-hls-olin",
+  "institution": "Harvard",
+  "unit": "John M. Olin Center for Law, Economics, and Business (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://laweconcenter.law.harvard.edu/",
+    "https://laweconcenter.law.harvard.edu/faculty/",
+    "https://laweconcenter.law.harvard.edu/fellowships/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-olin-org",
+      "kind": "research-lab",
+      "lab_name": "John M. Olin Center for Law, Economics, and Business at Harvard Law School",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://laweconcenter.law.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": "Matthew Hunt, Program Administrator",
+      "admin_email": null,
+      "research_summary": "Supports student understanding of law and economics and faculty research through fellowships, prizes, a seminar series and a discussion paper series; houses the Program on Corporate Governance.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://laweconcenter.law.harvard.edu/fellowships/",
+      "join_notes": "The fellowships page describes $5,000 Olin Fellowships in Law and Economics (open to Harvard Law 2L, 3L, SJD and some PhD students, applications reviewed on a rolling basis) and jointly run Olin Fellowships in Empirical Law and Finance; application instructions are linked from the page.",
+      "profile_url": null,
+      "notes": "No director or head is named on the pages read. The faculty page lists 26 faculty most closely associated with the Center; no staff other than Matthew Hunt is named, so no member count. Hunt's email is hidden by the site's email protection and is not recorded. The cached pages are very long because they include the full discussion paper list."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read start, faculty and fellowships (mostly discussion-paper lists; relevant text near the end)."
+}

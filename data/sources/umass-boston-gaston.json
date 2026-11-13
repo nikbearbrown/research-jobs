@@ -1,0 +1,39 @@
+{
+  "id": "umass-boston-gaston",
+  "institution": "UMass Boston",
+  "unit": "Mauricio Gaston Institute for Latino Community Development & Public Policy",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.umb.edu/gaston-institute/",
+    "https://www.umb.edu/gaston-institute/about/",
+    "https://www.umb.edu/gaston-institute/about/meet-the-staff/",
+    "https://hr.umb.edu/"
+  ],
+  "labs": [
+    {
+      "id": "umass-boston-gaston-lorna-rivera",
+      "kind": "research-lab",
+      "lab_name": "Mauricio Gastón Institute for Latino Community Development & Public Policy",
+      "pi_name": "Lorna Rivera",
+      "pi_title": "Director",
+      "pi_email": "Lorna.Rivera@umb.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.umb.edu/gaston-institute/",
+      "location": "Healey Library, 10th Floor, University of Massachusetts Boston, 100 Morrissey Blvd., Boston, MA 02125-3393",
+      "phone": "617.287.5790",
+      "admin_name": "Daniela Bravo-Tapia",
+      "admin_email": "Daniela.Bravo@umb.edu",
+      "research_summary": "A state-created policy institute at UMass Boston that researches the Latino experience in Massachusetts and informs policymakers and community leaders.",
+      "member_count": 10,
+      "member_breakdown": "1 director, 1 associate director, 1 associate director of the TAG Latino Program, 1 administrative assistant, 1 data analyst, 1 research fellow (data analyst), 3 graduate research assistants, 1 undergraduate research assistant",
+      "members_page_url": "https://www.umb.edu/gaston-institute/about/meet-the-staff/",
+      "join_page_url": "https://hr.umb.edu/",
+      "join_notes": "The only jobs page the site links is the university-wide Human Resources home page, which has a Job Seekers section and lists graduate and undergraduate student employment; it names no openings or contact for this unit.",
+      "profile_url": null,
+      "notes": "The staff page also lists 2 fellows/visiting scholars (Alejandro M. Alvarez, Javier A. Juarez) and 1 social media intern, left out of the count. The Advisory Board and Research Associates pages were not read. The director's department is shown as Leadership in Education. Founded 1989 by the Massachusetts legislature."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Staff page was not in the worklist; fetched it (1 extra fetch) from the About page link. Count of 10 includes graduate and undergraduate research assistants per the brief; it is 6 if only staff and the research fellow are counted."
+}

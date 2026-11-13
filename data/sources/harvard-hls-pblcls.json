@@ -1,0 +1,38 @@
+{
+  "id": "harvard-hls-pblcls",
+  "institution": "Harvard",
+  "unit": "Program on Biblical Law and Christian Legal Studies (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://pblcls.law.harvard.edu/",
+    "https://pblcls.law.harvard.edu/about",
+    "https://pblcls.law.harvard.edu/our-work"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-pblcls-ruth-okediji",
+      "kind": "research-lab",
+      "lab_name": "Program on Biblical Law and Christian Legal Studies (PBLCLS), Harvard Law School",
+      "pi_name": "Ruth Okediji",
+      "pi_title": "Faculty Director; Jeremiah Smith, Jr. Professor of Law",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://pblcls.law.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": "Julie Hunt, Director of Administration",
+      "admin_email": "jhunt@law.harvard.edu",
+      "research_summary": "Law school program that studies biblical law and Christian legal thought and forms student leaders through a fellowship, prizes, Scripture reading groups and events.",
+      "member_count": 5,
+      "member_breakdown": "1 faculty director, 1 executive director, 1 theologian-in-residence, 1 director of administration, 1 associate director for research programs and global projects",
+      "members_page_url": "https://pblcls.law.harvard.edu/about",
+      "join_page_url": "https://pblcls.law.harvard.edu/our-work",
+      "join_notes": "The Daniel Fellowship (up to two years, for Harvard students) is usually by nomination from peers or faculty; students may also email the program with their name, field, graduation year and a short paragraph on why they want to join. The program's email address for this is not given on the page.",
+      "profile_url": null,
+      "notes": "Amy Kao is Executive Director (akao@law.harvard.edu); Rev. John Lin is Theologian-in-Residence (JohnLin@law.harvard.edu); Tomas Felcman is Associate Director for Research Programs and Global Projects. Not counted: board of advisors and the Daniel Fellows. The home page shows a template placeholder email and phone (not recorded). No street address on pages read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read start, about (team section) and fetched the Our Work page for the Daniel Fellowship (1 of 3 extra fetches)."
+}

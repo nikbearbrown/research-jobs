@@ -1,0 +1,36 @@
+{
+  "id": "harvard-hls-pii",
+  "institution": "Harvard",
+  "unit": "Program on Institutional Investors (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "http://www.pii.law.harvard.edu/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-pii-lucian-bebchuk",
+      "kind": "research-lab",
+      "lab_name": "Program on Institutional Investors at Harvard Law School (PII)",
+      "pi_name": "Lucian Bebchuk",
+      "pi_title": "Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "http://www.pii.law.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Supports research, policy discussion and education about institutional investors, and runs the Harvard Law School Institutional Investor Forum.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "http://www.law.harvard.edu/faculty/bebchuk/",
+      "notes": "The home page is old (copyright 2019, annual reports up to 2019-20). It names Stephen Davis as Associate Director and has a blank where the Administrative Director's name should be. No contact details, people page or jobs page; no member count."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Only the start page was cached; it has no people, contact or jobs links beyond annual report PDFs."
+}

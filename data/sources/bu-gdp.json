@@ -36,50 +36,6 @@
       "notes": "No general email or phone is shown on the pages read. Leadership and staff page lists 8 centre-level people (director, executive director, 2 finance and admin, 1 communications, 1 research director, 2 HCI faculty associate directors) plus a 10-person faculty steering committee from other units. The research teams page adds large faculty, staff, fellow and non-resident rosters for each initiative, so no single core count is clear; member_count left null. The center is a joint effort with the Pardee School of Global Studies."
     },
     {
-      "id": "bu-gdp-global-china-initiative",
-      "kind": "research-lab",
-      "lab_name": "Global China Initiative (GCI)",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
-      "accepting_grad_students": null,
-      "lab_website": "https://www.bu.edu/gdp/research/gci/",
-      "location": null,
-      "phone": null,
-      "admin_name": null,
-      "admin_email": null,
-      "research_summary": "Policy research on China's overseas economic activity and its engagement with international institutions.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
-      "profile_url": null,
-      "notes": "Research initiative inside the GDP Center; named on its About page. No lead shown for it on the pages read; its page was not read. The research teams page lists researchers, staff and Global China fellows under it."
-    },
-    {
-      "id": "bu-gdp-global-economic-governance-initiative",
-      "kind": "research-lab",
-      "lab_name": "Global Economic Governance Initiative (GEGI)",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
-      "accepting_grad_students": null,
-      "lab_website": "https://www.bu.edu/gdp/research/global-economic-governance/",
-      "location": null,
-      "phone": null,
-      "admin_name": null,
-      "admin_email": null,
-      "research_summary": "Policy research on aligning global economic governance with development and climate goals.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
-      "profile_url": null,
-      "notes": "Research initiative inside the GDP Center; named on its About page. No lead shown for it; its page was not read."
-    },
-    {
       "id": "bu-gdp-human-capital-initiative",
       "kind": "research-lab",
       "lab_name": "Human Capital Initiative (HCI)",
@@ -103,5 +59,5 @@
     }
   ],
   "non_lab_people": [],
-  "notes": "Pages read: start, people, about, careers, plus the Leadership & Staff and Research Teams pages (both linked from the people page; 2 extra fetches). No emails appear on the pages read."
+  "notes": "Pages read: start, people, about, careers, plus the Leadership & Staff and Research Teams pages (both linked from the people page; 2 extra fetches). No emails appear on the pages read. Named on the pages but given no entry, because no lead or site of their own is shown (2): Global China Initiative (GCI); Global Economic Governance Initiative (GEGI)."
 }

@@ -33,28 +33,6 @@
       "notes": "Member count left null: the page lists faculty directors, staff, 14 fellows and many senior research associates, many with outside affiliations, and does not mark which are in residence. Faculty co-directors are Richard B. Freeman and Benjamin I. Sachs. Paul C. Weiler is listed in memoriam. Other staff include Yoorie Chang (Acting Programs Director) and Michelle Miller (Director of Innovation). No careers or jobs page was gathered."
     },
     {
-      "id": "harvard-hls-clje-clean-slate",
-      "kind": "research-lab",
-      "lab_name": "Clean Slate for Worker Power",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
-      "accepting_grad_students": null,
-      "lab_website": "https://clje.law.harvard.edu/clean-slate/",
-      "location": null,
-      "phone": null,
-      "admin_name": null,
-      "admin_email": null,
-      "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
-      "profile_url": null,
-      "notes": "Listed as a CLJE program in the site menu; not read further."
-    },
-    {
       "id": "harvard-hls-clje-cljelab",
       "kind": "research-lab",
       "lab_name": "CLJE:Lab",
@@ -63,28 +41,6 @@
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://clje.law.harvard.edu/cljelab/",
-      "location": null,
-      "phone": null,
-      "admin_name": null,
-      "admin_email": null,
-      "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
-      "profile_url": null,
-      "notes": "Listed as a CLJE program in the site menu; not read further."
-    },
-    {
-      "id": "harvard-hls-clje-democratizing-work",
-      "kind": "research-lab",
-      "lab_name": "Democratizing Work",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
-      "accepting_grad_students": null,
-      "lab_website": "https://clje.law.harvard.edu/democratizing-work/",
       "location": null,
       "phone": null,
       "admin_name": null,
@@ -144,5 +100,5 @@
     }
   ],
   "non_lab_people": [],
-  "notes": "Other items on the site (Labor Organization Innovation, OnLabor) were not added as separate entries."
+  "notes": "Other items on the site (Labor Organization Innovation, OnLabor) were not added as separate entries. Named on the pages but given no entry, because no lead or site of their own is shown (2): Clean Slate for Worker Power; Democratizing Work."
 }

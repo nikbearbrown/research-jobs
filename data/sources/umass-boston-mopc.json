@@ -1,0 +1,38 @@
+{
+  "id": "umass-boston-mopc",
+  "institution": "UMass Boston",
+  "unit": "Massachusetts Office of Public Collaboration",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.umb.edu/mopc/",
+    "https://www.umb.edu/mopc/staff/",
+    "https://hr.umb.edu/"
+  ],
+  "labs": [
+    {
+      "id": "umass-boston-mopc-courtney-breese",
+      "kind": "research-lab",
+      "lab_name": "Massachusetts Office of Public Collaboration",
+      "pi_name": "Courtney Breese",
+      "pi_title": "Executive Director",
+      "pi_email": "courtney.breese@umb.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.umb.edu/mopc/",
+      "location": "UMass Boston, McCormack, Floor 1, Room 627, 100 Morrissey Blvd, Boston, MA 02125-3393",
+      "phone": "617.287.4040",
+      "admin_name": "MOPC general contact",
+      "admin_email": "mopc@umb.edu",
+      "research_summary": "An applied research center and the state's dispute resolution office, running conflict resolution programs and evaluating them for public agencies and courts.",
+      "member_count": 9,
+      "member_breakdown": "1 executive director, 1 associate director, 1 director of programs and operations, 4 program managers, 1 research associate, 1 program assistant",
+      "members_page_url": "https://www.umb.edu/mopc/staff/",
+      "join_page_url": "https://hr.umb.edu/",
+      "join_notes": "The only jobs page the site links is the university-wide Human Resources home page, which has a Job Seekers section and lists graduate and undergraduate student employment; it names no openings or contact for this unit.",
+      "profile_url": null,
+      "notes": "Toll-free program line 888.869.1898. The McCormack institutes page names Susan Jeghelian as executive director and lists Madhawa Palihapitiya as associate director; the MOPC's own staff page names Courtney Breese as executive director and the count here follows the staff page. Palihapitiya (madhawa.palihapitiya@umb.edu) is Associate Director for research and program evaluation."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Staff page is the MOPC's own and is current as cached."
+}

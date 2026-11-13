@@ -1,0 +1,38 @@
+{
+  "id": "umass-boston-ssl",
+  "institution": "UMass Boston",
+  "unit": "Sustainable Solutions Lab",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.umb.edu/ssl/",
+    "https://www.umb.edu/ssl/people/",
+    "https://hr.umb.edu/"
+  ],
+  "labs": [
+    {
+      "id": "umass-boston-ssl-b-r-balachandran",
+      "kind": "research-lab",
+      "lab_name": "Sustainable Solutions Lab",
+      "pi_name": "B. R. Balachandran",
+      "pi_title": "Executive Director",
+      "pi_email": "BR.Balachandran@umb.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.umb.edu/ssl/",
+      "location": "Healey Library, 10th Floor Room 13, UMass Boston",
+      "phone": null,
+      "admin_name": "SSL general contact",
+      "admin_email": "ssl@umb.edu",
+      "research_summary": "A UMass Boston climate justice lab that convenes collaborators and supports transdisciplinary research led by communities historically excluded from climate work.",
+      "member_count": 5,
+      "member_breakdown": "1 executive director, 1 research director, 1 associate director, 1 dean of faculty and inter-faculty initiatives, 1 community engagement manager",
+      "members_page_url": "https://www.umb.edu/ssl/people/",
+      "join_page_url": "https://hr.umb.edu/",
+      "join_notes": "The only jobs page the site links is the university-wide Human Resources home page, which has a Job Seekers section and lists graduate and undergraduate student employment; it names no openings or contact for this unit.",
+      "profile_url": null,
+      "notes": "People page also lists external affiliates (2), visiting scholars (2) and links for board, students and university affiliates, none counted. The McCormack institutes page names Rebecca Herst as director of SSL; the SSL people page does not list her. Staff emails taken from mailto links: Rosalyn Negrón (Research Director) Rosalyn.Negron@umb.edu; Gabriela Boscio Santos (Associate Director) Gabriela.Boscio@umb.edu. The lab invites climate justice researchers to join its Northeast Climate Justice Research Collaborative through an interest form."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

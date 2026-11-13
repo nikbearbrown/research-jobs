@@ -1,0 +1,40 @@
+{
+  "id": "harvard-hls-petrie-flom",
+  "institution": "Harvard",
+  "unit": "Petrie-Flom Center for Health Law Policy, Biotechnology, and Bioethics (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://petrieflom.law.harvard.edu/",
+    "https://petrieflom.law.harvard.edu/about/",
+    "https://petrieflom.law.harvard.edu/leadership-staff/",
+    "https://petrieflom.law.harvard.edu/current-opportunities/",
+    "https://petrieflom.law.harvard.edu/people/postdoctoral-fellows/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-petrie-flom-i-glenn-cohen",
+      "kind": "research-lab",
+      "lab_name": "Petrie-Flom Center for Health Law Policy, Biotechnology, and Bioethics, Harvard Law School",
+      "pi_name": "I. Glenn Cohen",
+      "pi_title": "Faculty Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://petrieflom.law.harvard.edu/",
+      "location": "Harvard Law School, 23 Everett Street, Cambridge, MA 02138",
+      "phone": "617-384-0044",
+      "admin_name": null,
+      "admin_email": "petrie-flom@law.harvard.edu",
+      "research_summary": "Research center for legal and interdisciplinary work on health policy, biotechnology and bioethics, with fellowships, events, a blog and a journal.",
+      "member_count": 7,
+      "member_breakdown": "1 faculty director, 1 executive director, 3 staff (finance and administration, program coordinator and digital, communications), 2 current postdoctoral fellows",
+      "members_page_url": "https://petrieflom.law.harvard.edu/leadership-staff/",
+      "join_page_url": "https://petrieflom.law.harvard.edu/current-opportunities/",
+      "join_notes": "The Current Opportunities page lists calls and outside opportunities shared with the community, and asks people to write to the general center email to have opportunities posted. The site also has fellowship, student fellowship and visiting scholar program pages that were not read.",
+      "profile_url": "https://petrieflom.law.harvard.edu/leadership-staff/iglenn-cohen/",
+      "notes": "Susannah Baruch is Executive Director. Staff: Laura Chong, Lisa Gorelik, Erin (Lynch) Scott. Postdocs: Javier R. Mesa, Sofia Palmieri. Not counted: senior fellows, student fellows, visiting scholars and affiliated researchers (pages not read), and former leaders."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read start, about; fetched leadership-staff, current-opportunities and postdoctoral-fellows (3 of 3 extra fetches). Named on the pages but given no entry, because no lead or site of their own is shown (4): Artificial Intelligence (PMAIL/Inter-CeBIL); Global Health and Rights Project (GHRP); Project on Law and Applied Neuroscience; Project on Advanced Care and Health Policy."
+}

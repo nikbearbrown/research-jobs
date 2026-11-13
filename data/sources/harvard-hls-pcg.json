@@ -1,0 +1,61 @@
+{
+  "id": "harvard-hls-pcg",
+  "institution": "Harvard",
+  "unit": "Program on Corporate Governance (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://pcg.law.harvard.edu/",
+    "https://pcg.law.harvard.edu/faculty/",
+    "https://pcg.law.harvard.edu/contact-us/",
+    "https://pcg.law.harvard.edu/fellows/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-pcg-lucian-bebchuk",
+      "kind": "research-lab",
+      "lab_name": "Program on Corporate Governance, Harvard Law School",
+      "pi_name": "Lucian Bebchuk",
+      "pi_title": "Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://pcg.law.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Fosters research and discussion on corporate governance among academics, practitioners and policy makers, and runs the Harvard Law School Forum on Corporate Governance.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "http://www.law.harvard.edu/faculty/bebchuk/",
+      "notes": "Member count left blank: the home page names an Advisory Board, 17 contributing faculty, a Senior Fellow (Oliver Hart), 7 Research Fellows, and staff (Anna Toniolo, Director of Engagement and Policy Research; Victoria Sidoti, Development, Research, and Operations Manager; Gaelle Margain, Program Coordinator; Stephen Davis, Senior Research Affiliate; Leeor Ofer, Research Affiliate), while the Fellows page lists 9 current fellows, so the core group is not clear. No general email, phone or address and no jobs page found; staff emails are hidden by the site's email protection."
+    },
+    {
+      "id": "harvard-hls-pcg-corporate-governance-lab",
+      "kind": "research-lab",
+      "lab_name": "Corporate Governance Lab",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://pcg.law.harvard.edu/corporate-governance-lab/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Listed on the Program on Corporate Governance home page as one of its projects; page not read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read start, faculty, contact-us; fetched the Fellows page (1 of 3 extra fetches). The cached 'about' page was a contact page. Eight projects recorded from the home page links. Named on the pages but given no entry, because no lead or site of their own is shown (7): Project on Controlling Shareholders; Project on Corporate Political Spending; Project on Hedge Fund Activism; Project on Institutional Investors; Project on M&A and Corporate Control; Project on Short-Termism; Project on Stakeholder Capitalism."
+}

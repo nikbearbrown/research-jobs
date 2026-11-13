@@ -1,0 +1,39 @@
+{
+  "id": "harvard-hls-iemi",
+  "institution": "Harvard",
+  "unit": "Institute to End Mass Incarceration (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://endmassincarceration.org/",
+    "https://endmassincarceration.org/our-team/",
+    "https://endmassincarceration.org/our-mission/",
+    "https://endmassincarceration.org/join-our-team/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-iemi-andrew-manuel-crespo",
+      "kind": "research-lab",
+      "lab_name": "Institute to End Mass Incarceration",
+      "pi_name": "Andrew Manuel Crespo",
+      "pi_title": "Executive Faculty Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://endmassincarceration.org/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Works with people most affected by the penal system to build community power and advance ideas and legal work aimed at ending mass incarceration.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://endmassincarceration.org/our-team/",
+      "join_page_url": "https://endmassincarceration.org/join-our-team/",
+      "join_notes": "The Join Our Team page says there are no current opportunities and invites people to follow the institute on social media and join the mailing list for updates.",
+      "profile_url": "https://endmassincarceration.org/people/andrew-manuel-crespo/",
+      "notes": "Member count left blank: the team page lists the director, a managing director (also Executive Editor of Inquest), an attorney, a policy fellow and a research associate, but also 6 student attorneys for 2026 and about 24 for earlier years, 3 more Inquest editors and 5 fellows, with no clear current core group. Contact email is behind the site's email protection, so not recorded. Address and phone not shown on pages read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "All four cached pages read. Other Work menu items (Anti-Carceral Lawyering, Amicus and Advocacy Work, Learning Lab, Innovation and Ideas) were not recorded as separate entries. Named on the pages but given no entry, because no lead or site of their own is shown (3): Carceral Infrastructure Project; Exposing Prisons Project; Collective Defense Project."
+}

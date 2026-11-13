@@ -1,0 +1,41 @@
+{
+  "id": "harvard-hls-hpod",
+  "institution": "Harvard",
+  "unit": "Project on Disability (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://hpod.law.harvard.edu/",
+    "https://hpod.law.harvard.edu/affiliates/",
+    "https://hpod.law.harvard.edu/about/",
+    "https://hpod.law.harvard.edu/events/economic-security-aging/",
+    "https://hpod.law.harvard.edu/get-involved/",
+    "https://hpod.law.harvard.edu/opportunities/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-hpod-michael-ashley-stein",
+      "kind": "research-lab",
+      "lab_name": "Harvard Law School Project on Disability (HPOD)",
+      "pi_name": "Michael Ashley Stein",
+      "pi_title": "Executive Director; Visiting Professor, Harvard Law School",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://hpod.law.harvard.edu/",
+      "location": "Harvard Law School, Austin Hall, Third Floor, 1585 Massachusetts Avenue, Cambridge, MA 02138",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Works with people with disabilities, universities, governments and global institutions on disability rights through training, law reform, scholarship and advocacy in over 40 countries.",
+      "member_count": 7,
+      "member_breakdown": "1 chair, 1 executive director, 1 director of advocacy initiatives, 1 senior program manager, 1 self-advocacy associate, 1 senior director for East Asia, 1 counselor",
+      "members_page_url": "https://hpod.law.harvard.edu/about/",
+      "join_page_url": "https://hpod.law.harvard.edu/opportunities/",
+      "join_notes": "The Opportunities page describes a Visiting Scholars program (formal application, March 1 deadline, monthly fee), invitation-only Annual Fellows, Self-Advocate Research Fellows, and Student Interns. The Get Involved page names Hezzy Smith, Director of Advocacy Initiatives, as the contact for other ways to work together. No email address is shown on the pages read.",
+      "profile_url": "https://hpod.law.harvard.edu/bios/stein/",
+      "notes": "William P. Alford is listed as Chair above the Executive Director. The affiliates page lists Harvard and outside affiliates, senior advisor and associates, who are not counted. The page lists current Visiting Scholar Jae Hyeong Cho and Annual Fellows Derek Heard and Alex Green; these are not counted in member_count. The site gives a contact form only, no general email or phone."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read start, affiliates, about (leadership list), the events page cached as the careers page (an event, not jobs), and fetched the Get Involved and Opportunities pages (2 of 3 extra fetches)."
+}
