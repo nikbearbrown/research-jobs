@@ -1,0 +1,13 @@
+{
+  "id": "harvard-fas",
+  "institution": "Harvard",
+  "unit": "Faculty of Arts and Sciences (Harvard FAS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.fas.harvard.edu/explore-our-departments-programs-and-offices"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The cached department index page is only an Access Denied error from the server, so it was not retried. Also, the index lists departments, programs and offices rather than labs, so no lab list could be taken from it."
+}

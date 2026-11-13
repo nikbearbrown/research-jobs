@@ -1,0 +1,40 @@
+{
+  "id": "nber",
+  "institution": "National Bureau of Economic Research",
+  "unit": "National Bureau of Economic Research",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.nber.org/",
+    "https://www.nber.org/about-nber/nber-staff",
+    "https://www.nber.org/contact-nber",
+    "https://www.nber.org/career-resources/staff-positions-nber",
+    "https://www.nber.org/career-resources/research-assistant-positions-nber"
+  ],
+  "labs": [
+    {
+      "id": "nber-james-poterba",
+      "kind": "research-lab",
+      "lab_name": "National Bureau of Economic Research",
+      "pi_name": "James Poterba",
+      "pi_title": "President and CEO",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.nber.org/",
+      "location": "1050 Massachusetts Avenue, Cambridge, MA 02138",
+      "phone": "617-868-3900",
+      "admin_name": null,
+      "admin_email": "info@nber.org",
+      "research_summary": "Private nonprofit economics research organization whose research is done mostly by affiliated scholars at universities, with a small in-house staff in Cambridge.",
+      "member_count": 44,
+      "member_breakdown": "44 in-house staff: president, accounting and finance, conferences, research and grants management, IT, office management, communications, publications, human resources",
+      "members_page_url": "https://www.nber.org/about-nber/nber-staff",
+      "join_page_url": "https://www.nber.org/career-resources/staff-positions-nber",
+      "join_notes": "The staff positions page says there are no open positions now. The research assistant page links to one full-time RA posting for a University of Chicago faculty pair (summer 2027) and to hourly hiring forms. The RA page states the NBER has no internship program.",
+      "profile_url": null,
+      "notes": "Staff count is the number of named people on the NBER Staff page (shared inboxes not counted). These are administrative staff; researchers are affiliates at other institutions and are not counted. The RA posting is with university faculty, not NBER staff. The staff page gives work email addresses for each person; none recorded here beyond the general inbox. Programs and working groups are not listed as entries because no leads or sites are shown on the pages read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "No other labs recorded."
+}

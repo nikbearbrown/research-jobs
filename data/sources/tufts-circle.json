@@ -1,0 +1,39 @@
+{
+  "id": "tufts-circle",
+  "institution": "Tufts University",
+  "unit": "Center for Information and Research on Civic Learning & Engagement (CIRCLE)",
+  "city": "Medford / Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://circle.tufts.edu/",
+    "https://circle.tufts.edu/about-circle/our-team",
+    "https://circle.tufts.edu/contact-us",
+    "https://circle.tufts.edu/circle-hiring"
+  ],
+  "labs": [
+    {
+      "id": "tufts-circle-leela-strong",
+      "kind": "research-lab",
+      "lab_name": "Center for Information & Research on Civic Learning and Engagement (CIRCLE)",
+      "pi_name": "Leela Strong",
+      "pi_title": "Newhouse Director",
+      "pi_email": "leela.strong@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://circle.tufts.edu/",
+      "location": "Barnum Hall, Jonathan M. Tisch College of Civic Life, Tufts University, Medford, MA 02155",
+      "phone": "617-627-2593",
+      "admin_name": null,
+      "admin_email": "circle@tufts.edu",
+      "research_summary": "Tisch College research center on how young people in the United States learn to take part in democracy, covering youth voting, civic learning and youth media.",
+      "member_count": 14,
+      "member_breakdown": "1 director, 10 other staff (researchers, operations, communications, data, administration), 3 fellows and student assistants",
+      "members_page_url": "https://circle.tufts.edu/about-circle/our-team",
+      "join_page_url": "https://circle.tufts.edu/circle-hiring",
+      "join_notes": "The hiring page currently lists one request for proposals for a part-time data consultant (January to June 2027, about $19,000 budget); proposals go by email to circle@tufts.edu with a November 20, 2026 deadline. It also offers an email list for future openings.",
+      "profile_url": null,
+      "notes": "The 3 fellows and assistants include a doctoral student, a research fellow and an undergraduate communications assistant. The phone is the number shown in the footer and for the communications manager. The hiring page was fetched (1 of 3 extra fetches)."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "None."
+}

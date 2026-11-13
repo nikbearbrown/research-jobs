@@ -1,0 +1,36 @@
+{
+  "id": "boston-fed-research",
+  "institution": "Federal Reserve Bank of Boston",
+  "unit": "Federal Reserve Bank of Boston, Research Department",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.bostonfed.org/careers/early-career-internships/research-associate-program"
+  ],
+  "labs": [
+    {
+      "id": "boston-fed-research-org",
+      "kind": "research-lab",
+      "lab_name": "Federal Reserve Bank of Boston, Research Department",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": "600 Atlantic Avenue, Boston, MA 02210-2204",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "The central bank's economic research group, whose economists are supported by two-year research associates.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://www.bostonfed.org/careers/early-career-internships/research-associate-program",
+      "join_notes": "Research associates are recent graduates in economics, math, statistics or a related field, hired for two years; applicants need US citizenship. The page says to send a cover letter to the recruiting manager, with resume, writing sample, transcript and two reference letters (one from an economics professor) emailed to Bos.RA.Recruiting@bos.frb.org. Research Department summer internship questions go to ResearchIntern.BOS@bos.frb.org.",
+      "profile_url": null,
+      "notes": "The target start page timed out twice, so no people or lead were read. The RA program page was reached through a link on the Boston Fed careers page. Department is not a lab; no member count. Page names a recruiting manager and a business support specialist but no research lead."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Start page https://www.bostonfed.org/careers/economic-research failed to load (timeout) on the original fetch and again on a retry. Used 1 extra page."
+}

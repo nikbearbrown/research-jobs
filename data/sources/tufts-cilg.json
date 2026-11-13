@@ -1,0 +1,59 @@
+{
+  "id": "tufts-cilg",
+  "institution": "Tufts University",
+  "unit": "Center for International Law and Governance",
+  "city": "Medford / Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://sites.tufts.edu/cilg/",
+    "https://sites.tufts.edu/cilg/people/"
+  ],
+  "labs": [
+    {
+      "id": "tufts-cilg-ian-johnstone",
+      "kind": "research-lab",
+      "lab_name": "Center for International Law and Governance",
+      "pi_name": "Ian Johnstone",
+      "pi_title": "Center Director (Professor of International Law)",
+      "pi_email": "Ian.Johnstone@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://sites.tufts.edu/cilg/",
+      "location": "160 Packard Ave., Medford, MA 02155 USA",
+      "phone": "+1 617-627-3700",
+      "admin_name": null,
+      "admin_email": "CILG@tufts.edu",
+      "research_summary": "Fletcher School center founded in 2017 that applies international law expertise to global governance problems such as trade, health, cyber and the environment.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://sites.tufts.edu/cilg/people/",
+      "join_page_url": null,
+      "join_notes": "No jobs page. The Get Involved link points to a WordPress admin address that the site's robots.txt blocks, so it was not read.",
+      "profile_url": null,
+      "notes": "People page lists the director, 22 faculty affiliates, 10 research fellows (mostly non-resident senior fellows) and 2 administrative staff (Elizabeth Riddle, Nate Coe). It is not clear which fellows are in residence, so no count was recorded. Main phone is the one shown in the footer. CILG@tufts.edu comes from the Contact Us link."
+    },
+    {
+      "id": "tufts-cilg-remaking-trade-project",
+      "kind": "research-lab",
+      "lab_name": "Remaking Trade Project",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://remakingtradeproject.org/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Listed under Research Projects on the CILG site; not read further. Lead not shown."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The Get Involved page was blocked by robots.txt (status blocked-by-robots) and not fetched. A further project (Protecting Civilian Institutions and Infrastructure from Cyber Operations) and a Plastics Treaty Negotiation submission are listed but not recorded as entries. Named on the pages but given no entry, because no lead or site of their own is shown (5): Global One Health Diplomacy Initiative; Pandemic Law Primer; Building an International Cybersecurity Regime: Multistakeholder Diplomacy; Defeating Disinformation; Law of the Sea Primer."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "tufts-cspa",
+  "institution": "Tufts University",
+  "unit": "Center for State Policy Analysis",
+  "city": "Medford / Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://cspa.tufts.edu/",
+    "https://cspa.tufts.edu/our-people",
+    "https://cspa.tufts.edu/2026-summer-fellow"
+  ],
+  "labs": [
+    {
+      "id": "tufts-cspa-evan-horowitz",
+      "kind": "research-lab",
+      "lab_name": "Center for State Policy Analysis (cSPA)",
+      "pi_name": "Evan Horowitz",
+      "pi_title": "Executive Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://cspa.tufts.edu/",
+      "location": "Barnum Hall, 163 Packard Ave., Medford, MA 02155",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "cSPA@tufts.edu",
+      "research_summary": "Nonpartisan research center in Tufts' Tisch College that produces Massachusetts policy reports and ballot question guides.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://cspa.tufts.edu/our-people",
+      "join_page_url": "https://cspa.tufts.edu/2026-summer-fellow",
+      "join_notes": "The Jobs page describes a full-time hourly Summer Research Associate role (8 to 10 weeks, pay up to $10,000) to manage the 2026 ballot question briefs. Applicants email a cover letter and resume to Andrea LeSaffre (andrea.lesaffre@tufts.edu). The posting refers to summer 2026 and may be out of date.",
+      "profile_url": null,
+      "notes": "The people page shows only the executive director and an advisory council, so no staff count was recorded. Andrea LeSaffre's role is not given."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "None."
+}

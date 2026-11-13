@@ -1,0 +1,40 @@
+{
+  "id": "bc-economics",
+  "institution": "Boston College",
+  "unit": "Department of Economics",
+  "city": "Chestnut Hill, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics.html",
+    "https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics/people.html",
+    "https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics/about.html",
+    "https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics/people/faculty-openings.html",
+    "https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics/undergraduate/research.html"
+  ],
+  "labs": [
+    {
+      "id": "bc-economics-robert-murphy",
+      "kind": "research-lab",
+      "lab_name": "Economics Department",
+      "pi_name": "Robert Murphy",
+      "pi_title": "Chair of the Economics Department; Professor",
+      "pi_email": "robert.murphy.1@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics.html",
+      "location": "Maloney Hall, Third Floor, Chestnut Hill, MA 02467",
+      "phone": "617-552-3670",
+      "admin_name": "Nadia Smith",
+      "admin_email": "nadia.smith@bc.edu",
+      "research_summary": "Boston College economics faculty split their time between research and teaching in undergraduate and PhD programs.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics/people.html",
+      "join_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics/undergraduate/research.html",
+      "join_notes": "Undergraduate research assistantships run through the university Undergraduate Research Fellowship: students fill in the application form, the Director of Undergraduate Studies (Professor Cox) shares it with faculty, and a faculty member who wants an assistant applies for the fellowship; students may also write to faculty directly. The Faculty Openings page lists only faculty job ads (an assistant professor of the practice and an open-rank position), not RA or staff jobs.",
+      "profile_url": null,
+      "notes": "Department entry: member_count left null because a department is not a lab. Admin contact: Nadia Smith is listed as Undergraduate Academic Advisor and Administrator and her phone matches the department main number; no general department email is shown. Pages give inconsistent faculty counts (40 and 45). No labs, centers or research groups are listed on the department pages (menus show seminars and working papers only)."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read start, people (staff list is the only part of the roster shown in text), about, faculty-openings pages, plus one extra fetch of the undergraduate Research Opportunities & Internships page. No labs page exists in the menu."
+}

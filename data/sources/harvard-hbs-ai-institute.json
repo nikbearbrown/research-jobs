@@ -123,28 +123,6 @@
       "notes": "Listed on the institute's Labs page; lead not shown there, not read further."
     },
     {
-      "id": "harvard-hbs-ai-institute-lish",
-      "kind": "research-lab",
-      "lab_name": "Laboratory for Innovation Science at Harvard",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
-      "accepting_grad_students": null,
-      "lab_website": "https://aiinstitute.hbs.edu/lish",
-      "location": null,
-      "phone": null,
-      "admin_name": null,
-      "admin_email": null,
-      "research_summary": "The institute's largest lab, studying open innovation using field experiments; began as the NASA Tournament Lab in 2010.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
-      "profile_url": null,
-      "notes": "Listed on the institute's Labs page; lead not shown there, not read further."
-    },
-    {
       "id": "harvard-hbs-ai-institute-platform-lab",
       "kind": "research-lab",
       "lab_name": "Platform Lab",
@@ -256,5 +234,5 @@
     }
   ],
   "non_lab_people": [],
-  "notes": "Team page names no lab leads; the team page filter calls one lab Digital Emotions Lab while the Labs page calls it Psychology and AI Lab."
+  "notes": "Team page names no lab leads; the team page filter calls one lab Digital Emotions Lab while the Labs page calls it Psychology and AI Lab. Left out because the directory already has them (1): Laboratory for Innovation Science at Harvard (target harvard-hbs-lish)."
 }

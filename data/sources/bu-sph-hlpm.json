@@ -1,0 +1,62 @@
+{
+  "id": "bu-sph-hlpm",
+  "institution": "Boston University",
+  "unit": "Department of Health Law, Policy & Management",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.bu.edu/sph/departments/health-law-policy-and-management/",
+    "https://www.bu.edu/sph/departments/health-law-policy-and-management/faculty-staff/",
+    "https://www.bu.edu/sph/about/",
+    "https://www.bu.edu/sph/careers/",
+    "https://www.bu.edu/sph/departments/health-law-policy-and-management/medicaid-policy-lab/"
+  ],
+  "labs": [
+    {
+      "id": "bu-sph-hlpm-michael-stein",
+      "kind": "research-lab",
+      "lab_name": "Department of Health Law, Policy & Management",
+      "pi_name": "Michael D. Stein",
+      "pi_title": "Chair and Professor",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bu.edu/sph/departments/health-law-policy-and-management/",
+      "location": "715 Albany Street, Talbot Building, T2W, Boston, MA 02118",
+      "phone": "(617) 358-2774",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Department whose research explains causes of inequities in health and health care and recommends laws and policies to reduce them.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bu.edu/sph/profile/michael-stein/",
+      "notes": "Department entry: member_count left null because a department is not a lab. No general department email shown. The careers page cached is the School of Public Health's student and employer Career & Practicum Office page, not a department RA or jobs page, so no join page is recorded. The school-wide Center for Health Law, Ethics & Human Rights is shown on the department page but is described as school-wide, so it is not recorded."
+    },
+    {
+      "id": "bu-sph-hlpm-sarah-gordon",
+      "kind": "research-lab",
+      "lab_name": "Medicaid Policy Lab",
+      "pi_name": "Sarah H Gordon",
+      "pi_title": "Co-Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bu.edu/sph/departments/health-law-policy-and-management/medicaid-policy-lab/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Interdisciplinary group of faculty and students evaluating how Medicaid policy changes and care delivery models affect coverage, access, quality and equity for low-income people.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Co-directors named on the lab page: Sarah H Gordon, Kevin Nguyen and Paul Shafer. Page also lists SPH affiliated faculty and doctoral students and fellows; members not counted."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read all cached pages plus 1 extra fetch (Medicaid Policy Lab page, linked from the department page)."
+}

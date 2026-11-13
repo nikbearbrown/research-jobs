@@ -1,0 +1,58 @@
+{
+  "id": "hks-centers-index",
+  "institution": "Harvard",
+  "unit": "Harvard Kennedy School research centers (index)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.hks.harvard.edu/centers-initiatives"
+  ],
+  "labs": [
+    {
+      "id": "hks-centers-index-ash",
+      "kind": "research-lab",
+      "lab_name": "Ash Center for Democratic Governance and Innovation",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "http://ash.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Works on democratic governance, government innovation and Asia public policy through research, education and public discussion.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Listed on Harvard Kennedy School's Centers & Initiatives page; not read further."
+    },
+    {
+      "id": "hks-centers-index-cpl",
+      "kind": "research-lab",
+      "lab_name": "Center for Public Leadership",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.hks.harvard.edu/index%2ephp/centers/cpl",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Works to build capacity for principled, effective public leadership in government, politics, civil society and business.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Listed on Harvard Kennedy School's Centers & Initiatives page; not read further."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The page says HKS has 12 research centers and lists them all, so all 12 are recorded. It also lists many smaller programs and initiatives (A to Z), not recorded here. No lead or contact shown for any. Left out because the directory already has them (9): Belfer Center for Science and International Affairs (target hks-belfer); Bloomberg Center for Cities (target hks-bloomberg-cities); Carr-Ryan Center for Human Rights (target hks-carr-ryan); Center for International Development (target hks-cid); Institute of Politics (target harvard-iop); Malcolm Wiener Center for Social Policy (target hks-wiener); Mossavar-Rahmani Center for Business and Government (target hks-mrcbg); Shorenstein Center on Media, Politics and Public Policy (target hks-shorenstein); Taubman Center for State and Local Government (target hks-taubman). Named on the pages but given no entry, because no lead or site of their own is shown (1): Women and Public Policy Program."
+}

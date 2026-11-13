@@ -22,7 +22,9 @@ STAGED_DIR. For each target in the worklists that has a staged file this:
   - drops an extra entry (not the organization's own) that shows no lead and
     no website of its own, unless it is a named lab, center or institute with
     its own page, and names it in the file's notes;
-  - drops an extra entry (and, for `school` targets, any entry) whose website is already in the
+  - drops a faculty lab the directory already lists under the same lead;
+  - drops an extra entry (and, for `school` targets, any entry) that is another
+    target of the same institution under the same name, or whose website is already in the
     directory (an existing lab's lab_website or another target's start_url)
     and names them in the file's notes;
   - writes data/sources/<id>.json (never over an existing file) and sets the
@@ -63,7 +65,7 @@ def host(u):
 
 
 def fold(s):
-    s = unicodedata.normalize("NFKD", s or "")
+    s = unicodedata.normalize("NFKD", s or "").replace("\u2019", "'").replace("\u2018", "'")
     return "".join(c for c in s if not unicodedata.combining(c)).lower()
 
 
@@ -119,6 +121,49 @@ class Pages:
         return False
 
 
+NAME_STOP = {"the", "at", "of", "for", "and", "on", "in", "a", "an", "harvard", "mit", "tufts", "northeastern", "boston", "bu",
+             "university", "school", "law", "kennedy", "business", "hls", "hks", "hbs", "nu"}
+
+
+def norm_name(name):
+    """A unit's name as a set of words: no parentheticals (acronyms), articles or institution names."""
+    n = fold(re.sub(r"\([^)]*\)", " ", name or "")).replace("&", " and ")
+    return frozenset(w for w in re.findall(r"[a-z0-9]+", n) if w not in NAME_STOP)
+
+
+def same_unit(a, b):
+    """True when two names are the same unit: the same words, or one name is the other plus a single extra word."""
+    if len(a) < 2 or len(b) < 2:
+        return False
+    small, big = (a, b) if len(a) <= len(b) else (b, a)
+    return small <= big and len(big) - len(small) <= 1
+
+
+def target_names():
+    """{institution prefix: [(reduced name, target id)]} for every row of targets.csv."""
+    out = {}
+    for row in csv.DictReader(open(ROOT / "data" / "targets.csv", newline="")):
+        prefix = "harvard" if row["id"].split("-")[0] == "hks" else row["id"].split("-")[0]
+        out.setdefault(prefix, []).append((norm_name(row["name"]), row["id"]))
+    return out
+
+
+def person_key(name):
+    words = re.findall(r"[a-z]+", fold(re.sub(r",.*$", "", name or "")))
+    return (words[0], words[-1]) if len(words) >= 2 else None
+
+
+def existing_leads():
+    """{institution: {(first, last): lab id}} for every lab already in the directory."""
+    out = {}
+    labs = json.loads((ROOT / "data" / "labs.json").read_text())
+    for lab in labs if isinstance(labs, list) else labs.get("labs", []):
+        key = person_key(lab.get("pi_name"))
+        if key:
+            out.setdefault(lab.get("institution"), {}).setdefault(key, lab["id"])
+    return out
+
+
 def existing_sites():
     sites = set()
     labs = json.loads((ROOT / "data" / "labs.json").read_text())
@@ -140,6 +185,9 @@ def main():
         for item in json.loads(Path(w).read_text()):
             items[item["id"]] = item
     known_sites = existing_sites()
+    names = target_names()
+    leads = existing_leads()
+    shown = []
     status, problems, totals = {}, 0, {"targets": 0, "entries": 0, "sized": 0, "join": 0, "dropped": 0}
     for tid, item in sorted(items.items()):
         src = staged / f"{tid}.json"
@@ -164,6 +212,9 @@ def main():
         labs, seen_ids, dropped, thin = [], set(), [], []
         for n, raw in enumerate(data.get("labs") or []):
             lab = {k: raw.get(k) for k in LAB_KEYS}
+            for k in URL_KEYS:  # drop analytics fragments a page appends to its links
+                if isinstance(lab[k], str):
+                    lab[k] = re.sub(r"#(?!/).*$", "", lab[k].strip()) or None  # keep only hash routes ("#/people")
             lab["kind"] = "research-lab"
             lid = lab["id"] or ""
             if not re.fullmatch(r"[a-z0-9]+(-[a-z0-9]+)*", lid) or not lid.startswith(tid) or lid in seen_ids:
@@ -204,6 +255,17 @@ def main():
                 # a project or program named in a menu, with no lead and no site of its own, is not an entry
                 thin.append(lab["lab_name"] or lid)
                 continue
+            prefix = "harvard" if tid.split("-")[0] == "hks" else tid.split("-")[0]
+            twin = next((t for nm, t in names.get(prefix, []) if t != tid and same_unit(norm_name(lab["lab_name"]), nm)), None)
+            if (n > 0 or item["category"] == "school") and twin:
+                dropped.append(f"{lab['lab_name']} (target {twin})")
+                continue
+            inst = INSTITUTION.get(tid.split("-")[0])
+            same_lead = leads.get(inst, {}).get(person_key(lab["pi_name"])) if lab["pi_name"] else None
+            if (n > 0 or item["category"] == "school") and same_lead and named_lab is not None and re.search(r"\blab", lab["lab_name"] or "", re.I):
+                # a faculty lab the directory already lists under the same lead
+                dropped.append(f"{lab['lab_name']} (already listed as {same_lead})")
+                continue
             if ((n > 0 or item["category"] == "school") and lab["lab_website"]
                     and canon(lab["lab_website"]) != canon(item.get("start_url")) and canon(lab["lab_website"]) in known_sites):
                 # e.g. a school's centers that are separate targets, or a lab the directory already has
@@ -214,6 +276,7 @@ def main():
             labs.append(lab)
         notes = (data.get("notes") or "").strip()
         if dropped:
+            shown.append(f"DROPPED {tid} ({len(dropped)} of {len(dropped) + len(labs)}): " + "; ".join(d[:60] for d in dropped))
             notes += (" " if notes else "") + f"Left out because the directory already has them ({len(dropped)}): " + "; ".join(dropped) + "."
         if thin:
             notes += (" " if notes else "") + f"Named on the pages but given no entry, because no lead or site of their own is shown ({len(thin)}): " + "; ".join(thin) + "."
@@ -247,6 +310,9 @@ def main():
             w = csv.DictWriter(fh, fieldnames=fields, lineterminator="\r\n")  # targets.csv uses CRLF
             w.writeheader()
             w.writerows(rows)
+    if "--show-dropped" in sys.argv:
+        for line in shown:
+            print(line)
     print(f"check_center_sources: {totals}, done {sum(v == 'done' for v in status.values())}, "
           f"partial {sum(v == 'partial' for v in status.values())}, things to look at {problems}"
           + (" (dry run, nothing written)" if dry else ""), file=sys.stderr)

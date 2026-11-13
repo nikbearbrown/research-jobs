@@ -1,0 +1,13 @@
+{
+  "id": "mit-school-of-engineering",
+  "institution": "MIT",
+  "unit": "School of Engineering",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://engineering.mit.edu/centers-and-labs"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Recorded the two centers and the eight 'Select Labs' on the page. The page also links ten departments' research pages (for example aeroastro.mit.edu/research/); these are departments and were not recorded as labs or followed. Select Labs are labelled as based in other MIT schools or offices but with School of Engineering affiliates. No leads or blurbs for the select labs. Left out because the directory already has them (10): Center for Transportation and Logistics (CTL) (target mit-ctl); Sociotechnical Systems Research Center (SSRC) (target mit-ssrc); Computer Science and Artificial Intelligence Laboratory (CSAIL) (target mit-csail); Laboratory for Information and Decision Systems (LIDS) (target mit-lids); Materials Research Laboratory (MRL) (target mit-mrl); Microsystems Technology Lab (MTL); MIT-IBM Computing Research Lab (target mit-ibm-lab); MIT D-Lab (target mit-d-lab); MIT.nano; Research Laboratory of Electronics (RLE) (target mit-rle)."
+}

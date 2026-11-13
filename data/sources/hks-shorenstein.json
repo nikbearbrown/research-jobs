@@ -1,0 +1,11 @@
+{
+  "id": "hks-shorenstein",
+  "institution": "Harvard",
+  "unit": "Shorenstein Center on Media, Politics and Public Policy",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "All three cached pages (home, our-team, careers) failed with a playwright timeout; a retry of the home page also timed out, so nothing could be read. Not an access-denied page."
+}

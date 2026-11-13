@@ -1,0 +1,61 @@
+{
+  "id": "northeastern-dukakis",
+  "institution": "Northeastern University",
+  "unit": "Dukakis Center for Urban and Regional Policy",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://cssh.northeastern.edu/dukakiscenter/",
+    "https://cssh.northeastern.edu/dukakiscenter/about/our-team/",
+    "https://cssh.northeastern.edu/dukakiscenter/about/",
+    "https://cssh.northeastern.edu/dukakiscenter/programs-resources/summer-youth-employment-resources/"
+  ],
+  "labs": [
+    {
+      "id": "northeastern-dukakis-alicia-sasser-modestino",
+      "kind": "research-lab",
+      "lab_name": "Dukakis Center for Urban and Regional Policy",
+      "pi_name": "Alicia Sasser Modestino",
+      "pi_title": "Director (Associate Professor, School of Public Policy and Urban Affairs and Department of Economics)",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://cssh.northeastern.edu/dukakiscenter/",
+      "location": "360 Huntington Avenue, Boston, Massachusetts 02115-5000",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Northeastern policy center that works with cities and community partners on housing, workforce, youth employment, public safety, health and climate research.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://cssh.northeastern.edu/dukakiscenter/about/our-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://cssh.northeastern.edu/faculty/alicia-sasser-modestino/",
+      "notes": "Our Team page lists the director, an associate director for civic research (Kim Lucas), 5 campus network advisors (including Ted Landsmark and staff from the Oakland and Roux campuses) and 17 faculty affiliates. It does not make clear which of these are core staff, so no count was recorded. The contact email is hidden by an email-protection script. No jobs page; the Summer Youth Employment Resources page is a research and practice hub, not a job posting. The cSPA page at Tufts calls Ted Landsmark the Dukakis Center's director, which conflicts with this page."
+    },
+    {
+      "id": "northeastern-dukakis-c2c-impact-lab",
+      "kind": "research-lab",
+      "lab_name": "C2C Impact Lab (Community to Community Impact Lab)",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://cssh.northeastern.edu/dukakiscenter/c2c-impact-lab/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Lab that builds long-term city and community research partnerships, with its own research team and community partners pages.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Listed in the Programs & Resources menu of the Dukakis Center site; not read further. Lead not shown."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Nothing blocked."
+}

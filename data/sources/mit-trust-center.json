@@ -1,0 +1,38 @@
+{
+  "id": "mit-trust-center",
+  "institution": "MIT",
+  "unit": "Martin Trust Center for MIT Entrepreneurship",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://entrepreneurship.mit.edu/",
+    "https://entrepreneurship.mit.edu/team/",
+    "https://entrepreneurship.mit.edu/pozen-fellowship/"
+  ],
+  "labs": [
+    {
+      "id": "mit-trust-center-ana-bakshi",
+      "kind": "research-lab",
+      "lab_name": "Martin Trust Center for MIT Entrepreneurship",
+      "pi_name": "Ana Bakshi",
+      "pi_title": "Executive Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://entrepreneurship.mit.edu/",
+      "location": "One Amherst Street, E40-160, Cambridge MA 02142",
+      "phone": "617.253.8653",
+      "admin_name": null,
+      "admin_email": "trustcenter@mit.edu",
+      "research_summary": "MIT's center for entrepreneurship education, running courses, the delta v startup accelerator and student programs.",
+      "member_count": 16,
+      "member_breakdown": "1 managing director, 1 executive director, 2 associate directors, 1 assistant director, 2 other directors (business management, marketing), 1 product lead, 3 coordinators or assistants, 5 entrepreneurs in residence",
+      "members_page_url": "https://entrepreneurship.mit.edu/team/",
+      "join_page_url": "https://entrepreneurship.mit.edu/pozen-fellowship/",
+      "join_notes": "The Pozen Fellowship is a 10-week paid summer internship for MIT undergraduates at startups founded by delta v alumni. The page says applications for summer 2026 closed on March 13; questions go to pozenfellowship@mit.edu.",
+      "profile_url": null,
+      "notes": "Count is the main staff list. Affiliated staff (Faculty Director Michael Cusumano, Dean Michelle Hanlon and three advisors) are listed separately and not counted. Bill Aulet is Managing Director. No profile page for Bakshi is linked, only a news item. Susan Neal is both Director of Business Management and an EIR, counted once."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Pozen page was fetched as an extra page (1 of 3). No general research-assistant or jobs page was found."
+}

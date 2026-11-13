@@ -1,0 +1,37 @@
+{
+  "id": "boston-fed-neppc",
+  "institution": "Federal Reserve Bank of Boston",
+  "unit": "New England Public Policy Center",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.bostonfed.org/about-the-boston-fed/business-areas/new-england-public-policy-center.aspx",
+    "https://www.bostonfed.org/careers"
+  ],
+  "labs": [
+    {
+      "id": "boston-fed-neppc-jeffrey-thompson",
+      "kind": "research-lab",
+      "lab_name": "New England Public Policy Center",
+      "pi_name": "Jeffrey Thompson",
+      "pi_title": "Vice President and Economist",
+      "pi_email": "jeffrey.thompson@bos.frb.org",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bostonfed.org/about-the-boston-fed/business-areas/new-england-public-policy-center.aspx",
+      "location": "600 Atlantic Avenue, Boston, MA 02210-2204",
+      "phone": "617-973-3353",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "A Boston Fed research center that produces regional economic and public policy research for New England policymakers.",
+      "member_count": 7,
+      "member_breakdown": "1 vice president and economist, 3 principal economists, 1 senior economist, 1 principal economist and policy advisor, 1 lead policy analyst, 1 policy analyst (as listed)",
+      "members_page_url": "https://www.bostonfed.org/about-the-boston-fed/business-areas/new-england-public-policy-center.aspx",
+      "join_page_url": "https://www.bostonfed.org/careers",
+      "join_notes": "The Boston Fed careers page is bank-wide: it links to open positions, early career and internship programs and a Research Associate Program. Nothing specific to this center.",
+      "profile_url": "https://www.bostonfed.org/people/bank/jeffrey-p-thompson.aspx",
+      "notes": "The page lists Thompson as the contact, with his email and phone; it does not call him director, so treat the lead role as unconfirmed. The People list shows 7 names. The phone is his listed number; the bank's main number is (617) 973-3000. An advisory board is mentioned but not counted."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

@@ -1,0 +1,61 @@
+{
+  "id": "bu-cds",
+  "institution": "Boston University",
+  "unit": "Faculty of Computing & Data Sciences",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.bu.edu/cds-faculty/",
+    "https://www.bu.edu/cds-faculty/explore/",
+    "https://www.bu.edu/cds-faculty/research-impact/",
+    "https://www.bu.edu/cds-faculty/research-impact/labs/"
+  ],
+  "labs": [
+    {
+      "id": "bu-cds-justice-media-co-lab",
+      "kind": "research-lab",
+      "lab_name": "Justice Media co-Lab",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bu.edu/cds-faculty/research-impact/labs/justice-media-co-lab/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Joint program with the College of Communication that trains computational investigative journalists.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Listed on Faculty of Computing & Data Sciences's co-Lab Partnerships page; not read further."
+    },
+    {
+      "id": "bu-cds-massmutual-co-lab",
+      "kind": "research-lab",
+      "lab_name": "MassMutual co-Lab",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bu.edu/cds-faculty/research-impact/labs/massmutual/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Academia-industry partnership with MassMutual launched in August 2021.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Listed on Faculty of Computing & Data Sciences's co-Lab Partnerships page; not read further."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "No page of centers or labs was cached; fetched the Research & Impact page and its co-Lab Partnerships page (2 fetches). Only the two co-Labs are listed there. The Research & Impact page also names a Cyber Security, Law, and Society Alliance, Computational Humanities, Arts, & Social Sciences (CHASS), and CDS & Public Interest, and the About page names the Hariri Institute; these appear as menu or spotlight items, not on a list of labs, so they were not recorded. The Research & Impact page labels the second co-Lab 'Responsible Use of Data Co-Lab' with a different link (https://www.bu.edu/cds-faculty/research-impact/responsible-use-of-data-co-lab/); the co-Lab page's name and link were used."
+}

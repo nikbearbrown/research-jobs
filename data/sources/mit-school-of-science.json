@@ -1,0 +1,14 @@
+{
+  "id": "mit-school-of-science",
+  "institution": "MIT",
+  "unit": "School of Science",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://science.mit.edu/",
+    "https://science.mit.edu/research-and-academics/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The cached start page had no centers list, so I fetched https://science.mit.edu/research-and-academics/ (linked from the start page; 1 fetch, text printed but it did not appear in cache/_text). Its 'Labs, Centers, and Institutes' section lists five items, all recorded. Academic departments, interdisciplinary degree programs and K-16 programs on that page were skipped. The page links a filtered view https://science.mit.edu/research-and-academics-type/labs-centers-and-institutes that I did not fetch. Left out because the directory already has them (5): Center for Sustainability Science and Strategy (target mit-cs3); Laboratory for Nuclear Science (target mit-lns); McGovern Institute for Brain Research (target mit-mcgovern); MIT Kavli Institute for Astrophysics and Space Research (target mit-kavli); The Picower Institute for Learning and Memory (target mit-picower)."
+}

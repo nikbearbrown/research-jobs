@@ -1,0 +1,42 @@
+{
+  "id": "bc-sociology",
+  "institution": "Boston College",
+  "unit": "Department of Sociology",
+  "city": "Chestnut Hill, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.bc.edu/content/bc-web/schools/morrissey/departments/sociology.html",
+    "https://www.bc.edu/content/bc-web/schools/morrissey/departments/sociology/people.html",
+    "https://www.bc.edu/content/bc-web/schools/morrissey/departments/sociology/about.html",
+    "https://www.bc.edu/content/bc-web/schools/morrissey/departments/sociology/about/open-positions.html",
+    "https://www.bc.edu/content/bc-web/schools/morrissey/departments/sociology/people/faculty-clusters.html",
+    "https://www.bc.edu/content/bc-web/schools/morrissey/departments/sociology/about/message-from-the-chairperson.html",
+    "https://www.bc.edu/content/bc-web/schools/morrissey/departments/sociology/undergraduate/research-opportunities.html"
+  ],
+  "labs": [
+    {
+      "id": "bc-sociology-org",
+      "kind": "research-lab",
+      "lab_name": "Sociology Department",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/sociology.html",
+      "location": "McGuinn Hall 426, Chestnut Hill, MA 02467",
+      "phone": "617-552-4130",
+      "admin_name": null,
+      "admin_email": "sociology@bc.edu",
+      "research_summary": "Faculty research spans advanced statistical methods, environmental, global, medical and political sociology, race, class and gender, and the sociology of development.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/sociology/undergraduate/research-opportunities.html",
+      "join_notes": "Undergraduates find research positions mainly through the university Undergraduate Research Fellowship by asking professors directly; professors must apply for funding a semester ahead (contact before March for summer, before July for fall). The Open Positions page says there are no open positions now.",
+      "profile_url": null,
+      "notes": "Department entry: member_count left null because a department is not a lab. Chair is not named on any page read (message from the chairperson is unsigned in the text); people rosters are collapsed in the cached text. The Faculty Clusters page lists 15 faculty research clusters (topic groupings, not labs); no labs or centers are listed."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read all cached pages plus 3 extra fetches (faculty clusters, chair message, undergraduate research opportunities). No labs; clusters are topic groupings."
+}

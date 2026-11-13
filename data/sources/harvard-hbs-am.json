@@ -1,0 +1,39 @@
+{
+  "id": "harvard-hbs-am",
+  "institution": "Harvard",
+  "unit": "Accounting and Management Unit (Harvard HBS)",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.hbs.edu/faculty/units/am/Pages/default.aspx",
+    "https://www.hbs.edu/faculty/units/am/Pages/faculty.aspx",
+    "https://www.hbs.edu/employment/",
+    "https://www.hbs.edu/about/Pages/default.aspx"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hbs-am-eugene-soltes",
+      "kind": "research-lab",
+      "lab_name": "Accounting & Management Unit",
+      "pi_name": "Eugene F. Soltes",
+      "pi_title": "McLean Family Professor of Business Administration; Unit Head, Accounting and Management",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.hbs.edu/faculty/units/am/Pages/default.aspx",
+      "location": "Accounting & Management Unit, Morgan Hall, Soldiers Field, Boston, MA 02163",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "A&M@hbs.edu",
+      "research_summary": "Research and teaching on how top managers use performance measurement systems, in financial reporting and analysis and management accounting.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://www.hbs.edu/employment/",
+      "join_notes": "Harvard Business School's general employment page (staff jobs apply through the Harvard careers site); it is school-wide, not specific to this unit. The unit page also carries a general call for faculty candidates in all fields.",
+      "profile_url": null,
+      "notes": "Department entry: member_count left null because a department is not a lab. Unit head and faculty list come from the unit's Faculty page. No unit staff or research-assistant roster is shown. "
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The cached people page (faculty browse) was an error page; read the unit's own Faculty page via one extra fetch. No labs listed."
+}

@@ -33,52 +33,8 @@
       "join_notes": "Only the college-wide faculty hiring page was gathered; no research-assistant page was found. The research page lists for-credit research practicum and directed study courses that need instructor permission.",
       "profile_url": null,
       "notes": "Department, not a lab: member_count left null. The chair is not named on any page read (the pages only link a Chair's Welcome). Email addresses on this site are hidden behind a protection script, so no address could be read; left null."
-    },
-    {
-      "id": "northeastern-polisci-global-resilience-institute",
-      "kind": "research-lab",
-      "lab_name": "Global Resilience Institute",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
-      "accepting_grad_students": null,
-      "lab_website": "http://www.northeastern.edu/resilience#_ga=2.260752586.672547190.1591724345-21420721.1582122299",
-      "location": null,
-      "phone": null,
-      "admin_name": null,
-      "admin_email": null,
-      "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
-      "profile_url": null,
-      "notes": "Listed under Featured Centers & Labs on the department's Research page; not read further. No lead shown."
-    },
-    {
-      "id": "northeastern-polisci-dukakis-center",
-      "kind": "research-lab",
-      "lab_name": "Kitty and Michael Dukakis Center for Urban and Regional Policy",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
-      "accepting_grad_students": null,
-      "lab_website": "http://www.northeastern.edu/dukakiscenter/#_ga=2.260752586.672547190.1591724345-21420721.1582122299",
-      "location": null,
-      "phone": null,
-      "admin_name": null,
-      "admin_email": null,
-      "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
-      "profile_url": null,
-      "notes": "Listed under Featured Centers & Labs on the department's Research page; not read further. No lead shown."
     }
   ],
   "non_lab_people": [],
-  "notes": "Research page lists two featured centers; both recorded. The research page also names Stephen Flynn as founding co-director of the George J. Kostas Research Institute for Homeland Security, but only in a faculty list, so it is not recorded as an entry."
+  "notes": "Research page lists two featured centers; both recorded. The research page also names Stephen Flynn as founding co-director of the George J. Kostas Research Institute for Homeland Security, but only in a faculty list, so it is not recorded as an entry. Left out because the directory already has them (2): Global Resilience Institute (target northeastern-gri); Kitty and Michael Dukakis Center for Urban and Regional Policy (target northeastern-dukakis)."
 }

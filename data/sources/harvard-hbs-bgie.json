@@ -1,0 +1,37 @@
+{
+  "id": "harvard-hbs-bgie",
+  "institution": "Harvard",
+  "unit": "Business, Government and the International Economy Unit (Harvard HBS)",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.hbs.edu/faculty/units/bgie/Pages/default.aspx",
+    "https://www.hbs.edu/faculty/units/bgie/Pages/faculty.aspx"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hbs-bgie-david-moss",
+      "kind": "research-lab",
+      "lab_name": "Business, Government and the International Economy Unit",
+      "pi_name": "David A. Moss",
+      "pi_title": "Paul Whiton Cherington Professor of Business Administration; Unit Head, Business, Government and the International Economy",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.hbs.edu/faculty/units/bgie/Pages/default.aspx",
+      "location": "Business, Government & the International Economy Unit, Morgan Hall, Soldiers Field, Boston, MA 02163",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "BGIE@hbs.edu",
+      "research_summary": "Faculty unit studying business, government and the international economy.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Department entry: member_count left null because a department is not a lab. Unit head and faculty list come from the unit's Faculty page. No unit staff or research-assistant roster is shown. The cached careers page (a publications search for Employment) and the faculty browse page were error or irrelevant, so no join page is recorded. A faculty member's title mentions the Bloomberg Harvard City Leadership Initiative, but the unit pages do not list it as a unit lab."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Cached people page was an error page; read the unit Faculty page via one extra fetch. The unit start page gives no summary of its own, so the summary is generic. No labs listed."
+}

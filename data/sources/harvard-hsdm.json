@@ -1,0 +1,13 @@
+{
+  "id": "harvard-hsdm",
+  "institution": "Harvard",
+  "unit": "Harvard School of Dental Medicine",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.hsdm.harvard.edu/laboratories"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The cached labs page (https://www.hsdm.harvard.edu/laboratories) is only an Akamai 'Access Denied' error, so it was not retried. No labs recorded."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "northeastern-chphr",
+  "institution": "Northeastern University",
+  "unit": "Center for Health Policy and Healthcare Research",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://chphr.northeastern.edu/",
+    "https://chphr.northeastern.edu/our-team/",
+    "https://chphr.northeastern.edu/contact-us/"
+  ],
+  "labs": [
+    {
+      "id": "northeastern-chphr-gary-j-young",
+      "kind": "research-lab",
+      "lab_name": "Center for Health Policy and Healthcare Research",
+      "pi_name": "Gary J. Young",
+      "pi_title": "Director (Professor of Strategic Management and Healthcare Systems)",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://chphr.northeastern.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Interdisciplinary Northeastern center studying the cost, quality and accessibility of healthcare, including pay-for-performance, hospital community benefits and hospital supply chains.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://chphr.northeastern.edu/our-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://damore-mckim.northeastern.edu/people/gary-j-young/",
+      "notes": "The team page lists 27 faculty associates from other Northeastern units (including the director) and no dedicated staff, so no core count was recorded. The contact page is a web form only; no email, phone or address appears on the pages read. No jobs or RA page; there is a Students page that was not read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "No careers page cached."
+}

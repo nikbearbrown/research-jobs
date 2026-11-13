@@ -1,0 +1,36 @@
+{
+  "id": "harvard-hbs",
+  "institution": "Harvard",
+  "unit": "Harvard Business School",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.hbs.edu/faculty/research/Pages/initiatives-projects.aspx"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hbs-entrepreneurship-arthur-rock-center-for-entreprene",
+      "kind": "research-lab",
+      "lab_name": "Entrepreneurship (Arthur Rock Center for Entrepreneurship)",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "http://www.hbs.edu/entrepreneurship/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Adds an entrepreneurial perspective to HBS's mission of educating leaders.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Listed on Harvard HBS's Initiatives & Projects page; not read further."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Page read fully; 20 entries recorded. The Impact-Weighted Accounts Project is described on the page as concluded in December 2022 (succeeded by IFVI, an outside body) and was not recorded. The page has a separate Global Research Centers page (https://www.hbs.edu/faculty/research/Pages/global-research-centers.aspx) that was not fetched. No leads shown on the list. Left out because the directory already has them (3): AI Institute (target harvard-hbs-ai-institute); Institute for Business in Global Society (target harvard-hbs-bigs); Laboratory for Innovation Science at Harvard (target harvard-hbs-lish). Named on the pages but given no entry, because no lead or site of their own is shown (16): Behavioral Finance and Financial Stability; Business & Environment; Business History; Case Method Project; Creating Emerging Markets; Global; Health Care; Impact Investments; Institute for Strategy and Competitiveness; Israel and the Regional Economy; Leadership; Managing the Future of Work; Private Capital Project; Race, Gender & Equity; Social Enterprise; U.S. Competitiveness."
+}

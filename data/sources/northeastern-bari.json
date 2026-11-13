@@ -1,0 +1,39 @@
+{
+  "id": "northeastern-bari",
+  "institution": "Northeastern University",
+  "unit": "Boston Area Research Initiative",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://cssh.northeastern.edu/bari",
+    "https://cssh.northeastern.edu/bari/about/",
+    "https://cssh.northeastern.edu/bari/about/research-team/",
+    "https://cssh.northeastern.edu/bari/about/people/"
+  ],
+  "labs": [
+    {
+      "id": "northeastern-bari-daniel-t-obrien",
+      "kind": "research-lab",
+      "lab_name": "Boston Area Research Initiative",
+      "pi_name": "Daniel T. O'Brien",
+      "pi_title": "Director (Professor of Public Policy and Urban Affairs and Criminology and Criminal Justice)",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://cssh.northeastern.edu/bari",
+      "location": "1135 Tremont St., Boston, MA 02120",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Civic research center that works with greater Boston communities on data-driven research for social, economic and environmental justice, and runs the Boston Data Portal.",
+      "member_count": 10,
+      "member_breakdown": "1 director, 1 associate director, 2 program and community managers, 6 current research team members (PhD, master's students and one city staff collaborator)",
+      "members_page_url": "https://cssh.northeastern.edu/bari/about/research-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://cssh.northeastern.edu/faculty/daniel-t-obrien/",
+      "notes": "Count combines the Leadership Team page (4 people) and the Research Team page (6 current members; one, Roua Atamaz Sibai, is a City of Boston staff collaborator). The contact email on the site is hidden by an email-protection script, so no address is recorded. No jobs or RA page found; the college nav links a Student Research Opportunities page that was not read. Kimberly Lucas is Associate Director for Civic Research (she is also listed at the Dukakis Center)."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Fetched the Leadership Team page (1 of 3 extra fetches)."
+}

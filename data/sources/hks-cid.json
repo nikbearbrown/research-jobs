@@ -1,0 +1,39 @@
+{
+  "id": "hks-cid",
+  "institution": "Harvard",
+  "unit": "Center for International Development",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.hks.harvard.edu/centers/cid",
+    "https://www.hks.harvard.edu/centers/cid/about-cid/people",
+    "https://www.hks.harvard.edu/centers/cid/contact-us",
+    "https://www.hks.harvard.edu/centers/cid/about-cid/jobs-opportunities"
+  ],
+  "labs": [
+    {
+      "id": "hks-cid-asim-i-khwaja",
+      "kind": "research-lab",
+      "lab_name": "Center for International Development",
+      "pi_name": "Asim I. Khwaja",
+      "pi_title": "Faculty Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.hks.harvard.edu/centers/cid",
+      "location": "79 JFK Street, Cambridge, MA 02138",
+      "phone": "+1 (617) 495-4412",
+      "admin_name": null,
+      "admin_email": "cid@harvard.edu",
+      "research_summary": "Harvard's hub for research on international development, based at Harvard Kennedy School.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.hks.harvard.edu/centers/cid/about-cid/people",
+      "join_page_url": "https://www.hks.harvard.edu/centers/cid/about-cid/jobs-opportunities",
+      "join_notes": "Jobs page lists two research fellow openings, one with Prof. Eliana La Ferrara (applications due November 16, 2026, sent by email to the address on the page) and one with Prof. Rema Hanna (applied for through a J-PAL/IPA common application; questions to cidfellowapplications@hks.harvard.edu).",
+      "profile_url": null,
+      "notes": "Fatema Z. Sumar is Executive Director. Media contact is Valerie Krempus (vkrempus@hks.harvard.edu). Member count left null: the people page names the leaders, faculty council and council members but the staff and fellows lists are collapsed and not in the cached text. No Growth Lab appears on any page read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The 'about' page used was the contact page. Growth Lab team requested in the collect note was not found on the cached pages."
+}

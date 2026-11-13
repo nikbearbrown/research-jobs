@@ -1,0 +1,38 @@
+{
+  "id": "harvard-hbs-em",
+  "institution": "Harvard",
+  "unit": "Entrepreneurial Management Unit (Harvard HBS)",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.hbs.edu/faculty/units/em/Pages/default.aspx",
+    "https://www.hbs.edu/faculty/units/em/Pages/faculty.aspx",
+    "https://www.hbs.edu/employment/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hbs-em-shai-bernstein",
+      "kind": "research-lab",
+      "lab_name": "Entrepreneurial Management Unit",
+      "pi_name": "Shai Benjamin Bernstein",
+      "pi_title": "Steven R. Fenster Professor of Business Administration; Unit Head, Entrepreneurial Management",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.hbs.edu/faculty/units/em/Pages/default.aspx",
+      "location": "Entrepreneurial Management Unit, Rock Center, Soldiers Field, Boston, MA 02163",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "EM@hbs.edu",
+      "research_summary": "Faculty unit studying entrepreneurial activity, including innovation, the finance of entrepreneurship and its historical and legal context.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://www.hbs.edu/employment/",
+      "join_notes": "Harvard Business School's general employment page (staff jobs apply through the Harvard careers site); it is school-wide, not specific to this unit. The unit page also carries a general call for faculty candidates in all fields.",
+      "profile_url": null,
+      "notes": "Department entry: member_count left null because a department is not a lab. Unit head and faculty list come from the unit's Faculty page. No unit staff or research-assistant roster is shown. "
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Cached people page was an error page; read the unit Faculty page via one extra fetch. Center entry is low confidence. Left out because the directory already has them (1): Arthur Rock Center for Entrepreneurship."
+}

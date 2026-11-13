@@ -1,0 +1,40 @@
+{
+  "id": "bu-sociology",
+  "institution": "Boston University",
+  "unit": "Department of Sociology",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.bu.edu/sociology/",
+    "https://www.bu.edu/sociology/people/faculty/",
+    "https://www.bu.edu/sociology/about/",
+    "https://www.bu.edu/sociology/research/affiliate-institutions/",
+    "https://www.bu.edu/sociology/about/contact-us/"
+  ],
+  "labs": [
+    {
+      "id": "bu-sociology-japonica-brown-saracino",
+      "kind": "research-lab",
+      "lab_name": "Department of Sociology",
+      "pi_name": "Japonica Brown-Saracino",
+      "pi_title": "Professor and Chair",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "http://www.bu.edu/sociology/",
+      "location": "100 Cummington Mall, Room 260, Boston, MA 02215",
+      "phone": "617.353.2591",
+      "admin_name": null,
+      "admin_email": "socdept@bu.edu",
+      "research_summary": "Sociology department with strengths in health and medicine, urban sociology and housing, law and incarceration, race, gender and class, and global sociology.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bu.edu/sociology/profile/japonica-brown-saracino/",
+      "notes": "Department entry: member_count left null because a department is not a lab. Contact page spells the chair's name 'Japonica Brown Saracino'. Department Administrator is Elise St. Esprit (email not shown; the general address is socdept@bu.edu). The Affiliate Institutions page lists university units where sociology faculty hold appointments (Center for Innovation in Social Science, Initiative on Cities, Pardee Center, GDP Center, CDS, AMNESP, WGS); these belong to other units, not the department, so none are recorded. No RA or jobs page found."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read all cached pages plus 2 extra fetches (affiliate institutions, contact). No department-run labs."
+}

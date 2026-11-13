@@ -1,0 +1,36 @@
+{
+  "id": "harvard-gsd",
+  "institution": "Harvard",
+  "unit": "Harvard Graduate School of Design",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.gsd.harvard.edu/research/groups-and-labs/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-gsd-harvard-mellon-urban-initiative",
+      "kind": "research-lab",
+      "lab_name": "Harvard Mellon Urban Initiative",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mellonurbanism.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Listed on Harvard GSD's Research Groups and Labs page; not read further. Named under the Initiatives menu on the page; no blurb shown."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Page read fully. The seven groups and labs have blurbs; the two centers and three initiatives appear only as menu links on the same page (no blurbs). The page also mentions metaLAB (a program of the Berkman Center, link https://metalabharvard.github.io/) as a collaborator, not recorded as a GSD lab. The Projects menu item and the Wheelwright Prize link were not recorded. No leads shown. Other pages (people, careers) not needed for this task. Left out because the directory already has them (10): Grinham Research Group (target harvard-gsd-grg); Healthy Places Lab (target harvard-gsd-healthy-places); Just City Lab (target harvard-gsd-just-city); Material Processes and Systems Group (target harvard-gsd-maps); Office for Urbanization (target harvard-gsd-urbanization); Responsive Environments and Artifacts Lab (target harvard-gsd-real); Laboratory for Values in the Built Environment (target harvard-gsd-vibe); Harvard Center for Green Buildings and Cities (target harvard-gsd-cgbc); Joint Center for Housing Studies (target harvard-jchs); Laboratory for Design Technologies (target harvard-gsd-ldt). Named on the pages but given no entry, because no lead or site of their own is shown (1): Aga Khan Program."
+}

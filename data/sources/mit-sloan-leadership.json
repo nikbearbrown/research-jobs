@@ -1,0 +1,38 @@
+{
+  "id": "mit-sloan-leadership",
+  "institution": "MIT",
+  "unit": "MIT Leadership Center",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://mitsloan.mit.edu/centers-initiatives/mit-leadership-center/welcome",
+    "https://mitsloan.mit.edu/centers-initiatives/mit-leadership-center/our-people-mit-leadership-center",
+    "https://mitsloan.mit.edu/work-mit-sloan"
+  ],
+  "labs": [
+    {
+      "id": "mit-sloan-leadership-nelson-repenning",
+      "kind": "research-lab",
+      "lab_name": "MIT Leadership Center",
+      "pi_name": "Nelson P. Repenning",
+      "pi_title": "Faculty Director; School of Management Distinguished Professor of System Dynamics and Organization Studies",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mitsloan.mit.edu/centers-initiatives/mit-leadership-center/welcome",
+      "location": "50 Memorial Drive, Suite 255, Cambridge, MA 02142",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "mitleadership@mit.edu",
+      "research_summary": "An academic center at MIT Sloan that runs courses and programs to develop students' leadership through self-knowledge and collaboration.",
+      "member_count": 6,
+      "member_breakdown": "1 faculty director, 1 director, 1 associate director, 1 assistant director, 1 executive coach lead, 1 senior administrative assistant",
+      "members_page_url": "https://mitsloan.mit.edu/centers-initiatives/mit-leadership-center/our-people-mit-leadership-center",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://mitsloan.mit.edu/faculty/directory/nelson-p-repenning",
+      "notes": "Director is Abby Berenson. Tracy Purinton is listed as Advisor (a Sloan senior lecturer) and was left out of the count; the page also lists an advisory board and separate pages for executive coaches and faculty, not counted. No center-specific jobs page was found."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The only careers page read is the school-wide MIT Sloan Work page (links to MIT staff and Sloan faculty openings); it has nothing specific to this center, so join_page_url is null."
+}
