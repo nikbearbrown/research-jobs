@@ -12,8 +12,8 @@
       "id": "bu-eng-biomolecular-engineering-research-center",
       "kind": "research-lab",
       "lab_name": "Biomolecular Engineering Research Center",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Sandor Vajda",
+      "pi_title": "Director, Biomolecular Engineering Research Center",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "http://bmerc-www.bu.edu/",
@@ -22,21 +22,21 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Develops computational methods to analyze and design biological macromolecules.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 7,
+      "member_breakdown": "1 director, 6 core faculty",
+      "members_page_url": "https://www.bu.edu/bmerc/affiliates/",
+      "join_page_url": "https://www.bu.edu/bmerc/contact/positions-available/",
+      "join_notes": "Postdoc posting in computational biophysics (2019). Grad students apply to BU Biomedical Engineering or Chemistry and may contact BMERC first.",
       "profile_url": null,
-      "notes": "Listed on College of Engineering's Research Centers & Institutes page; not read further."
+      "notes": "Listed on College of Engineering's Research Centers & Institutes page; not read further. Depth pass 2026-11-13: Count is the director plus the 6 'Core BMERC Faculty'; the 9 affiliated faculty are left out. Page is old (positions posted 2019); core faculty hold appointments in other departments."
     },
     {
       "id": "bu-eng-center-for-computational-science",
       "kind": "research-lab",
       "lab_name": "Center for Computational Science",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
+      "pi_name": "David Coker",
+      "pi_title": "Professor of Chemistry, Director of the Center for Computational Science",
+      "pi_email": "coker@bu.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.bu.edu/hic/centers-initiatives-labs/center-for-computational-science/",
       "location": null,
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on College of Engineering's Research Centers & Institutes page; not read further."
+      "notes": "Listed on College of Engineering's Research Centers & Institutes page; not read further. Depth pass 2026-11-13: Cached center page only redirects; the new page names the director and gives his email but lists no members, so no count."
     },
     {
       "id": "bu-eng-center-for-semiconductor-materials-and-devices-modeling",
@@ -64,7 +64,7 @@
       "location": null,
       "phone": null,
       "admin_name": null,
-      "admin_email": null,
+      "admin_email": "csmdm@bu.edu",
       "research_summary": "Brings together government, academia and industry.",
       "member_count": null,
       "member_breakdown": null,
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on College of Engineering's Research Centers & Institutes page; not read further."
+      "notes": "Listed on College of Engineering's Research Centers & Institutes page; not read further. Depth pass 2026-11-13: Army Research Laboratory and BU consortium page (latest item 2018); no lead or staff named, so no count."
     }
   ],
   "non_lab_people": [],

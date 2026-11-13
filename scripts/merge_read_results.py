@@ -11,7 +11,7 @@ write a results list. Before `depth_pass.py apply` this:
     was really read: one of the worklist's own addresses, or a page in the
     fetch cache whose recorded address matches. An address that fails is
     dropped (a count then falls back to the worklist's people page);
-  - turns the readers' `HUB:` / `DEAD:` triage tags into plain sentences;
+  - turns the readers' `HUB:` / `DEAD:` / `NOT-A-LAB:` triage tags into plain sentences;
   - --null-count drops a count the main session decided not to keep, with the
     reason put in the note (the note keeps the number the page lists).
 It prints the HUB and DEAD items so they can be reviewed by eye.
@@ -73,7 +73,7 @@ def main():
             print("BAD COUNT", r["lab_id"], count)
         if f.get("kind"):
             print("KIND", r["lab_id"], f["kind"], "|", note[:150])
-        m = re.match(r"^(HUB|DEAD):\s*", note)
+        m = re.match(r"^(HUB|DEAD|NOT-A-LAB):\s*", note)
         tag = m.group(1) if m else ("count" if count is not None else "null")
         if m:
             note = note[m.end():]
@@ -83,7 +83,9 @@ def main():
                 print("TAGGED BUT COUNTED", r["lab_id"])
             if tag == "DEAD" and re.search(r"access denied|403|request.blocked", note, re.I):
                 note += " The site refuses the project's fetcher; not worked around."
-            note = ("Not sized, the site is not one PI's own group: " if tag == "HUB" else "Not sized, the site could not be read: ") + note
+            lead_in = {"HUB": "Not sized, the site is not this unit's own: ", "DEAD": "Not sized, the site could not be read: ",
+                       "NOT-A-LAB": "Not sized, this is not a research group: "}[tag]
+            note = lead_in + note
             flagged.append(f"  {tag} {r['lab_id']} | {w.get('lab_website')} | {note[:150]}")
         if r["lab_id"] in nullc:
             f["member_count"] = f["member_breakdown"] = None

@@ -13,8 +13,8 @@
       "id": "northeastern-cssh-arts-and-humanities-social-action-lab",
       "kind": "research-lab",
       "lab_name": "Arts and Humanities Social Action Lab",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Kris Manjapra",
+      "pi_title": "Director",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://cssh.northeastern.edu/ahalab/",
@@ -29,14 +29,14 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further."
+      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further. Depth pass 2026-11-13: Lab site names Kris Manjapra as Director; the Leadership page (fetched) lists only him and no other members, so count left null."
     },
     {
       "id": "northeastern-cssh-brudnick-center-for-the-study-of-violence-conflict",
       "kind": "research-lab",
       "lab_name": "Brudnick Center for the Study of Violence & Conflict",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Gordana Rabrenovic",
+      "pi_title": "Director",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://cssh.northeastern.edu/brudnickcenter/",
@@ -51,11 +51,11 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further."
+      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further. Depth pass 2026-11-13: Center site; the fetched About page captions Gordana Rabrenovic as Director and Jack Levin as Founder; the people page lists only affiliated faculty (Boston and London), no core staff, so count null."
     },
     {
       "id": "northeastern-cssh-center-for-atypical-language-interpreting",
-      "kind": "research-lab",
+      "kind": "faculty-no-lab",
       "lab_name": "Center for Atypical Language Interpreting",
       "pi_name": null,
       "pi_title": null,
@@ -73,14 +73,14 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further."
+      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further. Depth pass 2026-11-13: Not sized, this is not a research group: Federally funded interpreter-training program (grant ended Sept 30, 2026, site no longer updated); no lead or member roster named. Depth pass 2026-11-13: kind set to faculty-no-lab: reading its site showed it is a clinic, teaching or outreach program, or has closed, not a research group."
     },
     {
       "id": "northeastern-cssh-center-for-international-affairs-and-world-culture",
       "kind": "research-lab",
       "lab_name": "Center for International Affairs and World Cultures",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Mai'a Cross",
+      "pi_title": "Dean's Professor of Political Science, International Affairs, and Diplomacy; Director",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://cssh.northeastern.edu/internationalcenter/",
@@ -89,20 +89,20 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Studies international institutions and processes.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 director, 2 graduate fellows, 1 administrative coordinator",
+      "members_page_url": "https://cssh.northeastern.edu/internationalcenter/community/our-staff/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further."
+      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further. Depth pass 2026-11-13: Count from the Center Team section of the staff page: director Mai'a Cross, 2 graduate fellows, 1 administrative coordinator."
     },
     {
       "id": "northeastern-cssh-ethics-institute",
       "kind": "research-lab",
       "lab_name": "Ethics Institute",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Ronald Sandler",
+      "pi_title": "Institute Director",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://cssh.northeastern.edu/ethics/",
@@ -117,14 +117,14 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further."
+      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further. Depth pass 2026-11-13: Institute site names Ronald Sandler as Institute Director; the people page shows only section headings (Leadership, Faculty, Affiliated Researchers, Staff) with no names, so count left null."
     },
     {
       "id": "northeastern-cssh-humanities-center",
       "kind": "research-lab",
       "lab_name": "Humanities Center",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Simon Rabinovitch",
+      "pi_title": "Stotsky Professor of Jewish Historical and Cultural Studies; Director of the Humanities Center, Boston",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://cssh.northeastern.edu/humanities",
@@ -133,13 +133,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Programming and research on history, literature and culture.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 6,
+      "member_breakdown": "3 directors (Boston, Oakland, London), 1 associate director, 1 assistant director, 1 digital projects archivist",
+      "members_page_url": "https://cssh.northeastern.edu/humanities/our-team/",
+      "join_page_url": "https://cssh.northeastern.edu/humanities/humanities-in-action-research-assistantships/",
+      "join_notes": "Undergraduate Humanities in Action research assistantships on the center's Signature Projects (13 students in the inaugural 2025-26 year); the page did not show application steps. The center also runs a Global Fellowship program with applications due March 1 (listed on the home page).",
       "profile_url": null,
-      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further."
+      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further. Depth pass 2026-11-13: Count from the fetched Our Team page (Current Team section): 3 campus directors, associate director, assistant director and digital projects archivist."
     },
     {
       "id": "northeastern-cssh-institute-for-health-equity-and-social-justice-res",
@@ -161,7 +161,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further."
+      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further. Depth pass 2026-11-13: Not sized, the site could not be read: The cached page is just the CSSH college home page (the institute page redirects there), so nothing about the institute could be read."
     },
     {
       "id": "northeastern-cssh-integrated-initiative-for-global-health",
@@ -183,14 +183,14 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further."
+      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further. Depth pass 2026-11-13: Initiative site has no people roster and no director named; the Contacts page (fetched) lists Prof. Michael Pollastri and Prof. Richard Wamai as contacts without saying they lead it, so lead and count left null."
     },
     {
       "id": "northeastern-cssh-nulab-for-digital-humanities-and-computational-soc",
       "kind": "research-lab",
       "lab_name": "NULab for Digital Humanities and Computational Social Science",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Moira Zellner",
+      "pi_title": "Co-Director, NULab for Digital Humanities and Computational Social Science",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://web.northeastern.edu/nulab/",
@@ -202,17 +202,17 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "join_page_url": "https://cssh.northeastern.edu/nulab/about/get-involved/",
+      "join_notes": "Northeastern faculty, postdocs and research scientists using digital or computational methods can become NULab affiliates by emailing the center with a short description of their research interests; students can take the Graduate Certificate in Digital Humanities or work with the Digital Integration Teaching Initiative.",
       "profile_url": null,
-      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further."
+      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further. Depth pass 2026-11-13: Center site; Faculty and Staff page (fetched) shows Moira Zellner as Co-Director with Julia Flanders, Sarah Connell (Associate Director) and Sean Rogers (Assistant Director) under Leadership, plus many affiliated faculty across units, so the core group is not clear and count is null."
     },
     {
       "id": "northeastern-cssh-social-impact-lab",
-      "kind": "research-lab",
+      "kind": "faculty-no-lab",
       "lab_name": "Social Impact Lab",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Rebecca Riccio",
+      "pi_title": "Founder and Juffali Family Director",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://cssh.northeastern.edu/impactlab/",
@@ -227,7 +227,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further."
+      "notes": "Listed on College of Social Sciences and Humanities's Research Centers page; not read further. Depth pass 2026-11-13: Not sized, this is not a research group: Social Impact Lab is a teaching and community-engagement program (experiential philanthropy, ethical community engagement, fellowship); site names Rebecca Riccio as Founder and Director but has no roster. Depth pass 2026-11-13: kind set to faculty-no-lab: reading its site showed it is a clinic, teaching or outreach program, or has closed, not a research group."
     }
   ],
   "non_lab_people": [],

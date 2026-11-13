@@ -12,8 +12,8 @@
       "id": "northeastern-coe-protect-center",
       "kind": "research-lab",
       "lab_name": "PROTECT Center",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Akram Alshawabkeh",
+      "pi_title": "Principal Investigator and Co-Director, PROTECT Research Center",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://coe.northeastern.edu/coe-research/research-centers-institutes/puerto-rico-testsite-for-exploring-contamination-threats-protect/",
@@ -24,11 +24,11 @@
       "research_summary": "NIH Superfund Research Center studying environmental contamination in Puerto Rico and its link to preterm birth.",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://coe.northeastern.edu/people/alshawabkeh-akram/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Depth pass 2026-11-13: College of Engineering page for the center; it gives only the contact (PI and co-director), no roster of the center's people."
     },
     {
       "id": "northeastern-coe-ai-institute-for-future-edge-networks-and-distributed-intelligence",
@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Northeastern is a partner."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Northeastern is a partner. Depth pass 2026-11-13: Not sized, the site is not this unit's own: College page for an NSF AI institute led by Ohio State; Northeastern's faculty co-director is Tommaso Melodia, no roster."
     },
     {
       "id": "northeastern-coe-center-for-hardware-and-embedded-systems-security-and-trust",
@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Northeastern is a partner."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Northeastern is a partner. Depth pass 2026-11-13: Not sized, the site is not this unit's own: College page for a six-university NSF center (CHEST); only Northeastern's site director Yunsi Fei is named, no roster."
     },
     {
       "id": "northeastern-coe-center-for-solid-state-electric-power-storage",
@@ -91,17 +91,17 @@
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "join_page_url": "https://www.greenceps.com/student-recruitment",
+      "join_notes": "Students interested in joining are told to contact the supervisor at their own university; no named contact.",
       "profile_url": null,
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Northeastern is a partner."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Northeastern is a partner. Depth pass 2026-11-13: Own site of a three-university NSF center; the management structure is not shown as text and no leader or roster is named; Student Recruitment page says to contact the supervisor at your university."
     },
     {
       "id": "northeastern-coe-archimedes-center-for-healthcare-and-device-security",
       "kind": "research-lab",
       "lab_name": "Archimedes Center for Healthcare and Device Security",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Kevin Fu",
+      "pi_title": "Professor, Director",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://www.secure-medicine.org/",
@@ -110,20 +110,20 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Helps device makers handle cybersecurity hazards and FDA requirements.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 6,
+      "member_breakdown": "1 director, 1 executive director, 1 operations manager/deputy director, 1 PATCH program manager, 1 grants and operations manager, 1 marketing and communications lead",
+      "members_page_url": "https://www.secure-medicine.org/about",
+      "join_page_url": "https://www.secure-medicine.org/join-us",
+      "join_notes": "Join is an organisation/individual membership, sponsorship or speaker request (not student or staff openings); a contact form is linked.",
       "profile_url": null,
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Depth pass 2026-11-13: Count of 6 is the 'Leadership' section on the About page (director, executive director, operations manager, PATCH program manager, grants manager, marketing lead)."
     },
     {
       "id": "northeastern-coe-center-of-advanced-materials-for-resiliency",
       "kind": "research-lab",
       "lab_name": "Center of Advanced Materials for Resiliency",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Randall Erb",
+      "pi_title": "CAMR Director",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://advancedmaterials.sites.northeastern.edu/",
@@ -134,19 +134,19 @@
       "research_summary": "Materials innovation to improve U.S. resiliency, with technology transfer and workforce training.",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://advancedmaterials.sites.northeastern.edu/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Depth pass 2026-11-13: Center's own site; Team page lists the director and about 32 faculty and scientists from many departments sorted by thrust, so no core count."
     },
     {
       "id": "northeastern-coe-cross-college-magnetics-center",
       "kind": "research-lab",
       "lab_name": "Cross-College Magnetics Center",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
+      "pi_name": "Mingzhong Wu",
+      "pi_title": "Director",
+      "pi_email": "min.wu@northeastern.edu",
       "accepting_grad_students": null,
       "lab_website": "https://crosscollegemagneticscenter.sites.northeastern.edu/",
       "location": null,
@@ -156,19 +156,19 @@
       "research_summary": "Interdisciplinary magnetic science and technology with industry and government partners.",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://magnetics.center.northeastern.edu/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Depth pass 2026-11-13: Center's own site; the Members page lists faculty members from several departments (the home page says 22), no staff or students, so no core count."
     },
     {
       "id": "northeastern-coe-the-plastics-center",
       "kind": "research-lab",
       "lab_name": "The Plastics Center",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
+      "pi_name": "Maria Ivanova",
+      "pi_title": "Co-Director (also Director of the School of Public Policy and Urban Affairs)",
+      "pi_email": "m.ivanova@northeastern.edu",
       "accepting_grad_students": null,
       "lab_website": "https://plastics.sites.northeastern.edu/",
       "location": null,
@@ -178,18 +178,18 @@
       "research_summary": "Research and policy work against plastic pollution with partners including institutions in the Global South.",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://plastics.sites.northeastern.edu/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Depth pass 2026-11-13: Center's own site; Our Team page lists two co-directors, a coordinator, fellows and many affiliated faculty from other units, so no core count; co-director Aron Stubbins also named."
     },
     {
       "id": "northeastern-coe-center-for-signal-processing-imaging-reasoning-and-learning",
       "kind": "research-lab",
       "lab_name": "Center for Signal Processing, Imaging, Reasoning, and Learning",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Pau Closas",
+      "pi_title": "Co-Director",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://coe.northeastern.edu/coe-research/research-centers-institutes/center-for-signal-processing-imaging-reasoning-and-learning-spiral/",
@@ -200,18 +200,18 @@
       "research_summary": "Research on computational modeling, computer vision, machine learning, optimization and signal processing.",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://coe.northeastern.edu/people/ostadabbas-sarah/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Depth pass 2026-11-13: College page for the center; it lists participating labs and the two co-directors, no staff roster; co-director Sarah Ostadabbas also named."
     },
     {
       "id": "northeastern-coe-physical-ai-research-initiative",
       "kind": "research-lab",
       "lab_name": "Physical AI Research (PAIR) Initiative",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Edmund Yeh",
+      "pi_title": "PAIR Director and Professor & Chair, ECE",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://pair.sites.northeastern.edu/",
@@ -222,18 +222,18 @@
       "research_summary": "Physical AI that lets systems perceive, reason and act safely in the physical world.",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://pair.sites.northeastern.edu/pair-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Depth pass 2026-11-13: Initiative's own site; the Members page lists about 35 primary members, all faculty from many departments, so no core count."
     },
     {
       "id": "northeastern-coe-dublin-innovation-institute",
       "kind": "research-lab",
       "lab_name": "Dublin Innovation Institute",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Shashi Murthy",
+      "pi_title": "Vice Provost for Global Innovation and Head of Dublin Innovation Institute",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://dublininstitute.northeastern.edu/",
@@ -244,11 +244,11 @@
       "research_summary": "Research on responsible technology, health, sustainability, AI and advanced manufacturing.",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://dublininstitute.northeastern.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'COE Researchers Are Active in Northeastern Research Institutes'."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'COE Researchers Are Active in Northeastern Research Institutes'. Depth pass 2026-11-13: Institute's own site; People page lists three leadership/administration people and nine affiliated faculty, no core staff or researchers, so no count."
     },
     {
       "id": "northeastern-coe-academic-center-for-reliability-and-resilience-of-offshore-wind",
@@ -270,7 +270,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'. Depth pass 2026-11-13: Not sized, the site is not this unit's own: College page for a multi-university DOE consortium (ARROW); only Northeastern's industry lead Andrew Myers is named, no roster."
     },
     {
       "id": "northeastern-coe-bernard-m-gordon-center-for-subsurface-sensing-and-imaging-systems",
@@ -288,11 +288,11 @@
       "research_summary": "NSF Engineering Research Center on detecting objects underground, underwater or inside cells and bodies.",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://coe.northeastern.edu/people/silevitch-michael/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'. Depth pass 2026-11-13: College page for a graduated NSF center (Gordon-CenSSIS) and ALERT; it lists associated faculty, no named CenSSIS director and no roster."
     },
     {
       "id": "northeastern-coe-center-for-high-rate-nanomanufacturing",
@@ -310,11 +310,11 @@
       "research_summary": "NSF center that developed tools for high-rate assembly of nanoelements.",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://coe.northeastern.edu/people/busnaina-ahmed/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://coe.northeastern.edu/people/busnaina-ahmed/",
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'. Depth pass 2026-11-13: College page for a graduated NSF center led by Northeastern; only the contact is shown, no roster."
     },
     {
       "id": "northeastern-coe-center-for-nano-and-microcontamination-control",
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://coe.northeastern.edu/people/busnaina-ahmed/",
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'. Depth pass 2026-11-13: Center's own site; research and industry pages name no director and no people."
     },
     {
       "id": "northeastern-coe-center-for-research-on-early-childhood-exposure-and-development-in-pue",
@@ -344,7 +344,7 @@
       "lab_name": "Center for Research on Early Childhood Exposure and Development in Puerto Rico",
       "pi_name": "Akram Alshawabkeh",
       "pi_title": "Director",
-      "pi_email": null,
+      "pi_email": "a.alshawabkeh@northeastern.edu",
       "accepting_grad_students": null,
       "lab_website": "https://crece.sites.northeastern.edu/",
       "location": null,
@@ -354,11 +354,11 @@
       "research_summary": "Children's Environmental Health Center studying environmental exposures and child development in Puerto Rico.",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://crece.sites.northeastern.edu/team-2/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://coe.northeastern.edu/people/alshawabkeh-akram/",
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'. Depth pass 2026-11-13: Center's own team page (multi-institution, photo caption names 2020-era staff) lists administrators, project leaders and advisors from many universities, so no core count."
     },
     {
       "id": "northeastern-coe-center-for-translational-applications-of-nanoscale-multiferroic-system",
@@ -380,7 +380,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://coe.northeastern.edu/people/sun-nian-xiang/",
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'. Page names him as Northeastern Director."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'. Page names him as Northeastern Director. Depth pass 2026-11-13: Not sized, the site is not this unit's own: College page for a UCLA-led NSF center (TANMS); only a Northeastern contact is shown, no roster."
     },
     {
       "id": "northeastern-coe-center-for-ultra-wide-area-resilient-electric-energy-transmission-netw",
@@ -402,7 +402,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://coe.northeastern.edu/people/abur-ali/",
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'. Page names him as Northeastern Director."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'. Page names him as Northeastern Director. Depth pass 2026-11-13: Not sized, the site is not this unit's own: College page for a University of Tennessee-led NSF center (CURENT); only Northeastern director Ali Abur is shown, no roster."
     },
     {
       "id": "northeastern-coe-healthcare-systems-engineering-institute",
@@ -420,11 +420,11 @@
       "research_summary": "Applies industrial and systems engineering improvement methods in healthcare organizations.",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://coe.northeastern.edu/people/benneyan-james/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://coe.northeastern.edu/people/benneyan-james/",
-      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'."
+      "notes": "Listed on Northeastern College of Engineering's Research Centers & Institutes page; not read further. Listed under 'Legacy Research Centers'. Depth pass 2026-11-13: College page for an institute led by Northeastern; only the contact is shown, no roster."
     }
   ],
   "non_lab_people": [],

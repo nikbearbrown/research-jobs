@@ -13,30 +13,30 @@
       "id": "tufts-medicine-maternal-health",
       "kind": "research-lab",
       "lab_name": "Center for Maternal Health Advancement",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Ndidiamaka Amutah-Onukagha, PhD, MPH",
+      "pi_title": "Founder & Executive Director, Center for Maternal Health Advancement; Julia A. Okoro Professor of Black Maternal Health",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://blackmaternalhealth.tufts.edu/",
       "location": null,
       "phone": null,
       "admin_name": null,
-      "admin_email": null,
+      "admin_email": "blackmaternalhealth@tufts.edu",
       "research_summary": "Community-engaged research emphasizing maternal health.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 9,
+      "member_breakdown": "1 executive director, 4 unit leads, 2 staff, 2 postdoctoral research fellows (students excluded, roster rotates)",
+      "members_page_url": "https://maternalhealthadvancement.tufts.edu/people",
+      "join_page_url": "https://maternalhealthadvancement.tufts.edu/get-involved",
+      "join_notes": "Get Involved page says students, researchers and volunteers are welcome to join the MOTHER Lab; contact by the page's form or by email.",
       "profile_url": null,
-      "notes": "Listed on School of Medicine's Research Centers page; not read further."
+      "notes": "Listed on School of Medicine's Research Centers page; not read further. Depth pass 2026-11-13: Count from fetched people page: executive director, 4 unit leads, 2 staff, 2 postdoctoral research fellows; student roster rotates and was left out."
     },
     {
       "id": "tufts-medicine-science-education",
       "kind": "research-lab",
       "lab_name": "Center for Science Education",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Berri Jacque, PhD",
+      "pi_title": "Director, Center for Science Education; Associate Professor, Department of Medical Education",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://sites.tufts.edu/ctse/",
@@ -45,21 +45,21 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Links biomedical scientists with high school educators to bring health and disease science into classrooms.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 7,
+      "member_breakdown": "7 listed current people: director, co-directors, associate director, research assistant/program manager (alumni excluded)",
+      "members_page_url": "https://sites.tufts.edu/ctse/people/",
+      "join_page_url": "https://sites.tufts.edu/ctse/undergraduate-internships/",
+      "join_notes": "Undergraduate internships page describes the STEM+M CONNECT paid 8-week summer internship for Tufts sophomores and juniors (research lab or clinical observership); apply through that page.",
       "profile_url": null,
-      "notes": "Listed on School of Medicine's Research Centers page; not read further."
+      "notes": "Listed on School of Medicine's Research Centers page; not read further. Depth pass 2026-11-13: Count from People page: 2 directors/co-directors plus associate director, PARE director, co-director, program manager and a webmaster-director; alumni excluded."
     },
     {
       "id": "tufts-medicine-cochrane-us",
       "kind": "research-lab",
       "lab_name": "Cochrane US Tufts University Affiliate",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
+      "pi_name": "Shayesteh Jahanfar",
+      "pi_title": "Director, Tufts Affiliate of Cochrane US",
+      "pi_email": "Shayesteh.Jahanfar@tufts.edu",
       "accepting_grad_students": null,
       "lab_website": "https://sites.tufts.edu/uscochranenetwork/",
       "location": null,
@@ -69,18 +69,18 @@
       "research_summary": "Supports clinicians, policymakers, patients and media in using Cochrane evidence.",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://sites.tufts.edu/uscochranenetwork/contact-us/",
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Contact page says to direct all inquiries to the director by email; training questions go to her or Carson Kingsbury.",
       "profile_url": null,
-      "notes": "Listed on School of Medicine's Research Centers page; not read further."
+      "notes": "Listed on School of Medicine's Research Centers page; not read further. Depth pass 2026-11-13: People page lists the director, 5 faculty/leaders from other units, and fellows; count left null because the staff and faculty group is not clearly core."
     },
     {
       "id": "tufts-medicine-grasp",
       "kind": "research-lab",
       "lab_name": "Gastroenterology Research on Absorptive and Secretory Processes (GRASP) Center",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Andrew G. Plaut",
+      "pi_title": "MD, Director, GRASP Center",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://www.tuftsmedicine.org/research-clinical-trials/research-institutes-department-research/gastroenterology-research/grasp-center",
@@ -95,14 +95,14 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on School of Medicine's Research Centers page; not read further."
+      "notes": "Listed on School of Medicine's Research Centers page; not read further. Depth pass 2026-11-13: No roster on page: it says four core laboratories support about 35-40 physician-researchers, which is an approximation not a list; count null."
     },
     {
       "id": "tufts-medicine-khodadad",
       "kind": "research-lab",
       "lab_name": "The Ghahreman Khodadad Center for the Study of Excessive Pathological Selfishness",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Philip Haydon, PhD",
+      "pi_title": "Founding Director, Khodadad Center; Annetta and Gustav Grisard Professor of Neuroscience",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://medicine.tufts.edu/research/research-labs-centers/research-centers/khodadad-center",
@@ -117,7 +117,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on School of Medicine's Research Centers page; not read further."
+      "notes": "Listed on School of Medicine's Research Centers page; not read further. Depth pass 2026-11-13: Page shows a founding director message and a list of funded researchers (faculty from other units); no core roster, so count null. Current director not stated."
     },
     {
       "id": "tufts-medicine-icrhps",
@@ -131,29 +131,29 @@
       "location": null,
       "phone": null,
       "admin_name": null,
-      "admin_email": null,
+      "admin_email": "icrhpsinfo@tuftsmedicine.org",
       "research_summary": "Fosters clinical research, collaboration and training aimed at better health care delivery.",
       "member_count": null,
       "member_breakdown": null,
       "members_page_url": null,
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Page has a Career opportunities link (not read); general contact icrhpsinfo@tuftsmedicine.org.",
       "profile_url": null,
-      "notes": "Listed on School of Medicine's Research Centers page; not read further."
+      "notes": "Listed on School of Medicine's Research Centers page; not read further. Depth pass 2026-11-13: Institute page lists 9 member centers and a careers link but no director or roster; count null."
     },
     {
       "id": "tufts-medicine-mcri",
       "kind": "research-lab",
       "lab_name": "Molecular Cardiology Research Institute (MCRI)",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Iris Jaffe, MD, PhD",
+      "pi_title": "Executive Director, Molecular Cardiology Research Institute",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://www.tuftsmedicine.org/research-clinical-trials/research-institutes-department-research/molecular-cardiology-research-institute-mcri",
       "location": null,
       "phone": null,
       "admin_name": null,
-      "admin_email": null,
+      "admin_email": "mcri@tuftsmedicalcenter.org",
       "research_summary": "Studies mechanisms of cardiovascular disease to develop new diagnostics and treatments.",
       "member_count": null,
       "member_breakdown": null,
@@ -161,7 +161,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on School of Medicine's Research Centers page; not read further."
+      "notes": "Listed on School of Medicine's Research Centers page; not read further. Depth pass 2026-11-13: Page says 12 principal investigators and more than 40 researchers and trainees but gives no roster; count null."
     },
     {
       "id": "tufts-medicine-otolaryngology",
@@ -183,15 +183,15 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on School of Medicine's Research Centers page; not read further."
+      "notes": "Listed on School of Medicine's Research Centers page; not read further. Depth pass 2026-11-13: Not sized, the site is not this unit's own: Department research page on the Tufts Medicine site (otolaryngology research and publication list); no lead or roster."
     },
     {
       "id": "tufts-medicine-neuroscience",
-      "kind": "research-lab",
+      "kind": "core-facility",
       "lab_name": "Tufts Center for Neuroscience Research",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
+      "pi_name": "Grant Weiss, PhD",
+      "pi_title": "Director, Center for Neuroscience Research; Research Assistant Professor of Neuroscience",
+      "pi_email": "grant.weiss@tufts.edu",
       "accepting_grad_students": null,
       "lab_website": "https://medicine.tufts.edu/research/research-labs-centers/core-research-facilities/center-neuroscience-research-circuits-and-behavior-core",
       "location": null,
@@ -205,7 +205,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on School of Medicine's Research Centers page; not read further."
+      "notes": "Listed on School of Medicine's Research Centers page; not read further. Depth pass 2026-11-13: Not sized, this is not a research group: Center for Neuroscience Research is a core research facility (genomics, imaging, behavior cores) serving Tufts neuroscientists; page lists a director, billing contact and steering committee. Depth pass 2026-11-13: kind set to core-facility: reading its site showed it is a service or core facility, not a research group."
     },
     {
       "id": "tufts-medicine-informid",
@@ -227,14 +227,14 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on School of Medicine's Research Centers page; not read further."
+      "notes": "Listed on School of Medicine's Research Centers page; not read further. Depth pass 2026-11-13: Team page groups 3 founding members (2 at other universities), senior fellows and about a dozen student fellows with no staff/lead roles; no director named, so count null."
     },
     {
       "id": "tufts-medicine-lyme",
       "kind": "research-lab",
       "lab_name": "Tufts Lyme Disease Initiative",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Linden Hu and Robert Smith",
+      "pi_title": "Co-directors, Tufts University Lyme Disease Initiative",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://tuftslymedisease.org/",
@@ -245,11 +245,11 @@
       "research_summary": "Aims to eliminate Lyme disease by 2030 through research and collaboration.",
       "member_count": null,
       "member_breakdown": null,
-      "members_page_url": null,
+      "members_page_url": "https://tuftslymedisease.org/members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on School of Medicine's Research Centers page; not read further."
+      "notes": "Listed on School of Medicine's Research Centers page; not read further. Depth pass 2026-11-13: Multi-PI initiative with 2 co-directors, executive board, associate directors and about 40 core members drawn from many units plus affiliated members; core group not clearly staff, so count null."
     },
     {
       "id": "tufts-medicine-cancer-center",
@@ -271,14 +271,14 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on School of Medicine's Research Centers page; not read further."
+      "notes": "Listed on School of Medicine's Research Centers page; not read further. Depth pass 2026-11-13: Clinical cancer center page (trials, pilot funding); no lead or roster shown."
     },
     {
       "id": "tufts-medicine-womb",
       "kind": "research-lab",
       "lab_name": "Woman, Mother + Baby (WoMB) Research Institute",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Perrie O'Tierney-Ginn, PhD",
+      "pi_title": "Executive Director, Woman, Mother + Baby Research Institute",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://www.tuftsmedicine.org/research-clinical-trials/research-institutes-research-specialty/woman-mother-baby-research-institute",
@@ -293,7 +293,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on School of Medicine's Research Centers page; not read further."
+      "notes": "Listed on School of Medicine's Research Centers page; not read further. Depth pass 2026-11-13: No roster on page (a 'PIs + research team' section had no names in the cached text); executive director named, count null."
     }
   ],
   "non_lab_people": [],

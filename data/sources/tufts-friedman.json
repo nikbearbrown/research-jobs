@@ -28,7 +28,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on Friedman School's Centers and Institutes page; not read further."
+      "notes": "Listed on Friedman School's Centers and Institutes page; not read further. Depth pass 2026-11-13: Leadership page (innovation.nutrition.tufts.edu/our-people/) was fetched but returned only template code with no names; no lead or roster readable."
     },
     {
       "id": "tufts-friedman-childobesity180",
@@ -50,14 +50,14 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on Friedman School's Centers and Institutes page; not read further."
+      "notes": "Listed on Friedman School's Centers and Institutes page; not read further. Depth pass 2026-11-13: Our Team address returns the homepage content with no roster, and the homepage names no director; count left null. Site has a Careers page not read."
     },
     {
       "id": "tufts-friedman-nutricare",
       "kind": "research-lab",
       "lab_name": "NutriCare",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Fang Fang Zhang",
+      "pi_title": "Principal Investigator, NutriCare; Neely Family Professor and Chair, Division of Nutrition Epidemiology and Data Science, Friedman School",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://tuftsfoodismedicine.org/project/nutricare/",
@@ -72,11 +72,11 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on Friedman School's Centers and Institutes page; not read further."
+      "notes": "Listed on Friedman School's Centers and Institutes page; not read further. Depth pass 2026-11-13: Not sized, the site is not this unit's own: NutriCare is a single funded project page on the Food is Medicine Institute site; it names its principal investigator and a Tufts team of project manager and PhD candidate, not a standalone group."
     },
     {
       "id": "tufts-friedman-new-entry",
-      "kind": "research-lab",
+      "kind": "faculty-no-lab",
       "lab_name": "New Entry Sustainable Farming Project",
       "pi_name": null,
       "pi_title": null,
@@ -86,7 +86,7 @@
       "location": null,
       "phone": null,
       "admin_name": null,
-      "admin_email": null,
+      "admin_email": "nesfp@tufts.edu",
       "research_summary": "Strengthens local food systems by supporting new farmers and communities.",
       "member_count": null,
       "member_breakdown": null,
@@ -94,7 +94,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on Friedman School's Centers and Institutes page; not read further."
+      "notes": "Listed on Friedman School's Centers and Institutes page; not read further. Depth pass 2026-11-13: Not sized, this is not a research group: New Entry is a farmer-training and food-hub outreach program of the Friedman School; Team page returns homepage content with no roster and no director is named. Student opportunities and employment pages exist but were not read. Depth pass 2026-11-13: kind set to faculty-no-lab: reading its site showed it is a clinic, teaching or outreach program, or has closed, not a research group."
     }
   ],
   "non_lab_people": [],

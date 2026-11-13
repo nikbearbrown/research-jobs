@@ -13,9 +13,9 @@
       "id": "northeastern-dmsb-center-for-emerging-markets",
       "kind": "research-lab",
       "lab_name": "Center for Emerging Markets",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
+      "pi_name": "Ravi Ramamurti",
+      "pi_title": "University Distinguished Professor; Founding Director",
+      "pi_email": "r.ramamurti@northeastern.edu",
       "accepting_grad_students": null,
       "lab_website": "https://damore-mckim.northeastern.edu/cem/",
       "location": null,
@@ -29,11 +29,11 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on D'Amore-McKim School of Business's Centers & initiatives menu (shown on the home page and the Research collaborations page) page; not read further."
+      "notes": "Listed on D'Amore-McKim School of Business's Centers & initiatives menu (shown on the home page and the Research collaborations page) page; not read further. Depth pass 2026-11-13: Center site (fetched Leadership page) names Ravi Ramamurti as Founding Director and lists Kathryn Slomski as a contact without a title; the rest is an advisory board and 70+ faculty fellows, so no core count."
     },
     {
       "id": "northeastern-dmsb-center-for-entrepreneurship-education",
-      "kind": "research-lab",
+      "kind": "faculty-no-lab",
       "lab_name": "Center for Entrepreneurship Education",
       "pi_name": null,
       "pi_title": null,
@@ -51,14 +51,14 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on D'Amore-McKim School of Business's Centers & initiatives menu (shown on the home page and the Research collaborations page) page; not read further."
+      "notes": "Listed on D'Amore-McKim School of Business's Centers & initiatives menu (shown on the home page and the Research collaborations page) page; not read further. Depth pass 2026-11-13: Not sized, this is not a research group: University-wide entrepreneurship programs and events portal (26 programs, founders prize, startup hub), with no lead or roster named. Depth pass 2026-11-13: kind set to faculty-no-lab: reading its site showed it is a clinic, teaching or outreach program, or has closed, not a research group."
     },
     {
       "id": "northeastern-dmsb-center-for-workforce-analytics",
       "kind": "research-lab",
       "lab_name": "Center for Workforce Analytics",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Mark Huselid",
+      "pi_title": "Distinguished Professor of Workforce Analytics; Director",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "https://damore-mckim.northeastern.edu/workforce-analytics/",
@@ -73,7 +73,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on D'Amore-McKim School of Business's Centers & initiatives menu (shown on the home page and the Research collaborations page) page; not read further."
+      "notes": "Listed on D'Amore-McKim School of Business's Centers & initiatives menu (shown on the home page and the Research collaborations page) page; not read further. Depth pass 2026-11-13: Center site names Dr. Mark Huselid as Director; the cached people_url is the whole business school directory, not the center's roster, so count null."
     }
   ],
   "non_lab_people": [],

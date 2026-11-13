@@ -71,6 +71,31 @@ Leave a field out or null when not shown. `note` is always present.
 - Every worklist item gets exactly one result object, with `source` and
   `lab_id` copied unchanged.
 
+## When the item is itself a center or institute (labs taken from a school's list)
+
+Some worklists hold entries that came from a school's own list of labs and
+centers (priority 2). They have a name and a website but no lead, and many are
+centers or institutes, not one PI's group. For these the item IS the unit, so
+the `HUB:` rule changes:
+
+- If the site is one PI's lab or group: count it as usual, and record
+  `pi_name`, `pi_title` (and `pi_email` if shown) for the person who runs it.
+- If the site is a center, institute or program: record its lead (director,
+  faculty director, executive director; role in `pi_title`) as `pi_name`, the
+  general contact as `admin_email`, and count the CURRENT core people the
+  people page shows: directors, staff, resident researchers and fellows,
+  postdocs, research assistants. Leave out advisory boards, affiliated or
+  associated faculty whose home is another unit, visiting or non-resident
+  fellows, student cohorts, alumni. Count only when the page makes the core
+  group clear; otherwise null, and say in `note` what the page lists.
+- Use `HUB:` only when the site is not this unit's own site at all (a
+  department page, a different organization, a news article, a profile page).
+- If the site shows the unit is a teaching program, a clinic, a service or
+  core facility, or has closed, leave the count null and start `note` with
+  `NOT-A-LAB:` followed by what it is.
+- `join_page_url` / `join_notes`: the careers, openings, research-assistant or
+  "join us" page if the site has one and you read it.
+
 The main session then runs `scripts/merge_read_results.py`, which checks every
 result against the worklist and the page cache, turns the `HUB:` / `DEAD:`
 tags into plain sentences, and writes the file `depth_pass.py apply` reads.

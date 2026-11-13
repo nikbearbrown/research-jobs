@@ -1,0 +1,2852 @@
+[
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-amyloid-treatment-research-center",
+    "fields": {
+      "pi_name": "Vaishali Sanchorawala",
+      "pi_title": "Center Director",
+      "members_page_url": "https://www.bu.edu/amyloid/about-us/personnel/"
+    },
+    "note": "Page lists only a director, an advisor and 3 office staff; the clinical faculty, research faculty/students and clinic staff lists are on subpages not read, so no count."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-arthritis-autoimmune-diseases-center",
+    "fields": {
+      "pi_name": "Maria Trojanowska",
+      "pi_title": "Professor, Director, AADC",
+      "pi_email": "trojanme@bu.edu"
+    },
+    "note": "Center page names the director and lists 'AADC faculty include' 6 people (one an adjunct whose home is Microbiology); wording suggests a partial list, so no count."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-biomedical-mass-spectrometry-center",
+    "fields": {},
+    "note": "Page lists four faculty associated with the center and links staff to a separate Mass Spectrometry Resource site; no director or head named, so no count or lead."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-biostatistics-and-epidemiology-data-analytics-center",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: Cached page is the School of Public Health's Center for Health Data Science page (BEDAC is one service under it); its leaders (Executive Director Debbie Cheng, Associate Director Laura White) lead CHDS, not BEDAC, so none recorded."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-cardiovascular-proteomics-center",
+    "fields": {
+      "pi_name": "Catherine E. Costello",
+      "pi_title": "Director, Cardiovascular Proteomics Center"
+    },
+    "note": "Director named on the home page; the investigators list is not in the cached text, so no count."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-evans-center-for-implementation-and-improvement-sciences",
+    "fields": {},
+    "note": "Home and About pages describe the center and its fellowship but name no director or staff, so no count or lead."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-framingham-heart-study",
+    "fields": {
+      "admin_email": "fhs@bu.edu"
+    },
+    "note": "Long-running cohort study site with no roster; Matthew Nayor is named Medical Director (Sept 2026) but the page does not say who leads the study, so no lead or count."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-global-health-development-center",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: Cached page is the School of Public Health's MPH Global Health Context Certificate page (certificate director Monica Onyango), not the Center for Global Health Development's own site."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-massachusetts-veterans-epidemiology-research-and-information-center",
+    "fields": {
+      "admin_email": "MAVERIC-Info@va.gov",
+      "join_notes": "Open positions are posted on USAJobs; the page also mentions fellowships, data-science postdoctoral fellowships and student internships."
+    },
+    "note": "Page is the unit's own VA description (a conglomerate of national research centers); it names no director and the people_url given is an unrelated VA Brain Health Coordinating Center team page, so no count."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-memory-disorders-research-center",
+    "fields": {
+      "pi_name": "Mieke Verfaellie",
+      "pi_title": "Director",
+      "pi_email": "verf@bu.edu",
+      "member_count": 7,
+      "member_breakdown": "1 director, 1 associate director, 2 investigators, 1 postdoctoral fellow, 1 IT staff, 1 research assistant",
+      "members_page_url": "https://www.bu.edu/mdrc/people/"
+    },
+    "note": "Count from the People page: director, associate director, 2 investigators, 1 postdoc, 1 IT person, 1 research assistant; affiliated researchers left out."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-military-health-center",
+    "fields": {},
+    "note": "Mission statement and news (latest 2021, so the page is old); no director or staff list, so no count or lead."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-national-center-for-posttraumatic-stress-disorder",
+    "fields": {
+      "pi_name": "Paula Schnurr",
+      "pi_title": "Executive Director",
+      "admin_email": "ncptsd@va.gov"
+    },
+    "note": "National VA center for PTSD with several divisions; lead from the Leadership page; no single roster, so no count."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-new-england-regional-spinal-cord-injury-center",
+    "fields": {},
+    "note": "Old site (newest content 2017) describing the model-system merger; no director or staff list, so no count or lead."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-parkinson-s-disease-movement-disorders-center",
+    "fields": {
+      "pi_name": "Kara M. Smith",
+      "pi_title": "Division Chief, Parkinson's Disease and Movement Disorders Center"
+    },
+    "note": "Not sized, this is not a research group: Mainly a clinical care center (Parkinson's and movement disorders) with a research arm; the home page has a greeting from the division chief but no roster."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-providence-boston-center-for-aids-research",
+    "fields": {},
+    "note": "Cached pages are Brown University's generic about-us pages, not a roster for this center, so no count."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-shipley-prostate-cancer-research-center",
+    "fields": {},
+    "note": "Not sized, this is not a research group: Patient-education website about prostate care; the team page lists only an advisory committee (left out), no director or staff."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-sickle-cell-disease-center-for-excellence",
+    "fields": {},
+    "note": "Clinical and research center; the page lists a few leaders (Elizabeth Klings is Director of Clinical Research, not of the center) plus clinical and research faculty; no center director or core group is clear, so no count."
+  },
+  {
+    "source": "data/sources/bu-camed.json",
+    "lab_id": "bu-camed-women-s-health-interdisciplinary-research-center",
+    "fields": {},
+    "note": "Short page (program started 1993); faculty list is on a separate page not read; no director named, so no count or lead."
+  },
+  {
+    "source": "data/sources/bu-cds.json",
+    "lab_id": "bu-cds-justice-media-co-lab",
+    "fields": {},
+    "note": "Not sized, this is not a research group: A program of the Faculty of Computing and Data Sciences (journalism course and summer certificate with media partners); no lead named, and the people page is the CDS-wide one."
+  },
+  {
+    "source": "data/sources/bu-cds.json",
+    "lab_id": "bu-cds-massmutual-co-lab",
+    "fields": {},
+    "note": "Not sized, this is not a research group: An industry-funded program of the Faculty of Computing and Data Sciences (faculty hire, staff, externship stipends); no lead named, and the people page is the CDS-wide one."
+  },
+  {
+    "source": "data/sources/bu-eng.json",
+    "lab_id": "bu-eng-biomolecular-engineering-research-center",
+    "fields": {
+      "pi_name": "Sandor Vajda",
+      "pi_title": "Director, Biomolecular Engineering Research Center",
+      "member_count": 7,
+      "member_breakdown": "1 director, 6 core faculty",
+      "members_page_url": "https://www.bu.edu/bmerc/affiliates/",
+      "join_page_url": "https://www.bu.edu/bmerc/contact/positions-available/",
+      "join_notes": "Postdoc posting in computational biophysics (2019). Grad students apply to BU Biomedical Engineering or Chemistry and may contact BMERC first."
+    },
+    "note": "Count is the director plus the 6 'Core BMERC Faculty'; the 9 affiliated faculty are left out. Page is old (positions posted 2019); core faculty hold appointments in other departments."
+  },
+  {
+    "source": "data/sources/bu-eng.json",
+    "lab_id": "bu-eng-center-for-computational-science",
+    "fields": {
+      "pi_name": "David Coker",
+      "pi_title": "Professor of Chemistry, Director of the Center for Computational Science",
+      "pi_email": "coker@bu.edu"
+    },
+    "note": "Cached center page only redirects; the new page names the director and gives his email but lists no members, so no count."
+  },
+  {
+    "source": "data/sources/bu-eng.json",
+    "lab_id": "bu-eng-center-for-semiconductor-materials-and-devices-modeling",
+    "fields": {
+      "admin_email": "csmdm@bu.edu"
+    },
+    "note": "Army Research Laboratory and BU consortium page (latest item 2018); no lead or staff named, so no count."
+  },
+  {
+    "source": "data/sources/bu-pardee.json",
+    "lab_id": "bu-pardee-african-studies-center",
+    "fields": {
+      "pi_name": "Nimi Wariboko",
+      "pi_title": "Director, African Studies Center",
+      "member_count": 14,
+      "member_breakdown": "1 director, 1 program administrator, 5 language lecturers (one is program director), 1 outreach manager, 3 publications staff, 3 librarians",
+      "members_page_url": "https://www.bu.edu/africa/people/contact/"
+    },
+    "note": "Count from the ASC Faculty and Staff page: administration 2, language program 5 lecturers, outreach 1, publications 3, library 3; student assistants and the separate West African Research Association director left out."
+  },
+  {
+    "source": "data/sources/bu-pardee.json",
+    "lab_id": "bu-pardee-center-for-latin-american-studies",
+    "fields": {
+      "admin_email": "clas@bu.edu"
+    },
+    "note": "Home page names no director or staff and has no people page in the cache, so no count or lead."
+  },
+  {
+    "source": "data/sources/bu-pardee.json",
+    "lab_id": "bu-pardee-center-for-the-study-of-asia",
+    "fields": {
+      "pi_name": "Sunil Sharma",
+      "pi_title": "Director, Center for the Study of Asia",
+      "pi_email": "sharma@bu.edu",
+      "admin_email": "buasia@bu.edu",
+      "member_count": 2,
+      "member_breakdown": "1 director, 1 assistant director",
+      "members_page_url": "https://www.bu.edu/asian/people/administration/"
+    },
+    "note": "Count from the Center Administration page: director and assistant director; 2 student assistants left out. Contact emails are shown on the page."
+  },
+  {
+    "source": "data/sources/bu-pardee.json",
+    "lab_id": "bu-pardee-center-for-the-study-of-europe",
+    "fields": {
+      "pi_name": "Vesko Garčević",
+      "pi_title": "Director, Center for the Study of Europe",
+      "pi_email": "veskog@bu.edu",
+      "admin_email": "cseurope@bu.edu",
+      "member_count": 2,
+      "member_breakdown": "1 director, 1 communications assistant",
+      "members_page_url": "https://www.bu.edu/european/about/administration/"
+    },
+    "note": "Count from the Center Administration page, which lists the director and one communications assistant (a master's student)."
+  },
+  {
+    "source": "data/sources/bu-pardee.json",
+    "lab_id": "bu-pardee-institute-on-culture-religion-world-affairs",
+    "fields": {
+      "pi_name": "Jeremy Menchik",
+      "pi_title": "Director, Institute on Culture, Religion, and World Affairs"
+    },
+    "note": "People page lists the director as the only core staff member plus an unnamed student-staff heading, executive committee, affiliates and visiting scholars; core group not clear, so no count."
+  },
+  {
+    "source": "data/sources/bu-questrom.json",
+    "lab_id": "bu-questrom-ravi-k-mehrotra-institute-for-business-m",
+    "fields": {
+      "pi_name": "Timothy Simcoe",
+      "pi_title": "Interim Faculty Director",
+      "member_count": 6,
+      "member_breakdown": "1 interim faculty director, 1 executive director, 1 co-director, 1 director of administration, 1 marketing assistant, 1 assistant director",
+      "members_page_url": "https://ibms.bu.edu/meet-our-team"
+    },
+    "note": "Count is the 6 people under Institute Leadership; faculty and research affiliates and the advisory board left out."
+  },
+  {
+    "source": "data/sources/bu-questrom.json",
+    "lab_id": "bu-questrom-digital-business-institute",
+    "fields": {
+      "pi_name": "Andrei Hagiu",
+      "pi_title": "Faculty Director",
+      "member_count": 3,
+      "member_breakdown": "1 faculty director, 2 staff",
+      "members_page_url": "https://www.bu.edu/dbi/about/team/"
+    },
+    "note": "Count is the 3 people under Leadership (faculty director, operations director, assistant director); 12 faculty fellows from other Questrom departments left out."
+  },
+  {
+    "source": "data/sources/bu-questrom.json",
+    "lab_id": "bu-questrom-institute-for-leadership-work",
+    "fields": {
+      "pi_name": "Fred Foulkes and Siobhan O'Mahony",
+      "pi_title": "Interim Co-Directors",
+      "admin_email": "ilwbu@bu.edu",
+      "member_count": 4,
+      "member_breakdown": "2 interim co-directors, 1 operations director, 1 executive advisor",
+      "members_page_url": "https://www.bu.edu/questrom/institutes/leadership-work/team/",
+      "join_page_url": null,
+      "join_notes": "Corporate membership for senior HR leaders; contact ilwbu@bu.edu to explore membership (membership page not read)."
+    },
+    "note": "Cached people page was the Industry Engagement team, so I fetched the Institute's own Our Team page: two interim co-directors plus an operations director and an executive advisor. Membership is for companies, not individuals."
+  },
+  {
+    "source": "data/sources/bu-questrom.json",
+    "lab_id": "bu-questrom-the-susilo-institute-for-ethics-in-the-g",
+    "fields": {
+      "pi_name": "Rodrigo Canales",
+      "pi_title": "Director, Susilo Institute for Ethics in the Global Economy",
+      "member_count": 5,
+      "member_breakdown": "3 leadership, 2 staff",
+      "members_page_url": "https://www.bu.edu/susilo/about/team/"
+    },
+    "note": "Count is Leadership (3) plus Staff (2) on the team page; 8 faculty fellows left out."
+  },
+  {
+    "source": "data/sources/bu-questrom.json",
+    "lab_id": "bu-questrom-technology-policy-research-initiative",
+    "fields": {
+      "pi_name": "James Bessen",
+      "pi_title": "Executive Director",
+      "members_page_url": "https://sites.bu.edu/tpri/people/"
+    },
+    "note": "People page mixes directors, associate directors, postdocs, faculty fellows, visiting and former members without separating current core staff, so no count."
+  },
+  {
+    "source": "data/sources/bu-questrom.json",
+    "lab_id": "bu-questrom-glob-s",
+    "fields": {
+      "pi_name": "Luis Ballesteros",
+      "pi_title": "Co-Director (with Heather Berry, Georgetown); Global Business Career Development Professor, BU Questrom"
+    },
+    "note": "Leadership page lists two co-directors at different universities and senior fellows; no member roster, so no count."
+  },
+  {
+    "source": "data/sources/bu-questrom.json",
+    "lab_id": "bu-questrom-precarity-lab",
+    "fields": {
+      "pi_name": "Michel Anteby",
+      "pi_title": "Co-Director (with Alya Guseva and Ashley Mears)",
+      "join_page_url": "https://sites.bu.edu/precarity/",
+      "join_notes": "To get on the lab's Slack channel and email list, contact Precarity Lab Fellow Ya-Ching Huang.",
+      "admin_email": "yachuang@bu.edu"
+    },
+    "note": "Not sized, the site is not this unit's own: Precarity Lab is a joint Sociology and Management & Organizations discussion community co-directed by Michel Anteby, Alya Guseva and Ashley Mears; the people page lists affiliated faculty, one postdoc and affiliated students, no core group, so no count."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-maura-walker",
+    "fields": {
+      "pi_name": "Maura Walker",
+      "pi_title": "Principal Investigator (co-PI with Huimin Cheng and Nicole Spartano)"
+    },
+    "note": "Not sized, the site is not this unit's own: The team page (fetched) lists three co-PIs (Huimin Cheng, Nicole Spartano, Maura Walker) plus trainees and collaborators, so it is a co-led group; no count."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-stacey-a-zawacki",
+    "fields": {},
+    "note": "Not sized, this is not a research group: Sargent Choice Nutrition Center is a dietitian nutrition-services clinic with student learning opportunities; the home page names no director."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-nicola-mckeown",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 research professional, 4 graduate research assistants, 1 graduate practicum student, 2 undergraduate research assistants/volunteers",
+      "members_page_url": "https://sites.bu.edu/mckeown/people/",
+      "join_page_url": "https://sites.bu.edu/mckeown/people/",
+      "join_notes": "Undergraduate and graduate students email Dr. McKeown with a CV; she asks that you write only at the beginning or end of a semester.",
+      "pi_name": "Nicola McKeown",
+      "pi_title": "Principal Investigator; Research Professor, Programs in Nutrition",
+      "pi_email": "nmckeown@bu.edu"
+    },
+    "note": "Counted from the Our Team page: PI plus 8 listed people (the Past Members list was excluded)."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-megan-mccrory",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 11 current students (graduate, undergraduate and post-graduate research assistants, practicum and volunteers)",
+      "members_page_url": "https://sites.bu.edu/eatingresearch/lab-members/",
+      "join_page_url": "https://sites.bu.edu/eatingresearch/364-2/",
+      "join_notes": "Students email Dr. McCrory (mamccr@bu.edu) with a resume or CV; internships go through the student's own practicum director.",
+      "pi_name": "Megan A. McCrory",
+      "pi_title": "Principal Investigator and Lab Director; Research Associate Professor of Nutrition",
+      "pi_email": "mamccr@bu.edu"
+    },
+    "note": "Counted from the Lab Members page: PI plus 11 current students; the page still lists some '25 graduates as current, so it may be slightly out of date."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-lindsey-locks",
+    "fields": {
+      "members_page_url": "https://sites.bu.edu/globalnutrition/our-team/",
+      "join_page_url": "https://sites.bu.edu/globalnutrition/our-team/",
+      "join_notes": "Undergraduates must first take SAR HS346 Global Health Nutrition, then fill in the lab's application form; graduate students and postdocs email Prof. Locks with a CV.",
+      "pi_name": "Lindsey M. Locks",
+      "pi_title": "Lab Director; Assistant Professor of Health Sciences",
+      "pi_email": "lmlocks@bu.edu"
+    },
+    "note": "Count left null: the team page names the director and two clinical assistant professors but only describes student researchers without naming them."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-jesse-moreira-bouchard",
+    "fields": {
+      "pi_name": "Jesse Moreira-Bouchard",
+      "pi_title": "Co-PI; Clinical Assistant Professor of Health Sciences (co-PI Lisa Roberts)"
+    },
+    "note": "Not sized, the site is not this unit's own: The lab is co-led by two PIs (Jesse Moreira-Bouchard and Lisa Roberts); the team page also lists 4 MS thesis students and 1 undergraduate scholar, no count recorded."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-dori-stauss-hutchinson",
+    "fields": {
+      "member_count": 25,
+      "member_breakdown": "1 executive director, 3 directors, 2 assistant directors, research staff and fellows, training associates, and administrative, design, finance and product staff",
+      "members_page_url": "https://www.bu.edu/psych-rehab/about/our-team/",
+      "join_page_url": "https://www.bu.edu/psych-rehab/about/opportunities-with-the-center/",
+      "join_notes": "Unpaid supervised graduate and undergraduate services internships (Recovery Education and College Mental Health programs), inquiries for Summer 2027 and later; contact Sarah Tallents (stallent@bu.edu). Research fellowships are not offered at this time.",
+      "pi_name": "Dori Hutchinson",
+      "pi_title": "Executive Director",
+      "admin_email": "psyrehab@bu.edu"
+    },
+    "note": "Counted from the center's Our Team page (fetched): 25 staff and researchers, leaving out 2 professors with other home departments, 2 PhD students and 8 part-time Recovery Education teachers and facilitators."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-claudio-ferre",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 lab manager, 3 PhD students",
+      "members_page_url": "https://sites.bu.edu/demrlab/people/",
+      "join_page_url": "https://sites.bu.edu/demrlab/people/",
+      "join_notes": "Prospective PhD students, postdocs and research assistants email Dr. Ferre (clferre@bu.edu); the Rehabilitation Sciences PhD program is the route for students.",
+      "pi_name": "Claudio Luis Ferre",
+      "pi_title": "Principal Investigator and Director; Assistant Professor, Occupational Therapy",
+      "pi_email": "clferre@bu.edu",
+      "admin_email": "demrlab@bu.edu"
+    },
+    "note": "Counted from the DEMR Lab people page: PI, lab manager and 3 PhD students."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-gael-orsmond",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 PhD students",
+      "members_page_url": "https://www.bu.edu/autismconnections/our-team/",
+      "pi_name": "Gael Orsmond",
+      "pi_title": "Lab Director; Professor of Occupational Therapy and Associate Dean of Academic Affairs",
+      "pi_email": "gorsmond@bu.edu"
+    },
+    "note": "Counted from the Our Team page: director plus 3 PhD students (alumni excluded)."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-james-camarinos",
+    "fields": {
+      "admin_email": "buptc@bu.edu"
+    },
+    "note": "Not sized, this is not a research group: Boston University Physical Therapy Center is a patient clinic."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-terry-ellis",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 director, 3 clinical research physical therapists, 1 research faculty, 2 research staff, 1 PhD student, 1 administrative coordinator",
+      "members_page_url": "https://www.bu.edu/neurorehab/our-team/",
+      "pi_name": "Terry Ellis",
+      "pi_title": "Professor and Director, Center for Neurorehabilitation"
+    },
+    "note": "Counted from the Our Team page: director, 3 clinical research PTs, 1 research faculty, 2 research staff, 1 PhD student and 1 administrator; 2 neurologic PT residents, BU collaborators and external collaborators were left out. The center also runs a clinic."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-jana-iverson",
+    "fields": {
+      "join_page_url": null,
+      "join_notes": "Volunteers (no experience required) sign up through the page's volunteer form.",
+      "admin_email": "gobabygo@bu.edu"
+    },
+    "note": "Not sized, this is not a research group: Go Baby Go is a volunteer community service program that adapts ride-on cars for children, run across four BU schools; the page names no lead."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-james-camarinos-ryan-center-for-sports-medicin",
+    "fields": {},
+    "note": "Not sized, this is not a research group: Sports Medicine Services is a clinical service (physicians, PTs, athletic trainers, dietitians)."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-cara-l-lewis",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 4 PhD students, 1 DPT student, 2 undergraduates",
+      "members_page_url": "https://sites.bu.edu/movement/people/",
+      "join_page_url": "https://sites.bu.edu/movement/join/",
+      "join_notes": "BU undergraduates (10 hours a week minimum) contact Avery Kratzer; current BU graduate students can ask Dr. Lewis about a research rotation; prospective students apply to the Rehabilitation Sciences PhD or DPT programs.",
+      "pi_name": "Cara L. Lewis",
+      "pi_title": "Director; Professor, Department of Physical Therapy",
+      "pi_email": "lewisc@bu.edu"
+    },
+    "note": "Counted from the People page: director, 4 PhD students, 1 DPT student and 2 undergraduates."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-deepak-kumar",
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 director, 3 postdocs, 1 visiting professor, 1 lab manager, 1 patient expert, 2 doctoral students, 1 DPT/PhD student, 1 research assistant, 3 BS students, 2 DPT students",
+      "members_page_url": "https://sites.bu.edu/kumarlab/people/",
+      "join_page_url": "https://sites.bu.edu/kumarlab/opportunities/",
+      "join_notes": "Email Dr. Kumar with a letter of interest and CV. PhD students enter through BU's Rehabilitation Sciences PhD (fully funded, deadline usually Dec 1); BU DPT students need a 3.2 GPA and 10 hours a week; BU undergraduates need a 3.4 GPA, 10 hours a week and a four-semester commitment.",
+      "pi_name": "Deepak Kumar",
+      "pi_title": "Director",
+      "admin_email": "movelab@bu.edu"
+    },
+    "note": "Counted from the People page, Current section (alumni excluded); includes a patient expert and a visiting professor."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-emily-evans",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 academic researcher, 1 PhD student, 3 graduate research assistants, 2 DPT practicum students",
+      "members_page_url": "https://sites.bu.edu/linclab/our-team/",
+      "join_notes": "The lab site lists no openings; its contact address is eaevans@bu.edu.",
+      "pi_name": "Emily Evans",
+      "pi_title": "Lab Director; Assistant Professor of Physical Therapy"
+    },
+    "note": "Counted from the Our Team page: PI, 1 academic researcher, 1 PhD student, 3 graduate research assistants and 2 DPT practicum students (alumni excluded)."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-ladora-v-thompson",
+    "fields": {
+      "pi_name": "LaDora V. Thompson",
+      "pi_title": "Lab Director; Travis M. Roy Endowed Professor"
+    },
+    "note": "Count left null: the Research Team page (fetched) shows only a director biography and no roster; the home page mentions a new lab technician and an undergraduate researcher."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-elizabeth-hoover",
+    "fields": {
+      "admin_email": "aphasiacenter@bu.edu"
+    },
+    "note": "Not sized, this is not a research group: Aphasia Resource Center is a clinical treatment and community support center with student training; the pages read name no director."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-caroline-brinkert",
+    "fields": {
+      "pi_name": "Caroline Brinkert",
+      "pi_title": "Director",
+      "admin_email": "slhs@bu.edu"
+    },
+    "note": "Not sized, this is not a research group: Center for Stuttering Therapy is a student-staffed therapy clinic."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-james-c-borders",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 research coordinator, 1 doctoral research assistant, 2 graduate research assistants, 3 undergraduate research assistants",
+      "members_page_url": "https://sites.bu.edu/borderslab/our-team/",
+      "join_page_url": "https://sites.bu.edu/borderslab",
+      "join_notes": "Recruiting undergraduate and graduate RAs for spring and summer 2027, and doctoral students and postdocs; contact Dr. Borders directly or the lab at aprlab@bu.edu.",
+      "pi_name": "James C. Borders",
+      "pi_title": "Lab Director and Principal Investigator",
+      "admin_email": "aprlab@bu.edu"
+    },
+    "note": "Counted from the Our Team page: PI, coordinator, 1 doctoral RA, 2 graduate RAs and 3 undergraduate RAs; associated faculty and collaborators left out."
+  },
+  {
+    "source": "data/sources/bu-sargent.json",
+    "lab_id": "bu-sargent-kimberly-crespo",
+    "fields": {
+      "member_count": 21,
+      "member_breakdown": "1 PI, 1 postdoc, 3 PhD students, 2 MS thesis students, 1 graduate RA, 12 undergraduate RAs, 1 postbac RA",
+      "members_page_url": "https://sites.bu.edu/crespolab/our-team/",
+      "join_page_url": "https://sites.bu.edu/crespolab/contact-us-2/open-positions/",
+      "join_notes": "Undergraduate RA openings (volunteer, two semesters, 5 to 8 hours a week, UROP or credit possible); currently seeking native Spanish-English bilingual students. Fill in the interest form or email a resume to cresplab@bu.edu.",
+      "pi_name": "Kimberly Crespo",
+      "pi_title": "Lab Director and Principal Investigator",
+      "admin_email": "cresplab@bu.edu"
+    },
+    "note": "Counted from the Our Team page: PI, 1 postdoc, 3 PhD students, 2 MS thesis students, 1 graduate RA and 13 research assistants (alumni excluded)."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-center-for-climate-and-health",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 director, 13 staff (research scientists, research fellows, program managers, data analysts, postdoc, research assistant)",
+      "members_page_url": "https://sites.bu.edu/climateandhealth/people/",
+      "pi_name": "Gregory Wellenius",
+      "pi_title": "Director, Center for Climate and Health; Professor of Environmental Health"
+    },
+    "note": "Counted from the center's own People page (fetched): director plus 13 staff; affiliated faculty (21 others) and 4 students were left out."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-center-for-health-data-science",
+    "fields": {
+      "pi_name": "Debbie M. Cheng",
+      "pi_title": "Executive Director"
+    },
+    "note": "Count left null: the SPH page lists only the executive director; the center's own site lists three leaders, an advisory board and affiliates but no staff."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-center-for-health-law-ethics-human-right",
+    "fields": {},
+    "note": "Count left null: the SPH page and its Faculty & Staff page (fetched) list 6 faculty (two emeritus) and no director."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-center-for-trauma-and-mental-health",
+    "fields": {
+      "pi_name": "Jaimie L. Gradus",
+      "pi_title": "Director"
+    },
+    "note": "Count left null: the center's About Us page (fetched) lists the director, about 31 faculty and postdoctoral fellows, 7 students and 1 staff member, so the core group is unclear."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-adolescent-and-behavioral-health-program",
+    "fields": {
+      "pi_name": "Ziming Xuan",
+      "pi_title": "Director, Program on Adolescent Behavior and Health",
+      "pi_email": "zxuan@bu.edu",
+      "join_notes": "The page invites BU faculty and early-stage researchers to apply for PABH Research Awards of $1,000 to $3,000 for a manuscript; no student or staff openings are listed."
+    },
+    "note": "Count left null: the program page names its director but has no roster."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-healthy-and-empowered-youth-hey-lab",
+    "fields": {
+      "pi_name": "Allegra R. Gordon",
+      "pi_title": "Co-Director (with Kimberly M. Nelson)"
+    },
+    "note": "Not sized, the site is not this unit's own: The lab is led by two co-directors (Allegra R. Gordon and Kimberly M. Nelson); the team page lists them, 4 core faculty and 8 staff, with trainees on another page, so no count."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-medicaid-policy-lab",
+    "fields": {
+      "pi_name": "Sarah H Gordon",
+      "pi_title": "Co-Director (with Kevin Nguyen and Paul Shafer)",
+      "admin_email": "mplab@bu.edu",
+      "join_notes": "To be affiliated, email mplab@bu.edu to join the listserv or the monthly meetings."
+    },
+    "note": "Count left null: the page lists 3 co-directors, 9 doctoral students and fellows and many affiliated faculty, so the core group is not clear."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-the-politics-and-health-lab",
+    "fields": {},
+    "note": "Count left null: the cached pages and the About page (fetched) name no lead and list no people; the Affiliates page could not be read within the fetch limit."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-biostatistics-and-epidemiology-data-anal",
+    "fields": {
+      "pi_name": "Joseph Palmisano",
+      "pi_title": "Senior Director, Center Operations (co-leader Emily Sisson, Senior Director, Research Operations)"
+    },
+    "note": "Not sized, this is not a research group: BEDAC is a fee-for-service research data analytics center inside the Center for Health Data Science; leaders are two senior directors."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-boston-biorepository-recruitment-integra",
+    "fields": {
+      "admin_email": "bbrain@bu.edu",
+      "join_page_url": "https://sites.bu.edu/bbrain/contact-us/",
+      "join_notes": "Veterans or researchers call 617-358-2230 or email bbrain@bu.edu; there is also an interest form."
+    },
+    "note": "Count left null: the multi-site Gulf War Illness biorepository and study site (about and contact pages fetched) names no lead or roster."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-busph-hsph-research-coordinating-center",
+    "fields": {
+      "member_count": 21,
+      "member_breakdown": "3 principal investigators, 18 team members",
+      "members_page_url": "https://climatehealthcafe.org/team",
+      "pi_name": "Greg Wellenius",
+      "pi_title": "Principal Investigator (one of three, with Francesca Dominici and Amruta Nori-Sarma); CAFE is a joint BU and Harvard Chan coordinating center",
+      "pi_email": "wellenius@bu.edu",
+      "join_page_url": "https://climatehealthcafe.org/funding-opportunities",
+      "join_notes": "The center runs mentorship, training and funding-and-jobs listings for the research community; no team openings were read."
+    },
+    "note": "Counted from the CAFE team page: 3 principal investigators and 18 team members (data, resource, capacity building and program management roles)."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-busph-maternal-and-child-health-center",
+    "fields": {
+      "pi_name": "Lois McCloskey",
+      "pi_title": "Director, Center of Excellence in MCH"
+    },
+    "note": "Not sized, this is not a research group: The center is an HRSA-funded maternal and child health training center (fellowships, courses); its faculty and staff page (fetched) lists 3 leaders and affiliated faculty."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-chelsea-and-east-boston-heat-c-heat-proj",
+    "fields": {},
+    "note": "Community partnership project site (BU School of Public Health and GreenRoots); no named leader or member roster, so no count."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-collaborate-health",
+    "fields": {
+      "admin_email": "collaboratehealth@bu.edu",
+      "join_page_url": null,
+      "join_notes": "Organizations with a public health challenge can submit the partner form or email collaboratehealth@bu.edu; no student or staff openings listed."
+    },
+    "note": "Two co-founders (Jacey Greece, James Wolff) plus seven team faculty/affiliates incl. an outside MSH adjunct; no single lead and no clear core group, so no count."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-healthy-minds-network",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "4 principal investigators, 5 study coordinators, 1 administrative coordinator, 1 student research assistant",
+      "members_page_url": "https://healthymindsnetwork.org/hmn-team/"
+    },
+    "note": "Count from HMN Team page: 4 faculty investigators, 6 staff, 1 student RA; external collaborators excluded; network spans UCLA, Michigan, Wayne State and BU with four co-PIs, so no single lead recorded."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-methods-for-longitudinal-studies-in-deme",
+    "fields": {
+      "pi_name": "Jennifer Weuve",
+      "pi_title": "Professor of Epidemiology, BU School of Public Health; PI of the R13 grant supporting MELODEM"
+    },
+    "note": "Methods network run by a 9-person multi-institution leadership team (BU, Inserm, Columbia, Wisconsin, UAB, UCSF, UCLA); no core staff roster, so no count. Weuve is named PI of the R13 grant supporting it."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-new-england-public-health-training-cente",
+    "fields": {},
+    "note": "Not sized, this is not a research group: Public health workforce training center (online courses); the cached About page was a not-found page and no leader or roster is shown."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-partnered-evidence-based-policy-resource",
+    "fields": {
+      "member_count": 29,
+      "member_breakdown": "1 director, 1 chief economist, 1 senior investigator, 6 investigators, 2 research scientists, 6 graduate fellows, 12 analysts, policy and program staff",
+      "members_page_url": "https://www.peprec.research.va.gov/PEPRECRESEARCH/investigators_and_staff.asp",
+      "pi_name": "Melissa Garrido",
+      "pi_title": "Director",
+      "admin_email": "peprec@va.gov"
+    },
+    "note": "Count from the Investigators and Staff page (29 listed, includes 6 graduate fellows); VA Boston research center with many staff also affiliated with BU SPH."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-postpartum-lifestyle-cardiovascular-eval",
+    "fields": {
+      "join_notes": "Site recruits study participants (Boston Medical Center deliveries); no staff or student openings."
+    },
+    "note": "Study site (postpartum health survey); research team page lists 4 people (3 clinicians/epidemiologist, 1 coordinator, one now at UNM) with no lead named, so no count."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-pregnancy-study-online-presto",
+    "fields": {
+      "pi_name": "Lauren A. Wise",
+      "pi_title": "Professor of Epidemiology, BU SPH; Principal Investigator of PRESTO",
+      "admin_email": "bupresto@bu.edu",
+      "join_page_url": null,
+      "join_notes": "Site invites study participants to enroll online (ages 21-45, US or Canada); no staff or student openings read."
+    },
+    "note": "Study site led by named PI; the team is split over two research-team pages (investigators, consultants, other staff) with no clear core group, so no count."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-providence-boston-center-for-aids-resear",
+    "fields": {
+      "pi_name": "Curt G. Beckwith",
+      "pi_title": "Co-Director, Providence/Boston CFAR (co-director Debbie Cheng, Boston University)",
+      "pi_email": "CBeckwith@brownhealth.org",
+      "admin_name": "Jaime Longval",
+      "admin_email": "jlongval2@brownhealth.org",
+      "members_page_url": "https://cfar.med.brown.edu/about-us/people"
+    },
+    "note": "Multi-institution center (Brown and BU); the people page lists leadership, a 20-member executive committee and core co-directors but no clear core staff group, so no count."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-research-group-for-the-study-of-chronic",
+    "fields": {
+      "pi_name": "Daniel Brooks",
+      "pi_title": "Principal Investigator, Associate Professor of Epidemiology (co-leads with Madeleine Scammell since 2017)"
+    },
+    "note": "Multi-PI, multi-institution research group (BU plus Beth Israel, El Salvador, Nicaragua) with collaborators and prior members mixed in; core group not clear, so no count."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-research-on-innovations-for-safety-and-e",
+    "fields": {
+      "pi_name": "Jonathan Jay",
+      "pi_title": "Faculty Co-Director (with Patrece Joseph), Associate Professor of Community Health Sciences",
+      "admin_email": "riselab.bu@gmail.com"
+    },
+    "note": "No roster on the site; run by two faculty co-directors."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-rubenstein-lab",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI, 2 data analysts, 8 co-researchers (adults with intellectual and developmental disabilities, one also a research assistant), 6 research assistants (3 graduate, 3 undergraduate)",
+      "members_page_url": "https://sites.bu.edu/rubenstein/people/",
+      "pi_name": "Eric Rubenstein",
+      "pi_title": "Principal Investigator",
+      "pi_email": "erubens@bu.edu",
+      "admin_email": "rubensteinlab.busph@gmail.com"
+    },
+    "note": "Count from People page: core team, co-researchers and research assistants."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-school-health-institute-for-education-an",
+    "fields": {},
+    "note": "Not sized, this is not a research group: Continuing-education program for school health staff; the Our Team page lists the staff of the host Center for Continuing Education, not a SHIELD research group."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-sustainable-built-environment-lab-sbl",
+    "fields": {
+      "member_count": 22,
+      "member_breakdown": "1 director, 1 professor (MSSP consulting), 3 postdocs, 1 research scientist, 1 program manager, 2 research fellows, 1 research specialist, 3 analysts/GIS staff, 3 research assistants, 5 doctoral students, 1 MPH student",
+      "members_page_url": "https://sites.bu.edu/fabian/faculty/",
+      "pi_name": "Patricia Fabián",
+      "pi_title": "Director; Professor of Environmental Health"
+    },
+    "note": "Count from People (Faculty) page: Director plus 21 listed research team members; former members excluded."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-center-for-innovation-in-social-work-and",
+    "fields": {},
+    "note": "Not sized, the site could not be read: ciswh.org returned a Cloudflare 521 web server down error; no content to read."
+  },
+  {
+    "source": "data/sources/bu-sph.json",
+    "lab_id": "bu-sph-grayken-center-for-addiction-and-boston",
+    "fields": {
+      "pi_name": "Miriam S. Komaromy",
+      "pi_title": "Executive Director, Grayken Center for Addiction"
+    },
+    "note": "Not sized, this is not a research group: Hospital clinical addiction center; the team page lists clinicians and program staff across many BMC departments."
+  },
+  {
+    "source": "data/sources/bu-ssw.json",
+    "lab_id": "bu-ssw-tami-gouveia",
+    "fields": {},
+    "note": "Not sized, the site could not be read: bu.edu/ciswh redirects to ciswh.org, which returned a 521 web server down error; no content to read."
+  },
+  {
+    "source": "data/sources/bu-ssw.json",
+    "lab_id": "bu-ssw-bronwyn-keefe",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 director, 1 special projects lead, 1 curriculum program manager, 1 senior operations manager, 1 evaluation manager, 1 doctoral research fellow, 2 training coordinators",
+      "members_page_url": "https://caderonline.bu.edu/about/who-we-are/",
+      "pi_name": "Bronwyn Keefe",
+      "pi_title": "Director of CADER; Assistant Dean of Workforce and Professional Development; Research Associate Professor, BU School of Social Work",
+      "pi_email": "bronwyn@bu.edu",
+      "admin_email": "cader@bu.edu"
+    },
+    "note": "Count from Who We Are page (core CADER team; academic partners, a visiting scholar and an outside contract writer excluded); CADER is mainly a workforce training center with some research projects."
+  },
+  {
+    "source": "data/sources/bu-ssw.json",
+    "lab_id": "bu-ssw-dolores-acevedo-garcia",
+    "fields": {
+      "pi_name": "Dolores Acevedo-Garcia",
+      "pi_title": "Leads the institute (page says 'led by'; no title shown)"
+    },
+    "note": "The school's page for the institute (founded 2025) shows no people roster, so no count; it says the institute is led by Dolores Acevedo-Garcia."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-center-for-stem-professional-learning-at",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.stemlearningcenter.org/about-us",
+      "pi_name": "TJ McKenna",
+      "pi_title": "Director; Clinical Assistant Professor of Science Education"
+    },
+    "note": "Count not kept: the page names only the director and says the center is still growing (the page lists 1). Count from About Us page, which lists only the director and says the center started in summer 2023 and is still growing."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-center-on-the-ecology-of-early-developme",
+    "fields": {},
+    "note": "Home and Our Work pages describe the center but name no director and no members, so no count."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-institute-for-early-childhood-well-being",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 director, 1 research scientist, 1 program coordinator, 5 research assistants/graduate researchers",
+      "members_page_url": "https://sites.bu.edu/ecinstitute/faculty/",
+      "pi_name": "Dina Castro",
+      "pi_title": "Director",
+      "admin_email": "ecinstitute@bu.edu",
+      "join_page_url": "https://sites.bu.edu/ecinstitute/join-our-network/",
+      "join_notes": "Form to join the institute's affiliate network of researchers, educators and community members; no staff or student openings listed."
+    },
+    "note": "Count from Our Team page: director, research scientist, program coordinator and 5 research assistants; faculty governing board, institute fellows and alumni excluded."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-social-adjustment-bullying-prevention-la",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: Lab run by two faculty (Melissa Holt and Jennifer Greif Green) with 3 current doctoral students listed; no single lead named."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-deaf-center",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "2 co-directors, 5 program/outreach directors and staff, 2 lecturers, 5 postdoctoral scholars, 2 doctoral students, 1 research assistant",
+      "members_page_url": "https://deafcenter.bu.edu/team",
+      "pi_name": "Naomi Caselli",
+      "pi_title": "Co-Director (with Amy Lieberman)"
+    },
+    "note": "Count from Team Members page: 2 co-directors and 15 staff, lecturers, postdocs and students; affiliated researchers excluded."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-language-acquisition-visual-attention-la",
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 director, 3 postdoctoral researchers, 1 research scholar, 2 doctoral students, 8 master's students, 1 undergraduate",
+      "members_page_url": "https://sites.bu.edu/lavalab/people/",
+      "pi_name": "Amy Lieberman",
+      "pi_title": "Lab Director; Assistant Professor, Deaf Studies and Deaf Education",
+      "join_page_url": "https://sites.bu.edu/lavalab/",
+      "join_notes": "Home page says the lab is accepting applications for graduate students and post-docs; contact Dr. Amy Lieberman.",
+      "accepting_grad_students": true
+    },
+    "note": "Count from People page (may be dated: director still titled Assistant Professor); alumni and collaborators excluded."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-lex-lab",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 data scientist, 1 postdoc, 3 PhD students",
+      "members_page_url": "https://sites.bu.edu/lexlab/people/",
+      "pi_name": "Naomi Caselli",
+      "pi_title": "Assistant Professor, Deaf Studies and Deaf Education Programs",
+      "admin_email": "lexlab@bu.edu",
+      "join_page_url": "https://sites.bu.edu/lexlab/people/",
+      "join_notes": "People page says to email lexlab@bu.edu if interested in joining the research team."
+    },
+    "note": "Count from People page: faculty, staff, postdoc and PhD students; alumni and collaborators excluded."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-counseling-psychology-training-center",
+    "fields": {
+      "pi_name": "Maria Teresa Coutinho",
+      "pi_title": "Director",
+      "admin_email": "CPTC@bu.edu"
+    },
+    "note": "Not sized, this is not a research group: Clinical therapy and training center for Boston youth and families; only director and associate director are named."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-institute-for-athletic-coach-education",
+    "fields": {
+      "pi_name": "John McCarthy",
+      "pi_title": "Director",
+      "admin_email": "coaching@bu.edu"
+    },
+    "note": "Not sized, this is not a research group: Youth sport coach education and training institute; no roster shown."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-performance-recovery-optimization-pro-la",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 lab director, 1 lab manager (PhD student), 2 PhD students/candidates, 2 EdM students, 1 undergraduate",
+      "members_page_url": "https://www.bu-prolab.org/team",
+      "pi_name": "Edson Filho",
+      "pi_title": "Lab Director; Associate Professor of Sport Psychology"
+    },
+    "note": "Count from Team page (includes one PhD student from UMass Boston)."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-wheelock-center-for-future-readiness",
+    "fields": {
+      "admin_email": "bucfr@bu.edu"
+    },
+    "note": "Center site lists five PI research teams on a Meet Our Teams page and names no single director, so no count."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-wheelock-educational-policy-center-wepc",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "4 leadership (faculty director, executive director, managing director, PARABL director), 1 research analyst, 5 graduate students",
+      "members_page_url": "https://wheelockpolicycenter.org/who-we-are/",
+      "pi_name": "Marcus A. Winters",
+      "pi_title": "Faculty Director and Professor",
+      "admin_email": "wheelockpolicy@bu.edu"
+    },
+    "note": "Count from Who We Are page: 4 leadership plus research staff and trainees; affiliated faculty and alumni excluded."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-center-for-educating-critically",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "2 co-directors, 1 research fellow, 2 executive directors (administration, community engagement)",
+      "members_page_url": "https://sites.bu.edu/centerforeducatingcritically/whoweare/",
+      "pi_name": "Laura Jiménez",
+      "pi_title": "Co-Director (with Davena Jackson), Senior Lecturer"
+    },
+    "note": "Count from Who We Are page: 2 co-directors and 3 center members; affiliate colleagues excluded."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-citylab",
+    "fields": {
+      "pi_name": "Donald DeRosa",
+      "pi_title": "Director of BU School of Medicine CityLab and MobileLab; Clinical Associate Professor"
+    },
+    "note": "Not sized, this is not a research group: Biotechnology teaching and outreach laboratory for middle and high school teachers and students; staff page lists 4 people."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-earl-center-for-learning-innovation",
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 director, 5 faculty/staff leads, 1 postdoc, 5 graduate researchers, 4 undergraduate researchers",
+      "members_page_url": "https://earlcenter.bu.edu/about-earl-center/meet-our-team/",
+      "pi_name": "Beth Warren",
+      "pi_title": "Director; Sylvia Earl Professor",
+      "join_notes": "Home page promotes First Fridays events and a mailing list for student opportunities; no formal openings page read."
+    },
+    "note": "Count from Meet Our Team page; affiliate scholars and educators excluded."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-national-center-on-improving-literacy-nc",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 interim director, 1 founding director, 3 deputy directors, 1 strand co-leader, 1 program manager",
+      "members_page_url": "https://improvingliteracy.org/about-the-national-center-on-improving-literacy/",
+      "pi_name": "Sarah Sayko",
+      "pi_title": "Interim Director",
+      "admin_email": "nciliteracy@gmail.com"
+    },
+    "note": "Count of 7 is the 'Our Team' section (interim and founding directors, three deputy directors, strand co-leader, program manager) on the about page; partner collaborators left out."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-teaching-equitable-and-ambitious-mathema",
+    "fields": {
+      "members_page_url": "https://sites.bu.edu/team-center/about-team/",
+      "join_page_url": "https://sites.bu.edu/team-center/get-involved/",
+      "join_notes": "Fill in the interest form on the Get Involved page to hear about events, partnerships and the network; no student or staff openings listed."
+    },
+    "note": "Center's own site, but its About page names only two leaders (a BU professor and CPM's head of research), no director and no roster, so count is null; the Get Involved page is a sign-up form for events, partnerships and the network."
+  },
+  {
+    "source": "data/sources/bu-wheelock.json",
+    "lab_id": "bu-wheelock-wheelock-institute-for-the-science-of-ed",
+    "fields": {
+      "pi_name": "Lana Santoro",
+      "pi_title": "Interim Director, WISE",
+      "admin_email": "wiseinst@bu.edu",
+      "members_page_url": "https://www.wiseinstitute.net/about-us/"
+    },
+    "note": "Institute's own site; About page lists leadership, core faculty and affiliated faculty who mostly belong to other BU units, so no clear core count."
+  },
+  {
+    "source": "data/sources/northeastern-bouve.json",
+    "lab_id": "northeastern-bouve-boston-roybal-center-for-active-lifestyle-interventions",
+    "fields": {
+      "pi_name": "Margie Lachman",
+      "pi_title": "Chair, Executive Committee; Director of the Boston Roybal Center",
+      "admin_email": "roybal@brandeis.edu",
+      "members_page_url": "https://www.brandeis.edu/roybal/people/index.html"
+    },
+    "note": "Center site (hosted at Brandeis, multi-university consortium); the people page lists only the executive committee (faculty from other institutions), so no core count."
+  },
+  {
+    "source": "data/sources/northeastern-bouve.json",
+    "lab_id": "northeastern-bouve-center-for-cognitive-and-brain-health",
+    "fields": {
+      "pi_name": "Charles Hillman",
+      "pi_title": "Director, Institute for Cognitive and Brain Health",
+      "members_page_url": "https://cbh.northeastern.edu/the-team/"
+    },
+    "note": "Institute site; The Team page lists leadership and many faculty whose homes are other departments, so no clear core count."
+  },
+  {
+    "source": "data/sources/northeastern-bouve.json",
+    "lab_id": "northeastern-bouve-center-for-community-health-education-research-and-service",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: The address is a Nature Index listing for the center, not the center's own site; no leader or roster shown."
+  },
+  {
+    "source": "data/sources/northeastern-bouve.json",
+    "lab_id": "northeastern-bouve-northeastern-university-center-for-health-policy-and-law",
+    "fields": {
+      "pi_name": "Wendy Parmet",
+      "pi_title": "Faculty Co-Director",
+      "members_page_url": "https://law.northeastern.edu/academics/centers/health-law/about-us/"
+    },
+    "note": "Law school page for the center; its About page lists co-directors, a managing director, program staff, and core and affiliated faculty from many units, so no clear core count; co-director Claudia Haupt is also named."
+  },
+  {
+    "source": "data/sources/northeastern-bouve.json",
+    "lab_id": "northeastern-bouve-northeastern-university-public-evaluation-lab",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 program director, 1 assistant program director, 2 senior founding faculty",
+      "members_page_url": "https://bouve.northeastern.edu/northeastern-university-public-evaluation-lab/people/",
+      "join_page_url": "https://bouve.northeastern.edu/northeastern-university-public-evaluation-lab/join-our-team/",
+      "join_notes": "No staff position open now (new position expected November 2026); a Spring/Summer 2027 program evaluation and administration co-op is open for Northeastern students via NUWorks (Job ID 160907).",
+      "pi_name": "Wendy Friedman",
+      "pi_title": "Program Director"
+    },
+    "note": "Count of 4 is the 'Our NU-PEL Team' list (program director, assistant program director, two senior founding faculty); a co-op student, the affiliated network and current students are left out."
+  },
+  {
+    "source": "data/sources/northeastern-bouve.json",
+    "lab_id": "northeastern-bouve-personal-health-informatics-research-affiliations",
+    "fields": {},
+    "note": "Not sized, this is not a research group: The site is the PhD in Personal Health Informatics program page (research partners), with no lead or roster text."
+  },
+  {
+    "source": "data/sources/northeastern-bouve.json",
+    "lab_id": "northeastern-bouve-puerto-rico-testsite-for-exploring-contamination-threats",
+    "fields": {
+      "pi_name": "Akram Alshawabkeh",
+      "pi_title": "Principal Investigator and Co-Director (co-director José Cordero)",
+      "admin_email": "protect@northeastern.edu",
+      "members_page_url": "https://protect.sites.northeastern.edu/investigators-and-staff/"
+    },
+    "note": "Multi-institution NIEHS Superfund center with its own site; investigators page lists project and core leaders and collaborators from many universities, so no core count."
+  },
+  {
+    "source": "data/sources/northeastern-bouve.json",
+    "lab_id": "northeastern-bouve-the-barnett-institute-of-chemical-analysis-and-materials-science",
+    "fields": {
+      "pi_name": "Olga Vitek",
+      "pi_title": "Director, Barnett Institute",
+      "members_page_url": "https://research.northeastern.edu/barnett-institute-of-chemical-and-biological-analysis/"
+    },
+    "note": "Institute's own page on the College of Science site; it lists 16 faculty fellows from several colleges plus emeriti, no staff roster, so no core count; contact email is hidden on the page."
+  },
+  {
+    "source": "data/sources/northeastern-bouve.json",
+    "lab_id": "northeastern-bouve-the-institute-for-health-equity-and-social-justice-research",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 director, 1 associate director, 10 institute staff (research scientists, postdocs, coordinators, program directors)",
+      "members_page_url": "https://bouve.northeastern.edu/institute-for-health-equity-and-social-justice-research/ihesjr-people/",
+      "pi_name": "Alisa Lincoln",
+      "pi_title": "Director"
+    },
+    "note": "Count of 12 is the director, associate director and 10 'Institute Staff' on the people page; 3 co-op students, faculty scholars, affiliated faculty, interns and fellows left out."
+  },
+  {
+    "source": "data/sources/northeastern-bouve.json",
+    "lab_id": "northeastern-bouve-speech-language-and-hearing-center",
+    "fields": {},
+    "note": "Not sized, this is not a research group: Clinical speech-language and audiology center (patient clinic and programs); no lead or roster on the page."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-protect-center",
+    "fields": {
+      "pi_name": "Akram Alshawabkeh",
+      "pi_title": "Principal Investigator and Co-Director, PROTECT Research Center",
+      "members_page_url": "https://coe.northeastern.edu/people/alshawabkeh-akram/"
+    },
+    "note": "College of Engineering page for the center; it gives only the contact (PI and co-director), no roster of the center's people."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-ai-institute-for-future-edge-networks-and-distributed-intelligence",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: College page for an NSF AI institute led by Ohio State; Northeastern's faculty co-director is Tommaso Melodia, no roster."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-center-for-hardware-and-embedded-systems-security-and-trust",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: College page for a six-university NSF center (CHEST); only Northeastern's site director Yunsi Fei is named, no roster."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-center-for-solid-state-electric-power-storage",
+    "fields": {
+      "join_page_url": "https://www.greenceps.com/student-recruitment",
+      "join_notes": "Students interested in joining are told to contact the supervisor at their own university; no named contact."
+    },
+    "note": "Own site of a three-university NSF center; the management structure is not shown as text and no leader or roster is named; Student Recruitment page says to contact the supervisor at your university."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-archimedes-center-for-healthcare-and-device-security",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 director, 1 executive director, 1 operations manager/deputy director, 1 PATCH program manager, 1 grants and operations manager, 1 marketing and communications lead",
+      "members_page_url": "https://www.secure-medicine.org/about",
+      "pi_name": "Kevin Fu",
+      "pi_title": "Professor, Director",
+      "join_page_url": "https://www.secure-medicine.org/join-us",
+      "join_notes": "Join is an organisation/individual membership, sponsorship or speaker request (not student or staff openings); a contact form is linked."
+    },
+    "note": "Count of 6 is the 'Leadership' section on the About page (director, executive director, operations manager, PATCH program manager, grants manager, marketing lead)."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-center-of-advanced-materials-for-resiliency",
+    "fields": {
+      "pi_name": "Randall Erb",
+      "pi_title": "CAMR Director",
+      "members_page_url": "https://advancedmaterials.sites.northeastern.edu/team/"
+    },
+    "note": "Center's own site; Team page lists the director and about 32 faculty and scientists from many departments sorted by thrust, so no core count."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-cross-college-magnetics-center",
+    "fields": {
+      "pi_name": "Mingzhong Wu",
+      "pi_title": "Director",
+      "pi_email": "min.wu@northeastern.edu",
+      "members_page_url": "https://magnetics.center.northeastern.edu/our-team/"
+    },
+    "note": "Center's own site; the Members page lists faculty members from several departments (the home page says 22), no staff or students, so no core count."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-the-plastics-center",
+    "fields": {
+      "pi_name": "Maria Ivanova",
+      "pi_title": "Co-Director (also Director of the School of Public Policy and Urban Affairs)",
+      "pi_email": "m.ivanova@northeastern.edu",
+      "members_page_url": "https://plastics.sites.northeastern.edu/our-team/"
+    },
+    "note": "Center's own site; Our Team page lists two co-directors, a coordinator, fellows and many affiliated faculty from other units, so no core count; co-director Aron Stubbins also named."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-center-for-signal-processing-imaging-reasoning-and-learning",
+    "fields": {
+      "pi_name": "Pau Closas",
+      "pi_title": "Co-Director",
+      "members_page_url": "https://coe.northeastern.edu/people/ostadabbas-sarah/"
+    },
+    "note": "College page for the center; it lists participating labs and the two co-directors, no staff roster; co-director Sarah Ostadabbas also named."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-physical-ai-research-initiative",
+    "fields": {
+      "pi_name": "Edmund Yeh",
+      "pi_title": "PAIR Director and Professor & Chair, ECE",
+      "members_page_url": "https://pair.sites.northeastern.edu/pair-members/"
+    },
+    "note": "Initiative's own site; the Members page lists about 35 primary members, all faculty from many departments, so no core count."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-dublin-innovation-institute",
+    "fields": {
+      "pi_name": "Shashi Murthy",
+      "pi_title": "Vice Provost for Global Innovation and Head of Dublin Innovation Institute",
+      "members_page_url": "https://dublininstitute.northeastern.edu/people/"
+    },
+    "note": "Institute's own site; People page lists three leadership/administration people and nine affiliated faculty, no core staff or researchers, so no count."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-academic-center-for-reliability-and-resilience-of-offshore-wind",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: College page for a multi-university DOE consortium (ARROW); only Northeastern's industry lead Andrew Myers is named, no roster."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-bernard-m-gordon-center-for-subsurface-sensing-and-imaging-systems",
+    "fields": {
+      "members_page_url": "https://coe.northeastern.edu/people/silevitch-michael/"
+    },
+    "note": "College page for a graduated NSF center (Gordon-CenSSIS) and ALERT; it lists associated faculty, no named CenSSIS director and no roster."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-center-for-high-rate-nanomanufacturing",
+    "fields": {
+      "pi_name": "Ahmed Busnaina",
+      "pi_title": "Director, CHN",
+      "members_page_url": "https://coe.northeastern.edu/people/busnaina-ahmed/"
+    },
+    "note": "College page for a graduated NSF center led by Northeastern; only the contact is shown, no roster."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-center-for-nano-and-microcontamination-control",
+    "fields": {},
+    "note": "Center's own site; research and industry pages name no director and no people."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-center-for-research-on-early-childhood-exposure-and-development-in-pue",
+    "fields": {
+      "pi_name": "Akram Alshawabkeh",
+      "pi_title": "Director, Administrative Core Leader",
+      "pi_email": "a.alshawabkeh@northeastern.edu",
+      "members_page_url": "https://crece.sites.northeastern.edu/team-2/"
+    },
+    "note": "Center's own team page (multi-institution, photo caption names 2020-era staff) lists administrators, project leaders and advisors from many universities, so no core count."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-center-for-translational-applications-of-nanoscale-multiferroic-system",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: College page for a UCLA-led NSF center (TANMS); only a Northeastern contact is shown, no roster."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-center-for-ultra-wide-area-resilient-electric-energy-transmission-netw",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: College page for a University of Tennessee-led NSF center (CURENT); only Northeastern director Ali Abur is shown, no roster."
+  },
+  {
+    "source": "data/sources/northeastern-coe.json",
+    "lab_id": "northeastern-coe-healthcare-systems-engineering-institute",
+    "fields": {
+      "pi_name": "James Benneyan",
+      "pi_title": "Director, Healthcare Systems Engineering Institute",
+      "members_page_url": "https://coe.northeastern.edu/people/benneyan-james/"
+    },
+    "note": "College page for an institute led by Northeastern; only the contact is shown, no roster."
+  },
+  {
+    "source": "data/sources/northeastern-cos.json",
+    "lab_id": "northeastern-cos-institute-for-plant-human-interface",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "6 core faculty members (incl. the director)",
+      "members_page_url": "https://iphi.northeastern.edu/people/",
+      "pi_name": "Jing-Ke Weng",
+      "pi_title": "Director (Inaugural Director)"
+    },
+    "note": "Count of 6 is the 'Core Members' list (faculty who each lead a lab, including the director); 2 affiliated members left out."
+  },
+  {
+    "source": "data/sources/northeastern-cos.json",
+    "lab_id": "northeastern-cos-center-for-advanced-epidemic-analytics-and-predict",
+    "fields": {
+      "pi_name": "Alessandro Vespignani",
+      "pi_title": "Project lead",
+      "members_page_url": "https://www.epistorm.org/team"
+    },
+    "note": "Own site of a 13-institution CDC-funded consortium; team page lists collaborators across institutions, so no core count."
+  },
+  {
+    "source": "data/sources/northeastern-cos.json",
+    "lab_id": "northeastern-cos-center-for-complex-particle-systems",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: This is the University of Michigan COMPASS NSF Science and Technology Center site (Northeastern is only a partner institution), not a Northeastern unit's own site; its team page lists about 40 multi-university investigators, so no count."
+  },
+  {
+    "source": "data/sources/northeastern-cos.json",
+    "lab_id": "northeastern-cos-center-for-innovation-in-mathematics-physics-and-c",
+    "fields": {
+      "pi_name": "Jim Halverson",
+      "pi_title": "Director",
+      "pi_email": "j.halverson@northeastern.edu"
+    },
+    "note": "Center site names Jim Halverson as Director and Ning Bao as Deputy Director; the Members list (12 faculty from several departments) looks like affiliated faculty rather than a core group, so count left null."
+  },
+  {
+    "source": "data/sources/northeastern-cos.json",
+    "lab_id": "northeastern-cos-center-for-marine-ecological-genomics",
+    "fields": {
+      "pi_name": "Katie Lotterhos",
+      "pi_title": "Director"
+    },
+    "note": "Google Sites center site names Dr. Katie Lotterhos as Director; the cached people page only links to Director, Steering Committee and Northeastern Affiliates sub-pages (affiliated faculty), so no core count."
+  },
+  {
+    "source": "data/sources/northeastern-cos.json",
+    "lab_id": "northeastern-cos-center-for-theoretical-biological-physics",
+    "fields": {},
+    "note": "Northeastern node of a multi-university center (Rice, Houston, Baylor, Northeastern); cached people page shows only category headings with no names and no director is named, so count and lead left null."
+  },
+  {
+    "source": "data/sources/northeastern-cos.json",
+    "lab_id": "northeastern-cos-ocean-genome-legacy-center",
+    "fields": {
+      "pi_name": "Dan Distel",
+      "pi_title": "Director"
+    },
+    "note": "Not sized, this is not a research group: Ocean Genome Legacy Center is a marine biorepository / genome bank that offers sample and barcoding services; the team page (fetched) lists 9 current staff under Dan Distel, Director."
+  },
+  {
+    "source": "data/sources/northeastern-cos.json",
+    "lab_id": "northeastern-cos-experiential-quantum-advancement-laboratories",
+    "fields": {},
+    "note": "Not sized, this is not a research group: The site is the Northeastern NMR Facility (a core facility run by Director Jason Guo and Faculty Director Roman Manetsch), which does not match the listed name Experiential Quantum Advancement Laboratories."
+  },
+  {
+    "source": "data/sources/northeastern-cssh.json",
+    "lab_id": "northeastern-cssh-arts-and-humanities-social-action-lab",
+    "fields": {
+      "pi_name": "Kris Manjapra",
+      "pi_title": "Director"
+    },
+    "note": "Lab site names Kris Manjapra as Director; the Leadership page (fetched) lists only him and no other members, so count left null."
+  },
+  {
+    "source": "data/sources/northeastern-cssh.json",
+    "lab_id": "northeastern-cssh-brudnick-center-for-the-study-of-violence-conflict",
+    "fields": {
+      "pi_name": "Gordana Rabrenovic",
+      "pi_title": "Director"
+    },
+    "note": "Center site; the fetched About page captions Gordana Rabrenovic as Director and Jack Levin as Founder; the people page lists only affiliated faculty (Boston and London), no core staff, so count null."
+  },
+  {
+    "source": "data/sources/northeastern-cssh.json",
+    "lab_id": "northeastern-cssh-center-for-atypical-language-interpreting",
+    "fields": {},
+    "note": "Not sized, this is not a research group: Federally funded interpreter-training program (grant ended Sept 30, 2026, site no longer updated); no lead or member roster named."
+  },
+  {
+    "source": "data/sources/northeastern-cssh.json",
+    "lab_id": "northeastern-cssh-center-for-international-affairs-and-world-culture",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 director, 2 graduate fellows, 1 administrative coordinator",
+      "members_page_url": "https://cssh.northeastern.edu/internationalcenter/community/our-staff/",
+      "pi_name": "Mai'a Cross",
+      "pi_title": "Dean's Professor of Political Science, International Affairs, and Diplomacy; Director"
+    },
+    "note": "Count from the Center Team section of the staff page: director Mai'a Cross, 2 graduate fellows, 1 administrative coordinator."
+  },
+  {
+    "source": "data/sources/northeastern-cssh.json",
+    "lab_id": "northeastern-cssh-ethics-institute",
+    "fields": {
+      "pi_name": "Ronald Sandler",
+      "pi_title": "Institute Director"
+    },
+    "note": "Institute site names Ronald Sandler as Institute Director; the people page shows only section headings (Leadership, Faculty, Affiliated Researchers, Staff) with no names, so count left null."
+  },
+  {
+    "source": "data/sources/northeastern-cssh.json",
+    "lab_id": "northeastern-cssh-humanities-center",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "3 directors (Boston, Oakland, London), 1 associate director, 1 assistant director, 1 digital projects archivist",
+      "members_page_url": "https://cssh.northeastern.edu/humanities/our-team/",
+      "join_page_url": "https://cssh.northeastern.edu/humanities/humanities-in-action-research-assistantships/",
+      "join_notes": "Undergraduate Humanities in Action research assistantships on the center's Signature Projects (13 students in the inaugural 2025-26 year); the page did not show application steps. The center also runs a Global Fellowship program with applications due March 1 (listed on the home page).",
+      "pi_name": "Simon Rabinovitch",
+      "pi_title": "Stotsky Professor of Jewish Historical and Cultural Studies; Director of the Humanities Center, Boston"
+    },
+    "note": "Count from the fetched Our Team page (Current Team section): 3 campus directors, associate director, assistant director and digital projects archivist."
+  },
+  {
+    "source": "data/sources/northeastern-cssh.json",
+    "lab_id": "northeastern-cssh-institute-for-health-equity-and-social-justice-res",
+    "fields": {},
+    "note": "Not sized, the site could not be read: The cached page is just the CSSH college home page (the institute page redirects there), so nothing about the institute could be read."
+  },
+  {
+    "source": "data/sources/northeastern-cssh.json",
+    "lab_id": "northeastern-cssh-integrated-initiative-for-global-health",
+    "fields": {},
+    "note": "Initiative site has no people roster and no director named; the Contacts page (fetched) lists Prof. Michael Pollastri and Prof. Richard Wamai as contacts without saying they lead it, so lead and count left null."
+  },
+  {
+    "source": "data/sources/northeastern-cssh.json",
+    "lab_id": "northeastern-cssh-nulab-for-digital-humanities-and-computational-soc",
+    "fields": {
+      "pi_name": "Moira Zellner",
+      "pi_title": "Co-Director, NULab for Digital Humanities and Computational Social Science",
+      "join_page_url": "https://cssh.northeastern.edu/nulab/about/get-involved/",
+      "join_notes": "Northeastern faculty, postdocs and research scientists using digital or computational methods can become NULab affiliates by emailing the center with a short description of their research interests; students can take the Graduate Certificate in Digital Humanities or work with the Digital Integration Teaching Initiative."
+    },
+    "note": "Center site; Faculty and Staff page (fetched) shows Moira Zellner as Co-Director with Julia Flanders, Sarah Connell (Associate Director) and Sean Rogers (Assistant Director) under Leadership, plus many affiliated faculty across units, so the core group is not clear and count is null."
+  },
+  {
+    "source": "data/sources/northeastern-cssh.json",
+    "lab_id": "northeastern-cssh-social-impact-lab",
+    "fields": {
+      "pi_name": "Rebecca Riccio",
+      "pi_title": "Founder and Juffali Family Director"
+    },
+    "note": "Not sized, this is not a research group: Social Impact Lab is a teaching and community-engagement program (experiential philanthropy, ethical community engagement, fellowship); site names Rebecca Riccio as Founder and Director but has no roster."
+  },
+  {
+    "source": "data/sources/northeastern-dmsb.json",
+    "lab_id": "northeastern-dmsb-center-for-emerging-markets",
+    "fields": {
+      "pi_name": "Ravi Ramamurti",
+      "pi_title": "University Distinguished Professor; Founding Director",
+      "pi_email": "r.ramamurti@northeastern.edu"
+    },
+    "note": "Center site (fetched Leadership page) names Ravi Ramamurti as Founding Director and lists Kathryn Slomski as a contact without a title; the rest is an advisory board and 70+ faculty fellows, so no core count."
+  },
+  {
+    "source": "data/sources/northeastern-dmsb.json",
+    "lab_id": "northeastern-dmsb-center-for-entrepreneurship-education",
+    "fields": {},
+    "note": "Not sized, this is not a research group: University-wide entrepreneurship programs and events portal (26 programs, founders prize, startup hub), with no lead or roster named."
+  },
+  {
+    "source": "data/sources/northeastern-dmsb.json",
+    "lab_id": "northeastern-dmsb-center-for-workforce-analytics",
+    "fields": {
+      "pi_name": "Mark Huselid",
+      "pi_title": "Distinguished Professor of Workforce Analytics; Director"
+    },
+    "note": "Center site names Dr. Mark Huselid as Director; the cached people_url is the whole business school directory, not the center's roster, so count null."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-act-lab",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 3 PhD students, 3 undergraduate researchers",
+      "members_page_url": "https://actlab.sites.northeastern.edu/people/",
+      "pi_name": "Megan Hofmann",
+      "pi_title": "Assistant Professor of Computer Science; Director"
+    },
+    "note": "Count from people page: PI Megan Hofmann, 3 PhD students, 3 undergraduate researchers (alumni excluded)."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-auditing-algorithms-research-group",
+    "fields": {
+      "pi_name": "Christo Wilson",
+      "pi_title": "Assistant Professor, Khoury College of Computer Sciences"
+    },
+    "note": "Group site (footer 2024) belongs to Christo Wilson; the fetched About page shows a Team list that mixes faculty collaborators, old students and external collaborators with no roles, so current count cannot be determined."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-algorithms-and-theory",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: This is the Theoretical Computer Science group at Northeastern, a shared group of 13 faculty (Behnezhad, Derakhshan, Hu, Jin, Nguyen, Qian, Rajaraman, shelat, Sundaram, Ullman, Viola, Wichs, Zhang) with postdocs and students, no single lead; count left null."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-applied-machine-learning-group",
+    "fields": {
+      "pi_name": "Carla E. Brodley",
+      "pi_title": "Professor and Dean, Khoury College of Computer Sciences"
+    },
+    "note": "Professor Carla Brodley's group page (site titled Dean Carla E. Brodley) has research topics and publications but no member list, so count null."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-autonomy-and-intelligence-laboratory",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 postdoc, 6 PhD students, 4 MS students, 3 undergraduates",
+      "members_page_url": "https://neu-autonomy.github.io/lab_website/team",
+      "join_page_url": "https://neu-autonomy.github.io/lab_website/joinus",
+      "join_notes": "Postdocs: email Prof. Everett a CV, 3 representative publications and 3 references. PhD: fill in the lab interest form, then apply through ECE or Khoury admissions and mention his name. No funding for MS students currently; MS students may pitch a project via a form.",
+      "pi_name": "Michael Everett",
+      "pi_title": "Assistant Professor, Electrical & Computer Engineering and Khoury College of Computer Sciences"
+    },
+    "note": "Count from team page: PI Michael Everett, 1 postdoc, 6 PhD, 4 MS, 3 undergraduates; page copyright 2025."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-civic-a-i-lab",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 director, 3 PhD students, 1 visiting PhD student, 2 master's students, 5 undergraduate research assistants",
+      "members_page_url": "https://civicai.khoury.northeastern.edu/research-team/",
+      "pi_name": "Saiph Savage",
+      "pi_title": "Director; Assistant Professor, Khoury College of Computer Sciences"
+    },
+    "note": "Count from the Research Team page (fetched): director, 3 PhD students, 1 visiting PhD student, 2 master's, 5 undergraduate RAs; alumni and the Research Collaborators section (professor, GovTech director, program manager) excluded."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-collaborative-social-systems-lab",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 director, 1 postdoc, 2 graduate students, 1 undergraduate",
+      "members_page_url": "https://www.christophriedl.net/people.html",
+      "pi_name": "Christoph Riedl",
+      "pi_title": "Professor of Information Systems and Network Science; Lab Director"
+    },
+    "note": "Count from people page: lab director Christoph Riedl plus 4 graduate research assistants listed (1 undergraduate, 1 postdoc, 2 graduate students); alumni excluded; Zach is described as fifth-year so the roster may be a bit dated."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-computing-for-social-good-lab",
+    "fields": {
+      "pi_name": "Mai ElSherief",
+      "pi_title": "Assistant Professor of AI and Social Justice, Khoury College of Computer Sciences"
+    },
+    "note": "PI is Mai ElSherief; the people page lists doctoral and undergraduate students, but the undergraduate list carries 2021-2023 dates mixed with current ones, so who is current cannot be told and count is null."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-data-visualization",
+    "fields": {
+      "join_page_url": "https://vis.khoury.northeastern.edu/open-positions/",
+      "join_notes": "Open positions page: prospective PhD students apply through the CS, Personal Health Informatics, Network Science or Cybersecurity PhD programs and may contact faculty; Industry PhD option; spring admission possible; the college is also hiring faculty."
+    },
+    "note": "Not sized, the site is not this unit's own: Khoury Vis Lab is a multi-PI group (Enrico Bertini, Michelle Borkin and Cody Dunne as Group Co-Leads, plus Lace Padilla and others) with 11 faculty, so no single group size; count null."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-data-lab",
+    "fields": {
+      "join_page_url": "https://db.khoury.northeastern.edu/research-opportunities/",
+      "join_notes": "Research Opportunities page (appears dated) describes the group and says it is recruiting new faculty; no student application steps were seen."
+    },
+    "note": "Not sized, the site is not this unit's own: DATA Lab is a shared group of three faculty (Wolfgang Gatterbauer, Prashant Pandey, Mirek Riedewald) with students and postdocs, no single lead named on the current people page; count null."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-formal-methods-group",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: Northeastern Formal Methods group is shared by faculty Pete Manolios and Stavros Tripakis; the site looks stale (newest news is from 2021), so count left null."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-generative-ai-research-group",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 founder and lead, 1 principal scientist and advisor, 8 research assistants",
+      "members_page_url": "https://genairesearch.sites.northeastern.edu/our-team/",
+      "pi_name": "Shanu Sushmita",
+      "pi_title": "Founder and Lead; Assistant Teaching Professor, Khoury College of Computer Sciences (Seattle)"
+    },
+    "note": "Count from our-team page: founder and lead Shanu Sushmita, principal scientist and advisor Mohammad Zandsalimy, 8 research assistants; past members excluded."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-gyori-lab-for-computational-biomedicine",
+    "fields": {
+      "member_count": 24,
+      "member_breakdown": "1 PI, 7 scientific software developers, 4 PhD students, 3 research scientists, 2 senior research scientists, 1 program manager, 3 co-op students, 2 master's students, 1 undergraduate",
+      "members_page_url": "https://gyorilab.github.io/",
+      "join_page_url": "https://gyorilab.github.io/",
+      "join_notes": "Open Positions section: PhD applicants must apply through the Khoury CS or Bioengineering PhD portals, but the lab is not currently recruiting PhD students; postdocs should reach out directly; part-time or volunteer biocurator wanted for the Bioregistry project.",
+      "accepting_grad_students": false,
+      "pi_name": "Benjamin M. Gyori",
+      "pi_title": "Associate Professor"
+    },
+    "note": "Count from the People section of the lab home page: PI, 7 scientific software developers, 4 PhD students, 3 research scientists, 2 senior research scientists, 1 program manager, 3 co-ops, 2 master's, 1 undergraduate; past members excluded."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-helping-hands-lab",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 6 PhD students, 4 MS students, 1 visiting student",
+      "members_page_url": "https://www2.ccs.neu.edu/research/helpinghands/lab.html",
+      "join_page_url": "https://www2.ccs.neu.edu/research/helpinghands/join.html",
+      "join_notes": "Funded postdoc and PhD positions: email CV to Robert Platt. Master's, undergraduate and visiting students: contact the PhD student whose work interests you most.",
+      "pi_email": "rplatt@ccs.neu.edu",
+      "pi_name": "Robert Platt",
+      "pi_title": "Lab Director"
+    },
+    "note": "Count from the Lab page: director Robert Platt, 6 PhD students, 4 MS students, 1 visiting student; alumni excluded."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-human-data-interaction-lab",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 director, 1 associate research professor, 1 assistant research professor, 1 associate research scientist",
+      "members_page_url": "https://roux.northeastern.edu/nu_research/human-data-interaction-hdi/",
+      "join_page_url": null,
+      "join_notes": "Page has a Join Our Team section pointing to open research and postdoc positions on the Northeastern careers site (not read).",
+      "pi_name": "Melanie Tory",
+      "pi_title": "Director of Human Data Interaction Research"
+    },
+    "note": "Count from the Researchers section of this Roux Institute HDI program page: director Melanie Tory, Michael Correll, Mahsan Nourani, Hari Palani; it is an industry-facing research and prototyping program, so treat with care."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-interact-animal-lab",
+    "fields": {
+      "pi_name": "Rébecca Kleinberger",
+      "pi_title": "Assistant Professor of Humanics and AI",
+      "member_count": 6,
+      "member_breakdown": "1 PI, 5 students (undergrad and master's)",
+      "members_page_url": "https://www.interactanimallab.com/team",
+      "admin_email": "contact@interactanimallab.com"
+    },
+    "note": "Count from team page: PI plus 5 listed current lab members (past members excluded)."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-international-secure-systems-lab",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: ISecLab is a meta-lab of security labs at many universities; members page lists faculty at other institutions, no single lead."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-interpretable-neural-networks-lab",
+    "fields": {
+      "pi_name": "David Bau",
+      "pi_title": "Assistant Professor of Computer Science",
+      "member_count": 23,
+      "member_breakdown": "1 PI, 22 listed lab members",
+      "members_page_url": "https://baulab.info/",
+      "join_page_url": null,
+      "join_notes": "Apply to the Khoury PhD program and contact David Bau if interested in joining as graduate student or postdoc; also NDIF engineering fellowships (students.html not read)."
+    },
+    "note": "Count from lab home page: 22 names under Lab Members plus PI David Bau (not in the list); page has no current/alumni split so list may include non-current people."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-knowledge-discovery-lab",
+    "fields": {
+      "pi_name": "Tehmina Amjad",
+      "pi_title": "Chair",
+      "member_count": 10,
+      "member_breakdown": "1 chair, 3 lead researchers, 4 researchers, 2 members/founders",
+      "members_page_url": "https://knowledgelab.sites.northeastern.edu/our-team/"
+    },
+    "note": "Count from team page: 10 people under KDL Core Members, including Chair Prof. Tehmina Amjad; student-run research club style lab."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-lab-for-learning-and-planning-robotics",
+    "fields": {
+      "pi_name": "Christopher Amato",
+      "pi_title": "Associate Professor",
+      "member_count": 11,
+      "member_breakdown": "1 PI, 8 PhD students, 2 MS students",
+      "members_page_url": "https://llpr.ccs.neu.edu/"
+    },
+    "note": "Count from home page Team section: PI Christopher Amato plus 10 current students (alumni excluded)."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-lazer-lab",
+    "fields": {
+      "pi_name": "David Lazer",
+      "pi_title": "Director; University Distinguished Professor of Political Science and Computer Sciences",
+      "member_count": 11,
+      "member_breakdown": "1 director, 1 postdoc, 1 principal research scientist, 1 administrative officer/lab manager, 7 PhD students",
+      "members_page_url": "https://www.lazerlab.net/people",
+      "join_page_url": "https://www.lazerlab.net/positions/employment",
+      "join_notes": "Employment page states there are currently no open positions in the lab.",
+      "admin_name": "Janette Briceno",
+      "admin_email": "j.briceno@northeastern.edu"
+    },
+    "note": "Count from people page: director, 1 postdoc, 1 principal research scientist, 1 lab manager, 7 PhD students; visiting scholar and alumni excluded. Employment page says no open positions."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-massachusetts-open-cloud",
+    "fields": {},
+    "note": "Not sized, the site could not be read: massopen.cloud returns 403 Forbidden / 404 nginx page; not retried. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-mathematical-computational-and-applied-data-scienc",
+    "fields": {},
+    "note": "Not sized, the site could not be read: Khoury lab page returned only a 404 Not Found error."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-mhealth-research-group",
+    "fields": {
+      "pi_name": "Stephen Intille",
+      "pi_title": "Professor; Research Group Director",
+      "member_count": 9,
+      "member_breakdown": "1 director, 5 doctoral students, 1 MS student, 2 undergraduates",
+      "members_page_url": "https://www.mhealthgroup.org/team.html",
+      "join_page_url": "https://www.mhealthgroup.org/who-should-join.html",
+      "join_notes": "Group works with students from undergraduate to postdoc; usually recruiting PhD students, applications due mid-December for entry the following fall (home page says Sept 2026 recruiting, deadline Dec 15, 2025).",
+      "accepting_grad_students": true
+    },
+    "note": "Count from team page: director, 5 doctoral students, 1 master's student, 2 undergraduates; Affiliates section (graduates, collaborators, Jack Hester) excluded. Roster has a co-op listed July-Dec 2025."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-mig-lab",
+    "fields": {
+      "pi_name": "Jeongkyu Lee",
+      "pi_title": "Professor",
+      "member_count": 9,
+      "member_breakdown": "1 PI, 8 student members",
+      "members_page_url": "https://miglab.sites.northeastern.edu/our-team/"
+    },
+    "note": "Count from team page: 8 student members listed with no alumni heading, plus PI Jeongkyu Lee who is named only in a member bio ('under the guidance of Professor Jeongkyu Lee'), added as +1; one listed member (Divit Vasu) graduated in 2023 but is described as a member."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-monr-research-group",
+    "fields": {
+      "pi_name": "David Choffnes",
+      "pi_title": "Professor; Executive Director of the Cybersecurity and Privacy Institute",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://moniotrlab.khoury.northeastern.edu/",
+      "join_page_url": "https://moniotrlab.khoury.northeastern.edu/students-projects/",
+      "join_notes": "Current Northeastern undergraduate or graduate students email the contact of a listed project with subject 'Fall 2026 Mon(IoT)r Lab collaboration PROJECT NAME' and attach a recent resume with GPA.",
+      "admin_email": "moniotr@ccs.neu.edu"
+    },
+    "note": "Count not kept: the page names only two senior people and shows no student roster (the page lists 2). Home page Team section shows only two people (Choffnes, Dubois); no student roster, so this may undercount the group. Students-projects page is about collaboration opportunities."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-network-and-distributed-systems-security",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: NDS2 people page lists two faculty (Nita-Rotaru, Oprea), so a shared multi-PI group; roster also looks old (news up to 2022)."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-neurai-lab",
+    "fields": {
+      "pi_name": "Ilmi Yoon",
+      "pi_title": "Chair (co-chair: Nadim Saad)",
+      "members_page_url": "https://neurai.sites.northeastern.edu/our-team/"
+    },
+    "note": "Count left null: 'NEURAI Core Members' mixes chair, co-chair, leads, an Ex Co-Lead, researchers, alumni and contributors, so current core group is not clear. Co-founded by Ilmi Yoon (Chair) and Nadim Saad (Co-Chair)."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-the-northeastern-university-systems-security-lab",
+    "fields": {
+      "pi_name": "Engin Kirda",
+      "pi_title": "Professor",
+      "member_count": 9,
+      "member_breakdown": "1 professor, 1 lead research professor, 2 research associates, 1 postdoc, 4 PhD students",
+      "members_page_url": "https://seclab.nu/people.html"
+    },
+    "note": "Count from people page: 1 faculty, 3 research associates, 1 postdoc, 4 PhD students (alumni excluded); three research associates carry company affiliations in parentheses."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-nu-algorithm-interactive-gaming",
+    "fields": {
+      "pi_name": "Lama Hamandi",
+      "pi_title": "Teaching Professor of Computer Science and Assistant Director of Computer Programs - California",
+      "member_count": 5,
+      "member_breakdown": "1 supervising professor, 4 MS students",
+      "members_page_url": "https://nuaig.sites.northeastern.edu/our-team/",
+      "join_page_url": null,
+      "join_notes": "Home page 'JOIN CLUB' button links to a sign-up form (not opened)."
+    },
+    "note": "Count from team page Current Members: Lama Hamandi plus 4 MS students (previous members excluded)."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-nulab-for-digital-humanities-and-computational-soc",
+    "fields": {
+      "pi_name": "Moira Zellner",
+      "pi_title": "Co-Director, NULab; Professor of Public Policy and Urban Affairs",
+      "members_page_url": "https://cssh.northeastern.edu/nulab/community/faculty-and-staff/"
+    },
+    "note": "Count left null: NULab is a center; faculty-and-staff page lists leadership (Flanders, Zellner, Connell, Rogers) plus a long affiliated faculty list, so core group is not clear. Co-Director Moira Zellner; Julia Flanders listed first under leadership."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-people-and-robot-collaborative-systems-lab",
+    "fields": {
+      "pi_name": "Zhi Tan",
+      "pi_title": "Assistant Professor",
+      "pi_email": "zhi.tan@northeastern.edu"
+    },
+    "note": "Count left null: team page shows only the PI's profile (PARCS Lab), no roster of members."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-privacy-enabling-ai-and-computer-human-interaction",
+    "fields": {
+      "pi_name": "Tianshi Li",
+      "pi_title": "Principal Investigator"
+    },
+    "note": "Count left null: people page lists PI, 4 PhD students and 2 'PhD Collaborator' entries whose membership status is unclear."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-public-computing-lab",
+    "fields": {},
+    "note": "Not sized, the site could not be read: Placeholder page that says 'Coming soon...'."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-rad-lab",
+    "fields": {
+      "pi_name": "Tina Eliassi-Rad",
+      "pi_title": "Director"
+    },
+    "note": "Not sized, the site is not this unit's own: Site is the Network Science Institute labs list and institute people page, not the Rad Lab's own site; lab directed by Tina Eliassi-Rad per the labs list."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-reality-design-lab",
+    "fields": {
+      "pi_name": "Wallace Lages",
+      "pi_title": "Principal Investigator; Assistant Professor",
+      "pi_email": "w.lages@northeastern.edu",
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD students, 1 graduate student, 1 undergraduate",
+      "members_page_url": "https://realitydesign.sites.northeastern.edu/our-team/",
+      "join_page_url": "https://realitydesign.sites.northeastern.edu/contact-us/",
+      "join_notes": "Northeastern students get in touch and may join group meetings; prospective graduate students should apply to Khoury (MS/PhD CS) or CAMD (MS Game Science and Design, PhD Interdisciplinary Design and Media)."
+    },
+    "note": "Count from team page: PI plus 4 Current Members (alumni excluded)."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-relational-agents-group",
+    "fields": {
+      "pi_name": "Timothy Bickmore",
+      "pi_title": "Director",
+      "member_count": 9,
+      "member_breakdown": "1 director, 6 PhD students, 1 research system admin, 1 project manager",
+      "members_page_url": "http://relationalagents.com/people/index.html"
+    },
+    "note": "Count from people page Current Team: director, 6 PhD students, research system admin, project manager (alumni excluded)."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-signal-processing-and-artificial-intelligence",
+    "fields": {
+      "pi_name": "Aarti Sathyanarayana",
+      "pi_title": "Director",
+      "pi_email": "a.sathyanarayana@northeastern.edu",
+      "join_notes": "Site says it hires undergraduate, master's, doctoral and postdoc levels; introduce yourself by email with CV and schedule; at the time of writing not accepting more Northeastern grad students or postdocs (page looks old)."
+    },
+    "note": "Count left null: no roster on the lab site. Home page says directed by Dr. Aarti Sathyanarayana; page looks dated (says no undergraduate hiring until Fall 2022)."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-sociotechnical-equity-and-agency-lab",
+    "fields": {
+      "pi_name": "Michael Ann DeVito",
+      "pi_title": "Lab Director; Assistant Professor of Computer Science and Communication Studies",
+      "member_count": 9,
+      "member_breakdown": "1 director, 1 postdoc, 6 PhD students, 1 master's apprentice",
+      "members_page_url": "https://sealab.sites.northeastern.edu/our-team/",
+      "join_page_url": "https://sealab.sites.northeastern.edu/open-positions/",
+      "join_notes": "Hires current Northeastern undergraduate and master's students as junior research associates and apprentices (Khoury Research Apprenticeship, email Dr. DeVito); PhD applicants apply to Khoury CS PhD or CAMD Interdisciplinary Design and Media and name DeVito; page says not actively recruiting PhD students and mentions the Fall 2025 cycle."
+    },
+    "note": "Count from team page: director, postdoc, 6 PhD students, 1 master's apprentice; Lab Affiliates and Lab Alumni excluded."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-statistical-methods-for-studies-of-biomolecular-sy",
+    "fields": {},
+    "note": "Not sized, the site could not be read: Site did not load (connection refused) and no page is cached."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-synergetic-media-learning-lab",
+    "fields": {
+      "pi_name": "Yun Raymond Fu",
+      "pi_title": "Lab Director; COE Distinguished Professor",
+      "member_count": 20,
+      "member_breakdown": "1 director, 19 PhD students",
+      "members_page_url": "https://fulab.sites.northeastern.edu/our-team/"
+    },
+    "note": "Count from team page: director plus 19 current PhD students (all marked 'Now')."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-systems-research-group",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: Systems Research Group is a shared group of six faculty with their PhD students, no single lead named."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-technology-equity-and-accessibility-lab",
+    "fields": {
+      "pi_name": "Maitraye Das",
+      "pi_title": "Lab Director and Assistant Professor",
+      "pi_email": "ma.das@northeastern.edu",
+      "member_count": 6,
+      "member_breakdown": "1 director, 3 PhD students, 2 undergraduates",
+      "members_page_url": "https://tealab.sites.northeastern.edu/our-team/",
+      "join_page_url": "https://tealab.sites.northeastern.edu/open-positions/",
+      "join_notes": "Email Dr. Das with CV and short research interest; one PhD opening for the Fall 2027 cycle (also apply via CS PhD or Interdisciplinary Design and Media PhD and name Das); no funding for undergraduate or master's students at present.",
+      "accepting_grad_students": true
+    },
+    "note": "Count from team page: director, 3 PhD students, 2 current MS/undergrad students; past students excluded."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-ubiquitous-computing-for-health-and-well-being-lab",
+    "fields": {
+      "pi_name": "Varun Mishra",
+      "pi_title": "Assistant Professor, Computer Science and Health Sciences",
+      "member_count": 10,
+      "member_breakdown": "1 PI, 7 PhD students, 1 visiting PhD student, 1 masters RA",
+      "members_page_url": "https://ubiwell.github.io/team",
+      "join_page_url": "https://ubiwell.github.io/2026/10/06/join-us.html",
+      "join_notes": "Recruiting PhD students for Fall 2027 (CS or Personal Health Informatics); fully funded; apply to the Northeastern PhD program by December 15; the lab says it cannot answer individual inquiry emails.",
+      "accepting_grad_students": true
+    },
+    "note": "Count from team page Current Members (includes 1 visiting PhD student and 1 masters RA); past members excluded."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-vis-at-northeastern",
+    "fields": {
+      "members_page_url": "https://datavis.sites.northeastern.edu/our-team/"
+    },
+    "note": "Count left null: VIS at Northeastern is an initiative; people page lists 15 faculty from several colleges and no lead."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-visual-intelligence-lab",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: lab_website is the neu-vi GitHub organization page, not a lab site; no lead or roster shown."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-visualization-consortium",
+    "fields": {
+      "pi_name": "Michelle Borkin",
+      "pi_title": "Co-director (with Dietmar Offenhuber)"
+    },
+    "note": "Count left null: NUVis is a consortium; home page names co-directors Michelle Borkin and Dietmar Offenhuber and associate director Steven Geofrey, no roster of core staff."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-voice-of-women-lab",
+    "fields": {
+      "pi_name": "Rupal Patel",
+      "pi_title": "Principal Investigator; Professor",
+      "member_count": 6,
+      "member_breakdown": "1 PI, 5 undergraduate research assistants",
+      "members_page_url": "https://voxx.sites.northeastern.edu/team/"
+    },
+    "note": "Count from team page: PI plus 5 undergraduate research assistants; visiting researcher and alumni excluded."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-center-for-inclusive-computing",
+    "fields": {
+      "pi_name": "Catherine Gill",
+      "pi_title": "Executive Director (Carla Brodley is Founding Executive Director)",
+      "admin_email": "khoury-cic@northeastern.edu",
+      "join_page_url": "https://cic.northeastern.edu/get-involved/"
+    },
+    "note": "Count left null: who-we-are page lists 3 leaders, 14 program managers/technical advisors at many universities and a research team that includes outside people, so core group is not clear. Get-involved page loaded with no further text."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-center-for-generative-ai",
+    "fields": {
+      "admin_email": "mi.gardner@northeastern.edu",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Cached page text is only the title and a link list (still empty after a render attempt); no people or leader shown."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-internet-democracy-initiative",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "2 co-directors, 2 principal investigators, 4 staff",
+      "members_page_url": "https://www.nuinfoinstitute.org/about-iiid",
+      "pi_name": "David Lazer",
+      "pi_title": "Co-Director (with Rebekah Tromble)",
+      "admin_email": "infoinstitute@northeastern.edu",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Count from the institute's About page (nuinfoinstitute.org/about-iiid, linked from the cached home): leadership 4 + staff 4; affiliates excluded; the institute has two co-directors (Lazer and Tromble)."
+  },
+  {
+    "source": "data/sources/northeastern-khoury.json",
+    "lab_id": "northeastern-khoury-national-internet-observatory",
+    "fields": {
+      "join_page_url": "https://nationalinternetobservatory.org/jobs/index.html",
+      "join_notes": "Jobs page says NIO is not hiring at this time; the public can join as a research panel participant via the Join Now page.",
+      "admin_email": "help@nationalinternetobservatory.org",
+      "admin_name": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Own site of the NIO; its About page names several co-PIs (David Lazer, Christo Wilson, David Choffnes) and no single director or roster, so count and lead left null; jobs page says not hiring now; volunteers join as study participants."
+  },
+  {
+    "source": "data/sources/harvard-gsd.json",
+    "lab_id": "harvard-gsd-harvard-mellon-urban-initiative",
+    "fields": {
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site could not be read: Cached page is only an Access Denied error. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-democratic-knowledge-project",
+    "fields": {
+      "member_count": 24,
+      "member_breakdown": "1 founding director (faculty), 12 DKP Learn staff, 11 DKP Launch staff",
+      "members_page_url": "https://www.democraticknowledgeproject.org/our-team/",
+      "pi_name": "Danielle Allen",
+      "pi_title": "DKP Founding Director",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Count from the Our Team page: 28 listed minus the 4 Scholarly Advisory Committee members; includes DKP Learn, DKP Launch (a partner nonprofit arm shown as part of the team) and the founding director."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-edredesign",
+    "fields": {
+      "member_count": 21,
+      "member_breakdown": "21 staff incl. founder and faculty director, executive director, 2 postdoctoral fellows",
+      "members_page_url": "https://edredesign.org/about/our-team",
+      "pi_name": "Paul Reville",
+      "pi_title": "Founder and Faculty Director",
+      "join_page_url": "https://edredesign.org/get-involved",
+      "join_notes": "No full-time openings currently; Harvard students can apply for internships, fellowships and the Cradle-to-Career Summer Fellowship and a spring/summer 2027 Events Associate role (apply by Nov 20); partnership inquiries go to Executive Director Rob Watson.",
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Count from the Our Team page Staff list (21 people); senior fellows, affiliates and student associates excluded."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-immigration-initiative-at-harvard",
+    "fields": {
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, this is not a research group: The home page describes the initiative in the past tense (it advanced research and served as a clearinghouse), it appears to have closed, and it shows no people."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-the-initiative-on-superintendent-as-civic-leader",
+    "fields": {
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site could not be read: Cached page is only an Access Denied error. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-public-education-leadership-project",
+    "fields": {
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site could not be read: Cached page is only an Access Denied error. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-the-black-teacher-archive",
+    "fields": {
+      "pi_name": "Imani Perry",
+      "pi_title": "BTA Co-Principal Investigator, Co-Founding Director (with Jarvis Givens)",
+      "admin_email": "bta@gse.harvard.edu",
+      "members_page_url": "https://curiosity.lib.harvard.edu/black-teacher-archive/about/project-team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Project Team page (fetched) lists 2 co-PIs/co-founding directors (Imani Perry and Jarvis Givens), project manager, library liaison, postdoc, and RAs only by past semesters, so current core is unclear; count left null."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-blair-economics-lab-be-lab",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 3 PhD candidates (Clemson), 1 postdoc, 5 Harvard/other students and fellows, 1 undergraduate",
+      "members_page_url": "https://www.pqblair.net/our-team",
+      "pi_name": "Peter Q. Blair",
+      "pi_title": "Principal Investigator; faculty member, Harvard Graduate School of Education",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Count from the Our Team page: PI, 3 job-market PhD candidates, 7 fellows and students; roster looks old (a candidate's expected graduation is May 2020, an undergraduate is class of 2021) but is still counted."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-child-centered-ai-lab",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdocs, 2 visiting researchers, 1 lab manager, 1 outreach coordinator, 3 PhD students",
+      "members_page_url": "https://childcenteredai.org/team/",
+      "pi_name": "Ying Xu",
+      "pi_title": "Assistant Professor, Principal Investigator",
+      "admin_email": "learningmedialab@gse.harvard.edu",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Count from the Team page: all 10 listed, including 2 visiting researchers (one is an incoming postdoc)."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-data-wise-project",
+    "fields": {
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site could not be read: Cached page is only an Access Denied error. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-deeper-learning-institute",
+    "fields": {
+      "pi_name": "Jal Mehta",
+      "pi_title": "Co-Founder and Faculty Director",
+      "members_page_url": "https://www.deeperlearningdozen.org/about-us",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Meet the Team on the About page (fetched) lists 6 staff plus a senior advisor, a district advisor, one name with no title and a mention of a co-founder, so the core group is unclear; count left null."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-first-place",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "Director, deputy director, science director, communications director, co-investigator, partnership and impact manager, executive coordinator",
+      "members_page_url": "https://firstplace.gse.harvard.edu/people/",
+      "pi_name": "Jack Shonkoff",
+      "pi_title": "Director",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Count from the Core Team section of the People page, leaving out the 2 Senior Strategic Advisors; communications, analytics, fellows and advisor groups excluded."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-gaab-lab",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 1 PhD student, 3 research assistants",
+      "members_page_url": "https://www.gaablab.com/lab-members",
+      "pi_name": "Nadine Gaab",
+      "pi_title": "Principal Investigator",
+      "join_page_url": "https://www.gaablab.com/prospective-phd-students",
+      "join_notes": "Open positions are posted on the lab's Open Positions page when available; prospective PhD students apply through the HGSE PhD program and the page explains what Dr. Gaab looks for.",
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Count from the Meet the Team page."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-language-for-learning",
+    "fields": {
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site could not be read: Cached page is only an Access Denied error. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-leadership-initiative-for-faith-and-education-l-i",
+    "fields": {
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site could not be read: Cached page is only an Access Denied error. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-reads-lab",
+    "fields": {
+      "pi_name": "James S. Kim",
+      "pi_title": "Professor of Education",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Home and About pages show no roster; the About page says the lab is led by Professor of Education James S. Kim; count left null."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-refugee-reach",
+    "fields": {
+      "pi_name": "Sarah Dryden-Peterson",
+      "pi_title": "Founder and Director",
+      "members_page_url": "https://www.reach.gse.harvard.edu/team",
+      "join_notes": "Team page says the graduate student assistant application cycle is closed.",
+      "join_page_url": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Team page names the founder and director plus co-founders and mixed current and former fellows without clear roles, so the current core is unclear; count left null."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-the-rowe-lab",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 5 doctoral students, 1 post-graduate research fellow, 1 master's student, 3 research assistants, 1 Ed.M. early childhood educator",
+      "members_page_url": "https://www.meredith-rowe.com/lab",
+      "pi_name": "Meredith L. Rowe",
+      "pi_title": "Saul Zaentz Professor of Early Learning and Development",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Count from the Lab page: PI plus 11 current lab members before the Former Lab Members heading."
+  },
+  {
+    "source": "data/sources/harvard-gse.json",
+    "lab_id": "harvard-gse-xu-learning-media-lab",
+    "fields": {
+      "pi_name": "Ying Xu",
+      "pi_title": "Assistant Professor, Graduate School of Education",
+      "pi_email": "yingxu@g.harvard.edu",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site is not this unit's own: The site is Ying Xu's personal profile page; its team page is on childcenteredai.org (a separate worklist item)."
+  },
+  {
+    "source": "data/sources/harvard-hbs.json",
+    "lab_id": "harvard-hbs-entrepreneurship-arthur-rock-center-for-entreprene",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 faculty, 8 staff incl. director, 2 associate directors, community manager, coordinator, marketing, 2 operations",
+      "members_page_url": "http://www.hbs.edu/entrepreneurship/about/team",
+      "pi_name": "Thara Pillai",
+      "pi_title": "Director, Rock Center for Entrepreneurship",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Count from the Team page: 1 faculty member and 8 staff including the director."
+  },
+  {
+    "source": "data/sources/harvard-hls.json",
+    "lab_id": "harvard-hls-foundations-of-private-law",
+    "fields": {
+      "admin_email": "snorton@law.harvard.edu",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Own site of the project (links to plproject.law.harvard.edu); the People page lists affiliated faculty and student fellows, names no director, so count and lead left null."
+  },
+  {
+    "source": "data/sources/harvard-hls.json",
+    "lab_id": "harvard-hls-harvard-negotiation-project",
+    "fields": {
+      "pi_name": "James K. Sebenius",
+      "pi_title": "Director",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site is not this unit's own: The address is a category page of the Program on Negotiation site, not the project's own site; it names James K. Sebenius as director."
+  },
+  {
+    "source": "data/sources/harvard-hls.json",
+    "lab_id": "harvard-hls-shareholder-rights-project-srp",
+    "fields": {
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, this is not a research group: The project operated a clinic for three academic years (2011-2014) and the work was completed in summer 2014."
+  },
+  {
+    "source": "data/sources/mit-sap.json",
+    "lab_id": "mit-sap-architecture-labs",
+    "fields": {
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site is not this unit's own: Department page listing the Architecture department's research labs."
+  },
+  {
+    "source": "data/sources/mit-sap.json",
+    "lab_id": "mit-sap-urban-studies-planning-labs",
+    "fields": {
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site is not this unit's own: Department page listing several DUSP labs."
+  },
+  {
+    "source": "data/sources/tufts-engineering.json",
+    "lab_id": "tufts-engineering-center-for-applied-brain-and-cognitive-sciences",
+    "fields": {
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site could not be read: The site did not load (browser reported an invalid certificate name)."
+  },
+  {
+    "source": "data/sources/tufts-engineering.json",
+    "lab_id": "tufts-engineering-tufts-university-innovation-hub-for-food-and-mater",
+    "fields": {
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "The page was not read because robots.txt blocks the fetch; no count or lead recorded."
+  },
+  {
+    "source": "data/sources/tufts-engineering.json",
+    "lab_id": "tufts-engineering-usda-national-institute-for-cellular-agriculture-a",
+    "fields": {
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Home and About pages name no leader or roster; the institute is housed in the Tufts Center for Cellular Agriculture and says 32 researchers across seven universities, which is not a core count; count left null."
+  },
+  {
+    "source": "data/sources/tufts-engineering.json",
+    "lab_id": "tufts-engineering-tufts-cybersecurity-center-for-the-public-good",
+    "fields": {
+      "pi_name": "Shaanan Cohney",
+      "pi_title": "Co-Director (with Daniel Votipka)",
+      "members_page_url": "https://cybersecurity.tufts.edu/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "People page lists 2 co-directors, a founding director and many faculty from other departments, so the core group is unclear; count left null."
+  },
+  {
+    "source": "data/sources/tufts-engineering.json",
+    "lab_id": "tufts-engineering-t-tripods-institute",
+    "fields": {
+      "pi_name": "Lenore Cowen",
+      "pi_title": "Director of T-TRIPODS",
+      "members_page_url": "https://tripods.tufts.edu/people/leadership-council",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Leadership Council page (fetched) lists the director, research-focus directors and other key personnel but the core faculty and student lists were not read; count left null."
+  },
+  {
+    "source": "data/sources/tufts-engineering.json",
+    "lab_id": "tufts-engineering-center-for-engineering-education-and-outreach",
+    "fields": {
+      "pi_name": "Merredith Portsmore",
+      "pi_title": "Director, Research Associate Professor",
+      "admin_email": "ceeo@tufts.edu",
+      "join_page_url": "https://ceeo.tufts.edu/about/job-openings",
+      "join_notes": "Jobs are open to Tufts graduate and undergraduate students, postdocs, research faculty and staff; a form on the Job Openings page signs you up for notifications of new postings.",
+      "admin_name": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Faculty page (11 faculty with mixed home units) and Staff, Postdocs and Students page (8 staff, 3 postdocs, 15 students) were read; the core group is not clear, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-engineering.json",
+    "lab_id": "tufts-engineering-institute-for-research-on-learning-and-instruction",
+    "fields": {
+      "admin_email": "Michelle.Pare@tufts.edu"
+    },
+    "note": "Homepage loads but every People link (steering committee, postdocs, grad researchers, collaborators) resolves to a 404 page on the cached/fetched addresses, so no roster could be read; count left null."
+  },
+  {
+    "source": "data/sources/tufts-engineering.json",
+    "lab_id": "tufts-engineering-tufts-university-bloom-center",
+    "fields": {
+      "members_page_url": "https://students.tufts.edu/division-student-diversity-and-inclusion/communities/first-resource-center/first-resource-center-team",
+      "admin_email": "BLOOMCenter@tufts.edu",
+      "pi_name": "Grace Caldara, PhD",
+      "pi_title": "Assistant Dean of Student Inclusive Excellence; Director, BLOOM Center"
+    },
+    "note": "Not sized, this is not a research group: BLOOM Center is an undergraduate student-support and mentoring center (advising, bridge programs), not a research unit; team page lists a director and three associate directors."
+  },
+  {
+    "source": "data/sources/tufts-engineering.json",
+    "lab_id": "tufts-engineering-auster-center-for-applied-innovation-and-research",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 director, 1 research fellow, 2 program staff (excludes 4 affiliated faculty fellows)",
+      "members_page_url": "https://austercenter.tufts.edu/about/people",
+      "pi_name": "Filip Čučkov, PhD",
+      "pi_title": "Director, Auster Center; Auster Professor of Applied Innovation"
+    },
+    "note": "Count from people page: director, 1 research fellow, 2 staff; 4 faculty fellows (affiliated with other schools) left out."
+  },
+  {
+    "source": "data/sources/tufts-engineering.json",
+    "lab_id": "tufts-engineering-derby-entrepreneurship-center",
+    "fields": {
+      "members_page_url": "https://derbyecenter.tufts.edu/about/team/",
+      "pi_name": "Elaine Chen",
+      "pi_title": "Cummings Family Professor of the Practice in Entrepreneurship and Director, Derby Entrepreneurship Center at Tufts"
+    },
+    "note": "Not sized, this is not a research group: Entrepreneurship teaching and programs center (minors, competitions, accelerator), not a research group; team page lists director, associate director, 5 entrepreneurs-in-residence, 4 student staff."
+  },
+  {
+    "source": "data/sources/tufts-engineering.json",
+    "lab_id": "tufts-engineering-tufts-gordon-institute",
+    "fields": {},
+    "note": "Not sized, this is not a research group: Gordon Institute is a teaching institute for master's programs, minors and executive training; its people page is a menu of sub-pages and names no director."
+  },
+  {
+    "source": "data/sources/tufts-engineering.json",
+    "lab_id": "tufts-engineering-tufts-interdisciplinary-advanced-materials-center",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: Page about the TIAMAT center on the School of Engineering site (a consortium of 'more than four dozen' faculty); no director or roster shown."
+  },
+  {
+    "source": "data/sources/tufts-friedman.json",
+    "lab_id": "tufts-friedman-fnii",
+    "fields": {},
+    "note": "Leadership page (innovation.nutrition.tufts.edu/our-people/) was fetched but returned only template code with no names; no lead or roster readable."
+  },
+  {
+    "source": "data/sources/tufts-friedman.json",
+    "lab_id": "tufts-friedman-childobesity180",
+    "fields": {},
+    "note": "Our Team address returns the homepage content with no roster, and the homepage names no director; count left null. Site has a Careers page not read."
+  },
+  {
+    "source": "data/sources/tufts-friedman.json",
+    "lab_id": "tufts-friedman-nutricare",
+    "fields": {
+      "pi_name": "Fang Fang Zhang",
+      "pi_title": "Principal Investigator, NutriCare; Neely Family Professor and Chair, Division of Nutrition Epidemiology and Data Science, Friedman School"
+    },
+    "note": "Not sized, the site is not this unit's own: NutriCare is a single funded project page on the Food is Medicine Institute site; it names its principal investigator and a Tufts team of project manager and PhD candidate, not a standalone group."
+  },
+  {
+    "source": "data/sources/tufts-friedman.json",
+    "lab_id": "tufts-friedman-new-entry",
+    "fields": {
+      "admin_email": "nesfp@tufts.edu"
+    },
+    "note": "Not sized, this is not a research group: New Entry is a farmer-training and food-hub outreach program of the Friedman School; Team page returns homepage content with no roster and no director is named. Student opportunities and employment pages exist but were not read."
+  },
+  {
+    "source": "data/sources/tufts-medicine.json",
+    "lab_id": "tufts-medicine-maternal-health",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 executive director, 4 unit leads, 2 staff, 2 postdoctoral research fellows (students excluded, roster rotates)",
+      "members_page_url": "https://maternalhealthadvancement.tufts.edu/people",
+      "join_page_url": "https://maternalhealthadvancement.tufts.edu/get-involved",
+      "join_notes": "Get Involved page says students, researchers and volunteers are welcome to join the MOTHER Lab; contact by the page's form or by email.",
+      "admin_email": "blackmaternalhealth@tufts.edu",
+      "pi_name": "Ndidiamaka Amutah-Onukagha, PhD, MPH",
+      "pi_title": "Founder & Executive Director, Center for Maternal Health Advancement; Julia A. Okoro Professor of Black Maternal Health"
+    },
+    "note": "Count from fetched people page: executive director, 4 unit leads, 2 staff, 2 postdoctoral research fellows; student roster rotates and was left out."
+  },
+  {
+    "source": "data/sources/tufts-medicine.json",
+    "lab_id": "tufts-medicine-science-education",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "7 listed current people: director, co-directors, associate director, research assistant/program manager (alumni excluded)",
+      "members_page_url": "https://sites.tufts.edu/ctse/people/",
+      "join_page_url": "https://sites.tufts.edu/ctse/undergraduate-internships/",
+      "join_notes": "Undergraduate internships page describes the STEM+M CONNECT paid 8-week summer internship for Tufts sophomores and juniors (research lab or clinical observership); apply through that page.",
+      "pi_name": "Berri Jacque, PhD",
+      "pi_title": "Director, Center for Science Education; Associate Professor, Department of Medical Education"
+    },
+    "note": "Count from People page: 2 directors/co-directors plus associate director, PARE director, co-director, program manager and a webmaster-director; alumni excluded."
+  },
+  {
+    "source": "data/sources/tufts-medicine.json",
+    "lab_id": "tufts-medicine-cochrane-us",
+    "fields": {
+      "members_page_url": "https://sites.tufts.edu/uscochranenetwork/contact-us/",
+      "join_notes": "Contact page says to direct all inquiries to the director by email; training questions go to her or Carson Kingsbury.",
+      "pi_email": "Shayesteh.Jahanfar@tufts.edu",
+      "pi_name": "Shayesteh Jahanfar",
+      "pi_title": "Director, Tufts Affiliate of Cochrane US"
+    },
+    "note": "People page lists the director, 5 faculty/leaders from other units, and fellows; count left null because the staff and faculty group is not clearly core."
+  },
+  {
+    "source": "data/sources/tufts-medicine.json",
+    "lab_id": "tufts-medicine-grasp",
+    "fields": {
+      "pi_name": "Andrew G. Plaut",
+      "pi_title": "MD, Director, GRASP Center"
+    },
+    "note": "No roster on page: it says four core laboratories support about 35-40 physician-researchers, which is an approximation not a list; count null."
+  },
+  {
+    "source": "data/sources/tufts-medicine.json",
+    "lab_id": "tufts-medicine-khodadad",
+    "fields": {
+      "pi_name": "Philip Haydon, PhD",
+      "pi_title": "Founding Director, Khodadad Center; Annetta and Gustav Grisard Professor of Neuroscience"
+    },
+    "note": "Page shows a founding director message and a list of funded researchers (faculty from other units); no core roster, so count null. Current director not stated."
+  },
+  {
+    "source": "data/sources/tufts-medicine.json",
+    "lab_id": "tufts-medicine-icrhps",
+    "fields": {
+      "join_notes": "Page has a Career opportunities link (not read); general contact icrhpsinfo@tuftsmedicine.org.",
+      "admin_email": "icrhpsinfo@tuftsmedicine.org"
+    },
+    "note": "Institute page lists 9 member centers and a careers link but no director or roster; count null."
+  },
+  {
+    "source": "data/sources/tufts-medicine.json",
+    "lab_id": "tufts-medicine-mcri",
+    "fields": {
+      "admin_email": "mcri@tuftsmedicalcenter.org",
+      "pi_name": "Iris Jaffe, MD, PhD",
+      "pi_title": "Executive Director, Molecular Cardiology Research Institute"
+    },
+    "note": "Page says 12 principal investigators and more than 40 researchers and trainees but gives no roster; count null."
+  },
+  {
+    "source": "data/sources/tufts-medicine.json",
+    "lab_id": "tufts-medicine-otolaryngology",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: Department research page on the Tufts Medicine site (otolaryngology research and publication list); no lead or roster."
+  },
+  {
+    "source": "data/sources/tufts-medicine.json",
+    "lab_id": "tufts-medicine-neuroscience",
+    "fields": {
+      "pi_email": "grant.weiss@tufts.edu",
+      "pi_name": "Grant Weiss, PhD",
+      "pi_title": "Director, Center for Neuroscience Research; Research Assistant Professor of Neuroscience"
+    },
+    "note": "Not sized, this is not a research group: Center for Neuroscience Research is a core research facility (genomics, imaging, behavior cores) serving Tufts neuroscientists; page lists a director, billing contact and steering committee."
+  },
+  {
+    "source": "data/sources/tufts-medicine.json",
+    "lab_id": "tufts-medicine-informid",
+    "fields": {},
+    "note": "Team page groups 3 founding members (2 at other universities), senior fellows and about a dozen student fellows with no staff/lead roles; no director named, so count null."
+  },
+  {
+    "source": "data/sources/tufts-medicine.json",
+    "lab_id": "tufts-medicine-lyme",
+    "fields": {
+      "members_page_url": "https://tuftslymedisease.org/members/",
+      "pi_name": "Linden Hu and Robert Smith",
+      "pi_title": "Co-directors, Tufts University Lyme Disease Initiative"
+    },
+    "note": "Multi-PI initiative with 2 co-directors, executive board, associate directors and about 40 core members drawn from many units plus affiliated members; core group not clearly staff, so count null."
+  },
+  {
+    "source": "data/sources/tufts-medicine.json",
+    "lab_id": "tufts-medicine-cancer-center",
+    "fields": {},
+    "note": "Clinical cancer center page (trials, pilot funding); no lead or roster shown."
+  },
+  {
+    "source": "data/sources/tufts-medicine.json",
+    "lab_id": "tufts-medicine-womb",
+    "fields": {
+      "pi_name": "Perrie O'Tierney-Ginn, PhD",
+      "pi_title": "Executive Director, Woman, Mother + Baby Research Institute"
+    },
+    "note": "No roster on page (a 'PIs + research team' section had no names in the cached text); executive director named, count null."
+  },
+  {
+    "source": "data/sources/tufts-tisch.json",
+    "lab_id": "tufts-tisch-nslve",
+    "fields": {
+      "join_notes": "Home page offers Join NSLVE: institutions sign up free to participate in the study.",
+      "admin_email": "nslve@tufts.edu"
+    },
+    "note": "NSLVE is a national study run within CIRCLE at Tisch College; the Our Team address returns homepage content with no roster and no lead is named. Join NSLVE is campus sign-up for colleges (free), not a student/staff opening."
+  },
+  {
+    "source": "data/sources/tufts-tisch.json",
+    "lab_id": "tufts-tisch-tcrc",
+    "fields": {
+      "pi_email": "elaine.donnelly@tufts.edu",
+      "pi_name": "Elaine Donnelly",
+      "pi_title": "Director, Tisch College Community Research Center"
+    },
+    "note": "Leadership page shows only the director (a resource center supporting community-based research); no staff roster, count null."
+  },
+  {
+    "source": "data/sources/tufts-tisch.json",
+    "lab_id": "tufts-tisch-civic-ai",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://tischcollege.tufts.edu/research-faculty/research-centers/tufts-center-civic-ai/people",
+      "admin_email": "tischcollege@tufts.edu",
+      "pi_name": "Fahad Dogar and Peter Levine",
+      "pi_title": "Co-Directors, Tufts Center for Civic AI"
+    },
+    "note": "Count not kept: only the two co-directors are core, the rest are affiliated faculty and visiting fellows (the page lists 2). Count is the 2 co-directors; page otherwise lists affiliated faculty from other schools and visiting fellows, left out."
+  },
+  {
+    "source": "data/sources/tufts-tisch.json",
+    "lab_id": "tufts-tisch-civicgreen",
+    "fields": {
+      "pi_name": "Carmen Sirianni",
+      "pi_title": "Editor-in-chief, CivicGreen"
+    },
+    "note": "Not sized, the site is not this unit's own: CivicGreen is an editorial publication project; people page lists editors plus a long list of external contributors and advisors, not a research group."
+  },
+  {
+    "source": "data/sources/tufts-tisch.json",
+    "lab_id": "tufts-tisch-equity-group",
+    "fields": {
+      "pi_name": "Jennifer Allen, Peter Levine, Jayanthi Mistry and Thomas Stopka",
+      "pi_title": "Principal Investigators, Equity in Health, Wealth and Civic Engagement Priority Research Cluster"
+    },
+    "note": "Not sized, the site is not this unit's own: Equity in Health, Wealth and Civic Engagement research cluster is co-led by 4 PIs with about 20 members across Tufts schools."
+  },
+  {
+    "source": "data/sources/tufts-vet.json",
+    "lab_id": "tufts-vet-capp",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "7 core faculty",
+      "members_page_url": "https://vet.tufts.edu/center-animals-and-public-policy/capp-faculty",
+      "admin_email": "capp@tufts.edu"
+    },
+    "note": "Count is the 7 core faculty on the CAPP Faculty page (teaching-heavy: MAPP program); center director not named there; faculty fellows and advisory board excluded."
+  },
+  {
+    "source": "data/sources/tufts-vet.json",
+    "lab_id": "tufts-vet-operational-k9s",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 director, 1 education and training coordinator",
+      "members_page_url": "https://vet.tufts.edu/center-animals-and-public-policy/center-operational-k9s",
+      "join_page_url": "https://vet.tufts.edu/center-animals-and-public-policy/center-operational-k9s",
+      "join_notes": "Email copk9@tufts.edu to volunteer, learn about programs or enroll in training.",
+      "admin_email": "copk9@tufts.edu",
+      "pi_name": "Sean Majoy",
+      "pi_title": "Director, Richard McLaughlin Center for Operational K9s"
+    },
+    "note": "Count from the Faculty and Staff section of the center page: director and a training coordinator."
+  },
+  {
+    "source": "data/sources/tufts-vet.json",
+    "lab_id": "tufts-vet-biosafety-lab",
+    "fields": {
+      "admin_email": "nerbl@tufts.edu",
+      "pi_name": "Sam Telford III, ScD",
+      "pi_title": "Professor & Director of NERBL, Department of Infectious Disease and Global Health"
+    },
+    "note": "Not sized, this is not a research group: Regional Biosafety Laboratory is a high-containment facility offering space and partnerships to outside investigators; page is on the research office site."
+  }
+]
