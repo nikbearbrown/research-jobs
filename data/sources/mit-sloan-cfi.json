@@ -1,0 +1,36 @@
+{
+  "id": "mit-sloan-cfi",
+  "institution": "MIT",
+  "unit": "Consumer Finance Initiative",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://mitsloan.mit.edu/cfi/about-us-consumer-finance-initiative"
+  ],
+  "labs": [
+    {
+      "id": "mit-sloan-cfi-jonathan-parker",
+      "kind": "research-lab",
+      "lab_name": "Consumer Finance Initiative",
+      "pi_name": "Jonathan Parker",
+      "pi_title": "Director; Robert C. Merton (1970) Professor of Financial Economics",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mitsloan.mit.edu/cfi/about-us-consumer-finance-initiative",
+      "location": "MIT Sloan School of Management, 100 Main Street, Cambridge, MA 02142",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "A Sloan faculty-led initiative studying how new technology such as AI, crypto and mobile payments changes consumer finance, advice and regulation.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Antoinette Schoar is the other named director. The page lists 8 Sloan faculty researchers, 11 affiliated researchers at other institutions, and 8 PhD student researchers. No staff or admin roster, no count. No contact email or join page; Sloan careers link is the school-wide page."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "member_count left null: page lists directors, faculty researchers, outside affiliates and students without a staff roster."
+}

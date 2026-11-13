@@ -1,0 +1,39 @@
+{
+  "id": "mit-lcau",
+  "institution": "MIT",
+  "unit": "Norman B. Leventhal Center for Advanced Urbanism",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://lcau.mit.edu/",
+    "https://lcau.mit.edu/people",
+    "https://lcau.mit.edu/about",
+    "https://lcau.mit.edu/positions"
+  ],
+  "labs": [
+    {
+      "id": "mit-lcau-sarah-williams",
+      "kind": "research-lab",
+      "lab_name": "Norman B. Leventhal Center for Advanced Urbanism",
+      "pi_name": "Sarah Williams",
+      "pi_title": "Faculty Director; Associate Professor of Technology and Urban Planning",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://lcau.mit.edu/",
+      "location": "134 Massachusetts Ave., Bldg W41-2202, Cambridge, MA 02139",
+      "phone": null,
+      "admin_name": "Berit Lavender",
+      "admin_email": "beritl@mit.edu",
+      "research_summary": "A center in MIT's School of Architecture and Planning that brings faculty and labs together on design-led research on large-scale, complex urban environments.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://lcau.mit.edu/people",
+      "join_page_url": "https://lcau.mit.edu/positions",
+      "join_notes": "Positions page lists a one-year Research Associate 2 role (joint with the Civic Data Design Lab, apply through MIT's system, last updated 3/9/2026) and an hourly student website-migration job, to apply by emailing a resume to Berit Lavender.",
+      "profile_url": "https://lcau.mit.edu/people/sarah-williams",
+      "notes": "People page also lists Judith Barry as Professor and Director and Berit Lavender as Executive Director; Sarah Williams is shown as Faculty Director. The page does not say who leads overall, so the lead choice is a judgement. The roster mixes about 70 affiliated faculty, research staff, visiting scholars and PhD students with no clear core, so no count. Berit Lavender's email appears on the positions page for the student job."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Lead ambiguity noted in the entry. member_count left null."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "tufts-hitachi",
+  "institution": "Tufts University",
+  "unit": "Hitachi Center for Technology and International Affairs",
+  "city": "Medford / Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://sites.tufts.edu/hitachi/",
+    "https://sites.tufts.edu/hitachi/leadership/",
+    "https://sites.tufts.edu/hitachi/mission/",
+    "https://sites.tufts.edu/hitachi/fellowships-2/"
+  ],
+  "labs": [
+    {
+      "id": "tufts-hitachi-josephine-wolff",
+      "kind": "research-lab",
+      "lab_name": "Hitachi Center for Technology and International Affairs",
+      "pi_name": "Josephine Wolff",
+      "pi_title": "Alma G. and Merton B. Tarlow Professor of Technology and International Affairs and Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://sites.tufts.edu/hitachi/",
+      "location": "160 Packard Ave., Medford, MA 02155 USA",
+      "phone": "+1 617-627-3700",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Fletcher School center that sponsors research and teaching on technology management, international finance and economic integration, and supports a global exchange of ideas.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://sites.tufts.edu/hitachi/leadership/",
+      "join_page_url": "https://sites.tufts.edu/hitachi/fellowships-2/",
+      "join_notes": "Says the center supports fellows who come to Fletcher for research and teaching on technology and economic integration, and tells interested people to use a contact link; lists only past fellows (two faculty fellows). No application steps or named contact shown.",
+      "profile_url": null,
+      "notes": "Leadership page names three people: Wolff, Liliya Khasanova (post-doctoral research fellow and associate director) and Thomas Cao (Assistant Professor of Technology Policy). Faculty affiliates and affiliated students are on separate pages that were not read, so no core count. The Fellowships page also lists two current-looking doctoral fellows (Melita Sawyer, Jamilah Welch). No email shown."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The 'Get Involved' link was blocked by robots.txt. Fetched the Fellowships page as an extra page. An 'External Opportunities' page exists (https://sites.tufts.edu/hitachi/external-opportunities/) but was not read."
+}

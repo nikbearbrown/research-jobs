@@ -1,0 +1,39 @@
+{
+  "id": "umass-boston-csp",
+  "institution": "UMass Boston",
+  "unit": "Center for Social Policy",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.umb.edu/csp/",
+    "https://www.umb.edu/csp/about/",
+    "https://www.umb.edu/csp/about/team/",
+    "https://www.umb.edu/csp/elaine-werby-internship/"
+  ],
+  "labs": [
+    {
+      "id": "umass-boston-csp-susan-r-crandall",
+      "kind": "research-lab",
+      "lab_name": "Center for Social Policy",
+      "pi_name": "Susan R. Crandall",
+      "pi_title": "Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.umb.edu/csp/",
+      "location": "Healey Library, 10th Floor, Room 12, University of Massachusetts Boston, 100 Morrissey Blvd., Boston, MA 02125-3393",
+      "phone": "617.287.5550",
+      "admin_name": null,
+      "admin_email": "csp@umb.edu",
+      "research_summary": "UMass Boston research center, founded 1992, studying poverty, economic hardship and related public policy through participatory and mixed-methods research and evaluation.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.umb.edu/csp/about/team/",
+      "join_page_url": "https://www.umb.edu/csp/elaine-werby-internship/",
+      "join_notes": "Describes the Elaine Werby Public Service Internship, a stipended research and evaluation internship for a UMass Boston student on a center project or related independent research; supervised by staff or faculty, academic credit possible. No application steps or deadline shown on the page.",
+      "profile_url": null,
+      "notes": "Team page lists faculty affiliates, emerita and senior fellows, then about 24 current and recent doctoral students and Werby interns; no clear core roster, so no count. Crandall's director role is stated on the About and Team pages; no email for her."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Fetched the Team page and the Werby internship page as extras (the cached 'people' page was About)."
+}

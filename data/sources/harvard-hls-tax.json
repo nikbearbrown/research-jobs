@@ -1,0 +1,37 @@
+{
+  "id": "harvard-hls-tax",
+  "institution": "Harvard",
+  "unit": "Tax Law Program (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://tax.law.harvard.edu/",
+    "https://tax.law.harvard.edu/faculty/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-tax-org",
+      "kind": "research-lab",
+      "lab_name": "Harvard Law School Tax Law Program",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://tax.law.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "The Law School's set of tax courses, seminars and reading groups, with a faculty list and a page on how tax offerings are organized; it is a teaching program rather than a research group.",
+      "member_count": null,
+      "member_breakdown": "Faculty page lists 12 faculty and lecturers, headed 2023-2024",
+      "members_page_url": "https://tax.law.harvard.edu/faculty/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "No director, contact email, address, phone or jobs page shown. The faculty list is dated 2023-2024, so no current count is recorded. The site also links an International Tax Program page, not read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Sparse WordPress site; no lead or contact shown."
+}

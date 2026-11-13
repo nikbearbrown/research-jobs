@@ -1,0 +1,39 @@
+{
+  "id": "northeastern-economics",
+  "institution": "Northeastern University",
+  "unit": "Department of Economics",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://cssh.northeastern.edu/economics",
+    "https://cssh.northeastern.edu/economics/faculty-and-staff/",
+    "https://cssh.northeastern.edu/economics/about/",
+    "https://cssh.northeastern.edu/cssh-people/faculty-positions/"
+  ],
+  "labs": [
+    {
+      "id": "northeastern-economics-asha-sundaram",
+      "kind": "research-lab",
+      "lab_name": "Department of Economics",
+      "pi_name": "Asha Sundaram",
+      "pi_title": "Professor and Chair",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://cssh.northeastern.edu/economics",
+      "location": "301 Lake Hall, 360 Huntington Avenue, Boston, MA 02115-5000",
+      "phone": "617.373.2882",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Northeastern's economics department, which applies economics to real-world issues of social importance and runs BS, MS and PhD programs.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://cssh.northeastern.edu/economics/faculty-and-staff/",
+      "join_page_url": "https://cssh.northeastern.edu/cssh-people/faculty-positions/",
+      "join_notes": "Only the college-wide faculty hiring page was gathered; it points to CSSH positions in Workday. No research-assistant or pre-doctoral page was read (the menu links an Undergraduate Research Opportunities page that was not read).",
+      "profile_url": null,
+      "notes": "Department, not a lab: member_count left null. Email addresses on this site are hidden behind a protection script, so no address could be read; left null. Program coordinator Kathleen Downey (617-373-2887) and graduate coordinator Katie Thorp are named as contacts. The start page lists no faculty-run labs or centers; the college-wide Centers page was not read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "No labs or centers listed on the department's own pages. Email addresses on this site are hidden behind a protection script, so no address could be read; left null."
+}

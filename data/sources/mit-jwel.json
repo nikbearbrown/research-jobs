@@ -1,0 +1,38 @@
+{
+  "id": "mit-jwel",
+  "institution": "MIT",
+  "unit": "Abdul Latif Jameel World Education Lab (J-WEL)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://jwel.mit.edu/",
+    "https://jwel.mit.edu/about",
+    "https://jwel.mit.edu/about/contact"
+  ],
+  "labs": [
+    {
+      "id": "mit-jwel-org",
+      "kind": "research-lab",
+      "lab_name": "Abdul Latif Jameel World Education Lab (J-WEL)",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://jwel.mit.edu/",
+      "location": "400 Main Street, Suite 201, Cambridge, MA 02142",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "jpal_education@povertyactionlab.org",
+      "research_summary": "An MIT education lab that, since 2025, is part of J-PAL and works on evaluating and scaling practical approaches to improving learning.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Site says J-WEL became part of MIT's Abdul Latif Jameel Poverty Action Lab (J-PAL) in 2025. The contact page text shows the J-PAL education address, while its link target is jwel@mit.edu. No people page, lead, or join page found."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "No team page; no lead named. Contact page fetched with fetch.py."
+}

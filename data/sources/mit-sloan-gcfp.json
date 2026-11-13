@@ -1,0 +1,37 @@
+{
+  "id": "mit-sloan-gcfp",
+  "institution": "MIT",
+  "unit": "MIT Golub Center for Finance and Policy",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://mitsloan.mit.edu/centers-initiatives/mit-gcfp/welcome",
+    "https://mitsloan.mit.edu/centers-initiatives/mit-gcfp/people"
+  ],
+  "labs": [
+    {
+      "id": "mit-sloan-gcfp-deborah-j-lucas",
+      "kind": "research-lab",
+      "lab_name": "MIT Golub Center for Finance and Policy",
+      "pi_name": "Deborah J. Lucas",
+      "pi_title": "Co-Director; Sloan Distinguished Professor of Finance",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mitsloan.mit.edu/centers-initiatives/mit-gcfp/welcome",
+      "location": "One Main Street, Suite 9265, Cambridge, MA 02142",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "deirdre@mit.edu",
+      "research_summary": "A Sloan Finance Group initiative running nonpartisan research and education on governments as financial institutions and regulators of the financial system.",
+      "member_count": 5,
+      "member_breakdown": "2 co-directors, 1 executive director, 1 research associate, 1 senior administrative assistant",
+      "members_page_url": "https://mitsloan.mit.edu/centers-initiatives/mit-gcfp/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://mitsloan.mit.edu/faculty/directory/deborah-j-lucas",
+      "notes": "Haoxiang Zhu is the other co-director; Simone Cavallaro is executive director. Count excludes co-director emeriti (Robert Merton, Jonathan Parker, Andrew Lo), faculty affiliates and the advisory board. The people page's 'Email Us' link goes to deirdre@mit.edu; Deirdre Wade is the senior administrative assistant, but the page does not say the address is the general contact. Profile page for Lucas: https://mitsloan.mit.edu/faculty/directory/deborah-j-lucas. No join page."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "People page fetched with fetch.py (twice, to read its links)."
+}

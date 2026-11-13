@@ -1,0 +1,13 @@
+{
+  "id": "harvard-weatherhead",
+  "institution": "Harvard",
+  "unit": "Weatherhead Center for International Affairs",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "http://www.wcfia.harvard.edu/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The only cached page is an Access Denied error from the server (403 style), so nothing could be read. Not retried."
+}

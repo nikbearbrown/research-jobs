@@ -1,0 +1,40 @@
+{
+  "id": "northeastern-socant",
+  "institution": "Northeastern University",
+  "unit": "Department of Sociology and Anthropology",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://cssh.northeastern.edu/socant",
+    "https://cssh.northeastern.edu/socant/socant-faculty/",
+    "https://cssh.northeastern.edu/socant/about/",
+    "https://cssh.northeastern.edu/cssh-people/faculty-positions/",
+    "https://cssh.northeastern.edu/socant/research/research-centers/"
+  ],
+  "labs": [
+    {
+      "id": "northeastern-socant-org",
+      "kind": "research-lab",
+      "lab_name": "Department of Sociology and Anthropology",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://cssh.northeastern.edu/socant",
+      "location": "1135 Tremont Street, 900 Renaissance Park, Boston, MA 02115",
+      "phone": "617-373-3235",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Northeastern's joint sociology and anthropology department, with undergraduate and graduate programs and a postdoctoral fellow cohort.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://cssh.northeastern.edu/socant/socant-faculty/",
+      "join_page_url": "https://cssh.northeastern.edu/cssh-people/faculty-positions/",
+      "join_notes": "Only the college-wide faculty hiring page was gathered; no research-assistant page was found.",
+      "profile_url": null,
+      "notes": "Department, not a lab: member_count left null. The chair is not named on any page read. Email addresses on this site are hidden behind a protection script, so no address could be read; left null. The faculty page says Phil Brown directs the Social Science Environmental Health Research Institute, but no page read gives its site, so it is not an entry."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The department's Research Centers page has no list of its own; it sends readers to the college-wide centers page, which belongs to the college and was not read. No labs recorded."
+}

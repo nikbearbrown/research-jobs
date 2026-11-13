@@ -1,0 +1,38 @@
+{
+  "id": "mit-kuo-sharper",
+  "institution": "MIT",
+  "unit": "MIT Kuo Sharper Center for Prosperity and Entrepreneurship",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://mitsloan.mit.edu/ksc",
+    "https://kuosharper.mit.edu/home/get-involved/",
+    "https://kuosharper.mit.edu/home/about/our-people/"
+  ],
+  "labs": [
+    {
+      "id": "mit-kuo-sharper-dina-h-sherif",
+      "kind": "research-lab",
+      "lab_name": "MIT Kuo Sharper Center for Prosperity and Entrepreneurship",
+      "pi_name": "Dina H. Sherif",
+      "pi_title": "Executive Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mitsloan.mit.edu/ksc",
+      "location": "292 Main Street, E38-5th Floor, Cambridge, MA 02142-1605",
+      "phone": "617 324 2768",
+      "admin_name": null,
+      "admin_email": "kuosharper@mit.edu",
+      "research_summary": "A Sloan center, founded in 2007 and formerly called the Legatum Center, that supports entrepreneurs building ventures in global growth markets through fellowships, education programs, research and an annual conference.",
+      "member_count": 10,
+      "member_breakdown": "1 executive director, 2 senior advisors, 2 directors (fellowships and global initiatives; research), 1 entrepreneur-in-residence, 1 coordinator, 1 project manager, 1 research coordinator, 1 senior administrative assistant",
+      "members_page_url": "https://kuosharper.mit.edu/home/about/our-people/",
+      "join_page_url": "https://kuosharper.mit.edu/home/get-involved/",
+      "join_notes": "The page says there are no job openings now. MIT or nearby students can submit a resume through a form for future openings. It also describes fellowships, advising and partnership routes.",
+      "profile_url": null,
+      "notes": "The people page lists 10 staff including an Entrepreneur-in-Residence for 2025. Fellowship page says the 2024-2025 round was closed and the next opened June 2025, so that text may be out of date. Start page also gives a fax number, 617 225 6949. Individual staff emails appear on the people page but are not recorded here."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Breakdown is by the titles shown on the people page."
+}

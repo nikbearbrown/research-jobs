@@ -1,0 +1,37 @@
+{
+  "id": "mit-sloan-climate-policy",
+  "institution": "MIT",
+  "unit": "MIT Climate Policy Center",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://mitsloan.mit.edu/centers-initiatives/climate-policy-center/welcome",
+    "https://mitsloan.mit.edu/centers-initiatives/climate-policy-center/connect-us"
+  ],
+  "labs": [
+    {
+      "id": "mit-sloan-climate-policy-christopher-knittel",
+      "kind": "research-lab",
+      "lab_name": "MIT Climate Policy Center",
+      "pi_name": "Christopher Knittel",
+      "pi_title": "Faculty Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mitsloan.mit.edu/centers-initiatives/climate-policy-center/welcome",
+      "location": "100 Main Street, Cambridge, MA 02142",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "climatepolicycenter@mit.edu",
+      "research_summary": "A nonpartisan center that turns MIT climate and energy research into policy briefs, analysis and briefings for policymakers.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://mitsloan.mit.edu/centers-initiatives/climate-policy-center/connect-us",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Connect With Us page lists Bethany Patten (Executive Director), Joshua Hodge (Research Director), three postdoctoral associates (Jiyoung Lee, Laurent Liote, Juan Senga) and three affiliated faculty (Christoph Reinhart, John Sterman, Catherine Wolfram). That page is a list of experts for briefings, not a full roster, so no count. No join page found."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Connect page fetched with fetch.py (3 fetches used on this target, counting two repeats to read its links)."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "harvard-jchs",
+  "institution": "Harvard",
+  "unit": "Joint Center for Housing Studies",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.jchs.harvard.edu/",
+    "https://www.jchs.harvard.edu/about/staff",
+    "https://www.jchs.harvard.edu/about",
+    "https://www.jchs.harvard.edu/about/job-openings"
+  ],
+  "labs": [
+    {
+      "id": "harvard-jchs-chris-herbert",
+      "kind": "research-lab",
+      "lab_name": "Joint Center for Housing Studies of Harvard University",
+      "pi_name": "Chris Herbert",
+      "pi_title": "Managing Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.jchs.harvard.edu/",
+      "location": "1 Bow Street, Suite 400, Cambridge, Massachusetts 02138",
+      "phone": "(617) 495-7908",
+      "admin_name": null,
+      "admin_email": "jchs@harvard.edu",
+      "research_summary": "A Harvard research center on US housing, producing the annual State of the Nation's Housing report, working papers, data tools, events and student fellowships.",
+      "member_count": 23,
+      "member_breakdown": "1 managing director, 4 senior research fellows, 1 postdoctoral fellow, 1 housing design fellow, 4 senior research associates, 2 program directors, 3 research analysts, 2 research assistants, 5 finance, communications, events and publications staff",
+      "members_page_url": "https://www.jchs.harvard.edu/about/staff",
+      "join_page_url": "https://www.jchs.harvard.edu/about/job-openings",
+      "join_notes": "The job openings page says there are no open positions at this time. The About page describes fellowships and grants for Harvard graduate and doctoral students and postdoctoral fellowships.",
+      "profile_url": "https://www.jchs.harvard.edu/chris-herbert",
+      "notes": "The page's media contact email belongs to the communications director and is not recorded; the page asks that researchers not be emailed. Fax (617) 496-9957. Fellows and advisors, faculty and the Policy Advisory Board are on separate pages and not counted."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Count is the 23 names on the staff page."
+}

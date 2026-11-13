@@ -1,0 +1,39 @@
+{
+  "id": "umass-boston-cgs",
+  "institution": "UMass Boston",
+  "unit": "Center for Governance and Sustainability",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.umb.edu/cgs/",
+    "https://www.umb.edu/cgs/people/",
+    "https://www.umb.edu/cgs/about/",
+    "https://hr.umb.edu/"
+  ],
+  "labs": [
+    {
+      "id": "umass-boston-cgs-michelle-jurkovich",
+      "kind": "research-lab",
+      "lab_name": "Center for Governance and Sustainability",
+      "pi_name": "Michelle Jurkovich",
+      "pi_title": "Co-Director; Associate Professor, Conflict Resolution, Human Security and Global Governance",
+      "pi_email": "Michelle.Jurkovich@umb.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.umb.edu/cgs/",
+      "location": "Wheatley Hall, 4th Floor, Room 126, University of Massachusetts Boston, 100 Morrissey Blvd., Boston, MA 02125",
+      "phone": "617.287.7489",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "UMass Boston center founded in 2011 that does applied research and education on environmental, development and sustainability governance and engages policymakers and scholars.",
+      "member_count": 6,
+      "member_breakdown": "2 co-directors, 4 post-doctoral research fellows",
+      "members_page_url": "https://www.umb.edu/cgs/people/",
+      "join_page_url": null,
+      "join_notes": "No center-specific jobs or internship page; the site's Employment link goes to the general UMass Boston HR site.",
+      "profile_url": null,
+      "notes": "Second co-director is Stacy VanDeveer. Count leaves out 3 faculty fellows whose home is other units (Ellen Milimu, Samuel Barkin, Trevor Memmott). Center is affiliated with the McCormack Graduate School."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "hr.umb.edu is the campus-wide HR site (read); nothing center-specific, so no join page recorded."
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mit-dusp-civic-data-design",
+  "institution": "MIT",
+  "unit": "Civic Data Design Lab",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://civicdatadesignlab.mit.edu/",
+    "https://civicdatadesignlab.mit.edu/People-Powered-Gen-AI"
+  ],
+  "labs": [
+    {
+      "id": "mit-dusp-civic-data-design-sarah-williams",
+      "kind": "research-lab",
+      "lab_name": "Civic Data Design Lab",
+      "pi_name": "Sarah Williams",
+      "pi_title": "Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://civicdatadesignlab.mit.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "A lab in MIT's urban planning world that uses data, mapping, design and AI to study civic questions such as migration, public space, heritage and generative AI in city engagement.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Sarah Williams is shown as Director on the lab's Generative AI Playbook project entry; the lab's own pages read have no people or team page, so no member count, location, contact or join page. The LCAU people page lists her as Faculty Director of LCAU. A cached LCAU job posting is a joint LCAU and CDDL research associate role (see mit-lcau)."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The lab site has only a project index and one project page; no team or jobs page was linked from the cached pages."
+}

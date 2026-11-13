@@ -1,0 +1,37 @@
+{
+  "id": "tufts-wpf",
+  "institution": "Tufts University",
+  "unit": "World Peace Foundation",
+  "city": "Medford / Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://worldpeacefoundation.org/",
+    "https://worldpeacefoundation.org/our-team/"
+  ],
+  "labs": [
+    {
+      "id": "tufts-wpf-alex-de-waal",
+      "kind": "research-lab",
+      "lab_name": "World Peace Foundation",
+      "pi_name": "Alex de Waal",
+      "pi_title": "Executive Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://worldpeacefoundation.org/",
+      "location": "114 Curtis St., Second Floor, Somerville, MA 02144",
+      "phone": "(617) 627-2255",
+      "admin_name": null,
+      "admin_email": "worldpeacefoundation@tufts.edu",
+      "research_summary": "Research foundation at the Fletcher School working on peace, famine and atrocity prevention, the arms trade and the future of peace.",
+      "member_count": 7,
+      "member_breakdown": "1 executive director, 1 research director, 1 associate director, 1 program director, 3 assistants (research and communications, communications, research)",
+      "members_page_url": "https://worldpeacefoundation.org/our-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://worldpeacefoundation.org/team-member/alex-de-waal/",
+      "notes": "Count leaves out the governing board and the two Ginn trustees. Program director is Michelle E. Anderson (Future of Peace)."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "No careers, internship or join page was cached or linked on the pages read."
+}

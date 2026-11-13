@@ -1,0 +1,39 @@
+{
+  "id": "harvard-hls-plsmw",
+  "institution": "Harvard",
+  "unit": "Program on Law and Society in the Muslim World (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://plsmw.law.harvard.edu/",
+    "https://plsmw.law.harvard.edu/people/",
+    "https://plsmw.law.harvard.edu/about/",
+    "https://plsmw.law.harvard.edu/fellowships/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-plsmw-kristen-stilt",
+      "kind": "research-lab",
+      "lab_name": "Program on Law and Society in the Muslim World",
+      "pi_name": "Kristen Stilt",
+      "pi_title": "Faculty Director and Professor of Law",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://plsmw.law.harvard.edu/",
+      "location": "1585 Massachusetts Avenue, Cambridge, MA 02138",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "plsmw@law.harvard.edu",
+      "research_summary": "A Harvard Law School research program on how law and society relate in Muslim-majority and Muslim-minority settings, offering visiting fellowships and student research support.",
+      "member_count": 3,
+      "member_breakdown": "1 faculty director, 1 executive director, 1 writer and editor",
+      "members_page_url": "https://plsmw.law.harvard.edu/people/",
+      "join_page_url": "https://plsmw.law.harvard.edu/fellowships/",
+      "join_notes": "Visiting Fellowships for scholars and practicing lawyers, one month to one academic year, stipend up to $5,000 a month. Applications for the general fellowship were closed when the page was updated; a call for 2027-2028 was to be announced in October 2026. A separate Tiruchelvam Memorial Fellowship page exists. Questions go to the program's general email.",
+      "profile_url": "https://plsmw.law.harvard.edu/team-member/kristen-stilt/",
+      "notes": "Executive Director is Salma Waheedi. Not counted: 2 visiting fellows (Senuri de Silva, Zinnira Shaikh) and 6 student researchers. A second address on the page is for media inquiries. Emails decoded from the site's protected links."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Emails are obfuscated on the site; decoded from the protected links. Tiruchelvam fellowship page not read."
+}

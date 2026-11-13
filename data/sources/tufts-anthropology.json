@@ -1,0 +1,40 @@
+{
+  "id": "tufts-anthropology",
+  "institution": "Tufts University",
+  "unit": "Department of Anthropology",
+  "city": "Medford / Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://as.tufts.edu/anthropology",
+    "https://as.tufts.edu/anthropology/people/faculty",
+    "https://as.tufts.edu/anthropology/about",
+    "https://as.tufts.edu/anthropology/about/open-positions",
+    "https://as.tufts.edu/anthropology/resources/research-opportunities"
+  ],
+  "labs": [
+    {
+      "id": "tufts-anthropology-amahl-bishara",
+      "kind": "research-lab",
+      "lab_name": "Department of Anthropology",
+      "pi_name": "Amahl Bishara",
+      "pi_title": "Professor and Department Chair of Anthropology",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://as.tufts.edu/anthropology",
+      "location": "110 Eaton Hall, 5 The Green, Medford, MA 02155",
+      "phone": "617-627-6528",
+      "admin_name": null,
+      "admin_email": "anthropology@tufts.edu",
+      "research_summary": "Tufts anthropology department covering social, cultural, biological, archaeological and linguistic approaches, with ethnographic research through a fieldwork course and independent projects.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://as.tufts.edu/anthropology/about/open-positions",
+      "join_notes": "The page says there are currently no open staff or faculty positions and points to Careers at Tufts.",
+      "profile_url": "https://as.tufts.edu/anthropology/node/1336",
+      "notes": "Department, not a lab: member_count left null. Phone shown is the office line; fax also listed."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The Research Opportunities page describes a Mohegan archaeological field school (a partnership with the Mohegan Tribe, contact Dr. Craig Cipolla) and a Fieldwork Lab course (Anth 161); treated as teaching programs, not recorded as labs. No faculty-run labs or centers were listed."
+}

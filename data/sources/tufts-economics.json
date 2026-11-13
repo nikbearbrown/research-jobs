@@ -1,0 +1,41 @@
+{
+  "id": "tufts-economics",
+  "institution": "Tufts University",
+  "unit": "Department of Economics",
+  "city": "Medford / Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://as.tufts.edu/economics",
+    "https://as.tufts.edu/economics/people/faculty",
+    "https://as.tufts.edu/economics/about",
+    "https://as.tufts.edu/economics/about/open-positions",
+    "https://as.tufts.edu/economics/research-publications",
+    "https://as.tufts.edu/economics/resources/internships-and-job-opportunities"
+  ],
+  "labs": [
+    {
+      "id": "tufts-economics-marcelo-bianconi",
+      "kind": "research-lab",
+      "lab_name": "Department of Economics",
+      "pi_name": "Marcelo Bianconi",
+      "pi_title": "Fortune Family Professor in Economics and Department Chair of Economics",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://as.tufts.edu/economics",
+      "location": "Joyce Cummings Center, Tufts University, 177 College Avenue, Medford, MA 02155",
+      "phone": "617-627-3560",
+      "admin_name": null,
+      "admin_email": "debra.knox@tufts.edu",
+      "research_summary": "Tufts economics department with BA, MS and PhD programs, whose faculty research development, growth, inequality, environment, education, housing, trade, finance and competition policy.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://as.tufts.edu/economics/resources/internships-and-job-opportunities",
+      "join_notes": "Undergraduates can take a 2-credit pass/fail research assistantship course (EC 93) with a faculty member by department consent; apply with the enrollment form submitted to Linda Casey. The same page lists internships. The separate Open Positions page says no faculty, staff or postdoc positions are open now.",
+      "profile_url": "https://as.tufts.edu/economics/node/4546",
+      "notes": "Department, not a lab: member_count left null. Phone shown is the office line; fax also listed."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The address debra.knox@tufts.edu is the 'Email Department' link on the start page; it looks like a named person's address, so check before using as a general inbox. No faculty-run labs or centers were listed."
+}

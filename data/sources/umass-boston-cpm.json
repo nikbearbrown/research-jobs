@@ -1,0 +1,38 @@
+{
+  "id": "umass-boston-cpm",
+  "institution": "UMass Boston",
+  "unit": "Edward J. Collins Jr. Center for Public Management",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.umb.edu/cpm/",
+    "https://www.umb.edu/cpm/staff/",
+    "https://hr.umb.edu/"
+  ],
+  "labs": [
+    {
+      "id": "umass-boston-cpm-michael-ward",
+      "kind": "research-lab",
+      "lab_name": "Edward J. Collins, Jr. Center for Public Management",
+      "pi_name": "Michael Ward",
+      "pi_title": "Director",
+      "pi_email": "michael.ward@umb.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.umb.edu/cpm/",
+      "location": "Healey Library, 10th Floor, Room 25, 100 Morrissey Blvd., Boston, MA 02125-3393",
+      "phone": "617.287.4824",
+      "admin_name": "Sarah Concannon",
+      "admin_email": "sarah.concannon@umb.edu",
+      "research_summary": "State-created UMass Boston center giving low-cost management consulting, studies and executive recruitment to local governments, school districts and state agencies.",
+      "member_count": 10,
+      "member_breakdown": "1 director, 1 director of operations, 1 director of municipal services, 1 business development manager, 1 senior associate, 3 public services managers, 1 public services coordinator, 1 operations coordinator",
+      "members_page_url": "https://www.umb.edu/cpm/staff/",
+      "join_page_url": null,
+      "join_notes": "No jobs or internship page; the site's Recruitments page is about executive searches for clients, and the Employment link goes to the general UMass Boston HR site.",
+      "profile_url": null,
+      "notes": "Count is the Leadership list (10 people); about 37 named Associates are listed separately and not counted. Sarah Concannon is given as the contact on the home page. Director's phone 617.287.4876 on staff page. Ward's email is shown on the staff page next to his name."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Recruitments page (umb.edu/cpm/recruitments/) not read."
+}

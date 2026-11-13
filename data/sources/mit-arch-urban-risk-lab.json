@@ -1,0 +1,38 @@
+{
+  "id": "mit-arch-urban-risk-lab",
+  "institution": "MIT",
+  "unit": "Urban Risk Lab",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://urbanrisklab.org/",
+    "https://urbanrisklab.org/team",
+    "https://urbanrisklab.org/about"
+  ],
+  "labs": [
+    {
+      "id": "mit-arch-urban-risk-lab-miho-mazereeuw",
+      "kind": "research-lab",
+      "lab_name": "Urban Risk Lab",
+      "pi_name": "Miho Mazereeuw",
+      "pi_title": "Director; Associate Professor of Architecture and Urbanism",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://urbanrisklab.org/",
+      "location": "Lab: W41-3211, 55 Massachusetts Avenue, Cambridge, MA 02139; mail: 77 Massachusetts Avenue, Bldg W41-3211",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "risk@mit.edu",
+      "research_summary": "An interdisciplinary MIT design research group building tools and prototypes for disaster risk reduction and climate resilience with community partners worldwide.",
+      "member_count": null,
+      "member_breakdown": "Team page lists 1 director, 4 senior advisors or in-residence leads, 24 researchers (a mix of staff and students), 5 visiting researchers, 8 research affiliates",
+      "members_page_url": "https://urbanrisklab.org/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Count not recorded because the researcher list mixes staff with students at several levels and one entry with a non-research description; the advisors, visitors and affiliates are non-core. No join or jobs page was cached or linked from the pages read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "No join page found."
+}

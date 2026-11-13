@@ -1,0 +1,39 @@
+{
+  "id": "harvard-hbs-marketing",
+  "institution": "Harvard",
+  "unit": "Marketing Unit (Harvard HBS)",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.hbs.edu/faculty/units/marketing/Pages/default.aspx",
+    "https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current",
+    "https://www.hbs.edu/employment/",
+    "https://www.hbs.edu/ra"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hbs-marketing-org",
+      "kind": "research-lab",
+      "lab_name": "Marketing Unit (Harvard Business School)",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.hbs.edu/faculty/units/marketing/Pages/default.aspx",
+      "location": "Morgan Hall, Harvard Business School, Soldiers Field, Boston, MA 02163",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "Marketing@hbs.edu",
+      "research_summary": "HBS faculty group studying how firms create, communicate, capture and sustain value, including consumer choice, branding, pricing, channels and sales.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://www.hbs.edu/ra",
+      "join_notes": "HBS employment page lists staff, faculty and research positions across the school (not unit-specific); applications go through the Harvard careers site. The Research Associates page (linked from the employment page) describes research associate and predoctoral roles working with faculty and sends applicants to the Harvard careers job search; it gives rss@hbs.edu as Research Staff Services contact. No unit-specific openings shown.",
+      "profile_url": null,
+      "notes": "Department-level entry only. The unit's start page does not name a chair or unit head, and member_count is null because a unit is not a lab (faculty list is the school-wide faculty browse page). The start page lists no labs, centers or research groups run by the unit's faculty. Menu has a Doctoral Students page for the unit; not read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Cached pages read: unit start page, school-wide faculty browse page, HBS employment page. One extra fetch of https://www.hbs.edu/ra (linked from the employment page, Research Positions). No labs found, so one entry only."
+}

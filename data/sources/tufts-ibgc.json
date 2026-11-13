@@ -1,0 +1,39 @@
+{
+  "id": "tufts-ibgc",
+  "institution": "Tufts University",
+  "unit": "Institute for Business in the Global Context",
+  "city": "Medford / Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://sites.tufts.edu/ibgc/",
+    "https://sites.tufts.edu/ibgc/contact/",
+    "https://sites.tufts.edu/ibgc/the-ibgc-team/",
+    "https://sites.tufts.edu/ibgc/get-involved/"
+  ],
+  "labs": [
+    {
+      "id": "tufts-ibgc-org",
+      "kind": "research-lab",
+      "lab_name": "Institute for Business in the Global Context",
+      "pi_name": "Bhaskar Chakravorti",
+      "pi_title": "Dean of Global Business, The Fletcher School",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://sites.tufts.edu/ibgc/",
+      "location": "160 Packard Avenue, Cabot 503, Medford, MA 02155-7082",
+      "phone": "+1 617-627-3700",
+      "admin_name": null,
+      "admin_email": "ibgc@tufts.edu",
+      "research_summary": "Fletcher institute studying the links between private enterprise, politics, people and the planet, with research programs such as Digital Planet and SovereigNet and business education programs.",
+      "member_count": 12,
+      "member_breakdown": "1 dean of global business, 1 entrepreneurship coach, 4 associate or senior associate directors, 1 assistant director, 2 program or administrative staff, 1 head of operations, 2 research analysts",
+      "members_page_url": "https://sites.tufts.edu/ibgc/the-ibgc-team/",
+      "join_page_url": "https://sites.tufts.edu/ibgc/get-involved/",
+      "join_notes": "Points students and partners to opportunities such as experiential learning, entrepreneurship and the Global Consulting Program, and invites people to get in touch; no specific openings or application steps given.",
+      "profile_url": "https://fletcher.tufts.edu/academics/faculty/bhaskar-chakravorti",
+      "notes": "The team page names Chakravorti first under 'Dean of Global Business' and does not label him IBGC director; treat as the leader with that caveat. His email appears on the team page (bhaskar.chakravorti@tufts.edu) but is not recorded as the lead address because the role is unclear. The team page also lists other people, including an entrepreneurship coach whose email is a personal address."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The 'Get Involved' link in the WordPress admin menu was blocked by robots.txt; used the site's own Get Involved page instead. Fetched the team page and Get Involved page as extras. Research programs (Digital Planet, SovereigNet, Inclusion Inc., and others) appear in the menu only, so no separate entries."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "tufts-sociology",
+  "institution": "Tufts University",
+  "unit": "Department of Sociology",
+  "city": "Medford / Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://as.tufts.edu/sociology",
+    "https://as.tufts.edu/sociology/people/faculty",
+    "https://as.tufts.edu/sociology/about",
+    "https://as.tufts.edu/sociology/about/open-positions",
+    "https://as.tufts.edu/sociology/resources/honors-research"
+  ],
+  "labs": [
+    {
+      "id": "tufts-sociology-jill-weinberg",
+      "kind": "research-lab",
+      "lab_name": "Department of Sociology",
+      "pi_name": "Jill Weinberg",
+      "pi_title": "Associate Professor and Department Chair of Sociology",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://as.tufts.edu/sociology",
+      "location": "Eaton Hall, 3rd floor, 5 The Green, Medford, MA 02155",
+      "phone": "617-627-3561",
+      "admin_name": null,
+      "admin_email": "sociology@tufts.edu",
+      "research_summary": "Tufts sociology department with strengths in media and culture, social inequalities and change, and immigration and transnational communities.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://as.tufts.edu/sociology/about/open-positions",
+      "join_notes": "The page says there are no job openings at this time.",
+      "profile_url": "https://as.tufts.edu/sociology/node/1401",
+      "notes": "Department, not a lab: member_count left null. Phone shown is the office line; fax also listed."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The Honors & Research page covers Latin honors, senior thesis and the Alpha Kappa Delta honor society; no labs or centers listed."
+}

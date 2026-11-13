@@ -184,6 +184,11 @@ def main():
                         print(f"UNVERIFIED {k} {lid}: {lab[k]}")
                         problems += 1
                         lab[k] = None
+            j = lab["join_page_url"]
+            if j and not urllib.parse.urlsplit(j).path.strip("/") and host(j) != host(item.get("start_url")):
+                # a campus-wide HR home page says nothing about this unit
+                lab["join_notes"] = ((lab["join_notes"] or "") + f" (The only jobs link is the institution-wide site {j}.)").strip()
+                lab["join_page_url"] = None
             if lab["pi_name"]:
                 last = fold(re.sub(r",.*$", "", lab["pi_name"])).split()[-1]
                 if last not in pages.text:

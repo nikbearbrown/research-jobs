@@ -1,0 +1,11 @@
+{
+  "id": "mit-schwarzman",
+  "institution": "MIT",
+  "unit": "MIT Schwarzman College of Computing",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "All three cached pages failed with a navigation timeout (Playwright), so no text was available. Not retried."
+}

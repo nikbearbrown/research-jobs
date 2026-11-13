@@ -1,0 +1,38 @@
+{
+  "id": "tufts-leir",
+  "institution": "Tufts University",
+  "unit": "Henry J. Leir Institute for Migration and Human Security",
+  "city": "Medford / Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://sites.tufts.edu/ihs/",
+    "https://sites.tufts.edu/ihs/about/our-team/",
+    "https://sites.tufts.edu/ihs/about/"
+  ],
+  "labs": [
+    {
+      "id": "tufts-leir-katrina-burgess",
+      "kind": "research-lab",
+      "lab_name": "Henry J. Leir Institute for Migration and Human Security",
+      "pi_name": "Katrina Burgess",
+      "pi_title": "Director, Henry J. Leir Institute; Professor of Political Economy",
+      "pi_email": "Katrina.Burgess@tufts.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://sites.tufts.edu/ihs/",
+      "location": "Cabot 603, 160 Packard Ave., Medford, MA 02155 USA",
+      "phone": "+1 617-627-3825",
+      "admin_name": "Marcela Millan",
+      "admin_email": "Marcela.Millan@Tufts.edu",
+      "research_summary": "Fletcher institute helping policymakers and practitioners respond to migration and its root causes through a human security approach, with research, training and local partnerships.",
+      "member_count": 6,
+      "member_breakdown": "1 director, 1 associate director, 1 program coordinator, 3 MALD student staff (content editor, social media manager, events manager)",
+      "members_page_url": "https://sites.tufts.edu/ihs/about/our-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Admin contact is the associate director, the address shown in the site footer. Fellows pages (senior, postdoctoral, predoctoral) exist but were not read and are not counted. Project names in the menu (for example Digital Portfolios of the Poor, ICRC-Fletcher Joint Lab) show no own lead on the pages read, so no separate entries."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The 'Get Involved' link was blocked by robots.txt; no careers or join page found. A Student Funding page exists (https://sites.tufts.edu/ihs/fellowships-and-grants/) but was not read."
+}

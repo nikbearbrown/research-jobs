@@ -1,0 +1,40 @@
+{
+  "id": "mit-cs3",
+  "institution": "MIT",
+  "unit": "Center for Sustainability Science and Strategy (CS3)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://cs3.mit.edu/",
+    "https://cs3.mit.edu/about-us/personnel",
+    "https://cs3.mit.edu/centers-purpose",
+    "https://cs3.mit.edu/about-us/jobs",
+    "https://cs3.mit.edu/about-us/leadership"
+  ],
+  "labs": [
+    {
+      "id": "mit-cs3-noelle-selin",
+      "kind": "research-lab",
+      "lab_name": "Center for Sustainability Science and Strategy (CS3)",
+      "pi_name": "Noelle Selin",
+      "pi_title": "Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://cs3.mit.edu/",
+      "location": "Massachusetts Institute of Technology, Cambridge, MA 02139",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "An MIT School of Science center, launched in July 2024, that studies sustainability challenges across linked natural and social systems and builds computational tools and evidence for decision-makers.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://cs3.mit.edu/about-us/personnel",
+      "join_page_url": "https://cs3.mit.edu/about-us/jobs",
+      "join_notes": "The jobs page points undergraduates to MIT's UROP program and lists three openings: two postdoctoral associate posts (AGAGE and AGAGE-ML) and one research scientist post (MATRIX). It gives no contact name or email.",
+      "profile_url": null,
+      "notes": "Leadership page also names Sergey Paltsev and C. Adam Schlosser as deputy directors and Anne Slinn as executive director. Personnel page is a paginated table (3 pages) mixing administration, faculty, research staff, students, visitors and collaborators, and was not paged through, so no count. No general email address on the pages read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Personnel list is paginated and mixes affiliated faculty and students, so member_count left null. Leadership page was fetched with fetch.py (not in the original worklist)."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "tufts-uep",
+  "institution": "Tufts University",
+  "unit": "Department of Urban & Environmental Policy and Planning",
+  "city": "Medford / Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "http://as.tufts.edu/uep/",
+    "https://as.tufts.edu/uep/people/faculty",
+    "http://as.tufts.edu/uep/about",
+    "https://as.tufts.edu/uep/about/open-positions",
+    "http://as.tufts.edu/uep/research"
+  ],
+  "labs": [
+    {
+      "id": "tufts-uep-peilei-fan",
+      "kind": "research-lab",
+      "lab_name": "Department of Urban and Environmental Policy and Planning",
+      "pi_name": "Peilei Fan",
+      "pi_title": "Professor and Department Chair of Urban and Environmental Policy and Planning",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "http://as.tufts.edu/uep/",
+      "location": "Bromfield-Pearson Building, 503 Boston Avenue, Medford, MA 02155",
+      "phone": "617-627-3394",
+      "admin_name": null,
+      "admin_email": "uep@tufts.edu",
+      "research_summary": "Tufts planning department offering undergraduate, master's and certificate programs in urban and environmental policy and planning.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://as.tufts.edu/uep/about/open-positions",
+      "join_notes": "The page says no open positions currently. The menu also has an Internships & Careers page that was not read.",
+      "profile_url": "http://as.tufts.edu/uep/node/1561",
+      "notes": "Department, not a lab: member_count left null. Phone shown is the office line; fax also listed."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The Research page lists eight research areas (such as housing, transportation, sustainability, data and spatial analytics) but no named labs or centers."
+}

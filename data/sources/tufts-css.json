@@ -1,0 +1,39 @@
+{
+  "id": "tufts-css",
+  "institution": "Tufts University",
+  "unit": "Center for Strategic Studies",
+  "city": "Medford / Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://sites.tufts.edu/css/",
+    "https://sites.tufts.edu/css/?page_id=1599",
+    "https://sites.tufts.edu/css/?page_id=24",
+    "https://sites.tufts.edu/css/?page_id=2002"
+  ],
+  "labs": [
+    {
+      "id": "tufts-css-monica-duffy-toft",
+      "kind": "research-lab",
+      "lab_name": "Center for Strategic Studies",
+      "pi_name": "Monica Duffy Toft",
+      "pi_title": "Professor of International Politics and founding Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://sites.tufts.edu/css/",
+      "location": "160 Packard Ave., Medford, MA 02155 USA",
+      "phone": "+1 617-627-3700",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Fletcher School center, set up in 2017, doing policy research on strategy, international politics and US foreign policy, with a focus on alternatives to military intervention.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://sites.tufts.edu/css/?page_id=2002",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://sites.tufts.edu/css/?page_id=39",
+      "notes": "CSS Team page lists one assistant director (Mathew Yeo) besides the director, then visiting research fellows, visiting scholars and PhD research fellows; no clear core roster, so no count. The 'Our Team' page (page_id=1599) is the Afghanistan Assumptions Project team: principal investigators Michael A. Cohen, Christopher Preble and Toft, a research coordinator (Jefferson Ren) and three research assistants (Cassandra Cronin, Ariel Daniels, Megan Madeira). A former assistant director, Scott D. McDonald, is noted as leaving in August 2025. No email shown for Toft or a general inbox."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The 'Get Involved' link on the start page is the WordPress network admin address and was blocked by robots.txt; no careers or join page was found on the site. Fetched the CSS Team page (page_id=2002) as an extra page. Afghanistan Assumptions Project is a named project but its page was not read, so no separate entry."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "umass-boston-cwppp",
+  "institution": "UMass Boston",
+  "unit": "Center for Women in Politics and Public Policy",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.umb.edu/cwppp/",
+    "https://www.umb.edu/faculty-staff/",
+    "https://www.umb.edu/cwppp/about/",
+    "https://www.umb.edu/cwppp/about/staff/",
+    "https://hr.umb.edu/"
+  ],
+  "labs": [
+    {
+      "id": "umass-boston-cwppp-laurie-nsiah-jefferson",
+      "kind": "research-lab",
+      "lab_name": "Center for Women in Politics and Public Policy",
+      "pi_name": "Laurie Nsiah-Jefferson",
+      "pi_title": "Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.umb.edu/cwppp/",
+      "location": "Healey Library, 10th Floor, McCormack Graduate School of Policy and Global Studies, UMass Boston, 100 Morrissey Blvd., Boston, MA 02125-3393",
+      "phone": "617.287.5541",
+      "admin_name": null,
+      "admin_email": "cwppp@umb.edu",
+      "research_summary": "UMass Boston center promoting diverse public leadership through a graduate certificate, leadership training, intersectional policy research and public events.",
+      "member_count": 9,
+      "member_breakdown": "1 director, 1 research and policy director, 1 assistant program director, 4 research assistants, 2 program assistants",
+      "members_page_url": "https://www.umb.edu/cwppp/about/staff/",
+      "join_page_url": "https://www.umb.edu/cwppp/about/staff/",
+      "join_notes": "The staff page lists student opportunities at the center (a communications and marketing intern and a GLPP work-study position) and a flyer for undergraduates; no application steps or contact shown there. The site also has a glpp@umb.edu address for the certificate program.",
+      "profile_url": null,
+      "notes": "Phone for the director is 617.287.5554 on the staff page. Research and policy director Christa Kelleher, 617.287.5530, christa.kelleher@umb.edu per About page. No email shown for the director."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The cached 'people' page (umb.edu/faculty-staff/) is a generic campus page. Fetched the center's Staff page as an extra. hr.umb.edu is campus-wide HR."
+}

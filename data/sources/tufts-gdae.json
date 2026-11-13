@@ -1,0 +1,38 @@
+{
+  "id": "tufts-gdae",
+  "institution": "Tufts University",
+  "unit": "Global Development and Environment Institute",
+  "city": "Medford / Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://sites.tufts.edu/gdae/",
+    "https://sites.tufts.edu/gdae/researchers/",
+    "https://sites.tufts.edu/gdae/contact-us/"
+  ],
+  "labs": [
+    {
+      "id": "tufts-gdae-neva-r-goodwin",
+      "kind": "research-lab",
+      "lab_name": "Global Development And Environment Institute",
+      "pi_name": "Neva R. Goodwin",
+      "pi_title": "Co-Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://sites.tufts.edu/gdae/",
+      "location": "11 Curtis Avenue, Somerville, MA 02144",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "gdae@tufts.edu",
+      "research_summary": "Tufts institute doing research and education in land, energy and climate, green economics, and environmental and natural resource economics.",
+      "member_count": 11,
+      "member_breakdown": "2 co-directors, 3 senior researchers, 1 communications and research specialist, 3 senior research fellows, 2 research assistants",
+      "members_page_url": "https://sites.tufts.edu/gdae/researchers/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Second co-director is William R. Moomaw. Count leaves out 3 visiting scholars (Gillian Davies, Andrew Tirrell, David Sussman). Only email on the roster is for Jeronim Capaldo (a senior research fellow), not recorded as a lead address. No phone shown."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The 'Get Involved' link is the WordPress network admin address and was blocked by robots.txt; no jobs or join page found. Teaching materials have moved to Boston University's Global Development Policy Center per the start page."
+}

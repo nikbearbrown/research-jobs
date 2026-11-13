@@ -1,0 +1,40 @@
+{
+  "id": "mit-ceepr",
+  "institution": "MIT",
+  "unit": "Center for Energy and Environmental Policy Research (CEEPR)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://ceepr.mit.edu/",
+    "https://ceepr.mit.edu/peoples/mit-faculty-and-researchers/",
+    "https://ceepr.mit.edu/peoples/leadership-and-staff/",
+    "https://ceepr.mit.edu/roosevelt-project/about-the-project/",
+    "https://ceepr.mit.edu/about/opportunities/"
+  ],
+  "labs": [
+    {
+      "id": "mit-ceepr-christopher-knittel",
+      "kind": "research-lab",
+      "lab_name": "MIT Center for Energy and Environmental Policy Research (CEEPR)",
+      "pi_name": "Christopher R. Knittel",
+      "pi_title": "Director; Associate Dean of Climate, Energy, and Sustainability",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://ceepr.mit.edu/",
+      "location": "MIT E19-411, 77 Massachusetts Avenue, Cambridge, MA 02139-4307",
+      "phone": "617-253-3551",
+      "admin_name": null,
+      "admin_email": "ceepr@mit.edu",
+      "research_summary": "An MIT center producing economics-based research on energy and environmental policy, with working papers, workshops and projects such as the Roosevelt Project and the Clean Investment Monitor.",
+      "member_count": 28,
+      "member_breakdown": "1 director, 1 executive director, 2 deputy directors, 2 senior advisors, 1 institute innovation fellow, 5 postdoctoral associates, 5 research associates, analysts and program managers, 11 graduate research assistants",
+      "members_page_url": "https://ceepr.mit.edu/peoples/leadership-and-staff/",
+      "join_page_url": "https://ceepr.mit.edu/about/opportunities/",
+      "join_notes": "MIT graduate students are usually hired as research assistants through their advisors or faculty, so they are told to ask their advisor; undergraduates can find UROP openings listed there and at MIT's UROP site. Visiting scholars are by invitation only. The page says there are no staff openings now. Questions go to the center's contact email.",
+      "profile_url": null,
+      "notes": "The leadership page lists 31 names; 3 visitors (a visiting professor, a visiting scholar and a visiting student) are left out of the count. Other faculty and researchers are on separate MIT and external faculty pages. The Roosevelt Project, Clean Investment Monitor, Climate Action Through Education (directed by Knittel) and an EV charging project appear as projects without their own leads or sites, so they have no separate entries."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Leadership and staff page fetched (1 of 3)."
+}
