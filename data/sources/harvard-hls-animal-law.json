@@ -1,0 +1,40 @@
+{
+  "id": "harvard-hls-animal-law",
+  "institution": "Harvard",
+  "unit": "Animal Law and Policy Program (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://animal.law.harvard.edu/",
+    "https://animal.law.harvard.edu/people/",
+    "https://animal.law.harvard.edu/about/",
+    "https://animal.law.harvard.edu/opportunities/",
+    "https://animal.law.harvard.edu/opportunities/open-positions/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-animal-law-kristen-stilt",
+      "kind": "research-lab",
+      "lab_name": "Brooks McCormick Jr. Animal Law & Policy Program",
+      "pi_name": "Kristen Stilt",
+      "pi_title": "Faculty Director and Professor of Law",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://animal.law.harvard.edu/",
+      "location": "1607 Massachusetts Avenue, Cambridge, MA 02138",
+      "phone": "+1 (617) 496-4446",
+      "admin_name": "Lana Nadj",
+      "admin_email": null,
+      "research_summary": "Harvard Law School program, with a clinic launched in 2019, that studies and works to improve how the law treats animals, through courses, research, visiting fellows and workshops.",
+      "member_count": 9,
+      "member_breakdown": "1 faculty director, 1 executive director, 1 associate director (on leave), 2 research fellows, 3 further program staff (titles not in cached text), 1 clinic director",
+      "members_page_url": "https://animal.law.harvard.edu/people/",
+      "join_page_url": "https://animal.law.harvard.edu/opportunities/open-positions/",
+      "join_notes": "Open Positions page currently invites applications for a Staff Attorney. The Opportunities section also has Fellowships and Students pages (not read).",
+      "profile_url": "https://animal.law.harvard.edu/team-member/kristen-stilt/",
+      "notes": "Phone shown is listed under media inquiries for Kristen A. Stilt. Contacts listed: general inquiries Lana Nadj (Executive Director), clinic inquiries Mary Hollingsworth (Visiting Clinical Professor and Clinic Director); the page hides all email addresses, so none are recorded. Staff: Ann Linder (Associate Director of Policy and Research, on leave), Callum LaFrance (Research Fellow, Aquaculture), Carlos Andres Contreras Lopez (Research Fellow), plus Bonnie Nadzam, Kristen Symbula and Zinnira Shaikh listed without titles. Not counted: visiting fellows and scholars, Harvard Animal Law Society student board, alumni."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Email addresses on this site are hidden in the cached text. The Fellowships and Students pages were not fetched."
+}

@@ -72,6 +72,20 @@ def cached(url):
     return None, None
 
 
+def cf_decode(hexstr):
+    """Cloudflare email protection: the first byte is a key XORed with each following byte."""
+    try:
+        key = int(hexstr[:2], 16)
+        return "".join(chr(int(hexstr[i:i + 2], 16) ^ key) for i in range(2, len(hexstr), 2))
+    except ValueError:
+        return ""
+
+
+def hidden_emails(html):
+    """Addresses a browser shows but the raw page stores encoded (data-cfemail, /cdn-cgi/l/email-protection#...)."""
+    return " ".join(cf_decode(h) for h in re.findall(r"(?:data-cfemail=[\"']|email-protection#)([0-9a-f]{6,})", html, re.I))
+
+
 class Pages:
     """Everything read for one target: the gathered pages plus any page the reader fetched and listed."""
 
@@ -82,7 +96,7 @@ class Pages:
             if html is None:
                 continue
             self.read.add(canon(url))
-            self.text += "\n" + fold(text)
+            self.text += "\n" + fold(text) + " " + fold(hidden_emails(html))
             for href in re.findall(r"""href=["']([^"'#]+)""", html):
                 self.links.add(canon(urllib.parse.urljoin(url, href.strip())))
 
@@ -93,7 +107,7 @@ class Pages:
         html, text = cached(url)  # a page the reader fetched but did not list
         if html is not None:
             self.read.add(c)
-            self.text += "\n" + fold(text)
+            self.text += "\n" + fold(text) + " " + fold(hidden_emails(html))
             return True
         return False
 

@@ -1,0 +1,39 @@
+{
+  "id": "harvard-gse-mcc",
+  "institution": "Harvard",
+  "unit": "Making Caring Common (Harvard HGSE)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://mcc.gse.harvard.edu/",
+    "https://mcc.gse.harvard.edu/about/team",
+    "https://mcc.gse.harvard.edu/about/mission",
+    "https://mcc.gse.harvard.edu/work-with-us"
+  ],
+  "labs": [
+    {
+      "id": "harvard-gse-mcc-richard-weissbourd",
+      "kind": "research-lab",
+      "lab_name": "Making Caring Common",
+      "pi_name": "Richard Weissbourd",
+      "pi_title": "Faculty Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mcc.gse.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "mcc@gse.harvard.edu",
+      "research_summary": "A Harvard Graduate School of Education project that researches and builds resources so schools, families and colleges can raise children who care about others and the common good.",
+      "member_count": 13,
+      "member_breakdown": "1 faculty director, 1 executive director, 2 college admission leads, 1 senior program manager, 1 research director, 1 research advisor and data analyst, 2 development specialists, 1 digital marketing assistant director, 1 graphic designer, 1 administrative coordinator, 1 student support intern",
+      "members_page_url": "https://mcc.gse.harvard.edu/about/team",
+      "join_page_url": "https://mcc.gse.harvard.edu/work-with-us",
+      "join_notes": "The page says there are no open positions now and to check back. It also says a new cohort of graduate student interns joins each fall.",
+      "profile_url": null,
+      "notes": "The address mcc@gse.harvard.edu appears under the faculty director's bio; it is recorded as the general contact. Kiran Bhai is Executive Director and co-leads with Weissbourd (kiran_bhai@gse.harvard.edu on the team page). Separate advisory boards are not counted. The page's contact link was not read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read all four pages. Team page lists everyone with titles."
+}

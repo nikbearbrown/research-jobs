@@ -1,0 +1,39 @@
+{
+  "id": "harvard-gse-developing-child",
+  "institution": "Harvard",
+  "unit": "Center on the Developing Child (Harvard HGSE)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://developingchild.harvard.edu/",
+    "https://developingchild.harvard.edu/about-us/our-people/",
+    "https://developingchild.harvard.edu/about-us/",
+    "https://developingchild.harvard.edu/about-us/careers/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-gse-developing-child-stephanie-jones",
+      "kind": "research-lab",
+      "lab_name": "Center on the Developing Child at Harvard University",
+      "pi_name": "Stephanie M. Jones",
+      "pi_title": "Faculty Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://developingchild.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "A multi-disciplinary center founded in 2006 that turns early childhood science into resources for policy and practice, aimed at better outcomes for young children facing adversity.",
+      "member_count": 21,
+      "member_breakdown": "1 faculty director, 4 senior leadership, 16 staff",
+      "members_page_url": "https://developingchild.harvard.edu/about-us/our-people/",
+      "join_page_url": "https://developingchild.harvard.edu/about-us/careers/",
+      "join_notes": "Staff roles are applied for only through Harvard Careers (search 'Center on the Developing Child'); materials sent elsewhere are not reviewed. No staff or student openings at the time of the cached page. Speculative applicants may email a resume and cover letter to developingchild_EDIB@harvard.edu.",
+      "profile_url": "https://developingchild.harvard.edu/people/stephanie-jones/",
+      "notes": "Senior leadership includes two co-executive directors. Founding director, affiliated faculty and center fellows are on separate pages and not counted. No general contact email, phone or address shown on pages read; a Contact page is linked but was not read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Founding director, affiliated faculty and center fellows pages were not read."
+}

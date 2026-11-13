@@ -1,0 +1,39 @@
+{
+  "id": "harvard-hls-hnmcp",
+  "institution": "Harvard",
+  "unit": "Negotiation and Mediation Clinical Program (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://hnmcp.law.harvard.edu/",
+    "https://hnmcp.law.harvard.edu/our-team/",
+    "https://hnmcp.law.harvard.edu/contact-us",
+    "https://hnmcp.law.harvard.edu/dispute-resolution-research-career-planning/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-hnmcp-rachel-viscomi",
+      "kind": "research-lab",
+      "lab_name": "Harvard Negotiation & Mediation Clinical Program",
+      "pi_name": "Rachel Viscomi",
+      "pi_title": "Director; Clinical Professor of Law, Harvard Law School",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://hnmcp.law.harvard.edu/",
+      "location": "Harvard Law School, 1563 Massachusetts Avenue, P513, Cambridge, MA 02138",
+      "phone": "(617) 496-7109",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Harvard Law School clinical program that teaches negotiation, mediation and dispute systems design and works with clients, including a Dispute Systems Design Clinic and the Harvard Mediation Program.",
+      "member_count": 8,
+      "member_breakdown": "1 director, 1 assistant director, 3 senior clinical instructors, 1 program coordinator, 2 Harvard Mediation Program staff",
+      "members_page_url": "https://hnmcp.law.harvard.edu/our-team/",
+      "join_page_url": "https://hnmcp.law.harvard.edu/dispute-resolution-research-career-planning/",
+      "join_notes": "This is a curated list of research resources, organizations and career-planning links in dispute resolution; it does not list openings or a contact for applying.",
+      "profile_url": null,
+      "notes": "Staff: Sara del Nido Budish (Assistant Director), Neil McGaraghan, Deanna Pantin Parrish, Morgan Franklin (Senior Clinical Instructors), Tracy Blanchard (Program Coordinator; the general contact email is hidden in the cached text), Cathy Mondell (Senior Clinical Instructor) and Ana Carolina Riella (Outreach and Case Coordinator) of the Harvard Mediation Program. Fax (617) 496-8775."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

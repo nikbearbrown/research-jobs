@@ -1,0 +1,39 @@
+{
+  "id": "bc-clough",
+  "institution": "Boston College",
+  "unit": "Clough Center for the Study of Constitutional Democracy",
+  "city": "Chestnut Hill, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.bc.edu/content/bc-web/centers/clough.html",
+    "https://www.bc.edu/content/bc-web/centers/clough/about.html",
+    "https://www.bc.edu/content/bc-web/centers/clough/grants.html",
+    "https://www.bc.edu/content/bc-web/centers/clough/about/staff.html"
+  ],
+  "labs": [
+    {
+      "id": "bc-clough-jonathan-laurence",
+      "kind": "research-lab",
+      "lab_name": "Clough Center for the Study of Constitutional Democracy",
+      "pi_name": "Jonathan Laurence",
+      "pi_title": "Director (Professor of Political Science)",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bc.edu/content/bc-web/centers/clough.html",
+      "location": "10 Stone Avenue, Chestnut Hill, MA 02467",
+      "phone": "617-552-8176",
+      "admin_name": null,
+      "admin_email": "clough.center@bc.edu",
+      "research_summary": "A Boston College center for interdisciplinary and international study of constitutional democracy, run around a yearly theme with fellows, symposia and a journal.",
+      "member_count": 3,
+      "member_breakdown": "1 director, 1 postdoctoral research fellow and center coordinator, 1 graduate assistant",
+      "members_page_url": "https://www.bc.edu/content/bc-web/centers/clough/about/staff.html",
+      "join_page_url": "https://www.bc.edu/content/bc-web/centers/clough/grants.html",
+      "join_notes": "The fellowships page lists paid roles and fellowships: doctoral fellowships, junior (undergraduate) fellowships, paid Clough Correspondents, faculty affiliates, a short-term visiting fellow and a postdoctoral research fellow, with the 2027-28 theme Democracy and Religion. Applications go to clough.center@bc.edu; the postdoctoral and visiting fellow deadline shown is December 15, 2026. Doctoral, junior and correspondent deadlines shown (March 31, 2026) have passed.",
+      "profile_url": "https://www.bc.edu/bc-web/schools/mcas/departments/political-science/people/faculty-directory/jonathan-laurence.html",
+      "notes": "Counts come from the Contact (staff) page, fetched because the worklist people page was a generic BC page. No email is shown for Laurence. Faculty affiliates, doctoral and junior fellows, and correspondents are cohorts, not counted. Staff members: Isaiah Sterrett (postdoc/coordinator), Emily Turner (graduate assistant)."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Fetched the Contact page (1 extra fetch)."
+}

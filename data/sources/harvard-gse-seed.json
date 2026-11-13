@@ -1,0 +1,13 @@
+{
+  "id": "harvard-gse-seed",
+  "institution": "Harvard",
+  "unit": "SEED Lab (Harvard HGSE)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://seed.gse.harvard.edu/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The cached start page is an Access Denied error from the server, so nothing about the organization could be read. No links were available to follow, so no extra pages were fetched. Retry later or with a different route."
+}

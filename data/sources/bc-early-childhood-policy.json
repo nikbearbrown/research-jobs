@@ -1,0 +1,39 @@
+{
+  "id": "bc-early-childhood-policy",
+  "institution": "Boston College",
+  "unit": "Institute of Early Childhood Policy",
+  "city": "Chestnut Hill, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.bc.edu/content/bc-web/sites/center-child-family-policy.html",
+    "https://www.bc.edu/content/bc-web/sites/center-child-family-policy/about.html",
+    "https://www.bc.edu/content/bc-web/sites/center-child-family-policy/contact.html",
+    "https://www.bc.edu/content/bc-web/sites/center-child-family-policy/certificate.html"
+  ],
+  "labs": [
+    {
+      "id": "bc-early-childhood-policy-rebekah-coley",
+      "kind": "research-lab",
+      "lab_name": "Center for Child and Family Policy",
+      "pi_name": "Rebekah Levine Coley",
+      "pi_title": "Professor, Director of the CCFP",
+      "pi_email": "rebekah.coley@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bc.edu/content/bc-web/sites/center-child-family-policy.html",
+      "location": "140 Commonwealth Avenue, Chestnut Hill, MA 02467",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "A joint Lynch School and School of Social Work center that coordinates child and family policy research and hosts a graduate certificate in Child Policy and Leadership.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.bc.edu/content/bc-web/sites/center-child-family-policy/contact.html",
+      "join_page_url": "https://www.bc.edu/content/bc-web/sites/center-child-family-policy/certificate.html",
+      "join_notes": "This is a graduate certificate (about 1.5 years, 9 credits) with a monthly seminar, a paid three-month summer internship and a capstone; a fellowship with tuition remission is offered to select applicants. The page says applications for the Spring 2027 cohort are due Nov. 1; questions go to the director.",
+      "profile_url": null,
+      "notes": "The site names itself Center for Child and Family Policy; the worklist name is Institute of Early Childhood Policy. Summer Sherburne-Hawkins is Assistant Director (summer.hawkins@bc.edu). The Contact page lists five people (Coley, Hawkins, Kirsten Davison, Catherine Taylor, graduate assistant Madeline Rinehimer) but does not say which are core versus affiliated faculty, and the About page team lists were collapsed, so member_count is null. No general email or phone shown."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Fetched the Contact and Certificate pages (2 extra fetches)."
+}

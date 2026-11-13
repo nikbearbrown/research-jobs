@@ -1,0 +1,39 @@
+{
+  "id": "harvard-hbs-bigs",
+  "institution": "Harvard",
+  "unit": "Institute for Business in Global Society (Harvard HBS)",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.hbs.edu/bigs",
+    "https://www.hbs.edu/bigs/about",
+    "https://www.hbs.edu/bigs/about/our-mission-and-team",
+    "https://alumni.hbs.edu/career-resources"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hbs-bigs-anand-p-raman",
+      "kind": "research-lab",
+      "lab_name": "Institute for Business in Global Society",
+      "pi_name": "Anand P. Raman",
+      "pi_title": "Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.hbs.edu/bigs",
+      "location": "Harvard Business School, Soldiers Field, Boston, MA 02163",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "bigsinst@hbs.edu",
+      "research_summary": "Harvard Business School institute, founded in 2022, that studies how business can respond to climate, inequality, economic mobility, firm purpose and AI, and turns that research into material for leaders.",
+      "member_count": 6,
+      "member_breakdown": "1 director, 1 senior associate dean (emeritus professor), 1 head of knowledge, 1 assistant director of programming, 1 digital communications manager, 1 coordinator",
+      "members_page_url": "https://www.hbs.edu/bigs/about/our-mission-and-team",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Team page lists Krishna G. Palepu (Senior Associate Dean, Business in Global Society), Anand P. Raman (Director), Amram Migdal (Head of Knowledge), Sarah Gazzaniga (Assistant Director, Programming), Mariana Castaneda (Digital Communications Manager), Olivia Barba (Coordinator). Visiting fellows run in cohorts (2022-2024 shown) and are not counted. The Careers link on the site goes to HBS alumni career resources, which is not a BiGS jobs page, so join_page_url is null. Participating faculty and projects (Ownership Project, Green Industrial Strategy Project, Board Diversity Network, Hazard Adaptation Finance) are shown on the research page, but no leads were read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The Our Mission & Team page was not in the worklist; it was fetched (cached page links to it). The worklist people page (HBS faculty browse list) was not used."
+}

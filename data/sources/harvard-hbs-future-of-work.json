@@ -1,0 +1,38 @@
+{
+  "id": "harvard-hbs-future-of-work",
+  "institution": "Harvard",
+  "unit": "Managing the Future of Work (Harvard HBS)",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.hbs.edu/managing-the-future-of-work/Pages/default.aspx",
+    "https://www.hbs.edu/managing-the-future-of-work/about-the-project",
+    "https://alumni.hbs.edu/career-resources"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hbs-future-of-work-william-r-kerr",
+      "kind": "research-lab",
+      "lab_name": "Managing the Future of Work",
+      "pi_name": "William R. Kerr",
+      "pi_title": "Faculty Co-Chair (with Joseph B. Fuller)",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.hbs.edu/managing-the-future-of-work/Pages/default.aspx",
+      "location": "Harvard Business School, Soldiers Field, Boston, MA 02163",
+      "phone": "1.617.495.6288",
+      "admin_name": null,
+      "admin_email": "mraman@hbs.edu",
+      "research_summary": "Harvard Business School project that researches how technology, gig work, demographics, the middle-skills gap, global talent and geography are changing work, for business and policy leaders.",
+      "member_count": 5,
+      "member_breakdown": "2 faculty co-chairs, 3 researchers (1 senior program director/senior researcher, 2 research associates)",
+      "members_page_url": "https://www.hbs.edu/managing-the-future-of-work/about-the-project",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Co-chairs are William R. Kerr and Joseph B. Fuller; the first named is recorded as lead. Researchers: Manjari Raman, Ted Smalley Bowen, Ethan Mulroy. Not counted: affiliated faculty Raffaella Sadun and Daniel O'Connor (Executive in Residence, listed as visiting executive). The only contact address, mraman@hbs.edu, is shown without a name label, so it is recorded as the general contact and not as a named person's email. The site's Careers link goes to HBS alumni career resources, not a project jobs page; join_page_url is null."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Worklist people page (HBS faculty browse) not used; team taken from the About the Project page."
+}

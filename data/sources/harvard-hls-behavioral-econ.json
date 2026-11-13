@@ -1,0 +1,36 @@
+{
+  "id": "harvard-hls-behavioral-econ",
+  "institution": "Harvard",
+  "unit": "Program on Behavioral Economics and Public Policy (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://hls.harvard.edu/program-on-behavioral-economics-and-public-policy/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-behavioral-econ-org",
+      "kind": "research-lab",
+      "lab_name": "Program on Behavioral Economics and Public Policy",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://hls.harvard.edu/program-on-behavioral-economics-and-public-policy/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Harvard Law School program on behavioral economics, law and public policy, with emphasis on behaviorally informed tools such as default rules, norms and simplification.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "The page names no director, staff, contact, address or phone. It lists seven participating Harvard faculty (Cass Sunstein, Iris Bohnet, David Laibson, Adrian Vermeule, Max Bazerman, Sendhil Mullainathan, Oren Bar-Gil) and Sunstein's profile is linked (https://hls.harvard.edu/faculty/cass-r-sunstein/), but the page does not say he leads the program, so pi_name is null and no count is given. The worklist people page (HLS staff dashboard) and careers page (HLS career planning) are university-wide, not program pages, and were not used."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Only the program page itself was relevant; no lead, count or join page shown."
+}

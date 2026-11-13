@@ -1,0 +1,38 @@
+{
+  "id": "harvard-gse-digital-thriving",
+  "institution": "Harvard",
+  "unit": "Center for Digital Thriving (Harvard HGSE)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://digitalthriving.gse.harvard.edu/",
+    "https://digitalthriving.gse.harvard.edu/about/",
+    "https://digitalthriving.gse.harvard.edu/fellows/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-gse-digital-thriving-emily-weinstein",
+      "kind": "research-lab",
+      "lab_name": "Center for Digital Thriving",
+      "pi_name": "Emily Weinstein",
+      "pi_title": "Co-Founder, Executive Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://digitalthriving.gse.harvard.edu/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "digitalthriving@gse.harvard.edu",
+      "research_summary": "A research and innovation center at Project Zero that builds research-based resources to help young people and educators use technology with more agency and well-being.",
+      "member_count": 10,
+      "member_breakdown": "1 executive director, 1 managing director, 1 research and design co-founder, 1 senior research manager, 1 strategy and engagement director, 1 AI fellow and translational research designer, 1 communications lead, 1 operations and project coordinator, 1 communications intern, 1 student researcher",
+      "members_page_url": "https://digitalthriving.gse.harvard.edu/about/",
+      "join_page_url": "https://digitalthriving.gse.harvard.edu/fellows/",
+      "join_notes": "The Digital Thriving Fellows program takes 3 to 4 fellows a year, usually with a spring call; the 2026-2027 call is closed and the next one is expected in early 2027. Fellows run September to May with monthly cohort meetings and an in-person gathering in Cambridge.",
+      "profile_url": "https://digitalthriving.gse.harvard.edu/about/emily-weinstein/",
+      "notes": "Carrie James is Co-Founder and Managing Director. The team list has 11 people; Sophia Choukas-Bradley (Clinical Psychology Lead) is described as faculty at the University of Pittsburgh, so she is left out of the count. Current fellows and past fellows are listed on the fellowship page and not counted."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read start, about and fellowship pages. No dedicated careers or RA page found."
+}

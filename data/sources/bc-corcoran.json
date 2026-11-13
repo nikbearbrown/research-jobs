@@ -1,0 +1,38 @@
+{
+  "id": "bc-corcoran",
+  "institution": "Boston College",
+  "unit": "Joseph E. Corcoran Center for Real Estate and Urban Action",
+  "city": "Chestnut Hill, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.bc.edu/corcorancenter",
+    "https://www.bc.edu/content/bc-web/schools/carroll-school/sites/corcoran-center/events/launching-your-real-estate-career.html",
+    "https://www.bc.edu/content/bc-web/schools/carroll-school/sites/corcoran-center/Internships.html"
+  ],
+  "labs": [
+    {
+      "id": "bc-corcoran-neil-mccullagh",
+      "kind": "research-lab",
+      "lab_name": "Joseph E. Corcoran Center for Real Estate and Urban Action",
+      "pi_name": "Neil McCullagh",
+      "pi_title": "Executive Director",
+      "pi_email": "neil.mccullagh@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bc.edu/corcorancenter",
+      "location": "Carney Hall, 4th Floor, Carroll School of Management, Boston College, 140 Commonwealth Avenue, Chestnut Hill, MA 02467-3809",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "corcoran.center@bc.edu",
+      "research_summary": "A Carroll School of Management center that trains students for ethical real estate careers through courses, internships, an Urban Action Lab and neighborhood engagement.",
+      "member_count": 4,
+      "member_breakdown": "1 executive director, 1 associate director, 1 assistant director of programs, 1 administrative assistant",
+      "members_page_url": "https://www.bc.edu/corcorancenter",
+      "join_page_url": "https://www.bc.edu/content/bc-web/schools/carroll-school/sites/corcoran-center/Internships.html",
+      "join_notes": "Paid 10-week summer internship placements for BC undergraduates (first-years to juniors) applied for through Handshake with a resume and cover letter; the page shows a fall round with a November 6, 2026 deadline and a spring round. Career questions go to corcoran.center@bc.edu.",
+      "profile_url": null,
+      "notes": "Count is Leadership (Neil McCullagh, Taylor Alexander Perkins associate director, Jennifer Kelley assistant director of programs) plus program staff (Julia Turner, administrative assistant). Affiliated faculty, adjuncts and the Board of Advisors are not counted. Direct lines shown: McCullagh 617-552-0829, Kelley 617-552-1513; no general phone shown. No profile page link for McCullagh. The worklist about page (Carroll School contact) and directory page had nothing specific to the Center."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Fetched the Internships page (1 extra fetch)."
+}

@@ -1,0 +1,40 @@
+{
+  "id": "harvard-hbs-lish",
+  "institution": "Harvard",
+  "unit": "Laboratory for Innovation Science at Harvard (Harvard HBS)",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://aiinstitute.hbs.edu/lish/",
+    "https://aiinstitute.hbs.edu/our-team/",
+    "https://aiinstitute.hbs.edu/about-us/",
+    "https://aiinstitute.hbs.edu/lish/work-with-us/",
+    "https://aiinstitute.hbs.edu/lish/our-team/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hbs-lish-jackie-lane",
+      "kind": "research-lab",
+      "lab_name": "Laboratory for Innovation Science at Harvard",
+      "pi_name": "Jackie Lane",
+      "pi_title": "Co-Chair and Principal Investigator",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://aiinstitute.hbs.edu/lish/",
+      "location": "6th floor, HBS AI Institute, Harvard John A. Paulson School of Engineering and Applied Sciences, 150 Western Ave",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "contact@lish.harvard.edu",
+      "research_summary": "Lab inside the HBS AI Institute that runs field experiments and research on how AI and digital technology change innovation, decision-making and business.",
+      "member_count": 24,
+      "member_breakdown": "2 leadership (co-chair/PI and founding chair of the AI Institute), 8 faculty and other principal investigators, 14 core lab (postdoctoral fellows, research associates, a senior research scientist, a director, doctoral and other students)",
+      "members_page_url": "https://aiinstitute.hbs.edu/lish/our-team/",
+      "join_page_url": "https://aiinstitute.hbs.edu/lish/work-with-us/",
+      "join_notes": "The home page advertises a Research Associate opening and a Postdoctoral Fellow opening, each with an apply link to Harvard's job systems. The Work With Us page gives contact@lish.harvard.edu for general questions and a form for research partnership proposals.",
+      "profile_url": null,
+      "notes": "Karim R. Lakhani is listed in leadership as Founding Chair of the HBS AI Institute. Not counted: 16 listed LISH collaborators at other institutions and former staff. The cached institute-wide Our Team page lists the whole HBS AI Institute and was not used for the count."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The LISH-specific team page was fetched (linked from the start page). The HBS AI Institute has nine other labs (Climate & Sustainability Impact Lab, Customer Intelligence Lab, Data Science and AI Operations Lab, Digital Emotions Lab, Digital Reskilling Lab, Platform Lab, Pricing Lab, Tech for All Lab, Trustworthy AI Lab); they are separate targets or outside this one and not recorded here."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "bc-rappaport",
+  "institution": "Boston College",
+  "unit": "Rappaport Center for Law and Public Policy",
+  "city": "Chestnut Hill, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.bc.edu/content/bc-web/schools/law/centers/rappaport-center.html",
+    "https://www.bc.edu/content/bc-web/schools/law/centers/rappaport-center/fellows.html",
+    "https://www.bc.edu/content/bc-web/schools/law/centers/rappaport-center/about.html"
+  ],
+  "labs": [
+    {
+      "id": "bc-rappaport-patricia-mccoy",
+      "kind": "research-lab",
+      "lab_name": "Rappaport Center for Law and Public Policy",
+      "pi_name": "Patricia McCoy",
+      "pi_title": "Faculty Director",
+      "pi_email": "patricia.mccoy@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bc.edu/content/bc-web/schools/law/centers/rappaport-center.html",
+      "location": "Barat House, 885 Centre Street, Newton, MA 02459",
+      "phone": "(617)-552-1236",
+      "admin_name": null,
+      "admin_email": "rappaport@bc.edu",
+      "research_summary": "A Boston College Law School center that builds leadership in state and local law and public policy through a paid summer fellowship, events and senior fellows.",
+      "member_count": 3,
+      "member_breakdown": "1 faculty director, 1 executive director, 1 administrative assistant",
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/law/centers/rappaport-center/about.html",
+      "join_page_url": "https://www.bc.edu/content/bc-web/schools/law/centers/rappaport-center/fellows.html",
+      "join_notes": "Summer fellowship: a paid 10-week policy internship in Massachusetts state or local government for law students at eight Massachusetts law schools, with a $10,000 stipend. Applications open December 2026 and close January 2027; applicants are pointed to their law school's public interest career services team.",
+      "profile_url": null,
+      "notes": "Executive Director is Amanda Teo (amanda.teo@bc.edu); administrative assistant Alexis Albert (alexis.albert@bc.edu). The advisory board, senior fellows and visiting professors are not counted; the Senior Fellows page was not read. Phone is the number in the site footer."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

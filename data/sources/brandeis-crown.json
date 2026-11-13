@@ -1,0 +1,38 @@
+{
+  "id": "brandeis-crown",
+  "institution": "Brandeis University",
+  "unit": "Crown Center for Middle East Studies",
+  "city": "Waltham, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.brandeis.edu/crown/",
+    "https://www.brandeis.edu/crown/people/index.html",
+    "https://www.brandeis.edu/crown/grants/index.html"
+  ],
+  "labs": [
+    {
+      "id": "brandeis-crown-gary-samore",
+      "kind": "research-lab",
+      "lab_name": "Crown Center for Middle East Studies",
+      "pi_name": "Gary Samore",
+      "pi_title": "Crown Family Director and Professor of the Practice of Politics",
+      "pi_email": "gsamore@brandeis.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.brandeis.edu/crown/",
+      "location": "Lemberg Hall, MS 010, Brandeis University, 415 South Street, Waltham, MA 02453",
+      "phone": "781-736-5320",
+      "admin_name": null,
+      "admin_email": "crowncenter@brandeis.edu",
+      "research_summary": "A Brandeis center for research on the contemporary Middle East that hosts residential fellows and publishes briefs, events and a podcast.",
+      "member_count": 7,
+      "member_breakdown": "1 director, 1 director for research, 1 senior associate director, 1 associate director for research, 1 program coordinator, 1 department administrator, 1 line editor",
+      "members_page_url": "https://www.brandeis.edu/crown/people/index.html",
+      "join_page_url": "https://www.brandeis.edu/crown/grants/index.html",
+      "join_notes": "Open positions page: a one-year Faculty Leave Fellowship for 2027-28 (applications via an online portal, deadline December 15, 2026) is open; the two-year Junior Research Fellowship application is closed. Inquiries go to Kristina Cherniahivsky at crowncenter@brandeis.edu.",
+      "profile_url": "https://scholarworks.brandeis.edu/esploro/profile/gary_samore/overview?emplid=45b03f10247276eeaf30fadbc8afc2261b06795d",
+      "notes": "Count is the Staff page only (7 people). The Faculty, Fellows, Doctoral Students and Alumni Fellows pages were not read. Naghmeh Sohrabi is Director for Research (sohrabi@brandeis.edu). The mission page was not read; summary is from the site menus and staff page. Phone is the main number in the site footer."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

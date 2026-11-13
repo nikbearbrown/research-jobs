@@ -1,0 +1,39 @@
+{
+  "id": "harvard-gsd-healthy-places",
+  "institution": "Harvard",
+  "unit": "Healthy Places Lab (Harvard GSD)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://research.gsd.harvard.edu/healthy/",
+    "https://research.gsd.harvard.edu/healthy/about/people/",
+    "https://research.gsd.harvard.edu/healthy/about/",
+    "https://research.gsd.harvard.edu/healthy/contact/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-gsd-healthy-places-ann-forsyth",
+      "kind": "research-lab",
+      "lab_name": "Healthy Places Design Lab",
+      "pi_name": "Ann Forsyth",
+      "pi_title": "Co-Director; Ruth and Frank Stanton Research Professor of Urban Planning",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://research.gsd.harvard.edu/healthy/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "A Harvard Graduate School of Design lab that connects faculty and students working on how places shape health and how to make them healthier.",
+      "member_count": 3,
+      "member_breakdown": "3 co-directors",
+      "members_page_url": "https://research.gsd.harvard.edu/healthy/about/people/",
+      "join_page_url": "https://research.gsd.harvard.edu/healthy/contact/",
+      "join_notes": "The contact page says to write to Magda Maaoui, co-leader of the lab, with questions or to get involved. No jobs page or openings found.",
+      "profile_url": null,
+      "notes": "Co-directors are Ann Forsyth, Magda Maaoui (Assistant Professor of Urban Planning) and Jennifer Molinsky (Lecturer in Urban Planning and Design; Director, Housing an Aging Society Program). Email addresses are hidden on the cached pages, so none recorded. Nine affiliated faculty and one postdoctoral associate emeritus are listed and not counted. Doctoral students and a student group have separate pages not read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Pages read: start, people, about and the contact page (1 extra fetch)."
+}

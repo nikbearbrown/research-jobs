@@ -1,0 +1,11 @@
+{
+  "id": "brandeis-heller-cyc",
+  "institution": "Brandeis University",
+  "unit": "Center for Youth and Communities",
+  "city": "Waltham, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The page https://heller.brandeis.edu/cyc/ returned '403 Forbidden' both in the cache and again when re-fetched with --render (2 extra fetches across the two Heller targets), so nothing could be read."
+}

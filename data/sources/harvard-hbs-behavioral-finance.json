@@ -1,0 +1,38 @@
+{
+  "id": "harvard-hbs-behavioral-finance",
+  "institution": "Harvard",
+  "unit": "Behavioral Finance and Financial Stability (Harvard HBS)",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.hbs.edu/behavioral-finance-and-financial-stability/Pages/default.aspx",
+    "https://www.hbs.edu/behavioral-finance-and-financial-stability/about/Pages/default.aspx",
+    "https://www.hbs.edu/employment/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hbs-behavioral-finance-org",
+      "kind": "research-lab",
+      "lab_name": "Behavioral Finance & Financial Stability",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.hbs.edu/behavioral-finance-and-financial-stability/Pages/default.aspx",
+      "location": "Harvard Business School, Boston, MA 02163",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "bffs@hbs.edu",
+      "research_summary": "A project launched in July 2016 at HBS that supports research by Harvard faculty and students on predicting and preventing financial instability, and publishes sentiment and crisis data.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://www.hbs.edu/employment/",
+      "join_notes": "Only the school-wide HBS employment page was found; it points to Harvard's online job site and does not mention this project. The About page says the project is supported by postdocs, graduate students and research associates.",
+      "profile_url": null,
+      "notes": "No director is named on the pages read. The People page returned an error page both times it was fetched (plain and rendered), so no roster or count. Phone not shown."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "People page failed (site error page). Fetched the initiative About page and tried the People page once more with rendering; that was 2 extra fetches."
+}

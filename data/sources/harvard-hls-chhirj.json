@@ -1,0 +1,11 @@
+{
+  "id": "harvard-hls-chhirj",
+  "institution": "Harvard",
+  "unit": "Charles Hamilton Houston Institute for Race and Justice (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Could not be read: the start page https://charleshamiltonhouston.org/ timed out twice (cached fetch status playwright-error, and a second plain fetch failed with a 30 second navigation timeout). No other page was gathered."
+}

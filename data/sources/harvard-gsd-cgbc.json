@@ -1,0 +1,42 @@
+{
+  "id": "harvard-gsd-cgbc",
+  "institution": "Harvard",
+  "unit": "Harvard Center for Green Buildings and Cities",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://harvardcgbc.org/",
+    "https://harvardcgbc.org/people/",
+    "https://harvardcgbc.org/about/",
+    "https://harvardcgbc.org/opportunities",
+    "https://harvardcgbc.org/leadership/",
+    "https://harvardcgbc.org/core-research-team/",
+    "https://harvardcgbc.org/staff/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-gsd-cgbc-ali-malkawi",
+      "kind": "research-lab",
+      "lab_name": "Center for Green Buildings and Cities",
+      "pi_name": "Ali Malkawi",
+      "pi_title": "Founding Director; Professor of Architectural Technology, Harvard Graduate School of Design",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://harvardcgbc.org/",
+      "location": "20 Sumner Road, Cambridge, MA 02138",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "A Harvard Graduate School of Design center researching sustainable, high-performance buildings and cities; its headquarters is the HouseZero retrofit building.",
+      "member_count": 14,
+      "member_breakdown": "1 founding director, 1 research associate, 1 postdoctoral fellow, 8 Doctor of Design and PhD students, 3 staff (building automation and data manager, assistant director for finance, communications manager)",
+      "members_page_url": "https://harvardcgbc.org/core-research-team/",
+      "join_page_url": "https://harvardcgbc.org/opportunities",
+      "join_notes": "The opportunities page advertises multiple three-year postdoctoral research fellowships in sustainable buildings and urban development, funded by the Salata Institute and hosted by the center, with a start date of September 1, 2025 (so the posting may be out of date); applications go through the Harvard academic positions posting linked on the page.",
+      "profile_url": null,
+      "notes": "Count comes from the Leadership, Core Research Team and Staff pages. Core Research Faculty, Operational Board, Affiliated Faculty and CGBC Fellows pages were not read and are left out. No general email or phone found; the Contact page was not read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Pages read: start, people, about, opportunities, plus Leadership, Core Research Team and Staff (3 extra fetches)."
+}

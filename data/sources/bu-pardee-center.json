@@ -1,0 +1,39 @@
+{
+  "id": "bu-pardee-center",
+  "institution": "Boston University",
+  "unit": "Pardee Center for the Study of the Longer-Range Future",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "http://www.bu.edu/pardee/",
+    "https://www.bu.edu/pardee/community/staff/",
+    "https://www.bu.edu/pardee/about/",
+    "https://www.bu.edu/pardee/2026/10/16/applications-now-being-accepted-for-2026-graduate-summer-fellows-program-2/"
+  ],
+  "labs": [
+    {
+      "id": "bu-pardee-center-min-ye",
+      "kind": "research-lab",
+      "lab_name": "Pardee Center for the Study of the Longer-Range Future",
+      "pi_name": "Min Ye",
+      "pi_title": "Interim Director (since July 1, 2025); Professor of International Relations, Pardee School of Global Studies",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "http://www.bu.edu/pardee/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "An interdisciplinary research center of the Pardee School of Global Studies, founded in 2000, studying globally important issues over several decades to inform public decisions and policy.",
+      "member_count": 2,
+      "member_breakdown": "1 interim director, 1 assistant director",
+      "members_page_url": "https://www.bu.edu/pardee/community/staff/",
+      "join_page_url": "https://www.bu.edu/pardee/2026/10/16/applications-now-being-accepted-for-2026-graduate-summer-fellows-program-2/",
+      "join_notes": "The center is taking applications for a 10-week Graduate Summer Fellows Program (June 1 to July 30, 2027) for BU graduate students, with a $6,500 stipend or travel grant. The deadline was Nov 13, 2026, by email to gsfellow@bu.edu, with CV, proposal, abstract, transcript and faculty letter. Not a paid staff job.",
+      "profile_url": "https://www.bu.edu/pardeeschool/profile/min-ye/",
+      "notes": "Bradley Miller is Assistant Director (since May 2026). The staff page lists only these two; fellows, post-doctoral associates and faculty associates have separate pages not read. No center email, phone or street address stated as the center's own on the pages read (the about page mentions the Pardee House brownstone at 67 Bay State Road, but does not give it as the office address). gsfellow@bu.edu is the fellowship program inbox."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Pages read: start, staff, about and the 2027 Graduate Summer Fellows call (1 extra fetch)."
+}

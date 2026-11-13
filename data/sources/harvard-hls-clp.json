@@ -1,0 +1,39 @@
+{
+  "id": "harvard-hls-clp",
+  "institution": "Harvard",
+  "unit": "Center on the Legal Profession (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://clp.law.harvard.edu/",
+    "https://clp.law.harvard.edu/people/",
+    "https://clp.law.harvard.edu/about/",
+    "https://clp.law.harvard.edu/opportunities/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-clp-bryon-fong",
+      "kind": "research-lab",
+      "lab_name": "Center on the Legal Profession",
+      "pi_name": "Bryon Fong",
+      "pi_title": "Executive Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://clp.law.harvard.edu/",
+      "location": "Pound Hall 204, 1563 Massachusetts Avenue, Cambridge, MA 02138",
+      "phone": "(617) 496-6232",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Harvard Law School center that researches how the legal profession is changing, across globalization, careers and diversity, legal markets, practice, education and access to justice.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://clp.law.harvard.edu/people/",
+      "join_page_url": "https://clp.law.harvard.edu/opportunities/",
+      "join_notes": "Opportunities page has three sub-pages: for students (student fellowship program, research assistants, paper prize), for academics, and for practitioners (senior fellows). Sub-pages were not read.",
+      "profile_url": "https://clp.law.harvard.edu/people/bryon-fong/",
+      "notes": "Leadership lists Bryon Fong (Executive Director) and David B. Wilkins (Faculty Director; profile https://clp.law.harvard.edu/people/david-wilkins/). John Coates is Research Director. Member count left null: the page lists many senior research and distinguished fellows, student fellows and a long affiliate list without saying who is in residence. Staff shown: Fong, Toshanna Santos (Executive Assistant), Dana Walters (Assistant Director, Content Strategy), Daniel Yi (Senior Research Fellow). The contact email is hidden in the cached text."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Email address not recoverable from cached text."
+}

@@ -1,0 +1,38 @@
+{
+  "id": "harvard-gsd-just-city",
+  "institution": "Harvard",
+  "unit": "Just City Lab (Harvard GSD)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.designforthejustcity.org/",
+    "https://www.designforthejustcity.org/about",
+    "https://www.designforthejustcity.org/fellowship"
+  ],
+  "labs": [
+    {
+      "id": "harvard-gsd-just-city-toni-l-griffin",
+      "kind": "research-lab",
+      "lab_name": "Just City Lab",
+      "pi_name": "Toni L. Griffin",
+      "pi_title": "Founder; Professor in Practice of Urban Planning, Harvard Graduate School of Design",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.designforthejustcity.org/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "A Harvard Graduate School of Design research platform studying how design and planning produce justice and injustice in cities, with tools such as the Just City Index.",
+      "member_count": 2,
+      "member_breakdown": "1 founder and lead, 1 deputy director",
+      "members_page_url": "https://www.designforthejustcity.org/about",
+      "join_page_url": "https://www.designforthejustcity.org/fellowship",
+      "join_notes": "The fellowship page describes the Just City Mayoral Fellowship, a semester program for small cohorts of mayors and their staff, run with the US Conference of Mayors. It is not a job or student position. A Get in Touch contact page exists at https://www.designforthejustcity.org/contact but was not read.",
+      "profile_url": null,
+      "notes": "Anna Lyman is listed as Deputy Director. The about page also lists many past mayoral fellows or student participants by name, which are not counted. The about page says Griffin and a team of research assistants produced the lab's tools but names no assistants. No email found."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Only cached pages were read; no extra fetches."
+}

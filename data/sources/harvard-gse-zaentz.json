@@ -1,0 +1,60 @@
+{
+  "id": "harvard-gse-zaentz",
+  "institution": "Harvard",
+  "unit": "Saul Zaentz Early Education Initiative (Harvard HGSE)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://zaentz.gse.harvard.edu/",
+    "https://www.zaentz.gse.harvard.edu/who-we-are/",
+    "https://www.zaentz.gse.harvard.edu/fellows-program/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-gse-zaentz-stephanie-jones",
+      "kind": "research-lab",
+      "lab_name": "Saul Zaentz Early Education Initiative",
+      "pi_name": "Stephanie Jones",
+      "pi_title": "Faculty Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://zaentz.gse.harvard.edu/",
+      "location": "8 Story Street, Cambridge, MA 02138",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "An HGSE initiative that supports early education leaders through professional learning, a large Early Learning Study and policy-facing work.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.zaentz.gse.harvard.edu/who-we-are/",
+      "join_page_url": "https://www.zaentz.gse.harvard.edu/fellows-program/",
+      "join_notes": "The Fellows Program is a half-tuition award for full-time HGSE Ed.M. students in early education; applicants submit a statement within the HGSE Ed.M. application and need three or more years in the field. This is a student award, not a staff job; no jobs page was seen.",
+      "profile_url": null,
+      "notes": "Nonie Lesaux is the other Faculty Director. Email addresses on the page are hidden by the site, so none are recorded (the general contact address could not be read). Count left null: the page lists 2 directors, 9 team members (one a visiting fellow), 2 Zaentz professors and a group of PhD students, without a clear core split."
+    },
+    {
+      "id": "harvard-gse-zaentz-armida-lizarraga",
+      "kind": "research-lab",
+      "lab_name": "Quality Measurement Initiative",
+      "pi_name": "Armida Lizarraga",
+      "pi_title": "Director, Quality Measurement Initiative",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": null,
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Develops easy-to-use tools for measuring quality in early education and care settings.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Listed on the Zaentz Who We Are page; not read further."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read the Who We Are page and the Fellows Program page (fetched once)."
+}

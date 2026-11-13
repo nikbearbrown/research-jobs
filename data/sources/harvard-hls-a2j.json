@@ -1,0 +1,39 @@
+{
+  "id": "harvard-hls-a2j",
+  "institution": "Harvard",
+  "unit": "Access to Justice Lab (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://a2jlab.org/",
+    "https://a2jlab.org/about/",
+    "https://a2jlab.org/lab-staff/",
+    "https://a2jlab.org/about-us/connect-with-us/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-a2j-d-james-greiner",
+      "kind": "research-lab",
+      "lab_name": "Access to Justice Lab",
+      "pi_name": "D. James Greiner",
+      "pi_title": "Faculty Director",
+      "pi_email": "jgreiner@law.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://a2jlab.org/",
+      "location": "1607 Massachusetts Ave., Cambridge, MA 02138",
+      "phone": "617.496.4643",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Harvard Law School lab that runs randomized controlled trials of civil and criminal justice programs to show which ones work, and trains researchers and students in those methods.",
+      "member_count": 9,
+      "member_breakdown": "1 faculty director, 1 associate director, 1 assistant director, 1 project manager, 2 data staff (1 data analyst, 1 assistant data analyst), 1 research assistant, 1 communications associate, 1 administrative coordinator",
+      "members_page_url": "https://a2jlab.org/lab-staff/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Staff page shows addresses as name[at]law.harvard.edu; recorded in normal form. Staff: Renee L. Danser (Associate Director of Research and Strategic Partnerships), Mandy Mobley Li (Assistant Director of Research Innovations), Miguel von Fedak, Ryan Halen, Patricia Gansert, Sophia Farkouh, Michelle Blouin, Judith Duvivier. The Connect with us page hides its general email address, so admin_email is null. No jobs or research-assistant page was found; the worklist careers page was a project page (Employment Security) and not a jobs page. The About page says the lab works with student researcher teams at Harvard Law School and beyond."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Staff and Connect pages were fetched (linked from cached pages)."
+}

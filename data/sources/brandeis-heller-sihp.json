@@ -1,0 +1,15 @@
+{
+  "id": "brandeis-heller-sihp",
+  "institution": "Brandeis University",
+  "unit": "Schneider Institutes for Health Policy and Research",
+  "city": "Waltham, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://heller.brandeis.edu/sihp/",
+    "https://heller.brandeis.edu/ibh/",
+    "https://heller.brandeis.edu/ihs/index.html"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "All three cached pages (SIHP, IBH, IHS) hold only a 403 Forbidden error. Only the start page of the Heller site was retried with --render and it failed the same way. No entry written."
+}

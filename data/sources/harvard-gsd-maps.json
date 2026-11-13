@@ -1,0 +1,38 @@
+{
+  "id": "harvard-gsd-maps",
+  "institution": "Harvard",
+  "unit": "Material Processes and Systems Group (Harvard GSD)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://research.gsd.harvard.edu/maps/",
+    "https://research.gsd.harvard.edu/maps/people/",
+    "https://research.gsd.harvard.edu/maps/about/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-gsd-maps-martin-bechthold",
+      "kind": "research-lab",
+      "lab_name": "Material Processes and Systems Group (MaP+S)",
+      "pi_name": "Martin Bechthold",
+      "pi_title": "Professor; founder and leader of the group",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://research.gsd.harvard.edu/maps/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "A Harvard GSD research unit that studies materials in the built environment, combining computation, robotics, material science and perception research, with a current focus on biomaterials and material perception.",
+      "member_count": 11,
+      "member_breakdown": "1 professor, 2 lecturers in architecture, 6 doctoral students or candidates, 2 research assistants",
+      "members_page_url": "https://research.gsd.harvard.edu/maps/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.gsd.harvard.edu/person/martin-bechthold/",
+      "notes": "The About page says the group is closely affiliated with the GSD's Laboratory for Design Technology. Count leaves out one affiliate and former postdoctoral fellow and the long past-members list. No general email, phone or address shown on pages read; a Contact Us page exists but was not read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "No careers or join page linked. Roster page lists current members and a long past-members list. Member count excludes the affiliate/former postdoc (Charu Srivastava)."
+}

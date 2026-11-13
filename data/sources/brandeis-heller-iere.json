@@ -1,0 +1,13 @@
+{
+  "id": "brandeis-heller-iere",
+  "institution": "Brandeis University",
+  "unit": "Institute for Economic and Racial Equity",
+  "city": "Waltham, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://heller.brandeis.edu/iere/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The cached page for this address holds only a 403 Forbidden error, and a second fetch with --render returned the same error for the start page, so nothing could be read about people, contact details or jobs. No entry written."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "harvard-hls-eals",
+  "institution": "Harvard",
+  "unit": "East Asian Legal Studies Program (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://eals.law.harvard.edu/",
+    "https://eals.law.harvard.edu/faculty-staff/",
+    "https://eals.law.harvard.edu/contact/",
+    "https://eals.law.harvard.edu/students/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-eals-william-p-alford",
+      "kind": "research-lab",
+      "lab_name": "East Asian Legal Studies",
+      "pi_name": "William P. Alford",
+      "pi_title": "Director of East Asian Legal Studies; Jerome A. and Joan L. Cohen Professor of East Asian Legal Studies",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://eals.law.harvard.edu/",
+      "location": "Austin Hall 301, 1585 Massachusetts Ave., Cambridge, MA 02138 (office temporarily on the fifth floor of Areeda Hall, June to November 2026)",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "eals@law.harvard.edu",
+      "research_summary": "Harvard Law School program that supports research and teaching on the law and legal history of East Asia and its place in global order, with a visiting scholar program and student grants.",
+      "member_count": 4,
+      "member_breakdown": "1 director, 1 associate director, 2 administrative/program staff",
+      "members_page_url": "https://eals.law.harvard.edu/faculty-staff/",
+      "join_page_url": "https://eals.law.harvard.edu/students/",
+      "join_notes": "Student Opportunities page says students can work as research assistants or teaching fellows for EALS faculty, among other options; it names no contact or opening. The site also has a Visiting Scholar Program.",
+      "profile_url": null,
+      "notes": "Alice Izumo is Associate Director; her email is hidden. Staff: Juliet Bowler (Senior Program Manager, HPOD and EALS), Emma Johnson (program staff). Faculty affiliates (Idriss Fofana, J. Mark Ramseyer, Mark Wu) not counted. The contact page shows eals [at] law.harvard.edu, recorded in normal form as the general address."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

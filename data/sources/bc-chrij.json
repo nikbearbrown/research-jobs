@@ -1,0 +1,41 @@
+{
+  "id": "bc-chrij",
+  "institution": "Boston College",
+  "unit": "Center for Human Rights and International Justice",
+  "city": "Chestnut Hill, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.bc.edu/content/bc-web/centers/chrij.html",
+    "https://www.bc.edu/content/bc-web/centers/chrij/about/fellows.html",
+    "https://www.bc.edu/content/bc-web/centers/chrij/about.html",
+    "https://www.bc.edu/content/bc-web/centers/chrij/about/opportunities.html",
+    "https://www.bc.edu/content/bc-web/centers/chrij/about/directors.html",
+    "https://www.bc.edu/content/bc-web/centers/chrij/about/staff.html"
+  ],
+  "labs": [
+    {
+      "id": "bc-chrij-org",
+      "kind": "research-lab",
+      "lab_name": "Center for Human Rights and International Justice",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bc.edu/content/bc-web/centers/chrij.html",
+      "location": "Stokes Hall North, Boston College, Chestnut Hill, MA 02467",
+      "phone": "617-552-1968",
+      "admin_name": null,
+      "admin_email": "humanrights@bc.edu",
+      "research_summary": "A Boston College center that combines interdisciplinary training, applied research and scholar-practitioner exchange on human rights and international justice.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://www.bc.edu/content/bc-web/centers/chrij/about/opportunities.html",
+      "join_notes": "The opportunities page says there are no current opportunities with the Center and no other opportunities listed. General contact is humanrights@bc.edu.",
+      "profile_url": null,
+      "notes": "The Directors page reads 'To be announced' and the Center Staff page is empty, so no lead and no core count are recorded. The Fellows page lists only past and current visiting scholars (some with remote appointments), who are not counted. A 2024 fellow note refers to 'Center co-director Prof. Brinton Lykes', but the current Directors page names no one, so she is not recorded as lead. The Affiliated Faculty page was not read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Fetched the Directors and Staff pages (2 extra fetches). Both are present on the About menu."
+}

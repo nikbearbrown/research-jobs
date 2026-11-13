@@ -1,0 +1,39 @@
+{
+  "id": "harvard-hls-eelp",
+  "institution": "Harvard",
+  "unit": "Environmental and Energy Law Program (Harvard HLS)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://eelp.law.harvard.edu/",
+    "https://eelp.law.harvard.edu/overview/contact-us/",
+    "https://eelp.law.harvard.edu/students/",
+    "https://eelp.law.harvard.edu/overview/eelp-team/"
+  ],
+  "labs": [
+    {
+      "id": "harvard-hls-eelp-org",
+      "kind": "research-lab",
+      "lab_name": "Environmental and Energy Law Program",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://eelp.law.harvard.edu/",
+      "location": "6 Everett Street, Suite 4119, Cambridge, MA 02138",
+      "phone": "(617) 495-1857",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Harvard Law School program that produces legal analysis, trackers and a podcast on environmental, climate and energy law and regulation.",
+      "member_count": 13,
+      "member_breakdown": "2 faculty, 7 staff attorneys, 1 legal fellow, 3 staff",
+      "members_page_url": "https://eelp.law.harvard.edu/overview/eelp-team/",
+      "join_page_url": "https://eelp.law.harvard.edu/students/",
+      "join_notes": "Students page describes a Legal Fellowship (2026-2027 applications closed) and research assistant jobs: 1Ls apply through a form (first consideration by September 21, 2026); 2Ls, 3Ls and LL.M.s are considered on a rolling basis and may contact Abby Husselbee.",
+      "profile_url": null,
+      "notes": "Faculty are Jody Freeman and Richard Lazarus; the page gives no director title, so pi_name is null. Staff attorneys: Carrie Jenks, Dale Bryk, Ari Peskoe, Sara Dewey, Abby Husselbee, Erika Kranz, Kendall McPherson. Legal Fellow: Stirling Haig. Staff: Robin Just, Sara Burr Levy, Kim Wright (Media and Outreach Manager, phone 617.384.0378 for media). All email addresses are hidden in the cached text. The program is part of the Emmett Environmental Law Center. Note: the contact page links the team page as /eelp-team/ in one place and /overview/eelp-team/ in another; the second was read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

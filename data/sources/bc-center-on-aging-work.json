@@ -1,0 +1,39 @@
+{
+  "id": "bc-center-on-aging-work",
+  "institution": "Boston College",
+  "unit": "Center on Aging and Work",
+  "city": "Chestnut Hill, MA",
+  "checked_on": "2026-11-12",
+  "listing_urls": [
+    "https://www.bc.edu/content/bc-web/schools/ssw/sites/center-on-aging-and-work.html",
+    "https://www.bc.edu/content/bc-web/schools/ssw/sites/center-on-aging-and-work/staff-faculty-affiliates.html",
+    "https://www.bc.edu/content/bc-web/schools/ssw/sites/center-on-aging-and-work/about.html",
+    "https://www.bc.edu/content/bc-web/schools/ssw/sites/center-on-aging-and-work/research/projects/self-employment-in-later-life.html"
+  ],
+  "labs": [
+    {
+      "id": "bc-center-on-aging-work-christina-matz",
+      "kind": "research-lab",
+      "lab_name": "Center on Aging & Work",
+      "pi_name": "Christina Matz",
+      "pi_title": "Director",
+      "pi_email": "matzch@bc.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bc.edu/content/bc-web/schools/ssw/sites/center-on-aging-and-work.html",
+      "location": "140 Commonwealth Avenue, McGuinn Hall 106k, Chestnut Hill, MA 02467",
+      "phone": "617-552-1634",
+      "admin_name": null,
+      "admin_email": "agework@bc.edu",
+      "research_summary": "A Boston College School of Social Work center studying paid and unpaid work across the lifespan, especially for older adults, and linking that research to employers and policymakers.",
+      "member_count": 4,
+      "member_breakdown": "1 director, 1 founder and senior advisor, 1 founder and professor emerita, 1 doctoral student",
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/ssw/sites/center-on-aging-and-work/staff-faculty-affiliates.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/bc-web/schools/ssw/faculty/faculty-directory/christina-matz-costa.html",
+      "notes": "The team list on the staff page has four people (Matz, Jacquelyn James, Marcie Pitt-Catsouphes, Chin-Yi Su). Five faculty affiliates with homes elsewhere are not counted. The about page calls Matz co-director; the start and staff pages say director."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "No join, careers or research-assistant page found. The link labelled careers in the worklist was a research project page (Self-Employment in Later Life) with no job information, so join_page_url is null."
+}
