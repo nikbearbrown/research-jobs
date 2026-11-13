@@ -1,0 +1,1620 @@
+[
+  {
+    "id": "bc-center-on-aging-work",
+    "name": "Center on Aging and Work",
+    "category": "university-policy-center",
+    "parent": "Boston College",
+    "city": "Chestnut Hill",
+    "start_url": "https://www.bc.edu/content/bc-web/schools/ssw/sites/center-on-aging-and-work.html",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bc.edu/content/bc-web/schools/ssw/sites/center-on-aging-and-work.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-ssw-sites-center-on-aging-and-work-html.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bc.edu/content/bc-web/schools/ssw/sites/center-on-aging-and-work/staff-faculty-affiliates.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-ssw-sites-center-on-aging-and-work-staff-faculty-affiliates-html.txt",
+        "found_by": "start page link labelled 'Staff & Faculty Affiliates'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bc.edu/content/bc-web/schools/ssw/sites/center-on-aging-and-work/about.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-ssw-sites-center-on-aging-and-work-about-html.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bc.edu/content/bc-web/schools/ssw/sites/center-on-aging-and-work/research/projects/self-employment-in-later-life.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-ssw-sites-center-on-aging-and-work-research-projects-self-employment-in-later-life-html.txt",
+        "found_by": "start page link labelled 'Self-Employment in Later Life'"
+      }
+    ]
+  },
+  {
+    "id": "bc-center-retirement-research",
+    "name": "Center for Retirement Research",
+    "category": "university-policy-center",
+    "parent": "Boston College",
+    "city": "Chestnut Hill",
+    "start_url": "",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "The BC centers page links this name to the Roche Center URL by mistake; no correct URL seen",
+    "status": "todo",
+    "pages": []
+  },
+  {
+    "id": "bc-chrij",
+    "name": "Center for Human Rights and International Justice",
+    "category": "university-policy-center",
+    "parent": "Boston College",
+    "city": "Chestnut Hill",
+    "start_url": "https://www.bc.edu/content/bc-web/centers/chrij.html",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bc.edu/content/bc-web/centers/chrij.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-centers-chrij-html.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bc.edu/content/bc-web/centers/chrij/about/fellows.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-centers-chrij-about-fellows-html.txt",
+        "found_by": "start page link labelled 'Fellows'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bc.edu/content/bc-web/centers/chrij/about.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-centers-chrij-about-html.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bc.edu/content/bc-web/centers/chrij/about/opportunities.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-centers-chrij-about-opportunities-html.txt",
+        "found_by": "start page link labelled 'Opportunities'"
+      }
+    ]
+  },
+  {
+    "id": "bc-clough",
+    "name": "Clough Center for the Study of Constitutional Democracy",
+    "category": "university-policy-center",
+    "parent": "Boston College",
+    "city": "Chestnut Hill",
+    "start_url": "https://www.bc.edu/content/bc-web/centers/clough.html",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bc.edu/content/bc-web/centers/clough.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-centers-clough-html.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bc.edu/content/bc-web/resources/for-faculty-staff.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-resources-for-faculty-staff-html.txt",
+        "found_by": "start page link labelled 'Faculty & Staff'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bc.edu/content/bc-web/centers/clough/about.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-centers-clough-about-html.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bc.edu/content/bc-web/centers/clough/grants.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-centers-clough-grants-html.txt",
+        "found_by": "start page link labelled 'Fellowships'"
+      }
+    ]
+  },
+  {
+    "id": "bc-corcoran",
+    "name": "Joseph E. Corcoran Center for Real Estate and Urban Action",
+    "category": "university-policy-center",
+    "parent": "Boston College",
+    "city": "Chestnut Hill",
+    "start_url": "https://www.bc.edu/corcorancenter",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bc.edu/corcorancenter",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/corcorancenter.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bc.edu/directory",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/directory.txt",
+        "found_by": "start page link labelled 'Directory'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bc.edu/content/bc-web/schools/carroll-school/about/contact.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-carroll-school-about-contact-html.txt",
+        "found_by": "start page link labelled 'Contact'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bc.edu/content/bc-web/schools/carroll-school/sites/corcoran-center/events/launching-your-real-estate-career.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-carroll-school-sites-corcoran-center-events-launching-your-real-estate-career-html.txt",
+        "found_by": "start page link labelled 'Launch Your Real Estate Career'"
+      }
+    ]
+  },
+  {
+    "id": "bc-early-childhood-policy",
+    "name": "Institute of Early Childhood Policy",
+    "category": "university-policy-center",
+    "parent": "Boston College",
+    "city": "Chestnut Hill",
+    "start_url": "https://www.bc.edu/content/bc-web/sites/center-child-family-policy.html",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bc.edu/content/bc-web/sites/center-child-family-policy.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-sites-center-child-family-policy-html.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bc.edu/content/bc-web/resources/for-faculty-staff.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-resources-for-faculty-staff-html.txt",
+        "found_by": "start page link labelled 'Faculty & Staff'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bc.edu/content/bc-web/sites/center-child-family-policy/about.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-sites-center-child-family-policy-about-html.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "bc-economics",
+    "name": "Department of Economics",
+    "category": "university-department",
+    "parent": "Boston College",
+    "city": "Chestnut Hill",
+    "start_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics.html",
+    "people_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics/people.html",
+    "careers_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics/people/faculty-openings.html",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-morrissey-departments-economics-html.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics/people.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-morrissey-departments-economics-people-html.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics/about.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-morrissey-departments-economics-about-html.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/economics/people/faculty-openings.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-morrissey-departments-economics-people-faculty-openings-html.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "bc-political-science",
+    "name": "Department of Political Science",
+    "category": "university-department",
+    "parent": "Boston College",
+    "city": "Chestnut Hill",
+    "start_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/political-science.html",
+    "people_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/political-science/people.html",
+    "careers_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/political-science/people/employment.html",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/political-science.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-morrissey-departments-political-science-html.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/political-science/people.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-morrissey-departments-political-science-people-html.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/political-science/about.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-morrissey-departments-political-science-about-html.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/political-science/people/employment.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-morrissey-departments-political-science-people-employment-html.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "bc-rappaport",
+    "name": "Rappaport Center for Law and Public Policy",
+    "category": "university-policy-center",
+    "parent": "Boston College",
+    "city": "Chestnut Hill",
+    "start_url": "https://www.bc.edu/content/bc-web/schools/law/centers/rappaport-center.html",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bc.edu/content/bc-web/schools/law/centers/rappaport-center.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-law-centers-rappaport-center-html.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bc.edu/content/bc-web/schools/law/centers/rappaport-center/fellows.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-law-centers-rappaport-center-fellows-html.txt",
+        "found_by": "start page link labelled 'Fellows'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bc.edu/content/bc-web/schools/law/centers/rappaport-center/about.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-law-centers-rappaport-center-about-html.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "bc-sociology",
+    "name": "Department of Sociology",
+    "category": "university-department",
+    "parent": "Boston College",
+    "city": "Chestnut Hill",
+    "start_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/sociology.html",
+    "people_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/sociology/people.html",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/sociology.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-morrissey-departments-sociology-html.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/sociology/people.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-morrissey-departments-sociology-people-html.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/sociology/about.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-morrissey-departments-sociology-about-html.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/sociology/about/open-positions.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-morrissey-departments-sociology-about-open-positions-html.txt",
+        "found_by": "start page link labelled 'Open Positions'"
+      }
+    ]
+  },
+  {
+    "id": "bc-wealth-philanthropy",
+    "name": "Center on Wealth and Philanthropy",
+    "category": "university-policy-center",
+    "parent": "Boston College",
+    "city": "Chestnut Hill",
+    "start_url": "https://www.bc.edu/content/bc-web/centers/center-on-wealth-and-philanthropy.html",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bc.edu/content/bc-web/centers/center-on-wealth-and-philanthropy.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-centers-center-on-wealth-and-philanthropy-html.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bc.edu/content/bc-web/resources/for-faculty-staff.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-resources-for-faculty-staff-html.txt",
+        "found_by": "start page link labelled 'Faculty & Staff'"
+      }
+    ]
+  },
+  {
+    "id": "brandeis-crown",
+    "name": "Crown Center for Middle East Studies",
+    "category": "university-policy-center",
+    "parent": "Brandeis University",
+    "city": "Waltham",
+    "start_url": "https://www.brandeis.edu/crown/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.brandeis.edu/crown/",
+        "status": "200",
+        "text": "cache/_text/www.brandeis.edu/crown.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.brandeis.edu/crown/people/index.html",
+        "status": "200",
+        "text": "cache/_text/www.brandeis.edu/crown-people-index-html.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.brandeis.edu/about/index.html",
+        "status": "200",
+        "text": "cache/_text/www.brandeis.edu/about-index-html.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.brandeis.edu/crown/grants/index.html",
+        "status": "200",
+        "text": "cache/_text/www.brandeis.edu/crown-grants-index-html.txt",
+        "found_by": "start page link labelled 'Open Positions'"
+      }
+    ]
+  },
+  {
+    "id": "brandeis-gordon-center",
+    "name": "Gordon Center for American Public Policy",
+    "category": "university-policy-center",
+    "parent": "Brandeis University",
+    "city": "Waltham",
+    "start_url": "https://www.brandeis.edu/politics/gordon-center/index.html",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.brandeis.edu/politics/gordon-center/index.html",
+        "status": "200",
+        "text": "cache/_text/www.brandeis.edu/politics-gordon-center-index-html.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.brandeis.edu/audience/fac-staff.html",
+        "status": "200",
+        "text": "cache/_text/www.brandeis.edu/audience-fac-staff-html.txt",
+        "found_by": "start page link labelled 'Faculty & Staff'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.brandeis.edu/about/index.html",
+        "status": "200",
+        "text": "cache/_text/www.brandeis.edu/about-index-html.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.brandeis.edu/human-resources/careers/index.html",
+        "status": "200",
+        "text": "cache/_text/www.brandeis.edu/human-resources-careers-index-html.txt",
+        "found_by": "start page link labelled 'Employment'"
+      }
+    ]
+  },
+  {
+    "id": "brandeis-heller-cyc",
+    "name": "Center for Youth and Communities",
+    "category": "university-policy-center",
+    "parent": "Brandeis Heller School",
+    "city": "Waltham",
+    "start_url": "https://heller.brandeis.edu/cyc/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://heller.brandeis.edu/cyc/",
+        "status": "200",
+        "text": "cache/_text/heller.brandeis.edu/cyc.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "brandeis-heller-gds",
+    "name": "Center for Global Development and Sustainability",
+    "category": "university-policy-center",
+    "parent": "Brandeis Heller School",
+    "city": "Waltham",
+    "start_url": "https://heller.brandeis.edu/gds/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://heller.brandeis.edu/gds/",
+        "status": "200",
+        "text": "cache/_text/heller.brandeis.edu/gds.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "brandeis-heller-icyfp",
+    "name": "Institute for Child, Youth and Family Policy",
+    "category": "university-policy-center",
+    "parent": "Brandeis Heller School",
+    "city": "Waltham",
+    "start_url": "https://heller.brandeis.edu/icyfp/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "No links extracted",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://heller.brandeis.edu/icyfp/",
+        "status": "200",
+        "text": "cache/_text/heller.brandeis.edu/icyfp.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "brandeis-heller-iere",
+    "name": "Institute for Economic and Racial Equity",
+    "category": "university-policy-center",
+    "parent": "Brandeis Heller School",
+    "city": "Waltham",
+    "start_url": "https://heller.brandeis.edu/iere/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "No links extracted",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://heller.brandeis.edu/iere/",
+        "status": "200",
+        "text": "cache/_text/heller.brandeis.edu/iere.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "brandeis-heller-lurie",
+    "name": "Lurie Institute for Disability Policy",
+    "category": "university-policy-center",
+    "parent": "Brandeis Heller School",
+    "city": "Waltham",
+    "start_url": "https://heller.brandeis.edu/lurie/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "No links extracted",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://heller.brandeis.edu/lurie/",
+        "status": "200",
+        "text": "cache/_text/heller.brandeis.edu/lurie.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "brandeis-heller-sihp",
+    "name": "Schneider Institutes for Health Policy and Research",
+    "category": "university-policy-center",
+    "parent": "Brandeis Heller School",
+    "city": "Waltham",
+    "start_url": "https://heller.brandeis.edu/sihp/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Includes IBH https://heller.brandeis.edu/ibh/ and IHS https://heller.brandeis.edu/ihs/index.html",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://heller.brandeis.edu/sihp/",
+        "status": "200",
+        "text": "cache/_text/heller.brandeis.edu/sihp.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "list",
+        "url": "https://heller.brandeis.edu/ibh/",
+        "status": "200",
+        "text": "cache/_text/heller.brandeis.edu/ibh.txt",
+        "found_by": "address written in targets.csv notes"
+      },
+      {
+        "role": "list",
+        "url": "https://heller.brandeis.edu/ihs/index.html",
+        "status": "200",
+        "text": "cache/_text/heller.brandeis.edu/ihs-index-html.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "brandeis-heller-sillerman",
+    "name": "Sillerman Center for the Advancement of Philanthropy",
+    "category": "university-policy-center",
+    "parent": "Brandeis Heller School",
+    "city": "Waltham",
+    "start_url": "https://heller.brandeis.edu/sillerman/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://heller.brandeis.edu/sillerman/",
+        "status": "200",
+        "text": "cache/_text/heller.brandeis.edu/sillerman.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "bu-anthropology",
+    "name": "Department of Anthropology",
+    "category": "university-department",
+    "parent": "Boston University / College of Arts & Sciences",
+    "city": "Boston",
+    "start_url": "http://www.bu.edu/anthrop/",
+    "people_url": "https://www.bu.edu/anthrop/people/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "http://www.bu.edu/anthrop/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/anthrop.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/anthrop/people/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/anthrop-people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/anthrop/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/anthrop-about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "bu-camed",
+    "name": "Chobanian & Avedisian School of Medicine",
+    "category": "school",
+    "parent": "Boston University / Chobanian & Avedisian School of Medicine",
+    "city": "Boston",
+    "start_url": "https://www.bumc.bu.edu/camed/",
+    "people_url": "https://www.bumc.bu.edu/camed/about/directory/",
+    "careers_url": "https://www.bumc.bu.edu/camed/research-impact/research-job-openings/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Centers list: https://www.bumc.bu.edu/camed/research-impact/centers-institutes/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bumc.bu.edu/camed/",
+        "status": "200",
+        "text": "cache/_text/www.bumc.bu.edu/camed.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bumc.bu.edu/camed/about/directory/",
+        "status": "200",
+        "text": "cache/_text/www.bumc.bu.edu/camed-about-directory.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bumc.bu.edu/camed/about/",
+        "status": "200",
+        "text": "cache/_text/www.bumc.bu.edu/camed-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bumc.bu.edu/camed/research-impact/research-job-openings/",
+        "status": "200",
+        "text": "cache/_text/www.bumc.bu.edu/camed-research-impact-research-job-openings.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://www.bumc.bu.edu/camed/research-impact/centers-institutes/",
+        "status": "200",
+        "text": "cache/_text/www.bumc.bu.edu/camed-research-impact-centers-institutes.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "bu-cds",
+    "name": "Faculty of Computing & Data Sciences",
+    "category": "school",
+    "parent": "Boston University / Faculty of Computing & Data Sciences",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/cds-faculty/",
+    "people_url": "https://www.bu.edu/cds-faculty/culture-community/faculty-staff-directory/",
+    "careers_url": "https://www.bu.edu/cds-faculty/culture-community/join-us/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/cds-faculty/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/cds-faculty.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/cds-faculty/culture-community/faculty-staff-directory/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/cds-faculty-culture-community-faculty-staff-directory.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/cds-faculty/explore/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/cds-faculty-explore.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/cds-faculty/culture-community/join-us/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/cds-faculty-culture-community-join-us.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "bu-dental",
+    "name": "Henry M. Goldman School of Dental Medicine",
+    "category": "school",
+    "parent": "Boston University / Goldman School of Dental Medicine",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/dental/",
+    "people_url": "https://www.bu.edu/dental/faculty-staff",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Research: https://www.bu.edu/dental/research/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/dental/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/dental.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/dental/faculty-staff",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/dental-faculty-staff.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/dental/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/dental-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.bu.edu/dental/research/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/dental-research.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "bu-econ",
+    "name": "Department of Economics",
+    "category": "university-department",
+    "parent": "Boston University / College of Arts & Sciences",
+    "city": "Boston",
+    "start_url": "http://www.bu.edu/econ/",
+    "people_url": "https://www.bu.edu/econ/people/faculty/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "http://www.bu.edu/econ/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/econ.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/econ/people/faculty/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/econ-people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/econ/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/econ-about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "bu-eng",
+    "name": "College of Engineering",
+    "category": "school",
+    "parent": "Boston University / College of Engineering",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/eng/",
+    "people_url": "https://www.bu.edu/eng/about-eng/contacts-directory/",
+    "careers_url": "https://www.bu.edu/eng/about-eng/open-positions/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Centers list: https://www.bu.edu/eng/research-impact/research-centers-institutes/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/eng/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/eng.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/eng/about-eng/contacts-directory/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/eng-about-eng-contacts-directory.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/eng/about-eng/open-positions/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/eng-about-eng-open-positions.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://www.bu.edu/eng/research-impact/research-centers-institutes/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/eng-research-impact-research-centers-institutes.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "bu-gdp",
+    "name": "Global Development Policy Center",
+    "category": "university-policy-center",
+    "parent": "Boston University",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/gdp",
+    "people_url": "https://www.bu.edu/gdp/people/",
+    "careers_url": "https://www.bu.edu/gdp/about-us/careers/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot-dagger",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/gdp",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/gdp.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/gdp/people/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/gdp-people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/gdp/about-us/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/gdp-about-us.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/gdp/about-us/careers/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/gdp-about-us-careers.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "bu-gms",
+    "name": "Graduate Medical Sciences",
+    "category": "school",
+    "parent": "Boston University / Graduate Medical Sciences",
+    "city": "Boston",
+    "start_url": "https://www.bumc.bu.edu/gms/",
+    "people_url": "https://www.bumc.bu.edu/gms/academics/faculty-profiles/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bumc.bu.edu/gms/",
+        "status": "200",
+        "text": "cache/_text/www.bumc.bu.edu/gms.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bumc.bu.edu/gms/academics/faculty-profiles/",
+        "status": "200",
+        "text": "cache/_text/www.bumc.bu.edu/gms-academics-faculty-profiles.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bumc.bu.edu/gms/about/",
+        "status": "200",
+        "text": "cache/_text/www.bumc.bu.edu/gms-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bumc.bu.edu/gms/professional-development/connect-mentors/",
+        "status": "200",
+        "text": "cache/_text/www.bumc.bu.edu/gms-professional-development-connect-mentors.txt",
+        "found_by": "start page link labelled 'Mentoring and Career Coaching'"
+      }
+    ]
+  },
+  {
+    "id": "bu-ioc",
+    "name": "Initiative on Cities",
+    "category": "university-policy-center",
+    "parent": "Boston University / University-wide",
+    "city": "Boston",
+    "start_url": "http://www.bu.edu/ioc/",
+    "people_url": "https://www.bu.edu/ioc/who-we-are/team/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "http://www.bu.edu/ioc/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/ioc.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/ioc/who-we-are/team/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/ioc-who-we-are-team.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/ioc/who-we-are/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/ioc-who-we-are.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/ioc/who-we-are/get-involved/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/ioc-who-we-are-get-involved.txt",
+        "found_by": "start page link labelled 'Get Involved'"
+      }
+    ]
+  },
+  {
+    "id": "bu-pardee",
+    "name": "Frederick S. Pardee School of Global Studies",
+    "category": "school",
+    "parent": "Boston University / Pardee School of Global Studies",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/pardeeschool/",
+    "people_url": "https://www.bu.edu/pardeeschool/academics/faculty/core-faculty/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Centers: https://www.bu.edu/pardeeschool/research/centers-programs/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/pardeeschool/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/pardeeschool.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/pardeeschool/academics/faculty/core-faculty/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/pardeeschool-academics-faculty-core-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/pardeeschool/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/pardeeschool-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/pardeeschool/pardeepride/career-resources/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/pardeeschool-pardeepride-career-resources.txt",
+        "found_by": "start page link labelled 'Career Services'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.bu.edu/pardeeschool/research/centers-programs/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/pardeeschool-research-centers-programs.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "bu-pardee-center",
+    "name": "Pardee Center for the Study of the Longer-Range Future",
+    "category": "university-policy-center",
+    "parent": "Boston University / Pardee School of Global Studies",
+    "city": "Boston",
+    "start_url": "http://www.bu.edu/pardee/",
+    "people_url": "https://www.bu.edu/pardee/community/staff/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "http://www.bu.edu/pardee/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/pardee.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/pardee/community/staff/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/pardee-community-staff.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/pardee/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/pardee-about.txt",
+        "found_by": "start page link labelled 'About Us'"
+      }
+    ]
+  },
+  {
+    "id": "bu-polisci",
+    "name": "Department of Political Science",
+    "category": "university-department",
+    "parent": "Boston University / College of Arts & Sciences",
+    "city": "Boston",
+    "start_url": "http://www.bu.edu/polisci/",
+    "people_url": "https://www.bu.edu/polisci/people/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "http://www.bu.edu/polisci/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/polisci.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/polisci/people/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/polisci-people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/polisci/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/polisci-about.txt",
+        "found_by": "start page link labelled 'About Us'"
+      }
+    ]
+  },
+  {
+    "id": "bu-questrom",
+    "name": "Questrom School of Business",
+    "category": "school",
+    "parent": "Boston University / Questrom School of Business",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/questrom",
+    "people_url": "https://www.bu.edu/questrom/faculty/faculty-directory/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Research: https://www.bu.edu/questrom/research/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/questrom",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/questrom/faculty/faculty-directory/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-faculty-faculty-directory.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/questrom/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/questrom/feld-center/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-feld-center.txt",
+        "found_by": "start page link labelled 'Feld Center for Career & Alumni Engagement'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.bu.edu/questrom/research/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-research.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "bu-sargent",
+    "name": "Sargent College of Health & Rehabilitation Sciences",
+    "category": "school",
+    "parent": "Boston University / Sargent College",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/sargent/",
+    "people_url": "https://www.bu.edu/sargent/directory/",
+    "careers_url": "https://www.bu.edu/sargent/about-us/work-with-us/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Labs list: https://www.bu.edu/sargent/research/research-labs-centers/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/sargent/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sargent.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/sargent/directory/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sargent-directory.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/sargent/about-us/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sargent-about-us.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/sargent/about-us/work-with-us/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sargent-about-us-work-with-us.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://www.bu.edu/sargent/research/research-labs-centers/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sargent-research-research-labs-centers.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "bu-sociology",
+    "name": "Department of Sociology",
+    "category": "university-department",
+    "parent": "Boston University / College of Arts & Sciences",
+    "city": "Boston",
+    "start_url": "http://www.bu.edu/sociology/",
+    "people_url": "https://www.bu.edu/sociology/people/faculty/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "http://www.bu.edu/sociology/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sociology.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/sociology/people/faculty/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sociology-people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/sociology/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sociology-about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "bu-sph",
+    "name": "School of Public Health",
+    "category": "school",
+    "parent": "Boston University / School of Public Health",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/sph/",
+    "people_url": "https://www.bu.edu/sph/about/directory/",
+    "careers_url": "https://www.bu.edu/sph/careers/for-faculty-staff/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Centers list: https://www.bu.edu/sph/research/centers-and-groups/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/sph/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sph.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/sph/about/directory/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sph-about-directory.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/sph/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sph-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/sph/careers/for-faculty-staff/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sph-careers-for-faculty-staff.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://www.bu.edu/sph/research/centers-and-groups/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sph-research-centers-and-groups.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "bu-sph-hlpm",
+    "name": "Department of Health Law, Policy & Management",
+    "category": "university-department",
+    "parent": "Boston University / School of Public Health",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/sph/departments/health-law-policy-and-management/",
+    "people_url": "https://www.bu.edu/sph/departments/health-law-policy-and-management/faculty-staff/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/sph/departments/health-law-policy-and-management/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sph-departments-health-law-policy-and-management.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/sph/departments/health-law-policy-and-management/faculty-staff/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sph-departments-health-law-policy-and-management-faculty-staff.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/sph/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sph-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/sph/careers/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sph-careers.txt",
+        "found_by": "start page link labelled 'Careers & Practicum'"
+      }
+    ]
+  },
+  {
+    "id": "bu-ssw",
+    "name": "School of Social Work",
+    "category": "school",
+    "parent": "Boston University / School of Social Work",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/ssw/",
+    "people_url": "https://www.bu.edu/ssw/research-faculty/our-faculty/",
+    "careers_url": "https://www.bu.edu/ssw/about/work-with-us/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Centers: https://www.bu.edu/ssw/research-faculty/centers/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/ssw/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/ssw.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/ssw/research-faculty/our-faculty/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/ssw-research-faculty-our-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/ssw/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/ssw-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/ssw/about/work-with-us/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/ssw-about-work-with-us.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://www.bu.edu/ssw/research-faculty/centers/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/ssw-research-faculty-centers.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "bu-wheelock",
+    "name": "Wheelock College of Education & Human Development",
+    "category": "school",
+    "parent": "Boston University / Wheelock College",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/sed/",
+    "people_url": "https://www.bu.edu/wheelock/about/directory/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Centers: https://www.bu.edu/wheelock/research-impact/centers-labs-institutes/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/sed/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/sed.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/wheelock/about/directory/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/wheelock-about-directory.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/wheelock/about/contact/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/wheelock-about-contact.txt",
+        "found_by": "start page link labelled 'Contact Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/wheelock/academics-professional-development/explore-career-options/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/wheelock-academics-professional-development-explore-career-options.txt",
+        "found_by": "start page link labelled 'Explore Career Options'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.bu.edu/wheelock/research-impact/centers-labs-institutes/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/wheelock-research-impact-centers-labs-institutes.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  }
+]

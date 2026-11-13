@@ -1,0 +1,2991 @@
+[
+  {
+    "id": "harvard-fas",
+    "name": "Faculty of Arts and Sciences (Harvard FAS)",
+    "category": "school",
+    "parent": "Harvard FAS",
+    "city": "Cambridge",
+    "start_url": "https://www.fas.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "Department index: https://www.fas.harvard.edu/explore-our-departments-programs-and-offices (paginated, ?page=0..10)",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.fas.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/www.fas.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "list",
+        "url": "https://www.fas.harvard.edu/explore-our-departments-programs-and-offices",
+        "status": "200",
+        "text": "cache/_text/www.fas.harvard.edu/explore-our-departments-programs-and-offices.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gsd",
+    "name": "Harvard Graduate School of Design",
+    "category": "school",
+    "parent": "Harvard GSD",
+    "city": "Cambridge",
+    "start_url": "https://www.gsd.harvard.edu/",
+    "people_url": "https://www.gsd.harvard.edu/people/faculty/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "Labs: https://www.gsd.harvard.edu/research/groups-and-labs/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.gsd.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/www.gsd.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.gsd.harvard.edu/people/faculty/",
+        "status": "200",
+        "text": "cache/_text/www.gsd.harvard.edu/people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.gsd.harvard.edu/?gsd-navigation=about",
+        "status": "200",
+        "text": "cache/_text/www.gsd.harvard.edu/gsd-navigation-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.gsd.harvard.edu/offices-and-facilities/career-services/",
+        "status": "200",
+        "text": "cache/_text/www.gsd.harvard.edu/offices-and-facilities-career-services.txt",
+        "found_by": "start page link labelled 'Career Services'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.gsd.harvard.edu/research/groups-and-labs/",
+        "status": "200",
+        "text": "cache/_text/www.gsd.harvard.edu/research-groups-and-labs.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gsd-cgbc",
+    "name": "Harvard Center for Green Buildings and Cities",
+    "category": "research-center",
+    "parent": "Harvard GSD",
+    "city": "Cambridge",
+    "start_url": "https://harvardcgbc.org/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://harvardcgbc.org/",
+        "status": "200",
+        "text": "cache/_text/harvardcgbc.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://harvardcgbc.org/people/",
+        "status": "200",
+        "text": "cache/_text/harvardcgbc.org/people.txt",
+        "found_by": "start page link labelled 'PEOPLE'"
+      },
+      {
+        "role": "about",
+        "url": "https://harvardcgbc.org/about/",
+        "status": "200",
+        "text": "cache/_text/harvardcgbc.org/about.txt",
+        "found_by": "start page link labelled 'ABOUT'"
+      },
+      {
+        "role": "careers",
+        "url": "https://harvardcgbc.org/opportunities",
+        "status": "200",
+        "text": "cache/_text/harvardcgbc.org/opportunities.txt",
+        "found_by": "start page link labelled 'OPPORTUNITIES'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gsd-grg",
+    "name": "Grinham Research Group (Harvard GSD)",
+    "category": "research-center",
+    "parent": "Harvard GSD",
+    "city": "Cambridge",
+    "start_url": "https://research.gsd.harvard.edu/grg/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://research.gsd.harvard.edu/grg/",
+        "status": "200",
+        "text": "cache/_text/research.gsd.harvard.edu/grg.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://research.gsd.harvard.edu/grg/about/",
+        "status": "200",
+        "text": "cache/_text/research.gsd.harvard.edu/grg-about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gsd-healthy-places",
+    "name": "Healthy Places Lab (Harvard GSD)",
+    "category": "research-center",
+    "parent": "Harvard GSD",
+    "city": "Cambridge",
+    "start_url": "https://research.gsd.harvard.edu/healthy/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://research.gsd.harvard.edu/healthy/",
+        "status": "200",
+        "text": "cache/_text/research.gsd.harvard.edu/healthy.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://research.gsd.harvard.edu/healthy/about/people/",
+        "status": "200",
+        "text": "cache/_text/research.gsd.harvard.edu/healthy-about-people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://research.gsd.harvard.edu/healthy/about/",
+        "status": "200",
+        "text": "cache/_text/research.gsd.harvard.edu/healthy-about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gsd-just-city",
+    "name": "Just City Lab (Harvard GSD)",
+    "category": "research-center",
+    "parent": "Harvard GSD",
+    "city": "Cambridge",
+    "start_url": "https://www.designforthejustcity.org/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.designforthejustcity.org/",
+        "status": "200",
+        "text": "cache/_text/www.designforthejustcity.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.designforthejustcity.org/about",
+        "status": "200",
+        "text": "cache/_text/www.designforthejustcity.org/about.txt",
+        "found_by": "start page link labelled 'ABOUT'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.designforthejustcity.org/fellowship",
+        "status": "200",
+        "text": "cache/_text/www.designforthejustcity.org/fellowship.txt",
+        "found_by": "start page link labelled 'FELLOWSHIP'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gsd-ldt",
+    "name": "Laboratory for Design Technologies (Harvard GSD)",
+    "category": "research-center",
+    "parent": "Harvard GSD",
+    "city": "Cambridge",
+    "start_url": "https://research.gsd.harvard.edu/ldt/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://research.gsd.harvard.edu/ldt/",
+        "status": "200",
+        "text": "cache/_text/research.gsd.harvard.edu/ldt.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gsd-maps",
+    "name": "Material Processes and Systems Group (Harvard GSD)",
+    "category": "research-center",
+    "parent": "Harvard GSD",
+    "city": "Cambridge",
+    "start_url": "https://research.gsd.harvard.edu/maps/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://research.gsd.harvard.edu/maps/",
+        "status": "200",
+        "text": "cache/_text/research.gsd.harvard.edu/maps.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://research.gsd.harvard.edu/maps/people/",
+        "status": "200",
+        "text": "cache/_text/research.gsd.harvard.edu/maps-people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://research.gsd.harvard.edu/maps/about/",
+        "status": "200",
+        "text": "cache/_text/research.gsd.harvard.edu/maps-about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gsd-real",
+    "name": "Responsive Environments and Artifacts Lab (Harvard GSD)",
+    "category": "research-center",
+    "parent": "Harvard GSD",
+    "city": "Cambridge",
+    "start_url": "https://research.gsd.harvard.edu/real/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://research.gsd.harvard.edu/real/",
+        "status": "200",
+        "text": "cache/_text/research.gsd.harvard.edu/real.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://research.gsd.harvard.edu/real/people/",
+        "status": "200",
+        "text": "cache/_text/research.gsd.harvard.edu/real-people.txt",
+        "found_by": "start page link labelled 'People'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gsd-urbanization",
+    "name": "Office for Urbanization (Harvard GSD)",
+    "category": "research-center",
+    "parent": "Harvard GSD",
+    "city": "Cambridge",
+    "start_url": "http://officeforurbanization.org/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "http://officeforurbanization.org/",
+        "status": "playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"http://officeforurbanization.org/\", ",
+        "text": null,
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gsd-vibe",
+    "name": "Laboratory for Values in the Built Environment (Harvard GSD)",
+    "category": "research-center",
+    "parent": "Harvard GSD",
+    "city": "Cambridge",
+    "start_url": "https://research.gsd.harvard.edu/vibelab/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://research.gsd.harvard.edu/vibelab/",
+        "status": "200",
+        "text": "cache/_text/research.gsd.harvard.edu/vibelab.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://research.gsd.harvard.edu/vibelab/people/",
+        "status": "200",
+        "text": "cache/_text/research.gsd.harvard.edu/vibelab-people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://research.gsd.harvard.edu/vibelab/about/",
+        "status": "200",
+        "text": "cache/_text/research.gsd.harvard.edu/vibelab-about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse",
+    "name": "Harvard Graduate School of Education",
+    "category": "school",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://www.gse.harvard.edu/",
+    "people_url": "https://www.gse.harvard.edu/directory/faculty",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "Centers and labs list: https://www.gse.harvard.edu/faculty/centers-projects-and-initiatives",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.gse.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/www.gse.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.gse.harvard.edu/directory/faculty",
+        "status": "200",
+        "text": "cache/_text/www.gse.harvard.edu/directory-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.gse.harvard.edu/about",
+        "status": "200",
+        "text": "cache/_text/www.gse.harvard.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.gse.harvard.edu/about/careers",
+        "status": "200",
+        "text": "cache/_text/www.gse.harvard.edu/about-careers.txt",
+        "found_by": "start page link labelled 'Careers'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.gse.harvard.edu/faculty/centers-projects-and-initiatives",
+        "status": "200",
+        "text": "cache/_text/www.gse.harvard.edu/faculty-centers-projects-and-initiatives.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-bridges",
+    "name": "BRIDGES Lab (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "http://bridgeslab.gse.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "http://bridgeslab.gse.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/bridgeslab.gse.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-cares",
+    "name": "C.A.R.E.S. Lab (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://cares.gse.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cares.gse.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/cares.gse.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-ccdlab",
+    "name": "Computational Cognitive Development Lab (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://projects.iq.harvard.edu/ccdlab/home",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://projects.iq.harvard.edu/ccdlab/home",
+        "status": "200",
+        "text": "cache/_text/projects.iq.harvard.edu/ccdlab-home.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-cepr",
+    "name": "Center for Education Policy Research (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://cepr.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cepr.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/cepr.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-coache",
+    "name": "Collaborative on Academic Careers in Higher Education (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://coache.gse.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://coache.gse.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/coache.gse.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-creative-computing",
+    "name": "Creative Computing Lab (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://creativecomputing.gse.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://creativecomputing.gse.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/creativecomputing.gse.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://creativecomputing.gse.harvard.edu/people/",
+        "status": "200",
+        "text": "cache/_text/creativecomputing.gse.harvard.edu/people.txt",
+        "found_by": "start page link labelled 'PEOPLE'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-developing-child",
+    "name": "Center on the Developing Child (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://developingchild.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://developingchild.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/developingchild.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://developingchild.harvard.edu/about-us/our-people/",
+        "status": "200",
+        "text": "cache/_text/developingchild.harvard.edu/about-us-our-people.txt",
+        "found_by": "start page link labelled 'Our People'"
+      },
+      {
+        "role": "about",
+        "url": "https://developingchild.harvard.edu/about-us/",
+        "status": "200",
+        "text": "cache/_text/developingchild.harvard.edu/about-us.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://developingchild.harvard.edu/about-us/careers/",
+        "status": "200",
+        "text": "cache/_text/developingchild.harvard.edu/about-us-careers.txt",
+        "found_by": "start page link labelled 'Careers and Opportunities'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-digital-thriving",
+    "name": "Center for Digital Thriving (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://digitalthriving.gse.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://digitalthriving.gse.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/digitalthriving.gse.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://digitalthriving.gse.harvard.edu/about/",
+        "status": "200",
+        "text": "cache/_text/digitalthriving.gse.harvard.edu/about.txt",
+        "found_by": "start page link labelled 'ABOUT'"
+      },
+      {
+        "role": "careers",
+        "url": "https://digitalthriving.gse.harvard.edu/fellows/",
+        "status": "200",
+        "text": "cache/_text/digitalthriving.gse.harvard.edu/fellows.txt",
+        "found_by": "start page link labelled 'FELLOWSHIP'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-easel",
+    "name": "EASEL Lab (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://easel.gse.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://easel.gse.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/easel.gse.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-ella",
+    "name": "Education Lab for Latin America (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://ella.gse.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://ella.gse.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/ella.gse.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-learn-labs",
+    "name": "LEARN Labs (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://projects.iq.harvard.edu/learnlab",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://projects.iq.harvard.edu/learnlab",
+        "status": "200",
+        "text": "cache/_text/projects.iq.harvard.edu/learnlab.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-mcc",
+    "name": "Making Caring Common (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://mcc.gse.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://mcc.gse.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/mcc.gse.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://mcc.gse.harvard.edu/about/team",
+        "status": "200",
+        "text": "cache/_text/mcc.gse.harvard.edu/about-team.txt",
+        "found_by": "start page link labelled 'Team'"
+      },
+      {
+        "role": "about",
+        "url": "https://mcc.gse.harvard.edu/about/mission",
+        "status": "200",
+        "text": "cache/_text/mcc.gse.harvard.edu/about-mission.txt",
+        "found_by": "start page link labelled 'Mission'"
+      },
+      {
+        "role": "careers",
+        "url": "https://mcc.gse.harvard.edu/work-with-us",
+        "status": "200",
+        "text": "cache/_text/mcc.gse.harvard.edu/work-with-us.txt",
+        "found_by": "start page link labelled 'Work with Us'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-project-zero",
+    "name": "Project Zero (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://pz.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://pz.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/pz.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://pz.harvard.edu/about/who-we-are",
+        "status": "200",
+        "text": "cache/_text/pz.harvard.edu/about-who-we-are.txt",
+        "found_by": "start page link labelled 'Who We Are'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-reach-every-reader",
+    "name": "Reach Every Reader (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://reacheveryreader.gse.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://reacheveryreader.gse.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/reacheveryreader.gse.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://reacheveryreader.gse.harvard.edu/about-us/meet-the-team/",
+        "status": "200",
+        "text": "cache/_text/reacheveryreader.gse.harvard.edu/about-us-meet-the-team.txt",
+        "found_by": "start page link labelled 'Meet the Team'"
+      },
+      {
+        "role": "about",
+        "url": "https://reacheveryreader.gse.harvard.edu/about-us/",
+        "status": "200",
+        "text": "cache/_text/reacheveryreader.gse.harvard.edu/about-us.txt",
+        "found_by": "start page link labelled 'About Us'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-seed",
+    "name": "SEED Lab (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://seed.gse.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://seed.gse.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/seed.gse.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-xmedia",
+    "name": "XMedia Lab (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://xmedia.gse.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://xmedia.gse.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/xmedia.gse.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-gse-zaentz",
+    "name": "Saul Zaentz Early Education Initiative (Harvard HGSE)",
+    "category": "research-center",
+    "parent": "Harvard HGSE",
+    "city": "Cambridge",
+    "start_url": "https://zaentz.gse.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://zaentz.gse.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/zaentz.gse.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.zaentz.gse.harvard.edu/who-we-are/",
+        "status": "200",
+        "text": "cache/_text/www.zaentz.gse.harvard.edu/who-we-are.txt",
+        "found_by": "start page link labelled 'Who We Are'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs",
+    "name": "Harvard Business School",
+    "category": "school",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://www.hbs.edu/",
+    "people_url": "https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "Initiatives list: https://www.hbs.edu/faculty/research/Pages/initiatives-projects.aspx",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hbs.edu/",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-pages-browse-aspx-faculty-current.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hbs.edu/about",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.alumni.hbs.edu/careers/",
+        "status": "200",
+        "text": "cache/_text/www.alumni.hbs.edu/careers.txt",
+        "found_by": "start page link labelled 'Careers'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.hbs.edu/faculty/research/Pages/initiatives-projects.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-research-pages-initiatives-projects-aspx.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs-ai-institute",
+    "name": "HBS AI Institute (formerly Digital Data Design Institute) (Harvard HBS)",
+    "category": "research-center",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://aiinstitute.hbs.edu/",
+    "people_url": "https://aiinstitute.hbs.edu/our-team/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "Renamed in 2026; labs: https://aiinstitute.hbs.edu/labs/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://aiinstitute.hbs.edu/",
+        "status": "200",
+        "text": "cache/_text/aiinstitute.hbs.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://aiinstitute.hbs.edu/our-team/",
+        "status": "200",
+        "text": "cache/_text/aiinstitute.hbs.edu/our-team.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://aiinstitute.hbs.edu/about-us/",
+        "status": "200",
+        "text": "cache/_text/aiinstitute.hbs.edu/about-us.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://aiinstitute.hbs.edu/work-with-us/",
+        "status": "200",
+        "text": "cache/_text/aiinstitute.hbs.edu/work-with-us.txt",
+        "found_by": "start page link labelled 'Work With Us'"
+      },
+      {
+        "role": "list",
+        "url": "https://aiinstitute.hbs.edu/labs/",
+        "status": "200",
+        "text": "cache/_text/aiinstitute.hbs.edu/labs.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs-am",
+    "name": "Accounting and Management Unit (Harvard HBS)",
+    "category": "university-department",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://www.hbs.edu/faculty/units/am/Pages/default.aspx",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hbs.edu/faculty/units/am/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-units-am-pages-default-aspx.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-pages-browse-aspx-faculty-current.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hbs.edu/about/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/about-pages-default-aspx.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hbs.edu/employment/",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/employment.txt",
+        "found_by": "start page link labelled 'Jobs'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs-behavioral-finance",
+    "name": "Behavioral Finance and Financial Stability (Harvard HBS)",
+    "category": "research-center",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://www.hbs.edu/behavioral-finance-and-financial-stability/Pages/default.aspx",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hbs.edu/behavioral-finance-and-financial-stability/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/behavioral-finance-and-financial-stability-pages-default-aspx.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hbs.edu/behavioral-finance-and-financial-stability/people/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/behavioral-finance-and-financial-stability-people-pages-default-aspx.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hbs.edu/about/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/about-pages-default-aspx.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hbs.edu/employment/",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/employment.txt",
+        "found_by": "start page link labelled 'Jobs'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs-bgie",
+    "name": "Business, Government and the International Economy Unit (Harvard HBS)",
+    "category": "university-department",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://www.hbs.edu/faculty/units/bgie/Pages/default.aspx",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hbs.edu/faculty/units/bgie/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-units-bgie-pages-default-aspx.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-pages-browse-aspx-faculty-current.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hbs.edu/about/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/about-pages-default-aspx.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hbs.edu/faculty/research/publications/Pages/default.aspx?q=Employment",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-research-publications-pages-default-aspx-q-employment.txt",
+        "found_by": "start page link labelled 'Employment'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs-bigs",
+    "name": "Institute for Business in Global Society (Harvard HBS)",
+    "category": "research-center",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://www.hbs.edu/bigs",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hbs.edu/bigs",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/bigs.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-pages-browse-aspx-faculty-current.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hbs.edu/bigs/about",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/bigs-about.txt",
+        "found_by": "start page link labelled 'About the Institute'"
+      },
+      {
+        "role": "careers",
+        "url": "https://alumni.hbs.edu/career-resources",
+        "status": "200",
+        "text": "cache/_text/alumni.hbs.edu/career-resources.txt",
+        "found_by": "start page link labelled 'Careers'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs-em",
+    "name": "Entrepreneurial Management Unit (Harvard HBS)",
+    "category": "university-department",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://www.hbs.edu/faculty/units/em/Pages/default.aspx",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hbs.edu/faculty/units/em/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-units-em-pages-default-aspx.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-pages-browse-aspx-faculty-current.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hbs.edu/about/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/about-pages-default-aspx.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hbs.edu/employment/",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/employment.txt",
+        "found_by": "start page link labelled 'Jobs'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs-finance",
+    "name": "Finance Unit (Harvard HBS)",
+    "category": "university-department",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://www.hbs.edu/faculty/units/finance/Pages/default.aspx",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hbs.edu/faculty/units/finance/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-units-finance-pages-default-aspx.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-pages-browse-aspx-faculty-current.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hbs.edu/about/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/about-pages-default-aspx.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hbs.edu/employment/",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/employment.txt",
+        "found_by": "start page link labelled 'Jobs'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs-future-of-work",
+    "name": "Managing the Future of Work (Harvard HBS)",
+    "category": "research-center",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://www.hbs.edu/managing-the-future-of-work/Pages/default.aspx",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hbs.edu/managing-the-future-of-work/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/managing-the-future-of-work-pages-default-aspx.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-pages-browse-aspx-faculty-current.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hbs.edu/managing-the-future-of-work/about-the-project",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/managing-the-future-of-work-about-the-project.txt",
+        "found_by": "start page link labelled 'About the Project'"
+      },
+      {
+        "role": "careers",
+        "url": "https://alumni.hbs.edu/career-resources",
+        "status": "200",
+        "text": "cache/_text/alumni.hbs.edu/career-resources.txt",
+        "found_by": "start page link labelled 'Careers'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs-gm",
+    "name": "General Management Unit (Harvard HBS)",
+    "category": "university-department",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://www.hbs.edu/faculty/units/gm/Pages/default.aspx",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hbs.edu/faculty/units/gm/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-units-gm-pages-default-aspx.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-pages-browse-aspx-faculty-current.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hbs.edu/about/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/about-pages-default-aspx.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hbs.edu/employment/",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/employment.txt",
+        "found_by": "start page link labelled 'Jobs'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs-lish",
+    "name": "Laboratory for Innovation Science at Harvard (Harvard HBS)",
+    "category": "research-center",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://aiinstitute.hbs.edu/lish/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "lish.harvard.edu redirects here",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://aiinstitute.hbs.edu/lish/",
+        "status": "200",
+        "text": "cache/_text/aiinstitute.hbs.edu/lish.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://aiinstitute.hbs.edu/our-team/",
+        "status": "200",
+        "text": "cache/_text/aiinstitute.hbs.edu/our-team.txt",
+        "found_by": "start page link labelled 'Our Team'"
+      },
+      {
+        "role": "about",
+        "url": "https://aiinstitute.hbs.edu/about-us/",
+        "status": "200",
+        "text": "cache/_text/aiinstitute.hbs.edu/about-us.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://aiinstitute.hbs.edu/lish/work-with-us/",
+        "status": "200",
+        "text": "cache/_text/aiinstitute.hbs.edu/lish-work-with-us.txt",
+        "found_by": "start page link labelled 'Work With Us'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs-marketing",
+    "name": "Marketing Unit (Harvard HBS)",
+    "category": "university-department",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://www.hbs.edu/faculty/units/marketing/Pages/default.aspx",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hbs.edu/faculty/units/marketing/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-units-marketing-pages-default-aspx.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-pages-browse-aspx-faculty-current.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hbs.edu/about/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/about-pages-default-aspx.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hbs.edu/employment/",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/employment.txt",
+        "found_by": "start page link labelled 'Jobs'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs-nom",
+    "name": "Negotiation, Organizations and Markets Unit (Harvard HBS)",
+    "category": "university-department",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://www.hbs.edu/faculty/units/nom/Pages/default.aspx",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hbs.edu/faculty/units/nom/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-units-nom-pages-default-aspx.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-pages-browse-aspx-faculty-current.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hbs.edu/about/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/about-pages-default-aspx.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hbs.edu/employment/",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/employment.txt",
+        "found_by": "start page link labelled 'Jobs'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs-ob",
+    "name": "Organizational Behavior Unit (Harvard HBS)",
+    "category": "university-department",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://www.hbs.edu/faculty/units/ob/Pages/default.aspx",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hbs.edu/faculty/units/ob/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-units-ob-pages-default-aspx.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-pages-browse-aspx-faculty-current.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hbs.edu/about/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/about-pages-default-aspx.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hbs.edu/employment/",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/employment.txt",
+        "found_by": "start page link labelled 'Jobs'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs-strategy",
+    "name": "Strategy Unit (Harvard HBS)",
+    "category": "university-department",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://www.hbs.edu/faculty/units/strategy/Pages/default.aspx",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hbs.edu/faculty/units/strategy/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-units-strategy-pages-default-aspx.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-pages-browse-aspx-faculty-current.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hbs.edu/about/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/about-pages-default-aspx.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hbs.edu/employment/",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/employment.txt",
+        "found_by": "start page link labelled 'Jobs'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hbs-tom",
+    "name": "Technology and Operations Management Unit (Harvard HBS)",
+    "category": "university-department",
+    "parent": "Harvard HBS",
+    "city": "Boston",
+    "start_url": "https://www.hbs.edu/faculty/units/tom/Pages/default.aspx",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hbs.edu/faculty/units/tom/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-units-tom-pages-default-aspx.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hbs.edu/faculty/Pages/browse.aspx?faculty=Current",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/faculty-pages-browse-aspx-faculty-current.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hbs.edu/about/Pages/default.aspx",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/about-pages-default-aspx.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hbs.edu/employment/",
+        "status": "200",
+        "text": "cache/_text/www.hbs.edu/employment.txt",
+        "found_by": "start page link labelled 'Jobs'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls",
+    "name": "Harvard Law School",
+    "category": "school",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://hls.harvard.edu/",
+    "people_url": "https://hls.harvard.edu/faculty/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "Programs list: https://hls.harvard.edu/research-programs-centers/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://hls.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/hls.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://hls.harvard.edu/faculty/",
+        "status": "200",
+        "text": "cache/_text/hls.harvard.edu/faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://hls.harvard.edu/areas-of-interest/leadership/",
+        "status": "200",
+        "text": "cache/_text/hls.harvard.edu/areas-of-interest-leadership.txt",
+        "found_by": "start page link labelled 'Leadership'"
+      },
+      {
+        "role": "careers",
+        "url": "https://hls.harvard.edu/career-planning/",
+        "status": "200",
+        "text": "cache/_text/hls.harvard.edu/career-planning.txt",
+        "found_by": "start page link labelled 'Career Planning at HLS'"
+      },
+      {
+        "role": "list",
+        "url": "https://hls.harvard.edu/research-programs-centers/",
+        "status": "200",
+        "text": "cache/_text/hls.harvard.edu/research-programs-centers.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-a2j",
+    "name": "Access to Justice Lab (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://a2jlab.org/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://a2jlab.org/",
+        "status": "200",
+        "text": "cache/_text/a2jlab.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://a2jlab.org/about/",
+        "status": "200",
+        "text": "cache/_text/a2jlab.org/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://a2jlab.org/projects/socio-economic-security-wellbeing/employment-security/",
+        "status": "200",
+        "text": "cache/_text/a2jlab.org/projects-socio-economic-security-wellbeing-employment-security.txt",
+        "found_by": "start page link labelled 'Employment Security'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-animal-law",
+    "name": "Animal Law and Policy Program (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://animal.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://animal.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/animal.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://animal.law.harvard.edu/people/",
+        "status": "200",
+        "text": "cache/_text/animal.law.harvard.edu/people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://animal.law.harvard.edu/about/",
+        "status": "200",
+        "text": "cache/_text/animal.law.harvard.edu/about.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://animal.law.harvard.edu/opportunities/",
+        "status": "200",
+        "text": "cache/_text/animal.law.harvard.edu/opportunities.txt",
+        "found_by": "start page link labelled 'Opportunities'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-behavioral-econ",
+    "name": "Program on Behavioral Economics and Public Policy (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://hls.harvard.edu/program-on-behavioral-economics-and-public-policy/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://hls.harvard.edu/program-on-behavioral-economics-and-public-policy/",
+        "status": "200",
+        "text": "cache/_text/hls.harvard.edu/program-on-behavioral-economics-and-public-policy.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://hls.harvard.edu/staff-dashboard/",
+        "status": "200",
+        "text": "cache/_text/hls.harvard.edu/staff-dashboard.txt",
+        "found_by": "start page link labelled 'Staff Dashboard'"
+      },
+      {
+        "role": "careers",
+        "url": "https://hls.harvard.edu/career-planning/",
+        "status": "200",
+        "text": "cache/_text/hls.harvard.edu/career-planning.txt",
+        "found_by": "start page link labelled 'Career Planning at HLS'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-chhirj",
+    "name": "Charles Hamilton Houston Institute for Race and Justice (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://charleshamiltonhouston.org/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://charleshamiltonhouston.org/",
+        "status": "playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://charleshamiltonhouston.org/\"",
+        "text": null,
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-clje",
+    "name": "Center for Labor and a Just Economy (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://clje.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://clje.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/clje.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://clje.law.harvard.edu/team",
+        "status": "200",
+        "text": "cache/_text/clje.law.harvard.edu/team.txt",
+        "found_by": "start page link labelled 'Our Team'"
+      },
+      {
+        "role": "about",
+        "url": "https://clje.law.harvard.edu/contact-us/",
+        "status": "200",
+        "text": "cache/_text/clje.law.harvard.edu/contact-us.txt",
+        "found_by": "start page link labelled 'Contact Us'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-clp",
+    "name": "Center on the Legal Profession (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://clp.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://clp.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/clp.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://clp.law.harvard.edu/people/",
+        "status": "200",
+        "text": "cache/_text/clp.law.harvard.edu/people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://clp.law.harvard.edu/about/",
+        "status": "200",
+        "text": "cache/_text/clp.law.harvard.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://clp.law.harvard.edu/opportunities/",
+        "status": "200",
+        "text": "cache/_text/clp.law.harvard.edu/opportunities.txt",
+        "found_by": "start page link labelled 'Opportunities'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-eals",
+    "name": "East Asian Legal Studies Program (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://eals.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://eals.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/eals.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://eals.law.harvard.edu/faculty-staff/",
+        "status": "200",
+        "text": "cache/_text/eals.law.harvard.edu/faculty-staff.txt",
+        "found_by": "start page link labelled 'Faculty & Staff'"
+      },
+      {
+        "role": "about",
+        "url": "https://eals.law.harvard.edu/contact/",
+        "status": "200",
+        "text": "cache/_text/eals.law.harvard.edu/contact.txt",
+        "found_by": "start page link labelled 'Contact'"
+      },
+      {
+        "role": "careers",
+        "url": "https://eals.law.harvard.edu/students/",
+        "status": "200",
+        "text": "cache/_text/eals.law.harvard.edu/students.txt",
+        "found_by": "start page link labelled 'Student Opportunities'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-eelp",
+    "name": "Environmental and Energy Law Program (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://eelp.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://eelp.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/eelp.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://eelp.law.harvard.edu/overview/contact-us/",
+        "status": "200",
+        "text": "cache/_text/eelp.law.harvard.edu/overview-contact-us.txt",
+        "found_by": "start page link labelled 'Contact Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://eelp.law.harvard.edu/students/",
+        "status": "200",
+        "text": "cache/_text/eelp.law.harvard.edu/students.txt",
+        "found_by": "start page link labelled 'Student Opportunities'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-hnmcp",
+    "name": "Negotiation and Mediation Clinical Program (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://hnmcp.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://hnmcp.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/hnmcp.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://hnmcp.law.harvard.edu/our-team/",
+        "status": "200",
+        "text": "cache/_text/hnmcp.law.harvard.edu/our-team.txt",
+        "found_by": "start page link labelled 'Our Team'"
+      },
+      {
+        "role": "about",
+        "url": "https://hnmcp.law.harvard.edu/contact-us",
+        "status": "200",
+        "text": "cache/_text/hnmcp.law.harvard.edu/contact-us.txt",
+        "found_by": "start page link labelled 'CONTACT'"
+      },
+      {
+        "role": "careers",
+        "url": "https://hnmcp.law.harvard.edu/dispute-resolution-research-career-planning/",
+        "status": "200",
+        "text": "cache/_text/hnmcp.law.harvard.edu/dispute-resolution-research-career-planning.txt",
+        "found_by": "start page link labelled 'Research Resources & Career Planning'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-hpod",
+    "name": "Project on Disability (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://hpod.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://hpod.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/hpod.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://hpod.law.harvard.edu/affiliates/",
+        "status": "200",
+        "text": "cache/_text/hpod.law.harvard.edu/affiliates.txt",
+        "found_by": "start page link labelled 'Affiliates'"
+      },
+      {
+        "role": "about",
+        "url": "https://hpod.law.harvard.edu/about/",
+        "status": "200",
+        "text": "cache/_text/hpod.law.harvard.edu/about.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://hpod.law.harvard.edu/events/economic-security-aging/",
+        "status": "200",
+        "text": "cache/_text/hpod.law.harvard.edu/events-economic-security-aging.txt",
+        "found_by": "start page link labelled 'Economic and Employment Security for Older Persons'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-hrp",
+    "name": "Human Rights Program (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://hrp.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://hrp.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/hrp.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://hrp.law.harvard.edu/who-we-are/people/",
+        "status": "200",
+        "text": "cache/_text/hrp.law.harvard.edu/who-we-are-people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://hrp.law.harvard.edu/who-we-are/about-us/",
+        "status": "200",
+        "text": "cache/_text/hrp.law.harvard.edu/who-we-are-about-us.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://hrp.law.harvard.edu/vacancies-at-hrp/",
+        "status": "200",
+        "text": "cache/_text/hrp.law.harvard.edu/vacancies-at-hrp.txt",
+        "found_by": "start page link labelled 'Opportunities'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-iemi",
+    "name": "Institute to End Mass Incarceration (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://endmassincarceration.org/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://endmassincarceration.org/",
+        "status": "200",
+        "text": "cache/_text/endmassincarceration.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://endmassincarceration.org/our-team/",
+        "status": "200",
+        "text": "cache/_text/endmassincarceration.org/our-team.txt",
+        "found_by": "start page link labelled 'Our Team'"
+      },
+      {
+        "role": "about",
+        "url": "https://endmassincarceration.org/our-mission/",
+        "status": "200",
+        "text": "cache/_text/endmassincarceration.org/our-mission.txt",
+        "found_by": "start page link labelled 'Mission'"
+      },
+      {
+        "role": "careers",
+        "url": "https://endmassincarceration.org/join-our-team/",
+        "status": "200",
+        "text": "cache/_text/endmassincarceration.org/join-our-team.txt",
+        "found_by": "start page link labelled 'Join Our Team'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-iglp",
+    "name": "Institute for Global Law and Policy (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://iglp.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://iglp.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/iglp.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://iglp.law.harvard.edu/faculty-staff/",
+        "status": "200",
+        "text": "cache/_text/iglp.law.harvard.edu/faculty-staff.txt",
+        "found_by": "start page link labelled 'Faculty & Staff'"
+      },
+      {
+        "role": "about",
+        "url": "https://iglp.law.harvard.edu/about-us/",
+        "status": "200",
+        "text": "cache/_text/iglp.law.harvard.edu/about-us.txt",
+        "found_by": "start page link labelled 'About Us'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-lpe",
+    "name": "Program on Law and Political Economy (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://lpe.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://lpe.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/lpe.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://lpe.law.harvard.edu/people/",
+        "status": "200",
+        "text": "cache/_text/lpe.law.harvard.edu/people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://lpe.law.harvard.edu/about/",
+        "status": "200",
+        "text": "cache/_text/lpe.law.harvard.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-olin",
+    "name": "John M. Olin Center for Law, Economics, and Business (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://laweconcenter.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://laweconcenter.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/laweconcenter.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://laweconcenter.law.harvard.edu/faculty/",
+        "status": "200",
+        "text": "cache/_text/laweconcenter.law.harvard.edu/faculty.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "careers",
+        "url": "https://laweconcenter.law.harvard.edu/fellowships/",
+        "status": "200",
+        "text": "cache/_text/laweconcenter.law.harvard.edu/fellowships.txt",
+        "found_by": "start page link labelled 'Fellowships'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-pblcls",
+    "name": "Program on Biblical Law and Christian Legal Studies (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://pblcls.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://pblcls.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/pblcls.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://pblcls.law.harvard.edu/about",
+        "status": "200",
+        "text": "cache/_text/pblcls.law.harvard.edu/about.txt",
+        "found_by": "start page link labelled 'Team'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-pcg",
+    "name": "Program on Corporate Governance (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://pcg.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://pcg.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/pcg.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://pcg.law.harvard.edu/faculty/",
+        "status": "200",
+        "text": "cache/_text/pcg.law.harvard.edu/faculty.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://pcg.law.harvard.edu/contact-us/",
+        "status": "200",
+        "text": "cache/_text/pcg.law.harvard.edu/contact-us.txt",
+        "found_by": "start page link labelled 'Contact Us'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-petrie-flom",
+    "name": "Petrie-Flom Center for Health Law Policy, Biotechnology, and Bioethics (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://petrieflom.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://petrieflom.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/petrieflom.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://petrieflom.law.harvard.edu/about/",
+        "status": "200",
+        "text": "cache/_text/petrieflom.law.harvard.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-pii",
+    "name": "Program on Institutional Investors (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "http://www.pii.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "http://www.pii.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/www.pii.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-pil",
+    "name": "Program in Islamic Law (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://pil.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://pil.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/pil.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://pil.law.harvard.edu/pil_people/",
+        "status": "200",
+        "text": "cache/_text/pil.law.harvard.edu/pil-people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://pil.law.harvard.edu/what-we-do/",
+        "status": "200",
+        "text": "cache/_text/pil.law.harvard.edu/what-we-do.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://pil.law.harvard.edu/fellowships/",
+        "status": "200",
+        "text": "cache/_text/pil.law.harvard.edu/fellowships.txt",
+        "found_by": "start page link labelled 'Fellowships'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-pilac",
+    "name": "Program on International Law and Armed Conflict (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://pilac.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://pilac.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/pilac.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://pilac.law.harvard.edu/about-menu",
+        "status": "200",
+        "text": "cache/_text/pilac.law.harvard.edu/about-menu.txt",
+        "found_by": "start page link labelled 'Meet Our Team'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-pjil",
+    "name": "Julis-Rabinowitz Program on Jewish and Israeli Law (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://pjil.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://pjil.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/pjil.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://pjil.law.harvard.edu/people/",
+        "status": "200",
+        "text": "cache/_text/pjil.law.harvard.edu/people.txt",
+        "found_by": "start page link labelled 'Faculty and Staff'"
+      },
+      {
+        "role": "about",
+        "url": "https://pjil.law.harvard.edu/contact/",
+        "status": "200",
+        "text": "cache/_text/pjil.law.harvard.edu/contact.txt",
+        "found_by": "start page link labelled 'Contact'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-plsmw",
+    "name": "Program on Law and Society in the Muslim World (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://plsmw.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://plsmw.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/plsmw.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://plsmw.law.harvard.edu/people/",
+        "status": "200",
+        "text": "cache/_text/plsmw.law.harvard.edu/people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://plsmw.law.harvard.edu/about/",
+        "status": "200",
+        "text": "cache/_text/plsmw.law.harvard.edu/about.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://plsmw.law.harvard.edu/fellowships/",
+        "status": "200",
+        "text": "cache/_text/plsmw.law.harvard.edu/fellowships.txt",
+        "found_by": "start page link labelled 'Opportunities'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-pon",
+    "name": "Program on Negotiation (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://www.pon.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "Includes the Harvard Negotiation Project",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.pon.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/www.pon.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.pon.harvard.edu/about/contact-us/",
+        "status": "200",
+        "text": "cache/_text/www.pon.harvard.edu/about-contact-us.txt",
+        "found_by": "start page link labelled 'Contact Us'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-sjp",
+    "name": "Systemic Justice Project (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://systemicjustice.org/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://systemicjustice.org/",
+        "status": "200",
+        "text": "cache/_text/systemicjustice.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://systemicjustice.org/about-us/",
+        "status": "200",
+        "text": "cache/_text/systemicjustice.org/about-us.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-tax",
+    "name": "Tax Law Program (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://tax.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://tax.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/tax.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://tax.law.harvard.edu/faculty/",
+        "status": "200",
+        "text": "cache/_text/tax.law.harvard.edu/faculty.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hls-ylab",
+    "name": "Youth Advocacy and Policy Lab (Harvard HLS)",
+    "category": "research-center",
+    "parent": "Harvard HLS",
+    "city": "Cambridge",
+    "start_url": "https://ylab.law.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://ylab.law.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/ylab.law.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://ylab.law.harvard.edu/faculty-and-staff/",
+        "status": "200",
+        "text": "cache/_text/ylab.law.harvard.edu/faculty-and-staff.txt",
+        "found_by": "start page link labelled 'Faculty and Staff'"
+      },
+      {
+        "role": "about",
+        "url": "https://ylab.law.harvard.edu/contact-us/",
+        "status": "200",
+        "text": "cache/_text/ylab.law.harvard.edu/contact-us.txt",
+        "found_by": "start page link labelled 'Contact Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://ylab.law.harvard.edu/resources-for-current-students/",
+        "status": "200",
+        "text": "cache/_text/ylab.law.harvard.edu/resources-for-current-students.txt",
+        "found_by": "start page link labelled 'Student Opportunities'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hsdm",
+    "name": "Harvard School of Dental Medicine",
+    "category": "school",
+    "parent": "Harvard HSDM",
+    "city": "Boston",
+    "start_url": "https://hsdm.harvard.edu/",
+    "people_url": "https://www.hsdm.harvard.edu/hsdm-directory",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "Labs: https://www.hsdm.harvard.edu/laboratories",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://hsdm.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/hsdm.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hsdm.harvard.edu/hsdm-directory",
+        "status": "200",
+        "text": "cache/_text/www.hsdm.harvard.edu/hsdm-directory.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "list",
+        "url": "https://www.hsdm.harvard.edu/laboratories",
+        "status": "200",
+        "text": "cache/_text/www.hsdm.harvard.edu/laboratories.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "harvard-jchs",
+    "name": "Joint Center for Housing Studies",
+    "category": "university-policy-center",
+    "parent": "Harvard University",
+    "city": "Cambridge",
+    "start_url": "https://www.jchs.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.jchs.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/www.jchs.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.jchs.harvard.edu/about/staff",
+        "status": "200",
+        "text": "cache/_text/www.jchs.harvard.edu/about-staff.txt",
+        "found_by": "start page link labelled 'Staff'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.jchs.harvard.edu/about",
+        "status": "200",
+        "text": "cache/_text/www.jchs.harvard.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.jchs.harvard.edu/about/job-openings",
+        "status": "200",
+        "text": "cache/_text/www.jchs.harvard.edu/about-job-openings.txt",
+        "found_by": "start page link labelled 'Job Openings'"
+      }
+    ]
+  },
+  {
+    "id": "harvard-radcliffe",
+    "name": "Harvard Radcliffe Institute",
+    "category": "school",
+    "parent": "Harvard Radcliffe",
+    "city": "Cambridge",
+    "start_url": "https://www.radcliffe.harvard.edu/",
+    "people_url": "https://www.radcliffe.harvard.edu/radcliffe-fellowship/fellows",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "Research: https://www.radcliffe.harvard.edu/research-at-radcliffe",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.radcliffe.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/www.radcliffe.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.radcliffe.harvard.edu/radcliffe-fellowship/fellows",
+        "status": "200",
+        "text": "cache/_text/www.radcliffe.harvard.edu/radcliffe-fellowship-fellows.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.radcliffe.harvard.edu/about-the-institute",
+        "status": "200",
+        "text": "cache/_text/www.radcliffe.harvard.edu/about-the-institute.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.radcliffe.harvard.edu/radcliffe-careers",
+        "status": "200",
+        "text": "cache/_text/www.radcliffe.harvard.edu/radcliffe-careers.txt",
+        "found_by": "start page link labelled 'Careers'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.radcliffe.harvard.edu/research-at-radcliffe",
+        "status": "200",
+        "text": "cache/_text/www.radcliffe.harvard.edu/research-at-radcliffe.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "harvard-weatherhead",
+    "name": "Weatherhead Center for International Affairs",
+    "category": "university-policy-center",
+    "parent": "Harvard University",
+    "city": "Cambridge",
+    "start_url": "http://www.wcfia.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot-dagger",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "http://www.wcfia.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/www.wcfia.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  }
+]

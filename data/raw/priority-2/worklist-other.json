@@ -1,0 +1,2742 @@
+[
+  {
+    "id": "boston-fed-neppc",
+    "name": "New England Public Policy Center",
+    "category": "policy-think-tank",
+    "parent": "Federal Reserve Bank of Boston",
+    "city": "Boston",
+    "start_url": "https://www.bostonfed.org/about-the-boston-fed/business-areas/new-england-public-policy-center.aspx",
+    "people_url": "https://www.bostonfed.org/about-the-boston-fed/business-areas/new-england-public-policy-center.aspx#people",
+    "careers_url": "https://www.bostonfed.org/careers",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "Find the NEPPC section from the Boston Fed site",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bostonfed.org/about-the-boston-fed/business-areas/new-england-public-policy-center.aspx",
+        "status": "200",
+        "text": "cache/_text/www.bostonfed.org/about-the-boston-fed-business-areas-new-england-public-policy-center-aspx.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bostonfed.org/about-us",
+        "status": "200",
+        "text": "cache/_text/www.bostonfed.org/about-us.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bostonfed.org/careers",
+        "status": "200",
+        "text": "cache/_text/www.bostonfed.org/careers.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "boston-fed-research",
+    "name": "Federal Reserve Bank of Boston, Research Department",
+    "category": "policy-think-tank",
+    "parent": "Federal Reserve Bank of Boston",
+    "city": "Boston",
+    "start_url": "https://www.bostonfed.org/careers/economic-research",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "snapshot-source",
+    "priority": "2",
+    "collect": "economists, research assistants; RA hiring page",
+    "listed_in": "snapshot",
+    "notes": "Hybrid: central bank research",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bostonfed.org/careers/economic-research",
+        "status": "playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://www.bostonfed.org/careers/ec",
+        "text": null,
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "hks-ash",
+    "name": "Ash Center for Democratic Governance and Innovation",
+    "category": "university-policy-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://ash.harvard.edu/",
+    "people_url": "https://ash.harvard.edu/people/",
+    "careers_url": "https://ash.harvard.edu/careers-and-fellowships/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://ash.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/ash.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://ash.harvard.edu/people/",
+        "status": "200",
+        "text": "cache/_text/ash.harvard.edu/people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://ash.harvard.edu/about/",
+        "status": "200",
+        "text": "cache/_text/ash.harvard.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://ash.harvard.edu/careers-and-fellowships/",
+        "status": "200",
+        "text": "cache/_text/ash.harvard.edu/careers-and-fellowships.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "hks-belfer",
+    "name": "Belfer Center for Science and International Affairs",
+    "category": "university-policy-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://www.belfercenter.org/",
+    "people_url": "https://www.belfercenter.org/experts",
+    "careers_url": "https://www.belfercenter.org/careers",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; projects and their directors",
+    "listed_in": "snapshot",
+    "notes": "Many projects with small teams; Fellowships: https://www.belfercenter.org/fellowships",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.belfercenter.org/",
+        "status": "200",
+        "text": "cache/_text/www.belfercenter.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.belfercenter.org/experts",
+        "status": "200",
+        "text": "cache/_text/www.belfercenter.org/experts.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.belfercenter.org/about-us",
+        "status": "200",
+        "text": "cache/_text/www.belfercenter.org/about-us.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.belfercenter.org/careers",
+        "status": "200",
+        "text": "cache/_text/www.belfercenter.org/careers.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://www.belfercenter.org/fellowships",
+        "status": "200",
+        "text": "cache/_text/www.belfercenter.org/fellowships.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "hks-bloomberg-cities",
+    "name": "Bloomberg Center for Cities",
+    "category": "university-policy-center",
+    "parent": "Harvard University",
+    "city": "Cambridge",
+    "start_url": "https://cities.harvard.edu",
+    "people_url": "https://www.cities.harvard.edu/about/about-faculty-fellows/",
+    "careers_url": "https://www.cities.harvard.edu/about/about-jobs/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cities.harvard.edu",
+        "status": "200",
+        "text": "cache/_text/cities.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.cities.harvard.edu/about/about-faculty-fellows/",
+        "status": "200",
+        "text": "cache/_text/www.cities.harvard.edu/about-about-faculty-fellows.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.cities.harvard.edu/about/",
+        "status": "200",
+        "text": "cache/_text/www.cities.harvard.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.cities.harvard.edu/about/about-jobs/",
+        "status": "200",
+        "text": "cache/_text/www.cities.harvard.edu/about-about-jobs.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "hks-carr-ryan",
+    "name": "Carr-Ryan Center for Human Rights",
+    "category": "university-policy-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://www.hks.harvard.edu/centers/carr-ryan",
+    "people_url": "https://www.hks.harvard.edu/centers/carr-ryan/about/people",
+    "careers_url": "https://www.hks.harvard.edu/centers/carr-ryan/opportunities",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hks.harvard.edu/centers/carr-ryan",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-carr-ryan.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hks.harvard.edu/centers/carr-ryan/about/people",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-carr-ryan-about-people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hks.harvard.edu/centers/carr-ryan/about",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-carr-ryan-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hks.harvard.edu/centers/carr-ryan/opportunities",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-carr-ryan-opportunities.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "hks-centers-index",
+    "name": "Harvard Kennedy School research centers (index)",
+    "category": "university-policy-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://www.hks.harvard.edu/centers-initiatives",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "snapshot-source",
+    "priority": "2",
+    "collect": "list of all 12 centers to expand into rows",
+    "listed_in": "snapshot",
+    "notes": "Use to confirm and complete the HKS rows below",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hks.harvard.edu/centers-initiatives",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-initiatives.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hks.harvard.edu/index%2ephp/more/about",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/index-2ephp-more-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hks.harvard.edu/more/about/leadership-administration/human-resources",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/more-about-leadership-administration-human-resources.txt",
+        "found_by": "start page link labelled 'Jobs'"
+      }
+    ]
+  },
+  {
+    "id": "hks-cid",
+    "name": "Center for International Development",
+    "category": "university-policy-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://www.hks.harvard.edu/centers/cid",
+    "people_url": "https://www.hks.harvard.edu/centers/cid/about-cid/people",
+    "careers_url": "https://www.hks.harvard.edu/centers/cid/about-cid/jobs-opportunities",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; Growth Lab team",
+    "listed_in": "snapshot",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hks.harvard.edu/centers/cid",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-cid.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hks.harvard.edu/centers/cid/about-cid/people",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-cid-about-cid-people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hks.harvard.edu/centers/cid/contact-us",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-cid-contact-us.txt",
+        "found_by": "start page link labelled 'Contact'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hks.harvard.edu/centers/cid/about-cid/jobs-opportunities",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-cid-about-cid-jobs-opportunities.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "hks-mrcbg",
+    "name": "Mossavar-Rahmani Center for Business and Government",
+    "category": "university-policy-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://www.hks.harvard.edu/centers/mrcbg",
+    "people_url": "https://www.hks.harvard.edu/centers/mrcbg/people",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hks.harvard.edu/centers/mrcbg",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-mrcbg.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hks.harvard.edu/centers/mrcbg/people",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-mrcbg-people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hks.harvard.edu/centers/mrcbg/about-mossavar-rahmani-center-business-and-government",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-mrcbg-about-mossavar-rahmani-center-business-and-government.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "hks-shorenstein",
+    "name": "Shorenstein Center on Media, Politics and Public Policy",
+    "category": "university-policy-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://shorensteincenter.org/",
+    "people_url": "https://shorensteincenter.org/our-team/",
+    "careers_url": "https://shorensteincenter.org/careers/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://shorensteincenter.org/",
+        "status": "playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shorensteincenter.org/\", wai",
+        "text": null,
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://shorensteincenter.org/our-team/",
+        "status": "playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shorensteincenter.org/our-te",
+        "text": null,
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "careers",
+        "url": "https://shorensteincenter.org/careers/",
+        "status": "playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://shorensteincenter.org/career",
+        "text": null,
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "hks-taubman",
+    "name": "Taubman Center for State and Local Government",
+    "category": "university-policy-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://www.hks.harvard.edu/centers/taubman",
+    "people_url": "https://www.hks.harvard.edu/centers/taubman/about-us/people",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hks.harvard.edu/centers/taubman",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-taubman.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hks.harvard.edu/centers/taubman/about-us/people",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-taubman-about-us-people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hks.harvard.edu/index%2ephp/centers/taubman/about-us",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/index-2ephp-centers-taubman-about-us.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hks.harvard.edu/publications/policy-options-addressing-ais-impact-employment-scenario-planning-approach",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/publications-policy-options-addressing-ais-impact-employment-scenario-planning-approach.txt",
+        "found_by": "start page link labelled 'Policy Options for Addressing AI’s Impact on Employment'"
+      }
+    ]
+  },
+  {
+    "id": "hks-wiener",
+    "name": "Malcolm Wiener Center for Social Policy",
+    "category": "university-policy-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://www.hks.harvard.edu/centers/wiener",
+    "people_url": "https://www.hks.harvard.edu/centers/wiener/about-us/staff-fellows",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot-dagger",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hks.harvard.edu/centers/wiener",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-wiener.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hks.harvard.edu/centers/wiener/about-us/staff-fellows",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-wiener-about-us-staff-fellows.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hks.harvard.edu/centers/wiener/about-us",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-wiener-about-us.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "lincoln-institute",
+    "name": "Lincoln Institute of Land Policy",
+    "category": "policy-think-tank",
+    "parent": "",
+    "city": "Cambridge",
+    "start_url": "https://www.lincolninst.edu/",
+    "people_url": "https://www.lincolninst.edu/about-lincoln-institute/staff/",
+    "careers_url": "https://www.lincolninst.edu/about-lincoln-institute/careers/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "Private operating foundation; land use, property tax",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.lincolninst.edu/",
+        "status": "200",
+        "text": "cache/_text/www.lincolninst.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.lincolninst.edu/about-lincoln-institute/staff/",
+        "status": "200",
+        "text": "cache/_text/www.lincolninst.edu/about-lincoln-institute-staff.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.lincolninst.edu/about-lincoln-institute/",
+        "status": "200",
+        "text": "cache/_text/www.lincolninst.edu/about-lincoln-institute.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.lincolninst.edu/about-lincoln-institute/careers/",
+        "status": "200",
+        "text": "cache/_text/www.lincolninst.edu/about-lincoln-institute-careers.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "nber",
+    "name": "National Bureau of Economic Research",
+    "category": "policy-think-tank",
+    "parent": "",
+    "city": "Cambridge",
+    "start_url": "https://www.nber.org/",
+    "people_url": "https://www.nber.org/about-nber/nber-staff",
+    "careers_url": "https://www.nber.org/career-resources/staff-positions-nber",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff; RA and predoc positions; program directors (affiliates are university faculty, not NBER staff)",
+    "listed_in": "snapshot",
+    "notes": "Most researchers are affiliates elsewhere; collect in-house staff and RA openings; RA positions: https://www.nber.org/career-resources/research-assistant-positions-nber",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.nber.org/",
+        "status": "200",
+        "text": "cache/_text/www.nber.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.nber.org/about-nber/nber-staff",
+        "status": "200",
+        "text": "cache/_text/www.nber.org/about-nber-nber-staff.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.nber.org/contact-nber",
+        "status": "200",
+        "text": "cache/_text/www.nber.org/contact-nber.txt",
+        "found_by": "start page link labelled 'Contact Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.nber.org/career-resources/staff-positions-nber",
+        "status": "200",
+        "text": "cache/_text/www.nber.org/career-resources-staff-positions-nber.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://www.nber.org/career-resources/research-assistant-positions-nber",
+        "status": "200",
+        "text": "cache/_text/www.nber.org/career-resources-research-assistant-positions-nber.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "northeastern-bari",
+    "name": "Boston Area Research Initiative",
+    "category": "university-policy-center",
+    "parent": "Northeastern University / College of Social Sciences and Humanities",
+    "city": "Boston",
+    "start_url": "https://cssh.northeastern.edu/bari",
+    "people_url": "https://cssh.northeastern.edu/bari/about/research-team/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cssh.northeastern.edu/bari",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/bari.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://cssh.northeastern.edu/bari/about/research-team/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/bari-about-research-team.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://cssh.northeastern.edu/bari/about/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/bari-about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "northeastern-bouve",
+    "name": "Bouvé College of Health Sciences",
+    "category": "school",
+    "parent": "Northeastern University / Bouvé College of Health Sciences",
+    "city": "Boston",
+    "start_url": "https://bouve.northeastern.edu/",
+    "people_url": "https://bouve.northeastern.edu/directory/",
+    "careers_url": "https://bouve.northeastern.edu/about/bouve-human-resources/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://bouve.northeastern.edu/",
+        "status": "200",
+        "text": "cache/_text/bouve.northeastern.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://bouve.northeastern.edu/directory/",
+        "status": "200",
+        "text": "cache/_text/bouve.northeastern.edu/directory.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://bouve.northeastern.edu/about/",
+        "status": "200",
+        "text": "cache/_text/bouve.northeastern.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://bouve.northeastern.edu/about/bouve-human-resources/",
+        "status": "200",
+        "text": "cache/_text/bouve.northeastern.edu/about-bouve-human-resources.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "northeastern-burnes",
+    "name": "Burnes Center for Social Change",
+    "category": "university-policy-center",
+    "parent": "Northeastern University / University-wide",
+    "city": "Boston",
+    "start_url": "https://burnes.northeastern.edu/",
+    "people_url": "https://burnes.northeastern.edu/our-team/",
+    "careers_url": "https://northeastern.wd1.myworkdayjobs.com/careers?q=burnes",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://burnes.northeastern.edu/",
+        "status": "200",
+        "text": "cache/_text/burnes.northeastern.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://burnes.northeastern.edu/our-team/",
+        "status": "200",
+        "text": "cache/_text/burnes.northeastern.edu/our-team.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "careers",
+        "url": "https://northeastern.wd1.myworkdayjobs.com/careers?q=burnes",
+        "status": "200",
+        "text": "cache/_text/northeastern.wd1.myworkdayjobs.com/careers-q-burnes.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "northeastern-chphr",
+    "name": "Center for Health Policy and Healthcare Research",
+    "category": "university-policy-center",
+    "parent": "Northeastern University / Bouvé College of Health Sciences",
+    "city": "Boston",
+    "start_url": "https://chphr.northeastern.edu/",
+    "people_url": "https://chphr.northeastern.edu/our-team/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://chphr.northeastern.edu/",
+        "status": "200",
+        "text": "cache/_text/chphr.northeastern.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://chphr.northeastern.edu/our-team/",
+        "status": "200",
+        "text": "cache/_text/chphr.northeastern.edu/our-team.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://chphr.northeastern.edu/contact-us/",
+        "status": "200",
+        "text": "cache/_text/chphr.northeastern.edu/contact-us.txt",
+        "found_by": "start page link labelled 'Contact'"
+      }
+    ]
+  },
+  {
+    "id": "northeastern-coe",
+    "name": "College of Engineering",
+    "category": "school",
+    "parent": "Northeastern University / College of Engineering",
+    "city": "Boston",
+    "start_url": "https://coe.northeastern.edu/",
+    "people_url": "https://coe.northeastern.edu/faculty-staff-directory/",
+    "careers_url": "https://coe.northeastern.edu/faculty/faculty-hiring/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Centers: https://coe.northeastern.edu/coe-research/research-centers-institutes/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://coe.northeastern.edu/",
+        "status": "200",
+        "text": "cache/_text/coe.northeastern.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://coe.northeastern.edu/faculty-staff-directory/",
+        "status": "200",
+        "text": "cache/_text/coe.northeastern.edu/faculty-staff-directory.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://coe.northeastern.edu/about/",
+        "status": "200",
+        "text": "cache/_text/coe.northeastern.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://coe.northeastern.edu/faculty/faculty-hiring/",
+        "status": "200",
+        "text": "cache/_text/coe.northeastern.edu/faculty-faculty-hiring.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://coe.northeastern.edu/coe-research/research-centers-institutes/",
+        "status": "200",
+        "text": "cache/_text/coe.northeastern.edu/coe-research-research-centers-institutes.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "northeastern-cos",
+    "name": "College of Science",
+    "category": "school",
+    "parent": "Northeastern University / College of Science",
+    "city": "Boston",
+    "start_url": "https://cos.northeastern.edu/",
+    "people_url": "https://cos.northeastern.edu/people/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Centers: https://cos.northeastern.edu/research/researchandlabs/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cos.northeastern.edu/",
+        "status": "200",
+        "text": "cache/_text/cos.northeastern.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://cos.northeastern.edu/people/",
+        "status": "200",
+        "text": "cache/_text/cos.northeastern.edu/people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://cos.northeastern.edu/about/",
+        "status": "200",
+        "text": "cache/_text/cos.northeastern.edu/about.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "list",
+        "url": "https://cos.northeastern.edu/research/researchandlabs/",
+        "status": "200",
+        "text": "cache/_text/cos.northeastern.edu/research-researchandlabs.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "northeastern-cssh",
+    "name": "College of Social Sciences and Humanities",
+    "category": "school",
+    "parent": "Northeastern University / College of Social Sciences and Humanities",
+    "city": "Boston",
+    "start_url": "https://cssh.northeastern.edu/",
+    "people_url": "https://cssh.northeastern.edu/cssh-people/",
+    "careers_url": "https://cssh.northeastern.edu/cssh-people/faculty-positions/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Centers: https://cssh.northeastern.edu/social-science-research/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cssh.northeastern.edu/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://cssh.northeastern.edu/cssh-people/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/cssh-people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://cssh.northeastern.edu/about/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://cssh.northeastern.edu/cssh-people/faculty-positions/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/cssh-people-faculty-positions.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://cssh.northeastern.edu/social-science-research/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/social-science-research.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "northeastern-dmsb",
+    "name": "D'Amore-McKim School of Business",
+    "category": "school",
+    "parent": "Northeastern University / D'Amore-McKim School of Business",
+    "city": "Boston",
+    "start_url": "https://damore-mckim.northeastern.edu/",
+    "people_url": "https://damore-mckim.northeastern.edu/people/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://damore-mckim.northeastern.edu/",
+        "status": "200",
+        "text": "cache/_text/damore-mckim.northeastern.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://damore-mckim.northeastern.edu/people/",
+        "status": "200",
+        "text": "cache/_text/damore-mckim.northeastern.edu/people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://damore-mckim.northeastern.edu/explore/school-leadership/",
+        "status": "200",
+        "text": "cache/_text/damore-mckim.northeastern.edu/explore-school-leadership.txt",
+        "found_by": "start page link labelled 'Leadership'"
+      },
+      {
+        "role": "careers",
+        "url": "https://careers.northeastern.edu/group/career-development/?_ga=2.120077579.2058050461.1655817174-1276523258.1650999354",
+        "status": "200",
+        "text": "cache/_text/careers.northeastern.edu/group-career-development-ga-2-120077579-2058050461-1655817174-1276523258-1650999354.txt",
+        "found_by": "start page link labelled 'Undergraduate career development'"
+      }
+    ]
+  },
+  {
+    "id": "northeastern-dukakis",
+    "name": "Dukakis Center for Urban and Regional Policy",
+    "category": "university-policy-center",
+    "parent": "Northeastern University",
+    "city": "Boston",
+    "start_url": "https://cssh.northeastern.edu/dukakiscenter/",
+    "people_url": "https://cssh.northeastern.edu/dukakiscenter/about/our-team/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot-dagger",
+    "notes": "Find the center page from the Northeastern site",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cssh.northeastern.edu/dukakiscenter/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/dukakiscenter.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://cssh.northeastern.edu/dukakiscenter/about/our-team/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/dukakiscenter-about-our-team.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://cssh.northeastern.edu/dukakiscenter/about/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/dukakiscenter-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://cssh.northeastern.edu/dukakiscenter/programs-resources/summer-youth-employment-resources/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/dukakiscenter-programs-resources-summer-youth-employment-resources.txt",
+        "found_by": "start page link labelled 'Summer Youth Employment Resources'"
+      }
+    ]
+  },
+  {
+    "id": "northeastern-economics",
+    "name": "Department of Economics",
+    "category": "university-department",
+    "parent": "Northeastern University / College of Social Sciences and Humanities",
+    "city": "Boston",
+    "start_url": "https://cssh.northeastern.edu/economics",
+    "people_url": "https://cssh.northeastern.edu/economics/faculty-and-staff/",
+    "careers_url": "https://cssh.northeastern.edu/cssh-people/faculty-positions/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cssh.northeastern.edu/economics",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/economics.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://cssh.northeastern.edu/economics/faculty-and-staff/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/economics-faculty-and-staff.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://cssh.northeastern.edu/economics/about/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/economics-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://cssh.northeastern.edu/cssh-people/faculty-positions/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/cssh-people-faculty-positions.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "northeastern-khoury",
+    "name": "Khoury College of Computer Sciences",
+    "category": "school",
+    "parent": "Northeastern University / Khoury College of Computer Sciences",
+    "city": "Boston",
+    "start_url": "https://www.khoury.northeastern.edu/",
+    "people_url": "https://www.khoury.northeastern.edu/people/",
+    "careers_url": "https://www.khoury.northeastern.edu/careers/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Labs: https://www.khoury.northeastern.edu/research/labs-groups/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.khoury.northeastern.edu/",
+        "status": "200",
+        "text": "cache/_text/www.khoury.northeastern.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.khoury.northeastern.edu/people/",
+        "status": "200",
+        "text": "cache/_text/www.khoury.northeastern.edu/people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.khoury.northeastern.edu/people/?filters%5B%5D=people_roles%7C941",
+        "status": "200",
+        "text": "cache/_text/www.khoury.northeastern.edu/people-filters-5b-5d-people-roles-7c941.txt",
+        "found_by": "start page link labelled 'Leadership'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.khoury.northeastern.edu/careers/",
+        "status": "200",
+        "text": "cache/_text/www.khoury.northeastern.edu/careers.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://www.khoury.northeastern.edu/research/labs-groups/",
+        "status": "200",
+        "text": "cache/_text/www.khoury.northeastern.edu/research-labs-groups.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "northeastern-policyschool",
+    "name": "School of Public Policy and Urban Affairs",
+    "category": "university-department",
+    "parent": "Northeastern University / College of Social Sciences and Humanities",
+    "city": "Boston",
+    "start_url": "https://cssh.northeastern.edu/policyschool/",
+    "people_url": "https://cssh.northeastern.edu/policyschool/people/faculty/",
+    "careers_url": "https://cssh.northeastern.edu/policyschool/opportunities/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cssh.northeastern.edu/policyschool/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/policyschool.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://cssh.northeastern.edu/policyschool/people/faculty/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/policyschool-people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://cssh.northeastern.edu/policyschool/about/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/policyschool-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://cssh.northeastern.edu/policyschool/opportunities/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/policyschool-opportunities.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "northeastern-polisci",
+    "name": "Department of Political Science",
+    "category": "university-department",
+    "parent": "Northeastern University / College of Social Sciences and Humanities",
+    "city": "Boston",
+    "start_url": "https://cssh.northeastern.edu/polisci",
+    "people_url": "https://cssh.northeastern.edu/polisci/people/",
+    "careers_url": "https://cssh.northeastern.edu/cssh-people/faculty-positions/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cssh.northeastern.edu/polisci",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/polisci.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://cssh.northeastern.edu/polisci/people/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/polisci-people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://cssh.northeastern.edu/polisci/about/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/polisci-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://cssh.northeastern.edu/cssh-people/faculty-positions/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/cssh-people-faculty-positions.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "northeastern-sccj",
+    "name": "School of Criminology and Criminal Justice",
+    "category": "university-department",
+    "parent": "Northeastern University / College of Social Sciences and Humanities",
+    "city": "Boston",
+    "start_url": "https://cssh.northeastern.edu/sccj",
+    "people_url": "https://cssh.northeastern.edu/sccj/people/faculty-and-staff/",
+    "careers_url": "https://cssh.northeastern.edu/cssh-people/faculty-positions/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cssh.northeastern.edu/sccj",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/sccj.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://cssh.northeastern.edu/sccj/people/faculty-and-staff/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/sccj-people-faculty-and-staff.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://cssh.northeastern.edu/sccj/about/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/sccj-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://cssh.northeastern.edu/cssh-people/faculty-positions/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/cssh-people-faculty-positions.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "northeastern-socant",
+    "name": "Department of Sociology and Anthropology",
+    "category": "university-department",
+    "parent": "Northeastern University / College of Social Sciences and Humanities",
+    "city": "Boston",
+    "start_url": "https://cssh.northeastern.edu/socant",
+    "people_url": "https://cssh.northeastern.edu/socant/socant-faculty/",
+    "careers_url": "https://cssh.northeastern.edu/cssh-people/faculty-positions/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cssh.northeastern.edu/socant",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/socant.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://cssh.northeastern.edu/socant/socant-faculty/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/socant-socant-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://cssh.northeastern.edu/socant/about/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/socant-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://cssh.northeastern.edu/cssh-people/faculty-positions/",
+        "status": "200",
+        "text": "cache/_text/cssh.northeastern.edu/cssh-people-faculty-positions.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "tufts-anthropology",
+    "name": "Department of Anthropology",
+    "category": "university-department",
+    "parent": "Tufts University / School of Arts and Sciences",
+    "city": "Medford/Boston",
+    "start_url": "https://as.tufts.edu/anthropology",
+    "people_url": "https://as.tufts.edu/anthropology/people/faculty",
+    "careers_url": "https://as.tufts.edu/anthropology/about/open-positions",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://as.tufts.edu/anthropology",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/anthropology.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://as.tufts.edu/anthropology/people/faculty",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/anthropology-people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://as.tufts.edu/anthropology/about",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/anthropology-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://as.tufts.edu/anthropology/about/open-positions",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/anthropology-about-open-positions.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "tufts-cierp",
+    "name": "Center for International Environment and Resource Policy",
+    "category": "university-policy-center",
+    "parent": "Tufts University / The Fletcher School",
+    "city": "Medford/Boston",
+    "start_url": "https://sites.tufts.edu/cierp/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://sites.tufts.edu/cierp/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/cierp.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://sites.tufts.edu/cierp/people/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/cierp-people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://sites.tufts.edu/cierp/mission",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/cierp-mission.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://sites.tufts.edu/cierp/alumni-careers/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/cierp-alumni-careers.txt",
+        "found_by": "start page link labelled 'Alumni Careers'"
+      }
+    ]
+  },
+  {
+    "id": "tufts-cilg",
+    "name": "Center for International Law and Governance",
+    "category": "university-policy-center",
+    "parent": "Tufts University / The Fletcher School",
+    "city": "Medford/Boston",
+    "start_url": "https://sites.tufts.edu/cilg/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://sites.tufts.edu/cilg/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/cilg.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://sites.tufts.edu/cilg/people/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/cilg-people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "careers",
+        "url": "https://sites.tufts.edu/wp-admin/user/contribute.php",
+        "status": "blocked-by-robots",
+        "text": null,
+        "found_by": "start page link labelled 'Get Involved'"
+      }
+    ]
+  },
+  {
+    "id": "tufts-circle",
+    "name": "Center for Information and Research on Civic Learning & Engagement (CIRCLE)",
+    "category": "university-policy-center",
+    "parent": "Tufts University / Tisch College",
+    "city": "Medford/Boston",
+    "start_url": "https://circle.tufts.edu/",
+    "people_url": "https://circle.tufts.edu/about-circle/our-team",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://circle.tufts.edu/",
+        "status": "200",
+        "text": "cache/_text/circle.tufts.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://circle.tufts.edu/about-circle/our-team",
+        "status": "200",
+        "text": "cache/_text/circle.tufts.edu/about-circle-our-team.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://circle.tufts.edu/contact-us",
+        "status": "200",
+        "text": "cache/_text/circle.tufts.edu/contact-us.txt",
+        "found_by": "start page link labelled 'Contact Us'"
+      }
+    ]
+  },
+  {
+    "id": "tufts-cspa",
+    "name": "Center for State Policy Analysis",
+    "category": "university-policy-center",
+    "parent": "Tufts University / Tisch College",
+    "city": "Medford/Boston",
+    "start_url": "https://cspa.tufts.edu/",
+    "people_url": "https://cspa.tufts.edu/our-people",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cspa.tufts.edu/",
+        "status": "200",
+        "text": "cache/_text/cspa.tufts.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://cspa.tufts.edu/our-people",
+        "status": "200",
+        "text": "cache/_text/cspa.tufts.edu/our-people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "careers",
+        "url": "https://cspa.tufts.edu/2026-summer-fellow",
+        "status": "200",
+        "text": "cache/_text/cspa.tufts.edu/2026-summer-fellow.txt",
+        "found_by": "start page link labelled 'Jobs'"
+      }
+    ]
+  },
+  {
+    "id": "tufts-css",
+    "name": "Center for Strategic Studies",
+    "category": "university-policy-center",
+    "parent": "Tufts University / The Fletcher School",
+    "city": "Medford/Boston",
+    "start_url": "https://sites.tufts.edu/css/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://sites.tufts.edu/css/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/css.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://sites.tufts.edu/css/?page_id=1599",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/css-page-id-1599.txt",
+        "found_by": "start page link labelled 'Our Team'"
+      },
+      {
+        "role": "about",
+        "url": "https://sites.tufts.edu/css/?page_id=24",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/css-page-id-24.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://sites.tufts.edu/wp-admin/user/contribute.php",
+        "status": "blocked-by-robots",
+        "text": null,
+        "found_by": "start page link labelled 'Get Involved'"
+      }
+    ]
+  },
+  {
+    "id": "tufts-dental",
+    "name": "School of Dental Medicine",
+    "category": "school",
+    "parent": "Tufts University / School of Dental Medicine",
+    "city": "Medford/Boston",
+    "start_url": "https://dental.tufts.edu/",
+    "people_url": "https://dental.tufts.edu/people/faculty",
+    "careers_url": "https://dental.tufts.edu/about/careers",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://dental.tufts.edu/",
+        "status": "200",
+        "text": "cache/_text/dental.tufts.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://dental.tufts.edu/people/faculty",
+        "status": "200",
+        "text": "cache/_text/dental.tufts.edu/people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://dental.tufts.edu/about",
+        "status": "200",
+        "text": "cache/_text/dental.tufts.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://dental.tufts.edu/about/careers",
+        "status": "200",
+        "text": "cache/_text/dental.tufts.edu/about-careers.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "tufts-economics",
+    "name": "Department of Economics",
+    "category": "university-department",
+    "parent": "Tufts University / School of Arts and Sciences",
+    "city": "Medford/Boston",
+    "start_url": "https://as.tufts.edu/economics",
+    "people_url": "https://as.tufts.edu/economics/people/faculty",
+    "careers_url": "https://as.tufts.edu/economics/about/open-positions",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://as.tufts.edu/economics",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/economics.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://as.tufts.edu/economics/people/faculty",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/economics-people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://as.tufts.edu/economics/about",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/economics-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://as.tufts.edu/economics/about/open-positions",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/economics-about-open-positions.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "tufts-engineering",
+    "name": "School of Engineering",
+    "category": "school",
+    "parent": "Tufts University / School of Engineering",
+    "city": "Medford/Boston",
+    "start_url": "https://engineering.tufts.edu/",
+    "people_url": "https://engineering.tufts.edu/people/faculty",
+    "careers_url": "https://engineering.tufts.edu/about/employment-opportunities",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://engineering.tufts.edu/",
+        "status": "200",
+        "text": "cache/_text/engineering.tufts.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://engineering.tufts.edu/people/faculty",
+        "status": "200",
+        "text": "cache/_text/engineering.tufts.edu/people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://engineering.tufts.edu/about",
+        "status": "200",
+        "text": "cache/_text/engineering.tufts.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://engineering.tufts.edu/about/employment-opportunities",
+        "status": "200",
+        "text": "cache/_text/engineering.tufts.edu/about-employment-opportunities.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "tufts-fletcher",
+    "name": "Fletcher School research centers",
+    "category": "university-policy-center",
+    "parent": "Tufts University",
+    "city": "Medford",
+    "start_url": "https://fletcher.tufts.edu",
+    "people_url": "https://fletcher.tufts.edu/academics/faculty",
+    "careers_url": "http://jobs.hr.tufts.edu/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "each center's director and staff",
+    "listed_in": "snapshot-dagger",
+    "notes": "Expand into one row per center",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://fletcher.tufts.edu",
+        "status": "200",
+        "text": "cache/_text/fletcher.tufts.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://fletcher.tufts.edu/academics/faculty",
+        "status": "200",
+        "text": "cache/_text/fletcher.tufts.edu/academics-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://fletcher.tufts.edu/about",
+        "status": "200",
+        "text": "cache/_text/fletcher.tufts.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "http://jobs.hr.tufts.edu/",
+        "status": "200",
+        "text": "cache/_text/jobs.hr.tufts.edu/index.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "tufts-friedman",
+    "name": "Friedman School of Nutrition Science and Policy",
+    "category": "school",
+    "parent": "Tufts University / Friedman School",
+    "city": "Medford/Boston",
+    "start_url": "https://nutrition.tufts.edu/",
+    "people_url": "https://nutrition.tufts.edu/academics/faculty",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Centers: https://nutrition.tufts.edu/research/centers-institutes",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://nutrition.tufts.edu/",
+        "status": "200",
+        "text": "cache/_text/nutrition.tufts.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://nutrition.tufts.edu/academics/faculty",
+        "status": "200",
+        "text": "cache/_text/nutrition.tufts.edu/academics-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://nutrition.tufts.edu/about",
+        "status": "200",
+        "text": "cache/_text/nutrition.tufts.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://careers.nutrition.tufts.edu",
+        "status": "200",
+        "text": "cache/_text/careers.nutrition.tufts.edu/index.txt",
+        "found_by": "start page link labelled 'Careers'"
+      },
+      {
+        "role": "list",
+        "url": "https://nutrition.tufts.edu/research/centers-institutes",
+        "status": "200",
+        "text": "cache/_text/nutrition.tufts.edu/research-centers-institutes.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "tufts-gdae",
+    "name": "Global Development and Environment Institute",
+    "category": "university-policy-center",
+    "parent": "Tufts University / School of Arts and Sciences",
+    "city": "Medford/Boston",
+    "start_url": "https://sites.tufts.edu/gdae/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://sites.tufts.edu/gdae/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/gdae.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://sites.tufts.edu/gdae/researchers/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/gdae-researchers.txt",
+        "found_by": "start page link labelled 'Researchers and Staff'"
+      },
+      {
+        "role": "about",
+        "url": "https://sites.tufts.edu/gdae/contact-us/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/gdae-contact-us.txt",
+        "found_by": "start page link labelled 'Contact Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://sites.tufts.edu/wp-admin/user/contribute.php",
+        "status": "blocked-by-robots",
+        "text": null,
+        "found_by": "start page link labelled 'Get Involved'"
+      }
+    ]
+  },
+  {
+    "id": "tufts-gsbs",
+    "name": "Graduate School of Biomedical Sciences",
+    "category": "school",
+    "parent": "Tufts University / Graduate School of Biomedical Sciences",
+    "city": "Medford/Boston",
+    "start_url": "https://gsbs.tufts.edu/",
+    "people_url": "https://gsbs.tufts.edu/people/faculty",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://gsbs.tufts.edu/",
+        "status": "200",
+        "text": "cache/_text/gsbs.tufts.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://gsbs.tufts.edu/people/faculty",
+        "status": "200",
+        "text": "cache/_text/gsbs.tufts.edu/people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://gsbs.tufts.edu/about",
+        "status": "200",
+        "text": "cache/_text/gsbs.tufts.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://gsbs.tufts.edu/career-development",
+        "status": "200",
+        "text": "cache/_text/gsbs.tufts.edu/career-development.txt",
+        "found_by": "start page link labelled 'Career Development'"
+      }
+    ]
+  },
+  {
+    "id": "tufts-hitachi",
+    "name": "Hitachi Center for Technology and International Affairs",
+    "category": "university-policy-center",
+    "parent": "Tufts University / The Fletcher School",
+    "city": "Medford/Boston",
+    "start_url": "https://sites.tufts.edu/hitachi/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://sites.tufts.edu/hitachi/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/hitachi.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://sites.tufts.edu/hitachi/leadership/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/hitachi-leadership.txt",
+        "found_by": "start page link labelled 'Leadership'"
+      },
+      {
+        "role": "about",
+        "url": "https://sites.tufts.edu/hitachi/mission/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/hitachi-mission.txt",
+        "found_by": "start page link labelled 'Mission'"
+      },
+      {
+        "role": "careers",
+        "url": "https://sites.tufts.edu/wp-admin/user/contribute.php",
+        "status": "blocked-by-robots",
+        "text": null,
+        "found_by": "start page link labelled 'Get Involved'"
+      }
+    ]
+  },
+  {
+    "id": "tufts-ibgc",
+    "name": "Institute for Business in the Global Context",
+    "category": "university-policy-center",
+    "parent": "Tufts University / The Fletcher School",
+    "city": "Medford/Boston",
+    "start_url": "https://sites.tufts.edu/ibgc/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://sites.tufts.edu/ibgc/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/ibgc.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://sites.tufts.edu/ibgc/contact/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/ibgc-contact.txt",
+        "found_by": "start page link labelled 'Contact Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://sites.tufts.edu/wp-admin/user/contribute.php",
+        "status": "blocked-by-robots",
+        "text": null,
+        "found_by": "start page link labelled 'Get Involved'"
+      }
+    ]
+  },
+  {
+    "id": "tufts-leir",
+    "name": "Henry J. Leir Institute for Migration and Human Security",
+    "category": "university-policy-center",
+    "parent": "Tufts University / The Fletcher School",
+    "city": "Medford/Boston",
+    "start_url": "https://sites.tufts.edu/ihs/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://sites.tufts.edu/ihs/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/ihs.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://sites.tufts.edu/ihs/about/our-team/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/ihs-about-our-team.txt",
+        "found_by": "start page link labelled 'Our Team'"
+      },
+      {
+        "role": "about",
+        "url": "https://sites.tufts.edu/ihs/about/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/ihs-about.txt",
+        "found_by": "start page link labelled 'Mission'"
+      },
+      {
+        "role": "careers",
+        "url": "https://sites.tufts.edu/wp-admin/user/contribute.php",
+        "status": "blocked-by-robots",
+        "text": null,
+        "found_by": "start page link labelled 'Get Involved'"
+      }
+    ]
+  },
+  {
+    "id": "tufts-medicine",
+    "name": "School of Medicine",
+    "category": "school",
+    "parent": "Tufts University / School of Medicine",
+    "city": "Medford/Boston",
+    "start_url": "https://medicine.tufts.edu/",
+    "people_url": "https://medicine.tufts.edu/people/faculty",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Centers: https://medicine.tufts.edu/research/research-labs-centers/research-centers",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://medicine.tufts.edu/",
+        "status": "200",
+        "text": "cache/_text/medicine.tufts.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://medicine.tufts.edu/people/faculty",
+        "status": "200",
+        "text": "cache/_text/medicine.tufts.edu/people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://medicine.tufts.edu/about/school-medicine/leadership",
+        "status": "200",
+        "text": "cache/_text/medicine.tufts.edu/about-school-medicine-leadership.txt",
+        "found_by": "start page link labelled 'Leadership'"
+      },
+      {
+        "role": "careers",
+        "url": "https://medicine.tufts.edu/academics/public-health/mph-career-pathways-outcomes",
+        "status": "200",
+        "text": "cache/_text/medicine.tufts.edu/academics-public-health-mph-career-pathways-outcomes.txt",
+        "found_by": "start page link labelled 'MPH Career Pathways & Outcomes'"
+      },
+      {
+        "role": "list",
+        "url": "https://medicine.tufts.edu/research/research-labs-centers/research-centers",
+        "status": "200",
+        "text": "cache/_text/medicine.tufts.edu/research-research-labs-centers-research-centers.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "tufts-polisci",
+    "name": "Department of Political Science",
+    "category": "university-department",
+    "parent": "Tufts University / School of Arts and Sciences",
+    "city": "Medford/Boston",
+    "start_url": "https://as.tufts.edu/politicalscience",
+    "people_url": "https://as.tufts.edu/politicalscience/people/faculty",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://as.tufts.edu/politicalscience",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/politicalscience.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://as.tufts.edu/politicalscience/people/faculty",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/politicalscience-people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://as.tufts.edu/politicalscience/about",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/politicalscience-about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "tufts-sociology",
+    "name": "Department of Sociology",
+    "category": "university-department",
+    "parent": "Tufts University / School of Arts and Sciences",
+    "city": "Medford/Boston",
+    "start_url": "https://as.tufts.edu/sociology",
+    "people_url": "https://as.tufts.edu/sociology/people/faculty",
+    "careers_url": "https://as.tufts.edu/sociology/about/open-positions",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://as.tufts.edu/sociology",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/sociology.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://as.tufts.edu/sociology/people/faculty",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/sociology-people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://as.tufts.edu/sociology/about",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/sociology-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://as.tufts.edu/sociology/about/open-positions",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/sociology-about-open-positions.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "tufts-tisch",
+    "name": "Tisch College of Civic Life",
+    "category": "school",
+    "parent": "Tufts University / Tisch College",
+    "city": "Medford/Boston",
+    "start_url": "https://tischcollege.tufts.edu/",
+    "people_url": "https://tischcollege.tufts.edu/people/faculty",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Centers: https://tischcollege.tufts.edu/research-faculty/research-centers",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://tischcollege.tufts.edu/",
+        "status": "200",
+        "text": "cache/_text/tischcollege.tufts.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://tischcollege.tufts.edu/people/faculty",
+        "status": "200",
+        "text": "cache/_text/tischcollege.tufts.edu/people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://tischcollege.tufts.edu/about",
+        "status": "200",
+        "text": "cache/_text/tischcollege.tufts.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "list",
+        "url": "https://tischcollege.tufts.edu/research-faculty/research-centers",
+        "status": "200",
+        "text": "cache/_text/tischcollege.tufts.edu/research-faculty-research-centers.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "tufts-uep",
+    "name": "Department of Urban & Environmental Policy and Planning",
+    "category": "university-department",
+    "parent": "Tufts University / School of Arts and Sciences",
+    "city": "Medford/Boston",
+    "start_url": "http://as.tufts.edu/uep/",
+    "people_url": "https://as.tufts.edu/uep/people/faculty",
+    "careers_url": "https://as.tufts.edu/uep/about/open-positions",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "http://as.tufts.edu/uep/",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/uep.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://as.tufts.edu/uep/people/faculty",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/uep-people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "http://as.tufts.edu/uep/about",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/uep-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://as.tufts.edu/uep/about/open-positions",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/uep-about-open-positions.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "tufts-vet",
+    "name": "Cummings School of Veterinary Medicine",
+    "category": "school",
+    "parent": "Tufts University / Cummings School of Veterinary Medicine",
+    "city": "Medford/Boston",
+    "start_url": "https://vet.tufts.edu/",
+    "people_url": "https://vet.tufts.edu/people/faculty",
+    "careers_url": "https://vet.tufts.edu/working-cummings-school/faculty-positions",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://vet.tufts.edu/",
+        "status": "200",
+        "text": "cache/_text/vet.tufts.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://vet.tufts.edu/people/faculty",
+        "status": "200",
+        "text": "cache/_text/vet.tufts.edu/people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://vet.tufts.edu/leadership",
+        "status": "200",
+        "text": "cache/_text/vet.tufts.edu/leadership.txt",
+        "found_by": "start page link labelled 'Leadership'"
+      },
+      {
+        "role": "careers",
+        "url": "https://vet.tufts.edu/working-cummings-school/faculty-positions",
+        "status": "200",
+        "text": "cache/_text/vet.tufts.edu/working-cummings-school-faculty-positions.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "tufts-wpf",
+    "name": "World Peace Foundation",
+    "category": "university-policy-center",
+    "parent": "Tufts University / The Fletcher School",
+    "city": "Medford/Boston",
+    "start_url": "https://worldpeacefoundation.org/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://worldpeacefoundation.org/",
+        "status": "200",
+        "text": "cache/_text/worldpeacefoundation.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://worldpeacefoundation.org/our-team/",
+        "status": "200",
+        "text": "cache/_text/worldpeacefoundation.org/our-team.txt",
+        "found_by": "start page link labelled 'Our Team'"
+      }
+    ]
+  },
+  {
+    "id": "umass-boston-cgs",
+    "name": "Center for Governance and Sustainability",
+    "category": "university-policy-center",
+    "parent": "UMass Boston McCormack",
+    "city": "Boston",
+    "start_url": "https://www.umb.edu/cgs/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.umb.edu/cgs/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/cgs.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.umb.edu/cgs/people/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/cgs-people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.umb.edu/cgs/about/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/cgs-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://hr.umb.edu/",
+        "status": "200",
+        "text": "cache/_text/hr.umb.edu/index.txt",
+        "found_by": "start page link labelled 'Employment'"
+      }
+    ]
+  },
+  {
+    "id": "umass-boston-cpdd",
+    "name": "Center for Peace, Democracy, and Development",
+    "category": "university-policy-center",
+    "parent": "UMass Boston McCormack",
+    "city": "Boston",
+    "start_url": "https://www.umb.edu/cpdd/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.umb.edu/cpdd/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/cpdd.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.umb.edu/faculty-staff/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/faculty-staff.txt",
+        "found_by": "start page link labelled 'Faculty & Staff'"
+      },
+      {
+        "role": "careers",
+        "url": "https://hr.umb.edu/",
+        "status": "200",
+        "text": "cache/_text/hr.umb.edu/index.txt",
+        "found_by": "start page link labelled 'Employment'"
+      }
+    ]
+  },
+  {
+    "id": "umass-boston-cpm",
+    "name": "Edward J. Collins Jr. Center for Public Management",
+    "category": "university-policy-center",
+    "parent": "UMass Boston McCormack",
+    "city": "Boston",
+    "start_url": "https://www.umb.edu/cpm/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.umb.edu/cpm/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/cpm.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.umb.edu/cpm/staff/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/cpm-staff.txt",
+        "found_by": "start page link labelled 'Staff'"
+      },
+      {
+        "role": "careers",
+        "url": "https://hr.umb.edu/",
+        "status": "200",
+        "text": "cache/_text/hr.umb.edu/index.txt",
+        "found_by": "start page link labelled 'Employment'"
+      }
+    ]
+  },
+  {
+    "id": "umass-boston-csp",
+    "name": "Center for Social Policy",
+    "category": "university-policy-center",
+    "parent": "UMass Boston McCormack",
+    "city": "Boston",
+    "start_url": "https://www.umb.edu/csp/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.umb.edu/csp/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/csp.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.umb.edu/csp/about/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/csp-about.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "careers",
+        "url": "https://hr.umb.edu/",
+        "status": "200",
+        "text": "cache/_text/hr.umb.edu/index.txt",
+        "found_by": "start page link labelled 'Employment'"
+      }
+    ]
+  },
+  {
+    "id": "umass-boston-cwppp",
+    "name": "Center for Women in Politics and Public Policy",
+    "category": "university-policy-center",
+    "parent": "UMass Boston McCormack",
+    "city": "Boston",
+    "start_url": "https://www.umb.edu/cwppp/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.umb.edu/cwppp/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/cwppp.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.umb.edu/faculty-staff/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/faculty-staff.txt",
+        "found_by": "start page link labelled 'Faculty & Staff'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.umb.edu/cwppp/about/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/cwppp-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://hr.umb.edu/",
+        "status": "200",
+        "text": "cache/_text/hr.umb.edu/index.txt",
+        "found_by": "start page link labelled 'Employment'"
+      }
+    ]
+  },
+  {
+    "id": "umass-boston-gaston",
+    "name": "Mauricio Gaston Institute for Latino Community Development & Public Policy",
+    "category": "university-policy-center",
+    "parent": "UMass Boston",
+    "city": "Boston",
+    "start_url": "https://www.umb.edu/gaston-institute/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.umb.edu/gaston-institute/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/gaston-institute.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.umb.edu/faculty-staff/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/faculty-staff.txt",
+        "found_by": "start page link labelled 'Faculty & Staff'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.umb.edu/gaston-institute/about/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/gaston-institute-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://hr.umb.edu/",
+        "status": "200",
+        "text": "cache/_text/hr.umb.edu/index.txt",
+        "found_by": "start page link labelled 'Employment'"
+      }
+    ]
+  },
+  {
+    "id": "umass-boston-gerontology",
+    "name": "Gerontology Institute",
+    "category": "university-policy-center",
+    "parent": "UMass Boston",
+    "city": "Boston",
+    "start_url": "https://www.umb.edu/gerontologyinstitute/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.umb.edu/gerontologyinstitute/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/gerontologyinstitute.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.umb.edu/gerontologyinstitute/about/staff/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/gerontologyinstitute-about-staff.txt",
+        "found_by": "start page link labelled 'Staff'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.umb.edu/gerontologyinstitute/about/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/gerontologyinstitute-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://hr.umb.edu/",
+        "status": "200",
+        "text": "cache/_text/hr.umb.edu/index.txt",
+        "found_by": "start page link labelled 'Employment'"
+      }
+    ]
+  },
+  {
+    "id": "umass-boston-mccormack",
+    "name": "McCormack Graduate School of Policy & Global Studies",
+    "category": "university-policy-center",
+    "parent": "UMass Boston",
+    "city": "Boston",
+    "start_url": "https://www.umb.edu/mccormack/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Institutes list: https://www.umb.edu/mccormack/research/mccormack-institutes/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.umb.edu/mccormack/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/mccormack.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.umb.edu/faculty-staff/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/faculty-staff.txt",
+        "found_by": "start page link labelled 'Faculty & Staff'"
+      },
+      {
+        "role": "careers",
+        "url": "https://hr.umb.edu/",
+        "status": "200",
+        "text": "cache/_text/hr.umb.edu/index.txt",
+        "found_by": "start page link labelled 'Employment'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.umb.edu/mccormack/research/mccormack-institutes/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/mccormack-research-mccormack-institutes.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "umass-boston-mopc",
+    "name": "Massachusetts Office of Public Collaboration",
+    "category": "university-policy-center",
+    "parent": "UMass Boston McCormack",
+    "city": "Boston",
+    "start_url": "https://www.umb.edu/mopc/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.umb.edu/mopc/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/mopc.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.umb.edu/mopc/staff/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/mopc-staff.txt",
+        "found_by": "start page link labelled 'Staff'"
+      },
+      {
+        "role": "careers",
+        "url": "https://hr.umb.edu/",
+        "status": "200",
+        "text": "cache/_text/hr.umb.edu/index.txt",
+        "found_by": "start page link labelled 'Employment'"
+      }
+    ]
+  },
+  {
+    "id": "umass-boston-ssl",
+    "name": "Sustainable Solutions Lab",
+    "category": "university-policy-center",
+    "parent": "UMass Boston",
+    "city": "Boston",
+    "start_url": "https://www.umb.edu/ssl/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.umb.edu/ssl/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/ssl.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.umb.edu/ssl/people/",
+        "status": "200",
+        "text": "cache/_text/www.umb.edu/ssl-people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "careers",
+        "url": "https://hr.umb.edu/",
+        "status": "200",
+        "text": "cache/_text/hr.umb.edu/index.txt",
+        "found_by": "start page link labelled 'Employment'"
+      }
+    ]
+  }
+]

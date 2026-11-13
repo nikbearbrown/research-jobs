@@ -1,0 +1,1121 @@
+[
+  {
+    "id": "mit-anthropology",
+    "name": "Anthropology",
+    "category": "university-department",
+    "parent": "MIT / SHASS",
+    "city": "Cambridge",
+    "start_url": "https://anthropology.mit.edu/",
+    "people_url": "https://anthropology.mit.edu/people/faculty",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://anthropology.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/anthropology.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://anthropology.mit.edu/people/faculty",
+        "status": "200",
+        "text": "cache/_text/anthropology.mit.edu/people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://anthropology.mit.edu/about",
+        "status": "200",
+        "text": "cache/_text/anthropology.mit.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "mit-arch-urban-risk-lab",
+    "name": "Urban Risk Lab",
+    "category": "research-center",
+    "parent": "MIT / School of Architecture and Planning",
+    "city": "Cambridge",
+    "start_url": "https://urbanrisklab.org/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "Architecture lab",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://urbanrisklab.org/",
+        "status": "200",
+        "text": "cache/_text/urbanrisklab.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://urbanrisklab.org/team",
+        "status": "200",
+        "text": "cache/_text/urbanrisklab.org/team.txt",
+        "found_by": "start page link labelled 'Team'"
+      },
+      {
+        "role": "about",
+        "url": "https://urbanrisklab.org/about",
+        "status": "200",
+        "text": "cache/_text/urbanrisklab.org/about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "mit-ceepr",
+    "name": "Center for Energy and Environmental Policy Research (CEEPR)",
+    "category": "research-center",
+    "parent": "MIT / Sloan",
+    "city": "Cambridge",
+    "start_url": "https://ceepr.mit.edu/",
+    "people_url": "https://ceepr.mit.edu/peoples/mit-faculty-and-researchers/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://ceepr.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/ceepr.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://ceepr.mit.edu/peoples/mit-faculty-and-researchers/",
+        "status": "200",
+        "text": "cache/_text/ceepr.mit.edu/peoples-mit-faculty-and-researchers.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://ceepr.mit.edu/roosevelt-project/about-the-project/",
+        "status": "200",
+        "text": "cache/_text/ceepr.mit.edu/roosevelt-project-about-the-project.txt",
+        "found_by": "start page link labelled 'About The Project'"
+      },
+      {
+        "role": "careers",
+        "url": "https://ceepr.mit.edu/about/opportunities/",
+        "status": "200",
+        "text": "cache/_text/ceepr.mit.edu/about-opportunities.txt",
+        "found_by": "start page link labelled 'Opportunities'"
+      }
+    ]
+  },
+  {
+    "id": "mit-cis",
+    "name": "MIT Center for International Studies",
+    "category": "university-policy-center",
+    "parent": "MIT",
+    "city": "Cambridge",
+    "start_url": "https://cis.mit.edu",
+    "people_url": "https://cis.mit.edu/our-people",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; programs (e.g. Security Studies)",
+    "listed_in": "snapshot",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cis.mit.edu",
+        "status": "200",
+        "text": "cache/_text/cis.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://cis.mit.edu/our-people",
+        "status": "200",
+        "text": "cache/_text/cis.mit.edu/our-people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://cis.mit.edu/about",
+        "status": "200",
+        "text": "cache/_text/cis.mit.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://cis.mit.edu/opportunities",
+        "status": "200",
+        "text": "cache/_text/cis.mit.edu/opportunities.txt",
+        "found_by": "start page link labelled 'Opportunities'"
+      }
+    ]
+  },
+  {
+    "id": "mit-cre",
+    "name": "MIT Center for Real Estate",
+    "category": "research-center",
+    "parent": "MIT / School of Architecture and Planning",
+    "city": "Cambridge",
+    "start_url": "https://cre.mit.edu/",
+    "people_url": "https://cre.mit.edu/people/",
+    "careers_url": "https://cre.mit.edu/about/open-positions/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "PI groups/labs: https://cre.mit.edu/research/pi-groups-labs/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cre.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/cre.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://cre.mit.edu/people/",
+        "status": "200",
+        "text": "cache/_text/cre.mit.edu/people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://cre.mit.edu/about/",
+        "status": "200",
+        "text": "cache/_text/cre.mit.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://cre.mit.edu/about/open-positions/",
+        "status": "200",
+        "text": "cache/_text/cre.mit.edu/about-open-positions.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://cre.mit.edu/research/pi-groups-labs/",
+        "status": "200",
+        "text": "cache/_text/cre.mit.edu/research-pi-groups-labs.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "mit-cs3",
+    "name": "Center for Sustainability Science and Strategy (CS3)",
+    "category": "research-center",
+    "parent": "MIT / Interdepartmental",
+    "city": "Cambridge",
+    "start_url": "https://cs3.mit.edu/",
+    "people_url": "https://cs3.mit.edu/about-us/personnel",
+    "careers_url": "https://cs3.mit.edu/about-us/jobs",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "globalchange.mit.edu (Center for Global Change Science / Joint Program) redirects here",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cs3.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/cs3.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://cs3.mit.edu/about-us/personnel",
+        "status": "200",
+        "text": "cache/_text/cs3.mit.edu/about-us-personnel.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://cs3.mit.edu/centers-purpose",
+        "status": "200",
+        "text": "cache/_text/cs3.mit.edu/centers-purpose.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://cs3.mit.edu/about-us/jobs",
+        "status": "200",
+        "text": "cache/_text/cs3.mit.edu/about-us-jobs.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "mit-dusp",
+    "name": "Department of Urban Studies and Planning (DUSP)",
+    "category": "university-department",
+    "parent": "MIT / School of Architecture and Planning",
+    "city": "Cambridge",
+    "start_url": "https://dusp.mit.edu/",
+    "people_url": "https://dusp.mit.edu/people",
+    "careers_url": "https://dusp.mit.edu/open-positions",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "Labs: https://dusp.mit.edu/labs (paginated)",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://dusp.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/dusp.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://dusp.mit.edu/people",
+        "status": "200",
+        "text": "cache/_text/dusp.mit.edu/people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://dusp.mit.edu/about",
+        "status": "200",
+        "text": "cache/_text/dusp.mit.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://dusp.mit.edu/open-positions",
+        "status": "200",
+        "text": "cache/_text/dusp.mit.edu/open-positions.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://dusp.mit.edu/labs",
+        "status": "200",
+        "text": "cache/_text/dusp.mit.edu/labs.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "mit-dusp-civic-data-design",
+    "name": "Civic Data Design Lab",
+    "category": "research-center",
+    "parent": "MIT / School of Architecture and Planning",
+    "city": "Cambridge",
+    "start_url": "https://civicdatadesignlab.mit.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "DUSP lab",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://civicdatadesignlab.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/civicdatadesignlab.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://civicdatadesignlab.mit.edu/People-Powered-Gen-AI",
+        "status": "200",
+        "text": "cache/_text/civicdatadesignlab.mit.edu/people-powered-gen-ai.txt",
+        "found_by": "start page link labelled 'People-Powered Gen AI'"
+      }
+    ]
+  },
+  {
+    "id": "mit-dusp-political-economy-lab",
+    "name": "Political Economy Lab",
+    "category": "research-center",
+    "parent": "MIT / School of Architecture and Planning",
+    "city": "Cambridge",
+    "start_url": "https://www.politicaleconomylab.mit.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "DUSP lab",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.politicaleconomylab.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/www.politicaleconomylab.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.politicaleconomylab.mit.edu/people",
+        "status": "200",
+        "text": "cache/_text/www.politicaleconomylab.mit.edu/people.txt",
+        "found_by": "start page link labelled 'People'"
+      }
+    ]
+  },
+  {
+    "id": "mit-economics",
+    "name": "Department of Economics",
+    "category": "university-department",
+    "parent": "MIT / SHASS",
+    "city": "Cambridge",
+    "start_url": "https://economics.mit.edu/",
+    "people_url": "https://economics.mit.edu/people/faculty",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "Labs/centers: https://economics.mit.edu/labs-centers",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://economics.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/economics.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://economics.mit.edu/people/faculty",
+        "status": "200",
+        "text": "cache/_text/economics.mit.edu/people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://economics.mit.edu/about",
+        "status": "200",
+        "text": "cache/_text/economics.mit.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "list",
+        "url": "https://economics.mit.edu/labs-centers",
+        "status": "200",
+        "text": "cache/_text/economics.mit.edu/labs-centers.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "mit-ipri",
+    "name": "Internet Policy Research Initiative (IPRI)",
+    "category": "research-center",
+    "parent": "MIT / Interdepartmental",
+    "city": "Cambridge",
+    "start_url": "https://internetpolicy.mit.edu/",
+    "people_url": "https://internetpolicy.mit.edu/people-2/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://internetpolicy.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/internetpolicy.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://internetpolicy.mit.edu/people-2/",
+        "status": "200",
+        "text": "cache/_text/internetpolicy.mit.edu/people-2.txt",
+        "found_by": "targets.csv people_url"
+      }
+    ]
+  },
+  {
+    "id": "mit-jwel",
+    "name": "Abdul Latif Jameel World Education Lab (J-WEL)",
+    "category": "research-center",
+    "parent": "MIT / Interdepartmental",
+    "city": "Cambridge",
+    "start_url": "https://jwel.mit.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "No team link on homepage",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://jwel.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/jwel.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://jwel.mit.edu/about",
+        "status": "200",
+        "text": "cache/_text/jwel.mit.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "mit-kuo-sharper",
+    "name": "MIT Kuo Sharper Center for Prosperity and Entrepreneurship",
+    "category": "research-center",
+    "parent": "MIT / Sloan",
+    "city": "Cambridge",
+    "start_url": "https://mitsloan.mit.edu/ksc",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://mitsloan.mit.edu/ksc",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/ksc.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "careers",
+        "url": "https://kuosharper.mit.edu/home/get-involved/",
+        "status": "200",
+        "text": "cache/_text/kuosharper.mit.edu/home-get-involved.txt",
+        "found_by": "start page link labelled 'Get Involved'"
+      }
+    ]
+  },
+  {
+    "id": "mit-lcau",
+    "name": "Norman B. Leventhal Center for Advanced Urbanism",
+    "category": "research-center",
+    "parent": "MIT / School of Architecture and Planning",
+    "city": "Cambridge",
+    "start_url": "https://lcau.mit.edu/",
+    "people_url": "https://lcau.mit.edu/people",
+    "careers_url": "https://lcau.mit.edu/positions",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://lcau.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/lcau.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://lcau.mit.edu/people",
+        "status": "200",
+        "text": "cache/_text/lcau.mit.edu/people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://lcau.mit.edu/about",
+        "status": "200",
+        "text": "cache/_text/lcau.mit.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://lcau.mit.edu/positions",
+        "status": "200",
+        "text": "cache/_text/lcau.mit.edu/positions.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "mit-polisci",
+    "name": "Department of Political Science",
+    "category": "university-department",
+    "parent": "MIT / SHASS",
+    "city": "Cambridge",
+    "start_url": "https://polisci.mit.edu/",
+    "people_url": "https://polisci.mit.edu/people/faculty",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://polisci.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/polisci.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://polisci.mit.edu/people/faculty",
+        "status": "200",
+        "text": "cache/_text/polisci.mit.edu/people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://polisci.mit.edu/about",
+        "status": "200",
+        "text": "cache/_text/polisci.mit.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://polisci.mit.edu/graduate/opportunities",
+        "status": "200",
+        "text": "cache/_text/polisci.mit.edu/graduate-opportunities.txt",
+        "found_by": "start page link labelled 'Opportunities'"
+      }
+    ]
+  },
+  {
+    "id": "mit-raise",
+    "name": "Responsible AI for Social Empowerment and Education (RAISE)",
+    "category": "ai-research",
+    "parent": "MIT / Interdepartmental",
+    "city": "Cambridge",
+    "start_url": "https://raise.mit.edu/",
+    "people_url": "https://raise.mit.edu/people/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://raise.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/raise.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://raise.mit.edu/people/",
+        "status": "200",
+        "text": "cache/_text/raise.mit.edu/people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://raise.mit.edu/about-raise/",
+        "status": "200",
+        "text": "cache/_text/raise.mit.edu/about-raise.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "mit-sap",
+    "name": "School of Architecture and Planning",
+    "category": "school",
+    "parent": "MIT / School of Architecture and Planning",
+    "city": "Cambridge",
+    "start_url": "https://sap.mit.edu/",
+    "people_url": "https://sap.mit.edu/faculty",
+    "careers_url": "https://sap.mit.edu/careers",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "Labs/centers: https://sap.mit.edu/labs-centers",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://sap.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/sap.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://sap.mit.edu/faculty",
+        "status": "200",
+        "text": "cache/_text/sap.mit.edu/faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://sap.mit.edu/leadership",
+        "status": "200",
+        "text": "cache/_text/sap.mit.edu/leadership.txt",
+        "found_by": "start page link labelled 'Leadership'"
+      },
+      {
+        "role": "careers",
+        "url": "https://sap.mit.edu/careers",
+        "status": "200",
+        "text": "cache/_text/sap.mit.edu/careers.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://sap.mit.edu/labs-centers",
+        "status": "200",
+        "text": "cache/_text/sap.mit.edu/labs-centers.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "mit-school-of-engineering",
+    "name": "School of Engineering",
+    "category": "school",
+    "parent": "MIT / School of Engineering",
+    "city": "Cambridge",
+    "start_url": "https://engineering.mit.edu/",
+    "people_url": "https://engineering.mit.edu/meet-our-faculty",
+    "careers_url": "https://engineering.mit.edu/faculty-openings",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "Centers/labs: https://engineering.mit.edu/centers-and-labs",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://engineering.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/engineering.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://engineering.mit.edu/meet-our-faculty",
+        "status": "200",
+        "text": "cache/_text/engineering.mit.edu/meet-our-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://engineering.mit.edu/about/",
+        "status": "200",
+        "text": "cache/_text/engineering.mit.edu/about.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://engineering.mit.edu/faculty-openings",
+        "status": "200",
+        "text": "cache/_text/engineering.mit.edu/faculty-openings.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://engineering.mit.edu/centers-and-labs",
+        "status": "200",
+        "text": "cache/_text/engineering.mit.edu/centers-and-labs.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "mit-school-of-science",
+    "name": "School of Science",
+    "category": "school",
+    "parent": "MIT / School of Science",
+    "city": "Cambridge",
+    "start_url": "https://science.mit.edu",
+    "people_url": "",
+    "careers_url": "https://science.mit.edu/contact/employment-opportunities/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "No faculty directory link on homepage",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://science.mit.edu",
+        "status": "200",
+        "text": "cache/_text/science.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://science.mit.edu/about/",
+        "status": "200",
+        "text": "cache/_text/science.mit.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://science.mit.edu/contact/employment-opportunities/",
+        "status": "200",
+        "text": "cache/_text/science.mit.edu/contact-employment-opportunities.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "mit-schwarzman",
+    "name": "MIT Schwarzman College of Computing",
+    "category": "ai-research",
+    "parent": "MIT",
+    "city": "Cambridge",
+    "start_url": "https://computing.mit.edu",
+    "people_url": "https://computing.mit.edu/faculty/",
+    "careers_url": "https://computing.mit.edu/faculty/faculty-openings/",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "units and faculty; links to department labs",
+    "listed_in": "snapshot-dagger",
+    "notes": "Mostly points to departments already in this list",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://computing.mit.edu",
+        "status": "playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://computing.mit.edu/\", waiting",
+        "text": null,
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://computing.mit.edu/faculty/",
+        "status": "playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://computing.mit.edu/faculty/\",",
+        "text": null,
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "careers",
+        "url": "https://computing.mit.edu/faculty/faculty-openings/",
+        "status": "playwright-error: Page.goto: Timeout 30000ms exceeded.\nCall log:\n  - navigating to \"https://computing.mit.edu/faculty/fa",
+        "text": null,
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "mit-sloan",
+    "name": "MIT Sloan School of Management",
+    "category": "school",
+    "parent": "MIT / Sloan",
+    "city": "Cambridge",
+    "start_url": "https://mitsloan.mit.edu/",
+    "people_url": "https://mitsloan.mit.edu/faculty/faculty-directory",
+    "careers_url": "https://mitsloan.mit.edu/work-mit-sloan",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "Academic groups: https://mitsloan.mit.edu/faculty/academic-groups; centers: https://mitsloan.mit.edu/centers-initiatives",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://mitsloan.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://mitsloan.mit.edu/faculty/faculty-directory",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/faculty-faculty-directory.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://mitsloan.mit.edu/about/why-mit-sloan",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/about-why-mit-sloan.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://mitsloan.mit.edu/work-mit-sloan",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/work-mit-sloan.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://mitsloan.mit.edu/faculty/academic-groups",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/faculty-academic-groups.txt",
+        "found_by": "address written in targets.csv notes"
+      },
+      {
+        "role": "list",
+        "url": "https://mitsloan.mit.edu/centers-initiatives",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/centers-initiatives.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "mit-sloan-cfi",
+    "name": "Consumer Finance Initiative",
+    "category": "research-center",
+    "parent": "MIT / Sloan",
+    "city": "Cambridge",
+    "start_url": "https://mitsloan.mit.edu/cfi/about-us-consumer-finance-initiative",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://mitsloan.mit.edu/cfi/about-us-consumer-finance-initiative",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/cfi-about-us-consumer-finance-initiative.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://mitsloan.mit.edu/faculty/faculty-directory",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/faculty-faculty-directory.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://mitsloan.mit.edu/about/why-mit-sloan",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/about-why-mit-sloan.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://mitsloan.mit.edu/work-mit-sloan",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/work-mit-sloan.txt",
+        "found_by": "start page link labelled 'Careers'"
+      }
+    ]
+  },
+  {
+    "id": "mit-sloan-climate-policy",
+    "name": "MIT Climate Policy Center",
+    "category": "research-center",
+    "parent": "MIT / Sloan",
+    "city": "Cambridge",
+    "start_url": "https://mitsloan.mit.edu/centers-initiatives/climate-policy-center/welcome",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://mitsloan.mit.edu/centers-initiatives/climate-policy-center/welcome",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/centers-initiatives-climate-policy-center-welcome.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://mitsloan.mit.edu/faculty/faculty-directory",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/faculty-faculty-directory.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://mitsloan.mit.edu/about/why-mit-sloan",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/about-why-mit-sloan.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://mitsloan.mit.edu/work-mit-sloan",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/work-mit-sloan.txt",
+        "found_by": "start page link labelled 'Careers'"
+      }
+    ]
+  },
+  {
+    "id": "mit-sloan-gcfp",
+    "name": "MIT Golub Center for Finance and Policy",
+    "category": "research-center",
+    "parent": "MIT / Sloan",
+    "city": "Cambridge",
+    "start_url": "https://mitsloan.mit.edu/centers-initiatives/mit-gcfp/welcome",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://mitsloan.mit.edu/centers-initiatives/mit-gcfp/welcome",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/centers-initiatives-mit-gcfp-welcome.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://mitsloan.mit.edu/faculty/faculty-directory",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/faculty-faculty-directory.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://mitsloan.mit.edu/about/why-mit-sloan",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/about-why-mit-sloan.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://mitsloan.mit.edu/work-mit-sloan",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/work-mit-sloan.txt",
+        "found_by": "start page link labelled 'Careers'"
+      }
+    ]
+  },
+  {
+    "id": "mit-sloan-leadership",
+    "name": "MIT Leadership Center",
+    "category": "research-center",
+    "parent": "MIT / Sloan",
+    "city": "Cambridge",
+    "start_url": "https://mitsloan.mit.edu/centers-initiatives/mit-leadership-center/welcome",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://mitsloan.mit.edu/centers-initiatives/mit-leadership-center/welcome",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/centers-initiatives-mit-leadership-center-welcome.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://mitsloan.mit.edu/centers-initiatives/mit-leadership-center/our-people-mit-leadership-center",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/centers-initiatives-mit-leadership-center-our-people-mit-leadership-center.txt",
+        "found_by": "start page link labelled 'Our People'"
+      },
+      {
+        "role": "about",
+        "url": "https://mitsloan.mit.edu/about/why-mit-sloan",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/about-why-mit-sloan.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://mitsloan.mit.edu/work-mit-sloan",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/work-mit-sloan.txt",
+        "found_by": "start page link labelled 'Careers'"
+      }
+    ]
+  },
+  {
+    "id": "mit-trust-center",
+    "name": "Martin Trust Center for MIT Entrepreneurship",
+    "category": "research-center",
+    "parent": "MIT / Sloan",
+    "city": "Cambridge",
+    "start_url": "https://entrepreneurship.mit.edu/",
+    "people_url": "https://entrepreneurship.mit.edu/team/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://entrepreneurship.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/entrepreneurship.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://entrepreneurship.mit.edu/team/",
+        "status": "200",
+        "text": "cache/_text/entrepreneurship.mit.edu/team.txt",
+        "found_by": "targets.csv people_url"
+      }
+    ]
+  }
+]
