@@ -220,13 +220,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 project coordinator, 3 research assistants (PhD students)",
+      "members_page_url": "https://boning.mit.edu/group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from MTL's Core Faculty page; no per-person email/site shown on the listing. Depth pass 2026-11-17: lab_website read from the department's research page (https://www.mtl.mit.edu/research-overview): link labelled 'Statistical Metrology Group', shown beside the PI's name."
+      "notes": "Breadth pass from MTL's Core Faculty page; no per-person email/site shown on the listing. Depth pass 2026-11-17: lab_website read from the department's research page (https://www.mtl.mit.edu/research-overview): link labelled 'Statistical Metrology Group', shown beside the PI's name. Depth pass 2026-11-17: Count from the lab's Group Members page (fetched); past students excluded."
     },
     {
       "id": "mit-mtl-svetlana-boriskina",
@@ -336,7 +336,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from MTL's Core Faculty page; no per-person email/site shown on the listing. Depth pass 2026-11-17: lab_website read from the department's research page (https://www.mtl.mit.edu/research-overview): link labelled 'Energy-Efficient Circuits and Systems Group', shown beside the PI's name."
+      "notes": "Breadth pass from MTL's Core Faculty page; no per-person email/site shown on the listing. Depth pass 2026-11-17: lab_website read from the department's research page (https://www.mtl.mit.edu/research-overview): link labelled 'Energy-Efficient Circuits and Systems Group', shown beside the PI's name. Depth pass 2026-11-17: Not sized, the site could not be read: Page returns Error 404 (Object not found)."
     },
     {
       "id": "mit-mtl-suraj-cheema",
@@ -616,13 +616,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 17,
+      "member_breakdown": "1 PI, 11 PhD students, 2 M.Eng. students, 3 undergraduates",
+      "members_page_url": "https://hangroup.mit.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from MTL's Core Faculty page; no per-person email/site shown on the listing. Depth pass 2026-11-17: lab_website read from the department's research page (https://www.mtl.mit.edu/research-overview): link labelled 'Terahertz Integrated Electronics Group', shown beside the PI's name."
+      "notes": "Breadth pass from MTL's Core Faculty page; no per-person email/site shown on the listing. Depth pass 2026-11-17: lab_website read from the department's research page (https://www.mtl.mit.edu/research-overview): link labelled 'Terahertz Integrated Electronics Group', shown beside the PI's name. Depth pass 2026-11-17: People page says 16 current members (students only); PI added."
     },
     {
       "id": "mit-mtl-jongyoon-han",
@@ -1172,7 +1172,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from MTL's Core Faculty page; no per-person email/site shown on the listing. Depth pass 2026-11-17: lab_website read from the department's research page (https://www.mtl.mit.edu/research-overview): link labelled 'Advanced Semiconductor Materials and Devices Group', shown beside the PI's name."
+      "notes": "Breadth pass from MTL's Core Faculty page; no per-person email/site shown on the listing. Depth pass 2026-11-17: lab_website read from the department's research page (https://www.mtl.mit.edu/research-overview): link labelled 'Advanced Semiconductor Materials and Devices Group', shown beside the PI's name. Depth pass 2026-11-17: Group Members page (fetched) mixes current and graduated people, incoming 'New Student Fall 2026' slots, a 'TBD' placeholder and unnamed entries, so current members can't be told reliably."
     },
     {
       "id": "mit-mtl-david-perreault",
@@ -1444,7 +1444,7 @@
       "lab_name": null,
       "pi_name": "Luis Velasquez-Garcia",
       "pi_title": "Principal Research Scientist",
-      "pi_email": null,
+      "pi_email": "lfvelasq@mit.edu",
       "accepting_grad_students": null,
       "lab_website": "https://multiplexed.mit.edu",
       "location": null,
@@ -1458,7 +1458,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from MTL's Core Faculty page; no per-person email/site shown on the listing. Depth pass 2026-11-17: lab_website read from the department's research page (https://www.mtl.mit.edu/research-overview): link labelled 'Micro-and Nano-enabled Multiplexed Scaled-down Systems Group', shown beside the PI's name."
+      "notes": "Breadth pass from MTL's Core Faculty page; no per-person email/site shown on the listing. Depth pass 2026-11-17: lab_website read from the department's research page (https://www.mtl.mit.edu/research-overview): link labelled 'Micro-and Nano-enabled Multiplexed Scaled-down Systems Group', shown beside the PI's name. Depth pass 2026-11-17: Roster is split across separate Postdocs, Graduate Students, Undergrad Students and Visitors pages; the cached page shows none, and reading all would exceed the fetch limit."
     },
     {
       "id": "mit-mtl-joel-voldman",

@@ -82,7 +82,7 @@
       "lab_name": null,
       "pi_name": "Franziska Michor",
       "pi_title": "PhD, Computational Biology, Harvard T.H. Chan School of Public Health, Harvard University, Professor",
-      "pi_email": null,
+      "pi_email": "michor@jimmy.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "http://michorlab.dfci.harvard.edu/",
       "location": null,
@@ -90,13 +90,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 19,
+      "member_breakdown": "1 PI, 6 postdoctoral fellows, 2 graduate students, 1 MD-PhD student, 4 master's students, 4 undergraduates, 1 research technician",
+      "members_page_url": "http://michorlab.dfci.harvard.edu/our-lab/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own People page (ds.dfci.harvard.edu/people/), Faculty section only; a 'Lab' link was shown next to this name but not individually captured in this pass. Depth pass 2026-11-17: lab_website read from the department's labs listing (https://www.dana-farber.org/research/labs): link labelled 'Franziska Michor Lab', which names the PI and the lab."
+      "notes": "Breadth pass from the department's own People page (ds.dfci.harvard.edu/people/), Faculty section only; a 'Lab' link was shown next to this name but not individually captured in this pass. Depth pass 2026-11-17: lab_website read from the department's labs listing (https://www.dana-farber.org/research/labs): link labelled 'Franziska Michor Lab', which names the PI and the lab. Depth pass 2026-11-17: Counted from the Our Lab page, fetched from the home page link."
     },
     {
       "id": "dana-farber-data-science-giovanni-parmigiani",
@@ -118,7 +118,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own People page (ds.dfci.harvard.edu/people/), Faculty section only. Depth pass 2026-11-17: lab_website read from the department's labs listing (https://www.dana-farber.org/research/labs): link labelled 'BayesMendel Lab (Danielle Braun and Giovanni Parmigiani)', which names the PI and the lab."
+      "notes": "Breadth pass from the department's own People page (ds.dfci.harvard.edu/people/), Faculty section only. Depth pass 2026-11-17: lab_website read from the department's labs listing (https://www.dana-farber.org/research/labs): link labelled 'BayesMendel Lab (Danielle Braun and Giovanni Parmigiani)', which names the PI and the lab. Depth pass 2026-11-17: Not sized, the site could not be read: The cached page is an Akamai Access Denied error. The site refuses the project's fetcher; not worked around."
     },
     {
       "id": "dana-farber-data-science-meredith-regan",
@@ -162,7 +162,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own People page (ds.dfci.harvard.edu/people/), Faculty section only; a 'Lab' link was shown next to this name but not individually captured in this pass. Depth pass 2026-11-17: lab_website read from the department's faculty directory (http://ds.dfci.harvard.edu/people/): link labelled 'Lab', shown beside the PI's name."
+      "notes": "Breadth pass from the department's own People page (ds.dfci.harvard.edu/people/), Faculty section only; a 'Lab' link was shown next to this name but not individually captured in this pass. Depth pass 2026-11-17: lab_website read from the department's faculty directory (http://ds.dfci.harvard.edu/people/): link labelled 'Lab', shown beside the PI's name. Depth pass 2026-11-17: Not sized, the site could not be read: The cached page says the specified URL cannot be found."
     },
     {
       "id": "dana-farber-data-science-martin-aryee",
@@ -184,7 +184,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own People page (ds.dfci.harvard.edu/people/), Faculty section only; a 'Lab' link was shown next to this name but not individually captured in this pass. Depth pass 2026-11-17: lab_website read from the department's faculty directory (http://ds.dfci.harvard.edu/people/): link labelled 'Lab', shown beside the PI's name."
+      "notes": "Breadth pass from the department's own People page (ds.dfci.harvard.edu/people/), Faculty section only; a 'Lab' link was shown next to this name but not individually captured in this pass. Depth pass 2026-11-17: lab_website read from the department's faculty directory (http://ds.dfci.harvard.edu/people/): link labelled 'Lab', shown beside the PI's name. Depth pass 2026-11-17: Home page only describes research and has no people page link (home, publications, teaching, contact); no members listed."
     },
     {
       "id": "dana-farber-data-science-sahand-hormoz",
@@ -200,13 +200,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 research scientist, 6 postdoctoral fellows, 3 graduate students, 1 research assistant, 1 lab technician, 2 operations staff (manager, administrator)",
+      "members_page_url": "https://hormoz.dfci.harvard.edu/people",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own People page (ds.dfci.harvard.edu/people/), Faculty section only; a 'Lab' link was shown next to this name but not individually captured in this pass. Depth pass 2026-11-17: lab_website read from the department's faculty directory (http://ds.dfci.harvard.edu/people/): link labelled 'Lab', shown beside the PI's name."
+      "notes": "Breadth pass from the department's own People page (ds.dfci.harvard.edu/people/), Faculty section only; a 'Lab' link was shown next to this name but not individually captured in this pass. Depth pass 2026-11-17: lab_website read from the department's faculty directory (http://ds.dfci.harvard.edu/people/): link labelled 'Lab', shown beside the PI's name. Depth pass 2026-11-17: Counted from the Current lab section of the People page (fetched after the cached home page failed); alumni excluded."
     },
     {
       "id": "dana-farber-data-science-heng-li",
@@ -288,13 +288,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 16,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 8 PhD students, 1 MD student, 1 MMSc student, 1 computational biologist, 1 research associate, 1 undergraduate, 1 visiting graduate student",
+      "members_page_url": "https://lotterlab.github.io/members.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the department's own People page (ds.dfci.harvard.edu/people/), Faculty section only; a 'Lab' link was shown next to this name but not individually captured in this pass. Depth pass 2026-11-17: lab_website read from the department's faculty directory (http://ds.dfci.harvard.edu/people/): link labelled 'Lab', shown beside the PI's name."
+      "notes": "Breadth pass from the department's own People page (ds.dfci.harvard.edu/people/), Faculty section only; a 'Lab' link was shown next to this name but not individually captured in this pass. Depth pass 2026-11-17: lab_website read from the department's faculty directory (http://ds.dfci.harvard.edu/people/): link labelled 'Lab', shown beside the PI's name. Depth pass 2026-11-17: Counted from the Members page; alumni excluded; Myla Lotter, listed without a role just above the alumni heading, was not counted."
     },
     {
       "id": "dana-farber-data-science-nabihah-tayob",

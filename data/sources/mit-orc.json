@@ -22,13 +22,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Optimization and learning; Applied game theory; Network control; Sustainable energy & transportation",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 3 postdocs, 6 PhD students, 1 master's student",
+      "members_page_url": "https://resil.mit.edu/people/current-lab-members/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name."
+      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name. Depth pass 2026-11-17: Count from the Current Lab Members page (fetched); PI added."
     },
     {
       "id": "mit-orc-ali-aouad",
@@ -264,13 +264,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Machine learning; Statistical learning theory; Mechanism design; Optimization algorithms; Game theory",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 4 PhD students",
+      "members_page_url": "http://www.mit.edu/~golrezae/students.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name."
+      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name. Depth pass 2026-11-17: Current postdoc and PhD students listed; alumni excluded; PI added."
     },
     {
       "id": "mit-orc-swati-gupta",
@@ -484,13 +484,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Machine learning; Machine learning Modeling; Convex and discrete optimization; First order methods; Stochastic and large scale optimization",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 12 current students (PhD and MS)",
+      "members_page_url": "http://www.mit.edu/~rahulmaz/students.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name."
+      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name. Depth pass 2026-11-17: Count from the Research Group page (fetched); former students excluded; the undergraduate list is not counted (not clearly current)."
     },
     {
       "id": "mit-orc-james-orlin",
@@ -528,13 +528,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Nonlinear optimization; Convex analysis; Game theory; Network economics and optimization",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 6 graduate students, 2 postdocs",
+      "members_page_url": "https://asu.mit.edu/research-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name."
+      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name. Depth pass 2026-11-17: Count from the Research Group page (fetched); page is undated, so it may be old."
     },
     {
       "id": "mit-orc-pablo-parrilo",
@@ -550,13 +550,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Control and identification of uncertain complex systems; Robustness analysis and synthesis; Convex optimization",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 8 current students, 1 postdoc",
+      "members_page_url": "http://www.mit.edu/~parrilo/group.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name."
+      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name. Depth pass 2026-11-17: Group page says 'under construction'; counts current students and postdoc, some joint with other faculty; former members excluded."
     },
     {
       "id": "mit-orc-georgia-perakis",
@@ -682,13 +682,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Multistage optimization under uncertainty; Mixed-integer nonlinear optimization; Electric power system operation and planning; Multi-energy systems optimization; Electrified transportation",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 7,
+      "member_breakdown": "1 PI, 5 PhD students, 1 undergraduate",
+      "members_page_url": "https://sites.google.com/view/asunlab/students",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name."
+      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name. Depth pass 2026-11-17: Count from the Students page (fetched); alumni excluded; postdoc and master's sections are empty."
     },
     {
       "id": "mit-orc-nikos-trichakis",
@@ -814,13 +814,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Machine Learning and Al; Non-convex and Networked Optimization; Learning for safety-critical systems; Networks and Dynamics; Energy and smart grid",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI, 9 PhD students, 1 visiting student",
+      "members_page_url": "https://azizan.mit.edu/group.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name."
+      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name. Depth pass 2026-11-17: Current Members section; alumni and affiliate members excluded."
     },
     {
       "id": "mit-orc-arnold-barnett",
@@ -858,13 +858,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Statistical inference; Uncertainty quantification with AI; AI for science; Decision-making with strategic agents",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI (not listed, added), 3 postdocs, 9 PhD students",
+      "members_page_url": "https://stephenbates19.github.io/group.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name."
+      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name. Depth pass 2026-11-17: 12 names under current Research group heading (alumni excluded) plus the PI, who is not on the roster but the site is his."
     },
     {
       "id": "mit-orc-guy-bresler",
@@ -946,13 +946,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Safe and Robust Machine Learning; Machine Learning for Optimization; Power and Energy Systems; Climate Change",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 11,
+      "member_breakdown": "1 PI (not listed, added), 7 PhD students, 3 undergrads",
+      "members_page_url": "https://priyadonti.com/group",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name."
+      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name. Depth pass 2026-11-17: 10 names under Current Members (Past Members excluded) plus the PI, who is not on the roster but the site is hers."
     },
     {
       "id": "mit-orc-chuchu-fan",
@@ -1062,7 +1062,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name."
+      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name. Depth pass 2026-11-17: Group page (jadbabaie.mit.edu/research-group/) lists 'Current Group Members' but dates are stale (newest 2023) and some entries have ended years (e.g. 2019-24) or undated visitors, so who is current cannot be told; left null."
     },
     {
       "id": "mit-orc-jonathan-kelner",
@@ -1207,16 +1207,16 @@
       "lab_website": "http://shin.mit.edu",
       "location": "Room 66-554, MIT",
       "phone": "715-5740",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Layla Gonzalez",
+      "admin_email": "lglez@mit.edu",
       "research_summary": "Computational Optimization; Control Theory; Energy Systems",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 15,
+      "member_breakdown": "1 PI, 4 postdocs, 7 grad students, 1 undergrad, 1 visitor, 1 administrative assistant",
+      "members_page_url": "http://shin.mit.edu/people",
+      "join_page_url": "http://shin.mit.edu/positions",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name."
+      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name. Depth pass 2026-11-17: Counted everyone under the current headings on the people page (Alumni excluded); includes the visiting professor and the administrative assistant listed there."
     },
     {
       "id": "mit-orc-sadegh-shirani",
@@ -1295,16 +1295,16 @@
       "lab_website": "https://trancik.mit.edu/",
       "location": "Room E17-447, MIT",
       "phone": "(617) 715-4552",
-      "admin_name": null,
-      "admin_email": null,
+      "admin_name": "Amy Kaczur",
+      "admin_email": "akaczur@mit.edu",
       "research_summary": "Energy systems modeling; Materials optimization for low-carbon energy technologies",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 research scientist, 3 postdocs, 5 grad students, 2 undergrads, 1 group administrator",
+      "members_page_url": "https://trancik.mit.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name."
+      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name. Depth pass 2026-11-17: Counted people above the Alumni heading on the people page, including the group administrator."
     },
     {
       "id": "mit-orc-caroline-uhler",
@@ -1320,13 +1320,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Machine learning; Biomedical Applications; Statistics; Causal inference",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 22,
+      "member_breakdown": "1 PI (not listed, added), 9 postdocs, 8 grad students, 3 UROP, 1 MEng",
+      "members_page_url": "http://carolineuhler.com/current-team-members",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name."
+      "notes": "Breadth pass from the Operations Research Center's Core Faculty directory (has real email/phone/room per person). Core ORC faculty hold their primary appointment and lab in another MIT department (Sloan, EECS, CEE, AeroAstro, etc.) -- ORC is a cross-departmental graduate program, not each person's home lab. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://orc.mit.edu/people/faculty/): link labelled 'website', shown beside the PI's name. Depth pass 2026-11-17: 21 names on the Current Team page (Alumni is a separate page) plus the PI, who is on the site nav but not in the roster; one person tagged Postdoc is labelled 'Graduate student' and counted as a grad student."
     },
     {
       "id": "mit-orc-jiang-wang",

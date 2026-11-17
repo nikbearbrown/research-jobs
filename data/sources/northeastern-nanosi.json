@@ -23,13 +23,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 associate research scientist, 6 PhD students, 2 master's students",
+      "members_page_url": "https://micronrf.sites.northeastern.edu/our-team/",
+      "join_page_url": "https://micronrf.sites.northeastern.edu/opportunities/",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name."
+      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name. Depth pass 2026-11-17: Counted names under Current Lab Members on the Our Team page (Alumni excluded)."
     },
     {
       "id": "northeastern-nanosi-kenle-chen",
@@ -89,13 +89,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 postdocs, 8 PhD students, 1 master's student",
+      "members_page_url": "https://aims.coe.northeastern.edu/aimsteam/",
+      "join_page_url": "https://aims.coe.northeastern.edu/open-positions/",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name."
+      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name. Depth pass 2026-11-17: Counted names above Join AIMS / Alumni on the team page."
     },
     {
       "id": "northeastern-nanosi-yunsi-fei",
@@ -117,7 +117,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name."
+      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name. Depth pass 2026-11-17: Not sized, the site could not be read: The lab site (nueess.coe.neu.edu) refused the connection when fetched; no page text cached."
     },
     {
       "id": "northeastern-nanosi-kevin-fu",
@@ -155,13 +155,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 5 PhD students, 1 MS student, 1 undergrad",
+      "members_page_url": "https://sites.google.com/view/mapslab/people",
+      "join_page_url": "https://sites.google.com/view/mapslab/openings",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name."
+      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name. Depth pass 2026-11-17: Counted names above Lab Alumni on the People page."
     },
     {
       "id": "northeastern-nanosi-david-horsley",
@@ -243,13 +243,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 8,
+      "member_breakdown": "1 PI, 7 PhD students",
+      "members_page_url": "https://ymllab.sites.northeastern.edu/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name."
+      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name. Depth pass 2026-11-17: Counted names above Alumni on the Our Team page."
     },
     {
       "id": "northeastern-nanosi-sunil-mittal",
@@ -265,13 +265,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD students, 2 MS students",
+      "members_page_url": "https://qplab.sites.northeastern.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name."
+      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name. Depth pass 2026-11-17: Counted names above Alumni on the People page."
     },
     {
       "id": "northeastern-nanosi-aravind-nagulu",
@@ -315,7 +315,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name."
+      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name. Depth pass 2026-11-17: Home page lists a Students page; I fetched it (index_files/Page295.htm) and its 'Current Ph.D. Students' heading shows no names in the text, only past members, so no count."
     },
     {
       "id": "northeastern-nanosi-flavius-pop",
@@ -375,13 +375,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 13,
+      "member_breakdown": "1 director, 1 program manager, 1 research faculty, 2 associate research scientists, 5 PhD students, 3 visiting scholars",
+      "members_page_url": "https://nemslab.sites.northeastern.edu/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name."
+      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name. Depth pass 2026-11-17: Counted names under Current Lab Members on the Our Team page (Alumni excluded); the Post-Doctoral, Master Students and Undergraduates headings show no names."
     },
     {
       "id": "northeastern-nanosi-aatmesh-shrivastava",
@@ -397,13 +397,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 19,
+      "member_breakdown": "1 PI, 2 postdocs, 7 PhD students, 2 MS students, 1 visiting undergrad, 6 undergrad researchers",
+      "members_page_url": "https://coe.northeastern.edu/Research/eecs/people/index.html",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name."
+      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name. Depth pass 2026-11-17: Counted names above Former Students on the People page; one person under the postdoc heading is described as pursuing a PhD but is counted once."
     },
     {
       "id": "northeastern-nanosi-soner-sonmezoglu",
@@ -419,13 +419,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 research staff, 6 grad students, 1 master's student, 1 undergrad",
+      "members_page_url": "https://www.sonmezoglulab.com/people",
+      "join_page_url": "https://www.sonmezoglulab.com/positions",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name."
+      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name. Depth pass 2026-11-17: Counted names above Group Alumni on the People page."
     },
     {
       "id": "northeastern-nanosi-nian-x-sun",
@@ -551,13 +551,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 4 PhD students, 1 undergrad",
+      "members_page_url": "https://xlab.sites.northeastern.edu/people/",
+      "join_page_url": "https://xlab.sites.northeastern.edu/job-openings/",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name."
+      "notes": "Breadth pass from NanoSI's Faculty page; has its own 'Lab Website' link on the profile (URL not individually followed this pass). Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://nanosi.northeastern.edu/faculty/): link labelled 'Lab Website', shown beside the PI's name. Depth pass 2026-11-17: Counted names above Alumni on the People page."
     },
     {
       "id": "northeastern-nanosi-hongli-julie-zhu",

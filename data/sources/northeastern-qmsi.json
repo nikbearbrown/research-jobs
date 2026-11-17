@@ -72,7 +72,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name."
+      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name. Depth pass 2026-11-17: Not sized, the site is not this unit's own: The site is Ning Bao's personal profile page (home, research, CV, contact) and shows no research group or members."
     },
     {
       "id": "northeastern-qmsi-david-budil",
@@ -132,13 +132,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Professor Colangelo's research interests include applied superconductivity and microwave engineering, such as the development of nanoscale devices in the superconducting regime operating at microwave frequency for application in cryogenic signal processing and quantum computing, light-superconductor interface, including free-space SNSPD, waveguide-integrated SSPD, and their application in communication, astronomy and biomedicine, the integration of nanoscale devices on photonic, acoustic, and el",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 team leader, 1 graduate student, 1 undergrad",
+      "members_page_url": "https://colangelo.sites.northeastern.edu/our-team/",
+      "join_page_url": "https://colangelo.sites.northeastern.edu/open-positions/",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name."
+      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name. Depth pass 2026-11-17: Counted names on the Our Team page."
     },
     {
       "id": "northeastern-qmsi-alberto-de-la-torre",
@@ -168,7 +168,7 @@
       "lab_name": null,
       "pi_name": "Ivana Dimitrova",
       "pi_title": "Assistant Professor of Physics",
-      "pi_email": null,
+      "pi_email": "i.dimitrova@northeastern.edu",
       "accepting_grad_students": null,
       "lab_website": "https://dimitrovalab.sites.northeastern.edu/",
       "location": null,
@@ -176,13 +176,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Professor Dimitrova is an experimental atomic physicist working on quantum information science. Her research is focused on developing photonic interfaces for neutral atom arrays for modular quantum computing and quantum networking. Fast high-fidelity quantum channels between Rydberg atom array modules can become the basis for large-scale fault-tolerant quantum information processors.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 2 graduate students, 1 undergrad",
+      "members_page_url": "https://dimitrovalab.sites.northeastern.edu/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name."
+      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name. Depth pass 2026-11-17: Counted names above Former Members on the Our Team page."
     },
     {
       "id": "northeastern-qmsi-sijia-dong",
@@ -476,7 +476,7 @@
       "lab_name": null,
       "pi_name": "Paul Stevenson",
       "pi_title": "Assistant Professor of Physics",
-      "pi_email": null,
+      "pi_email": "p.stevenson@northeastern.edu",
       "accepting_grad_students": null,
       "lab_website": "https://www.stevensonresearch.com/",
       "location": null,
@@ -484,13 +484,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Professor Stevenson is an experimentalist interested in understanding the nanoscale dynamics of condensed matter systems. His research uses point defects in diamond as ultrasmall quantum sensors to probe dynamics in systems ranging from complex multiferroic materials to solution-phase chemical and biological systems.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 2 undergrads",
+      "members_page_url": "https://www.stevensonresearch.com/team",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name."
+      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name. Depth pass 2026-11-17: Counted names above Alumni on the Team page; the two joke 'Research Associates' (Rockwell, Mimi) are not counted."
     },
     {
       "id": "northeastern-qmsi-nian-sun",
@@ -498,7 +498,7 @@
       "lab_name": null,
       "pi_name": "Nian Sun",
       "pi_title": "Distinguished Professor of Electrical and Computer Engineering",
-      "pi_email": null,
+      "pi_email": "n.sun@northeastern.edu",
       "accepting_grad_students": null,
       "lab_website": "https://web.northeastern.edu/sunlab/",
       "location": null,
@@ -506,13 +506,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Professor Sun's research interests include novel magnetic, ferroelectric and multiferroic materials, devices and microsystems, novel gas sensors and systems. He has over 280 publications and over 30 patents and patent applications. Professor Sun has given over 180 plenary/keynote/invited presentations and seminars. He is an editor of Sensors, and IEEE Transactions on Magnetics, and a fellow of the IEEE, Institute of Physics, and of the Institution of Engineering and Technology.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 22,
+      "member_breakdown": "1 PI, 3 postdocs, 16 PhD students (incl. 2 visiting), 2 undergraduate research assistants",
+      "members_page_url": "https://sunlab.sites.northeastern.edu/our-team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name."
+      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name. Depth pass 2026-11-17: Counted the names under 'Current Lab Members' on the Our Team page (old roster: husky.neu.edu emails; Hwaider Lin is listed there as a company president, counted as listed)."
     },
     {
       "id": "northeastern-qmsi-eugene-tang",
@@ -664,9 +664,9 @@
       "member_breakdown": null,
       "members_page_url": null,
       "join_page_url": null,
-      "join_notes": null,
+      "join_notes": "Postdoc position open (apply by Jan 2027 via academicjobsonline); PhD students must first be admitted to the Northeastern Physics graduate program, then contact him.",
       "profile_url": null,
-      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name."
+      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name. Depth pass 2026-11-17: Not sized, the site is not this unit's own: This is Yizhi You's personal homepage (research interests, CV, hiring notice); it lists no group members."
     },
     {
       "id": "northeastern-qmsi-siddhartha-ghosh",
@@ -762,7 +762,7 @@
       "lab_name": null,
       "pi_name": "Sunil Mittal",
       "pi_title": "Assistant Professor of Electrical and Computer Engineering",
-      "pi_email": null,
+      "pi_email": "s.mittal@northeastern.edu",
       "accepting_grad_students": null,
       "lab_website": "https://qplab.sites.northeastern.edu/",
       "location": null,
@@ -770,13 +770,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Professor Mittal is an experimental physicist interested in quantum photonics, topological and non-Hermitian physics, and quantum materials. His research leverages photonic systems to create novel topological and non-Hermitian phases of light, and explores their potential applications in innovative photonic devices. These include nonlinear optical frequency combs, quantum-enhanced sensors, and quantum light sources which are critical for advancing photonic quantum technologies. He is also intere",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD students, 2 MS students",
+      "members_page_url": "https://qplab.sites.northeastern.edu/people/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name."
+      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name. Depth pass 2026-11-17: Counted names above Alumni on the People page."
     },
     {
       "id": "northeastern-qmsi-jonathan-weitsman",
@@ -806,7 +806,7 @@
       "lab_name": null,
       "pi_name": "Xufeng Zhang",
       "pi_title": "Assistant Professor of Electrical and Computer Engineering & Physics",
-      "pi_email": null,
+      "pi_email": "xu.zhang@northeastern.edu",
       "accepting_grad_students": null,
       "lab_website": "https://xlab.sites.northeastern.edu/",
       "location": null,
@@ -814,13 +814,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Professor Zhang' has diverse research interest in device physics and applications, with a main focus on experimental study of spin wave dynamics and magnonic devices hybridized with microwave/photonics/mechanics for coherent and quantum information processing.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 4 PhD students, 1 undergrad",
+      "members_page_url": "https://xlab.sites.northeastern.edu/people/",
+      "join_page_url": "https://xlab.sites.northeastern.edu/job-openings/",
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name."
+      "notes": "Breadth pass from QMSI's Faculty page (Core or Affiliate Faculty section); a 'Group Website' link is shown on the page for most faculty but could not be reliably matched to each person by position, so lab_website is left null rather than risk a wrong attribution. Depth pass 2026-11-17: lab_website read from the department's faculty directory (https://quantum.northeastern.edu/faculty/): link labelled 'Group Website', shown beside the PI's name. Depth pass 2026-11-17: Counted names above Alumni on the People page."
     }
   ],
   "non_lab_people": [],

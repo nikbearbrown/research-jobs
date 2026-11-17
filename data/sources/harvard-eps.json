@@ -50,7 +50,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Bloxham Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Bloxham Group', which names the PI and the lab. Depth pass 2026-11-17: Group page on eps.harvard.edu lists only the PI (Bloxham) under Researchers plus a shared group coordinator, so no lab roster is shown."
     },
     {
       "id": "harvard-eps-nadja-drabon",
@@ -66,13 +66,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 graduate students, 1 research staff, 1 volunteer",
+      "members_page_url": "https://eps.harvard.edu/research-group/drabon-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Drabon Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Drabon Group', which names the PI and the lab. Depth pass 2026-11-17: Counted from the Researchers list on the department's Drabon Group page; the page's side list omits the volunteer (5 names); shared group coordinator not counted."
     },
     {
       "id": "harvard-eps-brian-f-farrell",
@@ -110,13 +110,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 other researchers (roles not given, one is a graduate student)",
+      "members_page_url": "https://eps.harvard.edu/research-group/fischer-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Fischer Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Fischer Group', which names the PI and the lab. Depth pass 2026-11-17: Counted from the Researchers list on the department's Fischer Group page; group coordinator not counted."
     },
     {
       "id": "harvard-eps-roger-fu",
@@ -154,13 +154,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 5 other researchers (roles not given, one is a graduate student)",
+      "members_page_url": "https://eps.harvard.edu/research-group/huybers-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Huybers Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Huybers Group', which names the PI and the lab. Depth pass 2026-11-17: Counted from the Researchers list on the department's Huybers Group page; an older body list names Anna Lea Albright, who is not in the department directory, so she was not counted."
     },
     {
       "id": "harvard-eps-miaki-ishii",
@@ -176,13 +176,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 other researchers (roles not given, two are graduate students)",
+      "members_page_url": "https://eps.harvard.edu/research-group/ishii-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Ishii Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Ishii Group', which names the PI and the lab. Depth pass 2026-11-17: Counted from the Researchers list on the department's Ishii Group page; group coordinator not counted."
     },
     {
       "id": "harvard-eps-daniel-jacob",
@@ -190,7 +190,7 @@
       "lab_name": null,
       "pi_name": "Daniel Jacob",
       "pi_title": "Vasco McCoy Family Professor of Atmospheric Chemistry and Environmental Engineering",
-      "pi_email": null,
+      "pi_email": "djacob@fas.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://eps.harvard.edu/research-group/jacob-group/",
       "location": null,
@@ -198,13 +198,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/jacob-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Jacob Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Jacob Group', which names the PI and the lab. Depth pass 2026-11-17: Researchers list on the EPS research-group page (PI included); faculty coordinator not counted."
     },
     {
       "id": "harvard-eps-stein-jacobsen",
@@ -220,13 +220,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 8 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/jacobsen-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Jacobsen Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Jacobsen Group', which names the PI and the lab. Depth pass 2026-11-17: Researchers list on the EPS research-group page (PI included); group coordinator not counted."
     },
     {
       "id": "harvard-eps-david-johnston",
@@ -242,13 +242,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/johnston-lab/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Johnston Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Johnston Group', which names the PI and the lab. Depth pass 2026-11-17: Researchers list on the EPS research-group page (PI included); group coordinator not counted."
     },
     {
       "id": "harvard-eps-frank-keutsch",
@@ -286,13 +286,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 10,
+      "member_breakdown": "1 PI, 9 others (postdocs, students, associates)",
+      "members_page_url": "https://eps.harvard.edu/research-group/kuang-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Kuang Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Kuang Group', which names the PI and the lab. Depth pass 2026-11-17: Union of the page's Researchers list (7 names incl. PI) and the free-text list (4 researchers, 1 postdoc, 2 associates); 10 distinct names. Associates (Chan, Ma) may be external collaborators."
     },
     {
       "id": "harvard-eps-charles-langmuir",
@@ -300,7 +300,7 @@
       "lab_name": null,
       "pi_name": "Charles Langmuir",
       "pi_title": "Higgins Professor of Geochemistry",
-      "pi_email": null,
+      "pi_email": "langmuir@eps.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://eps.harvard.edu/research-group/langmuir-group/",
       "location": null,
@@ -308,13 +308,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 lab manager, 3 graduate students, 1 postdoc",
+      "members_page_url": "https://eps.harvard.edu/research-group/langmuir-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Langmuir Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Langmuir Group', which names the PI and the lab. Depth pass 2026-11-17: Union of the free-text Researchers list (lab manager, 3 grad students, postdoc) and the structured list; PI added."
     },
     {
       "id": "harvard-eps-marianna-linz",
@@ -322,7 +322,7 @@
       "lab_name": null,
       "pi_name": "Marianna Linz",
       "pi_title": "Assistant Professor of Environmental Science and Engineering; Assistant Professor of Earth and Planetary Sciences",
-      "pi_email": null,
+      "pi_email": "mlinz@seas.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://eps.harvard.edu/research-group/linz-group/",
       "location": null,
@@ -330,13 +330,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 researcher",
+      "members_page_url": "https://eps.harvard.edu/research-group/linz-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Linz Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Linz Group', which names the PI and the lab. Depth pass 2026-11-17: Researchers list shows one name (Ariana Castillo); PI not in list, added 1."
     },
     {
       "id": "harvard-eps-scot-t-martin",
@@ -344,7 +344,7 @@
       "lab_name": null,
       "pi_name": "Scot T. Martin",
       "pi_title": "Gordon McKay Professor of Environmental Science and Engineering; Professor of Earth and Planetary Sciences",
-      "pi_email": null,
+      "pi_email": "smartin@seas.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://eps.harvard.edu/research-group/martin-group/",
       "location": null,
@@ -358,7 +358,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Martin Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Martin Group', which names the PI and the lab. Depth pass 2026-11-17: Page names only the PI and a faculty coordinator; the Researchers list is empty, so no count."
     },
     {
       "id": "harvard-eps-kaighin-mccoll",
@@ -374,13 +374,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/mccoll-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'McColl Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'McColl Group', which names the PI and the lab. Depth pass 2026-11-17: Researchers list on the EPS research-group page (PI included)."
     },
     {
       "id": "harvard-eps-brendan-meade",
@@ -396,13 +396,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/meade-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Meade Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Meade Group', which names the PI and the lab. Depth pass 2026-11-17: Researchers list on the EPS research-group page (PI included)."
     },
     {
       "id": "harvard-eps-jerry-mitrovica",
@@ -418,13 +418,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/mitrovica-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Mitrovica Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Mitrovica Group', which names the PI and the lab. Depth pass 2026-11-17: Researchers list on the EPS research-group page (PI included)."
     },
     {
       "id": "harvard-eps-mostafa-mousavi",
@@ -506,13 +506,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/pearson-lab/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Pearson Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Pearson Group', which names the PI and the lab. Depth pass 2026-11-17: Researchers list on the EPS research-group page (PI included)."
     },
     {
       "id": "harvard-eps-dimitar-sasselov",
@@ -542,7 +542,7 @@
       "lab_name": null,
       "pi_name": "Daniel Schrag",
       "pi_title": "Sturgis Hooper Professor of Geology; Professor of Environmental Science and Engineering; Co-Director of the Science, Technology, and Public Policy Program",
-      "pi_email": null,
+      "pi_email": "schrag@eps.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://eps.harvard.edu/research-group/schrag-group/",
       "location": null,
@@ -556,7 +556,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Schrag Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Schrag Group', which names the PI and the lab. Depth pass 2026-11-17: Page lists only the PI (Researchers list has just Schrag) plus a faculty coordinator; no count."
     },
     {
       "id": "harvard-eps-john-shaw",
@@ -572,13 +572,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/shaw-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Shaw Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Shaw Group', which names the PI and the lab. Depth pass 2026-11-17: Researchers list on the EPS research-group page (PI included)."
     },
     {
       "id": "harvard-eps-fiamma-straneo",
@@ -586,7 +586,7 @@
       "lab_name": null,
       "pi_name": "Fiamma Straneo",
       "pi_title": "Gordon McKay Professor of Environmental Science and Engineering; Professor of Earth and Planetary Sciences",
-      "pi_email": null,
+      "pi_email": "fstraneo@seas.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://eps.harvard.edu/research-group/straneo-group/",
       "location": null,
@@ -594,13 +594,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 9,
+      "member_breakdown": "1 PI, 5 researchers, 3 UCSD graduate students",
+      "members_page_url": "https://eps.harvard.edu/research-group/straneo-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Straneo Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Straneo Group', which names the PI and the lab. Depth pass 2026-11-17: Structured list has 5 researchers (PI not in it, added 1); free-text Researchers list adds 3 UCSD graduate students."
     },
     {
       "id": "harvard-eps-elsie-sunderland",
@@ -608,7 +608,7 @@
       "lab_name": null,
       "pi_name": "Elsie Sunderland",
       "pi_title": "Fred Kavli Professor of Environmental Chemistry; Professor of Earth and Planetary Sciences",
-      "pi_email": null,
+      "pi_email": "ems@seas.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://eps.harvard.edu/research-group/sunderland-group/",
       "location": null,
@@ -616,13 +616,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/sunderland-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Sunderland Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Sunderland Group', which names the PI and the lab. Depth pass 2026-11-17: Researchers list shows 3 names; PI not in list, added 1."
     },
     {
       "id": "harvard-eps-eli-tziperman",
@@ -638,13 +638,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 graduate students, 1 postdoc",
+      "members_page_url": "https://eps.harvard.edu/research-group/tziperman-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Tziperman Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Tziperman Group', which names the PI and the lab. Depth pass 2026-11-17: Union of free-text list (3 grad students, 1 postdoc) and structured list (adds PI)."
     },
     {
       "id": "harvard-eps-kevin-uno",
@@ -652,7 +652,7 @@
       "lab_name": null,
       "pi_name": "Kevin Uno",
       "pi_title": "Associate Professor of Human Evolutionary Biology; Affiliated Faculty Member of Earth and Planetary Sciences",
-      "pi_email": null,
+      "pi_email": "kevinuno@fas.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://eps.harvard.edu/research-group/uno-group/",
       "location": null,
@@ -660,13 +660,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/uno-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Uno Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Uno Group', which names the PI and the lab. Depth pass 2026-11-17: Researchers list on the EPS research-group page (PI included)."
     },
     {
       "id": "harvard-eps-steven-wofsy",
@@ -674,7 +674,7 @@
       "lab_name": null,
       "pi_name": "Steven Wofsy",
       "pi_title": "Abbott Lawrence Rotch Professor of Atmospheric and Environmental Science",
-      "pi_email": null,
+      "pi_email": "wofsy@g.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://eps.harvard.edu/research-group/wofsy-group/",
       "location": null,
@@ -682,13 +682,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/wofsy-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Wofsy Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Wofsy Group', which names the PI and the lab. Depth pass 2026-11-17: Researchers list shows 3 names; PI not in list, added 1."
     },
     {
       "id": "harvard-eps-robin-wordsworth",
@@ -696,7 +696,7 @@
       "lab_name": null,
       "pi_name": "Robin Wordsworth",
       "pi_title": "Gordon McKay Professor of Environmental Science and Engineering; Professor of Earth and Planetary Sciences; Co-Director of Graduate Studies",
-      "pi_email": null,
+      "pi_email": "rwordsworth@seas.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://eps.harvard.edu/research-group/wordsworth-group/",
       "location": null,
@@ -704,13 +704,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/wordsworth-group/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Wordsworth Group', which names the PI and the lab."
+      "notes": "Breadth pass: name/title from the department directory listing only; lab site, email and member count not yet read (depth pass pending). Depth pass 2026-11-17: lab_website read from the department's labs listing (https://eps.harvard.edu/research/research-groups/): link labelled 'Wordsworth Group', which names the PI and the lab. Depth pass 2026-11-17: Researchers list on the EPS research-group page (PI included)."
     }
   ],
   "non_lab_people": [

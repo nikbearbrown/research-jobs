@@ -1,0 +1,1997 @@
+[
+  {
+    "source": "data/sources/bc-psychology-neuroscience.json",
+    "lab_id": "bc-psychology-neuroscience-kengthsagn-louis",
+    "fields": {
+      "member_count": 19,
+      "member_breakdown": "1 PI, 1 lab manager, 2 graduate students, 2 postdocs, 13 research assistants",
+      "members_page_url": "https://www.bc.edu/content/bc-web/schools/morrissey/departments/psychology-neuroscience/labs/shic-lab/shic-lab.html",
+      "join_page_url": null,
+      "join_notes": "Not accepting RA applications for 2026-2027; RA interest form goes to the lab; PhD applicants apply through the BC Psychology and Neuroscience doctoral program.",
+      "pi_email": "kengthsagn.louis@bc.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Our Team section of the people page; alumni excluded."
+  },
+  {
+    "source": "data/sources/bc-psychology-neuroscience.json",
+    "lab_id": "bc-psychology-neuroscience-scott-slotnick",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 graduate students, 7 research assistants",
+      "members_page_url": "https://sites.google.com/bc.edu/sd-slotnick/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": "sd.slotnick@bc.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the People page; alumni excluded; the long Undergraduate Research Assistants list looks historical (includes people shown as alumni), so it was left out."
+  },
+  {
+    "source": "data/sources/brandeis-chemistry.json",
+    "lab_id": "brandeis-chemistry-hyunjun-yang",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 graduate students, 2 undergraduates",
+      "members_page_url": "https://denovoproteindesign.com/people.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": "yanghj@brandeis.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the People page (dated April 2026); alumni excluded."
+  },
+  {
+    "source": "data/sources/brandeis-psychology.json",
+    "lab_id": "brandeis-psychology-anne-berry",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 4 research staff, 2 postdoctoral fellows, 2 PhD students, 2 master's students, 4 undergraduate RAs",
+      "members_page_url": "https://www.brandeis.edu/psychology/neurochemistry-cognition/people.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": "anneberry@brandeis.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted from Meet the Team; alumni excluded."
+  },
+  {
+    "source": "data/sources/brandeis-psychology.json",
+    "lab_id": "brandeis-psychology-paul-dizio",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: The Ashton Graybiel Spatial Orientation Laboratory is co-directed by James Lackner and Paul DiZio (shared multi-PI lab); its Current Members page lists 2 directors, 6 staff and 3 graduate students."
+  },
+  {
+    "source": "data/sources/brandeis-psychology.json",
+    "lab_id": "brandeis-psychology-angela-gutchess",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoc, 3 PhD students, 2 master's students, 1 lab manager, 3 undergraduate RAs",
+      "members_page_url": "https://www.brandeis.edu/gutchess/people/index.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": "gutchess@brandeis.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Lab Members page."
+  },
+  {
+    "source": "data/sources/brandeis-psychology.json",
+    "lab_id": "brandeis-psychology-james-howard",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 4 PhD candidates, 1 master's candidate, 2 undergraduates",
+      "members_page_url": "https://www.thehowardlab.org/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": "jameshoward@brandeis.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the People page; alumni excluded."
+  },
+  {
+    "source": "data/sources/brandeis-psychology.json",
+    "lab_id": "brandeis-psychology-shantanu-jadhav",
+    "fields": {
+      "member_count": 18,
+      "member_breakdown": "1 PI, 5 postdocs (1 joint with Katz lab), 5 graduate students (2 joint), 1 research technician, 2 master's students, 4 undergraduates",
+      "members_page_url": "https://jadhavlab.com/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the People page; alumni excluded; PI email on the page is written with a space so it was not recorded."
+  },
+  {
+    "source": "data/sources/brandeis-psychology.json",
+    "lab_id": "brandeis-psychology-donald-katz",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 3 postdocs, 7 graduate students, 1 lab manager",
+      "members_page_url": "https://katzlab.squarespace.com/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": "dbkatz@brandeis.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Current members lists on the People page; page looks dated (has an AChemS Posters 2023 menu item) but lists current members."
+  },
+  {
+    "source": "data/sources/brandeis-psychology.json",
+    "lab_id": "brandeis-psychology-margie-lachman",
+    "fields": {},
+    "note": "Cached people page shows only the director (Lachman); grad students, postdocs, lab manager and undergraduate RAs are on separate subpages (5 pages) beyond the 2-fetch limit, so no count."
+  },
+  {
+    "source": "data/sources/brandeis-psychology.json",
+    "lab_id": "brandeis-psychology-hannah-r-snyder",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 2 research assistants, 4 PhD students, 4 undergraduates",
+      "members_page_url": "https://www.brandeis.edu/psychology/cope-lab/people/index.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": "hrsnyder@brandeis.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Lab Members page; Honors Thesis Students section is empty; alumni excluded."
+  },
+  {
+    "source": "data/sources/bu-psych.json",
+    "lab_id": "bu-psych-peter-blake",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI (lab director), 2 graduate students, 11 research assistants",
+      "members_page_url": "https://www.bu.edu/cdl/sdll/meet-our-staff/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from Meet Our Staff (fetched from the lab page's link); lab mascots not counted."
+  },
+  {
+    "source": "data/sources/bu-psych.json",
+    "lab_id": "bu-psych-catherine-caldwell-harris",
+    "fields": {
+      "member_count": 20,
+      "member_breakdown": "1 PI, 3 graduate students, 2 post-baccalaureate RAs, 14 undergraduates/interns",
+      "members_page_url": "https://sites.bu.edu/caldwell-harris-lab/about-us/members/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Lab Members page; alumni not on this page."
+  },
+  {
+    "source": "data/sources/bu-psych.json",
+    "lab_id": "bu-psych-deborah-kelemen",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoc, 2 graduate students, 1 research assistant, 6 undergraduate RAs",
+      "members_page_url": "https://www.bu.edu/cdl/ccl/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Child Cognition Lab People page; lab guinea pig not counted."
+  },
+  {
+    "source": "data/sources/bu-psych.json",
+    "lab_id": "bu-psych-kristin-long",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI (director), 5 graduate students, 4 undergraduates",
+      "members_page_url": "https://sites.bu.edu/childandfamilyhealth/about-us/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": "kalong@bu.edu",
+      "accepting_grad_students": false
+    },
+    "note": "Counted from the About Us page (fetched from the lab page's link); alumni excluded; home page says Dr. Long is not accepting new doctoral applicants for 2027/2028."
+  },
+  {
+    "source": "data/sources/bu-psych.json",
+    "lab_id": "bu-psych-tara-mandalaywala",
+    "fields": {},
+    "note": "Members page mixes statuses: two people titled Graduate Student are described as recent graduates and also appear in the alumni list, and several RAs are described as recent graduates, so current members cannot be told."
+  },
+  {
+    "source": "data/sources/bu-psych.json",
+    "lab_id": "bu-psych-joseph-mcguire",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 1 research assistant professor, 1 joint postdoc, 3 PhD students, 2 undergraduates",
+      "members_page_url": "https://sites.bu.edu/cdlab/lab-members/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Roster lists 7 people (Fall 2026); PI (Joseph McGuire, site has a Director page) is not on the roster so 1 was added."
+  },
+  {
+    "source": "data/sources/bu-psych.json",
+    "lab_id": "bu-psych-heidi-meyer",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 1 research technician/lab manager, 4 graduate students, 3 undergraduate RAs",
+      "members_page_url": "https://www.meyerlabneuro.com/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": "hcmeyer@bu.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Team page; alumni excluded."
+  },
+  {
+    "source": "data/sources/bu-psych.json",
+    "lab_id": "bu-psych-david-somers",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 graduate students",
+      "members_page_url": "https://sites.bu.edu/fmri/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the People page; alumni excluded."
+  },
+  {
+    "source": "data/sources/bu-psych.json",
+    "lab_id": "bu-psych-james-cherry",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://sites.bu.edu/cherrylab/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Count not kept: the current list names only one research collaborator besides the PI (the page lists 2). Current section of the People page lists only one person (Michael Baum, Research Collaborator); PI not listed so 1 was added; the rest of the page is alumni."
+  },
+  {
+    "source": "data/sources/bu-pulmonary.json",
+    "lab_id": "bu-pulmonary-konstantinos-d-alysandratos",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 3 postdocs/post-doctoral fellows, 1 pulmonary fellow, 1 resident physician, 1 PhD student, 1 lab manager, 1 undergraduate RA",
+      "members_page_url": "https://sites.bu.edu/alysandratoslab/lab-members/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Lab Members page; former members are on a separate page."
+  },
+  {
+    "source": "data/sources/bu-pulmonary.json",
+    "lab_id": "bu-pulmonary-mark-w-grinstaff",
+    "fields": {
+      "member_count": 32,
+      "member_breakdown": "1 PI, 29 graduate students, 2 postdocs",
+      "members_page_url": "http://www.grinstaff.org/members.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Members page; collaborators and alumni excluded; PI is not on the roster so 1 was added."
+  },
+  {
+    "source": "data/sources/bu-pulmonary.json",
+    "lab_id": "bu-pulmonary-darrell-n-kotton",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 2 other faculty, 2 staff, 3 postdoctoral fellows, 5 graduate students",
+      "members_page_url": "https://www.bumc.bu.edu/kottonlab/our-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from Our Team."
+  },
+  {
+    "source": "data/sources/bu-pulmonary.json",
+    "lab_id": "bu-pulmonary-marc-e-lenburg",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: The site is the joint Spira-Lenburg lab of two PIs, and the cached people page is the Computational Biomedicine department roster, not this lab's."
+  },
+  {
+    "source": "data/sources/bu-pulmonary.json",
+    "lab_id": "bu-pulmonary-gustavo-mostoslavsky",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 2 graduate students, 1 undergraduate, 1 lab manager",
+      "members_page_url": "https://www.mostoslavskylab.com/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Lab Members section on the home page; alumni excluded; PI added by the same page."
+  },
+  {
+    "source": "data/sources/bu-pulmonary.json",
+    "lab_id": "bu-pulmonary-george-j-murphy",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 team members",
+      "members_page_url": "https://murphylaboratory.com/category/people/team-members/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Team Members page shows 4 people with no roles and no pager; PI has his own page and is not in the list so 1 was added."
+  },
+  {
+    "source": "data/sources/bu-pulmonary.json",
+    "lab_id": "bu-pulmonary-hadi-t-nia",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 2 MD/PhD students, 1 PhD student, 1 master's student, 3 postdocs, 1 engineer, 1 research fellow, 1 visiting scientist",
+      "members_page_url": "https://nia-lab.com/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": "htnia@bu.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted from Current members on the People page."
+  },
+  {
+    "source": "data/sources/bu-se.json",
+    "lab_id": "bu-se-sean-andersson",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 1 postdoc, 6 graduate students, 3 undergraduates",
+      "members_page_url": "https://www.bu.edu/anderssonlab/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from Current Members on the People page; alumni excluded."
+  },
+  {
+    "source": "data/sources/bu-se.json",
+    "lab_id": "bu-se-lev-levitin",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: The Reliable Computing Laboratory lists two associated faculty (Karpovsky and Levitin), so it is co-led, and its student list mixes current and recent."
+  },
+  {
+    "source": "data/sources/bu-se.json",
+    "lab_id": "bu-se-sandor-vajda",
+    "fields": {},
+    "note": "Not sized, the site could not be read: vajdalab.org timed out on the first cached attempt and again on one more fetch."
+  },
+  {
+    "source": "data/sources/dana-farber-data-science.json",
+    "lab_id": "dana-farber-data-science-franziska-michor",
+    "fields": {
+      "member_count": 19,
+      "member_breakdown": "1 PI, 6 postdoctoral fellows, 2 graduate students, 1 MD-PhD student, 4 master's students, 4 undergraduates, 1 research technician",
+      "members_page_url": "http://michorlab.dfci.harvard.edu/our-lab/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": "michor@jimmy.harvard.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Our Lab page, fetched from the home page link."
+  },
+  {
+    "source": "data/sources/dana-farber-data-science.json",
+    "lab_id": "dana-farber-data-science-giovanni-parmigiani",
+    "fields": {},
+    "note": "Not sized, the site could not be read: The cached page is an Akamai Access Denied error. The site refuses the project's fetcher; not worked around."
+  },
+  {
+    "source": "data/sources/dana-farber-data-science.json",
+    "lab_id": "dana-farber-data-science-lorenzo-trippa",
+    "fields": {},
+    "note": "Not sized, the site could not be read: The cached page says the specified URL cannot be found."
+  },
+  {
+    "source": "data/sources/dana-farber-data-science.json",
+    "lab_id": "dana-farber-data-science-martin-aryee",
+    "fields": {},
+    "note": "Home page only describes research and has no people page link (home, publications, teaching, contact); no members listed."
+  },
+  {
+    "source": "data/sources/dana-farber-data-science.json",
+    "lab_id": "dana-farber-data-science-sahand-hormoz",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 1 research scientist, 6 postdoctoral fellows, 3 graduate students, 1 research assistant, 1 lab technician, 2 operations staff (manager, administrator)",
+      "members_page_url": "https://hormoz.dfci.harvard.edu/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Current lab section of the People page (fetched after the cached home page failed); alumni excluded."
+  },
+  {
+    "source": "data/sources/dana-farber-data-science.json",
+    "lab_id": "dana-farber-data-science-bill-lotter",
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 8 PhD students, 1 MD student, 1 MMSc student, 1 computational biologist, 1 research associate, 1 undergraduate, 1 visiting graduate student",
+      "members_page_url": "https://lotterlab.github.io/members.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Members page; alumni excluded; Myla Lotter, listed without a role just above the alumni heading, was not counted."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-jeremy-bloxham",
+    "fields": {},
+    "note": "Group page on eps.harvard.edu lists only the PI (Bloxham) under Researchers plus a shared group coordinator, so no lab roster is shown."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-nadja-drabon",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 3 graduate students, 1 research staff, 1 volunteer",
+      "members_page_url": "https://eps.harvard.edu/research-group/drabon-group/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Researchers list on the department's Drabon Group page; the page's side list omits the volunteer (5 names); shared group coordinator not counted."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-rebecca-fischer",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 other researchers (roles not given, one is a graduate student)",
+      "members_page_url": "https://eps.harvard.edu/research-group/fischer-group/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Researchers list on the department's Fischer Group page; group coordinator not counted."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-peter-huybers",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 5 other researchers (roles not given, one is a graduate student)",
+      "members_page_url": "https://eps.harvard.edu/research-group/huybers-group/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Researchers list on the department's Huybers Group page; an older body list names Anna Lea Albright, who is not in the department directory, so she was not counted."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-miaki-ishii",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 other researchers (roles not given, two are graduate students)",
+      "members_page_url": "https://eps.harvard.edu/research-group/ishii-group/",
+      "join_page_url": null,
+      "join_notes": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted from the Researchers list on the department's Ishii Group page; group coordinator not counted."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-daniel-jacob",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/jacob-group/",
+      "pi_email": "djacob@fas.harvard.edu"
+    },
+    "note": "Researchers list on the EPS research-group page (PI included); faculty coordinator not counted."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-stein-jacobsen",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 8 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/jacobsen-group/"
+    },
+    "note": "Researchers list on the EPS research-group page (PI included); group coordinator not counted."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-david-johnston",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/johnston-lab/"
+    },
+    "note": "Researchers list on the EPS research-group page (PI included); group coordinator not counted."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-zhiming-kuang",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 9 others (postdocs, students, associates)",
+      "members_page_url": "https://eps.harvard.edu/research-group/kuang-group/"
+    },
+    "note": "Union of the page's Researchers list (7 names incl. PI) and the free-text list (4 researchers, 1 postdoc, 2 associates); 10 distinct names. Associates (Chan, Ma) may be external collaborators."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-charles-langmuir",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 lab manager, 3 graduate students, 1 postdoc",
+      "members_page_url": "https://eps.harvard.edu/research-group/langmuir-group/",
+      "pi_email": "langmuir@eps.harvard.edu"
+    },
+    "note": "Union of the free-text Researchers list (lab manager, 3 grad students, postdoc) and the structured list; PI added."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-marianna-linz",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 PI, 1 researcher",
+      "members_page_url": "https://eps.harvard.edu/research-group/linz-group/",
+      "pi_email": "mlinz@seas.harvard.edu"
+    },
+    "note": "Researchers list shows one name (Ariana Castillo); PI not in list, added 1."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-scot-t-martin",
+    "fields": {
+      "pi_email": "smartin@seas.harvard.edu"
+    },
+    "note": "Page names only the PI and a faculty coordinator; the Researchers list is empty, so no count."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-kaighin-mccoll",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/mccoll-group/"
+    },
+    "note": "Researchers list on the EPS research-group page (PI included)."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-brendan-meade",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/meade-group/"
+    },
+    "note": "Researchers list on the EPS research-group page (PI included)."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-jerry-mitrovica",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/mitrovica-group/"
+    },
+    "note": "Researchers list on the EPS research-group page (PI included)."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-ann-pearson",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/pearson-lab/"
+    },
+    "note": "Researchers list on the EPS research-group page (PI included)."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-daniel-schrag",
+    "fields": {
+      "pi_email": "schrag@eps.harvard.edu"
+    },
+    "note": "Page lists only the PI (Researchers list has just Schrag) plus a faculty coordinator; no count."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-john-shaw",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 4 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/shaw-group/"
+    },
+    "note": "Researchers list on the EPS research-group page (PI included)."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-fiamma-straneo",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 5 researchers, 3 UCSD graduate students",
+      "members_page_url": "https://eps.harvard.edu/research-group/straneo-group/",
+      "pi_email": "fstraneo@seas.harvard.edu"
+    },
+    "note": "Structured list has 5 researchers (PI not in it, added 1); free-text Researchers list adds 3 UCSD graduate students."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-elsie-sunderland",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/sunderland-group/",
+      "pi_email": "ems@seas.harvard.edu"
+    },
+    "note": "Researchers list shows 3 names; PI not in list, added 1."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-eli-tziperman",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 3 graduate students, 1 postdoc",
+      "members_page_url": "https://eps.harvard.edu/research-group/tziperman-group/"
+    },
+    "note": "Union of free-text list (3 grad students, 1 postdoc) and structured list (adds PI)."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-kevin-uno",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/uno-group/",
+      "pi_email": "kevinuno@fas.harvard.edu"
+    },
+    "note": "Researchers list on the EPS research-group page (PI included)."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-steven-wofsy",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/wofsy-group/",
+      "pi_email": "wofsy@g.harvard.edu"
+    },
+    "note": "Researchers list shows 3 names; PI not in list, added 1."
+  },
+  {
+    "source": "data/sources/harvard-eps.json",
+    "lab_id": "harvard-eps-robin-wordsworth",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 researchers",
+      "members_page_url": "https://eps.harvard.edu/research-group/wordsworth-group/",
+      "pi_email": "rwordsworth@seas.harvard.edu"
+    },
+    "note": "Researchers list on the EPS research-group page (PI included)."
+  },
+  {
+    "source": "data/sources/harvard-hsph-environmental-health.json",
+    "lab_id": "harvard-hsph-environmental-health-david-c-christiani",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 9 team members (research specialists, students, scientists, data manager, associates)",
+      "members_page_url": "https://hsph.harvard.edu/research/christiani-lab/team",
+      "pi_email": "dchris@hsph.harvard.edu"
+    },
+    "note": "Team page lists the PI and 9 members; one (Mulong Du) has a bio saying he is now at Nanjing but is still listed."
+  },
+  {
+    "source": "data/sources/harvard-hsph-environmental-health.json",
+    "lab_id": "harvard-hsph-environmental-health-russ-hauser",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 3 current lab members",
+      "members_page_url": "https://hsph.harvard.edu/research/hauser-lab/",
+      "pi_email": "rhauser@hsph.harvard.edu"
+    },
+    "note": "Counted PI plus the 3 under Current Lab Members; co-investigators (other faculty) and former members excluded."
+  },
+  {
+    "source": "data/sources/harvard-hsph-environmental-health.json",
+    "lab_id": "harvard-hsph-environmental-health-francine-laden",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: SpaCE2 Lab is co-led by three PIs (Laden, Hart, James), so not one PI's group."
+  },
+  {
+    "source": "data/sources/harvard-hsph-environmental-health.json",
+    "lab_id": "harvard-hsph-environmental-health-shruthi-mahalingaiah",
+    "fields": {
+      "member_count": 14,
+      "member_breakdown": "1 PI, 5 clinical fellows, 2 postdocs, 2 PhD students, 2 research assistants, 1 research associate, 1 data scientist",
+      "members_page_url": "https://hsph.harvard.edu/research/mahalingaiah-lab/our-team/"
+    },
+    "note": "Our Team page lists 13 team members plus the PI."
+  },
+  {
+    "source": "data/sources/harvard-hsph-environmental-health.json",
+    "lab_id": "harvard-hsph-environmental-health-amruta-nori-sarma",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 PI, 2 postdocs",
+      "members_page_url": "https://hsph.harvard.edu/research/nori-lab/people/",
+      "pi_email": "anori-sarma@hsph.harvard.edu"
+    },
+    "note": "People page: PI plus 2 postdoctoral fellows."
+  },
+  {
+    "source": "data/sources/harvard-hsph-environmental-health.json",
+    "lab_id": "harvard-hsph-environmental-health-kristopher-sarosiek",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 5 graduate students, 4 postdocs, 1 technician, 1 undergraduate student",
+      "members_page_url": "https://hsph.harvard.edu/research/sarosiek-lab/lab-team-2/",
+      "pi_email": "sarosiek@hsph.harvard.edu",
+      "join_page_url": "https://hsph.harvard.edu/research/sarosiek-lab/",
+      "join_notes": "Home page invites postdocs to email the PI with CV, 3 references and a cover letter; Harvard grad students may email CV and interests."
+    },
+    "note": "Count from the lab's Lab Members page (fetched), Current section; alumni excluded. Postdocs: Gebru, Qin, Yamaguchi, Zhu."
+  },
+  {
+    "source": "data/sources/harvard-hsph-nutrition.json",
+    "lab_id": "harvard-hsph-nutrition-christopher-golden",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 5 postdocs, 5 students, 1 research staff, 3 supervised researchers",
+      "members_page_url": "https://hsph.harvard.edu/?post_type=rcil&p=129515&preview=true",
+      "pi_email": "golden@hsph.harvard.edu"
+    },
+    "note": "People page; alumni excluded."
+  },
+  {
+    "source": "data/sources/harvard-hsph-nutrition.json",
+    "lab_id": "harvard-hsph-nutrition-erica-kenney",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 administrative staff, 9 team members",
+      "members_page_url": "https://hsph.harvard.edu/research/kenney-group/our-team/"
+    },
+    "note": "Our Team page: PI, project manager, coordinator and 9 team members."
+  },
+  {
+    "source": "data/sources/harvard-hsph-nutrition.json",
+    "lab_id": "harvard-hsph-nutrition-josiemer-mattei",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 1 coordinator, 10 research team members",
+      "members_page_url": "https://hsph.harvard.edu/research/mattei-group/our-team/"
+    },
+    "note": "Our Team page: PI, coordinator and 10 current members."
+  },
+  {
+    "source": "data/sources/mgh-cgm.json",
+    "lab_id": "mgh-cgm-bo-rueda",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 2 postdoctoral fellows, 2 technicians, 1 student",
+      "members_page_url": "https://research.massgeneralbrigham.org/en/institutes-centers/obgyn/vincent-center-for-reproductive-biology/rueda-lab",
+      "pi_email": "brueda@mgh.harvard.edu"
+    },
+    "note": "Research Team section; PI added (team leader). The student also works in the Sarosiek lab."
+  },
+  {
+    "source": "data/sources/mit-mtl.json",
+    "lab_id": "mit-mtl-duane-boning",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 1 project coordinator, 3 research assistants (PhD students)",
+      "members_page_url": "https://boning.mit.edu/group/"
+    },
+    "note": "Count from the lab's Group Members page (fetched); past students excluded."
+  },
+  {
+    "source": "data/sources/mit-mtl.json",
+    "lab_id": "mit-mtl-anantha-chandrakasan",
+    "fields": {},
+    "note": "Not sized, the site could not be read: Page returns Error 404 (Object not found)."
+  },
+  {
+    "source": "data/sources/mit-mtl.json",
+    "lab_id": "mit-mtl-ruonan-han",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI, 11 PhD students, 2 M.Eng. students, 3 undergraduates",
+      "members_page_url": "https://hangroup.mit.edu/people/"
+    },
+    "note": "People page says 16 current members (students only); PI added."
+  },
+  {
+    "source": "data/sources/mit-mtl.json",
+    "lab_id": "mit-mtl-tomas-palacios",
+    "fields": {},
+    "note": "Group Members page (fetched) mixes current and graduated people, incoming 'New Student Fall 2026' slots, a 'TBD' placeholder and unnamed entries, so current members can't be told reliably."
+  },
+  {
+    "source": "data/sources/mit-mtl.json",
+    "lab_id": "mit-mtl-luis-velasquez-garcia",
+    "fields": {
+      "pi_email": "lfvelasq@mit.edu"
+    },
+    "note": "Roster is split across separate Postdocs, Graduate Students, Undergrad Students and Visitors pages; the cached page shows none, and reading all would exceed the fetch limit."
+  },
+  {
+    "source": "data/sources/mit-orc.json",
+    "lab_id": "mit-orc-saurabh-amin",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 3 postdocs, 6 PhD students, 1 master's student",
+      "members_page_url": "https://resil.mit.edu/people/current-lab-members/",
+      "pi_email": "amins@mit.edu"
+    },
+    "note": "Count from the Current Lab Members page (fetched); PI added."
+  },
+  {
+    "source": "data/sources/mit-orc.json",
+    "lab_id": "mit-orc-negin-golrezaei",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 4 PhD students",
+      "members_page_url": "http://www.mit.edu/~golrezae/students.html",
+      "pi_email": "golrezae@mit.edu"
+    },
+    "note": "Current postdoc and PhD students listed; alumni excluded; PI added."
+  },
+  {
+    "source": "data/sources/mit-orc.json",
+    "lab_id": "mit-orc-rahul-mazumder",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 12 current students (PhD and MS)",
+      "members_page_url": "http://www.mit.edu/~rahulmaz/students.html"
+    },
+    "note": "Count from the Research Group page (fetched); former students excluded; the undergraduate list is not counted (not clearly current)."
+  },
+  {
+    "source": "data/sources/mit-orc.json",
+    "lab_id": "mit-orc-asuman-ozdaglar",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 PI, 6 graduate students, 2 postdocs",
+      "members_page_url": "https://asu.mit.edu/research-group/",
+      "pi_email": "asuman@mit.edu"
+    },
+    "note": "Count from the Research Group page (fetched); page is undated, so it may be old."
+  },
+  {
+    "source": "data/sources/mit-orc.json",
+    "lab_id": "mit-orc-pablo-parrilo",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 8 current students, 1 postdoc",
+      "members_page_url": "http://www.mit.edu/~parrilo/group.html"
+    },
+    "note": "Group page says 'under construction'; counts current students and postdoc, some joint with other faculty; former members excluded."
+  },
+  {
+    "source": "data/sources/mit-orc.json",
+    "lab_id": "mit-orc-andy-sun",
+    "fields": {
+      "member_count": 7,
+      "member_breakdown": "1 PI, 5 PhD students, 1 undergraduate",
+      "members_page_url": "https://sites.google.com/view/asunlab/students",
+      "pi_email": "sunx@mit.edu"
+    },
+    "note": "Count from the Students page (fetched); alumni excluded; postdoc and master's sections are empty."
+  },
+  {
+    "source": "data/sources/mit-orc.json",
+    "lab_id": "mit-orc-navid-azizan",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI, 9 PhD students, 1 visiting student",
+      "members_page_url": "https://azizan.mit.edu/group.html"
+    },
+    "note": "Current Members section; alumni and affiliate members excluded."
+  },
+  {
+    "source": "data/sources/mit-orc.json",
+    "lab_id": "mit-orc-stephen-bates",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI (not listed, added), 3 postdocs, 9 PhD students",
+      "members_page_url": "https://stephenbates19.github.io/group.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "12 names under current Research group heading (alumni excluded) plus the PI, who is not on the roster but the site is his."
+  },
+  {
+    "source": "data/sources/mit-orc.json",
+    "lab_id": "mit-orc-priya-donti",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 PI (not listed, added), 7 PhD students, 3 undergrads",
+      "members_page_url": "https://priyadonti.com/group",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "donti@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "10 names under Current Members (Past Members excluded) plus the PI, who is not on the roster but the site is hers."
+  },
+  {
+    "source": "data/sources/mit-orc.json",
+    "lab_id": "mit-orc-ali-jadbabaie",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Group page (jadbabaie.mit.edu/research-group/) lists 'Current Group Members' but dates are stale (newest 2023) and some entries have ended years (e.g. 2019-24) or undated visitors, so who is current cannot be told; left null."
+  },
+  {
+    "source": "data/sources/mit-orc.json",
+    "lab_id": "mit-orc-sungho-shin",
+    "fields": {
+      "member_count": 15,
+      "member_breakdown": "1 PI, 4 postdocs, 7 grad students, 1 undergrad, 1 visitor, 1 administrative assistant",
+      "members_page_url": "http://shin.mit.edu/people",
+      "join_page_url": "http://shin.mit.edu/positions",
+      "join_notes": null,
+      "admin_name": "Layla Gonzalez",
+      "admin_email": "lglez@mit.edu",
+      "pi_email": "sushin@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted everyone under the current headings on the people page (Alumni excluded); includes the visiting professor and the administrative assistant listed there."
+  },
+  {
+    "source": "data/sources/mit-orc.json",
+    "lab_id": "mit-orc-jessika-trancik",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 PI, 1 research scientist, 3 postdocs, 5 grad students, 2 undergrads, 1 group administrator",
+      "members_page_url": "https://trancik.mit.edu/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": "Amy Kaczur",
+      "admin_email": "akaczur@mit.edu",
+      "pi_email": "trancik@mit.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted people above the Alumni heading on the people page, including the group administrator."
+  },
+  {
+    "source": "data/sources/mit-orc.json",
+    "lab_id": "mit-orc-caroline-uhler",
+    "fields": {
+      "member_count": 22,
+      "member_breakdown": "1 PI (not listed, added), 9 postdocs, 8 grad students, 3 UROP, 1 MEng",
+      "members_page_url": "http://carolineuhler.com/current-team-members",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "21 names on the Current Team page (Alumni is a separate page) plus the PI, who is on the site nav but not in the roster; one person tagged Postdoc is labelled 'Graduate student' and counted as a grad student."
+  },
+  {
+    "source": "data/sources/northeastern-barnett.json",
+    "lab_id": "northeastern-barnett-nikolai-slavov",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 7 current members (roles not stated)",
+      "members_page_url": "https://slavovlab.net/people.htm",
+      "join_page_url": "https://slavovlab.net/people.htm",
+      "join_notes": "Prospective applicant section on the people page lists postdoc/research scientist and PhD positions and desired qualities.",
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Eight names on the Research Team list (PI plus 7) before the 'Our PhD graduates' heading; roles are not given. Luke Khoury and Saad Khan (PhD 2026, no next position) sit under PhD graduates and are not counted."
+  },
+  {
+    "source": "data/sources/northeastern-icbh.json",
+    "lab_id": "northeastern-icbh-charles-hillman",
+    "fields": {
+      "member_count": 22,
+      "member_breakdown": "1 PI, 4 lab staff, 1 postdoc, 3 PhD students, 3 lead research assistants, 10 undergrad research assistants",
+      "members_page_url": "https://pabblab.sites.northeastern.edu/5194-2/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "c.hillman@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted everyone above Lab Alumni on the Our Team page, including the institute operations manager listed under Lab Staff."
+  },
+  {
+    "source": "data/sources/northeastern-icbh.json",
+    "lab_id": "northeastern-icbh-psyche-loui",
+    "fields": {
+      "member_count": 17,
+      "member_breakdown": "1 PI, 2 postdocs, 3 PhD students, 2 lab staff, 9 research assistants",
+      "members_page_url": "https://mindlab.sites.northeastern.edu/people/",
+      "join_page_url": "https://mindlab.sites.northeastern.edu/join-us/",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above the MIND Lab Alumni heading; two research assistants described as 'former' (Brynna Quigley, Aaron Jacobowitz) were left out."
+  },
+  {
+    "source": "data/sources/northeastern-icbh.json",
+    "lab_id": "northeastern-icbh-jonathan-peelle",
+    "fields": {
+      "member_count": 20,
+      "member_breakdown": "1 director, 1 faculty (Wingfield), 2 staff scientists/postdocs, 2 research coordinators, 2 grad students, 12 undergrads",
+      "members_page_url": "http://peellelab.org/people",
+      "join_page_url": "http://peellelab.org/join",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted every name on the People page (no alumni section), including the listed faculty member."
+  },
+  {
+    "source": "data/sources/northeastern-icbh.json",
+    "lab_id": "northeastern-icbh-neha-gothe",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 postdocs, 1 research coordinator, 1 PhD student, 2 master's lab affiliates, 5 undergrads",
+      "members_page_url": "https://eprl.sites.northeastern.edu/our-team/",
+      "join_page_url": "https://eprl.sites.northeastern.edu/publications-2/",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "n.gothe@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted every name on the Our Team page (no alumni section)."
+  },
+  {
+    "source": "data/sources/northeastern-nanosi.json",
+    "lab_id": "northeastern-nanosi-cristian-cassella",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 associate research scientist, 6 PhD students, 2 master's students",
+      "members_page_url": "https://micronrf.sites.northeastern.edu/our-team/",
+      "join_page_url": "https://micronrf.sites.northeastern.edu/opportunities/",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted names under Current Lab Members on the Our Team page (Alumni excluded)."
+  },
+  {
+    "source": "data/sources/northeastern-nanosi.json",
+    "lab_id": "northeastern-nanosi-benyamin-davaji",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 postdocs, 8 PhD students, 1 master's student",
+      "members_page_url": "https://aims.coe.northeastern.edu/aimsteam/",
+      "join_page_url": "https://aims.coe.northeastern.edu/open-positions/",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Join AIMS / Alumni on the team page."
+  },
+  {
+    "source": "data/sources/northeastern-nanosi.json",
+    "lab_id": "northeastern-nanosi-yunsi-fei",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site could not be read: The lab site (nueess.coe.neu.edu) refused the connection when fetched; no page text cached."
+  },
+  {
+    "source": "data/sources/northeastern-nanosi.json",
+    "lab_id": "northeastern-nanosi-siddhartha-ghosh",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 5 PhD students, 1 MS student, 1 undergrad",
+      "members_page_url": "https://sites.google.com/view/mapslab/people",
+      "join_page_url": "https://sites.google.com/view/mapslab/openings",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "s.ghosh@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Lab Alumni on the People page."
+  },
+  {
+    "source": "data/sources/northeastern-nanosi.json",
+    "lab_id": "northeastern-nanosi-yongmin-liu",
+    "fields": {
+      "member_count": 8,
+      "member_breakdown": "1 PI, 7 PhD students",
+      "members_page_url": "https://ymllab.sites.northeastern.edu/our-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "y.liu@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Alumni on the Our Team page."
+  },
+  {
+    "source": "data/sources/northeastern-nanosi.json",
+    "lab_id": "northeastern-nanosi-sunil-mittal",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD students, 2 MS students",
+      "members_page_url": "https://qplab.sites.northeastern.edu/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "s.mittal@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Alumni on the People page."
+  },
+  {
+    "source": "data/sources/northeastern-nanosi.json",
+    "lab_id": "northeastern-nanosi-marvin-onabajo",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Home page lists a Students page; I fetched it (index_files/Page295.htm) and its 'Current Ph.D. Students' heading shows no names in the text, only past members, so no count."
+  },
+  {
+    "source": "data/sources/northeastern-nanosi.json",
+    "lab_id": "northeastern-nanosi-matteo-rinaldi",
+    "fields": {
+      "member_count": 13,
+      "member_breakdown": "1 director, 1 program manager, 1 research faculty, 2 associate research scientists, 5 PhD students, 3 visiting scholars",
+      "members_page_url": "https://nemslab.sites.northeastern.edu/our-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted names under Current Lab Members on the Our Team page (Alumni excluded); the Post-Doctoral, Master Students and Undergraduates headings show no names."
+  },
+  {
+    "source": "data/sources/northeastern-nanosi.json",
+    "lab_id": "northeastern-nanosi-aatmesh-shrivastava",
+    "fields": {
+      "member_count": 19,
+      "member_breakdown": "1 PI, 2 postdocs, 7 PhD students, 2 MS students, 1 visiting undergrad, 6 undergrad researchers",
+      "members_page_url": "https://coe.northeastern.edu/Research/eecs/people/index.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Former Students on the People page; one person under the postdoc heading is described as pursuing a PhD but is counted once."
+  },
+  {
+    "source": "data/sources/northeastern-nanosi.json",
+    "lab_id": "northeastern-nanosi-soner-sonmezoglu",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 1 research staff, 6 grad students, 1 master's student, 1 undergrad",
+      "members_page_url": "https://www.sonmezoglulab.com/people",
+      "join_page_url": "https://www.sonmezoglulab.com/positions",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "s.sonmezoglu@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Group Alumni on the People page."
+  },
+  {
+    "source": "data/sources/northeastern-nanosi.json",
+    "lab_id": "northeastern-nanosi-xufeng-zhang",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 4 PhD students, 1 undergrad",
+      "members_page_url": "https://xlab.sites.northeastern.edu/people/",
+      "join_page_url": "https://xlab.sites.northeastern.edu/job-openings/",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "xu.zhang@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Alumni on the People page."
+  },
+  {
+    "source": "data/sources/northeastern-netsi.json",
+    "lab_id": "northeastern-netsi-alessandro-vespignani",
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 director, 1 research assistant professor, 4 postdocs, 8 PhD students, 2 program/design managers",
+      "members_page_url": "http://www.mobs-lab.org/people",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above 'Affiliated members' on the People page; affiliated members of other labs and Alumni are left out."
+  },
+  {
+    "source": "data/sources/northeastern-netsi.json",
+    "lab_id": "northeastern-netsi-albert-laszlo-barabasi",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Home page and the /science page (fetched) show a lab site with publications and art but no members list, so no count."
+  },
+  {
+    "source": "data/sources/northeastern-netsi.json",
+    "lab_id": "northeastern-netsi-david-lazer",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 director, 2 researchers, 1 administrative officer/lab manager, 7 PhD students, 1 visiting scholar",
+      "members_page_url": "http://lazerlab.net/people",
+      "join_page_url": "http://lazerlab.net/positions/employment",
+      "join_notes": null,
+      "admin_name": "Janette Briceno",
+      "admin_email": "j.briceno@northeastern.edu",
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Lab Alumni on the People page."
+  },
+  {
+    "source": "data/sources/northeastern-netsi.json",
+    "lab_id": "northeastern-netsi-tina-eliassi-rad",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 2 postdocs, 3 PhD students",
+      "members_page_url": "https://eliassi.org/radlab.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Roster is headed 'Members as of 2024', so it may be out of date; counted as shown."
+  },
+  {
+    "source": "data/sources/northeastern-netsi.json",
+    "lab_id": "northeastern-netsi-babak-heydari",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 director, 4 PhD students",
+      "members_page_url": "http://magicslab.org/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "b.heydari@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted names under Director and Lab members (current students); alumni excluded."
+  },
+  {
+    "source": "data/sources/northeastern-netsi.json",
+    "lab_id": "northeastern-netsi-dima-krioukov",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Personnel page (also tried rendered) shows only the contact address and no member names, so no count."
+  },
+  {
+    "source": "data/sources/northeastern-netsi.json",
+    "lab_id": "northeastern-netsi-esteban-moro",
+    "fields": {
+      "member_count": 11,
+      "member_breakdown": "1 director, 3 postdocs, 4 PhD students, 1 master's student, 2 visitors",
+      "members_page_url": "https://www.socialurban.net/people/",
+      "join_page_url": "https://www.socialurban.net/opportunities/phd-postdoc-positions/",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted every name on the people page (no alumni section)."
+  },
+  {
+    "source": "data/sources/northeastern-netsi.json",
+    "lab_id": "northeastern-netsi-giovanni-petri",
+    "fields": {
+      "member_count": 16,
+      "member_breakdown": "1 PI, 15 other current members (postdoc, fellows, PhD and MSc students)",
+      "members_page_url": "https://nplresearch.github.io/people/",
+      "join_page_url": "https://nplresearch.github.io/join/",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Page states '16 researchers, 20 alumni' and 16 names are listed above Alumni."
+  },
+  {
+    "source": "data/sources/northeastern-netsi.json",
+    "lab_id": "northeastern-netsi-christoph-riedl",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 lab director, 1 postdoc, 2 graduate students, 1 undergrad",
+      "members_page_url": "http://christophriedl.net/people.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Alumni on the People page."
+  },
+  {
+    "source": "data/sources/northeastern-netsi.json",
+    "lab_id": "northeastern-netsi-mauricio-santillana",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 director, 2 faculty, 1 postdoc, 4 PhD students, 2 undergrad/co-op, 2 affiliate members",
+      "members_page_url": "http://mighte.org/team.html",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Alumni on the team page, including the two affiliate members; Yash Bhora also appears under Alumni (now at Princeton) but is listed as present, so he is counted once."
+  },
+  {
+    "source": "data/sources/northeastern-netsi.json",
+    "lab_id": "northeastern-netsi-brennan-klein",
+    "fields": {
+      "member_count": 10,
+      "member_breakdown": "1 PI, 2 postdocs, 4 PhD students, 3 affiliate/visiting",
+      "members_page_url": "https://brennanklein.com/and-lab",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted names under Lab Members and Affiliate & Visiting Members (one visitor joining Sept 2026); Lab Alumni excluded."
+  },
+  {
+    "source": "data/sources/northeastern-netsi.json",
+    "lab_id": "northeastern-netsi-alina-lungeanu",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 director, 2 PhD research assistants, 2 co-op research assistants",
+      "members_page_url": "https://www.networkscienceinstitute.org/netlab/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "a.lungeanu@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Alumni on the team page."
+  },
+  {
+    "source": "data/sources/northeastern-netsi.json",
+    "lab_id": "northeastern-netsi-briony-swire-thompson",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "b.swire-thompson@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Lab Members page (also fetched rendered) shows only a 'Meet our team' blurb and no member names, so no count."
+  },
+  {
+    "source": "data/sources/northeastern-pt.json",
+    "lab_id": "northeastern-pt-leanne-chukoskie",
+    "fields": {
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 postdocs, 1 staff, 5 PhD students, 2 master's students, 1 co-op",
+      "members_page_url": "https://playfulmind.sites.northeastern.edu/team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Alumni on https://playfulmind.sites.northeastern.edu/team/, the Our Team page linked from the lab home page."
+  },
+  {
+    "source": "data/sources/northeastern-qmsi.json",
+    "lab_id": "northeastern-qmsi-ning-bao",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Not sized, the site is not this unit's own: The site is Ning Bao's personal profile page (home, research, CV, contact) and shows no research group or members."
+  },
+  {
+    "source": "data/sources/northeastern-qmsi.json",
+    "lab_id": "northeastern-qmsi-marco-colangelo",
+    "fields": {
+      "member_count": 3,
+      "member_breakdown": "1 team leader, 1 graduate student, 1 undergrad",
+      "members_page_url": "https://colangelo.sites.northeastern.edu/our-team/",
+      "join_page_url": "https://colangelo.sites.northeastern.edu/open-positions/",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted names on the Our Team page."
+  },
+  {
+    "source": "data/sources/northeastern-qmsi.json",
+    "lab_id": "northeastern-qmsi-ivana-dimitrova",
+    "fields": {
+      "member_count": 4,
+      "member_breakdown": "1 PI, 2 graduate students, 1 undergrad",
+      "members_page_url": "https://dimitrovalab.sites.northeastern.edu/our-team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "i.dimitrova@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Former Members on the Our Team page."
+  },
+  {
+    "source": "data/sources/northeastern-qmsi.json",
+    "lab_id": "northeastern-qmsi-paul-stevenson",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 1 postdoc, 2 PhD students, 2 undergrads",
+      "members_page_url": "https://www.stevensonresearch.com/team",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "p.stevenson@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Alumni on the Team page; the two joke 'Research Associates' (Rockwell, Mimi) are not counted."
+  },
+  {
+    "source": "data/sources/northeastern-qmsi.json",
+    "lab_id": "northeastern-qmsi-nian-sun",
+    "fields": {
+      "member_count": 22,
+      "member_breakdown": "1 PI, 3 postdocs, 16 PhD students (incl. 2 visiting), 2 undergraduate research assistants",
+      "members_page_url": "https://sunlab.sites.northeastern.edu/our-team/",
+      "pi_email": "n.sun@northeastern.edu"
+    },
+    "note": "Counted the names under 'Current Lab Members' on the Our Team page (old roster: husky.neu.edu emails; Hwaider Lin is listed there as a company president, counted as listed)."
+  },
+  {
+    "source": "data/sources/northeastern-qmsi.json",
+    "lab_id": "northeastern-qmsi-yizhi-you",
+    "fields": {
+      "member_count": null,
+      "join_page_url": null,
+      "join_notes": "Postdoc position open (apply by Jan 2027 via academicjobsonline); PhD students must first be admitted to the Northeastern Physics graduate program, then contact him."
+    },
+    "note": "Not sized, the site is not this unit's own: This is Yizhi You's personal homepage (research interests, CV, hiring notice); it lists no group members."
+  },
+  {
+    "source": "data/sources/tufts-dmcb.json",
+    "lab_id": "tufts-dmcb-william-bachovchin",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "william.bachovchin@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-dmcb.json",
+    "lab_id": "tufts-dmcb-peter-bullock",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "peter.bullock@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-dmcb.json",
+    "lab_id": "tufts-dmcb-athar-chishti",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "athar.chishti@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (1 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-dmcb.json",
+    "lab_id": "tufts-dmcb-brent-cochran",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "cochran@cochranlab.org"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (1 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-dmcb.json",
+    "lab_id": "tufts-dmcb-alexei-degterev",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "alexei.degterev@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (5 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-dmcb.json",
+    "lab_id": "tufts-dmcb-larry-feig",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "larry.feig@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-dmcb.json",
+    "lab_id": "tufts-dmcb-victor-hatini",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "victor.hatini@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-dmcb.json",
+    "lab_id": "tufts-dmcb-peter-juo",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "peter.juo@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (2 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-dmcb.json",
+    "lab_id": "tufts-dmcb-charlotte-kuperwasser",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "charlotte.kuperwasser@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (1 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-dmcb.json",
+    "lab_id": "tufts-dmcb-claire-moore",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "claire.moore@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-dmcb.json",
+    "lab_id": "tufts-dmcb-karl-munger",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "karl.munger@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (1 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-dmcb.json",
+    "lab_id": "tufts-dmcb-malavika-raman",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "malavika.raman@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (5 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-dmcb.json",
+    "lab_id": "tufts-dmcb-james-schwob",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "jim.schwob@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-immunology.json",
+    "lab_id": "tufts-immunology-stephen-bunnell",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "stephen.bunnell@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-immunology.json",
+    "lab_id": "tufts-immunology-david-j-greenblatt",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "dj.greenblatt@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-immunology.json",
+    "lab_id": "tufts-immunology-john-iacomini",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "john.iacomini@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-immunology.json",
+    "lab_id": "tufts-immunology-emmanuel-pothos",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "emmanuel.pothos@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (2 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-immunology.json",
+    "lab_id": "tufts-immunology-shruti-sharma",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "shruti.sharma@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-immunology.json",
+    "lab_id": "tufts-immunology-ana-soto",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "ana.soto@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-mbm.json",
+    "lab_id": "tufts-mbm-andrew-camilli",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "andrew.camilli@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (1 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-mbm.json",
+    "lab_id": "tufts-mbm-john-coffin",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "john.coffin@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-mbm.json",
+    "lab_id": "tufts-mbm-rui-guo",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "rui.guo@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (2 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-mbm.json",
+    "lab_id": "tufts-mbm-ekaterina-heldwein",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "katya.heldwein@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (8 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-mbm.json",
+    "lab_id": "tufts-mbm-ralph-isberg",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "ralph.isberg@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (6 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-mbm.json",
+    "lab_id": "tufts-mbm-carol-kumamoto",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "carol.kumamoto@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-mbm.json",
+    "lab_id": "tufts-mbm-john-leong",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "john.leong@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (4 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-mbm.json",
+    "lab_id": "tufts-mbm-michael-malamy",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "michael.malamy@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-mbm.json",
+    "lab_id": "tufts-mbm-joan-mecsas",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "joan.mecsas@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (5 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-mbm.json",
+    "lab_id": "tufts-mbm-aaron-mendez",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "aaron.mendez@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (2 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-mbm.json",
+    "lab_id": "tufts-mbm-aimee-shen",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "aimee.shen@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (6 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-mbm.json",
+    "lab_id": "tufts-mbm-shumin-tan",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "shumin.tan@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (2 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-neuroscience.json",
+    "lab_id": "tufts-neuroscience-christopher-dulla",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "chris.dulla@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (3 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-neuroscience.json",
+    "lab_id": "tufts-neuroscience-rob-jackson",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "rob.jackson@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-neuroscience.json",
+    "lab_id": "tufts-neuroscience-michele-jacob",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "michele.jacob@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-neuroscience.json",
+    "lab_id": "tufts-neuroscience-stephen-moss",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "stephen.moss@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (1 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-neuroscience.json",
+    "lab_id": "tufts-neuroscience-leon-reijmers",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "leon.reijmers@tufts.edu"
+    },
+    "note": "GSBS page for the lab describes the research and names the PI only; it lists no lab members, so count left null."
+  },
+  {
+    "source": "data/sources/tufts-neuroscience.json",
+    "lab_id": "tufts-neuroscience-maribel-rios",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "maribel.rios@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (2 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-neuroscience.json",
+    "lab_id": "tufts-neuroscience-giuseppina-tesco",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "giuseppina.tesco@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (1 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/tufts-neuroscience.json",
+    "lab_id": "tufts-neuroscience-yongjie-yang",
+    "fields": {
+      "member_count": null,
+      "members_page_url": null,
+      "pi_email": "yongjie.yang@tufts.edu"
+    },
+    "note": "GSBS page for the lab lists only 'Lab Members Who Are GSBS Students' (4 named), not the whole lab, so no full count; left null."
+  },
+  {
+    "source": "data/sources/bu-se.json",
+    "lab_id": "bu-se-avrum-spira",
+    "fields": {},
+    "note": "Not sized, the site is not this unit's own: The site is the joint Spira-Lenburg lab of two PIs, and the cached people page is the Computational Biomedicine department roster, not this lab's."
+  },
+  {
+    "source": "data/sources/northeastern-qmsi.json",
+    "lab_id": "northeastern-qmsi-sunil-mittal",
+    "fields": {
+      "member_count": 5,
+      "member_breakdown": "1 PI, 2 PhD students, 2 MS students",
+      "members_page_url": "https://qplab.sites.northeastern.edu/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "s.mittal@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Alumni on the People page."
+  },
+  {
+    "source": "data/sources/northeastern-qmsi.json",
+    "lab_id": "northeastern-qmsi-xufeng-zhang",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 PI, 4 PhD students, 1 undergrad",
+      "members_page_url": "https://xlab.sites.northeastern.edu/people/",
+      "join_page_url": "https://xlab.sites.northeastern.edu/job-openings/",
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_email": "xu.zhang@northeastern.edu",
+      "accepting_grad_students": null
+    },
+    "note": "Counted names above Alumni on the People page."
+  }
+]

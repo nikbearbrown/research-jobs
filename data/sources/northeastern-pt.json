@@ -88,13 +88,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
+      "member_count": 12,
+      "member_breakdown": "1 PI, 2 postdocs, 1 staff, 5 PhD students, 2 master's students, 1 co-op",
+      "members_page_url": "https://playfulmind.sites.northeastern.edu/team/",
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://bouve.northeastern.edu/directory/leanne-chukoskie/",
-      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-17: lab_website read from the department's start page (https://bouve.northeastern.edu/academics/school-of-clinical-and-rehabilitation-sciences/physical-therapy-movement-and-rehabilitation-sciences/): link labelled 'Playful Mind Lab', shown beside the PI's name."
+      "notes": "Breadth pass from the school's faculty-and-staff directory. No email shown on the listing page itself (emails are click-to-reveal, not real mailto: links); would need the individual bio page for contact info. Depth pass 2026-11-02: pi_email read from the profile page (only after rendering with Playwright). Depth pass 2026-11-10: lab_website not found: the profile page links no lab or research-group website. Depth pass 2026-11-17: lab_website read from the department's start page (https://bouve.northeastern.edu/academics/school-of-clinical-and-rehabilitation-sciences/physical-therapy-movement-and-rehabilitation-sciences/): link labelled 'Playful Mind Lab', shown beside the PI's name. Depth pass 2026-11-17: Counted names above Alumni on https://playfulmind.sites.northeastern.edu/team/, the Our Team page linked from the lab home page."
     },
     {
       "id": "northeastern-pt-stephen-b-clark",
