@@ -1,0 +1,39 @@
+{
+  "id": "massbudget",
+  "institution": "Massachusetts Budget and Policy Center",
+  "unit": "Massachusetts Budget and Policy Center",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://massbudget.org/",
+    "https://massbudget.org/about-us/staff/",
+    "https://massbudget.org/about-us/",
+    "https://massbudget.org/careers/"
+  ],
+  "labs": [
+    {
+      "id": "massbudget-viviana-abreu-hernandez",
+      "kind": "research-lab",
+      "lab_name": "Massachusetts Budget and Policy Center",
+      "pi_name": "Viviana M. Abreu-Hernández",
+      "pi_title": "President",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://massbudget.org/",
+      "location": "PO Box 961390, Boston, MA 02196",
+      "phone": "(617) 426-1228",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Nonprofit policy research and advocacy organization analyzing the Massachusetts state budget, taxes and issues like housing, health, education and jobs.",
+      "member_count": 11,
+      "member_breakdown": "1 president, 1 vice president of operations, 1 director of research and policy analysis, 1 deputy director of research, 1 director of advocacy, 1 director of delivering on equity, 2 senior policy analysts, 1 policy analyst, 1 development and communications manager, 1 senior operations and finance manager",
+      "members_page_url": "https://massbudget.org/about-us/staff/",
+      "join_page_url": "https://massbudget.org/careers/",
+      "join_notes": "Page posts an open Housing and Human Services Policy Analyst job (apply by emailing resume and cover letter to jobs@massbudget.org; priority deadline September 20, 2026) and says to check back in early 2027 for summer 2027 internships.",
+      "profile_url": "https://massbudget.org/about-us/staff/viviana-abreu-hernandez/",
+      "notes": "Staff page lists 11 people. Careers email jobs@massbudget.org is for applications only; no general contact email shown. Remote-first organization."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

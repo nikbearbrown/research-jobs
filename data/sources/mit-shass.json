@@ -1,0 +1,15 @@
+{
+  "id": "mit-shass",
+  "institution": "MIT",
+  "unit": "School of Humanities, Arts, and Social Sciences",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://shass.mit.edu/",
+    "https://shass.mit.edu/meet-our-community/faculty-academic-staff/",
+    "https://shass.mit.edu/about-the-school/academic-units/"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "The Academic Units page lists 14 units; only the Center for International Studies is a research center. The rest are academic departments or teaching programs and were skipped. No careers page. Left out because the directory already has them (1): Center for International Studies (target mit-cis)."
+}

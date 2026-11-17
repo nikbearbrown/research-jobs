@@ -1,0 +1,40 @@
+{
+  "id": "mit-act",
+  "institution": "MIT",
+  "unit": "Art, Culture, and Technology Program (ACT)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://act.mit.edu/",
+    "https://act.mit.edu/about/",
+    "https://act.mit.edu/people/categories/people/",
+    "https://act.mit.edu/about/jobs-opportunities/",
+    "https://act.mit.edu/about/contact/"
+  ],
+  "labs": [
+    {
+      "id": "mit-act-org",
+      "kind": "research-lab",
+      "lab_name": "Art, Culture, and Technology (ACT) program",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://act.mit.edu/",
+      "location": "77 Massachusetts Ave, Building E15-211, Cambridge, MA 02139-4307 (School of Architecture + Planning); administrative offices at 20 Ames Street, E15-212, Wiesner Building, Cambridge, MA 02142",
+      "phone": "+1 617-253-5229",
+      "admin_name": null,
+      "admin_email": "act@mit.edu",
+      "research_summary": "An academic program and center for critical art practice within MIT's School of Architecture and Planning, combining a graduate degree, exhibitions and events around art, culture and technology.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://act.mit.edu/about/jobs-opportunities/",
+      "join_notes": "The page says there are no open faculty or staff positions at present. Student jobs (teaching assistant, AV checkout, office support, events and communications assistants) are applied for through the Architecture student jobs page, which needs a login and VPN.",
+      "profile_url": null,
+      "notes": "Department-type entry: no chair or head is named on the pages read, and member_count is left null because a program is not a lab. The people page cached for this target is an empty menu; the staff and professor lists were not read. The site lists CAVS (Center for Advanced Visual Studies) only as a special collection/archive and the PPPPress printing initiative as a facility, with no lead, so neither is entered as a lab. Contact page also gives actrequest@mit.edu for reserving ACT spaces."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read start, about, people (empty menu only), jobs and contact pages. No faculty-run labs listed on the site; CAVS is an archive. Chair not shown."
+}

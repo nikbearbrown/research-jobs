@@ -1,0 +1,40 @@
+{
+  "id": "harvard-iop",
+  "institution": "Harvard",
+  "unit": "Institute of Politics",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://iop.harvard.edu",
+    "https://iop.harvard.edu/about",
+    "https://iop.harvard.edu/about/staff",
+    "https://iop.harvard.edu/fellows",
+    "https://iop.harvard.edu/internships-and-careers"
+  ],
+  "labs": [
+    {
+      "id": "harvard-iop-betsy-fischer-martin",
+      "kind": "research-lab",
+      "lab_name": "Institute of Politics at Harvard Kennedy School",
+      "pi_name": "Betsy Fischer Martin",
+      "pi_title": "Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://iop.harvard.edu",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "A non-partisan institute at Harvard Kennedy School, founded in 1966, that engages mainly undergraduates with politicians, practitioners and academics through a public forum, resident fellows, student programs, internships and a national youth poll.",
+      "member_count": 20,
+      "member_breakdown": "1 director, 1 executive director, 1 counselor, 1 senior advisor, 16 program, communications, polling and administrative staff",
+      "members_page_url": "https://iop.harvard.edu/about/staff",
+      "join_page_url": "https://iop.harvard.edu/internships-and-careers",
+      "join_notes": "The page lists paid internship, stipend and mentorship programs for current Harvard undergraduates (Director's Internship, Summer Stipend, Term-Time Stipends and others); the listed application windows had all closed. No staff job postings are shown.",
+      "profile_url": "https://iop.harvard.edu/about/staff/betsy-fischer-martin",
+      "notes": "Staff page also lists Kimberly Peeples as Executive Director and Ned Price as Counselor. No general contact address or phone appears on the cached pages (a Contact the IOP page exists at https://iop.harvard.edu/contact, not read). Staff individual emails are shown, but none for the director. Count of 20 is everyone on the staff page, including a senior advisor. Fellows page lists Fall 2026 resident fellows (6) and one visiting fellow, not counted as core staff. The 16 student programs (for example Harvard Public Opinion Project, Governance Lab) are named in the menu only and were not added as entries."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Staff page was fetched with fetch.py (1 extra page)."
+}

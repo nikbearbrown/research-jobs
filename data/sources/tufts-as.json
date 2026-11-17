@@ -1,0 +1,18 @@
+{
+  "id": "tufts-as",
+  "institution": "Tufts University",
+  "unit": "School of Arts and Sciences",
+  "city": "Medford / Boston, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://as.tufts.edu",
+    "https://as.tufts.edu/people/faculty",
+    "https://as.tufts.edu/about",
+    "https://careers.tufts.edu/",
+    "https://as.tufts.edu/academics/departments-and-interdisciplinary-programs",
+    "https://as.tufts.edu/academics/academic-centers-and-resources"
+  ],
+  "labs": [],
+  "non_lab_people": [],
+  "notes": "Fetched https://as.tufts.edu/academics/academic-centers-and-resources (one extra page, linked from the start page). It lists names only, with no lead, summary or site link. Skipped non-research items: BLOOM Center, Eliot-Pearson Children's School, StAAR Center, Tisch Library, Tufts Career Center, Tufts University Art Galleries. Named on the pages but given no entry, because no lead or site of their own is shown (7): Center for the Humanities At Tufts (CHAT); Center for South Asian and Indian Ocean Studies; Center for Public History; Institute for Applied Research in Youth Development; Institute for Computer Designed Organisms (ICDO); Dennett Consortium for Brain and Cognitive Science; Tufts Institute of Cosmology."
+}

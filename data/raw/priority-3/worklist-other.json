@@ -1,0 +1,735 @@
+[
+  {
+    "id": "a-better-city",
+    "name": "A Better City",
+    "category": "policy-adjacent",
+    "parent": "",
+    "city": "Boston",
+    "start_url": "https://www.abettercity.org/",
+    "people_url": "https://www.abettercity.org/about-us/staff/",
+    "careers_url": "https://www.abettercity.org/join-us/job-postings",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot-dagger",
+    "notes": "Business-backed transport/land-use policy",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.abettercity.org/",
+        "status": "200",
+        "text": "cache/_text/www.abettercity.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.abettercity.org/about-us/staff/",
+        "status": "200",
+        "text": "cache/_text/www.abettercity.org/about-us-staff.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.abettercity.org/about-us/history",
+        "status": "200",
+        "text": "cache/_text/www.abettercity.org/about-us-history.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.abettercity.org/join-us/job-postings",
+        "status": "200",
+        "text": "cache/_text/www.abettercity.org/join-us-job-postings.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "bc-boisi",
+    "name": "Boisi Center for Religion and American Public Life",
+    "category": "university-policy-center",
+    "parent": "Boston College",
+    "city": "Chestnut Hill",
+    "start_url": "https://www.bc.edu/content/bc-web/centers/boisi-center.html",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "brandeis-bc-umass-hospitals",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bc.edu/content/bc-web/centers/boisi-center.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-centers-boisi-center-html.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bc.edu/content/bc-web/centers/boisi-center/about/people.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-centers-boisi-center-about-people-html.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bc.edu/content/bc-web/centers/boisi-center/about.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-centers-boisi-center-about-html.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "beacon-hill-institute",
+    "name": "Beacon Hill Institute",
+    "category": "policy-think-tank",
+    "parent": "",
+    "city": "Boston",
+    "start_url": "https://www.beaconhill.org",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "Confirm it is still active; Newest dated item Nov 2015: probably inactive",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.beaconhill.org",
+        "status": "playwright-error: Page.goto: net::ERR_CERT_DATE_INVALID at https://www.beaconhill.org/\nCall log:\n  - navigating to \"http",
+        "text": null,
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "boston-global-forum",
+    "name": "Boston Global Forum",
+    "category": "policy-think-tank",
+    "parent": "",
+    "city": "Boston",
+    "start_url": "https://bostonglobalforum.org/",
+    "people_url": "https://bostonglobalforum.org/about/board-and-executives/",
+    "careers_url": "https://bostonglobalforum.org/career/",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "AI/digital governance focus is unverified",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://bostonglobalforum.org/",
+        "status": "200",
+        "text": "cache/_text/bostonglobalforum.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://bostonglobalforum.org/about/board-and-executives/",
+        "status": "200",
+        "text": "cache/_text/bostonglobalforum.org/about-board-and-executives.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://bostonglobalforum.org/about/",
+        "status": "200",
+        "text": "cache/_text/bostonglobalforum.org/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://bostonglobalforum.org/career/",
+        "status": "200",
+        "text": "cache/_text/bostonglobalforum.org/career.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "boston-indicators",
+    "name": "Boston Indicators (The Boston Foundation)",
+    "category": "policy-adjacent",
+    "parent": "The Boston Foundation",
+    "city": "Boston",
+    "start_url": "https://www.bostonindicators.org/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot-dagger",
+    "notes": "About: https://www.bostonindicators.org/who-we-are",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bostonindicators.org/",
+        "status": "200",
+        "text": "cache/_text/www.bostonindicators.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bostonindicators.org/who-we-are",
+        "status": "200",
+        "text": "cache/_text/www.bostonindicators.org/who-we-are.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "boston-municipal-research-bureau",
+    "name": "Boston Municipal Research Bureau",
+    "category": "policy-think-tank",
+    "parent": "",
+    "city": "Boston",
+    "start_url": "https://bmrb.org",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot-dagger",
+    "notes": "Not source-checked in snapshot; Loads but page content thin; phone 617-227-1900",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://bmrb.org",
+        "status": "200",
+        "text": "cache/_text/bmrb.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bmrb.org/about-us/staff/",
+        "status": "200",
+        "text": "cache/_text/www.bmrb.org/about-us-staff.txt",
+        "found_by": "start page link labelled 'Staff'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bmrb.org/about-us/",
+        "status": "200",
+        "text": "cache/_text/www.bmrb.org/about-us.txt",
+        "found_by": "start page link labelled 'About Us'"
+      }
+    ]
+  },
+  {
+    "id": "bu-cas",
+    "name": "College of Arts & Sciences",
+    "category": "school",
+    "parent": "Boston University / College of Arts & Sciences",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/cas/",
+    "people_url": "https://www.bu.edu/cas/faculty-staff/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Departments list: https://www.bu.edu/cas/departments/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/cas/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/cas.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/cas/faculty-staff/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/cas-faculty-staff.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/cas/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/cas-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/cas/career-development-resources/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/cas-career-development-resources.txt",
+        "found_by": "start page link labelled 'Career Development'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.bu.edu/cas/departments/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/cas-departments.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "conservation-law-foundation",
+    "name": "Conservation Law Foundation",
+    "category": "policy-adjacent",
+    "parent": "",
+    "city": "Boston",
+    "start_url": "https://www.clf.org/",
+    "people_url": "https://www.clf.org/about/our-team/",
+    "careers_url": "https://www.clf.org/careers-at-clf/",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot-dagger",
+    "notes": "Environmental law and advocacy",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.clf.org/",
+        "status": "200",
+        "text": "cache/_text/www.clf.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.clf.org/about/our-team/",
+        "status": "200",
+        "text": "cache/_text/www.clf.org/about-our-team.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.clf.org/about/",
+        "status": "200",
+        "text": "cache/_text/www.clf.org/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.clf.org/careers-at-clf/",
+        "status": "200",
+        "text": "cache/_text/www.clf.org/careers-at-clf.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "draper",
+    "name": "Draper",
+    "category": "science-institute",
+    "parent": "",
+    "city": "Cambridge",
+    "start_url": "https://www.draper.com",
+    "people_url": "https://www.draper.com/about/engineering-fellows",
+    "careers_url": "https://www.draper.com/careers",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "careers; research groups if listed",
+    "listed_in": "snapshot-dagger",
+    "notes": "Nonprofit engineering R&D; corporate-style, few public lab pages",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.draper.com",
+        "status": "200",
+        "text": "cache/_text/www.draper.com/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.draper.com/about/engineering-fellows",
+        "status": "200",
+        "text": "cache/_text/www.draper.com/about-engineering-fellows.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.draper.com/about",
+        "status": "200",
+        "text": "cache/_text/www.draper.com/about.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.draper.com/careers",
+        "status": "200",
+        "text": "cache/_text/www.draper.com/careers.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "health-effects-institute",
+    "name": "Health Effects Institute",
+    "category": "policy-adjacent",
+    "parent": "",
+    "city": "Boston",
+    "start_url": "https://www.healtheffects.org/",
+    "people_url": "https://www.healtheffects.org/about/staff",
+    "careers_url": "https://www.healtheffects.org/careers",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot-dagger",
+    "notes": "Funded jointly by EPA and motor-vehicle industry",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.healtheffects.org/",
+        "status": "200",
+        "text": "cache/_text/www.healtheffects.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.healtheffects.org/about/staff",
+        "status": "200",
+        "text": "cache/_text/www.healtheffects.org/about-staff.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.healtheffects.org/careers",
+        "status": "200",
+        "text": "cache/_text/www.healtheffects.org/careers.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "ihi",
+    "name": "Institute for Healthcare Improvement",
+    "category": "policy-adjacent",
+    "parent": "",
+    "city": "Boston",
+    "start_url": "https://www.ihi.org/",
+    "people_url": "https://www.ihi.org/about/people",
+    "careers_url": "https://www.ihi.org/about/careers",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot-dagger",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.ihi.org/",
+        "status": "200",
+        "text": "cache/_text/www.ihi.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.ihi.org/about/people",
+        "status": "200",
+        "text": "cache/_text/www.ihi.org/about-people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.ihi.org/about",
+        "status": "200",
+        "text": "cache/_text/www.ihi.org/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.ihi.org/about/careers",
+        "status": "200",
+        "text": "cache/_text/www.ihi.org/about-careers.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "mass-taxpayers-foundation",
+    "name": "Massachusetts Taxpayers Foundation",
+    "category": "policy-think-tank",
+    "parent": "",
+    "city": "Boston",
+    "start_url": "https://www.masstaxpayers.org/",
+    "people_url": "https://www.masstaxpayers.org/staff",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot-dagger",
+    "notes": "Not source-checked in snapshot",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.masstaxpayers.org/",
+        "status": "200",
+        "text": "cache/_text/www.masstaxpayers.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.masstaxpayers.org/staff",
+        "status": "200",
+        "text": "cache/_text/www.masstaxpayers.org/staff.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.masstaxpayers.org/contact-us-0",
+        "status": "200",
+        "text": "cache/_text/www.masstaxpayers.org/contact-us-0.txt",
+        "found_by": "start page link labelled 'Contact Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.masstaxpayers.org/mid-career-fellowship",
+        "status": "200",
+        "text": "cache/_text/www.masstaxpayers.org/mid-career-fellowship.txt",
+        "found_by": "start page link labelled 'Mid-Career Fellowship'"
+      }
+    ]
+  },
+  {
+    "id": "massbudget",
+    "name": "Massachusetts Budget and Policy Center",
+    "category": "policy-think-tank",
+    "parent": "",
+    "city": "Boston",
+    "start_url": "https://massbudget.org/",
+    "people_url": "https://massbudget.org/about-us/staff/",
+    "careers_url": "https://massbudget.org/careers/",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "Progressive budget/tax policy",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://massbudget.org/",
+        "status": "200",
+        "text": "cache/_text/massbudget.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://massbudget.org/about-us/staff/",
+        "status": "200",
+        "text": "cache/_text/massbudget.org/about-us-staff.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://massbudget.org/about-us/",
+        "status": "200",
+        "text": "cache/_text/massbudget.org/about-us.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://massbudget.org/careers/",
+        "status": "200",
+        "text": "cache/_text/massbudget.org/careers.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "massinc",
+    "name": "MassINC",
+    "category": "policy-think-tank",
+    "parent": "",
+    "city": "Boston",
+    "start_url": "https://massinc.org/",
+    "people_url": "",
+    "careers_url": "https://massinc.org/about-us/career-opportunities/",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "Includes Policy Center, CommonWealth Beacon, MassINC Polling Group, Gateway Cities Innovation Institute; No staff directory; see /about-us/our-organization/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://massinc.org/",
+        "status": "200",
+        "text": "cache/_text/massinc.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://massinc.org/about-us/",
+        "status": "200",
+        "text": "cache/_text/massinc.org/about-us.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://massinc.org/about-us/career-opportunities/",
+        "status": "200",
+        "text": "cache/_text/massinc.org/about-us-career-opportunities.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "pioneer-institute",
+    "name": "Pioneer Institute",
+    "category": "policy-think-tank",
+    "parent": "",
+    "city": "Boston",
+    "start_url": "https://pioneerinstitute.org/",
+    "people_url": "https://pioneerinstitute.org/pioneers-staff/",
+    "careers_url": "https://pioneerinstitute.org/position-type/open-positions/",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "Free-market state policy",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://pioneerinstitute.org/",
+        "status": "200",
+        "text": "cache/_text/pioneerinstitute.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://pioneerinstitute.org/pioneers-staff/",
+        "status": "200",
+        "text": "cache/_text/pioneerinstitute.org/pioneers-staff.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://pioneerinstitute.org/about-pioneer/",
+        "status": "200",
+        "text": "cache/_text/pioneerinstitute.org/about-pioneer.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://pioneerinstitute.org/position-type/open-positions/",
+        "status": "200",
+        "text": "cache/_text/pioneerinstitute.org/position-type-open-positions.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "tufts-as",
+    "name": "School of Arts and Sciences",
+    "category": "school",
+    "parent": "Tufts University / School of Arts and Sciences",
+    "city": "Medford/Boston",
+    "start_url": "https://as.tufts.edu",
+    "people_url": "https://as.tufts.edu/people/faculty",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "bu-northeastern-tufts",
+    "notes": "Departments: https://as.tufts.edu/academics/departments-and-interdisciplinary-programs",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://as.tufts.edu",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://as.tufts.edu/people/faculty",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://as.tufts.edu/about",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://careers.tufts.edu/",
+        "status": "200",
+        "text": "cache/_text/careers.tufts.edu/index.txt",
+        "found_by": "start page link labelled 'Career Center'"
+      },
+      {
+        "role": "list",
+        "url": "https://as.tufts.edu/academics/departments-and-interdisciplinary-programs",
+        "status": "200",
+        "text": "cache/_text/as.tufts.edu/academics-departments-and-interdisciplinary-programs.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "union-of-concerned-scientists",
+    "name": "Union of Concerned Scientists",
+    "category": "policy-adjacent",
+    "parent": "",
+    "city": "Cambridge",
+    "start_url": "https://www.ucs.org/",
+    "people_url": "https://www.ucs.org/about/people",
+    "careers_url": "https://www.ucs.org/about/jobs",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "Science advocacy rather than neutral think tank; ucsusa.org redirects to ucs.org",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.ucs.org/",
+        "status": "200",
+        "text": "cache/_text/www.ucs.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.ucs.org/about/people",
+        "status": "200",
+        "text": "cache/_text/www.ucs.org/about-people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.ucs.org/about",
+        "status": "200",
+        "text": "cache/_text/www.ucs.org/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.ucs.org/about/jobs",
+        "status": "200",
+        "text": "cache/_text/www.ucs.org/about-jobs.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  }
+]

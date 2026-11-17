@@ -1,0 +1,39 @@
+{
+  "id": "a-better-city",
+  "institution": "A Better City",
+  "unit": "A Better City",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://www.abettercity.org/",
+    "https://www.abettercity.org/about-us/history",
+    "https://www.abettercity.org/about-us/staff/",
+    "https://www.abettercity.org/join-us/job-postings"
+  ],
+  "labs": [
+    {
+      "id": "a-better-city-kate-dineen",
+      "kind": "research-lab",
+      "lab_name": "A Better City",
+      "pi_name": "Kate Dineen",
+      "pi_title": "President & CEO",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.abettercity.org/",
+      "location": "14 Beacon Street, Suite 402, Boston, MA 02108",
+      "phone": "617.502.6240",
+      "admin_name": null,
+      "admin_email": "updates@abettercity.org",
+      "research_summary": "A Boston business-backed civic organization working on transportation, climate and resilience, and land-use policy for the city.",
+      "member_count": 10,
+      "member_breakdown": "1 president and CEO, 1 president emeritus, 2 senior advisors, 2 directors, 1 assistant director, 3 managers/administrative staff",
+      "members_page_url": "https://www.abettercity.org/about-us/staff/",
+      "join_page_url": "https://www.abettercity.org/join-us/job-postings",
+      "join_notes": "The employment page says the organization is not currently hiring.",
+      "profile_url": null,
+      "notes": "The Kate Dineen entry shows no email on the staff page. updates@abettercity.org is the contact address in the site footer. Staff count includes the president emeritus. The Greenway Business Improvement District is named in menus only and was not added."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

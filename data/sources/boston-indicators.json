@@ -1,0 +1,37 @@
+{
+  "id": "boston-indicators",
+  "institution": "The Boston Foundation",
+  "unit": "Boston Indicators (The Boston Foundation)",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://www.bostonindicators.org/",
+    "https://www.bostonindicators.org/who-we-are"
+  ],
+  "labs": [
+    {
+      "id": "boston-indicators-luc-schuster",
+      "kind": "research-lab",
+      "lab_name": "Boston Indicators",
+      "pi_name": "Luc Schuster",
+      "pi_title": "Executive Director",
+      "pi_email": "luc.schuster@bostonindicators.org",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bostonindicators.org/",
+      "location": "Boston (research center of The Boston Foundation)",
+      "phone": "617.338.1700",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Research center at The Boston Foundation that analyzes well-being indicators and researches ideas for a more prosperous and equitable Greater Boston.",
+      "member_count": 5,
+      "member_breakdown": "1 executive director, 1 senior research manager, 2 senior research analysts, 1 senior fellow",
+      "members_page_url": "https://www.bostonindicators.org/who-we-are",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bostonindicators.org/who-we-are/luc-schuster",
+      "notes": "Email taken from the 'Request a Presentation' link on the home page. No careers or internship page found on the cached pages (The Boston Foundation may post jobs elsewhere); join page left null. Senior Fellow Amy Dain is counted as part of the team list."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "No careers page was linked from the two cached pages."
+}

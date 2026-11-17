@@ -1,0 +1,39 @@
+{
+  "id": "mass-taxpayers-foundation",
+  "institution": "Massachusetts Taxpayers Foundation",
+  "unit": "Massachusetts Taxpayers Foundation",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://www.masstaxpayers.org/",
+    "https://www.masstaxpayers.org/staff",
+    "https://www.masstaxpayers.org/contact-us-0",
+    "https://www.masstaxpayers.org/mid-career-fellowship"
+  ],
+  "labs": [
+    {
+      "id": "mass-taxpayers-foundation-doug-howgate",
+      "kind": "research-lab",
+      "lab_name": "Massachusetts Taxpayers Foundation",
+      "pi_name": "Doug Howgate",
+      "pi_title": "President",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.masstaxpayers.org/",
+      "location": "333 Washington Street, Suite 853, Boston, MA 02108",
+      "phone": "(617) 720-1000",
+      "admin_name": null,
+      "admin_email": "mtf_info@masstaxpayers.org",
+      "research_summary": "Nonpartisan think tank analyzing Massachusetts state budget, taxes and related fiscal policy.",
+      "member_count": 10,
+      "member_breakdown": "1 president, 1 vice president for policy and research, 1 director of research, 2 senior researchers, 2 policy research fellows, 1 mid-career fellow, 1 policy start fellow, 1 director of membership and business development",
+      "members_page_url": "https://www.masstaxpayers.org/staff",
+      "join_page_url": "https://www.masstaxpayers.org/mid-career-fellowship",
+      "join_notes": "Mid-Career Fellowship is a 12-month fellowship for people with 5+ years of public-sector experience; resumes go to the Research Director, Meaghan Callahan (mcallahan@masstaxpayers.org), with a deadline of September 4, 2026 (now past). A Policy Start Fellowship also exists (menu, not read).",
+      "profile_url": "https://www.masstaxpayers.org/doug-howgate",
+      "notes": "Membership contact is Debbie Carroll, dcarroll@masstaxpayers.org."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": "pioneer-institute",
+  "institution": "Pioneer Institute",
+  "unit": "Pioneer Institute",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://pioneerinstitute.org/",
+    "https://pioneerinstitute.org/pioneers-staff/",
+    "https://pioneerinstitute.org/about-pioneer/",
+    "https://pioneerinstitute.org/position-type/open-positions/"
+  ],
+  "labs": [
+    {
+      "id": "pioneer-institute-jim-stergios",
+      "kind": "research-lab",
+      "lab_name": "Pioneer Institute",
+      "pi_name": "Jim Stergios",
+      "pi_title": "Executive Director",
+      "pi_email": "jstergios@pioneerinstitute.org",
+      "accepting_grad_students": null,
+      "lab_website": "https://pioneerinstitute.org/",
+      "location": "185 Devonshire Street, Suite 1101, Boston, MA 02110",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "pioneer@pioneerinstitute.org",
+      "research_summary": "Independent Boston think tank doing state policy research on K-12 education, healthcare and life sciences, economic opportunity and civic values.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://pioneerinstitute.org/pioneers-staff/",
+      "join_page_url": "https://pioneerinstitute.org/position-type/open-positions/",
+      "join_notes": "Page lists open positions (currently a Director of Major Gifts, applied for by questionnaire plus resume sent to Andrew Horgan, ahorgan@pioneerinstitute.org); an Internships tab is linked but was not read.",
+      "profile_url": "https://pioneerinstitute.org/people/jim-stergios/",
+      "notes": "Staff page groups 14 staff (operations 3, research and programs 6, development 4, communications 1) and about 13 fellows, some visiting or media/podcast fellows; the page does not make clear which fellows are resident, so no count. No phone number found in cached text. Email for Stergios comes from the staff page's contact list."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

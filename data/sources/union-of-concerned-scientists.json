@@ -1,0 +1,40 @@
+{
+  "id": "union-of-concerned-scientists",
+  "institution": "Union of Concerned Scientists",
+  "unit": "Union of Concerned Scientists",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://www.ucs.org/",
+    "https://www.ucs.org/about/people",
+    "https://www.ucs.org/about",
+    "https://www.ucs.org/about/jobs",
+    "https://www.ucs.org/about/people/leadership"
+  ],
+  "labs": [
+    {
+      "id": "union-of-concerned-scientists-gretchen-t-goldman",
+      "kind": "research-lab",
+      "lab_name": "Union of Concerned Scientists",
+      "pi_name": "Gretchen T. Goldman",
+      "pi_title": "President and CEO",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.ucs.org/",
+      "location": "2 Brattle Square, Cambridge MA 02138",
+      "phone": "(617) 301-8000",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Science-based advocacy organization working on climate, energy, food, nuclear weapons and the use of science in democracy.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.ucs.org/about/people/staff",
+      "join_page_url": "https://www.ucs.org/about/jobs",
+      "join_notes": "Page says openings are listed by department, applications are screened by people, cover letters may be addressed to the Search Committee with salary expectations, and phone calls are discouraged. It also describes a Science Fellows Program for early-career to senior scientists. No contact address shown.",
+      "profile_url": null,
+      "notes": "Large national advocacy organization (hundreds of staff, board, advisory board, fellows and experts); the staff directory (linked, not read) was not counted. Leader name from the leadership page fetched in addition to the cached pages. No general email in cached text."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

@@ -1,0 +1,809 @@
+[
+  {
+    "id": "harvard-aaas",
+    "name": "Department of African and African American Studies (Harvard FAS)",
+    "category": "university-department",
+    "parent": "Harvard FAS",
+    "city": "Cambridge",
+    "start_url": "http://aaas.fas.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "People URL not checked",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "http://aaas.fas.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/aaas.fas.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-anthropology",
+    "name": "Department of Anthropology (Harvard FAS)",
+    "category": "university-department",
+    "parent": "Harvard FAS",
+    "city": "Cambridge",
+    "start_url": "https://anthropology.fas.harvard.edu/",
+    "people_url": "https://anthropology.fas.harvard.edu/department-members",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://anthropology.fas.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/anthropology.fas.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://anthropology.fas.harvard.edu/department-members",
+        "status": "200",
+        "text": "cache/_text/anthropology.fas.harvard.edu/department-members.txt",
+        "found_by": "targets.csv people_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-ethics",
+    "name": "Edmond and Lily Safra Center for Ethics (Harvard)",
+    "category": "research-center",
+    "parent": "Harvard University",
+    "city": "Cambridge",
+    "start_url": "https://ethics.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://ethics.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/ethics.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hds",
+    "name": "Harvard Divinity School",
+    "category": "school",
+    "parent": "Harvard HDS",
+    "city": "Cambridge",
+    "start_url": "https://hds.harvard.edu/",
+    "people_url": "https://www.hds.harvard.edu/faculty-research/faculty-of-divinity",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "Programs: https://www.hds.harvard.edu/faculty-research/programs-and-centers",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://hds.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/hds.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hds.harvard.edu/faculty-research/faculty-of-divinity",
+        "status": "200",
+        "text": "cache/_text/www.hds.harvard.edu/faculty-research-faculty-of-divinity.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "list",
+        "url": "https://www.hds.harvard.edu/faculty-research/programs-and-centers",
+        "status": "200",
+        "text": "cache/_text/www.hds.harvard.edu/faculty-research-programs-and-centers.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hds-cswr",
+    "name": "Center for the Study of World Religions (Harvard HDS)",
+    "category": "research-center",
+    "parent": "Harvard HDS",
+    "city": "Cambridge",
+    "start_url": "https://cswr.hds.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cswr.hds.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/cswr.hds.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hds-pes",
+    "name": "Program for the Evolution of Spirituality (Harvard HDS)",
+    "category": "research-center",
+    "parent": "Harvard HDS",
+    "city": "Cambridge",
+    "start_url": "https://pes.hds.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://pes.hds.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/pes.hds.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hds-pluralism",
+    "name": "Pluralism Project (Harvard HDS)",
+    "category": "research-center",
+    "parent": "Harvard HDS",
+    "city": "Cambridge",
+    "start_url": "https://pluralism.org/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://pluralism.org/",
+        "status": "200",
+        "text": "cache/_text/pluralism.org/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hds-rpl",
+    "name": "Religion and Public Life (Harvard HDS)",
+    "category": "research-center",
+    "parent": "Harvard HDS",
+    "city": "Cambridge",
+    "start_url": "https://rpl.hds.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://rpl.hds.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/rpl.hds.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hds-shiism",
+    "name": "Project on Shi'ism and Global Affairs (Harvard HDS)",
+    "category": "research-center",
+    "parent": "Harvard HDS",
+    "city": "Cambridge",
+    "start_url": "https://shiism.hds.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://shiism.hds.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/shiism.hds.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-hds-wsrp",
+    "name": "Women's Studies in Religion Program (Harvard HDS)",
+    "category": "research-center",
+    "parent": "Harvard HDS",
+    "city": "Cambridge",
+    "start_url": "https://wsrp.hds.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://wsrp.hds.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/wsrp.hds.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-history",
+    "name": "Department of History (Harvard FAS)",
+    "category": "university-department",
+    "parent": "Harvard FAS",
+    "city": "Cambridge",
+    "start_url": "http://history.fas.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "People URL not checked",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "http://history.fas.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/history.fas.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-history-of-science",
+    "name": "Department of the History of Science (Harvard FAS)",
+    "category": "university-department",
+    "parent": "Harvard FAS",
+    "city": "Cambridge",
+    "start_url": "https://histsci.fas.harvard.edu/",
+    "people_url": "https://prod-hos.drupalsites.harvard.edu/faculty-0?f%5B0%5D=hwp_c_currentpeople%3A133321",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "Faculty link points to a drupalsites host; may redirect",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://histsci.fas.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/histsci.fas.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://prod-hos.drupalsites.harvard.edu/faculty-0?f%5B0%5D=hwp_c_currentpeople%3A133321",
+        "status": "200",
+        "text": "cache/_text/prod-hos.drupalsites.harvard.edu/faculty-0-f-5b0-5d-hwp-c-currentpeople-3a133321.txt",
+        "found_by": "targets.csv people_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-iop",
+    "name": "Institute of Politics",
+    "category": "university-policy-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://iop.harvard.edu",
+    "people_url": "https://iop.harvard.edu/fellows",
+    "careers_url": "https://iop.harvard.edu/internships-and-careers",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact",
+    "listed_in": "snapshot",
+    "notes": "Mostly student programs",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://iop.harvard.edu",
+        "status": "200",
+        "text": "cache/_text/iop.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://iop.harvard.edu/fellows",
+        "status": "200",
+        "text": "cache/_text/iop.harvard.edu/fellows.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://iop.harvard.edu/about",
+        "status": "200",
+        "text": "cache/_text/iop.harvard.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://iop.harvard.edu/internships-and-careers",
+        "status": "200",
+        "text": "cache/_text/iop.harvard.edu/internships-and-careers.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-linguistics",
+    "name": "Department of Linguistics (Harvard FAS)",
+    "category": "university-department",
+    "parent": "Harvard FAS",
+    "city": "Cambridge",
+    "start_url": "https://linguistics.fas.harvard.edu/",
+    "people_url": "https://linguistics.fas.harvard.edu/people/faculty",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://linguistics.fas.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/linguistics.fas.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://linguistics.fas.harvard.edu/people/faculty",
+        "status": "200",
+        "text": "cache/_text/linguistics.fas.harvard.edu/people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-peabody",
+    "name": "Peabody Museum of Archaeology and Ethnology (Harvard FAS)",
+    "category": "research-center",
+    "parent": "Harvard FAS",
+    "city": "Cambridge",
+    "start_url": "https://peabody.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://peabody.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/peabody.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "harvard-philosophy",
+    "name": "Department of Philosophy (Harvard FAS)",
+    "category": "university-department",
+    "parent": "Harvard FAS",
+    "city": "Cambridge",
+    "start_url": "http://philosophy.fas.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "harvard-index",
+    "notes": "Homepage fetch blocked; people URL not confirmed",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "http://philosophy.fas.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/philosophy.fas.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "mit-act",
+    "name": "Art, Culture, and Technology Program (ACT)",
+    "category": "university-department",
+    "parent": "MIT / School of Architecture and Planning",
+    "city": "Cambridge",
+    "start_url": "https://act.mit.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "Homepage returned no link URLs",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://act.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/act.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://act.mit.edu/people/categories/people/",
+        "status": "200",
+        "text": "cache/_text/act.mit.edu/people-categories-people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://act.mit.edu/about/",
+        "status": "200",
+        "text": "cache/_text/act.mit.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "mit-cast",
+    "name": "MIT Center for Art, Science, and Technology (CAST)",
+    "category": "research-center",
+    "parent": "MIT / Interdepartmental",
+    "city": "Cambridge",
+    "start_url": "http://arts.mit.edu/cast/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "Not fetched",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "http://arts.mit.edu/cast/",
+        "status": "200",
+        "text": "cache/_text/arts.mit.edu/cast.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://arts.mit.edu/cast/about/team/",
+        "status": "200",
+        "text": "cache/_text/arts.mit.edu/cast-about-team.txt",
+        "found_by": "start page link labelled 'Team'"
+      },
+      {
+        "role": "about",
+        "url": "https://arts.mit.edu/cast/about/",
+        "status": "200",
+        "text": "cache/_text/arts.mit.edu/cast-about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "mit-cmsw",
+    "name": "Comparative Media Studies/Writing",
+    "category": "university-department",
+    "parent": "MIT / SHASS",
+    "city": "Cambridge",
+    "start_url": "https://cmsw.mit.edu/",
+    "people_url": "https://cmsw.mit.edu/people/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "Homepage returned no links; people page fetched OK",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cmsw.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/cmsw.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://cmsw.mit.edu/people/",
+        "status": "200",
+        "text": "cache/_text/cmsw.mit.edu/people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://cmsw.mit.edu/about/",
+        "status": "200",
+        "text": "cache/_text/cmsw.mit.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      }
+    ]
+  },
+  {
+    "id": "mit-global-languages",
+    "name": "Global Languages",
+    "category": "university-department",
+    "parent": "MIT / SHASS",
+    "city": "Cambridge",
+    "start_url": "https://languages.mit.edu/",
+    "people_url": "https://languages.mit.edu/people/",
+    "careers_url": "https://languages.mit.edu/open-academic-positions/",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://languages.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/languages.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://languages.mit.edu/people/",
+        "status": "200",
+        "text": "cache/_text/languages.mit.edu/people.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://languages.mit.edu/mission/",
+        "status": "200",
+        "text": "cache/_text/languages.mit.edu/mission.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://languages.mit.edu/open-academic-positions/",
+        "status": "200",
+        "text": "cache/_text/languages.mit.edu/open-academic-positions.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "mit-history",
+    "name": "History",
+    "category": "university-department",
+    "parent": "MIT / SHASS",
+    "city": "Cambridge",
+    "start_url": "https://history.mit.edu/",
+    "people_url": "https://history.mit.edu/faculty/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://history.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/history.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://history.mit.edu/faculty/",
+        "status": "200",
+        "text": "cache/_text/history.mit.edu/faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://history.mit.edu/about/",
+        "status": "200",
+        "text": "cache/_text/history.mit.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://history.mit.edu/the-history-of-now/postdoctoral-fellowship-program/",
+        "status": "200",
+        "text": "cache/_text/history.mit.edu/the-history-of-now-postdoctoral-fellowship-program.txt",
+        "found_by": "start page link labelled 'Postdoctoral Fellowship Program'"
+      }
+    ]
+  },
+  {
+    "id": "mit-literature",
+    "name": "Literature",
+    "category": "university-department",
+    "parent": "MIT / SHASS",
+    "city": "Cambridge",
+    "start_url": "https://lit.mit.edu/",
+    "people_url": "https://lit.mit.edu/people/faculty/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://lit.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/lit.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://lit.mit.edu/people/faculty/",
+        "status": "200",
+        "text": "cache/_text/lit.mit.edu/people-faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://lit.mit.edu/about/",
+        "status": "200",
+        "text": "cache/_text/lit.mit.edu/about.txt",
+        "found_by": "start page link labelled 'ABOUT'"
+      }
+    ]
+  },
+  {
+    "id": "mit-mta",
+    "name": "Music and Theater Arts",
+    "category": "university-department",
+    "parent": "MIT / SHASS",
+    "city": "Cambridge",
+    "start_url": "https://mta.mit.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "No people link found on homepage",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://mta.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/mta.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      }
+    ]
+  },
+  {
+    "id": "mit-philosophy",
+    "name": "Philosophy",
+    "category": "university-department",
+    "parent": "MIT / SHASS",
+    "city": "Cambridge",
+    "start_url": "https://philosophy.mit.edu/",
+    "people_url": "http://philosophy.mit.edu/faculty/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "People: http://philosophy.mit.edu/people/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://philosophy.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/philosophy.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "http://philosophy.mit.edu/faculty/",
+        "status": "200",
+        "text": "cache/_text/philosophy.mit.edu/faculty.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "list",
+        "url": "http://philosophy.mit.edu/people/",
+        "status": "200",
+        "text": "cache/_text/philosophy.mit.edu/people.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "mit-shass",
+    "name": "School of Humanities, Arts, and Social Sciences",
+    "category": "school",
+    "parent": "MIT / SHASS",
+    "city": "Cambridge",
+    "start_url": "https://shass.mit.edu/",
+    "people_url": "https://shass.mit.edu/meet-our-community/faculty-academic-staff/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "3",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "mit",
+    "notes": "Academic units: https://shass.mit.edu/about-the-school/academic-units/",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://shass.mit.edu/",
+        "status": "200",
+        "text": "cache/_text/shass.mit.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://shass.mit.edu/meet-our-community/faculty-academic-staff/",
+        "status": "200",
+        "text": "cache/_text/shass.mit.edu/meet-our-community-faculty-academic-staff.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "list",
+        "url": "https://shass.mit.edu/about-the-school/academic-units/",
+        "status": "200",
+        "text": "cache/_text/shass.mit.edu/about-the-school-academic-units.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  }
+]

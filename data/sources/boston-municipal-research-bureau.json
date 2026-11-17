@@ -1,0 +1,40 @@
+{
+  "id": "boston-municipal-research-bureau",
+  "institution": "Boston Municipal Research Bureau",
+  "unit": "Boston Municipal Research Bureau",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://bmrb.org",
+    "https://www.bmrb.org/about-us/staff/",
+    "https://www.bmrb.org/about-us/",
+    "https://www.bmrb.org/internship-opportunities/",
+    "https://www.bmrb.org/contact-us/"
+  ],
+  "labs": [
+    {
+      "id": "boston-municipal-research-bureau-steve-poftak",
+      "kind": "research-lab",
+      "lab_name": "Boston Municipal Research Bureau",
+      "pi_name": "Steve Poftak",
+      "pi_title": "CEO & President",
+      "pi_email": "spoftak@bmrb.org",
+      "accepting_grad_students": null,
+      "lab_website": "https://bmrb.org",
+      "location": "333 Washington Street, Suite 854, Boston, MA 02108",
+      "phone": "617-227-1900",
+      "admin_name": "Erin McGinley (membership contact)",
+      "admin_email": "contact@bmrb.org",
+      "research_summary": "Member-supported, non-partisan research organization founded in 1932 that monitors and analyzes Boston city government finances and policy.",
+      "member_count": 4,
+      "member_breakdown": "1 CEO & president, 1 director of research, 1 policy analyst, 1 membership & operations manager",
+      "members_page_url": "https://www.bmrb.org/about-us/staff/",
+      "join_page_url": "https://www.bmrb.org/internship-opportunities/",
+      "join_notes": "Takes interns, mostly through the Northeastern co-op program, and welcomes other schools though projects are periodic; send inquiries and resumes to contact@bmrb.org.",
+      "profile_url": null,
+      "notes": "Site is active (2026 events and Poftak joined July 2025). Erin McGinley's own address is emcginley@bmrb.org (membership contact). Staff page phones: Poftak 617-227-1995."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Site is live and current, contrary to the thin-content note."
+}

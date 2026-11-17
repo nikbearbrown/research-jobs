@@ -1,0 +1,39 @@
+{
+  "id": "boston-global-forum",
+  "institution": "Boston Global Forum",
+  "unit": "Boston Global Forum",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://bostonglobalforum.org/",
+    "https://bostonglobalforum.org/about/board-and-executives/",
+    "https://bostonglobalforum.org/about/",
+    "https://bostonglobalforum.org/career/"
+  ],
+  "labs": [
+    {
+      "id": "boston-global-forum-nguyen-anh-tuan",
+      "kind": "research-lab",
+      "lab_name": "Boston Global Forum",
+      "pi_name": "Nguyen Anh Tuan",
+      "pi_title": "Co-Founder, Co-Chair and CEO",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://bostonglobalforum.org/",
+      "location": "Boston",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Non-profit forum that brings together leaders and thinkers on global governance, with current work centered on AI and digital governance, awards, conferences and policy papers.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://bostonglobalforum.org/about/board-and-executives/",
+      "join_page_url": "https://bostonglobalforum.org/career/",
+      "join_notes": "Page recruits volunteers and student interns (journalism, international relations, political science, economics, law, public policy, graphic design); applicants send a resume, cover letter and writing sample to an email address that the cached page hides behind an obfuscated link. The page text looks old (mentions a 2015 program).",
+      "profile_url": "https://bostonglobalforum.org/board-of-directors/nguyen-anh-tuan/",
+      "notes": "Board and executives page lists a board of directors, an executive board of overseas representatives, and a few staff roles (chief editor, technical manager, assistants, Director of AIWS Ethics); it mixes board and staff, so no member count. Michael Dukakis is Co-Founder and Chairman. Site is active (news dated Nov 2026). No general contact address or phone found in cached text. Also lists the Michael Dukakis Institute and Global Alliance for Digital Governance in the menu, not recorded as separate entries."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "AI/digital-governance focus is confirmed by the site's news and initiatives (AI World Society, Global Law and Accord on AI and Digital). Careers email was obfuscated so not recorded."
+}

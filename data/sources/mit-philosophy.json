@@ -1,0 +1,38 @@
+{
+  "id": "mit-philosophy",
+  "institution": "MIT",
+  "unit": "Philosophy",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://philosophy.mit.edu/",
+    "http://philosophy.mit.edu/faculty/",
+    "http://philosophy.mit.edu/people/"
+  ],
+  "labs": [
+    {
+      "id": "mit-philosophy-kieran-setiya",
+      "kind": "research-lab",
+      "lab_name": "Philosophy (Department of Linguistics and Philosophy)",
+      "pi_name": "Kieran Setiya",
+      "pi_title": "Department Head, Peter de Florez Professor",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://philosophy.mit.edu/",
+      "location": "Department of Linguistics and Philosophy, 77 Massachusetts Avenue, 32-D808, Cambridge, MA 02139-4307",
+      "phone": "1.617.253.4141",
+      "admin_name": null,
+      "admin_email": "philosophy@mit.edu",
+      "research_summary": "Philosophy section of MIT's Linguistics and Philosophy department, with about 14 faculty and a PhD program.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "http://philosophy.mit.edu/setiya/",
+      "notes": "Department entry; member_count left null because a department is not a lab."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "No labs or centers. The Groups menu lists reading groups, a student club, a Consciousness Club and 'Ethics & AI' with no lead shown, so none were added. No careers page."
+}

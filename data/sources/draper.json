@@ -1,0 +1,40 @@
+{
+  "id": "draper",
+  "institution": "Draper",
+  "unit": "Draper",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://www.draper.com",
+    "https://www.draper.com/about/engineering-fellows",
+    "https://www.draper.com/about",
+    "https://www.draper.com/careers",
+    "https://www.draper.com/about/executive-team"
+  ],
+  "labs": [
+    {
+      "id": "draper-jerry-m-wohletz",
+      "kind": "research-lab",
+      "lab_name": "Draper",
+      "pi_name": "Jerry M. Wohletz",
+      "pi_title": "President and CEO",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.draper.com",
+      "location": "555 Technology Square, Cambridge, Massachusetts (19 U.S. locations)",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Independent nonprofit engineering innovation company doing contract engineering and R&D for government, industry and academia, from space to undersea to biomedical systems.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.draper.com/about/engineering-fellows",
+      "join_page_url": "https://www.draper.com/careers",
+      "join_notes": "Careers page describes benefits and links to an online job-openings system; also has Draper Scholars (graduate research) and student programs. No contact address given on the page.",
+      "profile_url": null,
+      "notes": "Large organization: About page shows 2,600+ employees and over $1B 2025 revenue, so no count. The Engineering Fellows page profiles a set of senior technical fellows; the Executive Team page (read) lists the CEO and vice presidents. No named labs or research groups with their own pages were seen. Visitor archivist contact archives@draper.com is for museum tours only, not a general contact. No profile URL for the CEO was linked (bio opens in-page)."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

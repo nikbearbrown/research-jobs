@@ -1,0 +1,38 @@
+{
+  "id": "mit-cast",
+  "institution": "MIT",
+  "unit": "MIT Center for Art, Science, and Technology (CAST)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "http://arts.mit.edu/cast/",
+    "https://arts.mit.edu/cast/about/",
+    "https://arts.mit.edu/cast/about/team/"
+  ],
+  "labs": [
+    {
+      "id": "mit-cast-evan-ziporyn",
+      "kind": "research-lab",
+      "lab_name": "MIT Center for Art, Science & Technology (CAST)",
+      "pi_name": "Evan Ziporyn",
+      "pi_title": "Faculty Director (Kenan Sahin Distinguished Professor)",
+      "pi_email": "zipo@mit.edu",
+      "accepting_grad_students": null,
+      "lab_website": "http://arts.mit.edu/cast/",
+      "location": "MIT Room E15-205, 20 Ames Street, Cambridge, MA 02139-4307 (staff offices); the faculty director is in Room 4-246, 77 Massachusetts Avenue",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "cast@mit.edu",
+      "research_summary": "A joint initiative of the Provost's office, SA+P and SHASS that supports cross-disciplinary classes, visiting artist residencies, faculty grants, performances and symposia linking the arts with science and technology at MIT.",
+      "member_count": 12,
+      "member_breakdown": "1 faculty director, 1 interim executive director, 10 staff (producers, designers, communications, curator, coordinator)",
+      "members_page_url": "https://arts.mit.edu/cast/about/team/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Count is everyone on the Team page; two of the ten staff (Emily Peckham, Director of the Council for the Arts at MIT; Sarah Hirzel, W20 student art studios) hold roles that may sit partly outside CAST. Stacy DeBartolo is Interim Executive Director of Arts Initiatives and CAST. The Team page gives phone 617.452.2302 for the director and 617.253.4003 for DeBartolo; no general phone, so left blank. An Apply page (https://arts.mit.edu/cast/apply/) is linked but was not read; no jobs or research-assistant page found. No labs inside CAST."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

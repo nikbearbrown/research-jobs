@@ -1,0 +1,39 @@
+{
+  "id": "conservation-law-foundation",
+  "institution": "Conservation Law Foundation",
+  "unit": "Conservation Law Foundation",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://www.clf.org/",
+    "https://www.clf.org/about/our-team/",
+    "https://www.clf.org/about/",
+    "https://www.clf.org/careers-at-clf/"
+  ],
+  "labs": [
+    {
+      "id": "conservation-law-foundation-bradley-campbell",
+      "kind": "research-lab",
+      "lab_name": "Conservation Law Foundation",
+      "pi_name": "Bradley Campbell",
+      "pi_title": "President",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.clf.org/",
+      "location": "62 Summer St, Boston, MA 02110 (offices across New England)",
+      "phone": "617-350-0990",
+      "admin_name": null,
+      "admin_email": "e-info@clf.org",
+      "research_summary": "Environmental advocacy and law organization working on climate, ocean, clean air and water, and community issues across New England.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.clf.org/about/our-team/",
+      "join_page_url": "https://www.clf.org/careers-at-clf/",
+      "join_notes": "Page describes staff and paid internship openings (mostly for law students, plus summer slots for undergraduates and non-legal graduate students) and points to a list of openings; no contact address given on the page.",
+      "profile_url": "https://www.clf.org/about/our-team/bradley-campbell/",
+      "notes": "Large organization: team page lists about 246 staff (many attorneys) by state, so no count. Press contact Mike Naughton, 617.850.1709, press@clf.org. Team page also mentions a separate list of volunteer Senior Fellows (not read)."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

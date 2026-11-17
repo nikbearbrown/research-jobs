@@ -55,7 +55,7 @@ for a named lab or program inside the target with no lead shown use
 
 ## What to record, by `category`
 
-### `research-center`, `university-policy-center`, `policy-think-tank`, `ai-research`
+### `research-center`, `university-policy-center`, `policy-think-tank`, `policy-adjacent`, `science-institute`, `ai-research`
 
 Exactly one entry for the organization itself:
 

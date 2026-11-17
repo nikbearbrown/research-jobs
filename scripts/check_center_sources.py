@@ -212,6 +212,8 @@ def main():
         labs, seen_ids, dropped, thin = [], set(), [], []
         for n, raw in enumerate(data.get("labs") or []):
             lab = {k: raw.get(k) for k in LAB_KEYS}
+            if isinstance(lab["pi_name"], str):  # a title in front of the name is not part of it
+                lab["pi_name"] = re.sub(r"^(Prof\.|Professor|Dr\.)\s+", "", lab["pi_name"].strip()) or None
             for k in URL_KEYS:  # drop analytics fragments a page appends to its links
                 if isinstance(lab[k], str):
                     lab[k] = re.sub(r"#(?!/).*$", "", lab[k].strip()) or None  # keep only hash routes ("#/people")

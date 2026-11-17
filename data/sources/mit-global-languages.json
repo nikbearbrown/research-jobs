@@ -1,0 +1,39 @@
+{
+  "id": "mit-global-languages",
+  "institution": "MIT",
+  "unit": "Global Languages",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://languages.mit.edu/",
+    "https://languages.mit.edu/people/",
+    "https://languages.mit.edu/mission/",
+    "https://languages.mit.edu/open-academic-positions/"
+  ],
+  "labs": [
+    {
+      "id": "mit-global-languages-per-urlaub",
+      "kind": "research-lab",
+      "lab_name": "Global Languages",
+      "pi_name": "Per Urlaub",
+      "pi_title": "Director, Global Languages; Head of Language Instruction; Professor of the Practice",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://languages.mit.edu/",
+      "location": "Massachusetts Institute of Technology, 77 Massachusetts Avenue, 14N-305, Cambridge, MA 02139",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "languages@mit.edu",
+      "research_summary": "MIT's language program, which teaches languages, cultures and intercultural communication to students and runs immersive international experiences.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://languages.mit.edu/open-academic-positions/",
+      "join_notes": "The cached Open Academic Positions page shows no posting text, only the site frame; no application details or contact are given on it.",
+      "profile_url": "https://languages.mit.edu/people/per-urlaub/",
+      "notes": "Department entry; member_count left null because a department is not a lab. The people page lists instructors and one administrator, not research staff."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "No labs, centers or research groups are listed on the cached pages. 'Creative Pedagogies' appears only as a menu item with no lead or separate site, so it was not added."
+}

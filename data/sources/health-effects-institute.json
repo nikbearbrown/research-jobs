@@ -1,0 +1,38 @@
+{
+  "id": "health-effects-institute",
+  "institution": "Health Effects Institute",
+  "unit": "Health Effects Institute",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://www.healtheffects.org/",
+    "https://www.healtheffects.org/about/staff",
+    "https://www.healtheffects.org/careers"
+  ],
+  "labs": [
+    {
+      "id": "health-effects-institute-elena-craft",
+      "kind": "research-lab",
+      "lab_name": "Health Effects Institute",
+      "pi_name": "Elena Craft",
+      "pi_title": "President and CEO",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.healtheffects.org/",
+      "location": "One Beacon Street, Suite 21300, Boston, MA 02108",
+      "phone": "1-617-488-2300",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Independent nonprofit that funds and reviews research on health effects of air pollution and emerging fuels and technologies, supported by the EPA and industry.",
+      "member_count": 25,
+      "member_breakdown": "1 president and CEO, 1 chief strategy officer, 3 directors, 1 interim program manager, 1 corporate secretary, 5 scientists (senior/staff), 1 consulting principal scientist, 2 regional program managers, 1 research associate, 1 research assistant, 8 finance, operations, editorial, communications and senior-advisor staff",
+      "members_page_url": "https://www.healtheffects.org/about/staff",
+      "join_page_url": "https://www.healtheffects.org/careers",
+      "join_notes": "Page lists benefits and links to a current openings listing on an outside hiring system; no contact address and no stated openings in the cached text. A separate Summer Fellowship program exists (menu only, not read).",
+      "profile_url": "https://www.healtheffects.org/about/staff/elena-craft",
+      "notes": "Count of 25 is every current person on the staff directory (includes one Consulting Principal Scientist); excludes a memorial entry and two emeriti. No general email shown in cached text."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}

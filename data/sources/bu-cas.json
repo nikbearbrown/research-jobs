@@ -1,0 +1,40 @@
+{
+  "id": "bu-cas",
+  "institution": "Boston University",
+  "unit": "College of Arts & Sciences",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://www.bu.edu/cas/",
+    "https://www.bu.edu/cas/faculty-staff/",
+    "https://www.bu.edu/cas/about/",
+    "https://www.bu.edu/cas/career-development-resources/",
+    "https://www.bu.edu/cas/departments/"
+  ],
+  "labs": [
+    {
+      "id": "bu-cas-elie-wiesel-center-for-jewish-studies",
+      "kind": "research-lab",
+      "lab_name": "Elie Wiesel Center for Jewish Studies",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "http://www.bu.edu/jewishstudies/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Listed on CAS's Departments & Programs page; not read further."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The Departments & Programs page is a list of departments and degree programs; the Elie Wiesel Center is the only center in it. The school's Research & Discovery page was not fetched. Start page news mentions the Center for Innovation in Social Science and a COSMIC center but gives no links to list pages."
+}

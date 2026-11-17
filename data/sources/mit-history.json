@@ -1,0 +1,39 @@
+{
+  "id": "mit-history",
+  "institution": "MIT",
+  "unit": "History",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://history.mit.edu/",
+    "https://history.mit.edu/faculty/",
+    "https://history.mit.edu/about/",
+    "https://history.mit.edu/the-history-of-now/postdoctoral-fellowship-program/"
+  ],
+  "labs": [
+    {
+      "id": "mit-history-lerna-ekmekcioglu",
+      "kind": "research-lab",
+      "lab_name": "History (MIT History Section)",
+      "pi_name": "Lerna Ekmekcioglu",
+      "pi_title": "Head of History; McMillan-Stewart Professor of History",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://history.mit.edu/",
+      "location": "77 Massachusetts Avenue, Building E51-255, Cambridge, MA 02139",
+      "phone": "617-253-4965",
+      "admin_name": null,
+      "admin_email": "history-info@mit.edu",
+      "research_summary": "MIT's history department, covering scholarship, teaching and public engagement, with a postdoctoral fellowship program.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://history.mit.edu/the-history-of-now/postdoctoral-fellowship-program/",
+      "join_notes": "The History of Now postdoctoral fellowship brings early-career historians for two years; the page names the 2026-2028 cohort (Middle Eastern history) and gives no application steps or contact.",
+      "profile_url": "https://history.mit.edu/people/lerna-ekmekcioglu/",
+      "notes": "Department entry; member_count left null because a department is not a lab. Head named on the faculty page and the start page news link."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "No labs or centers are listed. The History of Now Initiative, its senior scholars and several lecture/seminar series appear only in the menu with no lead of their own, so they were not added."
+}

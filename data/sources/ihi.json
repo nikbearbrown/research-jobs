@@ -1,0 +1,40 @@
+{
+  "id": "ihi",
+  "institution": "Institute for Healthcare Improvement",
+  "unit": "Institute for Healthcare Improvement",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-17",
+  "listing_urls": [
+    "https://www.ihi.org/",
+    "https://www.ihi.org/about/people",
+    "https://www.ihi.org/about",
+    "https://www.ihi.org/about/careers",
+    "https://www.ihi.org/about/people/leadership-team"
+  ],
+  "labs": [
+    {
+      "id": "ihi-sylvia-trent-adams",
+      "kind": "research-lab",
+      "lab_name": "Institute for Healthcare Improvement",
+      "pi_name": "Sylvia Trent-Adams",
+      "pi_title": "President and CEO",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.ihi.org/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Nonprofit that uses improvement science to advance patient safety, quality and health equity in health systems worldwide.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.ihi.org/about/people/leadership-team",
+      "join_page_url": "https://www.ihi.org/about/careers",
+      "join_notes": "Page describes the hiring process and links to open roles; questions go to employment@ihi.org.",
+      "profile_url": null,
+      "notes": "Large global organization (staff, faculty, fellows, improvement advisors); only a leadership team page (13 listed profiles) was read, so no count. The cached pages show no general address, phone or contact email. Leader name from the leadership-team page fetched in addition to the cached pages. Admin email for careers is employment@ihi.org (careers only)."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": null
+}
