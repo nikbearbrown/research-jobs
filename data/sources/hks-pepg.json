@@ -1,0 +1,41 @@
+{
+  "id": "hks-pepg",
+  "institution": "Harvard",
+  "unit": "Program on Education Policy and Governance",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-22",
+  "listing_urls": [
+    "https://www.hks.harvard.edu/centers/taubman/programs-research/pepg",
+    "https://www.hks.harvard.edu/centers/taubman/programs-research/pepg/people",
+    "https://www.hks.harvard.edu/centers/taubman/programs-research/pepg/fellowships",
+    "https://www.hks.harvard.edu/centers/taubman/about-us/people",
+    "https://www.hks.harvard.edu/centers/taubman/about-us",
+    "https://www.hks.harvard.edu/centers/taubman/students"
+  ],
+  "labs": [
+    {
+      "id": "hks-pepg-paul-peterson",
+      "kind": "research-lab",
+      "lab_name": "Program on Education Policy and Governance",
+      "pi_name": "Paul E. Peterson",
+      "pi_title": "Director",
+      "pi_email": "ppeterso@gov.harvard.edu",
+      "accepting_grad_students": null,
+      "lab_website": "https://www.hks.harvard.edu/centers/taubman/programs-research/pepg",
+      "location": "79 John F. Kennedy Street, Littauer 101, Cambridge, MA 02138",
+      "phone": "(617) 495-7976",
+      "admin_name": null,
+      "admin_email": "pepg_administrator@hks.harvard.edu",
+      "research_summary": "Harvard program, based in the Government Department and the Kennedy School's Taubman Center, that studies education policy and school governance, trains young scholars and publishes the journal Education Next.",
+      "member_count": 8,
+      "member_breakdown": "1 director, 1 deputy director, 1 postdoctoral researcher, 2 PEPG researchers, 3 staff (associate director, managing editor and research, data and web manager)",
+      "members_page_url": "https://www.hks.harvard.edu/centers/taubman/programs-research/pepg/people",
+      "join_page_url": "https://www.hks.harvard.edu/centers/taubman/programs-research/pepg/fellowships",
+      "join_notes": "The only opening shown is a two-year partial-tuition master's fellowship for people applying to or enrolled in the HKS MPP or a similar Harvard master's program. Applicants email a letter of intent and a CV of up to two pages, as PDFs, to pepg_administrator@hks.harvard.edu; the deadline for 2027-28 is Jan. 22, 2027. No staff or research-assistant jobs are listed.",
+      "profile_url": "https://www.hks.harvard.edu/faculty/paul-peterson",
+      "notes": "Martin R. West (Harvard Graduate School of Education) is Deputy Director. The count comes from PEPG's own People page, which the program page links; it leaves out the advisory committee, one affiliated Harvard faculty member, 25 research affiliates at other institutions, and eight academic visitors who co-teach a Government course. The two people listed as 'PEPG Researchers' carry Government Department and HGSE affiliations and may be graduate students. The Taubman Center people, about and student pages gathered for this target do not name PEPG staff; Peterson and West appear there only as Taubman-listed faculty, and the HKS faculty profile link for Peterson comes from the Taubman people page."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The gathered people, about and careers pages belong to the Taubman Center, PEPG's parent, so PEPG was read from its own pages. Fetched 2 extra pages linked from the PEPG page: its People page and its Fellowships page. The HKS A-to-Z list page was not used for entries."
+}

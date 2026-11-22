@@ -1,0 +1,9 @@
+{
+ "id": "hks-environmental-economics",
+ "listing_urls": [
+  "https://heep.hks.harvard.edu/"
+ ],
+ "labs": [],
+ "non_lab_people": [],
+ "notes": "The program's only gathered page, its home page, returns an Akamai 'Access Denied' message instead of content; the cached copy was already taken with a headless browser, so it was not fetched again (this is the same Akamai block CLAUDE.md records for other Harvard hosts). No other address for the program appears on the cached pages, so nothing about its lead, staff, contact or openings could be read. The HKS A-to-Z list page was not used for entries, as instructed."
+}

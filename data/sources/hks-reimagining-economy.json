@@ -1,0 +1,39 @@
+{
+  "id": "hks-reimagining-economy",
+  "institution": "Harvard",
+  "unit": "Reimagining the Economy",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-22",
+  "listing_urls": [
+    "https://www.hks.harvard.edu/centers/wiener/programs/economy",
+    "https://www.hks.harvard.edu/centers/wiener/programs/economy/about/team",
+    "https://www.hks.harvard.edu/centers/wiener/programs/economy/about",
+    "https://www.hks.harvard.edu/centers/wiener/programs/economy/about/opportunities"
+  ],
+  "labs": [
+    {
+      "id": "hks-reimagining-economy-gordon-hanson",
+      "kind": "research-lab",
+      "lab_name": "Reimagining the Economy",
+      "pi_name": "Gordon Hanson",
+      "pi_title": "Faculty Co-Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.hks.harvard.edu/centers/wiener/programs/economy",
+      "location": "79 John F. Kennedy Street, Cambridge, MA 02138",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "reimaginingtheeconomy@hks.harvard.edu",
+      "research_summary": "Economics-led, multidisciplinary project of the Malcolm Wiener Center that studies place-based, industrial and green-transition policy and the institutions needed for more widely shared prosperity.",
+      "member_count": 13,
+      "member_breakdown": "2 faculty co-directors, 1 director, 1 research manager, 2 project managers, 5 predoctoral fellows, 1 senior fellow, 1 research fellow",
+      "members_page_url": "https://www.hks.harvard.edu/centers/wiener/programs/economy/about/team",
+      "join_page_url": "https://www.hks.harvard.edu/centers/wiener/programs/economy/about/opportunities",
+      "join_notes": "Hires current Harvard students as part-time research assistants (most roles 5 to 10 hours a week for the fall or the full academic year), applying through an online form linked from the page, with rolling review. It also recruits predoctoral research fellows each year to work on regional inequality data, but says that position is not open now. General contact: reimaginingtheeconomy@hks.harvard.edu.",
+      "profile_url": "https://www.hks.harvard.edu/faculty/gordon-hanson",
+      "notes": "Dani Rodrik is the other Faculty Co-Director, and Rohan Sandhu is Director and Co-founder. The count covers the Team section plus the senior fellow and research fellow; it leaves out one visiting fellow and 27 student researchers listed as a group. The program belongs to the Malcolm Wiener Center (target hks-wiener)."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Fetched 1 extra page: the Jobs and Opportunities page linked from the program's menu. The HKS A-to-Z list page was not used for entries."
+}

@@ -1,0 +1,39 @@
+{
+  "id": "hks-growth-lab",
+  "institution": "Harvard",
+  "unit": "Growth Lab (Center for International Development)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-22",
+  "listing_urls": [
+    "https://growthlab.cid.harvard.edu/",
+    "https://growthlab.cid.harvard.edu/about",
+    "https://growthlab.hks.harvard.edu/jobs-opportunities/",
+    "https://growthlab.hks.harvard.edu/about/our-people/"
+  ],
+  "labs": [
+    {
+      "id": "hks-growth-lab-ricardo-hausmann",
+      "kind": "research-lab",
+      "lab_name": "Growth Lab",
+      "pi_name": "Ricardo Hausmann",
+      "pi_title": "Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://growthlab.cid.harvard.edu/",
+      "location": "Harvard Kennedy School, 79 JFK Street, Cambridge, MA 02138",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "growthlab@hks.harvard.edu",
+      "research_summary": "Harvard Kennedy School research group on economic growth and development policy that advises governments on growth strategies and builds public data tools such as the Atlas of Economic Complexity.",
+      "member_count": 50,
+      "member_breakdown": "1 faculty director, 1 executive director, 5 other directors, 2 senior managers of applied research, 3 senior research fellows, 1 senior applied research fellow, 16 research fellows, 5 research managers, 2 postdoctoral fellows, 1 EADM fellow, 1 senior computational social scientist, 1 research analyst, 5 development and design staff, 6 administrative staff",
+      "members_page_url": "https://growthlab.hks.harvard.edu/about/our-people/",
+      "join_page_url": "https://growthlab.hks.harvard.edu/jobs-opportunities/",
+      "join_notes": "The jobs page lists current research and staff openings and says internships are posted there too. It now describes Policy Research Fellowships (deadline December 31, 2026) and a visiting fellows and scholars program for self-funded researchers staying 6 to 12 months. The home page points students to internships and in-semester RA posts. Contact is growthlab@hks.harvard.edu.",
+      "profile_url": "https://growthlab.hks.harvard.edu/person/ricardo-hausmann/",
+      "notes": "Count is the 50 distinct people listed under Senior Leadership, Academic Research, Policy Research, Development & Design and Administration (some names appear in two sections). It leaves out 2 visiting fellows, 3 associates or research collaborators and the alumni. The page itself speaks of about 60 faculty, fellows and staff. Other senior leaders: Andrea Neilan Carranza (Executive Director), Douglas Barrios (Director, Policy Research), Muhammed A. Yildirim (Director, Academic Research). One person (Tammy Zhang) has no title shown."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The gathered About address (growthlab.cid.harvard.edu/about) served the home page, so the People page was fetched from the site menu (one extra fetch). The site's own links now point to growthlab.hks.harvard.edu. The HKS A-Z list page was used only to show where the target came from. No Cloudflare-hidden emails on these pages."
+}

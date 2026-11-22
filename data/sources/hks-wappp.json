@@ -1,0 +1,42 @@
+{
+  "id": "hks-wappp",
+  "institution": "Harvard",
+  "unit": "Women and Public Policy Program",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-22",
+  "listing_urls": [
+    "https://wappp.hks.harvard.edu/",
+    "https://wappp.hks.harvard.edu/centers/wappp/about/people",
+    "https://wappp.hks.harvard.edu/centers/wappp/about",
+    "https://wappp.hks.harvard.edu/centers/wappp/research/research-fellowship-program",
+    "https://www.hks.harvard.edu/centers/wappp",
+    "https://www.hks.harvard.edu/centers/wappp/about/people",
+    "https://www.hks.harvard.edu/centers/wappp/research/research-fellowship-program"
+  ],
+  "labs": [
+    {
+      "id": "hks-wappp-iris-bohnet",
+      "kind": "research-lab",
+      "lab_name": "Women and Public Policy Program",
+      "pi_name": "Iris Bohnet",
+      "pi_title": "Co-Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://wappp.hks.harvard.edu/",
+      "location": "Mailbox 100, Harvard Kennedy School, 79 John F. Kennedy Street, Cambridge, Massachusetts 02138",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Kennedy School program that researches gender equity at work, in politics and in conflict, hosts gender-focused research fellows and keeps an open portal of evidence on policies that close gender gaps.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": "https://www.hks.harvard.edu/centers/wappp/research/research-fellowship-program",
+      "join_notes": "Offers unpaid research fellowships of one or two semesters, residential or non-residential, for PhD candidates and post-PhD scholars doing gender research in one of the program's three focus areas. Applicants email a cover letter, CV, project description of up to five pages, one writing sample and two recommendation letters to wappp_fellowships@hks.harvard.edu; the next deadline is Feb. 1, 2027. No staff jobs are listed on the pages read.",
+      "profile_url": "https://www.hks.harvard.edu/faculty/iris-bohnet",
+      "notes": "Hannah Riley Bowles is the other Co-Director, and Nicole Carter Quinn is Executive Director. The People Directory (https://www.hks.harvard.edu/centers/wappp/about/people) runs over two pages; its filters show 3 center leadership, 7 staff, 12 fellows, 22 affiliated faculty and 1 student. Only page 1 was read, and research fellows may be non-residential, so no count. No general email or phone appears on the pages read (the Contact Us page was not read); the fellowship inbox is recorded in join_notes only."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Every page on the wappp.hks.harvard.edu host (the gathered people, about and fellowship pages) returns the program's home page text, so the real pages were read on www.hks.harvard.edu, which the home page links. Fetched 3 extra pages: the www home page (to reach its own menu links), page 1 of the People Directory and the Research Fellowship page. Page 2 of the directory and its filtered views were not read (fetch budget used). Not given entries: the Gender Action Portal (gap.hks.harvard.edu), an evidence database rather than a research group, and three research areas (Work and Gender Equity, Gender and Politics, Gender and Conflict) that have pages on the WAPPP site but no lead shown. The HKS A-to-Z list page was not used for entries."
+}

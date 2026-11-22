@@ -1,0 +1,12 @@
+{
+ "id": "hks-epod",
+ "listing_urls": [
+  "https://epod.cid.harvard.edu/",
+  "https://epod.cid.harvard.edu/centers/cid/about-cid/people",
+  "https://epod.cid.harvard.edu/centers/cid/contact-us",
+  "https://epod.cid.harvard.edu/centers/cid/research-teaching/research-programs-initiatives/past-programs"
+ ],
+ "labs": [],
+ "non_lab_people": [],
+ "notes": "No page read shows EPoD, so no entry. Every address read on epod.cid.harvard.edu (the home page, the gathered people and contact pages, and the linked past-programs page) returns the same Center for International Development 'Research Programs & Initiatives' page, byte for byte, with its canonical address on www.hks.harvard.edu. None of them mentions EPoD or Evidence for Policy Design. EPoD is not among the eight current CID programs listed, and the past-programs link just served the same page again. The gathered people and contact pages are this CID programs page, not CID people or contact pages, so there is no EPoD team page to link to. The HKS A-Z list still links EPoD to https://epod.cid.harvard.edu/. EPoD may have closed or been folded into CID, but no page says so; a person should check before this target is closed."
+}

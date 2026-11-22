@@ -1,0 +1,40 @@
+{
+  "id": "hks-project-on-workforce",
+  "institution": "Harvard",
+  "unit": "Project on Workforce",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-22",
+  "listing_urls": [
+    "https://www.pw.hks.harvard.edu/",
+    "https://pw.hks.harvard.edu/team",
+    "https://pw.hks.harvard.edu/about",
+    "https://www.pw.hks.harvard.edu/post/opportunities",
+    "https://pw.hks.harvard.edu/contact"
+  ],
+  "labs": [
+    {
+      "id": "hks-project-on-workforce-david-deming",
+      "kind": "research-lab",
+      "lab_name": "Project on Workforce",
+      "pi_name": "David Deming",
+      "pi_title": "HKS Faculty Co-Director",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.pw.hks.harvard.edu/",
+      "location": "Mossavar-Rahmani Center for Business and Government, Harvard Kennedy School, 79 John F. Kennedy Street, Cambridge, MA 02138",
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "projectonworkforce@hks.harvard.edu",
+      "research_summary": "Joint project of the Kennedy School, Business School and Graduate School of Education that researches how schooling and training connect to jobs, aiming for better routes to economic mobility.",
+      "member_count": 30,
+      "member_breakdown": "4 faculty co-directors, 1 executive director, 3 research managers, 4 research fellows, 1 scholar in residence, 1 director of research (Skills Lab), 1 research lead (Workforce Almanac), 1 postdoctoral researcher, 2 doctoral researchers, 12 research assistants",
+      "members_page_url": "https://pw.hks.harvard.edu/team",
+      "join_page_url": "https://www.pw.hks.harvard.edu/post/opportunities",
+      "join_notes": "Current and former Harvard students can apply through an online form for paid research assistant posts (HKS RA pay scale, usually 8 to 10 hours a week). A spring Future of Work study group for Harvard graduate students opens applications on December 1. The newsletter and LinkedIn page announce new openings.",
+      "profile_url": "https://www.pw.hks.harvard.edu/post/david-deming-faculty-profile",
+      "notes": "Led by four faculty co-directors: David Deming (HKS), Joseph Fuller and Raffaella Sadun (HBS) and Peter Blair (HGSE). Kerry McKittrick is Executive Director; the contact page gives kerry_mckittrick@gse.harvard.edu for research and press inquiries. Count is from the Team page and leaves out 11 senior advisors (one emeritus) and 3 student study group leads."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The contact page (linked from the menu) was fetched for the address and emails. The Team page also names a Skills Lab (Ben Weidmann, Director of Research) and the Workforce Almanac (its own site, workforcealmanac.com, with Tessa Forshaw as research lead). The Skills Lab has no page of its own among those read, and the Almanac is a data tool, so neither got an entry. The HKS A-Z list page was used only to show where the target came from. No Cloudflare-hidden emails on these pages."
+}

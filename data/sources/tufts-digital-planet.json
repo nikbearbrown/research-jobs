@@ -1,0 +1,38 @@
+{
+  "id": "tufts-digital-planet",
+  "institution": "Tufts University",
+  "unit": "Digital Planet",
+  "city": "Medford, MA",
+  "checked_on": "2026-11-22",
+  "listing_urls": [
+    "https://digitalplanet.tufts.edu/",
+    "https://digitalplanet.tufts.edu/about/",
+    "https://digitalplanet.tufts.edu/contact-us/"
+  ],
+  "labs": [
+    {
+      "id": "tufts-digital-planet-bhaskar-chakravorti",
+      "kind": "research-lab",
+      "lab_name": "Digital Planet",
+      "pi_name": "Bhaskar Chakravorti",
+      "pi_title": "Dean of Global Business, The Fletcher School; Founding Executive Director, Institute for Business in the Global Context",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://digitalplanet.tufts.edu/",
+      "location": "160 Packard Ave., Medford, MA 02155",
+      "phone": "+1 617 627 3700",
+      "admin_name": null,
+      "admin_email": "digitalplanet@tufts.edu",
+      "research_summary": "Fletcher School research initiative that measures how digital technology and AI are changing economies around the world, publishing indexes such as the Digital Evolution Index for policymakers, businesses and investors.",
+      "member_count": 6,
+      "member_breakdown": "1 founding lead (dean of global business), 1 head of research, 1 senior research analyst, 3 research analysts",
+      "members_page_url": "https://digitalplanet.tufts.edu/about/",
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Count is the six-person research team on the About page. It leaves out 5 student analysts and 3 Mastercard Fellows (both shown as name-only groups), sponsors, data partners, affiliates and a long alumni list. No page gives Chakravorti a Digital Planet title; the About page lists him first in the research team and says he launched Digital Planet from the institute he founded. Christina Filipovic is Head of Research. Address and phone are the contact block in the site footer."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "The team is on the About page; there is no separate people page. The Contact Us page (linked from the menu) was fetched for the general email, which appears only as an envelope-icon mailto link written 'mailto:mailto:digitalplanet@tufts.edu' in the page source. No jobs, internship or fellowship application page was found on the pages read. The IBGC page in the worklist was used only to show where the target came from; IBGC itself was not recorded. The only profile links for the lead are LinkedIn, so profile_url is null."
+}

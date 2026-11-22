@@ -1,0 +1,40 @@
+{
+  "id": "burning-glass-institute",
+  "institution": "Burning Glass Institute",
+  "unit": "Burning Glass Institute",
+  "city": null,
+  "checked_on": "2026-11-22",
+  "listing_urls": [
+    "https://www.burningglassinstitute.org/",
+    "https://www.burningglassinstitute.org/about",
+    "https://www.burningglassinstitute.org/careers",
+    "https://www.burningglassinstitute.org/contact",
+    "https://www.burningglassinstitute.org/careers/economist"
+  ],
+  "labs": [
+    {
+      "id": "burning-glass-institute-matt-sigelman",
+      "kind": "research-lab",
+      "lab_name": "The Burning Glass Institute",
+      "pi_name": "Matt Sigelman",
+      "pi_title": "President",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.burningglassinstitute.org/",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": "info@burningglassinstitute.org",
+      "research_summary": "Independent nonprofit data lab that mines job-posting and career-history data to find what helps workers and students get ahead, and turns the results into tools for employers, schools and governments.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": "https://www.burningglassinstitute.org/about",
+      "join_page_url": "https://www.burningglassinstitute.org/careers",
+      "join_notes": "The careers page shows one open role, a remote Economist who reports to the chief economist. The posting asks for a CV and a half-page note on fit, sent to research.hiring@burningglassinstitute.org with the subject 'BGI 2025 Economist'; it still asks for a start during 2025, so it may be stale. General contact is info@burningglassinstitute.org.",
+      "profile_url": "https://www.burningglassinstitute.org/team/matt-sigelman",
+      "notes": "The About page says the staff numbers 45 economists, data scientists and policy and program experts, plus several senior fellows, but it names only nine leaders (president, chief economist, senior vice president, vice president of innovation, two managing directors, vice president of partnerships, general manager of the Scaled Impact Laboratory, chief of staff). With no full roster, member_count is null."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "No page read shows a city: the contact page is only a web form, the footer gives no address, and the job posting describes a remote team. Three extra pages were fetched: the contact page, the Economist posting, and the careers page again with --render, because its email is built by a script; the rendered copy shows info@burningglassinstitute.org and now replaces the plain copy in the cache. The About page names signature initiatives (Credential Value Index, Where You Work Matters, College Completion Initiative) and a Scaled Impact Laboratory run by general manager David Parento. They look like products or units of the institute rather than separate research groups, so they got no entries of their own. City left null: targets.csv gave Boston when the target was added, but no page read shows where the institute is based."
+}

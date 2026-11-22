@@ -1,0 +1,56 @@
+{
+ "id": "hks-public-interest-tech-lab",
+ "listing_urls": [
+  "https://techlab.org/",
+  "https://techlab.org/people.html",
+  "https://techlab.org/about.html"
+ ],
+ "labs": [
+  {
+   "id": "hks-public-interest-tech-lab-latanya-sweeney",
+   "kind": "research-lab",
+   "lab_name": "Public Interest Tech Lab",
+   "pi_name": "Latanya Sweeney",
+   "pi_title": "Founder and Director",
+   "pi_email": null,
+   "accepting_grad_students": null,
+   "lab_website": "https://techlab.org/",
+   "location": null,
+   "phone": null,
+   "admin_name": null,
+   "admin_email": null,
+   "research_summary": "Lab that studies clashes between technology and society and builds public-interest tools, such as personal-data control, voter-registration alerts and media authentication, and publishes the journal Technology Science.",
+   "member_count": 14,
+   "member_breakdown": "1 founder and director, 1 faculty member, 2 fellows, 1 journalist-in-residence, 9 staff (program manager, research manager, managing editor, editor, data assistant, designer/DevOps, 3 DevOps)",
+   "members_page_url": "https://techlab.org/people.html",
+   "join_page_url": null,
+   "join_notes": null,
+   "profile_url": null,
+   "notes": "The People page is one flat list with a role beside each name and no dates. The count leaves out four Leadership Council members and one affiliate; the two fellows and the one person listed as faculty are included because the page does not mark them as visiting or affiliated. No email, phone, address, or jobs page appears on the pages read; the site's contact link goes to an outside survey form (https://myprivacypolls.com/survey/b/jviygmdw)."
+  },
+  {
+   "id": "hks-public-interest-tech-lab-data-privacy-lab",
+   "kind": "research-lab",
+   "lab_name": "The Data Privacy Lab",
+   "pi_name": null,
+   "pi_title": null,
+   "pi_email": null,
+   "accepting_grad_students": null,
+   "lab_website": "https://dataprivacylab.org/",
+   "location": null,
+   "phone": null,
+   "admin_name": null,
+   "admin_email": null,
+   "research_summary": "Program that designs and tests technologies, policies and data practices so that data can be shared with privacy protections.",
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "profile_url": null,
+   "notes": "Listed among the Tech Lab's projects on its home page, with its own website; not read further."
+  }
+ ],
+ "non_lab_people": [],
+ "notes": "No extra pages fetched. The home page also lists products and outreach efforts with their own sites (MyDataCan, SameSource, JoinU, VoteFlare, fbarchive, Bump.Buzz, TraceFi, Census Tracker, the Journal of Technology Science, the Tech Science Research Network, Tech Study Plans and the How Tech Becomes Law podcast); these are apps, publications or networks rather than research groups, so they get no entry. The projects page was not read. The HKS A-to-Z list page was not used for entries."
+}
