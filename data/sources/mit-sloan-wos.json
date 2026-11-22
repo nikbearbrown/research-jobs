@@ -1,0 +1,62 @@
+{
+  "id": "mit-sloan-wos",
+  "institution": "MIT",
+  "unit": "Work and Organization Studies Group (MIT Sloan)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-22",
+  "listing_urls": [
+    "https://mitsloan.mit.edu/faculty/academic-groups/work-and-organization-studies/about-us",
+    "https://mitsloan.mit.edu/faculty/academic-groups/work-and-organization-studies/faculty-research-centers",
+    "https://mitsloan.mit.edu/faculty/academic-groups",
+    "https://mitsloan.mit.edu/about/why-mit-sloan",
+    "https://mitsloan.mit.edu/work-mit-sloan"
+  ],
+  "labs": [
+    {
+      "id": "mit-sloan-wos-org",
+      "kind": "research-lab",
+      "lab_name": "MIT Sloan Work and Organization Studies Group",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mitsloan.mit.edu/faculty/academic-groups/work-and-organization-studies/about-us",
+      "location": "MIT Sloan School of Management, 100 Main Street, Cambridge, MA 02142",
+      "phone": "617-253-1000",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Studies work, the organizations people work in and the institutions around them, drawing on social psychology, sociology, history, anthropology, labor economics and industrial relations.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Academic group entry: member_count left null because an academic group is department-like, not a lab. No group head, group email or group-specific jobs page is shown on the group's pages; location and phone are the MIT Sloan school-wide footer details. The worklist's people page is the whole Sloan faculty directory and its about and careers pages are school-wide; they say nothing specific about this group, so no join page is recorded (the careers page only points to MIT staff openings and Sloan faculty openings). The group's about page says WOS was formed in 2014 by merging the Organization Studies Group with IWER. Its Faculty & Research Centers page lists standing faculty, emeritus faculty, lecturers, other academic staff (two postdoctoral associates and an adjunct professor) and affiliated faculty; no one is named as group head. That page lists seven affiliated centers, recorded below, and faculty bios on it name two more units led by WOS faculty (Behavioral Research Lab, Sloan Sustainability Initiative), also recorded. The MIT System Dynamics Group, named in an affiliated faculty bio, is a separate Sloan academic group and is not recorded here."
+    },
+    {
+      "id": "mit-sloan-wos-gcgj",
+      "kind": "research-lab",
+      "lab_name": "Good Companies, Good Jobs Initiative",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://gcgj.mit.edu",
+      "location": null,
+      "phone": null,
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": null,
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Listed on the WOS Faculty & Research Centers page as a center its faculty are affiliated with; no lead or blurb shown; its site was not read."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read the WOS about page and fetched its Faculty & Research Centers page (1 extra fetch). The worklist people page is the whole Sloan faculty directory and was not used. Centers are recorded as the WOS page lists them: it calls them centers WOS faculty are affiliated with, not units the group runs. Two emails appear on the page (for affiliated faculty Frank Levy and Michael Piore); they are personal and not recorded. Left out by the main session: MIT Center for Digital Business, whose link goes to the MIT Initiative on the Digital Economy (target mit-ide), so it is the IDE under an older name. Left out because the directory already has them (7): MIT Institute for Work & Employment Research (target mit-iwer); MIT Center for Collective Intelligence (target mit-cci); MIT Center for Information Systems Research (target mit-cisr); MIT Leadership Center (target mit-sloan-leadership); Sociotechnical Systems Research Center (target mit-ssrc); MIT Behavioral Research Lab (target mit-sloan-behavioral-lab); MIT Sloan Sustainability Initiative (target mit-sloan-sustainability)."
+}

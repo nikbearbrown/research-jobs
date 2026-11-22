@@ -1,0 +1,40 @@
+{
+  "id": "mit-sloan-it",
+  "institution": "MIT",
+  "unit": "Information Technology Group (MIT Sloan)",
+  "city": "Cambridge, MA",
+  "checked_on": "2026-11-22",
+  "listing_urls": [
+    "https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us",
+    "https://mitsloan.mit.edu/faculty/academic-groups/information-technology/faculty-research-centers",
+    "https://mitsloan.mit.edu/faculty/academic-groups",
+    "https://mitsloan.mit.edu/about/why-mit-sloan",
+    "https://mitsloan.mit.edu/work-mit-sloan"
+  ],
+  "labs": [
+    {
+      "id": "mit-sloan-it-org",
+      "kind": "research-lab",
+      "lab_name": "MIT Sloan Information Technology Group",
+      "pi_name": null,
+      "pi_title": null,
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://mitsloan.mit.edu/faculty/academic-groups/information-technology/about-us",
+      "location": "MIT Sloan School of Management, 100 Main Street, Cambridge, MA 02142",
+      "phone": "617-253-1000",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Studies the social and economic effects of technology, including AI, privacy and ethics, human-computer interaction, digital platforms and the future of work, using economics, computer science, sociology, psychology and organization science.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": null,
+      "notes": "Academic group entry: member_count left null because an academic group is department-like, not a lab. No group head, group email or group-specific jobs page is shown on the group's pages; location and phone are the MIT Sloan school-wide footer details. The worklist's people page is the whole Sloan faculty directory and its about and careers pages are school-wide; they say nothing specific about this group, so no join page is recorded (the careers page only points to MIT staff openings and Sloan faculty openings). The Faculty & Research Centers page (fetched) lists full-time faculty and other academic staff with no one named as head. It names four partner centers, recorded below, and an academic staff bio names one more lab (Human Dynamics Laboratory), also recorded."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read the about page and fetched the Faculty & Research Centers page (1 extra fetch). The worklist people page is the whole Sloan faculty directory and was not used. The four centers are presented as partners the faculty work with, not as units the group runs. A truncated bio says Stuart Madnick is founding director of something not named in the visible text; not recorded. Left out by the main session: Human Dynamics Laboratory (Sandy Pentland), already in the directory as target mit-media-lab-human-dynamics. Left out because the directory already has them (4): MIT Initiative on the Digital Economy (target mit-ide); MIT Center for Information Systems Research (target mit-cisr); MIT Center for Collective Intelligence (target mit-cci); Cybersecurity at MIT Sloan (CAMS) (target mit-cams)."
+}

@@ -1,0 +1,35 @@
+{
+ "id": "mit-iwer",
+ "listing_urls": [
+  "https://mitsloan.mit.edu/institute-work-and-employment-research/about-iwer",
+  "https://mitsloan.mit.edu/institute-work-and-employment-research/people-iwer",
+  "https://mitsloan.mit.edu/work-mit-sloan",
+  "https://mitsloan.mit.edu/about/why-mit-sloan"
+ ],
+ "labs": [
+  {
+   "id": "mit-iwer-emilio-castilla",
+   "kind": "research-lab",
+   "lab_name": "MIT Institute for Work and Employment Research (IWER)",
+   "pi_name": "Emilio J. Castilla",
+   "pi_title": "Co-Director, IWER; NTU Professor of Management",
+   "pi_email": null,
+   "accepting_grad_students": null,
+   "lab_website": "https://mitsloan.mit.edu/institute-work-and-employment-research/about-iwer",
+   "location": "MIT Sloan School of Management, 100 Main Street, Cambridge, MA 02142",
+   "phone": "617-253-1000",
+   "admin_name": "Dahye Kim",
+   "admin_email": null,
+   "research_summary": "A multidisciplinary hub at MIT Sloan for research on work and employment that aims to improve jobs for workers and to guide managers and policymakers, and runs a PhD program and a weekly seminar.",
+   "member_count": 17,
+   "member_breakdown": "2 co-directors, 8 IWER faculty (including 2 emeriti and 1 adjunct), 4 postdoctoral associates, 2 predoctoral researchers, 1 staff (associate director)",
+   "members_page_url": "https://mitsloan.mit.edu/institute-work-and-employment-research/people-iwer",
+   "join_page_url": "https://mitsloan.mit.edu/work-mit-sloan",
+   "join_notes": "This is the school-wide MIT Sloan careers page, linked from the IWER site footer; it points to MIT's central staff job listings and to Sloan faculty openings and says nothing specific to IWER. The IWER start page also links a page about its PhD program, which was not read.",
+   "profile_url": "https://mitsloan.mit.edu/faculty/directory/emilio-j-castilla",
+   "notes": "IWER's People page names two co-directors: Emilio J. Castilla (recorded) and Erin Kelly. Count is from that page and includes the co-directors, the 8 people listed under IWER Faculty, postdocs, predoctoral researchers and the one staff member. Left out: 20 affiliated faculty and researchers (mostly with homes in other Sloan groups or other MIT departments), 2 research affiliates/senior fellows (residency not stated), 6 PhD students listed as a group, and alumni. admin_name is Dahye Kim, the only person under IWER Staff (Associate Director); no email is shown for her or for IWER. Location and phone are the MIT Sloan school-wide footer details."
+  }
+ ],
+ "non_lab_people": [],
+ "notes": "Fetched IWER's own People page (1 extra fetch), which replaces the worklist's people page (the whole Sloan faculty directory, not used). The IWER pages present no separately led labs inside IWER; its Good Companies, Good Jobs material is linked as an IWER page, so no extra entry was made (the WOS target records the initiative's own site). The WOS group's about page says IWER was merged with the Organization Studies Group in 2014 to form WOS, though IWER keeps its own pages and leadership."
+}
