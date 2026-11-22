@@ -1,0 +1,39 @@
+{
+  "id": "bu-questrom-mo",
+  "institution": "Boston University",
+  "unit": "Management & Organizations Department (Questrom)",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-22",
+  "listing_urls": [
+    "https://www.bu.edu/questrom/faculty/academic-departments/management-organizations/",
+    "https://www.bu.edu/questrom/industry-engagement/meet-our-team/",
+    "https://www.bu.edu/questrom/about/",
+    "https://www.bu.edu/questrom/feld-center/"
+  ],
+  "labs": [
+    {
+      "id": "bu-questrom-mo-siobhan-omahony",
+      "kind": "research-lab",
+      "lab_name": "Management & Organizations Department",
+      "pi_name": "Siobhan O'Mahony",
+      "pi_title": "Department Chair, Management and Organizations; Feld Family Professor in Innovation and Entrepreneurship",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bu.edu/questrom/faculty/academic-departments/management-organizations/",
+      "location": "Rafik B. Hariri Building, 595 Commonwealth Avenue, Boston, MA 02215",
+      "phone": "(617) 353-9720",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Researches and teaches how leaders, teams and organizations unlock people's potential, with work on leadership, diversity, human capital, cooperation and conflict, ethics and organizational change.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bu.edu/questrom/profiles/siobhan-omahony/",
+      "notes": "Department entry: member_count left null because a department is not a lab. The faculty and PhD student lists are loaded by script and did not appear in the cached text. No department email is shown; location and phone are the Questrom school-wide footer details. The worklist's people page is the school's career and employer-relations team and its careers page is the Feld career center for students; neither is a research-assistant or jobs page for this department. The only research unit the department page presents is the Institute for Leadership & Work, recorded as a separate entry."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read the department page plus the shared Questrom people (industry engagement team), About and Feld Center pages; no extra fetches were needed because the chair is named on the department page and the page links no department research or labs page of its own (only #faculty and #students anchors). The site menu lists Questrom's school-wide research institutes; they are not presented as this department's and were not recorded here. Left out because the directory already has them (1): Institute for Leadership & Work."
+}

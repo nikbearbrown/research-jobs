@@ -1,0 +1,572 @@
+[
+  {
+    "id": "northeastern-chew",
+    "name": "Center for the Future of Higher Education and Work (CHEW)",
+    "category": "research-center",
+    "parent": "Northeastern University",
+    "city": "Boston",
+    "start_url": "https://chew.sites.northeastern.edu/",
+    "people_url": "https://chew.sites.northeastern.edu/home/our-team/",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Found by web search, confirmed on the center's own site; also listed on the College of Professional Studies Schools & Centers page.",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://chew.sites.northeastern.edu/",
+        "status": "200",
+        "text": "cache/_text/chew.sites.northeastern.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://chew.sites.northeastern.edu/home/our-team/",
+        "status": "200",
+        "text": "cache/_text/chew.sites.northeastern.edu/home-our-team.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://chew.sites.northeastern.edu/home/about-us/",
+        "status": "200",
+        "text": "cache/_text/chew.sites.northeastern.edu/home-about-us.txt",
+        "found_by": "start page link labelled 'About Us'"
+      }
+    ]
+  },
+  {
+    "id": "tufts-digital-planet",
+    "name": "Digital Planet",
+    "category": "research-center",
+    "parent": "Tufts University / The Fletcher School",
+    "city": "Medford",
+    "start_url": "https://digitalplanet.tufts.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from the Institute for Business in the Global Context menu (https://sites.tufts.edu/ibgc/).",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://digitalplanet.tufts.edu/",
+        "status": "200",
+        "text": "cache/_text/digitalplanet.tufts.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://digitalplanet.tufts.edu/about/",
+        "status": "200",
+        "text": "cache/_text/digitalplanet.tufts.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "list",
+        "url": "https://sites.tufts.edu/ibgc/",
+        "status": "200",
+        "text": "cache/_text/sites.tufts.edu/ibgc.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "burning-glass-institute",
+    "name": "Burning Glass Institute",
+    "category": "policy-think-tank",
+    "parent": "",
+    "city": "Boston",
+    "start_url": "https://www.burningglassinstitute.org/",
+    "people_url": "",
+    "careers_url": "https://www.burningglassinstitute.org/careers",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from HBS Managing the Future of Work's About the Project page. City to confirm from the institute's own pages.",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.burningglassinstitute.org/",
+        "status": "200",
+        "text": "cache/_text/www.burningglassinstitute.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://www.burningglassinstitute.org/about",
+        "status": "200",
+        "text": "cache/_text/www.burningglassinstitute.org/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.burningglassinstitute.org/careers",
+        "status": "200",
+        "text": "cache/_text/www.burningglassinstitute.org/careers.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  },
+  {
+    "id": "hks-project-on-workforce",
+    "name": "Project on Workforce",
+    "category": "university-policy-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://www.pw.hks.harvard.edu/",
+    "people_url": "https://pw.hks.harvard.edu/team",
+    "careers_url": "https://www.pw.hks.harvard.edu/post/opportunities",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from the Harvard Kennedy School Centers & Initiatives A-Z list (https://www.hks.harvard.edu/centers-initiatives).",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.pw.hks.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/www.pw.hks.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://pw.hks.harvard.edu/team",
+        "status": "200",
+        "text": "cache/_text/pw.hks.harvard.edu/team.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://pw.hks.harvard.edu/about",
+        "status": "200",
+        "text": "cache/_text/pw.hks.harvard.edu/about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.pw.hks.harvard.edu/post/opportunities",
+        "status": "200",
+        "text": "cache/_text/www.pw.hks.harvard.edu/post-opportunities.txt",
+        "found_by": "targets.csv careers_url"
+      },
+      {
+        "role": "list",
+        "url": "https://www.hks.harvard.edu/centers-initiatives",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-initiatives.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "hks-growth-lab",
+    "name": "Growth Lab (Center for International Development)",
+    "category": "research-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://growthlab.cid.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from the Harvard Kennedy School Centers & Initiatives A-Z list (https://www.hks.harvard.edu/centers-initiatives).",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://growthlab.cid.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/growthlab.cid.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "about",
+        "url": "https://growthlab.cid.harvard.edu/about",
+        "status": "200",
+        "text": "cache/_text/growthlab.cid.harvard.edu/about.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://growthlab.hks.harvard.edu/jobs-opportunities/",
+        "status": "200",
+        "text": "cache/_text/growthlab.hks.harvard.edu/jobs-opportunities.txt",
+        "found_by": "start page link labelled 'Jobs'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.hks.harvard.edu/centers-initiatives",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-initiatives.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "hks-epod",
+    "name": "Evidence for Policy Design (EPoD)",
+    "category": "research-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://epod.cid.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from the Harvard Kennedy School Centers & Initiatives A-Z list (https://www.hks.harvard.edu/centers-initiatives).",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://epod.cid.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/epod.cid.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://epod.cid.harvard.edu/centers/cid/about-cid/people",
+        "status": "200",
+        "text": "cache/_text/epod.cid.harvard.edu/centers-cid-about-cid-people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://epod.cid.harvard.edu/centers/cid/contact-us",
+        "status": "200",
+        "text": "cache/_text/epod.cid.harvard.edu/centers-cid-contact-us.txt",
+        "found_by": "start page link labelled 'Contact'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.hks.harvard.edu/centers-initiatives",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-initiatives.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "hks-building-state-capability",
+    "name": "Building State Capability",
+    "category": "research-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://bsc.cid.harvard.edu",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from the Harvard Kennedy School Centers & Initiatives A-Z list (https://www.hks.harvard.edu/centers-initiatives).",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://bsc.cid.harvard.edu",
+        "status": "200",
+        "text": "cache/_text/bsc.cid.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "list",
+        "url": "https://www.hks.harvard.edu/centers-initiatives",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-initiatives.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "hks-environmental-economics",
+    "name": "Harvard Environmental Economics Program",
+    "category": "research-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://heep.hks.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from the Harvard Kennedy School Centers & Initiatives A-Z list (https://www.hks.harvard.edu/centers-initiatives).",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://heep.hks.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/heep.hks.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "list",
+        "url": "https://www.hks.harvard.edu/centers-initiatives",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-initiatives.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "hks-pepg",
+    "name": "Program on Education Policy and Governance",
+    "category": "research-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://www.hks.harvard.edu/centers/taubman/programs-research/pepg",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from the Harvard Kennedy School Centers & Initiatives A-Z list (https://www.hks.harvard.edu/centers-initiatives).",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hks.harvard.edu/centers/taubman/programs-research/pepg",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-taubman-programs-research-pepg.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hks.harvard.edu/centers/taubman/about-us/people",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-taubman-about-us-people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hks.harvard.edu/centers/taubman/about-us",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-taubman-about-us.txt",
+        "found_by": "start page link labelled 'About Us'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.hks.harvard.edu/centers/taubman/students",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-taubman-students.txt",
+        "found_by": "start page link labelled 'Student Opportunities'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.hks.harvard.edu/centers-initiatives",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-initiatives.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "hks-wappp",
+    "name": "Women and Public Policy Program",
+    "category": "university-policy-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://wappp.hks.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from the Harvard Kennedy School Centers & Initiatives A-Z list (https://www.hks.harvard.edu/centers-initiatives).",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://wappp.hks.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/wappp.hks.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://wappp.hks.harvard.edu/centers/wappp/about/people",
+        "status": "200",
+        "text": "cache/_text/wappp.hks.harvard.edu/centers-wappp-about-people.txt",
+        "found_by": "start page link labelled 'People'"
+      },
+      {
+        "role": "about",
+        "url": "https://wappp.hks.harvard.edu/centers/wappp/about",
+        "status": "200",
+        "text": "cache/_text/wappp.hks.harvard.edu/centers-wappp-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://wappp.hks.harvard.edu/centers/wappp/research/research-fellowship-program",
+        "status": "200",
+        "text": "cache/_text/wappp.hks.harvard.edu/centers-wappp-research-research-fellowship-program.txt",
+        "found_by": "start page link labelled 'Research Fellowship Program'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.hks.harvard.edu/centers-initiatives",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-initiatives.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "hks-cpl",
+    "name": "Center for Public Leadership",
+    "category": "university-policy-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://cpl.hks.harvard.edu/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from the Harvard Kennedy School Centers & Initiatives A-Z list (https://www.hks.harvard.edu/centers-initiatives). One of the school's 12 research centers; hks-centers-index has only a name-and-link entry for it.",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://cpl.hks.harvard.edu/",
+        "status": "200",
+        "text": "cache/_text/cpl.hks.harvard.edu/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://cpl.hks.harvard.edu/centers/cpl/people/search?f%5B0%5D=cpl_person_type%3A31220",
+        "status": "200",
+        "text": "cache/_text/cpl.hks.harvard.edu/centers-cpl-people-search-f-5b0-5d-cpl-person-type-3a31220.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "careers",
+        "url": "https://cpl.hks.harvard.edu/centers/cpl/fellowships/david-gergen-summer-fellowship-program",
+        "status": "200",
+        "text": "cache/_text/cpl.hks.harvard.edu/centers-cpl-fellowships-david-gergen-summer-fellowship-program.txt",
+        "found_by": "start page link labelled 'David Gergen Summer Fellowship Program'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.hks.harvard.edu/centers-initiatives",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-initiatives.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "hks-reimagining-economy",
+    "name": "Reimagining the Economy",
+    "category": "university-policy-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://www.hks.harvard.edu/centers/wiener/programs/economy",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from the Harvard Kennedy School Centers & Initiatives A-Z list (https://www.hks.harvard.edu/centers-initiatives). A program of the Malcolm Wiener Center (hks-wiener names it without a lead).",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.hks.harvard.edu/centers/wiener/programs/economy",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-wiener-programs-economy.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.hks.harvard.edu/centers/wiener/programs/economy/about/team",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-wiener-programs-economy-about-team.txt",
+        "found_by": "start page link labelled 'Meet the Team'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.hks.harvard.edu/centers/wiener/programs/economy/about",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-wiener-programs-economy-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.hks.harvard.edu/centers-initiatives",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-initiatives.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "hks-public-interest-tech-lab",
+    "name": "Public Interest Tech Lab",
+    "category": "research-center",
+    "parent": "Harvard Kennedy School",
+    "city": "Cambridge",
+    "start_url": "https://techlab.org/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; general contact; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from the Harvard Kennedy School Centers & Initiatives A-Z list (https://www.hks.harvard.edu/centers-initiatives).",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://techlab.org/",
+        "status": "200",
+        "text": "cache/_text/techlab.org/index.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://techlab.org/people.html",
+        "status": "200",
+        "text": "cache/_text/techlab.org/people-html.txt",
+        "found_by": "start page link labelled 'people'"
+      },
+      {
+        "role": "about",
+        "url": "https://techlab.org/about.html",
+        "status": "200",
+        "text": "cache/_text/techlab.org/about-html.txt",
+        "found_by": "start page link labelled 'about'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.hks.harvard.edu/centers-initiatives",
+        "status": "200",
+        "text": "cache/_text/www.hks.harvard.edu/centers-initiatives.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  }
+]

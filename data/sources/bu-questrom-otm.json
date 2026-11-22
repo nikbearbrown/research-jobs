@@ -1,0 +1,39 @@
+{
+  "id": "bu-questrom-otm",
+  "institution": "Boston University",
+  "unit": "Operations & Technology Management Department (Questrom)",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-22",
+  "listing_urls": [
+    "https://www.bu.edu/questrom/faculty/academic-departments/operations-technology-management/",
+    "https://www.bu.edu/questrom/industry-engagement/meet-our-team/",
+    "https://www.bu.edu/questrom/about/",
+    "https://www.bu.edu/questrom/feld-center/"
+  ],
+  "labs": [
+    {
+      "id": "bu-questrom-otm-z-justin-ren",
+      "kind": "research-lab",
+      "lab_name": "Operations & Technology Management Department",
+      "pi_name": "Z. Justin Ren",
+      "pi_title": "Department Chair, Operations and Technology Management; Associate Professor, Operations and Technology Management",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bu.edu/questrom/faculty/academic-departments/operations-technology-management/",
+      "location": "Rafik B. Hariri Building, 595 Commonwealth Avenue, Boston, MA 02215",
+      "phone": "(617) 353-9720",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Studies how operations turn strategy into value, focusing on process and supply chain management, technology innovation, health care delivery and applied technology.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bu.edu/questrom/profiles/z-justin-ren/",
+      "notes": "Department entry: member_count left null because a department is not a lab. The faculty and PhD student lists are loaded by script and did not appear in the cached text. No department email is shown; location and phone are the Questrom school-wide footer details. The worklist's people page is the school's career and employer-relations team and its careers page is the Feld career center for students; neither is a research-assistant or jobs page for this department. The department page names no labs, centers or research groups of its own."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read the department page plus the shared Questrom people (industry engagement team), About and Feld Center pages; no extra fetches were needed because the chair is named on the department page and the page links no department research or labs page of its own (only #faculty and #students anchors). The site menu lists Questrom's school-wide research institutes; they are not presented as this department's and were not recorded here."
+}

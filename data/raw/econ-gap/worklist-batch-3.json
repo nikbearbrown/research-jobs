@@ -1,0 +1,377 @@
+[
+  {
+    "id": "bu-questrom-is",
+    "name": "Information Systems Department (Questrom)",
+    "category": "university-department",
+    "parent": "Boston University / Questrom School of Business",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/questrom/faculty/academic-departments/information-systems/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from Questrom's Academic Departments menu.",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/questrom/faculty/academic-departments/information-systems/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-faculty-academic-departments-information-systems.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/questrom/industry-engagement/meet-our-team/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-industry-engagement-meet-our-team.txt",
+        "found_by": "start page link labelled 'OUR TEAM'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/questrom/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/questrom/feld-center/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-feld-center.txt",
+        "found_by": "start page link labelled 'Feld Center for Career & Alumni Engagement'"
+      }
+    ]
+  },
+  {
+    "id": "bu-questrom-mo",
+    "name": "Management & Organizations Department (Questrom)",
+    "category": "university-department",
+    "parent": "Boston University / Questrom School of Business",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/questrom/faculty/academic-departments/management-organizations/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from Questrom's Academic Departments menu.",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/questrom/faculty/academic-departments/management-organizations/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-faculty-academic-departments-management-organizations.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/questrom/industry-engagement/meet-our-team/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-industry-engagement-meet-our-team.txt",
+        "found_by": "start page link labelled 'OUR TEAM'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/questrom/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/questrom/feld-center/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-feld-center.txt",
+        "found_by": "start page link labelled 'Feld Center for Career & Alumni Engagement'"
+      }
+    ]
+  },
+  {
+    "id": "bu-questrom-mppl",
+    "name": "Markets, Public Policy & Law Department (Questrom)",
+    "category": "university-department",
+    "parent": "Boston University / Questrom School of Business",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/questrom/faculty/academic-departments/markets-public-policy-law/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from Questrom's Academic Departments menu.",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/questrom/faculty/academic-departments/markets-public-policy-law/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-faculty-academic-departments-markets-public-policy-law.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/questrom/industry-engagement/meet-our-team/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-industry-engagement-meet-our-team.txt",
+        "found_by": "start page link labelled 'OUR TEAM'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/questrom/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/questrom/feld-center/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-feld-center.txt",
+        "found_by": "start page link labelled 'Feld Center for Career & Alumni Engagement'"
+      }
+    ]
+  },
+  {
+    "id": "bu-questrom-si",
+    "name": "Strategy & Innovation Department (Questrom)",
+    "category": "university-department",
+    "parent": "Boston University / Questrom School of Business",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/questrom/faculty/academic-departments/strategy-innovation/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from Questrom's Academic Departments menu.",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/questrom/faculty/academic-departments/strategy-innovation/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-faculty-academic-departments-strategy-innovation.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/questrom/industry-engagement/meet-our-team/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-industry-engagement-meet-our-team.txt",
+        "found_by": "start page link labelled 'OUR TEAM'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/questrom/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/questrom/feld-center/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-feld-center.txt",
+        "found_by": "start page link labelled 'Feld Center for Career & Alumni Engagement'"
+      }
+    ]
+  },
+  {
+    "id": "bu-questrom-otm",
+    "name": "Operations & Technology Management Department (Questrom)",
+    "category": "university-department",
+    "parent": "Boston University / Questrom School of Business",
+    "city": "Boston",
+    "start_url": "https://www.bu.edu/questrom/faculty/academic-departments/operations-technology-management/",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from Questrom's Academic Departments menu.",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bu.edu/questrom/faculty/academic-departments/operations-technology-management/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-faculty-academic-departments-operations-technology-management.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bu.edu/questrom/industry-engagement/meet-our-team/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-industry-engagement-meet-our-team.txt",
+        "found_by": "start page link labelled 'OUR TEAM'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bu.edu/questrom/about/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-about.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bu.edu/questrom/feld-center/",
+        "status": "200",
+        "text": "cache/_text/www.bu.edu/questrom-feld-center.txt",
+        "found_by": "start page link labelled 'Feld Center for Career & Alumni Engagement'"
+      }
+    ]
+  },
+  {
+    "id": "bc-carroll",
+    "name": "Carroll School of Management",
+    "category": "school",
+    "parent": "Boston College / Carroll School of Management",
+    "city": "Chestnut Hill",
+    "start_url": "https://www.bc.edu/content/bc-web/schools/carroll-school.html",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Centers list: https://www.bc.edu/content/bc-web/schools/carroll-school/centers.html",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bc.edu/content/bc-web/schools/carroll-school.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-carroll-school-html.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bc.edu/content/bc-web/schools/carroll-school/audience-pages/faculty-resources.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-carroll-school-audience-pages-faculty-resources-html.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bc.edu/content/bc-web/schools/carroll-school/about.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-carroll-school-about-html.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bc.edu/content/bc-web/schools/carroll-school/undergraduate/careers.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-carroll-school-undergraduate-careers-html.txt",
+        "found_by": "start page link labelled 'Careers'"
+      },
+      {
+        "role": "list",
+        "url": "https://www.bc.edu/content/bc-web/schools/carroll-school/centers.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-carroll-school-centers-html.txt",
+        "found_by": "address written in targets.csv notes"
+      }
+    ]
+  },
+  {
+    "id": "bc-carroll-mo",
+    "name": "Management and Organization Department (Carroll School)",
+    "category": "university-department",
+    "parent": "Boston College / Carroll School of Management",
+    "city": "Chestnut Hill",
+    "start_url": "https://www.bc.edu/content/bc-web/schools/carroll-school/academic-departments/Management-and-Organization.html",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from the Carroll School's Departments menu.",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bc.edu/content/bc-web/schools/carroll-school/academic-departments/Management-and-Organization.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-carroll-school-academic-departments-management-and-organization-html.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bc.edu/content/bc-web/schools/carroll-school/audience-pages/faculty-resources.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-carroll-school-audience-pages-faculty-resources-html.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bc.edu/content/bc-web/schools/carroll-school/about.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-carroll-school-about-html.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bc.edu/content/bc-web/schools/carroll-school/undergraduate/careers.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-carroll-school-undergraduate-careers-html.txt",
+        "found_by": "start page link labelled 'Careers'"
+      }
+    ]
+  },
+  {
+    "id": "bc-carroll-bls",
+    "name": "Business Law & Society Department (Carroll School)",
+    "category": "university-department",
+    "parent": "Boston College / Carroll School of Management",
+    "city": "Chestnut Hill",
+    "start_url": "https://www.bc.edu/content/bc-web/schools/carroll-school/academic-departments/business-law-and-society.html",
+    "people_url": "",
+    "careers_url": "",
+    "url_from": "checked",
+    "priority": "2",
+    "collect": "research staff, fellows, program leads; careers/internships/RA page; faculty-led labs where present",
+    "listed_in": "econ-gap",
+    "notes": "Linked from the Carroll School's Departments menu.",
+    "status": "todo",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://www.bc.edu/content/bc-web/schools/carroll-school/academic-departments/business-law-and-society.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-carroll-school-academic-departments-business-law-and-society-html.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://www.bc.edu/content/bc-web/schools/carroll-school/audience-pages/faculty-resources.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-carroll-school-audience-pages-faculty-resources-html.txt",
+        "found_by": "start page link labelled 'Faculty'"
+      },
+      {
+        "role": "about",
+        "url": "https://www.bc.edu/content/bc-web/schools/carroll-school/about.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-carroll-school-about-html.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://www.bc.edu/content/bc-web/schools/carroll-school/undergraduate/careers.html",
+        "status": "200",
+        "text": "cache/_text/www.bc.edu/content-bc-web-schools-carroll-school-undergraduate-careers-html.txt",
+        "found_by": "start page link labelled 'Careers'"
+      }
+    ]
+  }
+]

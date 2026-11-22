@@ -1,0 +1,40 @@
+{
+  "id": "bc-carroll-mo",
+  "institution": "Boston College",
+  "unit": "Management and Organization Department (Carroll School)",
+  "city": "Chestnut Hill, MA",
+  "checked_on": "2026-11-22",
+  "listing_urls": [
+    "https://www.bc.edu/content/bc-web/schools/carroll-school/academic-departments/Management-and-Organization.html",
+    "https://www.bc.edu/content/bc-web/schools/carroll-school/audience-pages/faculty-resources.html",
+    "https://www.bc.edu/content/bc-web/schools/carroll-school/about.html",
+    "https://www.bc.edu/content/bc-web/schools/carroll-school/undergraduate/careers.html",
+    "https://www.bc.edu/content/bc-web/schools/carroll-school.html"
+  ],
+  "labs": [
+    {
+      "id": "bc-carroll-mo-jamie-ladge",
+      "kind": "research-lab",
+      "lab_name": "Management and Organization Department",
+      "pi_name": "Jamie Ladge",
+      "pi_title": "Chairperson",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bc.edu/content/bc-web/schools/carroll-school/academic-departments/Management-and-Organization.html",
+      "location": "Fulton Hall 430, Boston College, 140 Commonwealth Avenue, Chestnut Hill, MA 02467-3809",
+      "phone": "617-552-0450",
+      "admin_name": "Lorenzo Leo",
+      "admin_email": "leolo@bc.edu",
+      "research_summary": "Teaches and studies how to lead and manage people and organizations, covering leadership, communication, organizational design and organizational development.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bc.edu/content/bc-web/schools/carroll-school/faculty-research/faculty-directory/Jamie-Ladge.html",
+      "notes": "Department entry: member_count left null because a department is not a lab; the full-time faculty list is loaded by script and did not appear in the cached text. Lorenzo Leo is listed as Administrative Assistant; no general department inbox is shown and no email is shown for the chair. The department page links the PhD in Organization Studies program. It names no labs, centers or research groups of its own (it points to the school's Shea Center only for course information)."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read the department page plus the shared Carroll School faculty resources, About and undergraduate careers pages, none of which has a department RA or jobs page. Conflict: the Carroll School home page (read for bc-carroll) quotes Judith Gordon as Associate Dean for Teaching and Learning and Chairperson of Management and Organization, while the department's own contact block names Jamie Ladge as Chairperson; the department page was followed. No extra fetches."
+}

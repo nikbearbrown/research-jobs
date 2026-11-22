@@ -32,6 +32,13 @@ STAGED_DIR. For each target in the worklists that has a staged file this:
     recorded, `partial` when the pages gave nothing (the reason is in notes).
 
 Nothing is written with --dry-run.
+
+--fill-empty lets the script write over an existing source file only when
+that file recorded nothing (no labs and no non_lab_people), as when an
+earlier pass could not read the target. Nothing recorded before is changed:
+the file keeps its institution, unit and city, its earlier listing_urls are
+kept in front of the new ones, and its earlier notes are kept after the new
+notes ("Earlier pass (<date>): ...").
 """
 import csv
 import datetime
@@ -194,9 +201,12 @@ def main():
         dest = ROOT / "data" / "sources" / f"{tid}.json"
         if not src.exists():
             continue
-        if dest.exists():
-            print(f"SKIP {tid}: data/sources/{tid}.json already exists")
-            continue
+        old = json.loads(dest.read_text()) if dest.exists() else None
+        if old is not None:
+            if not ("--fill-empty" in sys.argv and not old.get("labs") and not old.get("non_lab_people")):
+                print(f"SKIP {tid}: data/sources/{tid}.json already exists")
+                continue
+            print(f"FILL {tid}: data/sources/{tid}.json recorded nothing before; earlier fields and notes are kept")
         try:
             data = json.loads(src.read_text())
         except Exception as e:
@@ -293,6 +303,13 @@ def main():
             "non_lab_people": data.get("non_lab_people") or [],
             "notes": notes or None,
         }
+        if old is not None:  # --fill-empty: keep what the earlier pass wrote
+            for k in ("institution", "unit", "city"):
+                if old.get(k):
+                    out[k] = old[k]
+            out["listing_urls"] = list(dict.fromkeys((old.get("listing_urls") or []) + listing))
+            if old.get("notes"):
+                out["notes"] = ((notes + " ") if notes else "") + f"Earlier pass ({old.get('checked_on')}): {old['notes']}"
         status[tid] = "done" if labs else "partial"
         totals["targets"] += 1
         totals["entries"] += len(labs)

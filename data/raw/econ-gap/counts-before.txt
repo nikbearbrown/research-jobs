@@ -1,0 +1,124 @@
+labs.csv rows: 6923
+
+Rows per institution
+  1712  Boston University
+  1422  MIT
+   916  Harvard
+   547  Mass General Brigham
+   528  Northeastern University
+   520  Tufts University
+   216  Boston College
+   213  UMass Boston
+   194  Dana-Farber Cancer Institute
+   140  Harvard University
+   139  Brandeis University
+    86  Massachusetts General Hospital
+    75  Beth Israel Deaconess Medical Center
+    44  Joslin Diabetes Center
+    33  Hebrew SeniorLife
+    29  Tufts University / USDA Agricultural Research Service
+    28  Ragon Institute of Mass General Brigham, MIT and Harvard
+    25  Forsyth Institute
+    24  Whitehead Institute for Biomedical Research
+     8  Rowland Institute at Harvard
+     4  Lincoln Institute of Land Policy
+     4  MassINC
+     2  Federal Reserve Bank of Boston
+     1  A Better City
+     1  Boston Global Forum
+     1  The Boston Foundation
+     1  Boston Municipal Research Bureau
+     1  Conservation Law Foundation
+     1  Draper
+     1  Health Effects Institute
+     1  Institute for Healthcare Improvement
+     1  Massachusetts Taxpayers Foundation
+     1  Massachusetts Budget and Policy Center
+     1  Mass Eye and Ear
+     1  National Bureau of Economic Research
+     1  Pioneer Institute
+     1  Union of Concerned Scientists
+
+Rows per unit, econ family (198 rows in 80 units; 41 family targets have no rows)
+   1  Boston College | bc-early-childhood-policy | Institute of Early Childhood Policy
+   1  Boston College | bc-economics | Department of Economics
+   1  Boston College | bc-rappaport | Rappaport Center for Law and Public Policy
+   2  Boston University | bu-econ | Department of Economics
+   2  Boston University | bu-gdp | Global Development Policy Center
+   7  Boston University | bu-questrom | Questrom School of Business
+   2  Boston University | bu-sph-hlpm | Department of Health Law, Policy & Management
+   5  Brandeis University | brandeis-gordon-center | Gordon Center for American Public Policy
+   1  Federal Reserve Bank of Boston | boston-fed-neppc | New England Public Policy Center
+   1  Harvard | harvard-hbs | Harvard Business School
+  10  Harvard | harvard-hbs-ai-institute | HBS AI Institute (formerly Digital Data Design Institute) (Harvard HBS)
+   1  Harvard | harvard-hbs-am | Accounting and Management Unit (Harvard HBS)
+   1  Harvard | harvard-hbs-behavioral-finance | Behavioral Finance and Financial Stability (Harvard HBS)
+   1  Harvard | harvard-hbs-bgie | Business, Government and the International Economy Unit (Harvard HBS)
+   1  Harvard | harvard-hbs-bigs | Institute for Business in Global Society (Harvard HBS)
+   1  Harvard | harvard-hbs-em | Entrepreneurial Management Unit (Harvard HBS)
+   1  Harvard | harvard-hbs-finance | Finance Unit (Harvard HBS)
+   1  Harvard | harvard-hbs-future-of-work | Managing the Future of Work (Harvard HBS)
+   1  Harvard | harvard-hbs-gm | General Management Unit (Harvard HBS)
+   1  Harvard | harvard-hbs-lish | Laboratory for Innovation Science at Harvard (Harvard HBS)
+   1  Harvard | harvard-hbs-marketing | Marketing Unit (Harvard HBS)
+   1  Harvard | harvard-hbs-nom | Negotiation, Organizations and Markets Unit (Harvard HBS)
+   1  Harvard | harvard-hbs-ob | Organizational Behavior Unit (Harvard HBS)
+   1  Harvard | harvard-hbs-strategy | Strategy Unit (Harvard HBS)
+   1  Harvard | harvard-hbs-tom | Technology and Operations Management Unit (Harvard HBS)
+   1  Harvard | harvard-hls-animal-law | Animal Law and Policy Program (Harvard HLS)
+   1  Harvard | harvard-hls-behavioral-econ | Program on Behavioral Economics and Public Policy (Harvard HLS)
+   4  Harvard | harvard-hls-clje | Center for Labor and a Just Economy (Harvard HLS)
+   1  Harvard | harvard-hls-iglp | Institute for Global Law and Policy (Harvard HLS)
+   1  Harvard | harvard-hls-lpe | Program on Law and Political Economy (Harvard HLS)
+   1  Harvard | harvard-hls-olin | John M. Olin Center for Law, Economics, and Business (Harvard HLS)
+   1  Harvard | harvard-hls-petrie-flom | Petrie-Flom Center for Health Law Policy, Biotechnology, and Bioethics (Harvard HLS)
+   3  Harvard | harvard-hls-ylab | Youth Advocacy and Policy Lab (Harvard HLS)
+  27  Harvard | harvard-hms-hcp | Department of Health Care Policy (Harvard HMS)
+  28  Harvard | harvard-hsph-hpm | Department of Health Policy and Management (Harvard HSPH)
+   7  Harvard | hks-ash | Ash Center for Democratic Governance and Innovation
+   2  Harvard | hks-belfer | Belfer Center for Science and International Affairs
+   7  Harvard | hks-bloomberg-cities | Bloomberg Center for Cities
+   2  Harvard | hks-carr-ryan | Carr-Ryan Center for Human Rights
+   2  Harvard | hks-centers-index | Harvard Kennedy School research centers (index)
+   1  Harvard | hks-cid | Center for International Development
+   1  Harvard | hks-mrcbg | Mossavar-Rahmani Center for Business and Government
+   4  Harvard | hks-taubman | Taubman Center for State and Local Government
+   3  Harvard | hks-wiener | Malcolm Wiener Center for Social Policy
+   4  Lincoln Institute of Land Policy | lincoln-institute | Lincoln Institute of Land Policy
+   2  MIT | mit-cams | Cybersecurity at MIT Sloan (CAMS)
+   1  MIT | mit-cci | MIT Center for Collective Intelligence (CCI)
+   1  MIT | mit-ceepr | Center for Energy and Environmental Policy Research (CEEPR)
+   1  MIT | mit-dusp-political-economy-lab | Political Economy Lab
+   3  MIT | mit-economics | Department of Economics
+   1  MIT | mit-ide | MIT Initiative on the Digital Economy
+   1  MIT | mit-sloan-applied-cooperation | MIT Applied Cooperation Initiative
+   1  MIT | mit-sloan-behavioral-lab | MIT Behavioral Research Lab
+   1  MIT | mit-sloan-cfi | Consumer Finance Initiative
+   1  MIT | mit-sloan-climate-policy | MIT Climate Policy Center
+   1  MIT | mit-sloan-cryptoeconomics | Cryptoeconomics Lab
+   1  MIT | mit-sloan-fsas | Food Supply Chain Analytics and Sensing Initiative
+   1  MIT | mit-sloan-gcfp | MIT Golub Center for Finance and Policy
+   1  MIT | mit-sloan-health-systems | MIT Sloan Health Systems Initiative
+   1  MIT | mit-sloan-leadership | MIT Leadership Center
+   1  MIT | mit-sloan-sustainability | MIT Sloan Sustainability Initiative
+   1  MIT | mit-stone-center | Stone Center on Inequality and Shaping the Future of Work
+   1  Massachusetts Budget and Policy Center | massbudget | Massachusetts Budget and Policy Center
+   1  National Bureau of Economic Research | nber | National Bureau of Economic Research
+   1  Northeastern University | northeastern-chphr | Center for Health Policy and Healthcare Research
+   2  Northeastern University | northeastern-dmsb | D'Amore-McKim School of Business
+   2  Northeastern University | northeastern-dukakis | Dukakis Center for Urban and Regional Policy
+   1  Northeastern University | northeastern-economics | Department of Economics
+   3  Northeastern University | northeastern-policyschool | School of Public Policy and Urban Affairs
+   3  Tufts University | tufts-cierp | Center for International Environment and Resource Policy
+   1  Tufts University | tufts-cspa | Center for State Policy Analysis
+   1  Tufts University | tufts-economics | Department of Economics
+   4  Tufts University | tufts-fletcher | Fletcher School research centers
+   3  Tufts University | tufts-friedman | Friedman School of Nutrition Science and Policy
+   1  Tufts University | tufts-ibgc | Institute for Business in the Global Context
+   1  Tufts University | tufts-uep | Department of Urban & Environmental Policy and Planning
+   1  UMass Boston | umass-boston-csp | Center for Social Policy
+   1  UMass Boston | umass-boston-cwppp | Center for Women in Politics and Public Policy
+   1  UMass Boston | umass-boston-gaston | Mauricio Gaston Institute for Latino Community Development & Public Policy
+   2  UMass Boston | umass-boston-mccormack | McCormack Graduate School of Policy & Global Studies
+
+Family targets with no rows: bc-carroll, bc-carroll-bls, bc-carroll-mo, brandeis-heller-cyc, brandeis-heller-gds, brandeis-heller-icyfp, brandeis-heller-iere, brandeis-heller-lurie, brandeis-heller-sihp, brandeis-heller-sillerman, bu-questrom-is, bu-questrom-mo, bu-questrom-mppl, bu-questrom-otm, bu-questrom-si, burning-glass-institute, harvard-economics, harvard-gse-cepr, harvard-hsdm-ohpe, hks-building-state-capability, hks-cpl, hks-environmental-economics, hks-epod, hks-growth-lab, hks-pepg, hks-project-on-workforce, hks-public-interest-tech-lab, hks-reimagining-economy, hks-shorenstein, hks-wappp, mit-ide-research-groups, mit-ipri, mit-iwer, mit-sloan, mit-sloan-applied-economics, mit-sloan-gem, mit-sloan-it, mit-sloan-ties, mit-sloan-wos, northeastern-chew, tufts-digital-planet

@@ -1,0 +1,48 @@
+[
+  {
+    "id": "mit-iwer",
+    "name": "Institute for Work and Employment Research (IWER)",
+    "category": "research-center",
+    "parent": "MIT / Sloan",
+    "city": "Cambridge",
+    "start_url": "https://mitsloan.mit.edu/institute-work-and-employment-research/about-iwer",
+    "people_url": "https://mitsloan.mit.edu/faculty/faculty-directory",
+    "careers_url": "https://mitsloan.mit.edu/work-mit-sloan",
+    "url_from": "checked",
+    "priority": "1",
+    "collect": "PI-led labs: lab name, PI, email, lab admin, lab site, member count, join page",
+    "listed_in": "mit",
+    "notes": "",
+    "status": "partial",
+    "pages": [
+      {
+        "role": "start",
+        "url": "https://mitsloan.mit.edu/institute-work-and-employment-research/about-iwer",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/institute-work-and-employment-research-about-iwer.txt",
+        "found_by": "targets.csv start_url"
+      },
+      {
+        "role": "people",
+        "url": "https://mitsloan.mit.edu/faculty/faculty-directory",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/faculty-faculty-directory.txt",
+        "found_by": "targets.csv people_url"
+      },
+      {
+        "role": "about",
+        "url": "https://mitsloan.mit.edu/about/why-mit-sloan",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/about-why-mit-sloan.txt",
+        "found_by": "start page link labelled 'About'"
+      },
+      {
+        "role": "careers",
+        "url": "https://mitsloan.mit.edu/work-mit-sloan",
+        "status": "200",
+        "text": "cache/_text/mitsloan.mit.edu/work-mit-sloan.txt",
+        "found_by": "targets.csv careers_url"
+      }
+    ]
+  }
+]

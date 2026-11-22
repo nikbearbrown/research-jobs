@@ -1,0 +1,39 @@
+{
+  "id": "bu-questrom-si",
+  "institution": "Boston University",
+  "unit": "Strategy & Innovation Department (Questrom)",
+  "city": "Boston, MA",
+  "checked_on": "2026-11-22",
+  "listing_urls": [
+    "https://www.bu.edu/questrom/faculty/academic-departments/strategy-innovation/",
+    "https://www.bu.edu/questrom/industry-engagement/meet-our-team/",
+    "https://www.bu.edu/questrom/about/",
+    "https://www.bu.edu/questrom/feld-center/"
+  ],
+  "labs": [
+    {
+      "id": "bu-questrom-si-iain-cockburn",
+      "kind": "research-lab",
+      "lab_name": "Strategy & Innovation Department",
+      "pi_name": "Iain Cockburn",
+      "pi_title": "Department Chair, Strategy and Innovation; Richard C. Shipley Professor in Strategy & Innovation",
+      "pi_email": null,
+      "accepting_grad_students": null,
+      "lab_website": "https://www.bu.edu/questrom/faculty/academic-departments/strategy-innovation/",
+      "location": "Rafik B. Hariri Building, 595 Commonwealth Avenue, Boston, MA 02215",
+      "phone": "(617) 353-9720",
+      "admin_name": null,
+      "admin_email": null,
+      "research_summary": "Researches how new and established firms gain and keep an edge over rivals, along with innovation and entrepreneurship, using both large-sample data and fieldwork.",
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "profile_url": "https://www.bu.edu/questrom/profiles/iain-cockburn/",
+      "notes": "Department entry: member_count left null because a department is not a lab. The faculty and PhD student lists are loaded by script and did not appear in the cached text. No department email is shown; location and phone are the Questrom school-wide footer details. The worklist's people page is the school's career and employer-relations team and its careers page is the Feld career center for students; neither is a research-assistant or jobs page for this department. The page features Innovate@BU (https://www.bu.edu/innovate/), but describes it as a university-wide entrepreneurship initiative with co-working and prototyping space rather than a research group run by this department, so it was not recorded. No labs, centers or research groups are named."
+    }
+  ],
+  "non_lab_people": [],
+  "notes": "Read the department page plus the shared Questrom people (industry engagement team), About and Feld Center pages; no extra fetches were needed because the chair is named on the department page and the page links no department research or labs page of its own (only #faculty and #students anchors). The site menu lists Questrom's school-wide research institutes; they are not presented as this department's and were not recorded here."
+}
