@@ -53,7 +53,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on the Wiener Center's Programs & Initiatives menu; not read further."
+      "notes": "Listed on the Wiener Center's Programs & Initiatives menu; not read further. Depth pass 2026-11-22: Blocked: the server answered 'Access Denied' to both the plain and the rendered fetch, so no page could be read and no lead could be found; the site may still open in a browser."
     },
     {
       "id": "hks-wiener-shift-project",
@@ -61,7 +61,7 @@
       "lab_name": "The Shift Project",
       "pi_name": "Daniel Schneider",
       "pi_title": "Co-Director (per the center's home page)",
-      "pi_email": null,
+      "pi_email": "dschneider@hks.harvard.edu",
       "accepting_grad_students": null,
       "lab_website": "https://shift.hks.harvard.edu/",
       "location": null,
@@ -69,13 +69,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": "Research project on work schedules and worker well-being; a 2026 Workplace Innovation Now challenge recipient.",
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 17,
+      "member_breakdown": "2 co-PIs, 1 research project manager, 1 postdoctoral fellow, 2 predoctoral fellows, 1 faculty assistant and project coordinator, 10 graduate student researchers",
+      "members_page_url": "https://shift.hks.harvard.edu/about/team/",
+      "join_page_url": "https://shift.hks.harvard.edu/work-with-us/",
+      "join_notes": "Harvard and UC Berkeley graduate students can join the monthly workshop; an RA opening for HKS MPP students was listed as open; predoctoral fellowship applications are closed (last round closed January 15, 2026); a postdoctoral posting with a February 13, 2026 deadline is still shown as open, so that page may be out of date.",
       "profile_url": null,
-      "notes": "Listed on the Wiener Center's Programs & Initiatives menu; not read further."
+      "notes": "Listed on the Wiener Center's Programs & Initiatives menu; not read further. Depth pass 2026-11-22: Count from the project's Team page: two PIs, staff and fellows, and graduate student researchers; outside collaborators and alumni were left out, as was one former predoc still shown under Staff. The project is co-led by Kristen Harknett of UC Berkeley."
     }
   ],
   "non_lab_people": [],

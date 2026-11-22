@@ -36,10 +36,10 @@
     },
     {
       "id": "northeastern-policyschool-social-impact-lab",
-      "kind": "research-lab",
+      "kind": "faculty-no-lab",
       "lab_name": "The Social Impact Lab at Northeastern University",
-      "pi_name": null,
-      "pi_title": null,
+      "pi_name": "Rebecca Riccio",
+      "pi_title": "Founder and Juffali Family Director",
       "pi_email": null,
       "accepting_grad_students": null,
       "lab_website": "http://www.northeastern.edu/impactlab/",
@@ -54,15 +54,15 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on the School of Public Policy and Urban Affairs' Centers & Labs page; not read further. No lead shown on that page."
+      "notes": "Listed on the School of Public Policy and Urban Affairs' Centers & Labs page; not read further. No lead shown on that page. Depth pass 2026-11-22: Not sized, this is not a research group: A student teaching and experiential-philanthropy program that prepares students for ethical social-change work; its site shows no research team. The home page letter from Rebecca Riccio reads like a farewell, so the program may be winding down."
     },
     {
       "id": "northeastern-policyschool-c2c-impact-engine",
       "kind": "research-lab",
       "lab_name": "Community to Community (C2C) Impact Engine",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
+      "pi_name": "Alicia Modestino",
+      "pi_title": "Executive Director (Boston)",
+      "pi_email": "a.modestino@northeastern.edu",
       "accepting_grad_students": null,
       "lab_website": "https://impactengines.northeastern.edu/ia/c2c/",
       "location": null,
@@ -70,13 +70,13 @@
       "admin_name": null,
       "admin_email": null,
       "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
+      "member_count": 27,
+      "member_breakdown": "1 executive director, 1 global director, 1 director of strategic programs and partnerships, 2 administrative staff, 1 research director, 2 research faculty, 3 postdocs, 5 PhD research assistants, 3 master's research assistants, 8 undergraduate research assistants",
+      "members_page_url": "https://impactengines.northeastern.edu/ia/c2c/team/",
+      "join_page_url": "https://impactengines.northeastern.edu/ia/c2c/publications-data-2/",
+      "join_notes": "The C2C Job Openings page said no opportunities were available at the time it was read.",
       "profile_url": null,
-      "notes": "Listed on the School of Public Policy and Urban Affairs' Centers & Labs page; not read further. No lead shown on that page."
+      "notes": "Listed on the School of Public Policy and Urban Affairs' Centers & Labs page; not read further. No lead shown on that page. Depth pass 2026-11-22: Count combines the Leadership Team page (administrative and research leadership; the six campus network advisors were left out) with the Research Lab page (https://impactengines.northeastern.edu/ia/c2c/research-lab/). Same C2C unit as northeastern-dukakis-c2c-impact-lab, so the two directory entries may be duplicates."
     }
   ],
   "non_lab_people": [],

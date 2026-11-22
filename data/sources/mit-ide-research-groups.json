@@ -33,7 +33,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://ide.mit.edu/people/david-rand/",
-      "notes": "Listed among the Research Groups on the IDE research page. The group page says David Rand leads it; the IDE pages give his title as a research affiliate and Cornell professor."
+      "notes": "Listed among the Research Groups on the IDE research page. The group page says David Rand leads it; the IDE pages give his title as a research affiliate and Cornell professor. Depth pass 2026-11-22: Null: the Misinformation & Fake News group page names David Rand as its lead but lists only paper co-authors, not a group roster; it describes him as a research affiliate and a professor at Cornell, and its newest listed paper is from Nov 2024. The worklist's people link (Sinan Aral's profile) was ignored."
     },
     {
       "id": "mit-ide-research-groups-sinan-aral",
@@ -55,7 +55,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://ide.mit.edu/people/sinan-aral/",
-      "notes": "Listed among the Research Groups on the IDE research page. The group page says it is led by IDE Director Sinan Aral. The site menu links the same group name to https://ide.mit.edu/research-group/genai/; the research page body links the address recorded here, which is the one read."
+      "notes": "Listed among the Research Groups on the IDE research page. The group page says it is led by IDE Director Sinan Aral. The site menu links the same group name to https://ide.mit.edu/research-group/genai/; the research page body links the address recorded here, which is the one read. Depth pass 2026-11-22: Null: the Applied AI group page says it is led by IDE Director Sinan Aral but lists only co-authors of its papers (several at other universities), with no group roster; the worklist's people link (Aral's own profile) was not used for a count."
     },
     {
       "id": "mit-ide-research-groups-renee-richardson-gosline",
@@ -77,7 +77,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": "https://ide.mit.edu/people/renee-richardson-gosline/",
-      "notes": "Listed among the Research Groups on the IDE research page. The group page says Renée Richardson Gosline leads it."
+      "notes": "Listed among the Research Groups on the IDE research page. The group page says Renée Richardson Gosline leads it. Depth pass 2026-11-22: Null: the Human-First AI group page names Renée Richardson Gosline as lead but lists only paper co-authors, no group roster, and its newest listed work is from 2023. The worklist's people link (Sinan Aral's profile) was ignored."
     }
   ],
   "non_lab_people": [],

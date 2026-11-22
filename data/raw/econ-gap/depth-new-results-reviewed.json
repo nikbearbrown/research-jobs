@@ -1,0 +1,201 @@
+[
+  {
+    "source": "data/sources/hks-cpl.json",
+    "lab_id": "hks-cpl-ncrc",
+    "fields": {
+      "member_count": 6,
+      "member_breakdown": "1 faculty chair, 1 founding director, 1 senior fellow, 2 fellows, 1 senior program coordinator",
+      "members_page_url": "https://ncrc.hks.harvard.edu/about/",
+      "join_page_url": "https://ncrc.hks.harvard.edu/opportunities/",
+      "join_notes": "Student opportunities only: HKS students can apply to the semester Negotiation Coaching Clinic or ask the team about ad hoc work in the Case and Simulation Design Laboratory; no staff openings listed.",
+      "admin_name": null,
+      "admin_email": "collaboratory@hks.harvard.edu",
+      "pi_name": "Brian Mandell",
+      "pi_title": "Faculty Chair",
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted the Team section of the About page (faculty chair Brian Mandell, founding director Monica Giannone, two fellows, a senior fellow, a program coordinator); the 7 listed Affiliates (trainers, advisors, project leads) are left out. Much of the unit's work is negotiation training, alongside research such as Why It Worked."
+  },
+  {
+    "source": "data/sources/hks-cpl.json",
+    "lab_id": "hks-cpl-sici",
+    "fields": {
+      "member_count": 9,
+      "member_breakdown": "1 chair and founder, 1 executive director, 1 managing director, 1 research manager, 1 research fellow, 1 research associate, 1 assistant director of programs, 1 executive assistant, 1 senior coordinator",
+      "members_page_url": "https://sici.hks.harvard.edu/about-us/our-team/",
+      "join_page_url": "https://sici.hks.harvard.edu/about-us/work-with-us/",
+      "join_notes": "The Work With Us page says there are no open positions at this time.",
+      "admin_name": null,
+      "admin_email": null,
+      "pi_name": "Julie Battilana",
+      "pi_title": "Chair and Founder",
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Counted all 9 people on the Our Team page; Julie Battilana is listed as chair and founder and Brittany Butler as executive director."
+  },
+  {
+    "source": "data/sources/hks-cpl.json",
+    "lab_id": "hks-cpl-trotter",
+    "fields": {
+      "member_count": 2,
+      "member_breakdown": "1 faculty director, 1 interim director",
+      "members_page_url": "https://trotter.hks.harvard.edu/people/",
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": "trotter@hks.harvard.edu",
+      "pi_name": "Cornell William Brooks",
+      "pi_title": "Faculty Director",
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "The People page's Team Trotter section shows only two people, founding faculty director Cornell William Brooks and interim director Leila Hamidi; the 8-member advisory board is left out."
+  },
+  {
+    "source": "data/sources/hks-public-interest-tech-lab.json",
+    "lab_id": "hks-public-interest-tech-lab-data-privacy-lab",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": "info@dataprivacylab.org",
+      "pi_name": "Latanya Sweeney",
+      "pi_title": "Founder and Director",
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Null: neither the home page nor the About page lists any people beyond naming Latanya Sweeney as founder and director; the site's copyright lines read 2011-15, so it looks little updated."
+  },
+  {
+    "source": "data/sources/mit-sloan-wos.json",
+    "lab_id": "mit-sloan-wos-gcgj",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Null: gcgj.mit.edu now serves IWER's Good Jobs Resources page at every address tried (the home page and the people link return the same page), so the initiative shows no roster or named lead of its own and appears folded into IWER; IWER's roster was not used."
+  },
+  {
+    "source": "data/sources/mit-sloan-applied-economics.json",
+    "lab_id": "mit-sloan-applied-economics-bpp",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "DEAD: bpp.mit.edu does not resolve (name not found, on the worklist fetch and on a retry), so the site looks taken down; nothing on a page says whether the project has ended."
+  },
+  {
+    "source": "data/sources/mit-sloan-applied-economics.json",
+    "lab_id": "mit-sloan-applied-economics-e2e",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Null: every e2e.mit.edu address tried (Faculty Directors, Staff, also rendered) returns the same front page, so no roster or lead could be read; the page calls E2e a joint Berkeley, Chicago and MIT initiative and its research links point to e2e.uchicago.edu."
+  },
+  {
+    "source": "data/sources/mit-sloan-ties.json",
+    "lab_id": "mit-sloan-ties-reap",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "accepting_grad_students": null,
+      "kind": "faculty-no-lab"
+    },
+    "note": "NOT-A-LAB: MIT REAP is a two-year learning program that admits cohorts of regional leadership teams; its Team page lists 8 faculty and 3 program staff (associate and assistant directors) but no research group, and the worklist's application page is for regions applying, not jobs."
+  },
+  {
+    "source": "data/sources/mit-sloan-ties.json",
+    "lab_id": "mit-sloan-ties-innovation-initiative",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "HUB: innovation.mit.edu now serves MIT's institute-wide Innovation page (an overview linking the Trust Center, InnovationHQ and other groups), which does not mention the Innovation Initiative or list its people; the worklist's people link is MIT's whole-institute directory search and was not used."
+  },
+  {
+    "source": "data/sources/mit-ide-research-groups.json",
+    "lab_id": "mit-ide-research-groups-david-rand",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_title": "Research Affiliate (MIT IDE); Professor, Cornell SC Johnson College of Business",
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Null: the Misinformation & Fake News group page names David Rand as its lead but lists only paper co-authors, not a group roster; it describes him as a research affiliate and a professor at Cornell, and its newest listed paper is from Nov 2024. The worklist's people link (Sinan Aral's profile) was ignored."
+  },
+  {
+    "source": "data/sources/mit-ide-research-groups.json",
+    "lab_id": "mit-ide-research-groups-sinan-aral",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_title": "Director, MIT IDE; Professor, MIT Sloan School of Management",
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Null: the Applied AI group page says it is led by IDE Director Sinan Aral but lists only co-authors of its papers (several at other universities), with no group roster; the worklist's people link (Aral's own profile) was not used for a count."
+  },
+  {
+    "source": "data/sources/mit-ide-research-groups.json",
+    "lab_id": "mit-ide-research-groups-renee-richardson-gosline",
+    "fields": {
+      "member_count": null,
+      "member_breakdown": null,
+      "members_page_url": null,
+      "join_page_url": null,
+      "join_notes": null,
+      "admin_name": null,
+      "admin_email": null,
+      "pi_title": "Research Scientist and Senior Lecturer, MIT Sloan School of Management",
+      "pi_email": null,
+      "accepting_grad_students": null
+    },
+    "note": "Null: the Human-First AI group page names Renée Richardson Gosline as lead but lists only paper co-authors, no group roster, and its newest listed work is from 2023. The worklist's people link (Sinan Aral's profile) was ignored."
+  }
+]

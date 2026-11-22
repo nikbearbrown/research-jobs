@@ -1,0 +1,156 @@
+[
+  {
+    "source": "data/sources/hks-cpl.json",
+    "lab_id": "hks-cpl-ncrc",
+    "pi_name": null,
+    "lab_website": "https://ncrc.hks.harvard.edu/",
+    "home_status": "200",
+    "people_url": null,
+    "join_url": "https://ncrc.hks.harvard.edu/opportunities/",
+    "home_text": "cache/_text/ncrc.hks.harvard.edu/index.txt",
+    "people_text": null
+  },
+  {
+    "source": "data/sources/hks-cpl.json",
+    "lab_id": "hks-cpl-sici",
+    "pi_name": null,
+    "lab_website": "https://sici.hks.harvard.edu/",
+    "home_status": "200",
+    "people_url": "https://sici.hks.harvard.edu/about-us/our-team/",
+    "join_url": null,
+    "home_text": "cache/_text/sici.hks.harvard.edu/index.txt",
+    "people_text": "cache/_text/sici.hks.harvard.edu/about-us-our-team.txt"
+  },
+  {
+    "source": "data/sources/hks-cpl.json",
+    "lab_id": "hks-cpl-trotter",
+    "pi_name": null,
+    "lab_website": "https://trotter.hks.harvard.edu/",
+    "home_status": "200",
+    "people_url": "https://trotter.hks.harvard.edu/people/",
+    "join_url": null,
+    "home_text": "cache/_text/trotter.hks.harvard.edu/index.txt",
+    "people_text": "cache/_text/trotter.hks.harvard.edu/people.txt"
+  },
+  {
+    "source": "data/sources/hks-public-interest-tech-lab.json",
+    "lab_id": "hks-public-interest-tech-lab-data-privacy-lab",
+    "pi_name": null,
+    "lab_website": "https://dataprivacylab.org/",
+    "home_status": "200",
+    "people_url": null,
+    "join_url": null,
+    "home_text": "cache/_text/dataprivacylab.org/index.txt",
+    "people_text": null
+  },
+  {
+    "source": "data/sources/mit-sloan-wos.json",
+    "lab_id": "mit-sloan-wos-gcgj",
+    "pi_name": null,
+    "lab_website": "https://gcgj.mit.edu",
+    "home_status": "200",
+    "people_url": "https://gcgj.mit.edu/institute-work-and-employment-research/people-iwer",
+    "join_url": null,
+    "home_text": "cache/_text/gcgj.mit.edu/index.txt",
+    "people_text": "cache/_text/gcgj.mit.edu/institute-work-and-employment-research-people-iwer.txt"
+  },
+  {
+    "source": "data/sources/mit-sloan-applied-economics.json",
+    "lab_id": "mit-sloan-applied-economics-joint-program",
+    "pi_name": null,
+    "lab_website": "https://globalchange.mit.edu/",
+    "home_status": "200",
+    "people_url": "https://globalchange.mit.edu/about-us/personnel",
+    "join_url": null,
+    "home_text": "cache/_text/globalchange.mit.edu/index.txt",
+    "people_text": "cache/_text/globalchange.mit.edu/about-us-personnel.txt"
+  },
+  {
+    "source": "data/sources/mit-sloan-applied-economics.json",
+    "lab_id": "mit-sloan-applied-economics-bpp",
+    "pi_name": null,
+    "lab_website": "http://bpp.mit.edu/",
+    "home_status": "playwright-error: Page.goto: net::ERR_NAME_NOT_RESOLVED at http://bpp.mit.edu/\nCall log:\n  - navigating to \"http://bpp.mit.edu/\", waiting until \"networkidle\"\n",
+    "people_url": null,
+    "join_url": null,
+    "home_text": null,
+    "people_text": null
+  },
+  {
+    "source": "data/sources/mit-sloan-applied-economics.json",
+    "lab_id": "mit-sloan-applied-economics-e2e",
+    "pi_name": null,
+    "lab_website": "http://e2e.mit.edu/",
+    "home_status": "200",
+    "people_url": null,
+    "join_url": null,
+    "home_text": "cache/_text/e2e.mit.edu/index.txt",
+    "people_text": null
+  },
+  {
+    "source": "data/sources/mit-sloan-ties.json",
+    "lab_id": "mit-sloan-ties-reap",
+    "pi_name": null,
+    "lab_website": "http://reap.mit.edu/",
+    "home_status": "200",
+    "people_url": "https://reap.mit.edu/team/",
+    "join_url": "https://reap.mit.edu/get-involved/application-process/",
+    "home_text": "cache/_text/reap.mit.edu/index.txt",
+    "people_text": "cache/_text/reap.mit.edu/team.txt"
+  },
+  {
+    "source": "data/sources/mit-sloan-ties.json",
+    "lab_id": "mit-sloan-ties-cde",
+    "pi_name": null,
+    "lab_website": "http://legatum.mit.edu/",
+    "home_status": "200",
+    "people_url": null,
+    "join_url": null,
+    "home_text": "cache/_text/legatum.mit.edu/index.txt",
+    "people_text": null
+  },
+  {
+    "source": "data/sources/mit-sloan-ties.json",
+    "lab_id": "mit-sloan-ties-innovation-initiative",
+    "pi_name": null,
+    "lab_website": "https://innovation.mit.edu/",
+    "home_status": "200",
+    "people_url": "https://innovation.mit.edu/search/?redirect-origin=legacy&tab=directory",
+    "join_url": null,
+    "home_text": "cache/_text/innovation.mit.edu/index.txt",
+    "people_text": "cache/_text/innovation.mit.edu/search-redirect-origin-legacy-tab-directory.txt"
+  },
+  {
+    "source": "data/sources/mit-ide-research-groups.json",
+    "lab_id": "mit-ide-research-groups-david-rand",
+    "pi_name": "David Rand",
+    "lab_website": "https://ide.mit.edu/research-group/misinformation-fake-news/",
+    "home_status": "200",
+    "people_url": "https://ide.mit.edu/people/sinan-aral/",
+    "join_url": null,
+    "home_text": "cache/_text/ide.mit.edu/research-group-misinformation-fake-news.txt",
+    "people_text": "cache/_text/ide.mit.edu/people-sinan-aral.txt"
+  },
+  {
+    "source": "data/sources/mit-ide-research-groups.json",
+    "lab_id": "mit-ide-research-groups-sinan-aral",
+    "pi_name": "Sinan Aral",
+    "lab_website": "https://ide.mit.edu/research-group/applied-ai/",
+    "home_status": "200",
+    "people_url": "https://ide.mit.edu/people/sinan-aral/",
+    "join_url": null,
+    "home_text": "cache/_text/ide.mit.edu/research-group-applied-ai.txt",
+    "people_text": "cache/_text/ide.mit.edu/people-sinan-aral.txt"
+  },
+  {
+    "source": "data/sources/mit-ide-research-groups.json",
+    "lab_id": "mit-ide-research-groups-renee-richardson-gosline",
+    "pi_name": "Renée Richardson Gosline",
+    "lab_website": "https://ide.mit.edu/research-group/human-ai-interface/",
+    "home_status": "200",
+    "people_url": "https://ide.mit.edu/people/sinan-aral/",
+    "join_url": null,
+    "home_text": "cache/_text/ide.mit.edu/research-group-human-ai-interface.txt",
+    "people_text": "cache/_text/ide.mit.edu/people-sinan-aral.txt"
+  }
+]

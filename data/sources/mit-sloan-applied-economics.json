@@ -35,28 +35,6 @@
       "notes": "Academic group entry: member_count left null because an academic group is department-like, not a lab. No group head, group email or group-specific jobs page is shown on the group's pages; location and phone are the MIT Sloan school-wide footer details. The worklist's people page is the whole Sloan faculty directory and its about and careers pages are school-wide; they say nothing specific about this group, so no join page is recorded (the careers page only points to MIT staff openings and Sloan faculty openings). The group's Faculty page (fetched) lists full-time, emeritus, affiliated and visiting faculty with no one named as head, and names two research efforts (Billion Prices Project, E2e Project) that are recorded below with the four affiliated centers from the about page."
     },
     {
-      "id": "mit-sloan-applied-economics-joint-program",
-      "kind": "research-lab",
-      "lab_name": "MIT Joint Program on the Science and Policy of Global Change",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
-      "accepting_grad_students": null,
-      "lab_website": "https://globalchange.mit.edu/",
-      "location": null,
-      "phone": null,
-      "admin_name": null,
-      "admin_email": null,
-      "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
-      "profile_url": null,
-      "notes": "Listed on the Applied Economics about page among research centers its faculty are affiliated with; no current lead shown (an emeritus faculty bio on the Faculty page calls Henry Jacoby a former co-director). No blurb; site not read."
-    },
-    {
       "id": "mit-sloan-applied-economics-bpp",
       "kind": "research-lab",
       "lab_name": "The Billion Prices Project",
@@ -76,7 +54,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Named on the Applied Economics Faculty page as research by group faculty; no lead is named there. Site not read."
+      "notes": "Named on the Applied Economics Faculty page as research by group faculty; no lead is named there. Site not read. Depth pass 2026-11-22: Not sized, the site could not be read: bpp.mit.edu does not resolve (name not found, on the worklist fetch and on a retry), so the site looks taken down; nothing on a page says whether the project has ended."
     },
     {
       "id": "mit-sloan-applied-economics-e2e",
@@ -98,9 +76,9 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Named on the Applied Economics Faculty page as an interdisciplinary initiative group faculty take part in; no lead is named and it is not presented as run by the group. Site not read."
+      "notes": "Named on the Applied Economics Faculty page as an interdisciplinary initiative group faculty take part in; no lead is named and it is not presented as run by the group. Site not read. Depth pass 2026-11-22: Null: every e2e.mit.edu address tried (Faculty Directors, Staff, also rendered) returns the same front page, so no roster or lead could be read; the page calls E2e a joint Berkeley, Chicago and MIT initiative and its research links point to e2e.uchicago.edu."
     }
   ],
   "non_lab_people": [],
-  "notes": "Read the about page and fetched the group's Faculty page (1 extra fetch). The worklist people page is the whole Sloan faculty directory and was not used. The about page says group faculty are affiliated with the four listed centers; it does not say the group runs them. Left out because the directory already has them (3): MIT Center for Energy and Environmental Policy Research (target mit-ceepr); MIT Laboratory for Financial Engineering (target mit-lfe); MIT Sloan Health Systems Initiative (target mit-sloan-health-systems)."
+  "notes": "Read the about page and fetched the group's Faculty page (1 extra fetch). The worklist people page is the whole Sloan faculty directory and was not used. The about page says group faculty are affiliated with the four listed centers; it does not say the group runs them. Left out because the directory already has them (3): MIT Center for Energy and Environmental Policy Research (target mit-ceepr); MIT Laboratory for Financial Engineering (target mit-lfe); MIT Sloan Health Systems Initiative (target mit-sloan-health-systems). Left out on reading (2026-11-22): MIT Joint Program on the Science and Policy of Global Change, whose site now presents as the Center for Sustainability Science and Strategy, already target mit-cs3."
 }

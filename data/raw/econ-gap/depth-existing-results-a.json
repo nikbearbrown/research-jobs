@@ -1,0 +1,398 @@
+[
+ {
+  "source": "data/sources/harvard-hbs-ai-institute.json",
+  "lab_id": "harvard-hbs-ai-institute-climate-and-sustainability-impact-lab",
+  "fields": {
+   "member_count": 9,
+   "member_breakdown": "3 principal investigators, 3 faculty, 2 postdoctoral fellows, 1 assistant lab director",
+   "members_page_url": "https://aiinstitute.hbs.edu/labs/climate-and-sustainability-impact-lab/",
+   "join_page_url": "https://aiinstitute.hbs.edu/work-with-us/",
+   "join_notes": "Institute-wide Work With Us page for the HBS AI Institute, not specific to this lab; when read it listed a Research Manager, AI staff role and a postdoctoral fellowship with the Laboratory for Innovation Science.",
+   "admin_name": "Christina Jarymowycz",
+   "admin_email": "cjarymowycz@hbs.edu",
+   "pi_name": "George Serafeim",
+   "pi_title": "Principal Investigator; Charles M. Williams Professor of Business Administration",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the Team section of the lab's own page; the other principal investigators are Mike Toffel and Peter Tufano. Left out one postdoctoral affiliate based at Harvard SEAS and one doctoral student affiliate. Assistant Lab Director Christina Jarymowycz is the listed contact."
+ },
+ {
+  "source": "data/sources/harvard-hbs-ai-institute.json",
+  "lab_id": "harvard-hbs-ai-institute-customer-intelligence-lab",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": "https://aiinstitute.hbs.edu/work-with-us/",
+   "join_notes": "Institute-wide Work With Us page for the HBS AI Institute, not specific to this lab; when read it listed a Research Manager, AI staff role and a postdoctoral fellowship with the Laboratory for Innovation Science.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_name": "Madhav Kumar",
+   "pi_title": "Assistant Professor of Business Administration, Marketing (lab co-lead)",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Null: the lab's page names only its two faculty leads, Madhav Kumar and Sunil Gupta (Edward W. Carter Professor of Business Administration), with no team list, and the institute's team page covers all labs together."
+ },
+ {
+  "source": "data/sources/harvard-hbs-ai-institute.json",
+  "lab_id": "harvard-hbs-ai-institute-data-science-and-ai-operations-lab",
+  "fields": {
+   "member_count": 13,
+   "member_breakdown": "3 faculty co-leads, 1 postdoctoral research fellow, 2 research associates, 7 doctoral students",
+   "members_page_url": "https://aiinstitute.hbs.edu/labs/data-science-and-ai-operations-lab/",
+   "join_page_url": "https://aiinstitute.hbs.edu/work-with-us/",
+   "join_notes": "Institute-wide Work With Us page for the HBS AI Institute, not specific to this lab; when read it listed a Research Manager, AI staff role and a postdoctoral fellowship with the Laboratory for Innovation Science.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_name": "Iavor Bojinov",
+   "pi_title": "Associate Professor of Business Administration, Harvard Business School (co-PI)",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the People section of the lab's own page: leads Iavor Bojinov, Edward McFowland III and Michael Lingzhi Li, plus the researchers it names as active in the lab. Left out one postdoctoral researcher based at Stanford."
+ },
+ {
+  "source": "data/sources/harvard-hbs-ai-institute.json",
+  "lab_id": "harvard-hbs-ai-institute-digital-reskilling-lab",
+  "fields": {
+   "member_count": 6,
+   "member_breakdown": "2 principal investigators, 1 assistant director of labs, 1 postdoctoral fellow, 2 research associates",
+   "members_page_url": "https://aiinstitute.hbs.edu/digital-reskilling/our-team/",
+   "join_page_url": "https://aiinstitute.hbs.edu/work-with-us/",
+   "join_notes": "Institute-wide Work With Us page for the HBS AI Institute, not specific to this lab; when read it listed a Research Manager, AI staff role and a postdoctoral fellowship with the Laboratory for Innovation Science.",
+   "admin_name": "Christina Jarymowycz",
+   "admin_email": null,
+   "pi_name": "Raffaella Sadun",
+   "pi_title": "Principal Investigator",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the lab's own People page: principal investigators Raffaella Sadun and Jorge Tamayo, a lab manager and three researchers. Left out 2 affiliated PhD students, 9 research collaborators and the former members. The lab's contact page shows only a form."
+ },
+ {
+  "source": "data/sources/harvard-hbs-ai-institute.json",
+  "lab_id": "harvard-hbs-ai-institute-platform-lab",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": "https://aiinstitute.hbs.edu/work-with-us/",
+   "join_notes": "Institute-wide Work With Us page for the HBS AI Institute, not specific to this lab; when read it listed a Research Manager, AI staff role and a postdoctoral fellowship with the Laboratory for Innovation Science.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_name": "Feng Zhu",
+   "pi_title": "MBA Class of 1958 Professor of Business Administration (lab co-lead)",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Null: the lab's page names only its two faculty leads, Feng Zhu and Chiara Farronato (Glenn and Mary Jane Creamer Associate Professor of Business Administration), and no team."
+ },
+ {
+  "source": "data/sources/harvard-hbs-ai-institute.json",
+  "lab_id": "harvard-hbs-ai-institute-pricing-lab",
+  "fields": {
+   "member_count": 5,
+   "member_breakdown": "2 founders and principal investigators, 1 postdoctoral fellow, 2 research assistants",
+   "members_page_url": "https://www.pricinglab.org",
+   "join_page_url": "https://aiinstitute.hbs.edu/work-with-us/",
+   "join_notes": "Institute-wide Work With Us page for the HBS AI Institute, not specific to this lab; when read it listed a Research Manager, AI staff role and a postdoctoral fellowship with the Laboratory for Innovation Science.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_name": "Alberto Cavallo",
+   "pi_title": "Founder & Principal Investigator; Thomas S. Murphy Professor of Business Administration",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the Our Team section of the lab's own site, linked from its institute page: Alberto Cavallo, co-founder Alexander MacKay (University of Virginia), a postdoc and two RAs, who are shown with other universities' names. Left out 4 research collaborators."
+ },
+ {
+  "source": "data/sources/harvard-hbs-ai-institute.json",
+  "lab_id": "harvard-hbs-ai-institute-psychology-and-ai-lab",
+  "fields": {
+   "member_count": 11,
+   "member_breakdown": "1 lab director, 5 postdoctoral fellows, 4 PhD students, 1 research assistant",
+   "members_page_url": "https://www.amitgoldenberg.com/people",
+   "join_page_url": "https://aiinstitute.hbs.edu/work-with-us/",
+   "join_notes": "Institute-wide Work With Us page for the HBS AI Institute, not specific to this lab; when read it listed a Research Manager, AI staff role and a postdoctoral fellowship with the Laboratory for Innovation Science.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_name": "Amit Goldenberg",
+   "pi_title": "Associate Professor of Business Administration (lab lead)",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the People page of the Goldenberg Lab site that the lab's institute page links to. One postdoc there places the lab within the institute under its old D^3 name, but the site never uses the name Psychology and AI Lab. Left out a visiting PhD student, an affiliate and alumni. The site's Join page was not read."
+ },
+ {
+  "source": "data/sources/harvard-hbs-ai-institute.json",
+  "lab_id": "harvard-hbs-ai-institute-tech-for-all-lab",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": "https://aiinstitute.hbs.edu/work-with-us/",
+   "join_notes": "Institute-wide Work With Us page for the HBS AI Institute, not specific to this lab; when read it listed a Research Manager, AI staff role and a postdoctoral fellowship with the Laboratory for Innovation Science.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_name": "Rembrand M. Koning",
+   "pi_title": "Mary V. and Mark A. Stevens Associate Professor of Business Administration (lab co-lead)",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Null: the lab's page names only its leads, Rem Koning and Tarun Khanna (Jorge Paulo Lemann Professor), plus one research affiliate at INSEAD, and no team."
+ },
+ {
+  "source": "data/sources/harvard-hbs-ai-institute.json",
+  "lab_id": "harvard-hbs-ai-institute-trustworthy-ai-lab",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": "https://aiinstitute.hbs.edu/work-with-us/",
+   "join_notes": "Institute-wide Work With Us page for the HBS AI Institute, not specific to this lab; when read it listed a Research Manager, AI staff role and a postdoctoral fellowship with the Laboratory for Innovation Science.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_name": "Marco Iansiti",
+   "pi_title": "David Sarnoff Professor of Business Administration (lab co-lead)",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Null: the lab's page names only its three faculty leads, Marco Iansiti, Himabindu Lakkaraju and Salil Vadhan (SEAS), and no team."
+ },
+ {
+  "source": "data/sources/harvard-hls-clje.json",
+  "lab_id": "harvard-hls-clje-cljelab",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": "clje@law.harvard.edu",
+   "pi_name": null,
+   "pi_title": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Null: the CLJE:Lab page names no lead and lists no team, and the people page is the whole Center for Labor and a Just Economy roster (faculty directors, staff, fellows, research associates), not this lab's. The email is the center's general contact."
+ },
+ {
+  "source": "data/sources/hks-ash.json",
+  "lab_id": "hks-ash-erica-chenoweth",
+  "fields": {
+   "member_count": 7,
+   "member_breakdown": "1 faculty lead, 1 lead research fellow, 1 senior research fellow, 1 predoctoral fellow, 1 research project manager, 2 research associates",
+   "members_page_url": "https://ash.harvard.edu/programs/nonviolent-action-lab/",
+   "join_page_url": "https://ash.harvard.edu/careers-and-fellowships/",
+   "join_notes": "Ash Center-wide careers and fellowships page; when read it had no Nonviolent Action Lab openings (center fellowships such as the Democracy Visiting Fellowship, one staff role, and a research assistant post for another program).",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_name": "Erica Chenoweth",
+   "pi_title": "Frank Stanton Professor of the First Amendment",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the Meet the Team section of the lab's page. Left out a visiting fellow, a fellow now listed as non-resident for AY2026-2027, and a senior fellow whose listed term was AY2025-2026. The Ash people page covers the whole center."
+ },
+ {
+  "source": "data/sources/hks-ash.json",
+  "lab_id": "hks-ash-danielle-allen",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": "https://ash.harvard.edu/careers-and-fellowships/",
+   "join_notes": "Allen Lab Fellowships: a Research Fellowship for emerging scholars within 5 years of their degree (in person in Cambridge) and a Policy Fellowship for faculty, mid-career practitioners and policymakers, both listed on the Ash Center careers and fellowships page.",
+   "admin_name": null,
+   "admin_email": "allenlabadmin@hks.harvard.edu",
+   "pi_name": "Danielle Allen",
+   "pi_title": "Professor of Public Policy, James Bryant Conant University Professor",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Null: the lab page lists 4 lab staff (Danielle Allen, a senior lab director, an associate director, a coordinator) and 28 fellows and researchers. These mix term-limited policy and research fellows (one non-resident, one from the Berkman Klein Center), Harvard student researchers and one person with no lab role shown, so the core group isn't clear."
+ },
+ {
+  "source": "data/sources/hks-ash.json",
+  "lab_id": "hks-ash-randall-akee",
+  "fields": {
+   "member_count": 6,
+   "member_breakdown": "1 director, 1 senior program director, 1 program director, 1 assistant director, 1 program and faculty assistant, 1 outreach and communications coordinator",
+   "members_page_url": "https://ash.harvard.edu/programs/project-on-indigenous-governance-and-development/",
+   "join_page_url": "https://ash.harvard.edu/careers-and-fellowships/",
+   "join_notes": "Visiting Research Fellowships for scholars at several career stages whose research supports Native nations' self-governance, listed on the Ash Center careers and fellowships page.",
+   "admin_name": null,
+   "admin_email": "indigenousgov@hks.harvard.edu",
+   "pi_name": "Randall Akee",
+   "pi_title": "Director, Project on Indigenous Governance and Development and Julie Johnson Kidd Professor of Indigenous Governance and Development",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the Meet the Team section of the program's Ash Center page. The project's own site (indigenousgov.hks.harvard.edu) refused access when fetched."
+ },
+ {
+  "source": "data/sources/hks-ash.json",
+  "lab_id": "hks-ash-democracy-informed-public",
+  "fields": {
+   "member_count": 13,
+   "member_breakdown": "2 co-directors, 1 program director, 1 program coordinator, 1 director of research projects, 8 research assistants",
+   "members_page_url": "https://ash.harvard.edu/programs/democracy-and-the-informed-public/",
+   "join_page_url": "https://ash.harvard.edu/careers-and-fellowships/",
+   "join_notes": "Hiring a research assistant (Information and the Workplace) for AY2026-2027, 10-15 hours a week, working with Archon Fung and David Weil; send a resume and cover letter to lwainaina@hks.harvard.edu.",
+   "admin_name": "Jessica Creighton",
+   "admin_email": "jessica_creighton@hks.harvard.edu",
+   "pi_name": "Archon Fung",
+   "pi_title": "Co-Director of the Program on Democracy and the Informed Public; Director, Ash Center for Democratic Governance and Innovation",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the Meet the Team section of the program page (its Show more button only reveals names already on the page): co-directors Archon Fung and David Weil, three staff and eight research assistants."
+ },
+ {
+  "source": "data/sources/hks-ash.json",
+  "lab_id": "hks-ash-rajawali-institute-for-asia",
+  "fields": {
+   "member_count": 30,
+   "member_breakdown": "1 director, 1 executive director, 15 other staff and program directors, 6 research fellows, 2 postdoctoral fellows, 2 senior research fellows, 2 post-master's research fellows, 1 researcher",
+   "members_page_url": "https://rajawali.hks.harvard.edu/our-team/",
+   "join_page_url": null,
+   "join_notes": null,
+   "admin_name": null,
+   "admin_email": null,
+   "pi_name": "Anthony Saich",
+   "pi_title": "Director of the Rajawali Foundation Institute for Asia; Daewoo Research Professor of International Affairs",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted all three pages of the Our Team list (50 people; pages 2 and 3 fetched). Left out 5 affiliated faculty, 8 PhD student fellows, 2 nonresident fellows, 3 visiting scholars or fellows, a senior fellow whose term was AY2025-2026 and a Fulbright language teaching assistant. Two adjunct lecturers who direct institute programs are counted as program directors."
+ },
+ {
+  "source": "data/sources/hks-bloomberg-cities.json",
+  "lab_id": "hks-bloomberg-cities-justin-de-benedictis-kessner",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": "https://www.cities.harvard.edu/about/about-jobs/",
+   "join_notes": "The lab is hiring a postdoctoral research fellow to start July 2027 (one-year term, renewable; $81,000; on campus at least three days a week); apply with CV, cover letter, writing sample and two references, due by November 22, 2026. The center's jobs page also lists Spring 2027 research assistant posts for enrolled Harvard students, and the lab page has an interest form.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_name": "Justin de Benedictis-Kessner",
+   "pi_title": "Faculty Director; Associate Professor of Public Policy, Harvard Kennedy School",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Null: the lab page lists 13 'affiliates' (HKS and HLS faculty, faculty at other universities, Harvard PhD students and two postdocs) without marking a core team, and there is no separate people page."
+ },
+ {
+  "source": "data/sources/hks-bloomberg-cities.json",
+  "lab_id": "hks-bloomberg-cities-liz-mckenna",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": "https://civicpowerlab.us/connect",
+   "join_notes": "One rolling interest form for research assistants (2-4 most years), senior RAs or pre-docs, postdocs (1-2 a year), Harvard PhD students seeking advising, visiting scholars and engineers; openings are filled first from people already in the queue.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_name": "Liz McKenna",
+   "pi_title": null,
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Null: the lab's site (home and connect pages) lists no team members and names McKenna only in a press headline."
+ },
+ {
+  "source": "data/sources/hks-bloomberg-cities.json",
+  "lab_id": "hks-bloomberg-cities-elizabeth-linos",
+  "fields": {
+   "member_count": 14,
+   "member_breakdown": "1 faculty director, 1 research director, 1 director of operations, 1 research manager, 1 senior research associate, 1 research associate, 4 doctoral research fellows, 1 predoctoral research fellow, 1 undergraduate research fellow, 1 PhD student, 1 senior executive assistant and faculty program manager",
+   "members_page_url": "https://peoplelab.hks.harvard.edu/our-team/",
+   "join_page_url": "https://peoplelab.hks.harvard.edu/careers/",
+   "join_notes": "Openings for a full-time Senior Research Associate Fellow (graduate degree and 3+ years of experience) and a full-time Research Associate Fellow; other questions to peoplelab@hks.harvard.edu.",
+   "admin_name": null,
+   "admin_email": "peoplelab@hks.harvard.edu",
+   "pi_name": "Elizabeth Linos",
+   "pi_title": "Faculty Director",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the Staff and Students section of the Our Team page; left out 13 affiliates (outside faculty, visiting fellows, government staff) and the alumni list."
+ },
+ {
+  "source": "data/sources/hks-bloomberg-cities.json",
+  "lab_id": "hks-bloomberg-cities-kimberlyn-leary",
+  "fields": {
+   "member_count": 13,
+   "member_breakdown": "1 faculty director, 1 faculty assistant and project manager, 1 senior strategic advisor, 5 fellows, 1 research associate, 4 undergraduate research associates",
+   "members_page_url": "https://www.cities.harvard.edu/initiatives/good-services-lab/",
+   "join_page_url": "https://www.cities.harvard.edu/about/about-jobs/",
+   "join_notes": "No lab-specific openings; the lab page has an interest form, and the center-wide jobs page listed Spring 2027 research assistant posts for enrolled Harvard students and a senior director role.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_name": "Kimberlyn Leary",
+   "pi_title": "Faculty Director, Founder",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the Our People section of the lab page: faculty director Kimberlyn Leary, her faculty assistant, a senior strategic advisor, 5 fellows and 5 research associates."
+ },
+ {
+  "source": "data/sources/hks-bloomberg-cities.json",
+  "lab_id": "hks-bloomberg-cities-stephen-goldsmith",
+  "fields": {
+   "member_count": null,
+   "member_breakdown": null,
+   "members_page_url": null,
+   "join_page_url": "https://www.cities.harvard.edu/about/about-jobs/",
+   "join_notes": "Center-wide jobs page; when read it listed no Data-Smart City Solutions openings.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_name": "Stephen Goldsmith",
+   "pi_title": "Derek Bok Professor of the Practice of Urban Policy and the Director of Data-Smart City Solutions",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Null: the program page names director Stephen Goldsmith but lists no team, and its own site (datasmart.hks.harvard.edu) refused access when fetched. The unit works largely as a resource hub for cities (podcast, case studies, columns) alongside papers."
+ },
+ {
+  "source": "data/sources/hks-bloomberg-cities.json",
+  "lab_id": "hks-bloomberg-cities-carole-carlson",
+  "fields": {
+   "member_count": 43,
+   "member_breakdown": "1 executive director, 33 staff (program delivery, curriculum and writing, city support, student engagement, research), 9 research assistants, associates and interim or co-op roles",
+   "members_page_url": "https://www.cityleadership.harvard.edu/about/staff/",
+   "join_page_url": "https://www.cityleadership.harvard.edu/careers/",
+   "join_notes": "One listing when read (Senior Director, City Talent and Student Career Pathways, for the Bloomberg Center) plus a pointer to the center's job listings; the home page also mentions paid city fellowships and research opportunities for Harvard students.",
+   "admin_name": null,
+   "admin_email": null,
+   "pi_name": "Carole Carlson",
+   "pi_title": "Executive Director",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the Staff and Fellows page, leaving out the Bloomberg Center for Cities' own executive director who is also listed. Much of the initiative's work is executive education for mayors and city staff, alongside a research team (senior director of research, research associates, RAs)."
+ },
+ {
+  "source": "data/sources/hks-taubman.json",
+  "lab_id": "hks-taubman-government-performance-lab",
+  "fields": {
+   "member_count": 29,
+   "member_breakdown": "1 director, 1 executive director, 12 directors and assistant directors, 8 project leaders, 5 government innovation fellows, 2 research and writing fellows",
+   "members_page_url": "https://govlab.hks.harvard.edu/our-people/",
+   "join_page_url": "https://govlab.hks.harvard.edu/working-at-gpl/",
+   "join_notes": "Not hiring when read; the fellowship application window usually opens in late winter or early spring, and past applications asked for a resume and short written answers. Entry roles are Government Innovation Fellows and Research and Writing Fellows.",
+   "admin_name": null,
+   "admin_email": "govlab@hks.harvard.edu",
+   "pi_name": "Jeffrey Liebman",
+   "pi_title": "Director",
+   "pi_email": null,
+   "accepting_grad_students": null
+  },
+  "note": "Counted the Our People page: 14 leadership team members (director Jeffrey Liebman, executive director Gloria Gong and policy and operations directors), 8 project leaders and 7 fellows; alumni are on a separate page."
+ }
+]

@@ -36,7 +36,7 @@
     },
     {
       "id": "mit-sloan-ties-reap",
-      "kind": "research-lab",
+      "kind": "faculty-no-lab",
       "lab_name": "MIT REAP",
       "pi_name": null,
       "pi_title": null,
@@ -54,29 +54,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on the TIES Faculty, Centers & Initiatives page as a center its faculty are affiliated with; no lead or blurb shown; its site was not read."
-    },
-    {
-      "id": "mit-sloan-ties-cde",
-      "kind": "research-lab",
-      "lab_name": "Center for Development and Entrepreneurship at MIT",
-      "pi_name": null,
-      "pi_title": null,
-      "pi_email": null,
-      "accepting_grad_students": null,
-      "lab_website": "http://legatum.mit.edu/",
-      "location": null,
-      "phone": null,
-      "admin_name": null,
-      "admin_email": null,
-      "research_summary": null,
-      "member_count": null,
-      "member_breakdown": null,
-      "members_page_url": null,
-      "join_page_url": null,
-      "join_notes": null,
-      "profile_url": null,
-      "notes": "Listed on the TIES Faculty, Centers & Initiatives page as a center its faculty are affiliated with; no lead or blurb shown. The link goes to a legatum.mit.edu address; site not read."
+      "notes": "Listed on the TIES Faculty, Centers & Initiatives page as a center its faculty are affiliated with; no lead or blurb shown; its site was not read. Depth pass 2026-11-22: Not sized, this is not a research group: MIT REAP is a two-year learning program that admits cohorts of regional leadership teams; its Team page lists 8 faculty and 3 program staff (associate and assistant directors) but no research group, and the worklist's application page is for regions applying, not jobs."
     },
     {
       "id": "mit-sloan-ties-innovation-initiative",
@@ -98,7 +76,7 @@
       "join_page_url": null,
       "join_notes": null,
       "profile_url": null,
-      "notes": "Listed on the TIES Faculty, Centers & Initiatives page as a center its faculty are affiliated with; no lead or blurb shown; its site was not read."
+      "notes": "Listed on the TIES Faculty, Centers & Initiatives page as a center its faculty are affiliated with; no lead or blurb shown; its site was not read. Depth pass 2026-11-22: Not sized, the site is not this unit's own: innovation.mit.edu now serves MIT's institute-wide Innovation page (an overview linking the Trust Center, InnovationHQ and other groups), which does not mention the Innovation Initiative or list its people; the worklist's people link is MIT's whole-institute directory search and was not used."
     },
     {
       "id": "mit-sloan-ties-donald-sull",
@@ -124,5 +102,5 @@
     }
   ],
   "non_lab_people": [],
-  "notes": "Read the about page and fetched the Faculty, Centers & Initiatives page (1 extra fetch). The worklist people page is the whole Sloan faculty directory and was not used. Cusumano's bio also mentions a co-director role in a System Design and Management unit, cut off in the text; that is a degree program and is not recorded. Left out because the directory already has them (1): Martin Trust Center for MIT Entrepreneurship (target mit-trust-center)."
+  "notes": "Read the about page and fetched the Faculty, Centers & Initiatives page (1 extra fetch). The worklist people page is the whole Sloan faculty directory and was not used. Cusumano's bio also mentions a co-director role in a System Design and Management unit, cut off in the text; that is a degree program and is not recorded. Left out because the directory already has them (1): Martin Trust Center for MIT Entrepreneurship (target mit-trust-center). Left out on reading (2026-11-22): Center for Development and Entrepreneurship at MIT, whose address (legatum.mit.edu) now serves the MIT Kuo Sharper Center for Prosperity and Entrepreneurship, already target mit-kuo-sharper."
 }
